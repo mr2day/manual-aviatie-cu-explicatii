@@ -667,33 +667,17 @@ details.question-more .more-body {
   font-weight: 700;
 }
 
-.answer-head {
- display: flex;
- flex-wrap: wrap;
- align-items: center;
- line-height: 1.4;
- justify-content: space-between;
- gap: 0.25rem 0.75rem;
-}
-
-.answer-head .answer-text {
- flex: 1 1 auto;
- padding-top: 0;
-}
-
 .answer-tag {
- display: inline-flex;
- flex: 1 1 auto;
- align-items: center;
- justify-content: center;
- gap: 6px;
+ display: inline;
  color: #ff9800;
  font-weight: 700;
  font-size: 0.9rem;
  white-space: nowrap;
- margin-left: 0.75rem;
+ margin-left: 0.5em;
 }
 
 .answer-tag svg {
- flex: none;
+ display: inline-block;
+ vertical-align: -3px;
+ margin-right: 4px;
 }
