@@ -88,6 +88,12 @@
         li.appendChild(el('span', 'letter', 'ABCD'.charAt(k)));
         var body = el('div', 'answer-body');
         body.appendChild(el('span', 'answer-text', a.text));
+        if (a.tag) {
+          var tag = el('span', 'answer-tag');
+          tag.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M12 2 1 21h22L12 2zm0 6.5 6.8 11.5H5.2L12 8.5zM11 11v4h2v-4h-2zm0 5v2h2v-2h-2z"/></svg>';
+          tag.appendChild(document.createTextNode(' - ' + a.tag));
+          body.appendChild(tag);
+        }
         if (a.short) body.appendChild(el('p', 'answer-short', a.short));
         if (a.long) {
           var det = more('', a.long, 'answer-more');

@@ -666,3 +666,13 @@ details.question-more .more-body {
   color: #ff6b6b;
   font-weight: 700;
 }
+
+.answer-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: #ff9800;
+  font-weight: 700;
+  font-size: 0.9rem;
+  margin-left: 0.3rem;
+}
