@@ -134,10 +134,10 @@
   function renderDoc(d) {
     var main = document.getElementById('content');
     main.textContent = '';
-    main.appendChild(el('h1', 'doc-title', d.title));
+    if (d.title) main.appendChild(el('h1', 'doc-title', d.title));
     var meta = el('p', 'doc-meta');
     meta.innerHTML = d.meta;
-    main.appendChild(meta);
+    if (d.meta) main.appendChild(meta);
     var body = el('div', 'doc-body');
     body.innerHTML = d.html;
     main.appendChild(body);
