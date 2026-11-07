@@ -24,11 +24,20 @@ un avertisment (`warn`) și explicația corectă.
 | 02 Cunoașterea aeronavei / întreținere | 104 | făcut, cu 3 blocate (44, 81, 93) |
 | 03 Legislație | 105 | 1–105 făcute, cu 4 blocate (20, 58, 90, 105): lipsesc sursele |
 | 04 Meteorologie | 87 | făcut, cu 7 blocate pe figuri (22, 29, 44, 67, 72, 80, 86): răspunsul depinde de desen, care nu e în repo |
-| 05 Navigație | 94 | nefăcut |
+| 05 Navigație | 94 | făcut, cu 3 blocate: 19 (simbolul de pe hartă; explicația A e încă goală), 34 (figură; răspunsul depinde de desen) |
 | 06 Performanțe de zbor | 101 | făcut, cu 2 blocate (8: distanța de ocolire a aerodromului nu e în docs; 66: amestecul ulei–benzină, durata nu e confirmată) |
-| 07 Performanțe umane | 119 | nefăcut |
-| 08 Proceduri operaționale | 117 | nefăcut |
-| 09 Principii de zbor | 103 | nefăcut |
+| 07 Performanțe umane | 119 | făcut, cu 2 blocate (41: 12 ore după alcool nu e în docs; 69: cifra de 8 ore nu e confirmată) |
+| 08 Proceduri operaționale | 117 | făcut, cu 5 blocate (9: direcția virajului după decolare; 31: cifra de 600 m; 53: amerizare cu vânt slab; 94 și 106: procedura constructorului) |
+| 09 Principii de zbor | 103 | făcut |
+
+### Blocate, care cer material de la tine
+
+- **Figuri** (desenul nu e în `docs/`): 04: 22, 29, 44, 67, 72, 80, 86 (explicațiile la variante, nu la întrebare); 05: 34 și răspunsul la variante.
+- **Anexa 14 ICAO** (marcaje de aerodrom): 01 nu, 03: 20, 90; 05: 19 (simbol de hartă, explicația A e goală).
+- **Asigurare și procedură**: 03: 58.
+- **Eșalonare turbulență de siaj**: 03: 105.
+- **Certificat de operator / ANCOM**: 01: 23, 32, 73, 81, 93 (nu am sursă pentru cifrele și procedurile).
+- **Aerodrom și alcool**: 06: 8, 66; 07: 41, 69; 08: 9, 31, 53, 94, 106; 02: 44, 81, 93.
 
 ### Capitolul 03: blocat de surse lipsă
 
@@ -60,10 +69,10 @@ un avertisment (`warn`) și explicația corectă.
 7. [x] Capitol 04 (lotul 1: Q1–36, lotul 2: Q35–70, lotul 3: Q71–87).
        Blocate pe figuri: 22, 29, 44, 67, 72, 80, 86. Figurile (imagini cu zone
        1–4, a–d) trebuie puse în docs/ ca să pot descrie zona corectă.
-8. [ ] Capitol 05
+8. [x] Capitol 05 (lotul 1–4). Blocate: 19, 34.
 9. [x] Capitol 06 (lotul 1: Q1–34, lotul 2: Q35–68, lotul 3: Q69–101). Blocate: 8, 66.
-10. [ ] Capitol 07
-11. [ ] Capitol 08
-12. [ ] Capitol 09
+10. [x] Capitol 07. Blocate: 41, 69.
+11. [x] Capitol 08. Blocate: 9, 31, 53, 94, 106.
+12. [x] Capitol 09 (lotul 1–3).
 13. [ ] Verificare finală: nicio explicație care e doar instrucțiune, niciun
         „banca”/„simulator”, toate întrebările au explicații la toate variantele.
