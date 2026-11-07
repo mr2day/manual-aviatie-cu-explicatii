@@ -1,0 +1,5 @@
+
+# Documente originale (PDF, DOC, TXT) — păstrate în branch-ul documente-originale, nu în main
+docs/*.pdf
+docs/*.doc
+docs/*.txt
