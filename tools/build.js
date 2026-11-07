@@ -23,11 +23,6 @@ const html = `<!DOCTYPE html>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <header class="site-header">
-    <div class="header-inner">
-      <div class="brand"><strong>SKY</strong><span>TRANSYLVANIA</span></div>
-    </div>
-  </header>
   <div class="layout">
     <aside class="sidebar">
       <nav class="topics" id="topics"></nav>
