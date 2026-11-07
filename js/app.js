@@ -58,6 +58,13 @@
       h2.appendChild(document.createTextNode(q.text.replace(/^\d+:\s*/, '')));
       section.appendChild(h2);
       section.appendChild(el('p', 'question-short', q.short));
+      if (q.image) {
+        var fig = el('img', 'question-image');
+        fig.src = q.image;
+        fig.alt = 'Figura întrebării ' + (index + 1);
+        fig.loading = 'lazy';
+        section.appendChild(fig);
+      }
       section.appendChild(more('Explicație detaliată', q.long));
 
       var ol = el('ol', 'answers');
