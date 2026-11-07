@@ -780,12 +780,12 @@ details.question-more .more-body {
 /* Meniu: pe desktop bara laterală rămâne vizibilă; pe mobil devine un sertar care se deschide din butonul Meniu */
 [hidden] { display: none !important; }
 .sidebar-label {
-  margin: 0 0 0.6rem;
-  font-size: 0.72rem;
+  margin: 2.5rem 0 0.4rem;
+  font-family: var(--font-head);
+  font-size: 1.2rem;
   font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--accent);
+  letter-spacing: 0.5px;
+  color: var(--heading);
 }
 .menu-toggle { display: none; }
 .menu-backdrop { display: none; }
