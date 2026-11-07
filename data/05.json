@@ -2526,34 +2526,34 @@
    "number": "#71",
    "text": "964: Care este unghiul dintre nordul geografic și nordul magnetic dacă busola indică 15 grade est?",
    "short": "Unghiul dintre nordul geografic și nordul magnetic, dacă busola indică 15° est, este 15° est.",
-   "long": "Declinația magnetică este unghiul dintre nordul geografic și cel magnetic. Varianta corectă indică 15° est, care este valoarea din enunț. Verifică declinația reală pe harta zonei, deoarece depinde de loc și de an.",
+   "long": "Busola arată direcția magnetică. Dacă indică 15° est, adică nordul magnetic este cu 15° spre est față de nordul geografic, unghiul dintre cele două nordi este de 15° est.",
    "answers": [
     {
      "text": "15 grade vest",
      "correct": false,
      "short": "15° vest.",
-     "long": "Sensul este invers.",
+     "long": "15° vest ar fi unghiul dacă nordul magnetic ar fi spre vest.",
      "warn": ""
     },
     {
      "text": "0 grade",
      "correct": false,
      "short": "0°.",
-     "long": "Declinația nu este nulă aici.",
+     "long": "0° nu este corect: busola indică o diferență de 15°.",
      "warn": ""
     },
     {
      "text": "15 grade est",
      "correct": true,
      "short": "15° est.",
-     "long": "",
+     "long": "Corect. Diferența dintre norduri este de 15° est.",
      "warn": ""
     },
     {
      "text": "30 grade est",
      "correct": false,
      "short": "30° est.",
-     "long": "Dublează valoarea, greșit.",
+     "long": "30° est ar fi dublul valorii date de busolă.",
      "warn": ""
     }
    ]
@@ -2562,34 +2562,34 @@
    "number": "#72",
    "text": "978: O parapantă zboară cu o viteză de 45 km/h și întâlnește un vânt din față de 15 km/h. Care este viteza sa la sol?",
    "short": "O parapantă care zboară cu 45 km/h și întâlnește un vânt din față de 15 km/h are viteza la sol de 30 km/h.",
-   "long": "Cu vânt din față, viteza la sol = viteza față de aer − vânt = 45 − 15 = 30 km/h.",
+   "long": "Vântul din față scade viteza față de sol: 45 − 15 = 30 km/h.",
    "answers": [
     {
      "text": "15 km/h",
      "correct": false,
      "short": "",
-     "long": "Ar fi viteza vântului, nu rezultanta.",
+     "long": "15 km/h este viteza vântului, nu viteza la sol.",
      "warn": ""
     },
     {
      "text": "60 km/h",
      "correct": false,
      "short": "",
-     "long": "Ar fi cu vânt din spate.",
+     "long": "60 km/h ar fi dacă vântul ar fi din spate și s-ar aduna.",
      "warn": ""
     },
     {
      "text": "45 km/h",
      "correct": false,
      "short": "",
-     "long": "Ar fi fără vânt.",
+     "long": "45 km/h este viteza față de aer, nu viteza la sol.",
      "warn": ""
     },
     {
      "text": "30 km/h",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă: 45 − 15 = 30.",
+     "long": "Corect. 45 − 15 = 30 km/h.",
      "warn": ""
     }
    ]
@@ -2598,34 +2598,34 @@
    "number": "#73",
    "text": "892: Este ora 18. Zburaţi în linie dreaptă, cu soarele in faţă. Compasul vă indică 080º. Deduceţi că:",
    "short": "La ora 18, cu soarele în față și compasul pe 080°, afirmația că mergi spre est, cu soarele apus în vest, este falsă.",
-   "long": "La 18:00 soarele este în vest. Dacă îl ai în față, zbori spre vest, adică aproximativ 270°. Compasul pe 080° indică est. Deci nu poți avea soarele în față și compasul pe 080°, ceea ce face afirmația falsă.",
+   "long": "La 18:00 soarele apune în vest. Dacă soarele este în față, zburăm spre vest. Busola indică 080°, adică est. Deci informația nu corespunde: afirmația că zburăm spre sud este falsă.",
    "answers": [
     {
      "text": "nu putem deduce nimic",
      "correct": false,
      "short": "",
-     "long": "Se poate deduce, pe baza soarelui și a direcției.",
+     "long": "Din soare și busolă se poate deduce că direcția de zbor nu corespunde soarelui. Se poate deduce ceva.",
      "warn": ""
     },
     {
      "text": "compasul indică o direcție de deplasare catre Est, iar soarele apune la Vest, afirmația este falsă",
      "correct": true,
      "short": "Compasul indică o direcție de deplasare către est, iar soarele apune la vest, afirmația este falsă.",
-     "long": "",
+     "long": "Corect. Busola indică est, iar soarele apune în vest: afirmația este falsă.",
      "warn": ""
     },
     {
      "text": "este interzis zborul cu vânt de față",
      "correct": false,
      "short": "",
-     "long": "Nu este legat de enunț.",
+     "long": "Zborul cu vânt de față nu este interzis. Întrebarea nu este despre vânt.",
      "warn": ""
     },
     {
      "text": "este exact",
      "correct": false,
      "short": "",
-     "long": "Compasul pe 080° și soarele în față nu sunt compatibile.",
+     "long": "Afirmația nu este exactă: soarele apune în vest, iar busola arată est.",
      "warn": ""
     }
    ]
@@ -2634,34 +2634,34 @@
    "number": "#74",
    "text": "896: Ne propune să traversăm o zonă muntoasă, cum vom zbura din punctul A în punctul B?",
    "short": "Pentru a traversa o zonă muntoasă, ocolim vârfurile peste 3200 m și zburăm aproape de locurile de aterizare și de căile de acces pentru recuperare.",
-   "long": "Zona muntoasă cere planificare: ocolirea vârfurilor care depășesc limita, păstrarea unei distanțe de siguranță față de relief și apropierea de locurile de aterizare. Nu se zboară în linie dreaptă indiferent de relief, nici nu se urmează punctele fără a verifica zona.",
+   "long": "La traversarea zonei muntoase, se ocolesc vârfurile la o distanță sigură și se zboară aproape de locurile de aterizare și de căile de acces, pentru a putea ateriza în caz de urgență.",
    "answers": [
     {
      "text": "zburăm în linie dreaptă indiferent de înălțimea față de sol și obstacolele din fața noastră",
      "correct": false,
      "short": "Zburăm în linie dreaptă indiferent de înălțimea față de sol și obstacolele din față.",
-     "long": "Este periculos.",
+     "long": "Zborul în linie dreaptă, indiferent de relief, poate duce la contact cu obstacolele și la turbulență de munte.",
      "warn": ""
     },
     {
      "text": "toate variantele sunt greșite",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "Nu toate variantele sunt greșite: varianta D descrie corect alegerea unei rute cu aterizări posibile.",
      "warn": ""
     },
     {
      "text": "ne setăm puncte pe aplicația de navigație pe care o folosim și nu ne abatem de la ele chiar dacă asta presupune să traversăm o zonă fără loc de aterizare",
      "correct": false,
      "short": "Ne setăm puncte pe aplicația de navigație și nu ne abatem de la ele, chiar dacă trecem printr-o zonă fără loc de aterizare.",
-     "long": "Este periculos, nu ține cont de locurile de aterizare.",
+     "long": "Aplicația de navigație este utilă, dar nu înlocuiește alegerea unei rute care permite ateriza în caz de urgență.",
      "warn": ""
     },
     {
      "text": "ocolim vârfurile peste 3200m și zburăm cât mai aproape de locurile de aterizare și căile de acces pentru recuperare în caz de urgență",
      "correct": true,
      "short": "Ocolim vârfurile peste 3200 m și zburăm cât mai aproape de locurile de aterizare și căile de acces pentru recuperare în caz de urgență.",
-     "long": "",
+     "long": "Corect. Se ocolesc vârfurile și se zboară aproape de zonele de aterizare, pentru siguranță.",
      "warn": ""
     }
    ]
@@ -2670,34 +2670,34 @@
    "number": "#75",
    "text": "916: Care sunt reperele liniare pe o hartă?",
    "short": "Reperele liniare de pe hartă sunt căile ferate, șoselele și râurile.",
-   "long": "Reperele liniare sunt elemente lungi care se văd ușor din aer și ajută la orientare: căile ferate, drumurile și râurile. Podurile mari, fabricile izolate și silozurile sunt repere punctuale.",
+   "long": "Reperele liniare sunt elemente care se întind pe distanță: căile ferate, șoselele și râurile. Ele ajută la orientare pe traseu.",
    "answers": [
     {
      "text": "căi ferate, șosele, râuri",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Căile ferate, șoselele și râurile sunt repere liniare.",
      "warn": ""
     },
     {
      "text": "poduri mari, fabrici izolate, silozuri",
      "correct": false,
      "short": "",
-     "long": "Sunt repere punctuale, nu liniare.",
+     "long": "Podurile, fabricile și silozurile sunt repere punctiforme, nu liniare.",
      "warn": ""
     },
     {
      "text": "orase, lacuri, terenuri",
      "correct": false,
      "short": "Orașe, lacuri, terenuri.",
-     "long": "Sunt suprafețe sau puncte, nu linii.",
+     "long": "Orașele și lacurile sunt zone sau puncte, nu repere liniare.",
      "warn": ""
     },
     {
      "text": "păduri, râuri, clădiri",
      "correct": false,
      "short": "",
-     "long": "Pădurile și clădirile nu sunt repere liniare.",
+     "long": "Pădurile și clădirile sunt zone sau puncte, nu repere liniare.",
      "warn": ""
     }
    ]
@@ -2706,34 +2706,34 @@
    "number": "#76",
    "text": "961: Care este declinația magnetică dacă zbori spre nord și busola indică 10 grade spre est?",
    "short": "Dacă zbori spre nord și busola indică 10° est, declinația magnetică este 10° est.",
-   "long": "Varianta corectă indică 10° est. Declinația este diferența dintre nordul geografic și nordul magnetic. Verifică valoarea reală pe harta zonei.",
+   "long": "Zburând spre nord, busola indică 10° est: nordul magnetic este la est de nordul geografic. Declinația este de 10° est.",
    "answers": [
     {
      "text": "0 grade",
      "correct": false,
      "short": "0°.",
-     "long": "Declinația nu este nulă aici.",
+     "long": "0° nu corespunde: busola arată 10° diferență.",
      "warn": ""
     },
     {
      "text": "20 grade est",
      "correct": false,
      "short": "20° est.",
-     "long": "Dublează valoarea.",
+     "long": "20° est ar fi dublul diferenței.",
      "warn": ""
     },
     {
      "text": "10 grade vest",
      "correct": false,
      "short": "10° vest.",
-     "long": "Sensul este invers.",
+     "long": "10° vest ar fi direcția greșită: busola arată spre est.",
      "warn": ""
     },
     {
      "text": "10 grade est",
      "correct": true,
      "short": "10° est.",
-     "long": "",
+     "long": "Corect. Declinația este de 10° est.",
      "warn": ""
     }
    ]
@@ -2742,34 +2742,34 @@
    "number": "#77",
    "text": "960: Dacă zbori spre soare cu soarele la răsărit, în ce direcție te deplasezi?",
    "short": "Dacă zbori spre soare, cu soarele la răsărit, te deplasezi spre est.",
-   "long": "Soarele răsare în est. Dacă zbori spre el, zbori spre est.",
+   "long": "Soarele răsare în est. Dacă zburăm spre soarele care răsare, mergem spre est.",
    "answers": [
     {
      "text": "vest",
      "correct": false,
      "short": "",
-     "long": "Spre vest soarele ar fi în spate.",
+     "long": "Vestul este direcția opusă soarelui care răsare.",
      "warn": ""
     },
     {
      "text": "nord",
      "correct": false,
      "short": "",
-     "long": "Spre nord soarele ar fi în dreapta.",
+     "long": "Nordul nu este direcția soarelui care răsare.",
      "warn": ""
     },
     {
      "text": "sud",
      "correct": false,
      "short": "",
-     "long": "Spre sud soarele ar fi în stânga.",
+     "long": "Sudul nu este direcția soarelui care răsare.",
      "warn": ""
     },
     {
      "text": "est",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Soarele răsare în est, deci mergem spre est.",
      "warn": ""
     }
    ]
@@ -2778,34 +2778,34 @@
    "number": "#78",
    "text": "925: Documentul de bază pentru informarea tuturor operatorilor în vederea efectuării activității de zbor pe teritoriul României este:",
    "short": "Documentul de bază pentru informarea operatorilor în vederea zborului pe teritoriul României este AIP (Aeronautical Information Publication).",
-   "long": "AIP România este publicația oficială care conține informații aeronautice: spații aeriene, aerodromuri, frecvențe și proceduri. Este documentul de bază pentru zborul în România.",
+   "long": "AIP (Aeronautical Information Publication) este publicația oficială de informare aeronautică pentru toți operatorii care zboară în România.",
    "answers": [
     {
      "text": "F.I.R",
      "correct": false,
      "short": "",
-     "long": "FIR este o regiune de informare, nu documentul de bază.",
+     "long": "FIR este regiunea de informare a zborurilor, nu documentul de bază pentru operatori.",
      "warn": ""
     },
     {
      "text": "M.T.S",
      "correct": false,
      "short": "",
-     "long": "Nu este documentul de informare aeronautică.",
+     "long": "MTS nu este documentul de bază pentru operatori.",
      "warn": ""
     },
     {
      "text": "N.A.V",
      "correct": false,
      "short": "",
-     "long": "Nu este documentul de bază.",
+     "long": "NAV nu este documentul de bază pentru informarea operatorilor.",
      "warn": ""
     },
     {
      "text": "A.I.P",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. AIP este publicația oficială de informare aeronautică.",
      "warn": ""
     }
    ]
@@ -2814,34 +2814,34 @@
    "number": "#79",
    "text": "947: Un pilot zboară pe un traseu cu o lungime de 50 km la o viteză la sol de 80 km/h. Cât timp îi va lua să parcurgă traseul?",
    "short": "Pentru un traseu de 50 km cu viteza la sol de 80 km/h, timpul este 37,5 minute.",
-   "long": "Timp = 50 / 80 = 0,625 h, adică 0,625 × 60 = 37,5 minute.",
+   "long": "Timpul = distanța / viteza: 50 km / 80 km/h = 0,625 h, adică 0,625 × 60 = 37,5 minute.",
    "answers": [
     {
      "text": "60 minute",
      "correct": false,
      "short": "",
-     "long": "Ar fi cu viteza de 50 km/h.",
+     "long": "60 minute ar corespunde unei viteze de 50 km/h.",
      "warn": ""
     },
     {
      "text": "75 minute",
      "correct": false,
      "short": "",
-     "long": "Ar fi cu viteza de 40 km/h.",
+     "long": "75 minute ar corespunde unei viteze de 40 km/h.",
      "warn": ""
     },
     {
      "text": "45 minute",
      "correct": false,
      "short": "",
-     "long": "Ar fi cu viteza de 66,7 km/h.",
+     "long": "45 minute ar corespunde unei viteze de aproximativ 66,7 km/h.",
      "warn": ""
     },
     {
      "text": "37.5 minute",
      "correct": true,
      "short": "37,5 minute.",
-     "long": "Este varianta corectă.",
+     "long": "Corect. 50 : 80 = 0,625 h = 37,5 minute.",
      "warn": ""
     }
    ]
@@ -2850,34 +2850,34 @@
    "number": "#80",
    "text": "920: Vizibilitatea scăzută:",
    "short": "Vizibilitatea scăzută poate fi cauzată de fum, ceață sau ploaie.",
-   "long": "Vizibilitatea scade din cauza fumului, ceții, ploii, zăpezii sau a altor particule din aer. Vizibilitatea redusă afectează zborul VFR și cere atenție sporită sau amânarea zborului.",
+   "long": "Vizibilitatea scăzută este cauzată de fum, ceață sau ploaie, care reduc distanța până la care se văd repere.",
    "answers": [
     {
      "text": "implică utilizarea de lumini de navigație",
      "correct": false,
      "short": "",
-     "long": "Luminile sunt utile, dar nu definesc vizibilitatea scăzută.",
+     "long": "Luminile de navigație nu sunt efectul vizibilității scăzute, ci o măsură de semnalizare.",
      "warn": ""
     },
     {
      "text": "nu influențeaza zborurile VFR",
      "correct": false,
      "short": "Nu influențează zborurile VFR.",
-     "long": "Influențează zborurile VFR.",
+     "long": "Vizibilitatea scăzută influențează zborul VFR, care cere vizibilitate minimă.",
      "warn": ""
     },
     {
      "text": "reprezintă distanța pe verticală de la care se pot observa reperele de la sol",
      "correct": false,
      "short": "",
-     "long": "Aceasta nu este definiția.",
+     "long": "Distanța pe verticală de la care se văd reperele nu este definiția vizibilității.",
      "warn": ""
     },
     {
      "text": "poate fi cauzată de fum, ceață, ploaie",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Fumul, ceața și ploaia reduc vizibilitatea.",
      "warn": ""
     }
    ]
@@ -2886,34 +2886,34 @@
    "number": "#81",
    "text": "957: O parapantă cu motor zboară 100 km în două ore cu un vânt din față de 10 km/h. Care este viteza față de aer?",
    "short": "Dacă zbori 100 km în două ore cu vânt din față de 10 km/h, viteza față de aer este 60 km/h.",
-   "long": "Viteza la sol = 100 / 2 = 50 km/h. Cu vânt din față, viteza față de aer = viteza la sol + vânt = 50 + 10 = 60 km/h.",
+   "long": "Viteza față de sol este 100 km / 2 h = 50 km/h. Vântul din față scade viteza la sol, deci viteza față de aer este 50 + 10 = 60 km/h.",
    "answers": [
     {
      "text": "70 km/h",
      "correct": false,
      "short": "",
-     "long": "Ar fi cu vânt de 20 km/h.",
+     "long": "70 km/h ar fi 50 + 20, cu vânt de 20 km/h.",
      "warn": ""
     },
     {
      "text": "80 km/h",
      "correct": false,
      "short": "",
-     "long": "Ar fi cu vânt de 30 km/h.",
+     "long": "80 km/h ar fi 50 + 30.",
      "warn": ""
     },
     {
      "text": "50 km/h",
      "correct": false,
      "short": "",
-     "long": "Este viteza la sol, nu față de aer.",
+     "long": "50 km/h este viteza la sol, nu viteza față de aer.",
      "warn": ""
     },
     {
      "text": "60 km/h",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. 50 + 10 = 60 km/h viteza față de aer.",
      "warn": ""
     }
    ]
@@ -2922,34 +2922,34 @@
    "number": "#82",
    "text": "945: Ce este un traiect?",
    "short": "Traiectul este traseul de la decolare până la aterizare.",
-   "long": "Traiectul este traseul real parcurs de la decolare la aterizare. Diferența dintre altitudinea reală și cea GPS, distanța pe verticală și raportul dintre viteze nu sunt definiții ale traiectului.",
+   "long": "Traiectul este traseul de la decolare până la aterizare, adică drumul efectiv parcurs.",
    "answers": [
     {
      "text": "diferența între altitudinea reală și altitudinea GPS",
      "correct": false,
      "short": "",
-     "long": "Aceasta este o eroare de altitudine.",
+     "long": "Diferența dintre altitudinea reală și cea GPS nu este traiectul.",
      "warn": ""
     },
     {
      "text": "traseul de la decolare până la aterizare",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Traiectul este traseul de la decolare la aterizare.",
      "warn": ""
     },
     {
      "text": "viteza solului raportată la viteza aerului",
      "correct": false,
      "short": "",
-     "long": "Aceasta este un raport de viteze.",
+     "long": "Viteza solului față de aer nu este traiectul.",
      "warn": ""
     },
     {
      "text": "distanța pe verticală între două puncte",
      "correct": false,
      "short": "",
-     "long": "Aceasta este diferența de altitudine.",
+     "long": "Distanța pe verticală nu este traiectul.",
      "warn": ""
     }
    ]
@@ -2958,34 +2958,34 @@
    "number": "#83",
    "text": "888: Cu ce culoare sunt de obicei reprezentate pe harta pădurile?",
    "short": "Pădurile se reprezintă de obicei pe hartă cu verde.",
-   "long": "Pe hărțile topografice, pădurile sunt colorate în verde, apele în albastru, iar localitățile și drumurile în alte culori. Culorile sunt standardizate pe hartă.",
+   "long": "Pe hartă, pădurile se reprezintă de regulă în verde.",
    "answers": [
     {
      "text": "culori inchise",
      "correct": false,
      "short": "Culori închise.",
-     "long": "Nu este convenția standard.",
+     "long": "Culorile închise nu sunt convenția pentru păduri pe hartă.",
      "warn": ""
     },
     {
      "text": "maro",
      "correct": false,
      "short": "",
-     "long": "Maroul se folosește pentru relief, nu pentru păduri.",
+     "long": "Maro este convenția pentru relief sau altitudini mari, nu pentru păduri.",
      "warn": ""
     },
     {
      "text": "nu exista o regulă",
      "correct": false,
      "short": "Nu există o regulă.",
-     "long": "Există convenție standard.",
+     "long": "Există o convenție, care este verdele.",
      "warn": ""
     },
     {
      "text": "verde",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Pădurile sunt reprezentate în verde.",
      "warn": ""
     }
    ]
@@ -2994,34 +2994,34 @@
    "number": "#84",
    "text": "929: Ce este pilotajul?",
    "short": "Pilotajul este zborul folosind o hartă, jurnal și repere vizuale.",
-   "long": "Pilotajul este navigația vizuală, bazată pe hartă, pe reperele de la sol și pe ținerea evidenței traseului. Zborul pe distanțe lungi fără repere sau navigarea doar cu GPS și ceas sau doar cu busola nu sunt definiția pilotajului.",
+   "long": "Pilotajul este navigarea prin hartă, jurnalul de drum și reperele vizuale de pe sol.",
    "answers": [
     {
      "text": "zborul folosind o hartă, jurnal și repere vizuale",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Pilotajul înseamnă harta, jurnalul și reperele vizuale.",
      "warn": ""
     },
     {
      "text": "zborul pe distanțe lungi fără repere vizuale",
      "correct": false,
      "short": "",
-     "long": "Pilotajul folosește repere vizuale.",
+     "long": "Zborul pe distanțe lungi fără repere vizuale nu este pilotajul.",
      "warn": ""
     },
     {
      "text": "navigarea cu ajutorul unui GPS și a unui ceas",
      "correct": false,
      "short": "",
-     "long": "Nu este pilotajul, ci navigația GPS.",
+     "long": "Navigația doar cu GPS și ceas nu este pilotajul.",
      "warn": ""
     },
     {
      "text": "utilizarea exclusivă a busolei pentru navigare",
      "correct": false,
      "short": "",
-     "long": "Pilotajul nu se bazează doar pe busolă.",
+     "long": "Busola exclusivă nu este pilotajul.",
      "warn": ""
     }
    ]
@@ -3030,34 +3030,34 @@
    "number": "#85",
    "text": "893: Zborul la 5m de sol cu soare de față este interzis pentru că:",
    "short": "Zborul la 5 m de sol, cu soarele în față, nu este permis, cu excepția procedurii de decolare și aterizare, pentru că este interzis zborul la această înălțime.",
-   "long": "Zborul la înălțimi foarte mici este restricționat, cu excepția decolării și aterizării. Soarele în față nu este motivul interdicției, iar înălțimea maximă nu este nereglementată.",
+   "long": "Zborul la 5 m deasupra solului este interzis în afara decolării și aterizării, deoarece regulamentul cere înălțime minimă de 150 m deasupra solului pentru zborul VFR, cu excepțiile legate de decolare și aterizare (RACR-RA 4.060).",
    "answers": [
     {
      "text": "Se poate zbura cu vânt de față doar la înălțimi ce depășesc 100m",
      "correct": false,
      "short": "Se poate zbura cu vânt de față doar la înălțimi ce depășesc 100 m.",
-     "long": "Nu este regula.",
+     "long": "Vântul de față nu are legătură cu înălțimea de zbor interzisă.",
      "warn": ""
     },
     {
      "text": "Zborul cu soare de față este interzis",
      "correct": false,
      "short": "",
-     "long": "Soarele în față nu este motivul interdicției.",
+     "long": "Zborul cu soarele în față nu este interzis de regulament.",
      "warn": ""
     },
     {
      "text": "Nu este reglementată înalțimea maximă de zbor",
      "correct": false,
      "short": "Nu este reglementată înălțimea maximă de zbor.",
-     "long": "Înălțimea este reglementată.",
+     "long": "Înălțimea minimă este reglementată (RACR-RA 4.060), deci afirmația că nu este reglementată este greșită.",
      "warn": ""
     },
     {
      "text": "Este interzis să zburăm la aceasta înălțime cu exceptie de procedura de aterizare si decolare",
      "correct": true,
      "short": "Este interzis să zburăm la această înălțime, cu excepția procedurii de aterizare și decolare.",
-     "long": "",
+     "long": "Corect. Zborul la această înălțime este interzis, cu excepția decolării și aterizării.",
      "warn": ""
     }
    ]
@@ -3066,34 +3066,34 @@
    "number": "#86",
    "text": "936: Ce este UTC?",
    "short": "UTC este ora coordonată universală.",
-   "long": "UTC este ora de referință internațională, derivată din meridianul zero. Ora locală a aerodromului de plecare sau de sosire nu este referința comună.",
+   "long": "UTC înseamnă ora coordonată universală, referința de timp a aviației.",
    "answers": [
     {
      "text": "ora coordonată universală",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. UTC este ora coordonată universală.",
      "warn": ""
     },
     {
      "text": "ora locală a aerodromului de plecare",
      "correct": false,
      "short": "",
-     "long": "Este ora locală, nu UTC.",
+     "long": "Ora locală a aerodromului de plecare nu este UTC.",
      "warn": ""
     },
     {
      "text": "ora locală a aerodromului de sosire",
      "correct": false,
      "short": "",
-     "long": "Este ora locală, nu UTC.",
+     "long": "Ora locală a aerodromului de sosire nu este UTC.",
      "warn": ""
     },
     {
      "text": "ora locală la meridianul 0",
      "correct": false,
      "short": "",
-     "long": "Este apropiată, dar denumirea este ora coordonată universală.",
+     "long": "Ora locală la meridianul 0 este UTC în practică, dar denumirea completă este ora coordonată universală.",
      "warn": ""
     }
    ]
@@ -3102,34 +3102,34 @@
    "number": "#87",
    "text": "971: Care este scopul utilizării unei hărți în navigația cu parapanta?",
    "short": "Scopul utilizării unei hărți în navigația cu parapanta este vizualizarea terenului și alegerea punctelor de reper.",
-   "long": "Harta arată relieful, drumurile, localitățile, cursurile de apă și zonele restricționate. Pe baza ei alegi reperele și traseul. Nu măsoară combustibilul, altitudinea sau vântul.",
+   "long": "Harta arată terenul, relieful, obstacolele și reperele, ceea ce permite alegerea punctelor de reper și planificarea traseului.",
    "answers": [
     {
      "text": "Pentru a verifica nivelul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Harta nu arată combustibilul.",
+     "long": "Nivelul de combustibil nu se verifică pe hartă.",
      "warn": ""
     },
     {
      "text": "Pentru a vizualiza terenul și a alege punctele de reper",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Harta arată terenul și permite alegerea reperelor.",
      "warn": ""
     },
     {
      "text": "Pentru a măsura altitudinea",
      "correct": false,
      "short": "",
-     "long": "Altitudinea se măsoară cu altimetrul.",
+     "long": "Altitudinea nu se măsoară pe hartă, ci cu altimetrul.",
      "warn": ""
     },
     {
      "text": "Pentru a calcula viteza vântului",
      "correct": false,
      "short": "",
-     "long": "Vântul nu se calculează din hartă.",
+     "long": "Viteza vântului nu se calculează pe hartă, ci din zbor sau din prognoză.",
      "warn": ""
     }
    ]
@@ -3138,34 +3138,34 @@
    "number": "#88",
    "text": "950: Ce efect are un vânt de față de 10 km/h asupra unei parapante cu motor care zboară cu 40 km/h?",
    "short": "Un vânt de față de 10 km/h reduce viteza la sol la 30 km/h, pentru o parapantă cu motor care zboară cu 40 km/h.",
-   "long": "Vântul din față se scade din viteza față de aer: 40 − 10 = 30 km/h.",
+   "long": "Vântul de față de 10 km/h scade viteza față de sol: 40 − 10 = 30 km/h.",
    "answers": [
     {
      "text": "reduce viteza la sol la 20 km/h",
      "correct": false,
      "short": "",
-     "long": "Ar fi cu vânt de 20 km/h.",
+     "long": "20 km/h ar fi dacă vântul ar fi de 20 km/h.",
      "warn": ""
     },
     {
      "text": "nu are niciun efect asupra vitezei la sol",
      "correct": false,
      "short": "",
-     "long": "Vântul afectează viteza la sol.",
+     "long": "Vântul de față are efect, deci viteza la sol nu rămâne 40.",
      "warn": ""
     },
     {
      "text": "educe viteza la sol la 30 km/h",
      "correct": true,
      "short": "Reduce viteza la sol la 30 km/h.",
-     "long": "Este varianta corectă.",
+     "long": "Corect. 40 − 10 = 30 km/h.",
      "warn": ""
     },
     {
      "text": "mărește viteza la sol la 50 km/h",
      "correct": false,
      "short": "",
-     "long": "Ar fi cu vânt din spate.",
+     "long": "50 km/h ar fi cu vânt de spate, nu de față.",
      "warn": ""
     }
    ]
@@ -3174,34 +3174,34 @@
    "number": "#89",
    "text": "952: Cum afectează un vânt lateral de 15 km/h zborul unei parapante cu motor care zboară la 50 km/h?",
    "short": "Un vânt lateral de 15 km/h deviază direcția de zbor a unei parapante cu motor care zboară cu 50 km/h.",
-   "long": "Vântul lateral nu schimbă doar viteza, ci și direcția: aeronava trebuie să corecteze capul pentru a menține traiectul. Viteza la sol devine √(50² + 15²) ≈ 52,2 km/h, deci nu rămâne 50.",
+   "long": "Vântul lateral împinge aeronava din direcția de zbor, deci deviază traiectul. Pilotul trebuie să corecteze cu cap compas.",
    "answers": [
     {
      "text": "nu are niciun efect asupra direcției de zbor",
      "correct": false,
      "short": "",
-     "long": "Vântul lateral deviază direcția.",
+     "long": "Vântul lateral afectează direcția, fiindcă împinge aeronava lateral.",
      "warn": ""
     },
     {
      "text": "crește viteza la sol la 65 km/h",
      "correct": false,
      "short": "",
-     "long": "Vântul lateral nu se adună aritmetic.",
+     "long": "Vântul lateral nu crește viteza la sol cu 15 km/h. Îl deviază, iar viteza la sol este rezultanta.",
      "warn": ""
     },
     {
      "text": "deviază direcția de zbor",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Vântul lateral deviază direcția de zbor.",
      "warn": ""
     },
     {
      "text": "scade viteza la sol la 35 km/h",
      "correct": false,
      "short": "",
-     "long": "Vântul lateral nu scade viteza cu 15.",
+     "long": "Vântul lateral nu scade viteza la sol cu 15 km/h. Viteza la sol se calculează din vectori.",
      "warn": ""
     }
    ]
@@ -3210,34 +3210,34 @@
    "number": "#90",
    "text": "958: Dacă zburați spre nord și vântul bate din vest, care va fi direcția de deplasare rezultantă?",
    "short": "Dacă zbori spre nord și vântul bate din vest, direcția rezultantă este nord-est.",
-   "long": "Vântul din vest împinge aeronava spre est. Combinat cu deplasarea spre nord, rezultanta este spre nord-est.",
+   "long": "Zburând spre nord, cu vântul din vest, aeronava este împinsă spre est. Rezultanta este nord-est.",
    "answers": [
     {
      "text": "sud-est",
      "correct": false,
      "short": "",
-     "long": "Direcția este greșită.",
+     "long": "Sud-estul este opusul direcției de deriva spre est și nord.",
      "warn": ""
     },
     {
      "text": "nord-est",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Vântul din vest împinge spre est, deci rezultanta este nord-est.",
      "warn": ""
     },
     {
      "text": "sud-vest",
      "correct": false,
      "short": "",
-     "long": "Direcția este greșită.",
+     "long": "Sud-vestul este direcția opusă.",
      "warn": ""
     },
     {
      "text": "nord-vest",
      "correct": false,
      "short": "",
-     "long": "Vântul din vest împinge spre est, nu spre vest.",
+     "long": "Nord-vestul ar fi cu vânt din est.",
      "warn": ""
     }
    ]
@@ -3246,34 +3246,34 @@
    "number": "#91",
    "text": "941: Ce este un VOR?",
    "short": "VOR este o metodă de navigație folosită de piloții de avioane pentru a determina cursul și locația.",
-   "long": "VOR este un radiofar VHF care oferă radialul față de stație. Este folosit mai ales de avioane, dar nu este un instrument pentru motoparapantă. Balizele de aterizare, comunicarea și altimetrul sunt alte funcții.",
+   "long": "VOR (VHF Omnidirectional Range) este un radiofar de navigație, care arată pilotului cursul și poziția față de stație.",
    "answers": [
     {
      "text": "o metodă de navigație folosită de piloții de avioane pentru a determina cursul și locația",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. VOR este o metodă de navigație pentru determinarea cursului și poziției.",
      "warn": ""
     },
     {
      "text": "un tip de baliză utilizată pentru aterizări",
      "correct": false,
      "short": "",
-     "long": "Balizele de aterizare sunt alt echipament.",
+     "long": "Balizele de aterizare sunt alt tip de echipament, nu VOR.",
      "warn": ""
     },
     {
      "text": "o metodă de comunicare între piloți",
      "correct": false,
      "short": "",
-     "long": "VOR este de navigație, nu de comunicare.",
+     "long": "Comunicarea între piloți nu este VOR.",
      "warn": ""
     },
     {
      "text": "un instrument folosit pentru a măsura altitudinea",
      "correct": false,
      "short": "",
-     "long": "VOR nu măsoară altitudinea.",
+     "long": "Altimetrul măsoară altitudinea, nu VOR.",
      "warn": ""
     }
    ]
@@ -3282,34 +3282,34 @@
    "number": "#92",
    "text": "943: Ce este un azimut?",
    "short": "Azimutul este unghiul dintre un obiect și nordul geografic, măsurat pe un plan orizontal.",
-   "long": "Azimutul se măsoară pe orizontală, de la nordul geografic în sensul acelor de ceasornic, până la direcția obiectului. Viteza aerului, distanța verticală și diferența de altitudine nu sunt azimutul.",
+   "long": "Azimutul este unghiul dintre nordul geografic (sau magnetic) și direcția spre un obiect, măsurat în plan orizontal, în sensul acelor de ceasornic.",
    "answers": [
     {
      "text": "o metodă de calcul al vitezei aerului",
      "correct": false,
      "short": "",
-     "long": "Nu este definiția azimutului.",
+     "long": "Viteza aerului nu este azimutul.",
      "warn": ""
     },
     {
      "text": "distanța pe verticală între două puncte de pe suprafață",
      "correct": false,
      "short": "",
-     "long": "Aceasta este diferența de altitudine.",
+     "long": "Distanța pe verticală nu este azimutul.",
      "warn": ""
     },
     {
      "text": "diferența între altitudine și nivelul mării",
      "correct": false,
      "short": "",
-     "long": "Aceasta este altitudinea.",
+     "long": "Diferența dintre altitudine și nivelul mării nu este azimutul.",
      "warn": ""
     },
     {
      "text": "unghiul dintre un obiect și nordul geografic măsurat pe un plan orizontal",
      "correct": true,
      "short": "Unghiul dintre un obiect și nordul geografic, măsurat pe un plan orizontal.",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Azimutul este unghiul față de nord, în plan orizontal.",
      "warn": ""
     }
    ]
@@ -3318,34 +3318,34 @@
    "number": "#93",
    "text": "972: De ce este importantă estimarea vitezei la sol în timpul planificării zborului?",
    "short": "Estimarea vitezei la sol este importantă pentru a calcula timpul necesar până la destinație.",
-   "long": "Viteza la sol împreună cu distanța dau timpul de zbor. Este esențială pentru combustibil, planificarea pauzelor și calculul orei de sosire. Nu determină variația magnetică sau altitudinea.",
+   "long": "Viteza la sol determină timpul de zbor până la destinație: timpul = distanța / viteza la sol.",
    "answers": [
     {
      "text": "Pentru a verifica nivelul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Viteza la sol ajută, dar varianta corectă este calculul timpului.",
+     "long": "Combustibilul se estimează separat, cu consumul motorului.",
      "warn": ""
     },
     {
      "text": "Pentru a ajusta variația magnetică",
      "correct": false,
      "short": "",
-     "long": "Viteza nu ajustează variația magnetică.",
+     "long": "Variația magnetică nu se ajustează cu viteza la sol.",
      "warn": ""
     },
     {
      "text": "Pentru a calcula timpul necesar pentru a ajunge la destinație",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Viteza la sol permite calculul timpului de zbor.",
      "warn": ""
     },
     {
      "text": "Pentru a determina altitudinea de zbor",
      "correct": false,
      "short": "",
-     "long": "Viteza nu determină altitudinea.",
+     "long": "Altitudinea se stabilește din alte considerente, nu din viteza la sol.",
      "warn": ""
     }
    ]
@@ -3354,34 +3354,34 @@
    "number": "#94",
    "text": "933: Care este scopul navigației?",
    "short": "Scopul navigației este zborul pe o traiectorie dorită deasupra solului și sosirea la destinație la un timp estimat.",
-   "long": "Navigația urmărește ca aeronava să ajungă unde a planificat, pe traseul dorit și în timpul estimat. Pentru asta combină harta, busola, GPS-ul și calculul vitezei la sol.",
+   "long": "Scopul navigației este menținerea traiectoriei dorite față de sol și sosirea la destinație la timpul estimat.",
    "answers": [
     {
      "text": "zborul pe o traiectorie dorită deasupra solului și sosirea la destinație la un timp estimat",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Navigația urmărește traiectoria și timpul estimat de sosire.",
      "warn": ""
     },
     {
      "text": "zborul pe distanțe scurte folosind repere vizuale",
      "correct": false,
      "short": "",
-     "long": "Nu este scopul general al navigației.",
+     "long": "Zborul pe distanțe scurte cu repere este pilotajul, nu scopul navigației.",
      "warn": ""
     },
     {
      "text": "utilizarea busolei pentru a găsi direcția nordului magnetic",
      "correct": false,
      "short": "",
-     "long": "Este doar un instrument.",
+     "long": "Busola ajută la direcție, dar nu este scopul navigației.",
      "warn": ""
     },
     {
      "text": "planificarea unui traseu fără a ține cont de condițiile meteo",
      "correct": false,
      "short": "",
-     "long": "Navigația ține cont de meteo.",
+     "long": "Condițiile meteo sunt luate în calcul în navigație, nu ignorate.",
      "warn": ""
     }
    ]
