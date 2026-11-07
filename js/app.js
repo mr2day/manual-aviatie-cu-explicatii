@@ -57,7 +57,6 @@
       // Codul (ex. "698: ") nu se mai afișează
       h2.appendChild(document.createTextNode(q.text.replace(/^\d+:\s*/, '')));
       section.appendChild(h2);
-      section.appendChild(el('p', 'question-short', q.short));
       if (q.image) {
         var fig = el('img', 'question-image');
         fig.src = q.image;
@@ -89,7 +88,10 @@
         ol.appendChild(li);
       });
       section.appendChild(ol);
-      section.appendChild(more('Explicație detaliată', q.long, 'question-more'));
+      var explain = el('div', 'question-explain');
+      explain.appendChild(el('p', 'question-short', q.short));
+      explain.appendChild(more('Explicație detaliată', q.long, 'question-more'));
+      section.appendChild(explain);
       main.appendChild(section);
     });
     window.scrollTo(0, 0);

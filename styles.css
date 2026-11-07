@@ -623,11 +623,19 @@ details.answer-more[open] > summary::before {
 
 .question-image { display: block; max-width: 100%; height: auto; margin: 0.75rem 0; border-radius: 6px; }
 
-details.question-more {
+.question-explain {
  margin: 1rem 0 0;
- padding: 0.6rem 1rem;
+ padding: 0.8rem 1rem;
  background: #2b3f4a;
  border-radius: 8px;
+}
+
+.question-explain > .question-short {
+ margin: 0 0 0.5rem;
+}
+
+details.question-more {
+ margin: 0;
 }
 
 details.question-more .more-body {
