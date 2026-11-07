@@ -23,7 +23,7 @@ un avertisment (`warn`) și explicația corectă.
 | 01 Comunicații | 101 | făcut, cu 5 blocate (23, 32, 73, 81, 93): nu pot confirma din surse |
 | 02 Cunoașterea aeronavei / întreținere | 104 | făcut, cu 3 blocate (44, 81, 93) |
 | 03 Legislație | 105 | 1–105 făcute, cu 4 blocate (20, 58, 90, 105): lipsesc sursele |
-| 04 Meteorologie | 87 | nefăcut |
+| 04 Meteorologie | 87 | făcut, cu 7 blocate pe figuri (22, 29, 44, 67, 72, 80, 86): răspunsul depinde de desen, care nu e în repo |
 | 05 Navigație | 94 | nefăcut |
 | 06 Performanțe de zbor | 101 | nefăcut |
 | 07 Performanțe umane | 119 | nefăcut |
@@ -57,7 +57,9 @@ un avertisment (`warn`) și explicația corectă.
        81 (întinderea suspantelor: procedura cu greutate de 18 kg nu e în docs),
        93 (reglajul frânelor: procedura nu e în docs). Rămân cu textele vechi,
        slabe, până găsim procedura sau o explicație pe care o pot susține.
-7. [ ] Capitol 04
+7. [x] Capitol 04 (lotul 1: Q1–36, lotul 2: Q35–70, lotul 3: Q71–87).
+       Blocate pe figuri: 22, 29, 44, 67, 72, 80, 86. Figurile (imagini cu zone
+       1–4, a–d) trebuie puse în docs/ ca să pot descrie zona corectă.
 8. [ ] Capitol 05
 9. [ ] Capitol 06
 10. [ ] Capitol 07
