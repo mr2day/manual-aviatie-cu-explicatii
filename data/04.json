@@ -444,28 +444,28 @@
      "text": "vântul care ia naştere prin convecţia aerului",
      "correct": false,
      "short": "",
-     "long": "Vântul născut prin convecție este cel turbulent, nu cel laminar.",
+     "long": "Convecția produce curenți ascendenți și turbulență, deci vântul născut din ea este turbulent, nu laminar.",
      "warn": ""
     },
     {
      "text": "vântul care îşi păstrează direcţia şi intensitatea",
      "correct": true,
      "short": "",
-     "long": "Corect. Vântul laminar își păstrează direcția și intensitatea.",
+     "long": "Corect. Vântul laminar curge în straturi paralele, fără turbulență, deci își păstrează direcția și intensitatea.",
      "warn": ""
     },
     {
      "text": "vântul format în urma diferențelor de temperatură diurnă și nocturnă ale uscatului respectiv a apelor",
      "correct": false,
      "short": "",
-     "long": "Vântul format din diferența de temperatură uscat–apă este brizele, nu vântul laminar.",
+     "long": "Diferențele de temperatură între uscat și apă produc brize, adică vânturi termice, nu un curent laminar.",
      "warn": ""
     },
     {
      "text": "vântul care suferă variaţii datorită obstacolelor",
      "correct": false,
      "short": "",
-     "long": "Vântul care suferă variații din obstacole este turbulent, nu laminar.",
+     "long": "Obstacolele perturbă curgerea și produc turbulență, deci vântul care suferă variații din obstacole nu este laminar.",
      "warn": ""
     }
    ]
@@ -732,28 +732,28 @@
      "text": "nu provoacă turbulenţe",
      "correct": false,
      "short": "",
-     "long": "Copacii produc turbulențe. Nu este adevărat că nu provoacă.",
+     "long": "Obstacolele produc turbulențe, indiferent de densitatea lor. Aerul trece peste perdea și se rupe în rotoare.",
      "warn": ""
     },
     {
      "text": "creșteri în intensitate ale mișcării masei de aer",
      "correct": false,
      "short": "",
-     "long": "Vântul nu crește în intensitate din cauza copacilor. Se reduce și se turbulează.",
+     "long": "Obstacolul frânează aerul, nu îl accelerează. În spatele perdelei vântul este mai slab și turbulent.",
      "warn": ""
     },
     {
      "text": "turbulenţe în partea vântului",
      "correct": false,
      "short": "",
-     "long": "Turbulențele se formează în spatele perdelei, sub vânt, nu în fața ei.",
+     "long": "Aerul din fața perdelei încetinește, dar turbulența se formează în spatele ei, sub vânt.",
      "warn": ""
     },
     {
      "text": "turbulenţe şi “umbre de vânt” în spatele copacilor, sub vânt",
      "correct": true,
      "short": "",
-     "long": "Corect. Turbulențe și umbre de vânt apar în spatele copacilor, sub vânt.",
+     "long": "Corect. Aerul trece peste copaci, se desprinde de ei și formează rotoare și zone de vânt redus în spate: turbulențe și umbre de vânt sub vânt.",
      "warn": ""
     }
    ]
@@ -763,34 +763,34 @@
    "image": "img/04-q22.png",
    "text": "272: Pe panta următoare, veţi găsi cei mai buni curenți ascendenţi de dinamică:",
    "short": "Cei mai buni curenți ascendenți dinamici se găsesc pe panta 1, conform figurii.",
-   "long": "Curenții dinamici se formează pe pantele expuse vântului, unde aerul este forțat să urce pe relief. Pe pantele sub vânt aerul coboară, deci curenții ascendenți sunt pe versantul expus.",
+   "long": "Curenții ascendenți dinamici se formează pe versantul expus vântului, unde aerul este forțat să urce pe relief. Zona 1 din figură este acest versant, unde curenții ascendenți sunt cei mai puternici. Zona 2 este la creastă, unde aerul trece peste vârf și curenții se atenuează.",
    "answers": [
     {
      "text": "în 1 si 2",
      "correct": false,
      "short": "",
-     "long": "Varianta nu este cea corectă.",
+     "long": "Zona 2 este la creastă, unde aerul trece peste vârf și curentul ascendent scade. Nu este zona cu cei mai buni curenți dinamici.",
      "warn": ""
     },
     {
      "text": "în 1 si 2",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă; depinde de figură.",
+     "long": "Zona 2 este la creastă, unde aerul trece peste vârf și curentul ascendent scade. Nu este zona cu cei mai buni curenți dinamici.",
      "warn": ""
     },
     {
      "text": "în 1",
      "correct": true,
      "short": "",
-     "long": "Varianta nu este cea corectă.",
+     "long": "Corect. Pe versantul expus vântului (zona 1), aerul este forțat să urce, deci curenții ascendenți dinamici sunt cei mai buni.",
      "warn": ""
     },
     {
      "text": "în 2",
      "correct": false,
      "short": "",
-     "long": "Varianta este dublată și nu este cea corectă.",
+     "long": "Zona 2 este la creastă, unde aerul trece peste vârf și curentul ascendent scade. Zona 1 are curenții cei mai buni.",
      "warn": ""
     }
    ]
@@ -877,28 +877,28 @@
      "text": "turbulențele sunt neglijabile, deoarece frunzele copacilor atenuează viteza vântului",
      "correct": false,
      "short": "",
-     "long": "Turbulențele nu sunt neglijabile. Frunzele nu atenuează suficient, iar în spate se formează turbulență.",
+     "long": "Turbulențele nu sunt neglijabile. Frunzele nu frânează suficient aerul, iar în spate se formează rotoare.",
      "warn": ""
     },
     {
      "text": "turbulenţe şi “umbre de vânt” în spatele copacilor, sub vânt",
      "correct": true,
      "short": "",
-     "long": "Corect. Turbulențe și umbre de vânt sunt în spatele copacilor, sub vânt.",
+     "long": "Corect. Aerul trece peste copaci, se desprinde de ei și formează rotoare și zone de vânt redus în spate: turbulențe și umbre de vânt sub vânt.",
      "warn": ""
     },
     {
      "text": "turbulenţe în partea vântului",
      "correct": false,
      "short": "",
-     "long": "Turbulențele nu se produc în partea din față a vântului.",
+     "long": "Turbulența se formează în spatele copacilor, sub vânt, nu în partea din față.",
      "warn": ""
     },
     {
      "text": "nu provoacă turbulenţe",
      "correct": false,
      "short": "",
-     "long": "Copacii produc turbulențe, deci afirmația că nu provoacă este greșită.",
+     "long": "Obstacolele produc turbulențe, deci afirmația că nu provoacă turbulențe este greșită.",
      "warn": ""
     }
    ]
@@ -1013,36 +1013,37 @@
   },
   {
    "number": "#29",
+   "image": "img/04-q29.png",
    "text": "273: Veţi întâlni turbulenţe ce pot fi periculoase în cazul în care zburaţi prea aproape de relief",
    "short": "Turbulențe periculoase apar când zbori prea aproape de relief, în zonele 3 și 4 din figură.",
-   "long": "Turbulențele puternice apar în zonele de sub vânt și lângă relieful accidentat, unde aerul trece peste obstacole și formează rotoare. Zonele exacte sunt cele indicate pe desenul întrebării.",
+   "long": "Turbulențele periculoase apar pe partea sub vânt, unde aerul trece peste creastă și formează rotoare. Pe figură, zona 3 este rotorul de sub creastă, iar zona 4 este turbulența din aval. Zonele 1 și 2 sunt pe versantul expus vântului, unde aerul urcă.",
    "answers": [
     {
      "text": "în 1",
      "correct": false,
      "short": "",
-     "long": "Varianta nu este cea corectă.",
+     "long": "Zona 1 este pe versantul expus vântului, unde aerul urcă și nu formează rotoare. Turbulența periculoasă este pe partea sub vânt.",
      "warn": ""
     },
     {
      "text": "în 3 şi 4",
      "correct": true,
      "short": "",
-     "long": "Depinde de figură.",
+     "long": "Corect. Zona 3 este rotorul de sub creastă, iar zona 4 este turbulența din aval, unde aerul agitat continuă să fie periculos.",
      "warn": ""
     },
     {
      "text": "în 1, 2 si 3",
      "correct": false,
      "short": "",
-     "long": "Varianta nu este cea corectă.",
+     "long": "Zona 2 este pe versantul expus vântului, unde aerul urcă, nu în rotorul periculos. Nu este zona corectă pentru turbulența periculoasă.",
      "warn": ""
     },
     {
      "text": "în 1 şi 2",
      "correct": false,
      "short": "",
-     "long": "Varianta nu este cea corectă.",
+     "long": "Zonele 1 și 2 sunt pe versantul expus vântului, unde aerul urcă și nu formează rotoare periculoase.",
      "warn": ""
     }
    ]
@@ -1381,28 +1382,28 @@
      "text": "vântul care curge spre baza versanților unui munte, întâlnit în special în Alpi",
      "correct": false,
      "short": "",
-     "long": "Vântul care coboară spre baza versanților este catabatic, nu forfecare.",
+     "long": "Vântul care coboară spre baza versanților este catabatic, format din răcirea aerului de pe pantă, nu forfecare.",
      "warn": ""
     },
     {
      "text": "schimbarea bruscă pe verticală și orizontală a vitezei și direcției vântului",
      "correct": true,
      "short": "",
-     "long": "Corect. Forfecarea este schimbarea bruscă a vitezei și direcției vântului.",
+     "long": "Corect. Forfecarea apare când straturi de aer cu viteze și direcții diferite se întâlnesc pe distanță mică, de exemplu la inversiuni, la curenții de jet sau lângă relief.",
      "warn": ""
     },
     {
      "text": "o schimbare a vitezei vântului de peste 30 km/h",
      "correct": false,
      "short": "",
-     "long": "Forfecarea nu se definește printr-un prag de 30 km/h. Contează schimbarea bruscă pe distanță mică.",
+     "long": "Forfecarea nu are un prag fix de 30 km/h. Contează schimbarea bruscă pe distanță mică.",
      "warn": ""
     },
     {
      "text": "o creștere ușoară a vitezei vântului la altitudini de peste 12000 ft",
      "correct": false,
      "short": "",
-     "long": "Creșterea ușoară a vitezei la altitudine este gradientul normal al vântului, nu forfecarea.",
+     "long": "Creșterea treptată a vitezei cu altitudinea este gradientul normal al vântului, produs de frecarea cu solul, nu forfecare.",
      "warn": ""
     }
    ]
@@ -1553,36 +1554,37 @@
   },
   {
    "number": "#44",
+   "image": "img/04-q44.png",
    "text": "275: Indicaţi zonele cu “umbre de vânt”:",
    "short": "Zonele cu umbre de vânt sunt marcate cu d în figura.",
-   "long": "Umbrele de vânt apar în spatele obstacolelor, pe partea de sub vânt, unde aerul este agitat și nu curge uniform. Zona corectă este cea indicată pe desenul întrebării.",
+   "long": "Umbra vântului este zona de după munte, unde vântul este redus și aerul este mai liniștit. Pe figură, zona d este această umbră. Zona a este versantul expus vântului, b este curgerea de-a lungul crestei, iar c este rotorul turbulent de sub creastă.",
    "answers": [
     {
      "text": "b",
      "correct": false,
      "short": "",
-     "long": "Varianta nu este cea corectă.",
+     "long": "Zona b este curgerea de-a lungul crestei, nu umbra vântului.",
      "warn": ""
     },
     {
      "text": "a",
      "correct": false,
      "short": "",
-     "long": "Varianta nu este cea corectă.",
+     "long": "Zona a este pe versantul expus vântului, unde aerul urcă. Nu este umbra vântului.",
      "warn": ""
     },
     {
      "text": "d",
      "correct": true,
      "short": "",
-     "long": "Depinde de figură.",
+     "long": "Corect. Zona d este umbra vântului, unde aerul de după munte este redus și mai calm.",
      "warn": ""
     },
     {
      "text": "b și c",
      "correct": false,
      "short": "",
-     "long": "Varianta nu este cea corectă.",
+     "long": "Zona b este curgerea de-a lungul crestei, iar zona c este rotorul turbulent, nu umbra vântului.",
      "warn": ""
     }
    ]
@@ -1633,28 +1635,28 @@
      "text": "vântul care nu permite decolarea",
      "correct": false,
      "short": "",
-     "long": "Vântul laminar nu împiedică decolarea prin definiție.",
+     "long": "Laminar nu înseamnă vânt care împiedică decolarea. Definiția se referă la curgerea fără turbulență.",
      "warn": ""
     },
     {
      "text": "vântul care suferă variaţii datorită obstacolelor",
      "correct": false,
      "short": "",
-     "long": "Vântul care suferă variații din obstacole este turbulent, nu laminar.",
+     "long": "Variațiile produse de obstacole înseamnă turbulență, deci vântul nu este laminar.",
      "warn": ""
     },
     {
      "text": "vântul care ia naştere prin convecţia aerului",
      "correct": false,
      "short": "",
-     "long": "Vântul născut din convecție este turbulent.",
+     "long": "Convecția produce curenți ascendenți și turbulență, deci vântul născut din ea nu este laminar.",
      "warn": ""
     },
     {
      "text": "vântul care îşi păstrează direcţia şi intensitatea",
      "correct": true,
      "short": "",
-     "long": "Corect. Vântul laminar își păstrează direcția și intensitatea.",
+     "long": "Corect. Vântul laminar curge în straturi paralele, fără turbulență, deci își păstrează direcția și intensitatea.",
      "warn": ""
     }
    ]
@@ -2461,28 +2463,28 @@
      "text": "schimbări bruște ale altitudinii și vitezei orizontale și verticale",
      "correct": false,
      "short": "",
-     "long": "Schimbările de altitudine și de viteză sunt efecte, dar răspunsul complet arată semnele din bord.",
+     "long": "Altitudinea și viteza se schimbă și în alte situații. Semnul specific al forfecării este comportamentul instrumentelor de bord.",
      "warn": ""
     },
     {
      "text": "apariția neașteptată a curenților ascendenți termici într-o după-amiază de vară",
      "correct": false,
      "short": "",
-     "long": "Curenții termici sunt altă situație, nu forfecarea.",
+     "long": "Curenții termici apar din încălzirea solului și nu sunt semnul forfecării.",
      "warn": ""
     },
     {
      "text": "schimbări bruște ale capului compas, ratei de viraj, turației motorului și temperaturii ambientale",
      "correct": true,
      "short": "",
-     "long": "Corect. Schimbările bruște ale capului, ratei de viraj, turației și temperaturii arată forfecarea.",
+     "long": "Corect. Schimbarea bruscă a vântului împinge brusc aeronava, ceea ce se vede în cap, rata de viraj, turație și temperatura ambientală.",
      "warn": ""
     },
     {
      "text": "schimbări bruște ale presiunii și temperaturii uleiului, turației motorului și ale direcției de zbor",
      "correct": false,
      "short": "",
-     "long": "Presiunea și temperatura uleiului nu sunt semnele tipice ale forfecării.",
+     "long": "Presiunea și temperatura uleiului nu indică forfecarea. Semnul este comportamentul direcției și al turației.",
      "warn": ""
     }
    ]
@@ -2965,14 +2967,14 @@
      "text": "turbulenţe şi “umbre de vânt” în spatele copacilor, sub vânt",
      "correct": true,
      "short": "",
-     "long": "Corect. Turbulențe și umbre de vânt sunt în spatele copacilor.",
+     "long": "Corect. Aerul trece peste perdea, se desprinde de ea și formează turbulențe și umbre de vânt în spate, sub vânt.",
      "warn": ""
     },
     {
      "text": "turbulenţe în partea vântului",
      "correct": false,
      "short": "",
-     "long": "Turbulențele nu apar în partea din față a vântului, ci în spate.",
+     "long": "Aerul din fața perdelei încetinește, iar turbulența apare în spate, nu în partea din față.",
      "warn": ""
     },
     {
@@ -2986,7 +2988,7 @@
      "text": "rotoare în partea superioară și anterioară",
      "correct": false,
      "short": "",
-     "long": "Rotoarele se formează în spatele obstacolului, nu la partea superioară și în față.",
+     "long": "Rotoarele se formează în spatele obstacolului, unde aerul se desprinde de el, nu în partea superioară și în față.",
      "warn": ""
     }
    ]
