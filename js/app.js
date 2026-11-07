@@ -11,7 +11,19 @@
     return e;
   }
 
-  // Explicații lungi: blocuri separate de rânduri goale; un bloc care începe cu „## ” devine titlu.
+  // Explicații lungi: blocuri separate de rânduri goale; un bloc care începe cu „## ” devine titlu;
+  // „!!text!!” se afișează cu roșu și bold.
+  function addInline(p, line) {
+    line.split(/!!(.+?)!!/).forEach(function (part, i) {
+      if (!part) return;
+      if (i % 2 === 1) {
+        p.appendChild(el('strong', 'alert-text', part));
+      } else {
+        p.appendChild(document.createTextNode(part));
+      }
+    });
+  }
+
   function fillParagraphs(container, text) {
     String(text || '').split(/\n\s*\n/).forEach(function (block) {
       var lines = block.split('\n').filter(function (l) { return l.trim() !== ''; });
@@ -24,7 +36,7 @@
       var p = el('p');
       lines.forEach(function (line, i) {
         if (i > 0) p.appendChild(document.createElement('br'));
-        p.appendChild(document.createTextNode(line));
+        addInline(p, line);
       });
       container.appendChild(p);
     });

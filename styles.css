@@ -661,3 +661,8 @@ details.question-more .more-body {
 .more-body h4:first-child {
   margin-top: 0;
 }
+
+.more-body .alert-text {
+  color: #ff6b6b;
+  font-weight: 700;
+}
