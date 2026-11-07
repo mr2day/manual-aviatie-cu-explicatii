@@ -1266,34 +1266,34 @@
    "number": "#36",
    "text": "901: Când GPS-ul va indica 270 grd, în ce direcție va deplasați?",
    "short": "Când GPS-ul indică 270°, te deplasezi spre vest.",
-   "long": "Vestul este la 270° în sistemul de unghiuri de la nordul geografic în sensul acelor de ceasornic: N 0°, E 90°, S 180°, V 270°. Deci 270° înseamnă V.",
+   "long": "GPS-ul indică 270° când direcția de deplasare este spre vest (270° este vestul).",
    "answers": [
     {
      "text": "SV",
      "correct": false,
      "short": "",
-     "long": "SV este 315°.",
+     "long": "Sud-vestul este 225°, nu 270°.",
      "warn": ""
     },
     {
      "text": "VSV",
      "correct": false,
      "short": "",
-     "long": "VSV este 292,5°, deci nu 270°.",
+     "long": "Vest-sud-vestul este 247,5°, nu 270°.",
      "warn": ""
     },
     {
      "text": "V",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă: 270°.",
+     "long": "Corect. 270° este vestul.",
      "warn": ""
     },
     {
      "text": "S",
      "correct": false,
      "short": "",
-     "long": "S este 180°.",
+     "long": "Sudul este 180°, nu 270°.",
      "warn": ""
     }
    ]
@@ -1302,34 +1302,34 @@
    "number": "#37",
    "text": "899: Având zborul deja planificat și traiectul stabilit, când ajungem la decolare constatăm că pe direcția noastră de zbor avem un cumulonimbus:",
    "short": "Când întâlnești un cumulonimbus pe traiect, modifici traseul la o distanță care îl evită: 10 km, respectiv minim 37 km pentru furtunile puternice.",
-   "long": "Cumulonimbusul produce turbulență, grindină, fulgere și rafale. Nu trebuie zburat pe sub el sau în apropiere și nu trebuie sperat că se va disipa. Distanțele 10 km și 37 km sunt cele indicate; verifică-le în procedurile aplicabile. Zborul peste nor nu este varianta corectă.",
+   "long": "Un cumulonimbus se ocolește la o distanță mare, fiindcă produce turbulență, grindină, fulgere și rafale. Traiectul se modifică, nu se zboară prin nor sau sub el.",
    "answers": [
     {
      "text": "decolăm și zurăm după planul de zbor inițial în speranța că norul de furtună se va disipa până ajungem la el",
      "correct": false,
      "short": "Decolăm și zburăm după planul de zbor inițial, în speranța că norul se va disipa.",
-     "long": "Nu este o decizie sigură.",
+     "long": "Speranța că norul se disipă nu este un plan de siguranță. Norii cumulonimbus pot dura ore.",
      "warn": ""
     },
     {
      "text": "modificăm traiectul de zbor la o distanță care ne permite să evităm efectele acestui tip de nor, 10 km respectiv minim 37 km pentru orajele puternice",
      "correct": true,
      "short": "Modificăm traiectul la o distanță care ne permite să evităm efectele acestui tip de nor, 10 km, respectiv minim 37 km pentru orajele puternice.",
-     "long": "",
+     "long": "Corect. Traiectul se modifică la o distanță sigură de cumulonimbus.",
      "warn": ""
     },
     {
      "text": "decolăm, dar zburăm la înălțime mică să putem ateriza în cazul unui pericol",
      "correct": false,
      "short": "",
-     "long": "Zborul la înălțime mică în apropierea CB este periculos.",
+     "long": "Zborul la înălțime mică sub un cumulonimbus este periculos din cauza rafalelor și a curenților descendenți.",
      "warn": ""
     },
     {
      "text": "modificăm traiectul asftel încât să zburăm peste nor chiar înălțimea acestuia depășește 3200m",
      "correct": false,
      "short": "Modificăm traiectul astfel încât să zburăm peste nor, chiar dacă înălțimea acestuia depășește 3200 m.",
-     "long": "Zborul peste CB este periculos și depășește limitele.",
+     "long": "Zborul peste nor este periculos, deoarece cumulonimbusul se întinde pe înălțimi mari și are curenți puternici.",
      "warn": ""
     }
    ]
@@ -1338,34 +1338,34 @@
    "number": "#38",
    "text": "928: Ce reprezintă variația magnetică?",
    "short": "Variația magnetică este diferența dintre nordul geografic și nordul magnetic.",
-   "long": "Nordul magnetic se află în alt loc decât cel geografic, iar diferența dintre ele este variația (declinația) magnetică. Ea depinde de locul și de anul în care zbori.",
+   "long": "Variația magnetică (declinația) este diferența dintre nordul geografic și nordul magnetic, care depinde de locul de pe Pământ.",
    "answers": [
     {
      "text": "diferența între nordul geografic și nordul magnetic",
      "correct": true,
      "short": "Diferența dintre nordul geografic și nordul magnetic.",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Variația magnetică este diferența dintre nordul geografic și nordul magnetic.",
      "warn": ""
     },
     {
      "text": "unghiul dintre direcția de zbor și direcția vântului",
      "correct": false,
      "short": "",
-     "long": "Aceasta este deriva sau unghiul de vânt.",
+     "long": "Unghiul dintre direcția de zbor și vânt este deriva sau unghiul vântului, nu variația magnetică.",
      "warn": ""
     },
     {
      "text": "Nu există diferență între nordul adevărat și nordul magnetic",
      "correct": false,
      "short": "",
-     "long": "Există diferență.",
+     "long": "Nordul adevărat și cel magnetic nu coincid: există variație magnetică.",
      "warn": ""
     },
     {
      "text": "diferența între azimutul geografic și azimutul magnetic",
      "correct": false,
      "short": "",
-     "long": "Este apropiată, dar varianta corectă este formularea cu nordul geografic și magnetic.",
+     "long": "Diferența dintre azimutul geografic și cel magnetic este variația, dar definiția de bază este diferența dintre nord.",
      "warn": ""
     }
    ]
@@ -1374,34 +1374,34 @@
    "number": "#39",
    "text": "931: Ce este viteza adevărată a aerului?",
    "short": "Viteza adevărată a aerului este viteza reală prin aer, în comparație cu viteza resimțită de pilot.",
-   "long": "Viteza adevărată (TAS) este viteza reală a aeronavei față de masa de aer, corectată de altitudine și temperatură. Viteza indicată (IAS) este cea de pe instrument. Viteza la sol este față de sol.",
+   "long": "Viteza adevărată (TAS) este viteza reală a aeronavei față de masa de aer, corectată cu altitudinea și temperatura.",
    "answers": [
     {
      "text": "viteza aerului raportată la nivelul mării",
      "correct": false,
      "short": "",
-     "long": "Aceasta descrie viteza indicată sau corectată, nu definiția TAS.",
+     "long": "Viteza aerului raportată la nivelul mării este viteza indicată corectată, nu viteza adevărată.",
      "warn": ""
     },
     {
      "text": "viteza la care se deplasează aeronava la sol",
      "correct": false,
      "short": "",
-     "long": "Aceasta este viteza la sol.",
+     "long": "Viteza la sol este viteza față de sol, nu viteza adevărată.",
      "warn": ""
     },
     {
      "text": "viteza reală prin aer în comparație cu viteza resimțită de pilot",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă, cu definiția corectă a TAS.",
+     "long": "Corect. Viteza adevărată este viteza reală prin aer.",
      "warn": ""
     },
     {
      "text": "viteza indicată de un anemometru",
      "correct": false,
      "short": "",
-     "long": "Aceasta este viteza indicată.",
+     "long": "Viteza indicată de anemometru este viteza indicată (IAS), nu viteza adevărată.",
      "warn": ""
     }
    ]
@@ -1410,34 +1410,34 @@
    "number": "#40",
    "text": "949: O parapantă zboară de la punctul A la punctul B, care sunt la 100 km distanță unul de celălalt. Dacă viteza la sol este de 50 km/h, cât timp îi va lua să ajungă la destinație?",
    "short": "Pentru 100 km cu viteza la sol de 50 km/h, timpul este 2 ore.",
-   "long": "Timp = distanță / viteză = 100 / 50 = 2 ore.",
+   "long": "Timpul = distanța / viteza la sol: 100 km : 50 km/h = 2 ore.",
    "answers": [
     {
      "text": "3 ore",
      "correct": false,
      "short": "",
-     "long": "100 / 50 = 2.",
+     "long": "3 ore ar corespunde unei viteze de 33 km/h.",
      "warn": ""
     },
     {
      "text": "4 ore",
      "correct": false,
      "short": "",
-     "long": "Ar fi dacă viteza ar fi 25 km/h.",
+     "long": "4 ore ar corespunde unei viteze de 25 km/h.",
      "warn": ""
     },
     {
      "text": "2 ore",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. 100 : 50 = 2 ore.",
      "warn": ""
     },
     {
      "text": "1 oră",
      "correct": false,
      "short": "",
-     "long": "Ar fi dacă viteza ar fi 100 km/h.",
+     "long": "1 oră ar corespunde unei viteze de 100 km/h.",
      "warn": ""
     }
    ]
@@ -1446,34 +1446,34 @@
    "number": "#41",
    "text": "913: Înălţimea de zbor este:",
    "short": "Înălțimea de zbor este distanța pe verticală de la sol până la aeronavă.",
-   "long": "Înălțimea (AGL) se măsoară față de sol, deci e distanța verticală de la sol. Altitudinea se măsoară față de nivelul mării sau față de presiunea standard, iar distanța de la decolare la nivelul mării nu este înălțime.",
+   "long": "Înălțimea de zbor este distanța pe verticală de la sol până la aeronavă, spre deosebire de altitudine, măsurată față de nivelul mării.",
    "answers": [
     {
      "text": "distanţa pe verticală măsurată de la nivelul mării până la aeronavă",
      "correct": false,
      "short": "Distanța pe verticală de la nivelul mării până la aeronavă.",
-     "long": "Aceasta este altitudinea, nu înălțimea.",
+     "long": "Distanța de la nivelul mării este altitudinea, nu înălțimea.",
      "warn": ""
     },
     {
      "text": "înălţimea de zbor se mai numeşte şi altitudine şi se măsoară de la nivelul corespunzător presiunii standard de 760 mm Hg şi până la aeronavă",
      "correct": false,
      "short": "Se mai numește altitudine și se măsoară de la presiunea standard 760 mm Hg.",
-     "long": "Aceasta descrie altitudinea, nu înălțimea.",
+     "long": "Altitudinea nu este înălțimea de zbor, iar măsurarea ei nu se face de la solul locului.",
      "warn": ""
     },
     {
      "text": "distanța dintre punctul de decolare și nivelul mării",
      "correct": false,
      "short": "",
-     "long": "Nu este definiția înălțimii.",
+     "long": "Distanța dintre punctul de decolare și nivelul mării nu este înălțimea de zbor.",
      "warn": ""
     },
     {
      "text": "distanţa pe verticală de la sol până la aeronavă",
      "correct": true,
      "short": "Distanța pe verticală de la sol până la aeronavă.",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Înălțimea de zbor se măsoară de la sol până la aeronavă.",
      "warn": ""
     }
    ]
@@ -1482,34 +1482,34 @@
    "number": "#42",
    "text": "917: Ce este o altitudine barometrică?",
    "short": "Altitudinea barometrică este înălțimea de la nivelul mării.",
-   "long": "Altitudinea barometrică este determinată de presiune și se măsoară de la nivelul mării, pe baza reglajului altimetrului. Nu corespunde doar presiunii standard și nu este cea dată de GPS.",
+   "long": "Altitudinea barometrică este înălțimea măsurată cu altimetrul, față de nivelul mării, pe baza presiunii atmosferice.",
    "answers": [
     {
      "text": "o înălțime care corespunde presiunii standard",
      "correct": false,
      "short": "",
-     "long": "Este o descriere parțială.",
+     "long": "Presiunea standard nu definește altitudinea barometrică. Altimetrul o calculează din presiunea locală.",
      "warn": ""
     },
     {
      "text": "o înălțime dintr-un punct de referință",
      "correct": false,
      "short": "",
-     "long": "Este înălțimea, nu altitudinea barometrică.",
+     "long": "Înălțimea față de un punct de referință este înălțimea de zbor, nu altitudinea barometrică.",
      "warn": ""
     },
     {
      "text": "o înălțime de la nivelul mării",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Altitudinea barometrică este înălțimea de la nivelul mării.",
      "warn": ""
     },
     {
      "text": "o înălțime care corespunde GPS",
      "correct": false,
      "short": "",
-     "long": "Aceasta este altitudinea GPS.",
+     "long": "GPS-ul nu definește altitudinea barometrică. Ea vine din presiune.",
      "warn": ""
     }
    ]
@@ -1518,34 +1518,34 @@
    "number": "#43",
    "text": "887: Dacă vă deplasaţi cu o aeronava către E și nu aveți vânt deloc. In situația în care vă întâlniți un vânt de 20 km/h dinspre N adică perfect din 90 de grade faţă de direcția în care vă deplasaţi, va fi modificată viteza faţă de sol?",
    "short": "Da, viteza față de sol se modifică, pentru că vântul de 20 km/h din nord schimbă componenta de deplasare.",
-   "long": "Zburând spre est cu viteza față de aer de 40 km/h, un vânt din nord de 20 km/h adaugă o componentă perpendiculară. Viteza față de sol devine √(40² + 20²) ≈ 44,7 km/h, deci se modifică.",
+   "long": "Vântul de 20 km/h din nord, perpendicular pe direcția de zbor spre est, produce deriva. Deci există derivă, care trebuie compensată.",
    "answers": [
     {
      "text": "cu maxim 10 km/h si nu depinde de viteza vântului",
      "correct": false,
      "short": "Cu maxim 10 km/h și nu depinde de viteza vântului.",
-     "long": "Viteza se modifică în funcție de vânt.",
+     "long": "Corecția nu este limitată la 10 km/h. Depinde de intensitatea vântului și de unghiul lui.",
      "warn": ""
     },
     {
      "text": "depinde de tăria vântului",
      "correct": false,
      "short": "",
-     "long": "Este corect că depinde, dar varianta corectă este „da”.",
+     "long": "Corecția depinde de intensitate, dar răspunsul corect este că există derivă, adică da.",
      "warn": ""
     },
     {
      "text": "da",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă: viteza față de sol se modifică.",
+     "long": "Corect. Vântul perpendicular produce derivă, deci afirmația (da) este adevărată.",
      "warn": ""
     },
     {
      "text": "nu",
      "correct": false,
      "short": "",
-     "long": "Viteza față de sol se modifică cu vântul lateral.",
+     "long": "Nu este adevărat: vântul de 90° față de direcția de zbor produce derivă.",
      "warn": ""
     }
    ]
@@ -1554,34 +1554,34 @@
    "number": "#44",
    "text": "968: Ce trebuie verificat înainte de decolare pentru a evita spațiile aeriene restricționate?",
    "short": "Înainte de decolare verifici NOTAM-urile, pentru a evita spațiile aeriene restricționate.",
-   "long": "NOTAM-urile anunță zonele restricționate, temporar închise sau cu activități speciale. Consultarea lor înainte de zbor este obligatorie. Vântul, echipamentul și combustibilul sunt verificări importante, dar nu evită zonele restricționate.",
+   "long": "Înainte de decolare se verifică NOTAM-urile, care anunță zonele restricționate, temporare sau periculoase.",
    "answers": [
     {
      "text": "Viteza vântului",
      "correct": false,
      "short": "",
-     "long": "Vântul nu arată zonele restricționate.",
+     "long": "Viteza vântului nu arată spațiile restricționate. Ele sunt în NOTAM.",
      "warn": ""
     },
     {
      "text": "NOTAM-urile",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. NOTAM-urile anunță spațiile restricționate.",
      "warn": ""
     },
     {
      "text": "Echipamentul de urgență",
      "correct": false,
      "short": "",
-     "long": "Nu arată zonele restricționate.",
+     "long": "Echipamentul de urgență este pentru siguranță, nu pentru spațiile restricționate.",
      "warn": ""
     },
     {
      "text": "Nivelul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Nu arată zonele restricționate.",
+     "long": "Nivelul de combustibil nu arată spațiile restricționate.",
      "warn": ""
     }
    ]
@@ -1590,34 +1590,34 @@
    "number": "#45",
    "text": "921: Ora apusului și răsăritului la o anumită dată:",
    "short": "Ora răsăritului și a apusului depinde atât de latitudine, cât și de longitudine.",
-   "long": "Latitudinea influențează lungimea zilei, iar longitudinea influențează ora locală, față de fusul orar. Împreună determină orele astronomice. Altitudinea și orientarea nu sunt factorii principali, iar latitudinea contează.",
+   "long": "Ora apusului și răsăritului depinde de latitudine (înclinarea soarelui pe orizont) și de longitudine (poziția în fusul orar).",
    "answers": [
     {
      "text": "depinde atât de latitudine cât și de longitudine",
      "correct": true,
      "short": "Depinde atât de latitudine, cât și de longitudine.",
-     "long": "",
+     "long": "Corect. Ora depinde de latitudine și de longitudine.",
      "warn": ""
     },
     {
      "text": "depinde de altitudine și orientare geografică",
      "correct": false,
      "short": "",
-     "long": "Altitudinea influențează puțin, dar nu este factorul principal.",
+     "long": "Altitudinea și orientarea nu sunt factorii principali ai orei de răsărit și apus.",
      "warn": ""
     },
     {
      "text": "nu depinde de latitudine",
      "correct": false,
      "short": "",
-     "long": "Depinde de latitudine.",
+     "long": "Latitudinea influențează durata zilei, deci ora apusului și răsăritului.",
      "warn": ""
     },
     {
      "text": "nu depinde de longitudine",
      "correct": false,
      "short": "",
-     "long": "Longitudinea influențează ora locală.",
+     "long": "Longitudinea influențează ora locală, deci răsăritul și apusul.",
      "warn": ""
     }
    ]
@@ -1626,34 +1626,34 @@
    "number": "#46",
    "text": "932: Ce reprezintă QFE?",
    "short": "QFE este presiunea la pragul pistei.",
-   "long": "QFE este presiunea atmosferică măsurată la nivelul aerodromului (pragul pistei). Când altimetrul este reglat pe QFE, indică înălțimea față de pistă. Presiunea standard este QNE, iar presiunea la nivelul mării este QNH.",
+   "long": "QFE este presiunea la pragul pistei (la aerodrom), care arată altitudinea deasupra aerodromului când altimetrul este setat pe ea.",
    "answers": [
     {
      "text": "presiunea standard",
      "correct": false,
      "short": "",
-     "long": "Aceasta este QNE.",
+     "long": "Presiunea standard este QNE, nu QFE.",
      "warn": ""
     },
     {
      "text": "presiunea la nivelul mării",
      "correct": false,
      "short": "",
-     "long": "Aceasta este QNH.",
+     "long": "Presiunea la nivelul mării este QNH, nu QFE.",
      "warn": ""
     },
     {
      "text": "presiunea la pragul pistei",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. QFE este presiunea la pragul pistei.",
      "warn": ""
     },
     {
      "text": "presiunea la altitudinea de croazieră",
      "correct": false,
      "short": "",
-     "long": "Aceasta nu este QFE.",
+     "long": "Presiunea la altitudinea de croazieră este QNE sau FL, nu QFE.",
      "warn": ""
     }
    ]
@@ -1662,34 +1662,34 @@
    "number": "#47",
    "text": "1100: Ce trebuie să faceți dacă vântul schimbă direcția în timpul zborului cross-country?",
    "short": "Dacă vântul își schimbă direcția în timpul zborului cross-country, schimbi altitudinea pentru o viteză mai bună la sol.",
-   "long": "Vântul variază cu altitudinea. Ridicând sau coborând, poți găsi un strat cu vânt favorabil, care îți îmbunătățește viteza la sol. Ignorarea schimbării, aterizarea imediată sau oprirea motorului nu sunt măsuri potrivite.",
+   "long": "Dacă vântul își schimbă direcția, pilotul schimbă altitudinea pentru a găsi un vânt mai favorabil și o viteză la sol mai bună, ținând cont de siguranță.",
    "answers": [
     {
      "text": "Să ignorați schimbarea vântului",
      "correct": false,
      "short": "",
-     "long": "Schimbarea vântului influențează zborul.",
+     "long": "Ignorarea schimbării vântului duce la deviere de traiect și consum mai mare.",
      "warn": ""
     },
     {
      "text": "Să aterizați imediat",
      "correct": false,
      "short": "",
-     "long": "Nu este necesar dacă zborul poate continua în siguranță.",
+     "long": "Aterizarea imediată nu este necesară doar pentru schimbarea vântului.",
      "warn": ""
     },
     {
      "text": "Să opriți motorul și să plutiți",
      "correct": false,
      "short": "",
-     "long": "Nu este o măsură corectă.",
+     "long": "Oprirea motorului și plutirea nu sunt procedura pentru schimbarea vântului.",
      "warn": ""
     },
     {
      "text": "Să schimbați altitudinea pentru o viteză mai bună la sol",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Schimbarea altitudinii poate aduce un vânt mai favorabil și o viteză mai bună la sol.",
      "warn": ""
     }
    ]
@@ -1734,34 +1734,34 @@
    "number": "#49",
    "text": "1102: Ce ar trebui să faceți pentru a evita rătăcirea în timpul unui zbor cross-country?",
    "short": "Pentru a evita rătăcirea în zborul cross-country folosești drumuri și alte repere proeminente.",
-   "long": "Reperele vizibile, cum sunt drumurile, râurile, căile ferate și localitățile, îți confirmă poziția pe hartă. Zborul la altitudini foarte joase, ignorarea vântului sau pierderea reperelor de la decolare cresc riscul de rătăcire.",
+   "long": "Pentru a nu te rătăci în zborul cross-country, urmărești drumurile, râurile, liniile de cale ferată și alte repere proeminente, care se văd și apar pe hartă.",
    "answers": [
     {
      "text": "Să ignorați schimbările de direcție a vântului",
      "correct": false,
      "short": "",
-     "long": "Vântul trebuie urmărit.",
+     "long": "Ignorarea schimbărilor de vânt duce la deviere de traiect, deci la rătăcire.",
      "warn": ""
     },
     {
      "text": "Să folosiți drumuri și alte repere proeminente",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Drumurile și reperele proeminente ajută la orientare.",
      "warn": ""
     },
     {
      "text": "Să zburați la altitudini foarte joase",
      "correct": false,
      "short": "",
-     "long": "Crește riscul de rătăcire.",
+     "long": "Zborul la altitudini foarte joase reduce vizibilitatea reperelor și crește riscul.",
      "warn": ""
     },
     {
      "text": "Să nu vă uitați înapoi spre zona de lansare după decolare",
      "correct": false,
      "short": "",
-     "long": "Reperele de la decolare ajută la orientare.",
+     "long": "Privitul înapoi spre zona de lansare ajută la memorarea reperelor de întoarcere, nu trebuie evitat.",
      "warn": ""
     }
    ]
@@ -1770,34 +1770,34 @@
    "number": "#50",
    "text": "907: Deriva reprezintă unghiul format:",
    "short": "Deriva este unghiul dintre direcția dorită a parapantei cu motor și direcția reală de deplasare, determinată de vânt.",
-   "long": "Aceeași definiție ca la întrebarea 22: vântul împinge aeronava, iar unghiul dintre traiectul dorit și cel real este deriva.",
+   "long": "Deriva este unghiul dintre direcția de deplasare dorită și direcția reală de deplasare, produs de vânt.",
    "answers": [
     {
      "text": "între direcţia vântului şi deplasarea pe sol a motoparapantei",
      "correct": false,
      "short": "Între direcția vântului și deplasarea pe sol a motoparapantei.",
-     "long": "Aceasta nu este deriva.",
+     "long": "Unghiul dintre direcția vântului și deplasarea pe sol nu este definiția derivei.",
      "warn": ""
     },
     {
      "text": "între direcția de deplasare dorită a unei parapante cu motor și direcția reală de deplasare determinată de vânt",
      "correct": true,
      "short": "Între direcția de deplasare dorită și direcția reală de deplasare determinată de vânt.",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Deriva este diferența dintre direcția dorită și cea reală.",
      "warn": ""
     },
     {
      "text": "între axul longitudinal partea din faţă şi linia deplasării pe sol",
      "correct": false,
      "short": "Între axul longitudinal partea din față și linia deplasării pe sol.",
-     "long": "Aceasta este unghiul de cap față de traiect, nu deriva.",
+     "long": "Unghiul dintre axul aeronavei și deplasarea pe sol este unghiul de derivă dintre cap și traiect, nu definiția derivei.",
      "warn": ""
     },
     {
      "text": "nicio variantă nu este corectă",
      "correct": false,
      "short": "",
-     "long": "Varianta corectă există.",
+     "long": "Varianta B descrie deriva corect, deci D nu este adevărată.",
      "warn": ""
     }
    ]
@@ -1806,34 +1806,34 @@
    "number": "#51",
    "text": "915: Ce unitate de masura este folosit pentru inaltime in normele OACI?",
    "short": "Pentru înălțime, normele OACI folosesc unitatea foot (picior).",
-   "long": "OACI folosește piciorul (ft) pentru altitudine și înălțime. Metrul liniar este unitatea SI, dar nu cea folosită de OACI pentru înălțime. Yardul și inch-ul nu sunt unitățile standard.",
+   "long": "În normele OACI, altitudinea și înălțimea se exprimă în picioare (feet, ft).",
    "answers": [
     {
      "text": "foot",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Unitatea OACI pentru altitudine este piciorul (ft).",
      "warn": ""
     },
     {
      "text": "metrul liniar",
      "correct": false,
      "short": "",
-     "long": "Nu este unitatea standard OACI pentru înălțime.",
+     "long": "Metrul liniar este unitate de lungime, dar în normele OACI pentru altitudine se folosește ft.",
      "warn": ""
     },
     {
      "text": "yardul",
      "correct": false,
      "short": "",
-     "long": "Nu este unitatea standard OACI.",
+     "long": "Yardul nu este unitatea OACI pentru altitudine.",
      "warn": ""
     },
     {
      "text": "inch-ul",
      "correct": false,
      "short": "",
-     "long": "Nu este unitatea standard OACI.",
+     "long": "Inch-ul nu este unitatea OACI pentru altitudine.",
      "warn": ""
     }
    ]
@@ -1842,34 +1842,34 @@
    "number": "#52",
    "text": "955: Dacă o parapantă cu motor zboară 60 km într-o oră cu o viteză aerului de 60 km/h, ce viteză are vântul din spate?",
    "short": "Dacă zbori 60 km într-o oră cu viteza aerului de 60 km/h, vântul din spate este 0 km/h.",
-   "long": "Viteza la sol este 60 km/h, egală cu viteza față de aer. Deci vântul este nul, adică 0 km/h.",
+   "long": "Viteza la sol este 60 km/h (60 km în 1 oră), iar viteza față de aer este 60 km/h. Deci vântul este zero.",
    "answers": [
     {
      "text": "20 km/h",
      "correct": false,
      "short": "",
-     "long": "Ar fi dacă viteza la sol ar fi 80 km/h.",
+     "long": "Cu vânt de 20 km/h viteza la sol ar fi 40 sau 80 km/h, nu 60.",
      "warn": ""
     },
     {
      "text": "30 km/h",
      "correct": false,
      "short": "",
-     "long": "Ar fi dacă viteza la sol ar fi 90 km/h.",
+     "long": "Cu vânt de 30 km/h viteza la sol ar fi 30 sau 90 km/h, nu 60.",
      "warn": ""
     },
     {
      "text": "0 km/h",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă: viteza la sol = viteza aerului.",
+     "long": "Corect. Viteza la sol egală cu viteza față de aer înseamnă vânt zero.",
      "warn": ""
     },
     {
      "text": "10 km/h",
      "correct": false,
      "short": "",
-     "long": "Ar fi dacă viteza la sol ar fi 70 km/h.",
+     "long": "Cu vânt de 10 km/h viteza la sol ar fi 50 sau 70 km/h, nu 60.",
      "warn": ""
     }
    ]
@@ -1878,34 +1878,34 @@
    "number": "#53",
    "text": "895: Am ajuns la FL105 în zbor VFR, iar între timp sub noi cerul s-a acoperit complet, cum ajungem la locul de aterizare?",
    "short": "Dacă ai ajuns la FL105 și sub tine s-a acoperit cerul, cauți o zonă cu vizibilitate care să îți permită să treci sub plafon, chiar dacă trebuie să zbori mai mult.",
-   "long": "Zborul VFR cere să ții contact vizual cu solul și să respecți condițiile de vizibilitate. Dacă ai acoperit cerul, trebuie să găsești o zonă deschisă și să cobori sub plafon în condiții sigure. Întoarcerea sau așteptarea până se termină combustibilul nu sunt măsuri de siguranță.",
+   "long": "Dacă sub avion cerul s-a acoperit, pilotul caută o zonă cu vizibilitate prin care poate coborî sub plafon în condiții VMC, pentru a ajunge la aterizare.",
    "answers": [
     {
      "text": "căutăm o zonă cu vizibilitate care să ne permită trecerea sub plafon, chiar dacă asta presupune să zburăm mai mult și mai departe decât ne-am propus",
      "correct": true,
      "short": "Căutăm o zonă cu vizibilitate care să ne permită trecerea sub plafon, chiar dacă asta presupune să zburăm mai mult.",
-     "long": "",
+     "long": "Corect. Se caută zona cu vizibilitate care permite trecerea sub plafon în siguranță.",
      "warn": ""
     },
     {
      "text": "ne întoarceam pe traseul de pe care am venit",
      "correct": false,
      "short": "Ne întoarcem pe traseul de pe care am venit.",
-     "long": "Întoarcerea poate nu rezolva problema plafonului.",
+     "long": "Întoarcerea pe traseu nu rezolvă plafonul, dacă vremea s-a acoperit și pe acolo.",
      "warn": ""
     },
     {
      "text": "zburăm până se termina benzina spiralând în locul în care suntem și așteptăm să se însenineze",
      "correct": false,
      "short": "Zburăm până se termină benzina, spiralând în locul în care suntem.",
-     "long": "Este periculos și nu este o soluție.",
+     "long": "Zborul până la epuizarea combustibilului este o procedură greșită și periculoasă.",
      "warn": ""
     },
     {
      "text": "coborâm în viteză minima prin plafon spre aterizare",
      "correct": false,
      "short": "Coborâm în viteză minimă prin plafon spre aterizare.",
-     "long": "Coborârea prin nori este periculoasă în VFR.",
+     "long": "Coborârea în viteză minimă prin plafon este periculoasă și nu respectă condițiile VMC.",
      "warn": ""
     }
    ]
@@ -1914,34 +1914,34 @@
    "number": "#54",
    "text": "953: O parapantă cu motor zboară cu 50 km/h și întâlnește un vânt de față de 10 km/h. Care este viteza sa la sol?",
    "short": "Dacă zbori cu 50 km/h și întâlnești un vânt de față de 10 km/h, viteza la sol este 40 km/h.",
-   "long": "Vântul de față încetinește zborul: 50 − 10 = 40 km/h.",
+   "long": "Vântul de față scade viteza la sol: 50 − 10 = 40 km/h.",
    "answers": [
     {
      "text": "30 km/h",
      "correct": false,
      "short": "",
-     "long": "Ar fi cu vânt de 20 km/h.",
+     "long": "30 km/h ar fi dacă vântul ar fi de 20 km/h.",
      "warn": ""
     },
     {
      "text": "40 km/h",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă: 50 − 10 = 40.",
+     "long": "Corect. 50 − 10 = 40 km/h.",
      "warn": ""
     },
     {
      "text": "60 km/h",
      "correct": false,
      "short": "",
-     "long": "Ar fi cu vânt din spate.",
+     "long": "60 km/h ar fi vânt de spate, nu de față.",
      "warn": ""
     },
     {
      "text": "50 km/h",
      "correct": false,
      "short": "",
-     "long": "Ar fi fără vânt.",
+     "long": "50 km/h ar fi fără vânt.",
      "warn": ""
     }
    ]
@@ -1950,34 +1950,34 @@
    "number": "#55",
    "text": "923: Direcţia vântului (DV) este:",
    "short": "Direcția vântului este unghiul format între nordul magnetic și vectorul vânt, la aterizare.",
-   "long": "Direcția vântului se măsoară de la nordul magnetic (în contextul OACI, folosit la aterizare) până la direcția din care bate vântul. Varianta folosește nordul magnetic, ca standard de referință.",
+   "long": "Direcția vântului este unghiul de la nordul magnetic până la vectorul vântului, măsurat în sensul acelor de ceasornic, cum se dă și pe sol.",
    "answers": [
     {
      "text": "unghiul format între meridianul geografic şi vectorul vânt (la aterizare",
      "correct": false,
      "short": "Unghiul format între meridianul geografic și vectorul vânt, la aterizare.",
-     "long": "Referința este nordul magnetic, nu meridianul geografic.",
+     "long": "Meridianul geografic este nordul adevărat. Direcția vântului se dă față de nordul magnetic.",
      "warn": ""
     },
     {
      "text": "unghiul format între vectorul vânt şi meridianul geografic",
      "correct": false,
      "short": "Unghiul format între vectorul vânt și meridianul geografic.",
-     "long": "Referința este nordul magnetic.",
+     "long": "Vectorul față de meridianul geografic nu este convenția folosită la direcția vântului.",
      "warn": ""
     },
     {
      "text": "unghiul format planul aeronavei și vectorul vânt",
      "correct": false,
      "short": "Unghiul format între planul aeronavei și vectorul vânt.",
-     "long": "Nu este definiția direcției vântului.",
+     "long": "Unghiul față de planul aeronavei nu este direcția vântului.",
      "warn": ""
     },
     {
      "text": "unghiul format între NM (Nordul magnetic) şi vectorul vânt (la aterizare)",
      "correct": true,
      "short": "Unghiul format între NM (nordul magnetic) și vectorul vânt, la aterizare.",
-     "long": "",
+     "long": "Corect. Direcția vântului se dă față de nordul magnetic.",
      "warn": ""
     }
    ]
@@ -1986,34 +1986,34 @@
    "number": "#56",
    "text": "934: Cum putem folosi Google Earth pentru zboruri de distanță?",
    "short": "Google Earth ajută să vizualizezi un traseu în 3D înainte de a zbura.",
-   "long": "Aplicația arată relieful, reperele și traseul pe care îl planifici. Este un instrument de pregătire, nu înlocuiește harta aeronautică și AIP. Nu măsoară direct variația magnetică sau viteza solului.",
+   "long": "Google Earth permite vizualizarea traseului în 3D, cu relief și repere, înainte de zbor, ceea ce ajută planificarea.",
    "answers": [
     {
      "text": "pentru a vizualiza un traseu în 3D înainte de a zbura",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Traseul se vizualizează în 3D înainte de zbor.",
      "warn": ""
     },
     {
      "text": "pentru a găsi puncte de referință geografice",
      "correct": false,
      "short": "",
-     "long": "Este util, dar varianta corectă este vizualizarea 3D.",
+     "long": "Reperele se găsesc pe hartă, dar utilitatea principală pentru zborul de distanță este vizualizarea 3D a traseului.",
      "warn": ""
     },
     {
      "text": "pentru a determina variația magnetică",
      "correct": false,
      "short": "",
-     "long": "Nu este folosită pentru aceasta.",
+     "long": "Variația magnetică nu se determină cu Google Earth, ci cu hărți magnetice.",
      "warn": ""
     },
     {
      "text": "pentru a calcula viteza solului",
      "correct": false,
      "short": "",
-     "long": "Nu este instrumentul pentru calculul vitezei solului.",
+     "long": "Viteza la sol nu se calculează din Google Earth, ci din GPS sau din calculul vântului.",
      "warn": ""
     }
    ]
@@ -2022,34 +2022,34 @@
    "number": "#57",
    "text": "919: Linia care unește pe o hartă punctele cu aceeasi altitudine se numeste:",
    "short": "Linia care unește pe hartă punctele cu aceeași altitudine se numește curba de nivel.",
-   "long": "Curbele de nivel reprezintă relieful pe hartă. Izoclina, ortodroma și loxodroma sunt alte noțiuni: izoclina este linie de înclinare magnetică, ortodroma și loxodroma sunt trasee pe sferă.",
+   "long": "Curba de nivel unește punctele de pe hartă cu aceeași altitudine.",
    "answers": [
     {
      "text": "curba de nivel",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Curba de nivel unește punctele cu aceeași altitudine.",
      "warn": ""
     },
     {
      "text": "izoclina",
      "correct": false,
      "short": "",
-     "long": "Izoclina este linia de egală înclinare magnetică.",
+     "long": "Izoclina unește punctele cu aceeași înclinație magnetică, nu aceeași altitudine.",
      "warn": ""
     },
     {
      "text": "ortodroma",
      "correct": false,
      "short": "",
-     "long": "Ortodroma este cel mai scurt traseu pe sferă.",
+     "long": "Ortodroma este drumul cel mai scurt pe sferă, nu linia de altitudine.",
      "warn": ""
     },
     {
      "text": "loxodroma",
      "correct": false,
      "short": "",
-     "long": "Loxodroma este traseu cu cap constant.",
+     "long": "Loxodroma este drumul cu cap constant, nu linia de altitudine.",
      "warn": ""
     }
    ]
@@ -2058,34 +2058,34 @@
    "number": "#58",
    "text": "902: Efectuăm un zbor matinal și ne deplasăm cu soarele în față, în ce direcție ne deplasăm ?",
    "short": "Dacă zbori dimineața cu soarele în față, te deplasezi spre est.",
-   "long": "Dimineața soarele răsare în est. Dacă îl ai în față, zbori spre est.",
+   "long": "Dimineața soarele răsare în est. Dacă soarele este în față, zburăm spre est.",
    "answers": [
     {
      "text": "N",
      "correct": false,
      "short": "",
-     "long": "Dacă zbori spre nord, soarele ar fi în dreapta.",
+     "long": "Spre nord, soarele dimineața este în dreapta sau stânga, nu în față.",
      "warn": ""
     },
     {
      "text": "E",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Dimineața soarele este în față când zburăm spre est.",
      "warn": ""
     },
     {
      "text": "S",
      "correct": false,
      "short": "",
-     "long": "Dacă zbori spre sud, soarele ar fi în spate.",
+     "long": "Spre sud, soarele dimineața este în spate, nu în față.",
      "warn": ""
     },
     {
      "text": "V",
      "correct": false,
      "short": "",
-     "long": "Dacă zbori spre vest, soarele ar fi în spate.",
+     "long": "Spre vest, soarele dimineața este în spate.",
      "warn": ""
     }
    ]
@@ -2094,34 +2094,34 @@
    "number": "#59",
    "text": "962: În ce direcție va trebui să te îndrepți pentru a compensa un vânt puternic din sud-est în timp ce zbori spre nord?",
    "short": "Pentru a compensa un vânt puternic din sud-est, în timp ce zbori spre nord, te îndrepți spre nord-est.",
-   "long": "Vântul din sud-est împinge aeronava spre nord-vest. Pentru a menține traiectul spre nord, trebuie să corectezi capul spre nord-est, care compensează componenta laterală.",
+   "long": "Vântul din sud-est împinge aeronava spre nord-vest. Pentru a menține cursul spre nord, pilotul corectează spre nord-est.",
    "answers": [
     {
      "text": "nord-vest",
      "correct": false,
      "short": "",
-     "long": "Ar amplifica deriva, nu o compensează.",
+     "long": "Nord-vestul ar merge în direcția derivei, nu ar compensa-o.",
      "warn": ""
     },
     {
      "text": "nord-est",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Corecția spre nord-est compensează deriva spre nord-vest.",
      "warn": ""
     },
     {
      "text": "sud-vest",
      "correct": false,
      "short": "",
-     "long": "Este direcția opusă, greșită.",
+     "long": "Sud-vestul ar aduce aeronava și mai mult în direcția vântului, nu ar compensa.",
      "warn": ""
     },
     {
      "text": "sud-est",
      "correct": false,
      "short": "",
-     "long": "Este direcția opusă, greșită.",
+     "long": "Sud-estul este chiar direcția din care bate vântul, deci nu compensează.",
      "warn": ""
     }
    ]
@@ -2130,34 +2130,34 @@
    "number": "#60",
    "text": "977: De ce este recomandată utilizarea unui GPS în raidurile de navigație?",
    "short": "GPS-ul este recomandat în raiduri pentru că furnizează poziția exactă și viteza la sol.",
-   "long": "GPS-ul determină poziția, viteza la sol, direcția și timpul estimat până la destinație. Acestea ajută la navigație. Fotografiile, combustibilul și temperatura nu sunt funcțiile principale ale GPS-ului pentru navigație.",
+   "long": "GPS-ul oferă poziția exactă și viteza la sol, esențiale pentru a urmări traseul și a estima timpul de zbor.",
    "answers": [
     {
      "text": "Pentru a face fotografii",
      "correct": false,
      "short": "",
-     "long": "Nu este funcția principală.",
+     "long": "Fotografiile nu sunt funcția principală a GPS-ului în navigație.",
      "warn": ""
     },
     {
      "text": "Pentru a verifica nivelul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Nu este funcția principală.",
+     "long": "Nivelul combustibilului nu este măsurat de GPS.",
      "warn": ""
     },
     {
      "text": "Pentru a furniza poziția exactă și viteza la sol",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. GPS-ul dă poziția exactă și viteza la sol.",
      "warn": ""
     },
     {
      "text": "Pentru a măsura temperatura aerului",
      "correct": false,
      "short": "",
-     "long": "GPS-ul nu măsoară temperatura.",
+     "long": "Temperatura aerului nu este măsurată de GPS.",
      "warn": ""
     }
    ]
@@ -2166,34 +2166,34 @@
    "number": "#61",
    "text": "974: Ce informații esențiale furnizează un GPS în timpul zborului?",
    "short": "GPS-ul furnizează poziția actuală, viteza la sol și altitudinea.",
-   "long": "GPS-ul arată coordonatele, viteza la sol și, de regulă, altitudinea GPS (care nu este la fel de precisă ca altimetrul barometric). Distanța până la aeroport, vântul și meteo nu sunt informațiile standard ale GPS-ului.",
+   "long": "În zbor, GPS-ul arată poziția curentă, viteza la sol și altitudinea (de obicei prin GPS sau barometric).",
    "answers": [
     {
      "text": "Distanta până la cel mai apropiat aeroport",
      "correct": false,
      "short": "Distanța până la cel mai apropiat aeroport.",
-     "long": "Poate fi afișată, dar nu este informația esențială.",
+     "long": "Distanța până la aeroport poate fi afișată de GPS, dar informația esențială este poziția, viteza și altitudinea.",
      "warn": ""
     },
     {
      "text": "Poziția actuală, viteza la sol și altitudinea",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Poziția, viteza la sol și altitudinea sunt informațiile esențiale ale GPS-ului.",
      "warn": ""
     },
     {
      "text": "Direcția vântului și umiditatea aerului",
      "correct": false,
      "short": "",
-     "long": "GPS-ul nu măsoară umiditatea și nu oferă direct vântul.",
+     "long": "Direcția vântului și umiditatea nu sunt măsurate de GPS.",
      "warn": ""
     },
     {
      "text": "Condițiile meteo și nivelul de combustibil",
      "correct": false,
      "short": "",
-     "long": "GPS-ul nu oferă aceste date.",
+     "long": "Condițiile meteo și combustibilul nu sunt informațiile GPS-ului.",
      "warn": ""
     }
    ]
@@ -2202,34 +2202,34 @@
    "number": "#62",
    "text": "939: Ce este zborul în pilotaj?",
    "short": "Pilotajul este zborul folosind o hartă și repere vizuale pentru a menține o traiectorie.",
-   "long": "Pilotajul este navigarea prin observarea terenului, cu harta și reperele. Este metoda de bază VFR. Zborul cu GPS sau cu calculatorul sunt metode complementare.",
+   "long": "Zborul în pilotaj (pilotage) înseamnă menținerea traiectoriei cu ajutorul hărții și al reperelor vizuale de pe sol.",
    "answers": [
     {
      "text": "utilizarea unui calculator de zbor pentru navigare",
      "correct": false,
      "short": "",
-     "long": "Calculatorul este instrument, nu definiția pilotajului.",
+     "long": "Calculatorul de zbor este instrument de calcul, nu definiția pilotajului.",
      "warn": ""
     },
     {
      "text": "zborul folosind exclusiv GPS-ul",
      "correct": false,
      "short": "",
-     "long": "Pilotajul nu este bazat exclusiv pe GPS.",
+     "long": "Zborul exclusiv cu GPS-ul nu este pilotajul prin repere.",
      "warn": ""
     },
     {
      "text": "utilizarea unei hărți și a reperelor vizuale pentru a menține o traiectorie",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Pilotajul este navigarea cu hartă și repere vizuale.",
      "warn": ""
     },
     {
      "text": "zborul la o altitudine constantă fără a ține cont de direcția vântului",
      "correct": false,
      "short": "",
-     "long": "Nu este definiția pilotajului.",
+     "long": "Zborul la altitudine constantă nu definește pilotajul.",
      "warn": ""
     }
    ]
@@ -2238,34 +2238,34 @@
    "number": "#63",
    "text": "969: Cum se numește linia trasată pe hartă pentru a reprezenta traiectoria dorită de zbor?",
    "short": "Linia trasată pe hartă pentru a reprezenta traiectoria dorită se numește linie de traseu.",
-   "long": "Linia de traseu este linia pe care pilotul o trasează pe hartă între punctele de navigație. Linia de aterizare, decolare și orientare nu sunt termenii pentru traiectorie.",
+   "long": "Linia trasată pe hartă pentru traiectoria dorită se numește linie de traseu (sau linia de drum).",
    "answers": [
     {
      "text": "Linie de aterizare",
      "correct": false,
      "short": "",
-     "long": "Nu este traseul dorit.",
+     "long": "Linia de aterizare nu este traseul planificat.",
      "warn": ""
     },
     {
      "text": "Linie de traseu",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Linia de traseu reprezintă traiectoria dorită.",
      "warn": ""
     },
     {
      "text": "Linie de decolare",
      "correct": false,
      "short": "",
-     "long": "Nu este traseul dorit.",
+     "long": "Linia de decolare nu este traseul planificat.",
      "warn": ""
     },
     {
      "text": "Linie de orientare",
      "correct": false,
      "short": "",
-     "long": "Nu este termenul pentru traiectoria dorită.",
+     "long": "Linia de orientare nu este termenul pentru traseul dorit.",
      "warn": ""
     }
    ]
@@ -2274,34 +2274,34 @@
    "number": "#64",
    "text": "927: Ce este un meridian de longitudine?",
    "short": "Meridianul de longitudine este un cerc mare care trece prin poli.",
-   "long": "Meridianele sunt cercuri mari care trec prin cei doi poli și măsoară longitudinea. Paralelele sunt cercuri paralele cu ecuatorul. Linia care unește două puncte pe glob este o altă noțiune.",
+   "long": "Meridianul este un cerc mare al sferei care trece prin cei doi poli, deci unește nordul și sudul.",
    "answers": [
     {
      "text": "O linie imaginară care unește două puncte pe glob",
      "correct": false,
      "short": "",
-     "long": "Aceasta este o definiție generală, nu a meridianului.",
+     "long": "O linie care unește două puncte nu este meridian. Meridianul trece prin poli.",
      "warn": ""
     },
     {
      "text": "Un cerc mare care trece prin poli",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Meridianul este un cerc mare care trece prin poli.",
      "warn": ""
     },
     {
      "text": "O linie paralelă cu ecuatorul",
      "correct": false,
      "short": "",
-     "long": "Aceasta este paralela, nu meridianul.",
+     "long": "Linia paralelă cu ecuatorul este paralela, nu meridianul.",
      "warn": ""
     },
     {
      "text": "O linie care intersectează ecuatorul la 90 de grade",
      "correct": false,
      "short": "O linie care intersectează ecuatorul la 90°.",
-     "long": "Meridianele intersectează ecuatorul la 90°, dar varianta completă este cea cu cercul mare.",
+     "long": "Linia care intersectează ecuatorul la 90° este un meridian, dar definiția corectă este cercul mare prin poli.",
      "warn": ""
     }
    ]
@@ -2310,34 +2310,34 @@
    "number": "#65",
    "text": "905: QFE reprezintă:",
    "short": "QFE reprezintă presiunea la pragul pistei.",
-   "long": "QFE este presiunea măsurată la aerodrom. Dacă altimetrul este reglat pe QFE, indică zero la pragul pistei. Presiunea la nivelul mării este QNH, iar presiunea standard este QNE.",
+   "long": "QFE este presiunea la pragul pistei (aerodromului), folosită pentru a arăta altitudinea deasupra aerodromului.",
    "answers": [
     {
      "text": "nici un raspuns nu este corect",
      "correct": false,
      "short": "Nici un răspuns nu este corect.",
-     "long": "Varianta corectă există.",
+     "long": "Varianta C este corectă, deci A nu este adevărată.",
      "warn": ""
     },
     {
      "text": "presiunea standard",
      "correct": false,
      "short": "",
-     "long": "Aceasta este QNE.",
+     "long": "Presiunea standard este QNE.",
      "warn": ""
     },
     {
      "text": "presiunea la pragul pistei",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. QFE este presiunea la pragul pistei.",
      "warn": ""
     },
     {
      "text": "presiunea la nivelul marii",
      "correct": false,
      "short": "Presiunea la nivelul mării.",
-     "long": "Aceasta este QNH.",
+     "long": "Presiunea la nivelul mării este QNH.",
      "warn": ""
     }
    ]
@@ -2346,34 +2346,34 @@
    "number": "#66",
    "text": "890: Avem în traseul nostru un vârf de peste 2500m, putem zbura peste acesta?",
    "short": "Nu există reglementări care să interzică zborul peste un vârf de peste 2500 m, cu condiția să respecți limitele de altitudine aplicabile.",
-   "long": "Varianta corectă afirmă că nu există reglementări care să interzică zborul peste vârful de peste 2500 m. Totuși trebuie respectate limitele de altitudine și regulile de planificare, iar zborul peste munți trebuie făcut cu atenție. Verifică reglementarea actuală.",
+   "long": "Regulamentul RACR-RA 4.060 cere, pentru zborul VFR, înălțimea de cel puțin 300 m deasupra celui mai înalt obstacol în zone dens populate și nu permite zborul sub 150 m deasupra solului în alte zone, cu excepția decolării și aterizării. Nu există o interdicție generală de zbor la 2500 m.",
    "answers": [
     {
      "text": "nu, la altitudinea respectiva pilotul își poate pierde cunoștința",
      "correct": false,
      "short": "Nu, la altitudinea respectivă pilotul își poate pierde cunoștința.",
-     "long": "Trebuie luate măsuri, dar nu este interdicție generală.",
+     "long": "Pierderea cunoștinței nu este regula de zbor. Riscul la altitudine este hipoxia, dar nu există o interdicție generală la 2500 m.",
      "warn": ""
     },
     {
      "text": "nu, cu parapanta cu motor este interzis zborul la înălțimi peste 2500m",
      "correct": false,
      "short": "Nu, cu parapanta cu motor este interzis zborul la înălțimi peste 2500 m.",
-     "long": "Nu am confirmat această interdicție în sursele consultate.",
+     "long": "Nu există o interdicție generală de zbor la 2500 m pentru motoparapantă cu motor. Restricțiile sunt cele de înălțime din RACR-RA 4.060.",
      "warn": ""
     },
     {
      "text": "da, este recomandat să zburăm cât mai aproape de acesta pentru a putea ateriza în caz de",
      "correct": false,
      "short": "Da, este recomandat să zburăm cât mai aproape de acesta pentru a putea ateriza în caz de urgență.",
-     "long": "Zborul aproape de vârf nu este recomandat.",
+     "long": "Zborul aproape de vârf nu este recomandat: vântul și turbulența de munte sunt periculoase.",
      "warn": ""
     },
     {
      "text": "da, nu există reglementări care să interzică acest zbor",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Nu există o interdicție de 2500 m; restricțiile sunt cele de înălțime minimă din RACR-RA 4.060.",
      "warn": ""
     }
    ]
@@ -2382,34 +2382,34 @@
    "number": "#67",
    "text": "924: Traseul de la decolare și până la aterizare se numește:",
    "short": "Traseul de la decolare până la aterizare se numește traiect.",
-   "long": "Traiectul este traseul real parcurs de la decolare până la aterizare. Ruta este planul de traseu, drumul este un drum rutier, iar traiectoria este un termen general pentru linia urmată de aeronavă.",
+   "long": "Traiectul este drumul de la decolare până la aterizare, indiferent de rută.",
    "answers": [
     {
      "text": "traiect",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Traiectul este drumul de la decolare la aterizare.",
      "warn": ""
     },
     {
      "text": "rută",
      "correct": false,
      "short": "",
-     "long": "Ruta este planul de traseu, nu traseul real.",
+     "long": "Ruta este un drum definit pentru trafic aerian, nu tot traiectul zborului.",
      "warn": ""
     },
     {
      "text": "drum",
      "correct": false,
      "short": "",
-     "long": "Drumul este un drum rutier, nu traiectul.",
+     "long": "Drumul este calea de la sol, nu traseul zborului.",
      "warn": ""
     },
     {
      "text": "traiectorie",
      "correct": false,
      "short": "",
-     "long": "Este un termen general, dar varianta corectă este traiectul.",
+     "long": "Traiectoria este descrierea mișcării în timp, nu traseul de la decolare la aterizare.",
      "warn": ""
     }
    ]
@@ -2418,34 +2418,34 @@
    "number": "#68",
    "text": "965: Dacă vântul bate din nord-vest și zbori spre sud, în ce direcție va fi deviata traiectoria ta?",
    "short": "Dacă vântul bate din nord-vest și zbori spre sud, traiectoria ta va fi deviată spre sud-est.",
-   "long": "Vântul din nord-vest împinge aeronava spre sud-est. Deviația este deci spre sud-est, iar pentru a menține traiectul spre sud trebuie corectat capul spre sud-vest.",
+   "long": "Vântul din nord-vest împinge aeronava spre sud-est. Dacă zbori spre sud, deriva te duce spre sud-est.",
    "answers": [
     {
      "text": "nord-vest",
      "correct": false,
      "short": "",
-     "long": "Vântul vine din nord-vest, deviația este în direcția opusă.",
+     "long": "Nord-vestul este chiar direcția din care bate vântul, nu deriva.",
      "warn": ""
     },
     {
      "text": "sud-vest",
      "correct": false,
      "short": "",
-     "long": "Aceasta este corecția capului, nu deviația.",
+     "long": "Sud-vestul nu este deriva pentru vântul din nord-vest.",
      "warn": ""
     },
     {
      "text": "nord-est",
      "correct": false,
      "short": "",
-     "long": "Direcția este greșită.",
+     "long": "Nord-estul ar fi deriva pentru un vânt din sud-vest.",
      "warn": ""
     },
     {
      "text": "sud-est",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Vântul din nord-vest împinge spre sud-est.",
      "warn": ""
     }
    ]
@@ -2454,34 +2454,34 @@
    "number": "#69",
    "text": "963: Dacă zbori spre vest și observi că busola indică 270 de grade, dar GPS-ul indică o direcție de 260 de grade, ce corecție trebuie să faci?",
    "short": "Dacă zbori spre vest, busola indică 270°, iar GPS-ul indică 260°, faci o corecție de 10° spre dreapta.",
-   "long": "Busola și GPS-ul arată direcții diferite: GPS-ul indică 260°, adică ești deviat spre sud. Ca să revii pe traiect spre vest (270°), corectezi capul cu 10° spre nord, adică spre dreapta, pentru că zbori spre vest.",
+   "long": "Busola arată capul, iar GPS-ul arată traiectul (direcția reală de deplasare). Traiectul 260° este la stânga traiectului dorit de 270°, deci trebuie corectat spre dreapta cu 10°.",
    "answers": [
     {
      "text": "corecție de 10 grade spre dreapta",
      "correct": true,
      "short": "Corecție de 10° spre dreapta.",
-     "long": "",
+     "long": "Corect. Traiectul este cu 10° la stânga, deci corecția este spre dreapta cu 10°.",
      "warn": ""
     },
     {
      "text": "corecție de 10 grade spre stânga",
      "correct": false,
      "short": "Corecție de 10° spre stânga.",
-     "long": "Aceasta te-ar duce mai mult spre sud.",
+     "long": "Corecția spre stânga ar duce și mai mult pe traiect spre sud, deci nu este cea corectă.",
      "warn": ""
     },
     {
      "text": "corecție de 20 de grade spre dreapta",
      "correct": false,
      "short": "Corecție de 20° spre dreapta.",
-     "long": "Diferența este 10°, nu 20°.",
+     "long": "Corecția de 20° nu corespunde diferenței de 10° dintre traiect și direcția dorită.",
      "warn": ""
     },
     {
      "text": "nicio corecție necesară",
      "correct": false,
      "short": "",
-     "long": "Există diferență, deci corecție necesară.",
+     "long": "Există o diferență de 10°, deci o corecție este necesară.",
      "warn": ""
     }
    ]
@@ -2490,34 +2490,34 @@
    "number": "#70",
    "text": "1101: Cum puteți estima vânturile la altitudini folosind GPS-ul?",
    "short": "Vânturile la altitudine se estimează cu GPS făcând un viraj lent de 360° și notând cea mai mică viteză la sol.",
-   "long": "Când zbori în vânt, viteza la sol scade; când zbori cu vântul în spate, crește. Viteza minimă la sol în viraj indică direcția vântului: vântul vine din direcția în care ai zburat cu viteză minimă. Metoda este orientativă.",
+   "long": "Vântul la altitudine se estimează printr-un viraj lent de 360°: viteza la sol este cea mai mică când vântul este din față și cea mai mare când este din spate. Diferența dă componenta vântului.",
    "answers": [
     {
      "text": "Efectuând un viraj lent de 360 de grade și notând cea mai mică viteză la sol",
      "correct": true,
      "short": "Efectuând un viraj lent de 360° și notând cea mai mică viteză la sol.",
-     "long": "",
+     "long": "Corect. Virajul lent de 360° și notarea vitezei minime la sol permit estimarea vântului.",
      "warn": ""
     },
     {
      "text": "Zburând în linie dreaptă pentru 10 minute",
      "correct": false,
      "short": "",
-     "long": "Nu permite estimarea vântului.",
+     "long": "Zborul în linie dreaptă 10 minute nu dă vântul la altitudine; se folosește virajul.",
      "warn": ""
     },
     {
      "text": "Utilizând doar un altimetru barometric",
      "correct": false,
      "short": "",
-     "long": "Altimetrul nu dă vântul.",
+     "long": "Altimetrul barometric nu dă vântul.",
      "warn": ""
     },
     {
      "text": "Întreținând o viteză constantă la sol",
      "correct": false,
      "short": "Menținând o viteză constantă la sol.",
-     "long": "Viteza constantă nu permite estimarea.",
+     "long": "Viteza constantă la sol nu permite estimarea vântului.",
      "warn": ""
     }
    ]
