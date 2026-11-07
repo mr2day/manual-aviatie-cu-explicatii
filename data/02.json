@@ -2733,7 +2733,7 @@
      "text": "stabilitatea la viteze mari",
      "correct": false,
      "short": "",
-     "long": "Stabilitatea la viteze mari nu este avantajul specific al EN B. Avantajul lui este performanța (RACR-CCO nu intră aici; explicație generală).",
+     "long": "Stabilitatea la viteze mari nu este avantajul specific al EN B. Avantajul lui este performanța.",
      "warn": ""
     }
    ]
