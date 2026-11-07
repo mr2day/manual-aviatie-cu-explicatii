@@ -2526,34 +2526,34 @@
    "number": "#71",
    "text": "689: Ce înseamnă abrevierea VMC în contextul aviației?",
    "short": "VMC înseamnă condiții meteorologice de zbor la vedere.",
-   "long": "VMC (Visual Meteorological Conditions) sunt condițiile în care pilotul poate vedea și evita obstacolele și alte aeronave. Sunt opusul condițiilor IMC, în care zborul se face după instrumente.",
+   "long": "VMC înseamnă condiții meteorologice de zbor la vedere (visual meteorological conditions). Sunt condițiile în care pilotul vede solul și obstacolele, fiind exprimate prin vizibilitate și distanța față de nori.",
    "answers": [
     {
      "text": "vizibilitate minimă critică",
      "correct": false,
      "short": "",
-     "long": "Nu este denumirea VMC.",
+     "long": "VMC nu înseamnă vizibilitate minimă critică. Abrevierea se referă la condițiile de zbor la vedere.",
      "warn": ""
     },
     {
      "text": "condiții meteorologice de zbor la vedere",
      "correct": true,
      "short": "",
-     "long": "Este denumirea corectă.",
+     "long": "Corect. VMC sunt condițiile meteorologice de zbor la vedere.",
      "warn": ""
     },
     {
      "text": "control de trafic aerian",
      "correct": false,
      "short": "",
-     "long": "ATC este control de trafic aerian, nu VMC.",
+     "long": "Controlul traficului aerian este ATC, nu VMC.",
      "warn": ""
     },
     {
      "text": "vizibilitate maximă critică",
      "correct": false,
      "short": "",
-     "long": "Nu este denumirea VMC.",
+     "long": "Vizibilitatea maximă critică nu este semnificația VMC.",
      "warn": ""
     }
    ]
@@ -2562,34 +2562,34 @@
    "number": "#72",
    "text": "707: Frecvenţele radio a turnurilor de control din Romania sunt publicate în:",
    "short": "Frecvențele turnurilor de control din România sunt publicate în AIP România.",
-   "long": "AIP România este publicația oficială cu informații aeronautice. Conține frecvențele, aerodromurile și spațiile aeriene. Celelalte surse nu sunt publicația oficială care le conține.",
+   "long": "Frecvențele turnurilor de control sunt publicate în AIP România, publicația oficială de informare aeronautică.",
    "answers": [
     {
      "text": "AIP Romania",
      "correct": true,
      "short": "AIP România.",
-     "long": "Este publicația oficială care conține frecvențele.",
+     "long": "Corect. Frecvențele sunt în AIP România.",
      "warn": ""
     },
     {
      "text": "HG 912/2010 - Anexa 1",
      "correct": false,
      "short": "HG 912/2010, Anexa 1.",
-     "long": "Este un act normativ, nu publicația cu frecvențe.",
+     "long": "HG 912/2010 nu este publicația cu frecvențele turnurilor.",
      "warn": ""
     },
     {
      "text": "Regulamentul Circulaţiei Aeriene din România",
      "correct": false,
      "short": "Regulamentul Circulației Aeriene din România.",
-     "long": "Reglementează zborul, dar nu publică frecvențele.",
+     "long": "Regulamentul circulației aeriene nu publică frecvențele turnurilor. Acestea sunt în AIP.",
      "warn": ""
     },
     {
      "text": "în manualul de operare al aeronavei",
      "correct": false,
      "short": "",
-     "long": "Manualul conține proceduri ale aeronavei, nu frecvențele oficiale.",
+     "long": "Manualul de operare al aeronavei nu conține frecvențele turnurilor de control.",
      "warn": ""
     }
    ]
@@ -2634,34 +2634,34 @@
    "number": "#74",
    "text": "724: Staţiile radio de aviaţie au un domeniu de frecvenţă de:",
    "short": "Radiostațiile de aviație funcționează între 118 și 135,975 MHz, cu un ecart de 8,33 kHz între canale.",
-   "long": "Benzile VHF aeronautice sunt între 118 și 136 MHz. Ecartul de 8,33 kHz permite mai multe canale în aceeași bandă, iar în Europa acest standard este folosit pe scară largă. Celelalte variante dau fie ecart greșit (25 kHz), fie domenii care nu corespund benzii aeronautice.",
+   "long": "Stațiile radio de aviație lucrează în banda 118,000–135,975 MHz. În Europa canalele sunt de 8,33 kHz, mai înguste decât cele vechi de 25 kHz.",
    "answers": [
     {
      "text": "118.000 MHz la 135.975 MHz cu un ecart între canale de 25 KHz",
      "correct": false,
      "short": "118.000 MHz – 135,975 MHz, ecart de 25 kHz.",
-     "long": "Ecartul de 25 kHz este un standard vechi; în Europa se folosește ecartul de 8,33 kHz.",
+     "long": "Banda este corectă, dar ecartul de 25 kHz este cel vechi. Se folosește 8,33 kHz.",
      "warn": ""
     },
     {
      "text": "118.000 MHz la 135.975 Mhz cu un ecart între canale de 8.33 Khz",
      "correct": true,
      "short": "118.000 MHz – 135,975 MHz, ecart de 8,33 kHz.",
-     "long": "Este varianta corectă pentru domeniu și ecart.",
+     "long": "Corect. Banda este 118–135,975 MHz, cu ecart de 8,33 kHz.",
      "warn": ""
     },
     {
      "text": "domeniul de frecvenţa se schimbă la fiecare 6 luni",
      "correct": false,
      "short": "Domeniul se schimbă la fiecare 6 luni.",
-     "long": "Domeniul nu se schimbă periodic.",
+     "long": "Domeniul de frecvență nu se schimbă la șase luni. Este stabilit prin reglementările de spectru.",
      "warn": ""
     },
     {
      "text": "115000 MHz la 155000 MHz",
      "correct": false,
      "short": "115.000 MHz – 155.000 MHz.",
-     "long": "Acest domeniu depășește banda aeronautică.",
+     "long": "Banda 115–155 MHz nu este domeniul aviației civile.",
      "warn": ""
     }
    ]
@@ -2670,34 +2670,34 @@
    "number": "#75",
    "text": "785: Cum trebuie să procedeze o aeronavă în cazul în care nu poate stabili contact radio cu ATC la intrarea din spațiul G în spațiul controlat?",
    "short": "Dacă aeronava nu poate stabili contactul radio cu ATC la intrarea în spațiul controlat, rămâne în spațiul necontrolat și încearcă să restabilească legătura.",
-   "long": "Intrarea în spațiul controlat fără autorizare nu este permisă. Aeronava rămâne în spațiul necontrolat, continuă să încerce comunicarea și urmează procedurile de rămânere în afara spațiului controlat până când se stabilește contactul. Codul 7700 sau aterizarea nu sunt răspunsul standard la această problemă.",
+   "long": "Dacă aeronava nu reușește să stabilească legătura radio cu ATC înainte de a intra în spațiul controlat, nu intră. Rămâne în spațiul necontrolat și încearcă să refacă legătura.",
    "answers": [
     {
      "text": "Aeronava trebuie să seteze transponderul pe codul 7700 și să emită un mesaj de urgență",
      "correct": false,
      "short": "Setează transponderul pe 7700 și emite un mesaj de urgență.",
-     "long": "7700 nu este codul pentru lipsa contactului la intrare.",
+     "long": "Transponderul pe 7700 și mesajul de urgență nu sunt procedura de intrare fără contact radio. Urgența se declară doar dacă există pericol.",
      "warn": ""
     },
     {
      "text": "Aeronava trebuie să se mențină în spațiul necontrolat și să încerce să restabilească contactul radio",
      "correct": true,
      "short": "Rămâne în spațiul necontrolat și încearcă să restabilească contactul radio.",
-     "long": "Este procedura corectă.",
+     "long": "Corect. Aeronava nu intră fără autorizare și încearcă să restabilească legătura din spațiul necontrolat.",
      "warn": ""
     },
     {
      "text": "Aeronava trebuie să continuie zborul conform planului de zbor depus, utilizând procedurile standard de pierdere a comunicațiilor",
      "correct": false,
      "short": "Continuă zborul conform planului, folosind procedurile de pierdere a comunicațiilor.",
-     "long": "Pierderea comunicațiilor nu este aceeași situație cu lipsa autorizării de intrare.",
+     "long": "Continuarea zborului conform planului de zbor nu înlocuiește autorizarea ATC pentru intrarea în spațiul controlat.",
      "warn": ""
     },
     {
      "text": "Aeronava trebuie să aterizeze la cel mai apropiat aerodrom necontrolat",
      "correct": false,
      "short": "Aterizează la cel mai apropiat aerodrom necontrolat.",
-     "long": "Aterizarea nu este procedura cerută în acest caz.",
+     "long": "Aterizarea nu este necesară doar pentru că lipsește legătura radio. Aeronava rămâne în spațiul necontrolat.",
      "warn": ""
     }
    ]
@@ -2706,34 +2706,34 @@
    "number": "#76",
    "text": "771: Ce termen este folosit pentru a desemna serviciile de telecomunicații fixe sau mobile accesibile publicului?",
    "short": "Serviciile de telecomunicații fixe sau mobile accesibile publicului se numesc servicii publice de telecomunicații.",
-   "long": "Serviciile publice sunt cele pe care le poate folosi oricine, contra unei taxe sau gratuit, spre deosebire de cele private sau de securitate, rezervate unor utilizatori.",
+   "long": "Serviciile de telecomunicații accesibile publicului sunt serviciile publice de telecomunicații.",
    "answers": [
     {
      "text": "servicii de telecomunicații de securitate",
      "correct": false,
      "short": "",
-     "long": "Sunt rezervate unor utilizatori speciali.",
+     "long": "Serviciile de securitate sunt cele ale autorităților de securitate, nu sunt accesibile public.",
      "warn": ""
     },
     {
      "text": "servicii de telecomunicații de urgență",
      "correct": false,
      "short": "",
-     "long": "Sunt pentru situații de urgență, nu pentru acces general.",
+     "long": "Serviciile de urgență sunt cele pentru apeluri de urgență, nu denumirea generală.",
      "warn": ""
     },
     {
      "text": "servicii private de telecomunicații",
      "correct": false,
      "short": "",
-     "long": "Sunt pentru un grup restrâns de utilizatori.",
+     "long": "Serviciile private nu sunt accesibile publicului.",
      "warn": ""
     },
     {
      "text": "servicii publice de telecomunicații",
      "correct": true,
      "short": "",
-     "long": "Sunt cele accesibile publicului.",
+     "long": "Corect. Serviciile accesibile publicului sunt serviciile publice de telecomunicații.",
      "warn": ""
     }
    ]
@@ -2742,34 +2742,34 @@
    "number": "#77",
    "text": "723: Dacă sunteţi în legătură cu un organ de trafic şi vi s-a oprit motorul în zbor veţi declara:",
    "short": "Dacă motorul s-a oprit în zbor, se declară MAYDAY.",
-   "long": "Pană de motor în zbor este, de regulă, o situație de pericol grav și iminent, deci se declară MAYDAY. Dacă aeronava mai este controlabilă și are timp suficient, poate fi folosit PAN PAN, dar MAYDAY este răspunsul standard pentru pană de motor.",
+   "long": "La oprirea motorului în zbor, pericolul este grav și iminent. Se transmite MAYDAY (pericol grav și iminent).",
    "answers": [
     {
      "text": "MAY DAY",
      "correct": true,
      "short": "MAYDAY.",
-     "long": "Este declarația corectă pentru pană de motor în zbor.",
+     "long": "Corect. Oprirea motorului în zbor este pericol grav și iminent: MAYDAY.",
      "warn": ""
     },
     {
      "text": "veți ateriza de urgență și apoi veți raporta poziția TWR",
      "correct": false,
      "short": "Voi ateriza de urgență și apoi raportez poziția turnului.",
-     "long": "Raportul trebuie făcut înainte de aterizare, prin mesajul de urgență.",
+     "long": "Raportul după aterizare nu este mesajul de urgență pentru oprirea motorului în zbor. Mesajul este MAYDAY.",
      "warn": ""
     },
     {
      "text": "PAN PAN",
      "correct": false,
      "short": "",
-     "long": "Potrivit doar pentru situații controlabile, fără pericol iminent.",
+     "long": "PAN PAN este pentru urgență fără pericol grav și iminent.",
      "warn": ""
     },
     {
      "text": "EMERGENCY",
      "correct": false,
      "short": "",
-     "long": "Nu este un mesaj standard ICAO pentru această situație.",
+     "long": "EMERGENCY nu este formula standard.",
      "warn": ""
     }
    ]
@@ -2778,34 +2778,34 @@
    "number": "#78",
    "text": "751: Ce semnificație are grupul de litere „SOS” în Codul Morse?",
    "short": "În codul Morse, SOS înseamnă semnal de pericol.",
-   "long": "SOS (··· −−− ···) este semnalul internațional de primejdie în codul Morse. Este recunoscut oriunde și înseamnă că cel care îl transmite se află în pericol și are nevoie de ajutor.",
+   "long": "SOS este semnalul Morse de pericol grav și iminent.",
    "answers": [
     {
      "text": "semnal de atenție",
      "correct": false,
      "short": "",
-     "long": "Nu este sensul SOS.",
+     "long": "Semnalul de atenție nu este SOS.",
      "warn": ""
     },
     {
      "text": "semnal de urgență",
      "correct": false,
      "short": "",
-     "long": "Aproape corect, dar SOS este în mod special semnal de pericol.",
+     "long": "Semnalul de urgență nu este denumirea SOS. SOS este semnal de pericol.",
      "warn": ""
     },
     {
      "text": "semnal de avertizare",
      "correct": false,
      "short": "",
-     "long": "Nu este sensul SOS.",
+     "long": "Semnalul de avertizare nu este SOS.",
      "warn": ""
     },
     {
      "text": "semnal de pericol",
      "correct": true,
      "short": "",
-     "long": "Este sensul internațional al SOS.",
+     "long": "Corect. SOS este semnalul Morse de pericol.",
      "warn": ""
     }
    ]
@@ -2814,34 +2814,34 @@
    "number": "#79",
    "text": "748: Ce termen este folosit pentru o transmisie automată de un semnal de urgență?",
    "short": "ELT este termenul pentru transmisia automată a unui semnal de urgență.",
-   "long": "ELT (Emergency Locator Transmitter) emite automat un semnal de localizare la accident. DME măsoară distanța, VOR oferă radial și ADF indică direcția spre un radiofar NDB.",
+   "long": "ELT (Emergency Locator Transmitter) este dispozitivul care transmite automat semnal de urgență în caz de accident.",
    "answers": [
     {
      "text": "DME (Distance Measuring Equipment)",
      "correct": false,
      "short": "",
-     "long": "Măsoară distanța, nu transmite semnal de urgență.",
+     "long": "DME măsoară distanța față de un radiofar, nu transmite semnal de urgență.",
      "warn": ""
     },
     {
      "text": "ELT (Emergency Locator Transmitter)",
      "correct": true,
      "short": "",
-     "long": "Este dispozitivul care transmite automat semnalul de urgență.",
+     "long": "Corect. ELT este transmițătorul automat de semnal de urgență.",
      "warn": ""
     },
     {
      "text": "VOR (VHF Omnidirectional Range)",
      "correct": false,
      "short": "",
-     "long": "Este radiofar de navigație, nu de urgență.",
+     "long": "VOR este radiofar de navigație, nu transmițător de urgență.",
      "warn": ""
     },
     {
      "text": "ADF (Automatic Direction Finder)",
      "correct": false,
      "short": "",
-     "long": "Indică direcția spre un radiofar, nu transmite urgență.",
+     "long": "ADF este radiogoniometru, nu transmițător de urgență.",
      "warn": ""
     }
    ]
@@ -2850,34 +2850,34 @@
    "number": "#80",
    "text": "769: Ce cod transponder este utilizat pentru toate zborurile VFR în spațiul aerian necontrolat?",
    "short": "Codul 7000 este codul standard pentru zborurile VFR în Europa (inclusiv în România), când nu ai primit un cod de la ATC.",
-   "long": "(cunoscut ca „Squawk 7000”) este codul standard utilizat pentru zborurile care se desfășoară conform regulilor de zbor la vedere (VFR) în Europa (inclusiv în România) și în majoritatea celorlalte regiuni ale lumii, cu excepția Americii de Nord.\n\nAtunci când un pilot zboară VFR și nu a primit un cod specific din patru cifre din partea controlorilor de trafic aerian (ATC), va selecta codul 7000 pe transponder.\n\nCe rol are codul 7000?\n• Asigură vizibilitatea (conspicuity): codul transmite radarului secundar al controlorilor, și sistemelor anti-coliziune de la bordul altor avioane (precum TCAS), că aeronava este acolo, chiar dacă nu se află sub ghidare directă.\n• Indică tipul de zbor: controlorii pot vedea imediat că aeronava zboară VFR și, în general, în spațiul aerian necontrolat.\n• Nu este un cod de urgență: spre deosebire de alte coduri din seria 7000, 7000 este un cod de operare normală și nu semnalează nicio problemă la bord.\n\nDiferențe regionale: în Europa și în majoritatea statelor ICAO se folosește 7000; în SUA și Canada, codul pentru zbor VFR este 1200.\n\nCum se compară cu codurile de urgență? Este important să nu selectezi accidental un cod rezervat situațiilor critice:\n• 7500: deturnare / intervenție ilicită la bord.\n• 7600: pană de radio (lipsa comunicațiilor).\n• 7700: urgență generală (pericol iminent, probleme tehnice majore).",
+   "long": "Codul transponder 7000 este codul pentru zborul VFR în spațiul necontrolat, în Europa.",
    "answers": [
     {
      "text": "7500",
      "correct": false,
      "short": "zboruri VFR în spațiul necontrolat (clasa G).",
-     "long": "Este codul standard pentru zborurile VFR în Europa, inclusiv în spațiul necontrolat.",
+     "long": "7500 este codul pentru deturnare.",
      "warn": ""
     },
     {
      "text": "7000",
      "correct": true,
      "short": "pierderea comunicațiilor radio (cunoscut și ca radio failure sau stare NORDO – No Radio).",
-     "long": "Semnalează că aeronava nu mai poate comunica pe radio.",
+     "long": "Corect. 7000 este codul pentru zborurile VFR în spațiul necontrolat, în Europa.",
      "warn": ""
     },
     {
      "text": "7600",
      "correct": false,
      "short": "semnal de urgență folosit pentru o intervenție ilicită la bord, inclusiv o tentativă de deturnare (hijacking).",
-     "long": "Este codul de securitate pentru deturnare sau intervenție ilicită.",
+     "long": "7600 este codul pentru pierderea comunicațiilor.",
      "warn": ""
     },
     {
      "text": "7700",
      "correct": false,
      "short": "semnalul universal pentru o situație de urgență generală în aviația civilă (echivalentul digital al unui MAYDAY).",
-     "long": "Se folosește când există un pericol sau o problemă gravă, care cere ajutor.",
+     "long": "7700 este codul pentru urgență generală.",
      "warn": ""
     }
    ]
@@ -2922,34 +2922,34 @@
    "number": "#82",
    "text": "702: Pentru a putea utiliza în mod corect o stație radio atunci când zburăm cu motoparapanta trebuie să:",
    "short": "Pentru a folosi corect stația radio la motoparapantă, trebuie să ai o cască cu sistem de comunicații integrat.",
-   "long": "În practică, la motoparapantă stația se folosește de regulă hands-free, iar căștile cu microfon și sistem integrat permit auzirea și vorbitul fără să fie nevoie să ții stația în mână. Protecția la umezeală, antena lungă sau displayul mare nu sunt criteriile de utilizare corectă.",
+   "long": "Pe motoparapantă, zgomotul motorului și vântul acoperă vorbirea. O cască cu sistem de comunicații integrat permite utilizarea corectă a stației.",
    "answers": [
     {
      "text": "avem o stație care să aibă un grad ridicat de protecție la umezeală",
      "correct": false,
      "short": "O stație cu grad ridicat de protecție la umezeală.",
-     "long": "Protecția este utilă, dar nu este cerința de utilizare corectă.",
+     "long": "Protecția la umezeală nu este condiția principală pentru utilizarea corectă a stației în zbor.",
      "warn": ""
     },
     {
      "text": "dispunem de o cască prevăzută cu sistem de comunicații integrat",
      "correct": true,
      "short": "O cască prevăzută cu sistem de comunicații integrat.",
-     "long": "Este modul corect de utilizare a stației în zbor.",
+     "long": "Corect. Casca cu sistem integrat permite comunicația în zgomotul motorului și vântului.",
      "warn": ""
     },
     {
      "text": "avem o stație cu antenă suficient de lungă pentru a permite raze mari de acțiune",
      "correct": false,
      "short": "O stație cu antenă suficient de lungă.",
-     "long": "Antena influențează raza, dar nu modul de utilizare.",
+     "long": "Antena lungă nu este condiția de utilizare corectă în zbor. Contează comunicația audibilă.",
      "warn": ""
     },
     {
      "text": "avem o stație radio cu un display suficient de mare",
      "correct": false,
      "short": "O stație cu display suficient de mare.",
-     "long": "Displayul nu este cerința de utilizare corectă.",
+     "long": "Displayul mare nu este condiția de utilizare a stației în zbor.",
      "warn": ""
     }
    ]
@@ -2958,34 +2958,34 @@
    "number": "#83",
    "text": "779: Care este rolul serviciului de informare a zborurilor în spațiul aerian necontrolat?",
    "short": "Serviciul de informare a zborurilor în spațiul necontrolat furnizează informații utile pentru un zbor sigur și eficient.",
-   "long": "Acest serviciu nu autorizează decolările sau aterizările și nu controlează zborurile. Oferă informații despre trafic, vreme, NOTAM-uri și alte date utile, la cerere sau când este nevoie.",
+   "long": "Serviciul de informare a zborurilor (FIS) furnizează informații utile pentru zborul în siguranță și eficient, inclusiv în spațiul necontrolat.",
    "answers": [
     {
      "text": "să furnizeze informații utile pentru desfășurarea în siguranță și eficientă a zborului",
      "correct": true,
      "short": "Să furnizeze informații utile pentru un zbor sigur și eficient.",
-     "long": "Este rolul serviciului de informare.",
+     "long": "Corect. FIS furnizează informații utile pentru siguranța și eficiența zborului.",
      "warn": ""
     },
     {
      "text": "să autorizeze decolările și aterizările",
      "correct": false,
      "short": "",
-     "long": "Autorizarea nu este rolul serviciului de informare.",
+     "long": "Autorizarea decolărilor și aterizărilor este serviciul de control, nu cel de informare.",
      "warn": ""
     },
     {
      "text": "să controleze toate zborurile VFR și IFR",
      "correct": false,
      "short": "",
-     "long": "Serviciul de informare nu controlează zborurile.",
+     "long": "Controlul zborurilor VFR și IFR este serviciul ATC, nu serviciul de informare.",
      "warn": ""
     },
     {
      "text": "să coordoneze operațiunile de salvare și căutare",
      "correct": false,
      "short": "",
-     "long": "Coordonarea SAR este atribuția altui serviciu.",
+     "long": "Coordonarea căutării și salvării este alt serviciu, nu informarea zborurilor.",
      "warn": ""
     }
    ]
@@ -2994,34 +2994,34 @@
    "number": "#84",
    "text": "770: Ce document este necesar pentru a opera legal o stație radio aeronautică?",
    "short": "Pentru a opera legal o stație radio aeronautică este necesar certificatul de operator radio.",
-   "long": "Stația trebuie condusă de o persoană care deține certificatul de operator. Certificatul de garanție, pașaportul și permisul de conducere nu dau dreptul de a folosi stația radio.",
+   "long": "Pentru a opera legal o stație radio aeronautică este necesar certificatul de operator radio, eliberat de autoritatea competentă.",
    "answers": [
     {
      "text": "certificatul de garanție",
      "correct": false,
      "short": "",
-     "long": "Nu dă dreptul de a opera stația.",
+     "long": "Certificatul de garanție privește echipamentul, nu operarea legală.",
      "warn": ""
     },
     {
      "text": "pașaportul",
      "correct": false,
      "short": "",
-     "long": "Identifică persoana, nu dă dreptul de operare.",
+     "long": "Pașaportul nu este documentul pentru operarea stației.",
      "warn": ""
     },
     {
      "text": "certificatul de operator radio",
      "correct": true,
      "short": "",
-     "long": "Este documentul necesar pentru operarea legală a stației.",
+     "long": "Corect. Operarea legală cere certificatul de operator radio.",
      "warn": ""
     },
     {
      "text": "permisul de conducere",
      "correct": false,
      "short": "",
-     "long": "Nu dă dreptul de a opera o stație radio.",
+     "long": "Permisul de conducere nu este documentul pentru operarea stației.",
      "warn": ""
     }
    ]
@@ -3030,34 +3030,34 @@
    "number": "#85",
    "text": "750: Care este rolul unui operator radio cu certificat restrâns?",
    "short": "Operatorul cu certificat restrâns poate opera doar pe frecvențele alocate exclusiv serviciului respectiv.",
-   "long": "Certificatul restrâns are o arie mai mică decât cel general, deci operatorul este limitat la frecvențele serviciului pentru care a fost certificat. Certificatul general permite operarea pe toate frecvențele serviciului aeronautic.",
+   "long": "Operatorul cu certificat restrâns poate opera doar pe frecvențele alocate exclusiv serviciului pentru care este certificat, spre deosebire de cel cu certificat general.",
    "answers": [
     {
      "text": "poate opera pe orice frecvență",
      "correct": false,
      "short": "",
-     "long": "Aceasta este aria certificatului general.",
+     "long": "Operatorul cu certificat restrâns nu poate opera pe orice frecvență. Asta este privilegiul certificatului general.",
      "warn": ""
     },
     {
      "text": "poate opera pe frecvențele alocate exclusiv serviciului respectiv",
      "correct": true,
      "short": "Poate opera doar pe frecvențele alocate exclusiv serviciului respectiv.",
-     "long": "Este aria certificatului restrâns.",
+     "long": "Corect. Certificatul restrâns este limitat la frecvențele alocate serviciului.",
      "warn": ""
     },
     {
      "text": "poate controla toate comunicațiile aer-sol",
      "correct": false,
      "short": "",
-     "long": "Certificatul de operator nu dă această atribuție.",
+     "long": "Controlul tuturor comunicațiilor aer-sol nu este rolul operatorului cu certificat restrâns.",
      "warn": ""
     },
     {
      "text": "poate efectua inspecții ale stațiilor radio",
      "correct": false,
      "short": "",
-     "long": "Inspecțiile țin de autoritate, nu de certificatul de operator.",
+     "long": "Inspecțiile stațiilor sunt ale autorității, nu ale operatorului.",
      "warn": ""
     }
    ]
@@ -3066,34 +3066,34 @@
    "number": "#86",
    "text": "766: Ce document este necesar pentru autorizarea funcționării unei stații de radiocomunicații?",
    "short": "Pentru autorizarea funcționării unei stații radio este necesar certificatul general de operator radiotelefonist.",
-   "long": "Certificatul general este documentul care arată că persoana poate conduce o stație din serviciul aeronautic. Permisul de conducere, certificatul de sănătate și pașaportul nu înlocuiesc certificatul de operator.",
+   "long": "Autorizarea funcționării unei stații de radiocomunicații cere certificatul general de operator radiotelefonist, eliberat de ANCOM.",
    "answers": [
     {
      "text": "certificatul general de operator radiotelefonist",
      "correct": true,
      "short": "",
-     "long": "Este documentul corect pentru autorizarea funcționării.",
+     "long": "Corect. Certificatul general de operator radiotelefonist este documentul cerut.",
      "warn": ""
     },
     {
      "text": "permisul de conducere",
      "correct": false,
      "short": "",
-     "long": "Nu are legătură cu funcționarea stației radio.",
+     "long": "Permisul de conducere nu este documentul pentru stația radio.",
      "warn": ""
     },
     {
      "text": "certificatul de sănătate",
      "correct": false,
      "short": "",
-     "long": "Nu este documentul de operator radio.",
+     "long": "Certificatul de sănătate nu este documentul pentru stația radio.",
      "warn": ""
     },
     {
      "text": "pașaportul operatorului",
      "correct": false,
      "short": "",
-     "long": "Identifică persoana, nu autorizează stația.",
+     "long": "Pașaportul nu este documentul pentru stația radio.",
      "warn": ""
     }
    ]
@@ -3102,34 +3102,34 @@
    "number": "#87",
    "text": "754: Ce termen codificat indică o fază de incertitudine?",
    "short": "Faza de incertitudine se numește INCERFA.",
-   "long": "INCERFA este prima fază a serviciilor de căutare și salvare, când există incertitudine despre siguranța aeronavei. Este urmată de ALERFA (alarmă) și DETRESFA (pericol grav și iminent).",
+   "long": "INCERFA este faza de incertitudine: nu se știe sigur dacă aeronava are o problemă, iar primul pas este căutarea informațiilor.",
    "answers": [
     {
      "text": "INCERFA",
      "correct": true,
      "short": "",
-     "long": "Faza de incertitudine.",
+     "long": "Corect. INCERFA este faza de incertitudine.",
      "warn": ""
     },
     {
      "text": "ALERFA",
      "correct": false,
      "short": "",
-     "long": "Faza de alarmă, mai gravă decât incertitudinea.",
+     "long": "ALERFA este faza de alarmă, nu de incertitudine.",
      "warn": ""
     },
     {
      "text": "PAN",
      "correct": false,
      "short": "",
-     "long": "Mesaj de urgență, nu fază.",
+     "long": "PAN este mesaj de urgență, nu fază.",
      "warn": ""
     },
     {
      "text": "DETRESFA",
      "correct": false,
      "short": "",
-     "long": "Faza de pericol grav și iminent.",
+     "long": "DETRESFA este faza de pericol grav și iminent.",
      "warn": ""
     }
    ]
@@ -3138,34 +3138,34 @@
    "number": "#88",
    "text": "758: Ce documente trebuie să însoțească în mod obligatoriu stațiile de radiocomunicații?",
    "short": "Stațiile radio trebuie însoțite de autorizația de utilizare a frecvențelor și de licența stației.",
-   "long": "Autorizația de utilizare a frecvențelor și licența stației dovedesc că stația poate funcționa legal pe frecvențele alocate. Pașaportul operatorului, certificatul de garanție și manualul de utilizare nu sunt documentele care autorizează funcționarea.",
+   "long": "Stația de radiocomunicații trebuie să fie însoțită de autorizația de utilizare a frecvențelor și de licența stației.",
    "answers": [
     {
      "text": "autorizația de utilizare a frecvențelor și licența stației",
      "correct": true,
      "short": "",
-     "long": "Sunt documentele care autorizează funcționarea.",
+     "long": "Corect. Autorizația de utilizare a frecvențelor și licența stației trebuie să fie la stație.",
      "warn": ""
     },
     {
      "text": "pașaportul operatorului",
      "correct": false,
      "short": "",
-     "long": "Identifică persoana, nu stația.",
+     "long": "Pașaportul operatorului nu este documentul stației.",
      "warn": ""
     },
     {
      "text": "certificatul de garanție al echipamentului",
      "correct": false,
      "short": "",
-     "long": "Atestă garanția, nu autorizarea.",
+     "long": "Certificatul de garanție nu este documentul stației.",
      "warn": ""
     },
     {
      "text": "manualul de utilizare al stației",
      "correct": false,
      "short": "",
-     "long": "Este un document tehnic, nu o autorizație.",
+     "long": "Manualul de utilizare nu este documentul obligatoriu al stației.",
      "warn": ""
     }
    ]
@@ -3174,34 +3174,34 @@
    "number": "#89",
    "text": "776: Ce semnifică termenul „air traffic control” (ATC)?",
    "short": "ATC înseamnă gestionarea și coordonarea traficului aerian pentru a asigura siguranța zborurilor.",
-   "long": "Air Traffic Control este serviciul care organizează fluxul de aeronave, previne coliziunile și dă instrucțiuni pentru rulare, decolare și aterizare. Celelalte variante descriu activități care nu țin de ATC.",
+   "long": "ATC (Air Traffic Control) gestionează și coordonează traficul aerian pentru siguranța zborurilor.",
    "answers": [
     {
      "text": "gestionarea bagajelor pierdute",
      "correct": false,
      "short": "",
-     "long": "Nu ține de ATC.",
+     "long": "Gestionarea bagajelor pierdute nu este ATC.",
      "warn": ""
     },
     {
      "text": "gestionarea și coordonarea traficului aerian pentru a asigura siguranța zborurilor",
      "correct": true,
      "short": "",
-     "long": "Este sensul corect al ATC.",
+     "long": "Corect. ATC gestionează și coordonează traficul aerian.",
      "warn": ""
     },
     {
      "text": "verificarea documentelor pasagerilor",
      "correct": false,
      "short": "",
-     "long": "Nu ține de ATC.",
+     "long": "Verificarea documentelor pasagerilor nu este ATC.",
      "warn": ""
     },
     {
      "text": "efectuarea inspecțiilor de securitate la sol",
      "correct": false,
      "short": "",
-     "long": "Nu ține de ATC.",
+     "long": "Inspecțiile de securitate nu sunt ATC.",
      "warn": ""
     }
    ]
@@ -3210,34 +3210,34 @@
    "number": "#90",
    "text": "720: Unitatea de măsura a frecventei este:",
    "short": "Unitatea de măsură a frecvenței este hertzul (Hz).",
-   "long": "Frecvența se măsoară în hertzi: un hertz înseamnă un ciclu pe secundă. Pentru radio se folosesc kilohertzi (kHz) și megahertzi (MHz). Newtonul măsoară forța, decibelul măsoară raportul de intensitate, iar VHF este o bandă de frecvențe, nu o unitate.",
+   "long": "Frecvența se măsoară în hertzi (Hz), cu multipli kHz și MHz.",
    "answers": [
     {
      "text": "Newtonul",
      "correct": false,
      "short": "",
-     "long": "Este unitatea forței, nu a frecvenței.",
+     "long": "Newtonul este unitate de forță, nu de frecvență.",
      "warn": ""
     },
     {
      "text": "VHF",
      "correct": false,
      "short": "",
-     "long": "Este o bandă de frecvențe, nu o unitate de măsură.",
+     "long": "VHF este o bandă de frecvențe, nu o unitate de măsură.",
      "warn": ""
     },
     {
      "text": "Decibelul",
      "correct": false,
      "short": "",
-     "long": "Este unitate pentru raport de intensitate, nu pentru frecvență.",
+     "long": "Decibelul este unitate de nivel sonor sau de putere, nu de frecvență.",
      "warn": ""
     },
     {
      "text": "Hertzul",
      "correct": true,
      "short": "",
-     "long": "Este unitatea de măsură a frecvenței.",
+     "long": "Corect. Frecvența se măsoară în hertzi.",
      "warn": ""
     }
    ]
@@ -3246,34 +3246,34 @@
    "number": "#91",
    "text": "741: Ce reprezintă abrevierea ATC?",
    "short": "ATC înseamnă Air Traffic Control.",
-   "long": "Air Traffic Control este denumirea serviciului care gestionează circulația aeriană. Celelalte denumiri nu sunt sensul abrevierii ATC.",
+   "long": "ATC înseamnă Air Traffic Control.",
    "answers": [
     {
      "text": "Aircraft Technical Check",
      "correct": false,
      "short": "",
-     "long": "Nu este sensul ATC.",
+     "long": "Aircraft Technical Check nu este ATC.",
      "warn": ""
     },
     {
      "text": "Air Traffic Control",
      "correct": true,
      "short": "",
-     "long": "Este sensul corect.",
+     "long": "Corect. ATC este Air Traffic Control.",
      "warn": ""
     },
     {
      "text": "Aviation Training Center",
      "correct": false,
      "short": "",
-     "long": "Nu este sensul ATC.",
+     "long": "Aviation Training Center nu este ATC.",
      "warn": ""
     },
     {
      "text": "Air Transport Command",
      "correct": false,
      "short": "",
-     "long": "Nu este sensul ATC.",
+     "long": "Air Transport Command nu este ATC.",
      "warn": ""
     }
    ]
@@ -3282,34 +3282,34 @@
    "number": "#92",
    "text": "782: Care sunt componentele serviciului de informare a zborurilor în spațiul necontrolat?",
    "short": "Serviciul de informare în spațiul necontrolat oferă indicații și informații utile pentru un zbor sigur și eficient.",
-   "long": "Serviciul de informare nu autorizează zboruri și nu controlează trafic. Componentele lui sunt informațiile și indicațiile date pilotului, la cerere sau când este necesar.",
+   "long": "În spațiul necontrolat, serviciul de informare dă indicații și informații utile pentru zborul în siguranță și eficient.",
    "answers": [
     {
      "text": "furnizarea de indicații și informații utile pentru desfășurarea în siguranță și eficientă a zborului",
      "correct": true,
      "short": "Furnizarea de indicații și informații utile pentru un zbor sigur și eficient.",
-     "long": "Este componenta corectă a serviciului.",
+     "long": "Corect. Furnizarea de indicații și informații utile zborului.",
      "warn": ""
     },
     {
      "text": "autorizarea decolărilor și aterizărilor",
      "correct": false,
      "short": "",
-     "long": "Nu ține de serviciul de informare.",
+     "long": "Autorizarea decolărilor și aterizărilor nu este componenta serviciului de informare.",
      "warn": ""
     },
     {
      "text": "controlul tuturor zborurilor IFR și VFR",
      "correct": false,
      "short": "",
-     "long": "Serviciul de informare nu controlează zborurile.",
+     "long": "Controlul zborurilor IFR și VFR este ATC, nu informarea.",
      "warn": ""
     },
     {
      "text": "coordonarea operațiunilor de salvare și căutare",
      "correct": false,
      "short": "",
-     "long": "Nu este componenta serviciului de informare.",
+     "long": "Coordonarea căutării și salvării nu este componenta serviciului de informare.",
      "warn": ""
     }
    ]
@@ -3354,34 +3354,34 @@
    "number": "#94",
    "text": "713: Care din următoarele afirmații este corectă:",
    "short": "În spațiul de clasă G nu este obligatorie legătura radio cu organul de trafic.",
-   "long": "Clasa G este spațiu necontrolat, deci nu este obligatorie comunicarea radio cu un organ de trafic. Totuși, în alte spații sau în anumite condiții, comunicarea poate fi obligatorie. Walkie-talkie-urile nu sunt obligatorii în clasa G.",
+   "long": "În clasa G legătura radio cu organul de trafic nu este obligatorie pentru zborul VFR. Clasa G este necontrolată, iar serviciul de informare se oferă la cerere (AIP ENR 1.4).",
    "answers": [
     {
      "text": "în spațiul G nu este obligatorie legătura radio cu organul de trafic",
      "correct": true,
      "short": "",
-     "long": "Este afirmația corectă.",
+     "long": "Corect. În clasa G legătura radio cu organul de trafic nu este obligatorie pentru zborul VFR (AIP ENR 1.4).",
      "warn": ""
     },
     {
      "text": "în spațiul G stațiile de tip walkie talkie sunt oblogatorii",
      "correct": false,
      "short": "În spațiul G stațiile walkie-talkie sunt obligatorii.",
-     "long": "Nu sunt obligatorii în clasa G.",
+     "long": "Walkie-talkie-urile nu sunt obligatorii în clasa G. Obligația nu există pentru zborul VFR.",
      "warn": ""
     },
     {
      "text": "în spațiul G este obligatorie legatura radio cu organul de trafic",
      "correct": false,
      "short": "În spațiul G este obligatorie legătura radio cu organul de trafic.",
-     "long": "Nu este obligatorie în clasa G.",
+     "long": "Legătura radio nu este obligatorie în clasa G pentru zborul VFR (AIP ENR 1.4).",
      "warn": ""
     },
     {
      "text": "în spațiul G se poate zbura fără stație în frecvența de aviație doar dacă organul de control permite asta",
      "correct": false,
      "short": "În spațiul G se poate zbura fără stație doar dacă organul de control permite.",
-     "long": "În clasa G nu este nevoie de permisiunea organului de control pentru a zbura fără radio.",
+     "long": "Nu este nevoie de permisiunea organului de control pentru a zbura fără radio în clasa G.",
      "warn": ""
     }
    ]
@@ -3390,34 +3390,34 @@
    "number": "#95",
    "text": "726: Semnificaţia mesajului „ALERFA” este:",
    "short": "ALERFA este termenul codificat care indică o fază de alarmă.",
-   "long": "ALERFA este faza în care există motive de îngrijorare pentru siguranța aeronavei și sunt pornite măsurile de alarmare. Este între INCERFA (incertitudine) și DETRESFA (pericol grav și iminent).",
+   "long": "ALERFA este faza de alarmă: există motive să se creadă că aeronava are probleme.",
    "answers": [
     {
      "text": "termenul codificat care indică o faza de alarmă",
      "correct": true,
      "short": "Termenul codificat care indică o fază de alarmă.",
-     "long": "Este definiția corectă.",
+     "long": "Corect. ALERFA este faza de alarmă.",
      "warn": ""
     },
     {
      "text": "termenul codificat care indică o faza de incertitudine",
      "correct": false,
      "short": "Termenul codificat care indică o fază de incertitudine.",
-     "long": "Aceasta este INCERFA.",
+     "long": "INCERFA este faza de incertitudine, nu de alarmă.",
      "warn": ""
     },
     {
      "text": "termenul codificat care indică o faza de atenționare",
      "correct": false,
      "short": "Termenul codificat care indică o fază de atenționare.",
-     "long": "Nu este o fază standard.",
+     "long": "Faza de atenționare nu este denumirea ALERFA. Este faza de alarmă.",
      "warn": ""
     },
     {
      "text": "termenul codificat care indică o faza de pericol",
      "correct": false,
      "short": "Termenul codificat care indică o fază de pericol.",
-     "long": "Aceasta este DETRESFA.",
+     "long": "DETRESFA este faza de pericol, nu de alarmă.",
      "warn": ""
     }
    ]
@@ -3426,34 +3426,34 @@
    "number": "#96",
    "text": "755: Ce cod transponder este utilizat pentru a semnala toate situațiile normale de zbor?",
    "short": "Codul 7000 este folosit pentru toate situațiile normale de zbor VFR.",
-   "long": "Codul 7000 este codul de zbor normal VFR în Europa, folosit când nu ai un cod atribuit de ATC. Codurile 7600, 7700 și 7500 sunt pentru situații de urgență sau de pericol.",
+   "long": "În zborul normal, transponderul se setează pe 7000 în spațiul necontrolat din Europa.",
    "answers": [
     {
      "text": "7600",
      "correct": false,
      "short": "",
-     "long": "Este pentru pierderea comunicațiilor.",
+     "long": "7600 semnalează pierderea comunicațiilor, nu zborul normal.",
      "warn": ""
     },
     {
      "text": "7000",
      "correct": true,
      "short": "",
-     "long": "Este codul pentru situațiile normale de zbor VFR.",
+     "long": "Corect. 7000 este codul pentru zborul normal în spațiul necontrolat.",
      "warn": ""
     },
     {
      "text": "7700",
      "correct": false,
      "short": "",
-     "long": "Este pentru urgență generală.",
+     "long": "7700 semnalează urgența generală.",
      "warn": ""
     },
     {
      "text": "7500",
      "correct": false,
      "short": "",
-     "long": "Este pentru deturnare.",
+     "long": "7500 semnalează deturnarea.",
      "warn": ""
     }
    ]
@@ -3462,34 +3462,34 @@
    "number": "#97",
    "text": "763: Ce termen este folosit pentru a desemna o rută definită pentru traficul aerian?",
    "short": "Ruta definită pentru traficul aerian se numește rută ATS.",
-   "long": "Rutele ATS (Air Traffic Services) sunt rute stabilite și publicate, pe care aeronavele zboară pentru o coordonare eficientă a traficului. Rutele VFR și IFR sunt tipuri de zbor, nu rute definite.",
+   "long": "Ruta ATS este o rută definită pentru traficul aerian, cu servicii de trafic aerian.",
    "answers": [
     {
      "text": "rută VFR",
      "correct": false,
      "short": "",
-     "long": "VFR este un tip de regulă de zbor, nu o rută definită.",
+     "long": "Ruta VFR nu este o rută definită pentru traficul aerian de tip ATS.",
      "warn": ""
     },
     {
      "text": "rută IFR",
      "correct": false,
      "short": "",
-     "long": "IFR este un tip de regulă de zbor, nu o rută definită.",
+     "long": "Ruta IFR este o rută de zbor instrumental, dar termenul generic este ATS.",
      "warn": ""
     },
     {
      "text": "rută ATS",
      "correct": true,
      "short": "",
-     "long": "Este rută definită și publicată pentru traficul aerian.",
+     "long": "Corect. Ruta ATS este rută definită pentru traficul aerian.",
      "warn": ""
     },
     {
      "text": "rută de serviciu",
      "correct": false,
      "short": "",
-     "long": "Nu este denumirea rutei definite.",
+     "long": "Ruta de serviciu nu este termenul pentru rutele de trafic aerian.",
      "warn": ""
     }
    ]
@@ -3498,34 +3498,34 @@
    "number": "#98",
    "text": "727: Zburaţi cu o motoparapantă care nu este echipată cu transponder, cum veţi raporta organului de trafic când acesta va cere să afişaţi un SQUAK?",
    "short": "Dacă nu ai transponder, raportezi „negativ transponder”.",
-   "long": "Când controlorul cere afișarea unui cod SQUAWK și nu ai transponder, răspunzi „negativ transponder”. Expresiile în limba engleză fără formularea standard („I don't have transponder”, „no transponder”) nu sunt frazeologia corectă, iar „negativ squak” nu este termenul corect.",
+   "long": "Dacă nu ai transponder, răspunzi „negativ transponder” când ți se cere SQUAWK. Formula standard este negativ urmat de termenul transponder.",
    "answers": [
     {
      "text": "I don't have transponder",
      "correct": false,
      "short": "",
-     "long": "Nu este frazeologia standard.",
+     "long": "„I don't have transponder” nu este formula standard în fonia aeronautică.",
      "warn": ""
     },
     {
      "text": "negativ squak",
      "correct": false,
      "short": "",
-     "long": "Termenul corect este „negativ transponder”.",
+     "long": "„Negativ squak” nu este formula corectă: se spune „negativ transponder”.",
      "warn": ""
     },
     {
      "text": "no transponder",
      "correct": false,
      "short": "",
-     "long": "Nu este frazeologia standard.",
+     "long": "„No transponder” nu este formula standard în fonia aeronautică.",
      "warn": ""
     },
     {
      "text": "negativ transponder",
      "correct": true,
      "short": "",
-     "long": "Este răspunsul standard.",
+     "long": "Corect. Formula standard este „negativ transponder”.",
      "warn": ""
     }
    ]
@@ -3534,34 +3534,34 @@
    "number": "#99",
    "text": "735: ’’Go around’’ înseamnă:",
    "short": "Go around înseamnă că execuți imediat ratarea aterizării.",
-   "long": "Go around este instrucțiunea de a abandona aterizarea și de a relua zborul pentru o nouă abordare. Se execută imediat, de exemplu dacă pista nu este liberă sau condițiile nu permit aterizarea în siguranță.",
+   "long": "Go around înseamnă ratarea aterizării: se urcă și se reia circuitul, din cauza unei situații nesigure la aterizare.",
    "answers": [
     {
      "text": "execută un tur de pistă",
      "correct": false,
      "short": "",
-     "long": "Nu este sensul expresiei; ratarea este imediată.",
+     "long": "Turul de pistă este circuitul, nu ratarea. Go around este ratarea aterizării.",
      "warn": ""
     },
     {
      "text": "Degajează pista imediat",
      "correct": false,
      "short": "",
-     "long": "Acesta este mesajul pentru eliberarea pistei, nu go around.",
+     "long": "Degajarea pistei nu înseamnă go around. Degajarea se face după aterizare.",
      "warn": ""
     },
     {
      "text": "execută imediat ratarea aterizării",
      "correct": true,
      "short": "",
-     "long": "Este sensul corect.",
+     "long": "Corect. Go around este ratarea aterizării.",
      "warn": ""
     },
     {
      "text": "executa imediat un viraj de 360 grade",
      "correct": false,
      "short": "Execută imediat un viraj de 360 de grade.",
-     "long": "Nu este sensul expresiei.",
+     "long": "Virajul de 360° nu este go around.",
      "warn": ""
     }
    ]
@@ -3570,34 +3570,34 @@
    "number": "#100",
    "text": "744: Ce semnal se utilizează pentru a indica o situație de pericol grav și iminent în radiotelefonie?",
    "short": "În radiotelefonie, pericolul grav și iminent se semnalează prin MAYDAY.",
-   "long": "MAYDAY se rostește de trei ori și este folosit când aeronava are nevoie de ajutor imediat. HELP, PAN și SOS nu sunt semnalul de pericol grav și iminent în radiotelefonie.",
+   "long": "MAYDAY este semnalul de radiotelefonie pentru pericol grav și iminent, cu cerere de ajutor imediat.",
    "answers": [
     {
      "text": "HELP",
      "correct": false,
      "short": "",
-     "long": "Nu este semnalul standard de pericol.",
+     "long": "HELP nu este semnalul standard în radiotelefonie.",
      "warn": ""
     },
     {
      "text": "PAN",
      "correct": false,
      "short": "",
-     "long": "Este pentru urgență care nu e imediat periculoasă.",
+     "long": "PAN este semnalul de urgență, fără pericol grav și iminent.",
      "warn": ""
     },
     {
      "text": "MAYDAY",
      "correct": true,
      "short": "",
-     "long": "Este semnalul pentru pericol grav și iminent.",
+     "long": "Corect. MAYDAY este semnalul de pericol grav și iminent.",
      "warn": ""
     },
     {
      "text": "SOS",
      "correct": false,
      "short": "",
-     "long": "Este semnal Morse, nu semnal de pericol în radiotelefonie.",
+     "long": "SOS este semnal Morse, nu semnalul standard de radiotelefonie.",
      "warn": ""
     }
    ]
@@ -3606,34 +3606,34 @@
    "number": "#101",
    "text": "737: Care este frecvența internațională de primejdie pentru aviație?",
    "short": "Frecvența internațională de primejdie pentru aviație este 121,5 MHz.",
-   "long": "121,5 MHz este frecvența internațională de urgență și de primejdie pentru aviație, ascultată pe scară largă. Celelalte frecvențe nu au acest rol internațional.",
+   "long": "Frecvența internațională de urgență pentru aviație este 121,5 MHz.",
    "answers": [
     {
      "text": "125.5 MHz",
      "correct": false,
      "short": "125,5 MHz.",
-     "long": "Nu este frecvența internațională de primejdie.",
+     "long": "125,5 MHz nu este frecvența internațională de urgență.",
      "warn": ""
     },
     {
      "text": "121.5 MHz",
      "correct": true,
      "short": "121,5 MHz.",
-     "long": "Este frecvența internațională de primejdie.",
+     "long": "Corect. 121,5 MHz este frecvența internațională de urgență.",
      "warn": ""
     },
     {
      "text": "124.5 MHz",
      "correct": false,
      "short": "124,5 MHz.",
-     "long": "Nu este frecvența internațională de primejdie.",
+     "long": "124,5 MHz nu este frecvența internațională de urgență.",
      "warn": ""
     },
     {
      "text": "123.5 MHz",
      "correct": false,
      "short": "123,5 MHz.",
-     "long": "Nu este frecvența internațională de primejdie.",
+     "long": "123,5 MHz nu este frecvența internațională de urgență.",
      "warn": ""
     }
    ]
