@@ -846,7 +846,7 @@ details.question-more .more-body {
 }
 @media (prefers-reduced-motion: reduce) { .sidebar { transition: none; } }
 
-.menu-current { font-weight: 400; letter-spacing: 0.5px; text-transform: none; opacity: 0.9; }
+.menu-current { font-family: var(--font-head); font-size: 0.9rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; opacity: 0.95; }
 .menu-current:empty { display: none; }
 .menu-current::before { content: "· "; }
 
