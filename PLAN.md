@@ -20,7 +20,7 @@ un avertisment (`warn`) și explicația corectă.
 
 | Capitol | Întrebări | Stare |
 |---|---|---|
-| 01 Comunicații | 101 | nefăcut |
+| 01 Comunicații | 101 | făcut, cu 5 blocate (23, 32, 73, 81, 93): nu pot confirma din surse |
 | 02 Cunoașterea aeronavei / întreținere | 104 | nefăcut |
 | 03 Legislație | 105 | 1–105 făcute, cu 4 blocate (20, 58, 90, 105): lipsesc sursele |
 | 04 Meteorologie | 87 | nefăcut |
@@ -47,7 +47,11 @@ un avertisment (`warn`) și explicația corectă.
 2. [x] Lotul 2 capitol 03 (Q11–33)
 3. [x] Lotul 3 capitol 03 (Q32–70)
 4. [x] Capitol 03: Q71–105 (lotul 4, 5, 6, 7, 8); blocate doar 20, 58, 90, 105
-5. [ ] Capitol 01
+5. [x] Capitol 01 (lotul 1: Q1–34, lotul 2: Q35–70, lotul 3: Q71–101).
+       Blocate, fără sursă sigură: 23 (lungimea indicativului), 32 (valabilitatea
+       certificatului de operator radio, 5 ani nu e în docs), 73 (semnalul vizual de
+       urgență), 81 (ce reglementare conține regulile de radiotelefonie), 93 (procedura
+       când TWR nu răspunde)
 6. [ ] Capitol 02
 7. [ ] Capitol 04
 8. [ ] Capitol 05

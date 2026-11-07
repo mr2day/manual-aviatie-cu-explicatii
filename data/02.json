@@ -6,34 +6,34 @@
    "number": "#1",
    "text": "398: Ce trebuie să conțină kitul de unelte pentru întreținerea de urgență?",
    "short": "Kitul de unelte pentru întreținerea de urgență trebuie să conțină chei, șurubelnițe, cheie pentru bujii și clești.",
-   "long": "Întreținerea de urgență se face în teren, fără atelier, deci kitul trebuie să permită strângerea șuruburilor, înlocuirea bujiei și tăierea sau repararea unor elemente simple. Ochelarii, busola și bateriile sunt utile, dar nu sunt unelte de întreținere. Un set cu chei imbus, șurubelnițe, cheie pentru bujii, cuțit mic, clește mic și chei tubulare acoperă cele mai frecvente intervenții.",
+   "long": "Kitul de urgență pentru întreținerea în teren trebuie să permită strângerea șuruburilor, înlocuirea bujiei și repararea unor piese simple. Set de chei, șurubelnițe și cleștele sunt de bază; ochelarii, busola sau bateriile nu sunt scule de reparație.",
    "answers": [
     {
      "text": "omănuși de protecție și ochelari de protecție",
      "correct": false,
      "short": "Mănuși de protecție și ochelari de protecție.",
-     "long": "Sunt echipament de protecție, nu unelte de întreținere.",
+     "long": "Mănușile și ochelarii protejează operatorul, dar nu sunt scule pentru întreținerea de urgență.",
      "warn": ""
     },
     {
      "text": "obusolă și hartă",
      "correct": false,
      "short": "Busolă și hartă.",
-     "long": "Sunt instrumente de navigație, nu de întreținere.",
+     "long": "Busola și harta sunt pentru navigație, nu pentru întreținerea de urgență.",
      "warn": ""
     },
     {
      "text": "obaterii de rezervă și lanternă",
      "correct": false,
      "short": "Baterii de rezervă și lanternă.",
-     "long": "Sunt utile, dar nu sunt unelte de întreținere a motorului.",
+     "long": "Bateriile și lanterna sunt utile, dar nu sunt scule pentru reparația motorului sau a structurii.",
      "warn": ""
     },
     {
      "text": "ochei imbus, șurubelnițe, cheie pentru bujii, cuțit mic, clește mic, set de chei tubulare",
      "correct": true,
      "short": "Chei imbus, șurubelnițe, cheie pentru bujii, cuțit mic, clește mic, set de chei tubulare.",
-     "long": "Acestea sunt uneltele necesare pentru intervenții de urgență.",
+     "long": "Corect. Imbusurile, șurubelnițele, cheia pentru bujii și cheile permit reparația de bază în teren.",
      "warn": ""
     }
    ]
@@ -42,34 +42,34 @@
    "number": "#2",
    "text": "203: Ce este amestecul de carburant?",
    "short": "Amestecul de carburant este amestecul de aer și vapori de benzină care se aprinde în camera de ardere.",
-   "long": "În motor, benzina se vaporizează și se amestecă cu aerul în carburator. Acest amestec se comprimă și se aprinde în camera de ardere, producând energia care mișcă pistonul. La motoarele în doi timpi, uleiul se amestecă separat cu benzina pentru ungere, dar amestecul carburant în sine rămâne aer și vapori de benzină.",
+   "long": "Amestecul carburant este amestecul de aer și vapori de benzină care se aprinde în camera de ardere a motorului cu ardere internă.",
    "answers": [
     {
      "text": "amestecul ulei/benzină folosit drept carburant la motoarele în doi timpi",
      "correct": false,
      "short": "",
-     "long": "Acesta este amestecul de combustibil cu ulei, nu amestecul carburant în sensul termodinamic.",
+     "long": "Amestecul ulei–benzină se numește amestec de ungere, nu amestecul carburant în sensul motorului.",
      "warn": ""
     },
     {
      "text": "amestecul apă/antigel care se folosește la motoarele răcite cu lichid",
      "correct": false,
      "short": "Amestecul apă/antigel folosit la motoarele răcite cu lichid.",
-     "long": "Este lichidul de răcire, nu carburantul.",
+     "long": "Amestecul apă–antigel este lichidul de răcire, nu carburantul.",
      "warn": ""
     },
     {
      "text": "amestecul de aer/vapori de benzină care se aprinde în camera de ardere",
      "correct": true,
      "short": "Amestecul de aer și vapori de benzină care se aprinde în camera de ardere.",
-     "long": "Este definiția corectă a amestecului carburant.",
+     "long": "Corect. Amestecul carburant este aerul cu vapori de benzină care se aprinde în camera de ardere.",
      "warn": ""
     },
     {
      "text": "amestecul aer/kerosen care se folosește la motoarele în 2 timpi",
      "correct": false,
      "short": "Amestecul aer/kerosen folosit la motoarele în doi timpi.",
-     "long": "Motoarele paramotorului folosesc benzină, nu kerosen.",
+     "long": "Kerosenul nu este carburantul motoarelor paramotorului. Motorul folosește benzină.",
      "warn": ""
     }
    ]
@@ -78,34 +78,34 @@
    "number": "#3",
    "text": "434: Cum se verifică starea elicei înainte de fiecare zbor?",
    "short": "Elicea se verifică vizual, căutând fisuri sau daune, înainte de fiecare zbor.",
-   "long": "O elice cu fisură sau cioburi se poate rupe în zbor, ceea ce duce la vibrații puternice și la pierderea propulsiei. De aceea inspecția vizuală este prima verificare. Fixarea și jocul axial se verifică și ele, dar detectarea daunelor este esențială.",
+   "long": "Înainte de fiecare zbor, elicea se inspectează vizual pentru fisuri, ciobituri și alte daune, care pot duce la ruperea ei în zbor.",
    "answers": [
     {
      "text": "verifică dacă elicea este bine fixată și nu are joc axial",
      "correct": false,
      "short": "",
-     "long": "Este o verificare corectă, dar nu este cea principală a inspecției vizuale.",
+     "long": "Fixarea și jocul axial se verifică, dar răspunsul corect cere inspecția vizuală pentru daune.",
      "warn": ""
     },
     {
      "text": "aplică un strat de lubrifiant pe elice",
      "correct": false,
      "short": "",
-     "long": "Elicea nu se lubrifiază de obicei; nu este verificarea corectă.",
+     "long": "Elicea nu se lubrifiază de obicei. Lubrifierea nu înlocuiește inspecția pentru daune.",
      "warn": ""
     },
     {
      "text": "curăță elicea de praf și murdărie",
      "correct": false,
      "short": "",
-     "long": "Curățarea nu înlocuiește inspecția pentru daune.",
+     "long": "Curățarea nu este verificarea de siguranță. Trebuie văzute fisurile și daunele.",
      "warn": ""
     },
     {
      "text": "inspectează vizual elicea pentru fisuri sau daune",
      "correct": true,
      "short": "",
-     "long": "Este verificarea de bază înainte de fiecare zbor.",
+     "long": "Corect. Inspecția vizuală a elicei pentru fisuri și daune este verificarea principală înainte de zbor.",
      "warn": ""
     }
    ]
@@ -114,34 +114,34 @@
    "number": "#4",
    "text": "207: Încărcarea alară se referă la:",
    "short": "Încărcarea alară este raportul dintre greutatea totală în zbor și suprafața portantă a aripii.",
-   "long": "Încărcarea alară arată cât de multă greutate revine pe fiecare metru pătrat de aripă. O încărcare mai mare înseamnă, de regulă, viteze de zbor mai mari și o aripă mai puțin iertătoare. Este un parametru important la alegerea aripii și a greutății admise.",
+   "long": "Încărcarea alară este raportul dintre greutatea totală în zbor (pilot, echipament, paramotor) și suprafața portantă a aripii.",
    "answers": [
     {
      "text": "suprafața raportată la lungimea suspantelor",
      "correct": false,
      "short": "",
-     "long": "Nu este definiția încărcării alare.",
+     "long": "Suprafața raportată la lungimea suspantelor nu este definiția încărcării alare.",
      "warn": ""
     },
     {
      "text": "greutatea maximă în zbor",
      "correct": false,
      "short": "",
-     "long": "Este greutatea maximă admisă, nu raportul care definește încărcarea.",
+     "long": "Greutatea maximă nu este încărcarea alară. Încărcarea alară este un raport cu suprafața.",
      "warn": ""
     },
     {
      "text": "sarcina minimă și maximă a parapantei",
      "correct": false,
      "short": "",
-     "long": "Acestea sunt limite ale greutății, nu încărcarea alară.",
+     "long": "Sarcina minimă și maximă este intervalul de greutate al aripii, nu încărcarea alară.",
      "warn": ""
     },
     {
      "text": "raportul dintre greutatea totală în zbor și suprafața portantă",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Încărcarea alară este greutatea totală raportată la suprafața portantă.",
      "warn": ""
     }
    ]
@@ -150,34 +150,34 @@
    "number": "#5",
    "text": "412: Ce este un anemometru?",
    "short": "Anemometrul este un dispozitiv care măsoară viteza cu care se deplasează aerul.",
-   "long": "Anemometrul are de regulă o elice sau cupe care se rotesc sub acțiunea vântului, iar viteza de rotație indică viteza aerului. Altimetrul măsoară altitudinea, iar termometrul temperatura. Direcția vântului se indică cu fanioane sau girouette.",
+   "long": "Anemometrul măsoară viteza aerului în raport cu aeronava (viteza indicată), prin presiunea dinamică a aerului.",
    "answers": [
     {
      "text": "un instrument pentru măsurarea altitudinii",
      "correct": false,
      "short": "",
-     "long": "Acesta este altimetrul.",
+     "long": "Altimetrul măsoară altitudinea, nu anemometrul.",
      "warn": ""
     },
     {
      "text": "un echipament pentru controlul temperaturii motorului",
      "correct": false,
      "short": "",
-     "long": "Acesta este un termometru sau un senzor de temperatură.",
+     "long": "Termometrul măsoară temperatura motorului, nu anemometrul.",
      "warn": ""
     },
     {
      "text": "un dispozitiv pentru determinarea direcției vântului",
      "correct": false,
      "short": "",
-     "long": "Aceasta este funcția unui fanion sau a unei girouette.",
+     "long": "Indicatorul direcției vântului (fanionul, manșonul) arată direcția, nu viteza.",
      "warn": ""
     },
     {
      "text": "un dispozitiv care măsoară viteza cu care se deplasează aerul",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă a anemometrului.",
+     "long": "Corect. Anemometrul măsoară viteza cu care aerul se deplasează față de aeronavă.",
      "warn": ""
     }
    ]
@@ -186,34 +186,34 @@
    "number": "#6",
    "text": "404: Ce trebuie să faceți dacă observați bule pe furtunul de combustibil?",
    "short": "Dacă vezi bule în furtunul de combustibil, verifici dacă furtunul are găuri și îl înlocuiești dacă e necesar.",
-   "long": "Bulele în linia de combustibil arată că aerul intră în sistem, de obicei printr-o fisură sau o îmbinare slăbită. Aerul poate opri motorul sau îl poate face să meargă neregulat. Înainte de orice reglaj se verifică și se repară sursa scurgerii.",
+   "long": "Bulele din furtunul de combustibil arată că aerul intră în sistem, de obicei printr-o fisură sau o îmbinare slăbită. Se verifică furtunul pentru găuri și se înlocuiește dacă e cazul.",
    "answers": [
     {
      "text": "curățați rezervorul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Curățarea nu rezolvă intrarea de aer prin furtun.",
+     "long": "Curățarea rezervorului nu rezolvă intrarea aerului prin furtun.",
      "warn": ""
     },
     {
      "text": "reglați carburatorul",
      "correct": false,
      "short": "",
-     "long": "Reglajul nu rezolvă o scurgere de aer.",
+     "long": "Reglarea carburatorului nu rezolvă aerul care intră prin furtun.",
      "warn": ""
     },
     {
      "text": "verificați dacă există găuri în furtun și înlocuiți furtunul dacă este necesar",
      "correct": true,
      "short": "",
-     "long": "Aceasta este verificarea corectă, căci bulele arată intrare de aer.",
+     "long": "Corect. Bulele indică aer în sistem, deci furtunul trebuie verificat și înlocuit dacă are găuri.",
      "warn": ""
     },
     {
      "text": "adăugați mai mult combustibil",
      "correct": false,
      "short": "",
-     "long": "Nu rezolvă problema și poate agrava situația.",
+     "long": "Adăugarea de combustibil nu rezolvă aerul din sistem.",
      "warn": ""
     }
    ]
@@ -222,34 +222,34 @@
    "number": "#7",
    "text": "239: Ce este amestecul carburant?",
    "short": "Amestecul carburant este amestecul de aer și vapori de benzină care se aprinde în camera de ardere.",
-   "long": "Aceeași noțiune ca la întrebarea despre amestecul de carburant: aerul și vaporii de benzină formează amestecul care arde în motor. Uleiul din carter sau uleiul amestecat cu benzina au alte roluri, de ungere.",
+   "long": "Amestecul carburant este aerul cu vapori de benzină care se aprinde în camera de ardere (același sens ca la întrebarea 2).",
    "answers": [
     {
      "text": "amestecul apa/antigel care se foloseşte la motoarele ce se răcesc cu lichid",
      "correct": false,
      "short": "Amestecul apă/antigel folosit la motoarele răcite cu lichid.",
-     "long": "Este lichidul de răcire.",
+     "long": "Amestecul apă–antigel este lichidul de răcire, nu carburantul.",
      "warn": ""
     },
     {
      "text": "amestecul aer/vapori de benzină care se aprinde în camera de ardere",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Amestecul carburant este aer și vapori de benzină.",
      "warn": ""
     },
     {
      "text": "amestecul ulei/ aer din carter",
      "correct": false,
      "short": "Amestecul ulei/aer din carter.",
-     "long": "Nu este amestecul carburant.",
+     "long": "Amestecul ulei–aer din carter nu este carburantul motorului.",
      "warn": ""
     },
     {
      "text": "amestecul ulei/benzină care se foloseşte drept carburant la motoarele în doi timpi",
      "correct": false,
      "short": "Amestecul ulei/benzină folosit drept carburant la motoarele în doi timpi.",
-     "long": "Este combustibilul cu ulei de ungere, nu amestecul carburant.",
+     "long": "Amestecul ulei–benzină este amestecul de ungere pentru doi timpi, nu carburantul în sensul motorului.",
      "warn": ""
     }
    ]
@@ -258,34 +258,34 @@
    "number": "#8",
    "text": "199: Pentru un motor echipat cu reductor cu raportul 3:1, dacă motorul funcționează la 9000 RPM, care va fi viteza de rotație a elicei:",
    "short": "Dacă reductorul are raportul 3:1 și motorul face 9000 rot/min, elicea face 3000 rot/min.",
-   "long": "Reductorul reduce turația transmisă elicei. La raport 3:1, turația elicei este de trei ori mai mică decât a motorului: 9000 împărțit la 3 înseamnă 3000 rot/min. Reductorul permite motorului să funcționeze la turații mari, unde are putere mai bună, în timp ce elicea se rotește mai lent, la o turație mai eficientă.",
+   "long": "Cu reductor 3:1, elicea se rotește de trei ori mai lent decât motorul: 9000 rot/min împărțit la 3 dă 3000 rot/min.",
    "answers": [
     {
      "text": "27000 rot/min",
      "correct": false,
      "short": "",
-     "long": "Ar fi dacă reductorul ar multiplica turația, dar el o reduce.",
+     "long": "27000 rot/min ar fi cu reductor 1:3, inversat. Reductorul încetinește elicea.",
      "warn": ""
     },
     {
      "text": "1000 rot/min",
      "correct": false,
      "short": "",
-     "long": "Ar fi dacă raportul ar fi 9:1.",
+     "long": "1000 rot/min ar fi cu reductor 9:1, nu 3:1.",
      "warn": ""
     },
     {
      "text": "3000 rot/min",
      "correct": true,
      "short": "",
-     "long": "Este turația corectă: 9000 împărțit la 3.",
+     "long": "Corect. 9000 : 3 = 3000 rot/min.",
      "warn": ""
     },
     {
      "text": "9000 rot/min",
      "correct": false,
      "short": "",
-     "long": "Ar fi dacă nu existau reductor.",
+     "long": "9000 rot/min ar fi fără reductor. Raportul 3:1 încetinește elicea.",
      "warn": ""
     }
    ]
@@ -294,34 +294,34 @@
    "number": "#9",
    "text": "433: Ce trebuie făcut după o imersiune accidentală a aripii în apă sărată?",
    "short": "După o imersiune în apă sărată, aripa se clătește cu apă proaspătă pentru a îndepărta sarea.",
-   "long": "Sarea din apa de mare se depune în țesătura și în suspante și poate înțepeni materialul sau corodă piesele metalice. Clătirea cu apă proaspătă și uscarea la umbră, întinsă, sunt pașii recomandați. Detergenții puternici pot deteriora țesătura, iar lăsarea la soare poate degrada materialul.",
+   "long": "Sarea din apă, rămasă în țesătură și în suspante, atrage umezeala și deteriorează materialul. Se clătește cu apă proaspătă și se usucă la umbră.",
    "answers": [
     {
      "text": "curăță aripa cu un detergent puternic",
      "correct": false,
      "short": "",
-     "long": "Detergentul puternic poate deteriora țesătura.",
+     "long": "Detergentul puternic poate deteriora țesătura. Sarea se îndepărtează cu apă proaspătă.",
      "warn": ""
     },
     {
      "text": "lasă aripa să se usuce la soare",
      "correct": false,
      "short": "",
-     "long": "Soarele poate degrada materialul și nu îndepărtează sarea.",
+     "long": "Uscarea la soare poate deteriora țesătura, iar sarea rămâne. Clătirea trebuie făcută înainte.",
      "warn": ""
     },
     {
      "text": "clătește aripa cu apă proaspătă pentru a îndepărta sarea",
      "correct": true,
      "short": "",
-     "long": "Este pasul corect de întreținere.",
+     "long": "Corect. Clătirea cu apă proaspătă îndepărtează sarea, care deteriorează materialul.",
      "warn": ""
     },
     {
      "text": "înlocuiește toate suspentele și materialul aripii",
      "correct": false,
      "short": "Înlocuiește toate suspantele și materialul aripii.",
-     "long": "Nu este necesar doar pentru că aripa a intrat în apă sărată.",
+     "long": "Înlocuirea tuturor suspantelor și a aripii nu este necesară după o imersiune. Clătirea este pasul corect.",
      "warn": ""
     }
    ]
@@ -330,34 +330,34 @@
    "number": "#10",
    "text": "230: Pentru ca pornirea paramotorului să se facă în siguranță, se recomandă a se face:",
    "short": "Pentru a porni paramotorul în siguranță, se pornește pe spate, cu cel puțin casca pusă.",
-   "long": "Pornirea pe spate, cu elicea în direcția în care nu te afectează, reduce riscul de lovire de elice și permite controlul motorului. Casca protejează capul dacă motorul se întoarce brusc sau dacă apare o problemă la pornire. Pornirea pe sol sau fără elice nu sunt metode corecte.",
+   "long": "Paramotorul se pornește, de regulă, cu pilotul culcat pe spate, cu casca pusă, ca să fie protejat de elice și de vibrații.",
    "answers": [
     {
      "text": "pe spate, echipat cel putin cu cască",
      "correct": true,
      "short": "Pe spate, echipat cel puțin cu cască.",
-     "long": "Este procedura recomandată pentru pornire în siguranță.",
+     "long": "Corect. Pornirea culcat pe spate, cu cască, este poziția recomandată.",
      "warn": ""
     },
     {
      "text": "pe sol",
      "correct": false,
      "short": "",
-     "long": "Pornirea pe sol, fără poziție corectă, poate duce la accidentare.",
+     "long": "Pornirea pe sol, fără poziția corectă, poate duce la accidentare.",
      "warn": ""
     },
     {
      "text": "cu putin combustibil",
      "correct": false,
      "short": "Cu puțin combustibil.",
-     "long": "Nu are legătură cu siguranța pornirii.",
+     "long": "Combustibilul redus nu este condiția de siguranță. Motorul pornește corect cu cantitatea normală.",
      "warn": ""
     },
     {
      "text": "fără elice",
      "correct": false,
      "short": "",
-     "long": "Pornirea trebuie făcută cu elicea montată, dar cu precauțiile corecte.",
+     "long": "Pornirea fără elice nu este procedura. Elicea este montată.",
      "warn": ""
     }
    ]
@@ -366,34 +366,34 @@
    "number": "#11",
    "text": "458: Ce tip de aripă este cel mai potrivit pentru piloții experimentați care doresc să participe la competiții?",
    "short": "Aripa EN D este potrivită pentru piloții experimentați care participă la competiții.",
-   "long": "Clasificarea EN (EN 926-2) împarte aripile în clase de la A (cea mai iertătoare) la D (cea mai performantă și mai pretențioasă). Aripile de competiție, de clasă D, cer pilot cu experiență, pentru că sunt mai rapide și mai greu de controlat. EN A este pentru începători, iar EN B și C pentru piloții cu experiență intermediară.",
+   "long": "Aripile EN D sunt cele de performanță ridicată, pentru piloții experimentați care zboară competiție.",
    "answers": [
     {
      "text": "EN A",
      "correct": false,
      "short": "",
-     "long": "Clasa pentru începători, cea mai iertătoare.",
+     "long": "EN A sunt aripile pentru începători, cele mai stabile și iertătoare.",
      "warn": ""
     },
     {
      "text": "EN C",
      "correct": false,
      "short": "",
-     "long": "Clasă intermediară, pentru piloți cu experiență.",
+     "long": "EN C sunt pentru piloți cu experiență medie spre avansată, nu cele mai performante.",
      "warn": ""
     },
     {
      "text": "EN B",
      "correct": false,
      "short": "",
-     "long": "Clasă intermediară, pentru piloți cu experiență.",
+     "long": "EN B sunt pentru piloți cu experiență medie, care cer mai puțină performanță decât EN D.",
      "warn": ""
     },
     {
      "text": "EN D",
      "correct": true,
      "short": "",
-     "long": "Clasa cea mai performantă, pentru piloți experimentați, în competiții.",
+     "long": "Corect. EN D este clasa de performanță pentru competiție și piloți experimentați.",
      "warn": ""
     }
    ]
@@ -402,34 +402,34 @@
    "number": "#12",
    "text": "425: Ce tip de paramotor este recomandat pentru piloții care doresc autonomie mare și eficiență în consumul de combustibil?",
    "short": "Un paramotor cu motor în patru timpi oferă autonomie mare și consum mai eficient.",
-   "long": "Motoarele în patru timpi consumă mai puțin combustibil pentru aceeași putere, deoarece nu pierd combustibil prin baleiaj și au o ardere mai completă. Dezavantajul este greutatea mai mare. Motoarele în doi timpi sunt mai ușoare, dar consumă mai mult. Paramotorul electric și cel ultraușor nu sunt categoriile care răspund cel mai bine la acest criteriu.",
+   "long": "Motoarele în patru timpi consumă mai puțin combustibil decât cele în doi timpi, deci dau autonomie mai mare.",
    "answers": [
     {
      "text": "paramotor cu motor în patru timpi",
      "correct": true,
      "short": "",
-     "long": "Este varianta cu consum mai eficient și autonomie mai mare.",
+     "long": "Corect. Motorul în patru timpi are consum mai mic și autonomie mai mare.",
      "warn": ""
     },
     {
      "text": "paramotor cu motor în doi timpi",
      "correct": false,
      "short": "",
-     "long": "Consumă mai mult combustibil decât motorul în patru timpi.",
+     "long": "Motorul în doi timpi consumă mai mult, deci dă autonomie mai mică.",
      "warn": ""
     },
     {
      "text": "paramotor ultraușor",
      "correct": false,
      "short": "",
-     "long": "Este o categorie de aeronavă, nu un tip de motor eficient.",
+     "long": "„Ultraușor” este categoria aeronavei, nu tipul de motor care dă autonomie.",
      "warn": ""
     },
     {
      "text": "paramotor electric",
      "correct": false,
      "short": "",
-     "long": "Autonomia unor paramotoare electrice este limitată de baterie.",
+     "long": "Motorul electric are autonomie limitată de baterii, nu oferă autonomia unui motor cu combustibil.",
      "warn": ""
     }
    ]
@@ -438,34 +438,34 @@
    "number": "#13",
    "text": "237: Răcirea unui motor în 2 sau 4 timpi se poate face:",
    "short": "Motoarele în doi sau patru timpi se pot răci mixt, cu aer sau cu lichid.",
-   "long": "Paramotoarele folosesc de regulă răcire cu aer, prin curentul creat de elice și prin aripioarele cilindrului. Unele motoare au răcire cu lichid sau o combinație. Răcirea se face deci cu aer, cu lichid sau mixt, în funcție de construcție.",
+   "long": "Motoarele paramotorului se răcesc cu aerul din zbor. Unele modele combină aerul cu lichidul de răcire, deci răcirea poate fi mixtă.",
    "answers": [
     {
      "text": "forţat cu lichid",
      "correct": false,
      "short": "Forțat cu lichid.",
-     "long": "Este posibil la unele motoare, dar nu este singura variantă.",
+     "long": "Răcirea forțată cu lichid nu este singura variantă. Există și răcirea cu aer.",
      "warn": ""
     },
     {
      "text": "stropit cu apă",
      "correct": false,
      "short": "",
-     "long": "Nu este metoda corectă de răcire a motorului.",
+     "long": "Stropirea cu apă nu este metoda de răcire a motorului.",
      "warn": ""
     },
     {
      "text": "cu aer",
      "correct": false,
      "short": "",
-     "long": "Este răcirea cea mai comună la paramotoare, dar nu singura.",
+     "long": "Răcirea doar cu aer nu acoperă variantele cu lichid.",
      "warn": ""
     },
     {
      "text": "mixt, cu aer sau lichid",
      "correct": true,
      "short": "",
-     "long": "Este varianta cea mai completă, care acoperă toate situațiile.",
+     "long": "Corect. Răcirea poate fi cu aer, cu lichid sau mixtă, în funcție de motor.",
      "warn": ""
     }
    ]
@@ -474,34 +474,34 @@
    "number": "#14",
    "text": "210: Consemnarea lucrărilor periodice regulamentare se face în:",
    "short": "Lucrările periodice regulamentare se consemnează în livretul aeronavei.",
-   "long": "Livretul aeronavei este documentul în care se trec lucrările de întreținere, inspecțiile și reparațiile. Acest registru arată istoricul aeronavei și este cerut la controale. Lucrările periodice nu sunt considerate rutină fără consemnare, iar carnetul de zbor sau fișa de navigație nu sunt documentele de întreținere.",
+   "long": "Lucrările periodice de întreținere se consemnează în livretul aeronavei, document obligatoriu care ține evidența zborului și a lucrărilor (RACR-CCO ULM 1095).",
    "answers": [
     {
      "text": "aceste lucrări nu se consemnează deoarece fac parte din categoria verificărilor de rutină",
      "correct": false,
      "short": "Aceste lucrări nu se consemnează, deoarece fac parte din verificările de rutină.",
-     "long": "Lucrările periodice se consemnează întotdeauna.",
+     "long": "Lucrările periodice se consemnează. Nu sunt simple verificări de rutină.",
      "warn": ""
     },
     {
      "text": "carnetul de zbor",
      "correct": false,
      "short": "",
-     "long": "Este documentul pentru zboruri, nu pentru întreținere.",
+     "long": "Carnetul de zbor este evidența pilotului, nu a lucrărilor aeronavei (RACR-LPAN ULM.4020).",
      "warn": ""
     },
     {
      "text": "livretul aeronavei",
      "correct": true,
      "short": "",
-     "long": "Este documentul în care se consemnează lucrările periodice.",
+     "long": "Corect. Lucrările periodice se consemnează în livretul aeronavei (RACR-CCO ULM 1095).",
      "warn": ""
     },
     {
      "text": "fişa de navigaţie",
      "correct": false,
      "short": "Fișa de navigație.",
-     "long": "Este pentru planificarea zborului, nu pentru întreținere.",
+     "long": "Fișa de navigație nu este documentul lucrărilor de întreținere.",
      "warn": ""
     }
    ]
@@ -510,34 +510,34 @@
    "number": "#15",
    "text": "242: Sistemul de accelerator/ speed:",
    "short": "Sistemul de accelerator (speed) scade unghiul de incidență, iar aripa devine mai rapidă.",
-   "long": "Sistemul de accelerație modifică geometria aripii, prin care piloții apasă barele sau picioarele. Prin scurtarea liniilor inferioare, bordul de atac se apropie de bordul de fugă, unghiul de incidență scade și aripa zboară mai repede, dar cu mai puțină stabilitate și cu o viteză de coborâre mai mare. Nu crește unghiul de incidență și nu modifică liniile B.",
+   "long": "Sistemul de accelerator (speed system) scurtează suspantele din față; unghiul de atac scade, iar aripa zboară mai repede, dar mai puțin stabil.",
    "answers": [
     {
      "text": "crește unghiul de incidență",
      "correct": false,
      "short": "",
-     "long": "Ar fi opusul: sistemul scade unghiul de incidență.",
+     "long": "Accelerarea scade unghiul de atac, nu îl crește.",
      "warn": ""
     },
     {
      "text": "modifică lungimea suspantelor liniei B",
      "correct": false,
      "short": "",
-     "long": "Sistemul de accelerație acționează pe liniile inferioare, dar nu este descrierea corectă a efectului.",
+     "long": "Sistemul speed nu modifică lungimea suspantelor liniei B, ci pe cele ale liniei A sau C, în funcție de model.",
      "warn": ""
     },
     {
      "text": "scade viteza când este apăsat",
      "correct": false,
      "short": "",
-     "long": "Dimpotrivă, aripa accelerează.",
+     "long": "Accelerarea crește viteza, nu o scade.",
      "warn": ""
     },
     {
      "text": "scade unghiul de incidență, iar aripa este mai rapidă",
      "correct": true,
      "short": "",
-     "long": "Este efectul corect al sistemului de accelerare.",
+     "long": "Corect. Speed-ul scade unghiul de atac, iar aripa zboară mai rapid.",
      "warn": ""
     }
    ]
@@ -546,34 +546,34 @@
    "number": "#16",
    "text": "415: Ce înseamnă „alunecare laterală”?",
    "short": "Alunecarea laterală înseamnă deplasarea laterală în zbor, pentru a menține traiectoria dorită.",
-   "long": "Alunecarea laterală (side slip) este o manevră în care aeronava se deplasează lateral față de direcția de zbor. Se folosește pentru a pierde altitudine rapid sau pentru a corecta traiectoria față de vânt. Frânele, altitudinea și direcția de decolare sunt alte noțiuni.",
+   "long": "Alunecarea laterală (sideslip) este o manevră de coborâre rapidă prin deplasare laterală a aripii, folosită pentru a pierde altitudine fără a crește viteza.",
    "answers": [
     {
      "text": "ajustarea frânelor pentru o aterizare lină",
      "correct": false,
      "short": "",
-     "long": "Este o noțiune diferită, legată de frâne.",
+     "long": "Ajustarea frânelor pentru aterizare lină este altceva. Alunecarea laterală este o manevră de coborâre.",
      "warn": ""
     },
     {
      "text": "deplasarea laterală în zbor pentru a menține traiectoria dorită",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect în esență: alunecarea laterală este deplasarea laterală a aripii, folosită pentru coborâre rapidă.",
      "warn": ""
     },
     {
      "text": "măsurarea altitudinii de zbor",
      "correct": false,
      "short": "",
-     "long": "Aceasta este funcția altimetrului.",
+     "long": "Măsurarea altitudinii nu este alunecarea laterală.",
      "warn": ""
     },
     {
      "text": "schimbarea direcției în timpul decolării",
      "correct": false,
      "short": "",
-     "long": "Nu este definiția alunecării laterale.",
+     "long": "Schimbarea direcției în timpul decolării nu este alunecarea laterală.",
      "warn": ""
     }
    ]
@@ -582,34 +582,34 @@
    "number": "#17",
    "text": "399: Cât de des ar trebui înlocuite bujiile la un paramotor?",
    "short": "Bujiile se înlocuiesc, conform recomandărilor, la aproximativ 20 de ore sau la primul semn de probleme.",
-   "long": "La motoarele în doi timpi, bujia se murdărește repede cu reziduuri de ulei, iar intervalul depinde de motor și de amestec. Sursele consultate indică intervale între circa 20 și 25 de ore, de aceea intervalul exact se stabilește din manualul motorului. Semnele de probleme sunt pornirea greoaie, funcționarea neregulată sau electrodul murdar.",
+   "long": "Bujia se schimbă după intervalul stabilit de constructorul motorului sau mai devreme, la primul semn de uzură (electrozi erodați, depuneri, scântei slabe). Nu există un interval universal.",
    "answers": [
     {
      "text": "la fiecare 50 de ore de zbor",
      "correct": false,
      "short": "",
-     "long": "Intervalul este prea lung pentru motoarele în doi timpi.",
+     "long": "50 de ore nu este un interval universal. Intervalul depinde de constructor și de starea bujiei.",
      "warn": ""
     },
     {
      "text": "la fiecare 10 ore de zbor",
      "correct": false,
      "short": "",
-     "long": "Intervalul este prea scurt, sub recomandările obișnuite.",
+     "long": "10 ore este prea scurt ca regulă generală. Intervalul depinde de constructor și de uzură.",
      "warn": ""
     },
     {
      "text": "la fiecare 20 de ore sau la primul semn de probleme",
      "correct": true,
      "short": "",
-     "long": "Este varianta cea mai apropiată de recomandările consultate, verificată și din manual.",
+     "long": "Varianta cu 20 de ore este reperul cel mai apropiat, dar regula reală este intervalul constructorului sau uzura, oricare vine primul.",
      "warn": ""
     },
     {
      "text": "la fiecare 100 de ore de zbor",
      "correct": false,
      "short": "",
-     "long": "Intervalul este prea lung pentru bujie.",
+     "long": "100 de ore este prea mult ca interval general. Bujia se verifică la constructor sau la primul semn de uzură.",
      "warn": ""
     }
    ]
@@ -618,34 +618,34 @@
    "number": "#18",
    "text": "232: Inspecția înainte de zbor este:",
    "short": "Inspecția înainte de zbor trebuie să fie temeinică, neîntreruptă și consistentă: toate variantele sunt corecte.",
-   "long": "Inspecția înainte de zbor are trei caracteristici: nu se omite niciun element, se face fără întreruperi (dacă se întrerupe, se reia de la început) și se face mereu în aceeași ordine. Respectarea acestor reguli evită uitarea unui element esențial.",
+   "long": "Inspecția înainte de zbor trebuie să fie temeinică, neîntreruptă și consistentă: toate cele trei caracteristici sunt cerute.",
    "answers": [
     {
      "text": "toate variantele",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă, pentru că toate cele trei caracteristici se aplică.",
+     "long": "Corect. Toate cele trei caracteristici definesc inspecția corectă.",
      "warn": ""
     },
     {
      "text": "temeinică – nu se omite niciun lucru",
      "correct": false,
      "short": "Temeinică, nu se omite niciun lucru.",
-     "long": "Este una dintre caracteristici, dar nu singura.",
+     "long": "Temeinicia este o caracteristică corectă, dar nu singura.",
      "warn": ""
     },
     {
      "text": "neintreruptă – dacă se întrerupe se reia în totalitate",
      "correct": false,
      "short": "Neîntreruptă, dacă se întrerupe se reia în totalitate.",
-     "long": "Este una dintre caracteristici, dar nu singura.",
+     "long": "Neîntreruperea este o caracteristică corectă, dar nu singura.",
      "warn": ""
     },
     {
      "text": "consistentă – se începe din același loc și în același fel de fiecare dată",
      "correct": false,
      "short": "Consistentă, se începe din același loc și în același fel de fiecare dată.",
-     "long": "Este una dintre caracteristici, dar nu singura.",
+     "long": "Consistența este o caracteristică corectă, dar nu singura.",
      "warn": ""
     }
    ]
@@ -654,34 +654,34 @@
    "number": "#19",
    "text": "417: De ce este importantă ajustarea corectă a frânelor?",
    "short": "Ajustarea corectă a frânelor asigură un control optim și evită frânarea neintenționată.",
-   "long": "Frânele trebuie reglate astfel încât să fie la fel de lungi și să nu tragă aripa în timpul zborului. Dacă sunt prea scurte, aripa poate fi frânată neintenționat, iar dacă sunt prea lungi, controlul la aterizare este redus. Ajustarea nu are legătură cu confortul, consumul sau viteza.",
+   "long": "Frânele reglate corect asigură controlul la aterizare și evită frânarea neintenționată, care poate duce la pierderea controlului.",
    "answers": [
     {
      "text": "pentru a îmbunătăți confortul pilotului",
      "correct": false,
      "short": "",
-     "long": "Confortul nu este motivul principal.",
+     "long": "Confortul nu este motivul principal al reglajului frânelor.",
      "warn": ""
     },
     {
      "text": "pentru a reduce consumul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Frânele nu au legătură cu consumul.",
+     "long": "Consumul de combustibil nu depinde de reglajul frânelor.",
      "warn": ""
     },
     {
      "text": "pentru a asigura un control optim și a evita frînarea neintenționată",
      "correct": true,
      "short": "Pentru a asigura un control optim și a evita frânarea neintenționată.",
-     "long": "Este motivul corect al ajustării.",
+     "long": "Corect. Reglajul corect dă control și evită frânarea neintenționată.",
      "warn": ""
     },
     {
      "text": "pentru a crește viteza de zbor",
      "correct": false,
      "short": "",
-     "long": "Frânele nu cresc viteza.",
+     "long": "Viteza de zbor nu crește prin reglajul frânelor.",
      "warn": ""
     }
    ]
@@ -690,34 +690,34 @@
    "number": "#20",
    "text": "243: Când alegem o parapantă trebuie să ținem cont de:",
    "short": "Clasa de omologare a parapantei trebuie să fie conformă cu nivelul de experiență și frecvența utilizării.",
-   "long": "O aripă de clasă înaltă este rapidă și nervoasă, deci nu este potrivită unui începător. Alegerea corectă ține cont de experiență, de frecvența zborului și de tipul de zbor. Viteza, noutatea sau dorința de a depăși alți piloți nu sunt criteriile de alegere.",
+   "long": "Clasa de omologare a parapantei trebuie să corespundă nivelului de experiență și frecvenței de zbor, pentru siguranță.",
    "answers": [
     {
      "text": "să fie cât mai rapidă posibil pentru a-i depăși pe cei cu care zburăm",
      "correct": false,
      "short": "Să fie cât mai rapidă posibil, pentru a-i depăși pe cei cu care zburăm.",
-     "long": "Viteza mare nu este criteriul pentru începători.",
+     "long": "Viteza mare nu este criteriul de alegere pentru siguranță. Ea nu trebuie aleasă ca să-i depășești pe alții.",
      "warn": ""
     },
     {
      "text": "să fie cât mai nouă",
      "correct": false,
      "short": "",
-     "long": "Vechimea nu este criteriul principal; contează clasa și potrivirea cu pilotul.",
+     "long": "Vechimea nu este criteriul. Contează clasa de omologare și experiența.",
      "warn": ""
     },
     {
      "text": "să fie manevrabilă și potrivită pentru competiție",
      "correct": false,
      "short": "",
-     "long": "Competiția nu este potrivită pentru toți piloții.",
+     "long": "Manevrabilitatea și competiția sunt criterii pentru experți, nu criteriul general de alegere.",
      "warn": ""
     },
     {
      "text": "clasa de omologare trebuie sa fie conformă cu nivelul de experienţă şi frecvenţa utilizării",
      "correct": true,
      "short": "Clasa de omologare trebuie să fie conformă cu nivelul de experiență și frecvența utilizării.",
-     "long": "Este criteriul corect de alegere.",
+     "long": "Corect. Clasa de omologare trebuie să corespundă experienței și frecvenței zborului.",
      "warn": ""
     }
    ]
@@ -726,34 +726,34 @@
    "number": "#21",
    "text": "241: Sistemul de trimer al parapantei:",
    "short": "Sistemul de trimmer, când este deschis, crește viteza de zbor a aripii.",
-   "long": "Trimmerele sunt clape sau dispozitive care scurtează liniile inferioare și schimbă unghiul de incidență, la fel ca sistemul de accelerație. Când sunt deschise, aripa zboară mai repede, dar cu o stabilitate mai redusă. Când sunt închise, aripa zboară mai lent și este mai stabilă.",
+   "long": "Trimmerele sunt benzi de reglaj ale marginii de fugă. Când sunt deschise, aripa zboară mai rapid, dar mai puțin stabil.",
    "answers": [
     {
      "text": "crește finețea",
      "correct": false,
      "short": "",
-     "long": "Trimmerele nu sunt descrise ca mărire a finețelor.",
+     "long": "Trimmerele deschise scad finețea, nu o cresc.",
      "warn": ""
     },
     {
      "text": "implică un efort permanent în zbor",
      "correct": false,
      "short": "",
-     "long": "Trimmerele se fixează, fără efort permanent.",
+     "long": "Trimmerele nu cer efort permanent. Se reglează o dată și rămân fixate.",
      "warn": ""
     },
     {
      "text": "crește viteza de zbor cînd este închis",
      "correct": false,
      "short": "Crește viteza de zbor când este închis.",
-     "long": "Când sunt închise, viteza scade.",
+     "long": "Trimmerele închise scad viteza. Deschise cresc viteza.",
      "warn": ""
     },
     {
      "text": "crește viteza de zbor când este deschis",
      "correct": true,
      "short": "",
-     "long": "Este efectul corect al trimmerelor.",
+     "long": "Corect. Trimmerele deschise cresc viteza.",
      "warn": ""
     }
    ]
@@ -762,34 +762,34 @@
    "number": "#22",
    "text": "429: Cum se face verificarea liniei de combustibil pentru scurgeri?",
    "short": "Linia de combustibil se verifică pentru bule sau găuri și pentru frecare cu șasiul sau cu piese vecine.",
-   "long": "Verificarea liniei de combustibil are scopul de a depista scurgerile, fisurile și frecările, care pot duce la scurgeri sau la aer în sistem. Se verifică ambele capete ale furtunului, fixările și traseul. Reglarea carburatorului sau măsurarea presiunii sunt verificări separate.",
+   "long": "Linia de combustibil se verifică pentru bule, găuri și frecare cu șasiul sau cu piesele din apropiere, care pot tăia furtunul.",
    "answers": [
     {
      "text": "verifică nivelul de ulei",
      "correct": false,
      "short": "",
-     "long": "Este o verificare diferită, care nu depistează scurgerile de combustibil.",
+     "long": "Nivelul de ulei nu verifică scurgerile din linia de combustibil.",
      "warn": ""
     },
     {
      "text": "ajustează carburatorul",
      "correct": false,
      "short": "",
-     "long": "Reglajul nu verifică linia de combustibil.",
+     "long": "Reglajul carburatorului nu verifică linia.",
      "warn": ""
     },
     {
      "text": "verifică dacă există găuri sau bule în linie, frecare cu șasiul sau cu piese în vecinătate",
      "correct": true,
      "short": "",
-     "long": "Este verificarea corectă a liniei.",
+     "long": "Corect. Se verifică bulele, găurile și frecările.",
      "warn": ""
     },
     {
      "text": "măsoară presiunea combustibilului",
      "correct": false,
      "short": "",
-     "long": "Presiunea se verifică separat, nu depistează scurgerile vizuale.",
+     "long": "Măsurarea presiunii nu verifică scurgerile de pe linie, deși poate arăta o problemă.",
      "warn": ""
     }
    ]
@@ -798,27 +798,27 @@
    "number": "#23",
    "text": "442: Ce trebuie să faci dacă observi uzură sau fisuri la suspantele aripii?",
    "short": "Dacă observi uzură sau fisuri la suspante, le înlocuiești imediat.",
-   "long": "Suspantele poartă sarcina aripii, deci o suspantă deteriorată poate ceda în zbor. Nu se repară prin adeziv sau prin strângere. Ajustarea tensiunii sau curățarea nu rezolvă problema de rezistență.",
+   "long": "Suspantele uzate sau fisurate își pierd rezistența și pot ceda în zbor. Trebuie înlocuite imediat.",
    "answers": [
     {
      "text": "ajustează tensiunea suspantelor",
      "correct": false,
      "short": "",
-     "long": "Ajustarea nu rezolvă uzura sau fisura.",
+     "long": "Ajustarea tensiunii nu repară o suspantă uzată. Ea își pierde rezistența.",
      "warn": ""
     },
     {
      "text": "înlocuiește imediat suspentele deteriorate",
      "correct": true,
      "short": "",
-     "long": "Este răspunsul corect: suspentele deteriorate nu mai au rezistența necesară.",
+     "long": "Corect. Suspantele uzate sau fisurate se înlocuiesc imediat.",
      "warn": ""
     },
     {
      "text": "curăță liniile cu un detergent delicat",
      "correct": false,
      "short": "",
-     "long": "Curățarea nu repară uzura.",
+     "long": "Curățarea nu repară o suspantă fisurată.",
      "warn": ""
     },
     {
@@ -834,34 +834,34 @@
    "number": "#24",
    "text": "405: Ce trebuie să conțină o inspecție „preflight” pentru un paramotor?",
    "short": "Inspecția preflight a paramotorului verifică carabinierele, elicea, motorul și sistemul de combustibil.",
-   "long": "Inspecția preflight acoperă toate elementele care pot cauza o problemă în zbor: fixarea carabinierelor, starea elicei, funcționarea motorului și a sistemului de combustibil. Verificarea aripii și a frânelor se face tot înainte de zbor, dar nu este singura parte a inspecției. Încărcarea echipamentului și GPS-ul nu sunt elemente de inspecție.",
+   "long": "Inspecția preflight a paramotorului cuprinde carabinierele, elicea, motorul și sistemul de combustibil.",
    "answers": [
     {
      "text": "verificarea carabinerelor, elicei, motorului și sistemului de combustibil",
      "correct": true,
      "short": "Verificarea carabinierelor, elicei, motorului și sistemului de combustibil.",
-     "long": "Acestea sunt elementele principale ale inspecției preflight a paramotorului.",
+     "long": "Corect. Inspecția preflight cuprinde carabinierele, elicea, motorul și sistemul de combustibil.",
      "warn": ""
     },
     {
      "text": "verificarea condiției aripii și a frânelor",
      "correct": false,
      "short": "",
-     "long": "Este o parte a inspecției, dar nu descrie întreaga inspecție a paramotorului.",
+     "long": "Aripa și frânele sunt verificate, dar nu sunt componentele specifice paramotorului.",
      "warn": ""
     },
     {
      "text": "încărcarea echipamentului de zbor",
      "correct": false,
      "short": "",
-     "long": "Încărcarea nu este o verificare tehnică.",
+     "long": "Încărcarea echipamentului nu este verificarea preflight.",
      "warn": ""
     },
     {
      "text": "testarea funcționării GPS-ului",
      "correct": false,
      "short": "",
-     "long": "GPS-ul nu face parte din verificările esențiale ale inspecției.",
+     "long": "GPS-ul nu face parte din inspecția esențială preflight.",
      "warn": ""
     }
    ]
@@ -870,34 +870,34 @@
    "number": "#25",
    "text": "411: De ce este importantă verificarea liniei de combustibil pentru bule?",
    "short": "Bulele din linia de combustibil pot indica scurgeri sau găuri în linie.",
-   "long": "Bulele apar când aerul pătrunde în sistemul de combustibil. Dacă aerul intră, motorul poate funcționa neregulat sau se poate opri. Din acest motiv bulele sunt un semn de avertizare și trebuie căutată sursa intrării de aer.",
+   "long": "Bulele din linia de combustibil indică aer în sistem, adică o scurgere sau o găură în linie.",
    "answers": [
     {
      "text": "bulele pot indica scurgeri sau găuri în linie",
      "correct": true,
      "short": "",
-     "long": "Este explicația corectă: aerul intră prin găuri sau îmbinări.",
+     "long": "Corect. Bulele indică scurgere sau găuri în linie.",
      "warn": ""
     },
     {
      "text": "bulele pot cauza supraîncălzirea motorului",
      "correct": false,
      "short": "",
-     "long": "Bulele nu cauzează direct supraîncălzirea.",
+     "long": "Bulele nu cauzează supraîncălzirea. Ele indică aer în sistem.",
      "warn": ""
     },
     {
      "text": "bulele indică un nivel scăzut de combustibil",
      "correct": false,
      "short": "",
-     "long": "Nivelul se vede separat, nu prin bule.",
+     "long": "Bulele nu indică nivelul de combustibil. Indică aer în linie.",
      "warn": ""
     },
     {
      "text": "bulele reduc eficiența aripii",
      "correct": false,
      "short": "",
-     "long": "Bulele din combustibil nu afectează aripa.",
+     "long": "Bulele nu afectează aripa. Problema este linia de combustibil.",
      "warn": ""
     }
    ]
@@ -906,34 +906,34 @@
    "number": "#26",
    "text": "451: Care sunt avantajele unei aripi reflex?",
    "short": "Aripa reflex are stabilitate mai mare la viteze mari.",
-   "long": "Profilul reflex are o curbură inversă la bordul de fugă, care îi crește stabilitatea și rezistența la colaps, mai ales la viteze mari. Surse de specialitate subliniază însă că aceste aripi sunt mai greu de manevrat și de lansat. Consumul și întreținerea nu sunt avantajele caracteristice ale reflexului.",
+   "long": "Aripa reflex are profil cu marginea de fugă curbată în sus, care îi dă stabilitate mai mare la viteze mari.",
    "answers": [
     {
      "text": "consum redus de combustibil",
      "correct": false,
      "short": "",
-     "long": "Consumul nu depinde de profilul aripii.",
+     "long": "Consumul de combustibil nu depinde de aripă. Aripa reflex nu economisește combustibil.",
      "warn": ""
     },
     {
      "text": "stabilitate mai mare la viteze mari",
      "correct": true,
      "short": "",
-     "long": "Este avantajul caracteristic al profilului reflex.",
+     "long": "Corect. Aripa reflex are stabilitate mai mare la viteze mari.",
      "warn": ""
     },
     {
      "text": "costuri mai mici de întreținere",
      "correct": false,
      "short": "",
-     "long": "Întreținerea nu este avantajul caracteristic.",
+     "long": "Costurile de întreținere nu sunt avantajul aripii reflex.",
      "warn": ""
     },
     {
      "text": "manevrabilitate crescută în viraje strânse",
      "correct": false,
      "short": "",
-     "long": "Reflexul este de regulă mai puțin manevrabil în viraje strânse.",
+     "long": "Manevrabilitatea în viraje strânse nu este avantajul aripii reflex.",
      "warn": ""
     }
    ]
@@ -942,34 +942,34 @@
    "number": "#27",
    "text": "462: Cum se comportă aripile de începător în condiții de turbulență?",
    "short": "Aripile de începător oferă stabilitate ridicată și sunt mai iertătoare în turbulență.",
-   "long": "Aripile EN A sunt proiectate pentru stabilitate și previzibilitate. Au o tendință mai mică de a se închide în turbulență și revin mai ușor. Ele cer totuși atenție, pentru că nu sunt imune la turbulență violentă. Viteza redusă și riscul de colaps mai mare nu sunt caracteristici ale aripii de începător.",
+   "long": "Aripile de începător (EN A) sunt stabile și iertătoare în turbulență, iar revin singure din colaps.",
    "answers": [
     {
      "text": "reduc semnificativ viteza de zbor",
      "correct": false,
      "short": "",
-     "long": "Nu este caracteristica principală a aripii de începător în turbulență.",
+     "long": "Aripile de începător nu reduc semnificativ viteza. Sunt stabile.",
      "warn": ""
     },
     {
      "text": "oferă o stabilitate ridicată și sunt mai iertătoare",
      "correct": true,
      "short": "",
-     "long": "Este caracteristica corectă.",
+     "long": "Corect. Stabilitatea mare și iertarea sunt caracteristicile aripilor de începător.",
      "warn": ""
     },
     {
      "text": "necesită o atenție sporită din partea pilotului",
      "correct": false,
      "short": "",
-     "long": "Atenția este necesară oricând, nu este răspunsul principal.",
+     "long": "Aripile de începător cer atenție, dar sunt mai stabile decât cele avansate.",
      "warn": ""
     },
     {
      "text": "sunt mai susceptibile la colapsuri",
      "correct": false,
      "short": "",
-     "long": "Aripile de începător sunt, de regulă, mai puțin susceptibile la colapsuri.",
+     "long": "Aripile de începător sunt mai puțin susceptibile la colaps, nu mai susceptibile.",
      "warn": ""
     }
    ]
@@ -978,34 +978,34 @@
    "number": "#28",
    "text": "445: Ce trebuie verificat la suspantele aripii înainte de decolare?",
    "short": "Înainte de decolare se verifică conectarea corectă a suspantelor, fără îndoituri, și integritatea lor: toate variantele sunt corecte.",
-   "long": "Suspantele trebuie conectate corect, fără îndoituri care le slăbesc, și trebuie să fie întregi. Verificarea acoperă toate aceste aspecte, deci toate variantele sunt corecte. Dacă o suspantă are îndoituri sau semne de uzură, nu se decolează până nu este înlocuită.",
+   "long": "Suspantele se verifică pentru conectarea corectă, fără îndoituri și pentru integritate. Toate aceste verificări sunt necesare.",
    "answers": [
     {
      "text": "conectarea corectă și fără îndoituri",
      "correct": false,
      "short": "",
-     "long": "Este o parte corectă a verificării.",
+     "long": "Conectarea corectă și fără îndoituri este o verificare corectă, dar nu singura.",
      "warn": ""
     },
     {
      "text": "conectarea corectă și fără îndoituri",
      "correct": false,
      "short": "",
-     "long": "Este o parte a verificării; pentru întrebarea completă, varianta corectă este „toate variantele”.",
+     "long": "Același text ca varianta A: este o verificare corectă, dar nu singura.",
      "warn": ""
     },
     {
      "text": "toate variantele sunt corecte",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă, care le acoperă pe toate.",
+     "long": "Corect. Toate verificările sunt necesare: conectarea, lipsa îndoiturilor și integritatea.",
      "warn": ""
     },
     {
      "text": "integritatea generală a suspantelor",
      "correct": false,
      "short": "",
-     "long": "Este o parte corectă a verificării.",
+     "long": "Integritatea este verificare corectă, dar nu acoperă conectarea și îndoiturile.",
      "warn": ""
     }
    ]
@@ -1014,34 +1014,34 @@
    "number": "#29",
    "text": "464: Ce caracteristică este specifică aripilor de începător (EN A)?",
    "short": "Aripile de începător EN A sunt concepute pentru a fi extrem de stabile și previzibile.",
-   "long": "Clasa EN A este cea mai iertătoare: aripa revine singură din colaps, are reacții previzibile și este ușor de controlat. Nu permite acrobații complexe, nu zboară cel mai rapid și nu are o întreținere mai frecventă decât alte clase.",
+   "long": "Aripile EN A sunt concepute pentru stabilitate și previzibilitate, ca să fie ușor de zburat pentru începători.",
    "answers": [
     {
      "text": "permit realizarea acrobațiilor aeriene complexe",
      "correct": false,
      "short": "",
-     "long": "Acrobațiile sunt specifice clasei de performanță, nu clasei A.",
+     "long": "Acrobațiile complexe nu sunt caracteristica EN A. Acestea sunt pentru aripi mai performante.",
      "warn": ""
     },
     {
      "text": "sunt concepute pentru a fi extrem de stabile și previzibile",
      "correct": true,
      "short": "",
-     "long": "Este caracteristica corectă a clasei EN A.",
+     "long": "Corect. EN A este stabilă și previzibilă.",
      "warn": ""
     },
     {
      "text": "necesită o întreținere mai frecventă",
      "correct": false,
      "short": "",
-     "long": "Întreținerea nu depinde de clasa EN A.",
+     "long": "EN A nu cer întreținere mai frecventă ca regulă. Caracteristica este stabilitatea.",
      "warn": ""
     },
     {
      "text": "sunt proiectate pentru a atinge viteze foarte mari",
      "correct": false,
      "short": "",
-     "long": "Acesta este specific clasei de performanță.",
+     "long": "EN A nu sunt concepute pentru viteze mari.",
      "warn": ""
     }
    ]
@@ -1050,34 +1050,34 @@
    "number": "#30",
    "text": "408: Ce rol are o elice echilibrată static?",
    "short": "O elice echilibrată static reduce vibrațiile cauzate de dezechilibrul aerodinamic.",
-   "long": "Echilibrarea elicei corectează diferențele de masă dintre pale, care duc la vibrații. Vibrațiile uzează motorul și fixările. Echilibrarea nu îmbunătățește stabilitatea în zbor, nu previne supraîncălzirea și nu crește performanța.",
+   "long": "Elicea echilibrată static are masa distribuită uniform, deci produce mai puține vibrații în timpul rotației.",
    "answers": [
     {
      "text": "reduce vibrațiile cauzate de dezechilibrul aerodinamic",
      "correct": true,
      "short": "",
-     "long": "Este efectul corect al echilibrării statice, deși tehnic se referă mai ales la masă.",
+     "long": "Corect în esență: echilibrarea reduce vibrațiile cauzate de dezechilibrul masei elicei.",
      "warn": ""
     },
     {
      "text": "îmbunătățește stabilitatea în zbor",
      "correct": false,
      "short": "",
-     "long": "Echilibrarea nu are acest efect principal.",
+     "long": "Stabilitatea în zbor nu este dată de echilibrarea elicei.",
      "warn": ""
     },
     {
      "text": "previne supraîncălzirea motorului",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul echilibrării.",
+     "long": "Supraîncălzirea nu este prevenită de echilibrarea elicei.",
      "warn": ""
     },
     {
      "text": "crește performanța motorului",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul echilibrării.",
+     "long": "Performanța motorului nu crește prin echilibrarea elicei.",
      "warn": ""
     }
    ]
@@ -1086,34 +1086,34 @@
    "number": "#31",
    "text": "414: Ce este o pliere „concertină” a aripii?",
    "short": "Pliera „concertină” păstrează celulele bordului de atac plane.",
-   "long": "La pliere concertină, aripa se împachetează în straturi, iar celulele bordului de atac rămân deschise, fără să se curbeze. Așa se reduce riscul de deformare a materialului și se ușurează deschiderea la decolare. Nu este o reparație, nici o tehnică de lansare.",
+   "long": "Pliera „concertină” a aripii este o metodă de împachetare în care celulele sunt pliate în ordine, astfel încât bordul de atac rămâne plan și nu se deteriorează.",
    "answers": [
     {
      "text": "un tip de reparație a aripii",
      "correct": false,
      "short": "",
-     "long": "Nu este o reparație.",
+     "long": "Pliera concertină nu este o reparație a aripii.",
      "warn": ""
     },
     {
      "text": "o metodă de pliere care menține celulele bordului de atac plane",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Pliera concertină păstrează bordul de atac plan.",
      "warn": ""
     },
     {
      "text": "un tip de reparație a aripii",
      "correct": false,
      "short": "Un tip de reparație a aripii, aplicat la bordul de atac.",
-     "long": "Nu este o reparație.",
+     "long": "Pliera concertină nu este o reparație a aripii.",
      "warn": ""
     },
     {
      "text": "o tehnică de lansare în condiții de vânt puternic",
      "correct": false,
      "short": "",
-     "long": "Nu este tehnica de lansare, ci o metodă de pliere.",
+     "long": "Pliera concertină nu este o tehnică de lansare în vânt puternic.",
      "warn": ""
     }
    ]
@@ -1122,34 +1122,34 @@
    "number": "#32",
    "text": "453: Care este principalul dezavantaj al aripilor cu profil reflex?",
    "short": "Dezavantajul principal al aripilor reflex este stabilitatea redusă la viteze mici.",
-   "long": "Din cauza profilului, aripile reflex sunt mai greu de manevrat și de lansat la viteze mici, iar la viteze reduse stabilitatea lor poate scădea. Sursele de specialitate arată că și manevrabilitatea și viteza de lansare sunt aspecte discutate, deci dezavantajul depinde de model. Consumul și costul nu sunt dezavantajele principale.",
+   "long": "Aripile reflex au stabilitate mai mare la viteză mare, dar la viteză mică pot fi mai puțin stabile. Acesta este dezavantajul lor principal.",
    "answers": [
     {
      "text": "stabilitatea redusă la viteze mici",
      "correct": true,
      "short": "",
-     "long": "Este dezavantajul indicat, deși depinde de model.",
+     "long": "Corect. Stabilitatea redusă la viteze mici este dezavantajul aripii reflex.",
      "warn": ""
     },
     {
      "text": "dificultatea de a menține direcția în condiții de vânt puternic",
      "correct": false,
      "short": "Dificultatea de a menține direcția în vânt puternic.",
-     "long": "Nu este dezavantajul principal din sursele consultate.",
+     "long": "Direcția în vânt puternic nu este dezavantajul specific al aripii reflex.",
      "warn": ""
     },
     {
      "text": "costul ridicat al întreținerii",
      "correct": false,
      "short": "",
-     "long": "Costul nu este dezavantajul principal al profilului.",
+     "long": "Costul nu este dezavantajul tehnic al aripii reflex.",
      "warn": ""
     },
     {
      "text": "consumul mai mare de combustibil la viteze mari",
      "correct": false,
      "short": "",
-     "long": "Consumul nu este legat de profilul aripii.",
+     "long": "Consumul de combustibil nu este dezavantajul aripii reflex.",
      "warn": ""
     }
    ]
@@ -1158,34 +1158,34 @@
    "number": "#33",
    "text": "402: De ce este importantă inspecția profesională a aripii după 2 ani sau 100 de ore de zbor?",
    "short": "Inspecția profesională după 2 ani sau 100 de ore de zbor detectează daune structurale sau uzură.",
-   "long": "Intervalele de inspecție sunt recomandate de producător, iar valoarea de 2 ani sau 100 de ore apare în mai multe surse. Scopul inspecției este verificarea materialului, a porozității și a suspantelor, pentru a depista daune nevăzute. Curățarea, calibrarea navigației și verificarea motorului sunt alte operațiuni.",
+   "long": "Inspecția profesională periodică a aripii verifică daunele structurale și uzura materialelor, care apar cu timpul și cu zborul.",
    "answers": [
     {
      "text": "pentru a curăța aripa de praf și murdărie",
      "correct": false,
      "short": "",
-     "long": "Curățarea este o operațiune de întreținere, nu scopul inspecției profesionale.",
+     "long": "Curățarea este utilă, dar nu este scopul inspecției profesionale.",
      "warn": ""
     },
     {
      "text": "pentru a recalibra echipamentele de navigație",
      "correct": false,
      "short": "",
-     "long": "Navigația nu este legată de inspecția aripii.",
+     "long": "Navigația nu este obiectul inspecției aripii.",
      "warn": ""
     },
     {
      "text": "pentru a verifica performanța motorului",
      "correct": false,
      "short": "",
-     "long": "Motorul are propriul program de inspecție.",
+     "long": "Performanța motorului nu este scopul inspecției aripii.",
      "warn": ""
     },
     {
      "text": "pentru a detecta eventuale daune structurale sau uzură",
      "correct": true,
      "short": "",
-     "long": "Este scopul corect al inspecției.",
+     "long": "Corect. Inspecția periodică detectează daune structurale și uzură.",
      "warn": ""
     }
    ]
@@ -1194,34 +1194,34 @@
    "number": "#34",
    "text": "460: Care este un dezavantaj al paramotoarelor cu motor în patru timpi?",
    "short": "Un dezavantaj al paramotoarelor cu motor în patru timpi este greutatea mai mare.",
-   "long": "Motoarele în patru timpi au mai multe piese mobile, deci sunt mai grele decât cele în doi timpi cu aceeași putere. Pe de altă parte, consumă mai puțin și sunt mai eficiente. Întreținerea și puterea nu sunt, de regulă, dezavantajele lor principale.",
+   "long": "Motoarele în patru timpi sunt mai grele decât cele în doi timpi, din cauza mecanismului cu supape și arbore cu came.",
    "answers": [
     {
      "text": "consum mai mare de combustibil",
      "correct": false,
      "short": "",
-     "long": "Dimpotrivă, consumă mai puțin.",
+     "long": "Motoarele în patru timpi consumă mai puțin, nu mai mult.",
      "warn": ""
     },
     {
      "text": "putere mai mică",
      "correct": false,
      "short": "",
-     "long": "Puterea poate fi comparabilă; nu este dezavantajul principal.",
+     "long": "Motoarele în patru timpi nu au putere mai mică ca regulă, ci sunt mai grele.",
      "warn": ""
     },
     {
      "text": "greutate mai mare",
      "correct": true,
      "short": "",
-     "long": "Este dezavantajul corect al motorului în patru timpi.",
+     "long": "Corect. Greutatea mai mare este dezavantajul motorului în patru timpi.",
      "warn": ""
     },
     {
      "text": "mai dificil de întreținut",
      "correct": false,
      "short": "",
-     "long": "Întreținerea nu este dezavantajul principal.",
+     "long": "Întreținerea nu este dezavantajul principal al motorului în patru timpi.",
      "warn": ""
     }
    ]
@@ -1230,34 +1230,34 @@
    "number": "#35",
    "text": "430: Ce este un indicator de viteza aerului (airspeed indicator)?",
    "short": "Indicatorul de viteză a aerului (airspeed indicator) măsoară viteza cu care te deplasezi prin aer.",
-   "long": "Airspeed indicatorul măsoară presiunea dinamică a aerului, pe care o transformă în viteză. Este diferit de viteza față de sol, care depinde și de vânt. Altimetrul măsoară altitudinea, iar variometrul viteza verticală.",
+   "long": "Indicatorul de viteză a aerului (airspeed indicator) măsoară viteza aeronavei față de aer, prin presiunea dinamică.",
    "answers": [
     {
      "text": "un instrument pentru măsurarea altitudinii",
      "correct": false,
      "short": "",
-     "long": "Aceasta este funcția altimetrului.",
+     "long": "Altimetrul măsoară altitudinea, nu viteza.",
      "warn": ""
     },
     {
      "text": "un dispozitiv pentru determinarea direcției vântului",
      "correct": false,
      "short": "",
-     "long": "Aceasta este funcția fanionului sau girouettei.",
+     "long": "Direcția vântului nu este măsurată de indicatorul de viteză.",
      "warn": ""
     },
     {
      "text": "un echipament pentru controlul temperaturii motorului",
      "correct": false,
      "short": "",
-     "long": "Aceasta este funcția senzorului de temperatură.",
+     "long": "Temperatura motorului nu este măsurată de indicatorul de viteză.",
      "warn": ""
     },
     {
      "text": "un dispozitiv care măsoară viteza cu care te deplasezi prin aer",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Indicatorul de viteză a aerului măsoară viteza față de aer.",
      "warn": ""
     }
    ]
