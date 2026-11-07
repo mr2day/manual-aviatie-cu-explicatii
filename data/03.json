@@ -762,34 +762,34 @@
    "number": "#22",
    "text": "368: Ce constituie o contravenție conform Codului Aerian?",
    "short": "Constituie contravenție, conform Codului Aerian, lipsa de la bordul aeronavei a documentelor obligatorii.",
-   "long": "Codul Aerian impune ca documentele obligatorii (de înmatriculare, licența, certificatul medical, autorizația de zbor etc.) să fie la bord. Lipsa lor este contravenție. Întârzierea la decolare sau neinformarea pasagerilor nu sunt cele corecte.",
+   "long": "Codul aerian, art. 126, enumeră contravențiile. Lipsa documentelor obligatorii de la bord nu apare ca atare în această listă. RACR-CCO ULM 1215 cere ca documentele (certificatul de identificare, autorizația de zbor sau anexa și manualul) să fie asupra utilizatorului, iar lipsa lor face ca aeronava să nu poată fi operată până la remediere.",
    "answers": [
     {
      "text": "neinformarea pasagerilor despre condițiile de zbor",
      "correct": false,
      "short": "",
-     "long": "Nu este contravenția corectă.",
+     "long": "Neinformarea pasagerilor despre condițiile de zbor nu este enumerată în art. 126 al Codului aerian.",
      "warn": ""
     },
     {
      "text": "lipsa de la bordul aeronavei a documentelor obligatorii",
      "correct": true,
      "short": "",
-     "long": "",
-     "warn": ""
+     "long": "Lipsa documentelor de la bord este obligație de zbor (RACR-CCO ULM 1215), dar nu este enumerată în art. 126 ca contravenție. Consecința din regulament este că aeronava nu poate fi operată.",
+     "warn": "Lipsa documentelor obligatorii de la bord nu este enumerată printre contravențiile din art. 126 al Codului aerian. RACR-CCO ULM 1215 prevede că aeronava nu poate fi operată până la remedierea situației."
     },
     {
      "text": "întârzierea la decolare",
      "correct": false,
      "short": "",
-     "long": "Nu este contravenția corectă.",
+     "long": "Întârzierea la decolare nu este enumerată în art. 126 al Codului aerian ca contravenție.",
      "warn": ""
     },
     {
      "text": "nerespectarea orarului de zbor",
      "correct": false,
      "short": "",
-     "long": "Nu este contravenția corectă.",
+     "long": "Nerespectarea orarului de zbor nu este enumerată în art. 126 al Codului aerian ca contravenție.",
      "warn": ""
     }
    ]
@@ -906,34 +906,34 @@
    "number": "#26",
    "text": "196: Pentru a putea zbura în condiții legale motoparapanta dumneavoastră trebuie să posede:",
    "short": "Pentru a zbura legal, motoparapanta trebuie să aibă certificatul de înmatriculare și anexa la acesta, în termen de valabilitate.",
-   "long": "Documentele de bord ale unui ULM includ certificatul de înmatriculare și anexa (autorizația de zbor sau anexa la certificat), ambele valabile. Jurnalul de zbor și alte combinații nu sunt cerința corectă.",
+   "long": "Documentele obligatorii ale motoparapantei, conform RACR-CCO ULM 1215, sunt certificatul de identificare, autorizația de zbor sau, după caz, anexa la certificat, și manualul de utilizare și întreținere. Varianta A numește certificatul de identificare «certificat de înmatriculare».",
    "answers": [
     {
      "text": "certificat de înmatriculare și o anexă la certificatul de înmatriculare în termen de valabilitate",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect în esență: documentul de identificare și anexa (sau autorizația de zbor) trebuie să fie în termen de valabilitate, conform RACR-CCO ULM 1215.",
      "warn": ""
     },
     {
      "text": "certificat de înmatriculare și jurnalul de zbor al aeronavei",
      "correct": false,
      "short": "",
-     "long": "Jurnalul nu este cerința corectă.",
+     "long": "Jurnalul de zbor nu este documentul obligatoriu al aeronavei. Este nevoie de anexa sau autorizația de zbor (RACR-CCO ULM 1215).",
      "warn": ""
     },
     {
      "text": "autorizație de zbor în termen de valabilitate",
      "correct": false,
      "short": "",
-     "long": "Incompletă, fără certificatul de înmatriculare.",
+     "long": "Autorizația de zbor nu este suficientă singură. Regula cere și documentul de identificare sau anexa la acesta (RACR-CCO ULM 1215).",
      "warn": ""
     },
     {
      "text": "autorizație de zbor sau o anexă la certificatul de înmatriculare în termen de valabilitate",
      "correct": false,
      "short": "",
-     "long": "Incompletă, fără certificatul de înmatriculare.",
+     "long": "Varianta este incompletă: cere doar autorizația sau anexa, fără documentul de identificare de bază (RACR-CCO ULM 1215).",
      "warn": ""
     }
    ]
@@ -1410,34 +1410,34 @@
    "number": "#40",
    "text": "381: Care este scopul principal al investigației tehnice a incidentelor și accidentelor de aviație civilă?",
    "short": "Investigația tehnică a incidentelor și accidentelor stabilește faptele, cauzele și împrejurările.",
-   "long": "Scopul investigației este prevenirea altor accidente, deci se stabilesc faptele, cauzele și circumstanțele. Investigația nu stabilește sancțiuni sau compensații, iar costurile nu sunt scopul ei.",
+   "long": "Codul aerian, capitolul XIII (art. 856), spune că scopul investigației este prevenirea accidentelor și incidentelor, prin culegerea și analizarea informațiilor. Stabilirea faptelor și a cauzelor este mijlocul pentru acest scop.",
    "answers": [
     {
      "text": "evaluarea costurilor asociate accidentului",
      "correct": false,
      "short": "",
-     "long": "Costurile nu sunt scopul investigației tehnice.",
+     "long": "Costurile accidentului nu sunt scopul investigației. Investigația urmărește prevenirea (Codul aerian, capitolul XIII).",
      "warn": ""
     },
     {
      "text": "aplicarea sancțiunilor pentru persoanele vinovate",
      "correct": false,
      "short": "",
-     "long": "Sancțiunile nu sunt scopul investigației tehnice.",
+     "long": "Sancțiunile nu sunt scopul investigației. Investigația este separată de răspunderea contravențională și penală (Codul aerian, capitolul XIII).",
      "warn": ""
     },
     {
      "text": "stabilirea faptelor, cauzelor și împrejurărilor incidentului sau accidentului",
      "correct": true,
      "short": "",
-     "long": "Este scopul corect.",
+     "long": "Corect. Stabilirea faptelor și a cauzelor este mijlocul prin care investigația atinge scopul său, prevenirea (Codul aerian, capitolul XIII).",
      "warn": ""
     },
     {
      "text": "obținerea de compensații financiare pentru pagube",
      "correct": false,
      "short": "",
-     "long": "Compensațiile nu țin de investigația tehnică.",
+     "long": "Compensațiile nu sunt scopul investigației de siguranță (Codul aerian, capitolul XIII).",
      "warn": ""
     }
    ]
@@ -1446,34 +1446,34 @@
    "number": "#41",
    "text": "362: Ce reprezintă noțiunea de aerodrom certificat?",
    "short": "Un aerodrom certificat este cel care a primit certificarea pentru operarea în siguranță a aeronavelor.",
-   "long": "Certificarea confirmă că aerodromul îndeplinește cerințele de siguranță și de infrastructură. Nu este rezervat doar zborurilor comerciale, avioanelor mici sau celor internaționale.",
+   "long": "Aerodromul certificat este un aerodrom certificat de Ministerul Transporturilor, prin reglementările specifice de certificare (Codul aerian, art. 4 lit. t). Certificarea arată că aerodromul funcționează în siguranță.",
    "answers": [
     {
      "text": "un aerodrom care a primit certificarea de la Ministerul Transporturilor pentru operarea în siguranță a aeronavelor",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Ministerul Transporturilor emite reglementările și certifică aerodromurile civile (Codul aerian, art. 4 lit. t).",
      "warn": ""
     },
     {
      "text": "un aerodrom destinat exclusiv zborurilor comerciale",
      "correct": false,
      "short": "",
-     "long": "Certificarea nu înseamnă exclusivitate comercială.",
+     "long": "Aerodromul certificat nu este destinat exclusiv zborurilor comerciale. Certificarea este pentru operarea în siguranță (Codul aerian, art. 4 lit. t).",
      "warn": ""
     },
     {
      "text": "un aerodrom destinat doar avioanelor de mici dimensiuni",
      "correct": false,
      "short": "",
-     "long": "Certificarea nu depinde de dimensiunea avioanelor.",
+     "long": "Dimensiunea avioanelor nu definește aerodromul certificat.",
      "warn": ""
     },
     {
      "text": "un aerodrom folosit pentru zboruri internaționale",
      "correct": false,
      "short": "",
-     "long": "Certificarea nu înseamnă doar zboruri internaționale.",
+     "long": "Zborurile internaționale sunt tratate separat, prin aeroporturile internaționale (Codul aerian, art. 4 lit. ț), nu definesc aerodromul certificat.",
      "warn": ""
     }
    ]
@@ -1626,34 +1626,34 @@
    "number": "#46",
    "text": "353: Ce drepturi sunt acordate deținătorului licenței de pilot de aeronave ultraușoare motorizate?",
    "short": "Licența de ULM dă dreptul de a efectua zboruri în interes propriu și zboruri particulare.",
-   "long": "Deținătorul licenței poate zbura pentru el, fără remunerare sau pentru transport comercial. Zborurile internaționale regulate, comerciale sau de testare cer alte autorizări sau calificări.",
+   "long": "Deținătorul licenței de ULM poate zbura în interes propriu și în zboruri particulare. Zborurile comerciale sau regulate nu sunt privilegiile licenței (RACR-LPAN ULM, privilegii).",
    "answers": [
     {
      "text": "dreptul de a efectua zboruri în interes propriu și zboruri particulare",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Privilegiile licenței de ULM sunt zborurile în interes propriu și particulare.",
      "warn": ""
     },
     {
      "text": "dreptul de a efectua zboruri internaționale regulate",
      "correct": false,
      "short": "",
-     "long": "Nu este dreptul conferit de licența ULM.",
+     "long": "Zborurile internaționale regulate nu sunt privilegiul licenței de ULM.",
      "warn": ""
     },
     {
      "text": "dreptul de a efectua zboruri comerciale",
      "correct": false,
      "short": "",
-     "long": "Nu este dreptul conferit de licența ULM.",
+     "long": "Zborurile comerciale nu sunt privilegiul licenței de ULM.",
      "warn": ""
     },
     {
      "text": "dreptul de a efectua zboruri de testare a echipamentelor",
      "correct": false,
      "short": "",
-     "long": "Nu este dreptul conferit de licența ULM.",
+     "long": "Zborurile de testare a echipamentelor nu sunt privilegiul licenței de ULM.",
      "warn": ""
     }
    ]
@@ -1662,34 +1662,34 @@
    "number": "#47",
    "text": "338: Ce document trebuie prezentat pentru planul de zbor VFR cu motoparapanta?",
    "short": "Pentru planul de zbor VFR cu motoparapanta se prezintă planul de zbor aprobat.",
-   "long": "Planul de zbor trebuie să fie aprobat înainte de zbor, în cazurile în care este cerut. Certificatul medical, licența și certificatul de înmatriculare sunt documente de bord, nu planul de zbor.",
+   "long": "Pentru zborul VFR cu motoparapanta, planul de zbor nu este cerut, în general (RACR-RA 3.030 pct. 1.2). Planul este necesar doar în cazurile enumerate, de exemplu zborul IFR în spațiul consultativ sau zborul peste granițe.",
    "answers": [
     {
      "text": "certificatul medical",
      "correct": false,
      "short": "",
-     "long": "Este document personal, nu planul de zbor.",
+     "long": "Certificatul medical nu este documentul pentru planul de zbor. Este documentul pilotului (RACR-LPAN ULM.2025).",
      "warn": ""
     },
     {
      "text": "planul de zbor aprobat",
      "correct": true,
      "short": "",
-     "long": "",
-     "warn": ""
+     "long": "Planul de zbor aprobat este cerut doar în cazurile din RACR-RA 3.030 pct. 1.2. Pentru zborul VFR obișnuit nu este cerut.",
+     "warn": "Pentru zborul VFR cu motoparapanta planul de zbor nu este cerut în general (RACR-RA 3.030 pct. 1.2). Planul este necesar doar în cazurile enumerate, de exemplu zborul IFR în spațiul consultativ sau zborul peste granițe."
     },
     {
      "text": "licența de pilot",
      "correct": false,
      "short": "",
-     "long": "Este document personal, nu planul de zbor.",
+     "long": "Licența de pilot nu este documentul pentru planul de zbor. Este documentul pilotului (RACR-LPAN ULM).",
      "warn": ""
     },
     {
      "text": "certificatul de înmatriculare",
      "correct": false,
      "short": "",
-     "long": "Este documentul aeronavei, nu planul de zbor.",
+     "long": "Certificatul de înmatriculare nu este documentul pentru planul de zbor. Este documentul aeronavei (RACR-CCO ULM 1215).",
      "warn": ""
     }
    ]
@@ -1698,34 +1698,34 @@
    "number": "#48",
    "text": "358: Ce implică coordonarea zborurilor civile și militare?",
    "short": "Coordonarea zborurilor civile și militare implică aplicarea conceptului de utilizare flexibilă a spațiului aerian.",
-   "long": "Utilizarea flexibilă a spațiului aerian înseamnă că zonele militare pot fi utilizate civil când nu sunt active, cu coordonare. Restul variantelor nu descriu coordonarea civil-militar.",
+   "long": "Coordonarea zborurilor civile și militare înseamnă utilizarea flexibilă a spațiului aerian: spațiul restricționat este pus la dispoziție civililor când nu este folosit militar, cu coordonare între cele două părți.",
    "answers": [
     {
      "text": "aplicarea conceptului de utilizare flexibilă a spațiului aerian",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Coordonarea civil-militar presupune utilizarea flexibilă a spațiului aerian, cu alocarea zonelor în funcție de nevoi.",
      "warn": ""
     },
     {
      "text": "utilizarea exclusivă a spațiului aerian controlat",
      "correct": false,
      "short": "",
-     "long": "Nu este conceptul de coordonare.",
+     "long": "Spațiul controlat nu este utilizat exclusiv în coordonarea civil-militară. Spațiul restricționat este alocat flexibil.",
      "warn": ""
     },
     {
      "text": "asigurarea separării între aeronavele IFR și VFR",
      "correct": false,
      "short": "",
-     "long": "Este separare, nu coordonare civil-militară.",
+     "long": "Separarea IFR și VFR este o funcție a controlului ATC, nu definiția coordonării civil-militare.",
      "warn": ""
     },
     {
      "text": "încheierea de acorduri internaționale",
      "correct": false,
      "short": "",
-     "long": "Nu descrie coordonarea civil-militară.",
+     "long": "Acordurile internaționale nu definesc coordonarea civil-militară internă.",
      "warn": ""
     }
    ]
@@ -1842,34 +1842,34 @@
    "number": "#52",
    "text": "350: Ce tipuri de aeronave sunt scutite de la plata tarifelor pentru servicii de navigație aeriană?",
    "short": "Aeronavele militare românești care efectuează zboruri militare sunt scutite de la plata tarifelor pentru navigația aeriană.",
-   "long": "Zborurile militare de stat sunt scutite de tarife, conform regulilor de finanțare. Zborurile comerciale, în interes propriu și cele internaționale regulate plătesc tarifele.",
+   "long": "Codul aerian (tarife de navigație aeriană, alin. 3) scutește de la plata tarifelor de rută zborurile VFR, zborurile aeronavelor de stat românești și zborurile militare.",
    "answers": [
     {
      "text": "aeronave care efectuează zboruri comerciale",
      "correct": false,
      "short": "",
-     "long": "Plătesc tarifele.",
+     "long": "Zborurile comerciale nu sunt scutite de tarife (Codul aerian, tarife de navigație aeriană).",
      "warn": ""
     },
     {
      "text": "aeronave care efectuează zboruri în interes propriu",
      "correct": false,
      "short": "",
-     "long": "Plătesc tarifele.",
+     "long": "Zborurile în interes propriu nu sunt scutite ca atare. Sunt scutite zborurile VFR (Codul aerian, alin. 3 lit. a).",
      "warn": ""
     },
     {
      "text": "aeronave militare românești care efectuează zboruri militare",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Aeronavele militare românești și zborurile militare sunt scutite (Codul aerian, alin. 3 lit. b).",
      "warn": ""
     },
     {
      "text": "aeronave care efectuează zboruri internaționale regulate",
      "correct": false,
      "short": "",
-     "long": "Plătesc tarifele.",
+     "long": "Zborurile internaționale regulate nu sunt scutite de tarife (Codul aerian, tarife de navigație aeriană).",
      "warn": ""
     }
    ]
@@ -1878,34 +1878,34 @@
    "number": "#53",
    "text": "334: Care sunt regulile pentru zborul acrobatic cu motoparapanta?",
    "short": "Zborul acrobatic cu motoparapanta necesită o autorizare specială.",
-   "long": "Acrobațiile sunt activități speciale, care cer autorizare. Nu sunt legate doar de spațiul controlat, de echipamentul suplimentar sau de prezența instructorului, ca reguli generale.",
+   "long": "Zborul acrobatic cu motoparapanta se efectuează numai în condițiile stabilite de AACR și cu autorizările relevante ale unității ATS (RACR-RA, zborul acrobatic, pct. 7).",
    "answers": [
     {
      "text": "zborul doar în spațiul aerian controlat",
      "correct": false,
      "short": "",
-     "long": "Nu este regula.",
+     "long": "Zborul acrobatic nu este limitat la spațiul controlat. Condiția este autorizarea specială (RACR-RA, pct. 7).",
      "warn": ""
     },
     {
      "text": "necesitatea unei autorizări speciale",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Zborul acrobatic necesită autorizare specială, stabilită de AACR (RACR-RA, pct. 7).",
      "warn": ""
     },
     {
      "text": "utilizarea echipamentului de protecție suplimentar",
      "correct": false,
      "short": "",
-     "long": "Echipamentul nu este regula de autorizare.",
+     "long": "Echipamentul de protecție este necesar în general, dar nu este regula specifică zborului acrobatic (RACR-RA, pct. 7).",
      "warn": ""
     },
     {
      "text": "zborul doar în prezența unui instructor",
      "correct": false,
      "short": "",
-     "long": "Nu este regula generală.",
+     "long": "Zborul acrobatic nu cere prezența unui instructor. Cere autorizare (RACR-RA, pct. 7).",
      "warn": ""
     }
    ]
@@ -1914,34 +1914,34 @@
    "number": "#54",
    "text": "339: Ce trebuie să facă un pilot pentru a opera un zbor acrobatic cu motoparapanta?",
    "short": "Pentru zborul acrobatic, pilotul trebuie să obțină autorizație specială de la AACR.",
-   "long": "Autorizarea acrobației vine de la autoritatea aeronautică competentă, AACR. Parașuta, instructorul sau notificarea autorităților locale nu înlocuiesc autorizația.",
+   "long": "Pentru zborul acrobatic, pilotul trebuie să obțină o autorizație specială de la AACR, în condițiile stabilite de aceasta (RACR-RA, pct. 7).",
    "answers": [
     {
      "text": "să fie echipat cu parașută",
      "correct": false,
      "short": "",
-     "long": "Echipamentul nu înlocuiește autorizația.",
+     "long": "Parașuta de salvare este recomandată, dar nu este autorizația pentru zborul acrobatic (RACR-RA, pct. 7).",
      "warn": ""
     },
     {
      "text": "să aibă un instructor prezent",
      "correct": false,
      "short": "",
-     "long": "Prezența instructorului nu înlocuiește autorizația.",
+     "long": "Prezența instructorului nu este condiția pentru zborul acrobatic (RACR-RA, pct. 7).",
      "warn": ""
     },
     {
      "text": "să notifice autoritățile locale",
      "correct": false,
      "short": "",
-     "long": "Notificarea nu înlocuiește autorizația.",
+     "long": "Notificarea autorităților locale nu este condiția pentru zborul acrobatic (RACR-RA, pct. 7).",
      "warn": ""
     },
     {
      "text": "să obțină autorizație specială de la AACR",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Zborul acrobatic cere autorizație specială de la AACR (RACR-RA, pct. 7).",
      "warn": ""
     }
    ]
@@ -2022,34 +2022,34 @@
    "number": "#57",
    "text": "396: Ce document trebuie să fie prezentat autorităților competente în cazul unui control la sol al unei motoparapante?",
    "short": "La un control la sol, se prezintă certificatul de înmatriculare, licența de pilot și documentul de asigurare.",
-   "long": "Sunt documentele pe care autoritățile le cer la control: înmatricularea aeronavei, licența pilotului și asigurarea. Documentele de proveniență și manualul nu sunt cerute în varianta corectă.",
+   "long": "La controlul la sol, pilotul prezintă certificatul de identificare al aeronavei, licența de pilot și documentul de asigurare. RACR-CCO ULM 1215 cere și manualul de utilizare și întreținere asupra utilizatorului.",
    "answers": [
     {
      "text": "certificatul de inmatriculare, licența de pilot, documentul de asigurare, documentele de proveniență, manualul de utilizare și întreținere",
      "correct": false,
      "short": "Certificatul de înmatriculare, licența de pilot, documentul de asigurare, documentele de proveniență, manualul de utilizare și întreținere.",
-     "long": "Include documente care nu sunt în varianta corectă.",
+     "long": "Varianta cuprinde documentele de bază și manualul. Documentele de proveniență nu sunt cerute la controlul la sol.",
      "warn": ""
     },
     {
      "text": "certificatul de inmatriculare, licența de pilot, documentul de asigurare",
      "correct": true,
      "short": "Certificatul de înmatriculare, licența de pilot, documentul de asigurare.",
-     "long": "",
-     "warn": ""
+     "long": "Lista este incompletă: lipsește manualul de utilizare și întreținere, cerut de RACR-CCO ULM 1215.",
+     "warn": "Lista este incompletă. RACR-CCO ULM 1215 cere ca asupra utilizatorului să se afle și manualul de utilizare și întreținere, care nu este menționat aici."
     },
     {
      "text": "certificatul de inmatriculare, licența de pilot, documentul de asigurare, documentele de proveniență",
      "correct": false,
      "short": "Certificatul de înmatriculare, licența de pilot, documentul de asigurare, documentele de proveniență.",
-     "long": "Include documente care nu sunt în varianta corectă.",
+     "long": "Documentele de proveniență nu sunt cerute la controlul la sol al motoparapantei.",
      "warn": ""
     },
     {
      "text": "documentul de asigurare",
      "correct": false,
      "short": "Doar documentul de asigurare.",
-     "long": "Sunt cerute mai multe documente.",
+     "long": "Asigurarea nu este singurul document cerut. Se cer și certificatul de identificare și licența.",
      "warn": ""
     }
    ]
@@ -2274,34 +2274,34 @@
    "number": "#64",
    "text": "392: Ce tip de certificare este necesar pentru operarea unei motoparapante în spațiul aerian național?",
    "short": "Pentru operarea unei motoparapante în spațiul aerian național este necesar certificatul de înmatriculare.",
-   "long": "Aeronava trebuie înregistrată. Certificatul de înmatriculare este documentul care o autorizează să opereze în spațiul național, pe lângă licența pilotului. Permisul internațional, licența privată și certificatul de navigabilitate nu sunt variantele corecte.",
+   "long": "Pentru operare în spațiul aerian național, documentul de bază al aeronavei ULM este certificatul de identificare, cu autorizația de zbor sau anexa la acesta (RACR-CCO ULM 1215).",
    "answers": [
     {
      "text": "permis de zbor internațional",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "Permisul de zbor internațional nu este documentul pentru zborul în spațiul național. Pentru ULM documentul de bază este certificatul de identificare (RACR-CCO ULM 1215).",
      "warn": ""
     },
     {
      "text": "licență de pilot privat",
      "correct": false,
      "short": "",
-     "long": "Licența pilotului nu înlocuiește înmatricularea.",
+     "long": "Licența de pilot privat nu este documentul aeronavei. Licența ULM este documentul pilotului (RACR-LPAN ULM).",
      "warn": ""
     },
     {
      "text": "certificat de înmatriculare",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Documentul de bază al aeronavei este certificatul de identificare (RACR-CCO ULM 1215). Varianta îl numește certificat de înmatriculare.",
      "warn": ""
     },
     {
      "text": "certificat de navigabilitate",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă pentru operare.",
+     "long": "Certificatul de navigabilitate nu este documentul de bază cerut de RACR-CCO ULM 1215 pentru operarea motoparapantei.",
      "warn": ""
     }
    ]
@@ -2454,34 +2454,34 @@
    "number": "#69",
    "text": "191: Autorizaţia specială pentru zbor cu alte persoane la bord decât un pilot calificat pe clasa respectivă de aeronave se poate acorda unui pilot ULM dacă acesta posedă o experienţa de:",
    "short": "Pentru zborul cu alte persoane la bord, pilotul ULM trebuie să aibă 1/2 din experiența minimă cerută pentru calificarea de instructor.",
-   "long": "Autorizația specială pentru pasageri depinde de experiența pilotului, care trebuie să fie jumătate din cea cerută pentru instructor. Celelalte fracții sau cifre nu sunt varianta corectă.",
+   "long": "Autorizația specială pentru zborul cu alte persoane se acordă pilotului ULM care are jumătate din experiența minimă de zbor cerută instructorilor (RACR-LPAN ULM.2110 lit. f).",
    "answers": [
     {
      "text": "1/3 din experienţa minimă cerută pentru calificarea de instructor",
      "correct": false,
      "short": "1/3 din experiența minimă cerută pentru calificarea de instructor.",
-     "long": "Nu este fracția corectă.",
+     "long": "O treime nu este cerința din RACR-LPAN ULM.2110 lit. f. Cerința este jumătate din experiența minimă a instructorului.",
      "warn": ""
     },
     {
      "text": "minim 30 de ore în simplă comandă",
      "correct": false,
      "short": "",
-     "long": "Nu este criteriul corect.",
+     "long": "Cele 30 de ore în simplă comandă nu sunt cerința din RACR-LPAN ULM.2110 lit. f.",
      "warn": ""
     },
     {
      "text": "egală cu experienţa minimă cerută pentru calificarea de instructor",
      "correct": false,
      "short": "Egală cu experiența minimă cerută pentru calificarea de instructor.",
-     "long": "Nu este fracția corectă.",
+     "long": "Experiența egală cu cea a instructorului nu este cerința, cerința este jumătate (RACR-LPAN ULM.2110 lit. f).",
      "warn": ""
     },
     {
      "text": "1/2 din experienţa minimă cerută pentru calificarea de instructor",
      "correct": true,
      "short": "1/2 din experiența minimă cerută pentru calificarea de instructor.",
-     "long": "",
+     "long": "Corect. Cerința este jumătate din experiența minimă a instructorului (RACR-LPAN ULM.2110 lit. f).",
      "warn": ""
     }
    ]
@@ -3606,34 +3606,34 @@
    "number": "#101",
    "text": "383: Ce înseamnă forța majoră în contextul aviației civile?",
    "short": "Forța majoră este un eveniment imprevizibil și inevitabil care face temporar imposibilă respectarea cerințelor autorizării.",
-   "long": "Forța majoră este o situație exterioară, care nu poate fi prevăzută sau evitată (de exemplu o calamitate). Din acest motiv poate justifica temporar nerespectarea unei cerințe, dar nu o anulează.",
+   "long": "Forța majoră este un eveniment extern, imprevizibil, absolut invincibil și inevitabil, care face imposibilă temporar sau definitiv executarea unei obligații (Codul aerian, definiția 27).",
    "answers": [
     {
      "text": "eveniment imprevizibil și inevitabil care generează imposibilitatea temporară de a respecta cerințele autorizării acordate",
      "correct": true,
      "short": "Echipamentele de mare putere utilizate pentru controlul traficului aerian.",
-     "long": "Nu este definiția forței majore.",
+     "long": "Corect. Forța majoră este evenimentul imprevizibil și inevitabil care face imposibilă temporar executarea cerințelor (Codul aerian, definiția 27).",
      "warn": ""
     },
     {
      "text": "echipamentele de mare putere utilizate pentru controlul traficului aerian",
      "correct": false,
      "short": "Regulile stricte impuse de autoritățile aviatice.",
-     "long": "Nu este definiția forței majore.",
+     "long": "Echipamentele de control nu definesc forța majoră. Este un eveniment (Codul aerian, definiția 27).",
      "warn": ""
     },
     {
      "text": "regulile stricte impuse de autoritățile aviatice",
      "correct": false,
      "short": "Forța de muncă angajată în aeroporturi.",
-     "long": "Nu este definiția forței majore.",
+     "long": "Regulile stricte nu sunt forța majoră. Forța majoră este un eveniment extern (Codul aerian, definiția 27).",
      "warn": ""
     },
     {
      "text": "forța de muncă angajată în aeroporturi",
      "correct": false,
      "short": "Eveniment imprevizibil și inevitabil care generează imposibilitatea temporară de a respecta cerințele autorizării acordate.",
-     "long": "Este definiția corectă.",
+     "long": "Forța de muncă nu definește forța majoră (Codul aerian, definiția 27).",
      "warn": ""
     }
    ]
