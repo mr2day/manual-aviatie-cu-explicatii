@@ -624,7 +624,7 @@
      "text": "250 kg",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă pentru două locuri.",
+     "long": "250 kg nu corespunde Anexei 1 din RACR-CCO ULM, pct. 1.2.3.1 (300 kg pentru un loc, 450 kg pentru două locuri).",
      "warn": ""
     },
     {
@@ -638,14 +638,14 @@
      "text": "300 kg",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "300 kg este masa pentru un loc (RACR-CCO ULM, pct. 1.2.3.1), nu pentru două locuri.",
      "warn": ""
     },
     {
      "text": "350 kg",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "350 kg nu corespunde Anexei 1 din RACR-CCO ULM, pct. 1.2.3.1.",
      "warn": ""
     }
    ]
@@ -804,7 +804,7 @@
      "text": "70% pentru fiecare disciplină",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "70% nu este baremul. RACR-LPAN ULM.2045 și 2175 cer 75% la fiecare disciplină.",
      "warn": ""
     },
     {
@@ -818,14 +818,14 @@
      "text": "80% pentru fiecare disciplină",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "80% nu este baremul stabilit. Baremul de promovare este 75% la fiecare disciplină (RACR-LPAN ULM.2045).",
      "warn": ""
     },
     {
      "text": "65% pentru fiecare disciplină",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "65% nu este baremul. Baremul de promovare este 75% la fiecare disciplină (RACR-LPAN ULM.2045).",
      "warn": ""
     }
    ]
@@ -948,28 +948,28 @@
      "text": "efectuarea de zboruri de către aeronavele civile care dețin certificat de navigabilitate, emis conform legislației și reglementărilor in vigoare",
      "correct": false,
      "short": "Efectuarea de zboruri de către aeronavele civile care dețin certificat de navigabilitate.",
-     "long": "Nu este restricția corectă.",
+     "long": "Zborul aeronavelor cu certificat de navigabilitate nu este interzis ca atare. Interdicția din art. 15 alin. 2 vizează înălțimea sub 300 m față de obstacolele din raza de 600 m.",
      "warn": ""
     },
     {
      "text": "efectuarea de către aeronavele civile a zborurilor de agrement",
      "correct": false,
      "short": "",
-     "long": "Nu este restricția corectă.",
+     "long": "Zborul de agrement nu este interzis ca atare. Interdicția din art. 15 alin. 2 (Codul aerian) vizează înălțimea sub 300 m față de obstacolele din raza de 600 m.",
      "warn": ""
     },
     {
      "text": "efectuarea de către aeronavele civile a zborurilor la înălțimi mai mici de 300 de metri față de cel mai înalt obstacol fix, cu excepția celor care execută proceduri de aterizare/ decolare pe/de pe aerodromuri certificate",
      "correct": true,
      "short": "Efectuarea zborurilor la înălțimi mai mici de 300 m față de cel mai înalt obstacol fix, cu excepția procedurilor pe aerodromuri certificate.",
-     "long": "",
+     "long": "Corect. Codul aerian, art. 15 alin. 2, interzice zborul sub 300 m față de obstacolele din raza de 600 m deasupra zonelor dens populate, cu excepția procedurilor pe aerodromuri certificate.",
      "warn": ""
     },
     {
      "text": "efectuarea de către aeronavele civile a zborurilor la înălțimi mai mici de 150 de metri față de cel mai înalt obstacol fix, cu excepția celor care execută proceduri de aterizare/ decolare pe/de pe aerodromuri certificate",
      "correct": false,
      "short": "Efectuarea zborurilor la înălțimi mai mici de 150 m față de cel mai înalt obstacol fix.",
-     "long": "Regula este de 300 m față de cel mai înalt obstacol fix, deasupra zonelor dens populate și a adunărilor de persoane în aer liber (RACR-RA și art. 15 din Codul Aerian, în versiunile consultate). Varianta D indică 150 m, deci nu corespunde regulii. Excepțiile, de exemplu aterizarea și decolarea pe aerodromuri certificate, sunt cele din Codul Aerian în vigoare.",
+     "long": "150 m nu este pragul. Codul aerian, art. 15 alin. 2, stabilește 300 m.",
      "warn": ""
     }
    ]
@@ -1027,21 +1027,21 @@
      "text": "12 luni de la data examinării teoretice",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "12 luni nu corespund RACR-LPAN ULM.2025, care dă 24 de luni de la examinarea teoretică.",
      "warn": ""
     },
     {
      "text": "6 luni de la data examinării teoretice",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "6 luni nu corespund RACR-LPAN ULM.2025, care dă 24 de luni de la examinarea teoretică.",
      "warn": ""
     },
     {
      "text": "36 luni de la data examinării teoretice",
      "correct": false,
      "short": "36 de luni de la data examinării teoretice.",
-     "long": "Nu este valoarea corectă.",
+     "long": "36 de luni nu corespund RACR-LPAN ULM.2025, care dă 24 de luni de la examinarea teoretică.",
      "warn": ""
     }
    ]
@@ -1603,21 +1603,21 @@
      "text": "12 luni de la data examinării teoretice",
      "correct": false,
      "short": "",
-     "long": "12 luni nu corespund RACR-LPAN ULM.2025.",
+     "long": "12 luni nu corespund RACR-LPAN ULM.2025, care dă 24 de luni de la examinarea teoretică.",
      "warn": ""
     },
     {
      "text": "6 luni de la data examinării teoretice",
      "correct": false,
      "short": "",
-     "long": "6 luni nu corespund RACR-LPAN ULM.2025.",
+     "long": "6 luni nu corespund RACR-LPAN ULM.2025, care dă 24 de luni de la examinarea teoretică.",
      "warn": ""
     },
     {
      "text": "36 luni de la data examinării teoretice",
      "correct": false,
      "short": "36 de luni de la data examinării teoretice.",
-     "long": "36 de luni nu corespund RACR-LPAN ULM.2025.",
+     "long": "36 de luni nu corespund RACR-LPAN ULM.2025, care dă 24 de luni de la examinarea teoretică.",
      "warn": ""
     }
    ]
@@ -2064,21 +2064,21 @@
      "text": "pentru zborul respectiv operatorul aeronavei a depus un plan de zbor, în conformitate cu reglementările aeronautice în vigoare, iar aeronava este asigurată, după caz, conform legii, pentru daune produse terților",
      "correct": true,
      "short": "Operatorul a depus un plan de zbor, conform reglementărilor, iar aeronava este asigurată pentru daune produse terților.",
-     "long": "",
+     "long": "Planul de zbor este cerut doar în cazurile din RACR-RA 3.030 pct. 1.2. Cerința de asigurare a aeronavei nu este în documentele din repo, deci partea de asigurare nu este explicată aici.",
      "warn": ""
     },
     {
      "text": "pentru zborul respectiv operatorul aeronavei a depus un plan de zbor în conformitate cu reglementările aeronautice în vigoare sau, la alegerea operatorului, a făcut o informare de trafic VFR la Ministerul Apărării Naționale",
      "correct": false,
      "short": "Operatorul a depus plan de zbor sau a făcut informare VFR la Ministerul Apărării Naționale.",
-     "long": "Informarea la MApN nu este condiția corectă.",
+     "long": "Informarea de trafic VFR nu înlocuiește planul de zbor în cazurile în care acesta este cerut (RACR-RA 3.030 pct. 1.2).",
      "warn": ""
     },
     {
      "text": "sunt respectate reglementările aeronautice specifice şi generale din România",
      "correct": false,
      "short": "Sunt respectate reglementările aeronautice specifice și generale din România.",
-     "long": "Prea general; nu este varianta corectă.",
+     "long": "Formularea este prea generală: nu indică ce anume cere planul de zbor și asigurarea. Regula concretă este în RACR-RA 3.030 și în Codul aerian.",
      "warn": ""
     },
     {
@@ -2215,21 +2215,21 @@
      "text": "certificat medical clasa 4",
      "correct": false,
      "short": "",
-     "long": "Nu este clasa corectă.",
+     "long": "Clasa 4 nu este clasa cerută pentru licența de ULM. Procedura AACR (PAC-MED) cere clasa 2 pentru cei care obțin sau dețin licență ULM.",
      "warn": ""
     },
     {
      "text": "certificat medical clasa 1",
      "correct": false,
      "short": "",
-     "long": "Nu este clasa corectă.",
+     "long": "Clasa 1 este pentru pilotul de linie și comercial (MED.A.045 lit. a pct. 1). Pentru licența ULM se cere clasa 2.",
      "warn": ""
     },
     {
      "text": "certificat medical clasa 3",
      "correct": false,
      "short": "",
-     "long": "Nu este clasa corectă.",
+     "long": "Clasa 3 este pentru controlorii de trafic aerian (PAC-MED). Pentru licența ULM se cere clasa 2.",
      "warn": ""
     }
    ]
@@ -2352,21 +2352,21 @@
      "text": "150 kg",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "150 kg nu corespunde Anexei 1 din RACR-CCO ULM, pct. 1.2.3.1 (300 kg pentru un loc).",
      "warn": ""
     },
     {
      "text": "200 kg",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "200 kg nu corespunde Anexei 1 din RACR-CCO ULM, pct. 1.2.3.1 (300 kg pentru un loc).",
      "warn": ""
     },
     {
      "text": "100 kg",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "100 kg nu corespunde Anexei 1 din RACR-CCO ULM, pct. 1.2.3.1 (300 kg pentru un loc).",
      "warn": ""
     },
     {
@@ -2778,35 +2778,35 @@
    "number": "#78",
    "text": "395: Ce caracteristici trebuie să aibă o motoparapantă pentru a fi considerată „ultraușoară” conform Anexei 1 – OMTCT 630, consolidat 2023?",
    "short": "O motoparapantă este ultraușoară dacă are un principiu simplu de concepție și o întreținere simplă.",
-   "long": "Încadrarea în categoria ultraușoară se bazează pe construcție simplă, greutate limitată și operare simplă, nu pe puterea motorului sau pe numărul de pasageri. Viteza maximă de 60 km/h nu este criteriul principal.",
+   "long": "Anexa 1 din OMTCT 630/2007 (pct. 1.2.3.1), reluată în RACR-CCO ULM, definește aeronava ultraușoară motorizată avansată (inclusiv motoparapanta) ca având cel mult două locuri și masa maximă la decolare de 300 kg pentru un loc sau 450 kg pentru două locuri.",
    "answers": [
     {
      "text": "capacitate de transport a cel puțin 2 pasageri",
      "correct": false,
      "short": "",
-     "long": "Numărul de pasageri nu este criteriul.",
+     "long": "Capacitatea de cel puțin 2 pasageri nu este criteriul. Criteriul este cel mult două locuri, inclusiv pilotul (Anexa 1, pct. 1.2.3.1).",
      "warn": ""
     },
     {
      "text": "un motor de mare putere",
      "correct": false,
      "short": "",
-     "long": "Puterea mare nu definește ultraușorul.",
+     "long": "Puterea motorului nu este criteriul de ultraușoară. Criteriul este numărul de locuri și masa maximă la decolare (Anexa 1, pct. 1.2.3.1).",
      "warn": ""
     },
     {
      "text": "o viteză maximă de 60km/h",
      "correct": false,
      "short": "O viteză maximă de 60 km/h.",
-     "long": "Viteza nu este criteriul principal.",
+     "long": "Viteza maximă nu este criteriul din Anexa 1. Criteriul este numărul de locuri și masa maximă la decolare (pct. 1.2.3.1).",
      "warn": ""
     },
     {
      "text": "un principiu simplu de concepție și o întreținere simplă",
      "correct": true,
      "short": "",
-     "long": "",
-     "warn": ""
+     "long": "Principiul simplu de concepție și întreținerea simplă nu sunt criteriile din Anexa 1 pct. 1.2.3.1. Varianta este formulată vag și descrie o idee generală, nu definiția.",
+     "warn": "Criteriile din Anexa 1 (pct. 1.2.3.1) sunt cel mult două locuri și masa maximă la decolare de 300 kg (un loc) sau 450 kg (două locuri). Concepția simplă nu este criteriul definit în regulament."
     }
    ]
   },
@@ -3684,7 +3684,7 @@
      "text": "450 m",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "450 m nu este vizibilitatea din nota ** a Tabelului 3-1 din RACR-RA, care dă 1500 m în condițiile descrise.",
      "warn": ""
     },
     {
@@ -3698,7 +3698,7 @@
      "text": "300 m",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "300 m nu este vizibilitatea din Tabelul 3-1 din RACR-RA pentru condițiile descrise.",
      "warn": ""
     },
     {
