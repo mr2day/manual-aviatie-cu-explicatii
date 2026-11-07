@@ -1351,7 +1351,7 @@
      "text": "\"Check, Reduce, Release\" (Verifică, redu, eliberează)",
      "correct": false,
      "short": "Verifică, redu, eliberează.",
-     "long": "Nu este procedura.",
+     "long": "Procedura de aruncare a parașutei de salvare începe cu oprirea motorului, apoi privirea spre mâner, tragerea, asigurarea că zona este liberă și aruncarea. „Verifică” și „redu” nu sunt pași ai procedurii, iar „eliberează” nu este pasul de aruncare.",
      "warn": ""
     },
     {
@@ -2337,7 +2337,7 @@
      "text": "Permite o întoarcere rapidă dacă decizi să te întorci devreme, iar planificarea combustibilului este mai ușoară",
      "correct": true,
      "short": "",
-     "long": "Este discutabilă; sfatul obișnuit este diferit, verifică sursa.",
+     "long": "Sfatul uzual este să zbori întâi împotriva vântului, ca la întoarcere, când ești obosit sau ai puțin combustibil, să ai vânt de spate. Varianta D inversează logica: dacă pleci cu vântul în spate, întoarcerea se face împotriva vântului și este mai lentă, nu mai rapidă.",
      "warn": "Sfatul uzual este să începi zborul cu vântul de față, ca la întoarcere să ai vânt de spate. Varianta D contrazice acest principiu; vezi și întrebarea 17 din pagina 05, unde răspunsul corect indică același principiu."
     }
    ]

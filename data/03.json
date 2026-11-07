@@ -631,7 +631,7 @@
      "text": "400 kg",
      "correct": true,
      "short": "",
-     "long": "Nu este valoarea corectă; verifică anexa 1 din RACR-CCO ULM, pct. 1.2.3.1.",
+     "long": "Anexa 1 din RACR-CCO ULM (pct. 1.2.3.1) încadrează motoparapanta avansată cu două locuri la 450 kg masă maximă la decolare. Cifra de 400 kg din această variantă nu corespunde anexei.",
      "warn": "Conform RACR-CCO ULM, anexa 1, pct. 1.2.3.1, motoparapanta avansată cu două locuri are masa maximă la decolare de 450 kg, nu 400 kg."
     },
     {
@@ -811,7 +811,7 @@
      "text": "75% pentru fiecare disciplină",
      "correct": true,
      "short": "",
-     "long": "Un furnizor de pregătire consultat indică același prag, dar verifică RACR-LPAN ULM.",
+     "long": "Anexa 2 din RACR-LPAN ULM cere, pentru examinarea teoretică, un prag de 75% la fiecare disciplină. Ce am citit este un document de pregătire care reproduce regula, nu textul oficial în vigoare, deci merită confirmată ediția actuală.",
      "warn": ""
     },
     {
@@ -969,7 +969,7 @@
      "text": "efectuarea de către aeronavele civile a zborurilor la înălțimi mai mici de 150 de metri față de cel mai înalt obstacol fix, cu excepția celor care execută proceduri de aterizare/ decolare pe/de pe aerodromuri certificate",
      "correct": false,
      "short": "Efectuarea zborurilor la înălțimi mai mici de 150 m față de cel mai înalt obstacol fix.",
-     "long": "Pragul corect este 300 m; verifică textul oficial.",
+     "long": "Regula este de 300 m față de cel mai înalt obstacol fix, deasupra zonelor dens populate și a adunărilor de persoane în aer liber (RACR-RA și art. 15 din Codul Aerian, în versiunile consultate). Varianta D indică 150 m, deci nu corespunde regulii. Excepțiile, de exemplu aterizarea și decolarea pe aerodromuri certificate, sunt cele din Codul Aerian în vigoare.",
      "warn": ""
     }
    ]
@@ -1207,7 +1207,7 @@
      "text": "să aibă vârsta de 16 ani împliniți",
      "correct": true,
      "short": "16 ani împliniți.",
-     "long": "Un furnizor de pregătire consultat indică aceeași vârstă, dar verifică RACR-LPAN ULM.",
+     "long": "RACR-LPAN ULM cere vârsta minimă de 16 ani împliniți pentru licența de ULM, conform sursei consultate. Alte variante (14, 18, 21 de ani) corespund altor condiții din regulament, de exemplu pentru instructori, nu licenței de bază. Verifică ediția actuală a RACR-LPAN ULM, pentru că sursele consultate sunt din 2007 și 2020.",
      "warn": ""
     },
     {
@@ -2373,7 +2373,7 @@
      "text": "250 kg",
      "correct": true,
      "short": "",
-     "long": "Nu este valoarea corectă; verifică anexa 1 din RACR-CCO ULM, pct. 1.2.3.1.",
+     "long": "Anexa 1 din RACR-CCO ULM (pct. 1.2.3.1) încadrează motoparapanta avansată cu un singur loc la 300 kg masă maximă la decolare. Cifra de 250 kg din această variantă nu corespunde anexei.",
      "warn": "Conform RACR-CCO ULM, anexa 1, pct. 1.2.3.1, motoparapanta avansată cu un singur loc are masa maximă la decolare de 300 kg, nu 250 kg."
     }
    ]
