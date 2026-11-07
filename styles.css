@@ -155,7 +155,7 @@ body {
 .content {
   flex: 1;
   min-width: 0;
-  max-width: 600px;
+  max-width: none;
 }
 
 /* Questions */
@@ -423,9 +423,9 @@ details.answer-more[open] > summary::before {
 
 /* Pagina de documentație (legislatie.html) */
 .doc {
-  max-width: 860px;
+  max-width: none;
   margin: 0 auto;
-  padding: 2rem 16px 4rem;
+  padding: 0;
   color: var(--text);
   line-height: 1.65;
 }
