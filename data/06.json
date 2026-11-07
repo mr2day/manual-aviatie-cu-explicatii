@@ -618,27 +618,27 @@
    "number": "#18",
    "text": "831: Ce măsuri de precauție trebuie luate atunci când zburați în apropierea zonei de munte?",
    "short": "În zona de munte, trebuie să ai o altitudine suficient de mare pentru a evita rotoarele, în caz de vânt puternic.",
-   "long": "În zona de munte, vântul și rotoarele pot fi foarte puternice. Aaltitudinea suficientă dă timp de reacție și evită zona de rotoare de sub relief.",
+   "long": "În zona de munte, vântul și rotoarele pot fi foarte puternice. Altitudinea suficientă dă timp de reacție și evită zona de rotoare de sub relief.",
    "answers": [
     {
      "text": "să coordonați zborul cu alte aeronave pentru a evita coliziuni",
      "correct": false,
      "short": "",
-     "long": "Coordonarea cu alte aeronave este utilă, dar în zona de munte precauția principală este aaltitudinea și rotoarele.",
+     "long": "Coordonarea cu alte aeronave este utilă, dar în zona de munte precauția principală este altitudinea și rotoarele.",
      "warn": ""
     },
     {
      "text": "să analizați detaliat harta topografică pentru a identifica zonele de risc",
      "correct": false,
      "short": "",
-     "long": "Harta topografică este utilă pentru planificare, dar măsura de precauție de zbor este aaltitudinea suficientă.",
+     "long": "Harta topografică este utilă pentru planificare, dar măsura de precauție de zbor este altitudinea suficientă.",
      "warn": ""
     },
     {
      "text": "să aveți o altitudine suficient de mare pentru a evita rotoarele în caz de vânt puternic",
      "correct": true,
      "short": "",
-     "long": "Corect. Aaltitudinea suficientă evită rotoarele și dă timp de reacție.",
+     "long": "Corect. Altitudinea suficientă evită rotoarele și dă timp de reacție.",
      "warn": ""
     },
     {
@@ -1156,7 +1156,7 @@
   },
   {
    "number": "#33",
-   "text": "871: Cum poate influența aaltitudinea densitatea aerului și, implicit, performanțele de zbor?",
+   "text": "871: Cum poate influența altitudinea densitatea aerului și, implicit, performanțele de zbor?",
    "short": "La altitudini mai mari, densitatea aerului scade, ceea ce poate reduce portanța.",
    "long": "La altitudine mare, densitatea aerului scade, deci aripa are mai puțină portanță pentru aceeași viteză, iar motorul are mai puțină putere.",
    "answers": [
@@ -1164,7 +1164,7 @@
      "text": "densitatea aerului rămâne constantă indiferent de altitudine",
      "correct": false,
      "short": "",
-     "long": "Densitatea scade cu aaltitudinea, deci este constantă este greșit.",
+     "long": "Densitatea scade cu altitudinea, deci este constantă este greșit.",
      "warn": ""
     },
     {
@@ -1175,24 +1175,24 @@
      "warn": ""
     },
     {
-     "text": "aaltitudinea nu influențează densitatea aerului",
+     "text": "altitudinea nu influențează densitatea aerului",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea influențează densitatea, deci afirmația este greșită.",
+     "long": "Altitudinea influențează densitatea, deci afirmația este greșită.",
      "warn": ""
     },
     {
      "text": "la altitudini mai mari, densitatea aerului crește, ceea ce poate îmbunătăți portanța",
      "correct": false,
      "short": "",
-     "long": "Densitatea nu crește cu aaltitudinea. Scade.",
+     "long": "Densitatea nu crește cu altitudinea. Scade.",
      "warn": ""
     }
    ]
   },
   {
    "number": "#34",
-   "text": "864: Ce influență are aaltitudinea asupra capacității de portanță a aripii?",
+   "text": "864: Ce influență are altitudinea asupra capacității de portanță a aripii?",
    "short": "Capacitatea de portanță a aripii scade la altitudini mai mari.",
    "long": "Portanța depinde de densitatea aerului. La altitudini mari densitatea scade, deci, pentru aceeași viteză, portanța scade.",
    "answers": [
@@ -1207,7 +1207,7 @@
      "text": "altitudinea nu influențează capacitatea de portanță",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea influențează portanța, deci afirmația este greșită.",
+     "long": "Altitudinea influențează portanța, deci afirmația este greșită.",
      "warn": ""
     },
     {
@@ -1221,7 +1221,7 @@
      "text": "capacitatea de portanță crește la altitudini mai mari",
      "correct": false,
      "short": "",
-     "long": "Portanța nu crește cu aaltitudinea. Scade, pentru aceeași viteză.",
+     "long": "Portanța nu crește cu altitudinea. Scade, pentru aceeași viteză.",
      "warn": ""
     }
    ]
@@ -1452,14 +1452,14 @@
      "text": "rămâne neschimbată",
      "correct": false,
      "short": "",
-     "long": "Viteza de stall reală crește cu aaltitudinea, deci nu rămâne neschimbată.",
+     "long": "Viteza de stall reală crește cu altitudinea, deci nu rămâne neschimbată.",
      "warn": ""
     },
     {
      "text": "crește",
      "correct": true,
      "short": "",
-     "long": "Corect. Viteza reală de stall crește cu aaltitudinea.",
+     "long": "Corect. Viteza reală de stall crește cu altitudinea.",
      "warn": ""
     },
     {
@@ -1473,7 +1473,7 @@
      "text": "scădea",
      "correct": false,
      "short": "",
-     "long": "Viteza reală de stall nu scade cu aaltitudinea.",
+     "long": "Viteza reală de stall nu scade cu altitudinea.",
      "warn": ""
     }
    ]
@@ -1554,7 +1554,7 @@
    "number": "#44",
    "text": "794: Odată cu creșterea altitudinii performanța motorului va:",
    "short": "Odată cu creșterea altitudinii, performanța motorului scade.",
-   "long": "Odată cu aaltitudinea, aerul devine mai rarefiat. Motorul primește mai puțin aer, deci puterea scade.",
+   "long": "Odată cu altitudinea, aerul devine mai rarefiat. Motorul primește mai puțin aer, deci puterea scade.",
    "answers": [
     {
      "text": "niciun răspuns nu este valabil",
@@ -1567,7 +1567,7 @@
      "text": "scădea",
      "correct": true,
      "short": "",
-     "long": "Corect. Puterea motorului scade cu aaltitudinea.",
+     "long": "Corect. Puterea motorului scade cu altitudinea.",
      "warn": ""
     },
     {
@@ -1581,7 +1581,7 @@
      "text": "crește",
      "correct": false,
      "short": "",
-     "long": "Puterea nu crește cu aaltitudinea. Scade.",
+     "long": "Puterea nu crește cu altitudinea. Scade.",
      "warn": ""
     }
    ]
@@ -1697,8 +1697,8 @@
   {
    "number": "#48",
    "text": "806: Când intrați într-un viraj mult înclinat ca să mențineți înălțimea și viteza trebuie să:",
-   "short": "Când intri într-un viraj mult înclinat, ca să menții aaltitudinea și viteza, trebuie să crești puterea motorului.",
-   "long": "Într-un viraj înclinat, o parte din portanță se îndreaptă lateral, deci portanța verticală scade. Pentru a menține aaltitudinea trebuie mai multă putere.",
+   "short": "Când intri într-un viraj mult înclinat, ca să menții altitudinea și viteza, trebuie să crești puterea motorului.",
+   "long": "Într-un viraj înclinat, o parte din portanță se îndreaptă lateral, deci portanța verticală scade. Pentru a menține altitudinea trebuie mai multă putere.",
    "answers": [
     {
      "text": "cresteti puterea motorului",
@@ -1725,7 +1725,7 @@
      "text": "nu e nevoie sa măriți puterea motorului",
      "correct": false,
      "short": "",
-     "long": "Puterea trebuie crescută pentru a menține aaltitudinea în viraj.",
+     "long": "Puterea trebuie crescută pentru a menține altitudinea în viraj.",
      "warn": ""
     }
    ]
@@ -2776,8 +2776,8 @@
   },
   {
    "number": "#78",
-   "text": "849: Ce efect are aaltitudinea asupra consumului de combustibil în timpul zborului?",
-   "short": "Aaltitudinea crește consumul de combustibil, din cauza aerului mai rarefiat.",
+   "text": "849: Ce efect are altitudinea asupra consumului de combustibil în timpul zborului?",
+   "short": "Altitudinea crește consumul de combustibil, din cauza aerului mai rarefiat.",
    "long": "La altitudine aerul este mai rarefiat. Motorul cu carburator dozează combustibilul după aer; cu regim setat, consumul pe oră scade, dar puterea scade și ea. Efectul asupra consumului depinde de regim.",
    "answers": [
     {
@@ -2791,7 +2791,7 @@
      "text": "nu influențează consumul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea influențează consumul prin dozarea aerului, deci afirmația este greșită.",
+     "long": "Altitudinea influențează consumul prin dozarea aerului, deci afirmația este greșită.",
      "warn": ""
     },
     {
@@ -2805,7 +2805,7 @@
      "text": "crește consumul de combustibil din cauza aerului mai rarefiat",
      "correct": true,
      "short": "",
-     "long": "Afirmația că aaltitudinea crește consumul din cauza aerului rarefiat nu este efectul general. Formularea variantei este discutabilă.",
+     "long": "Afirmația că altitudinea crește consumul din cauza aerului rarefiat nu este efectul general. Formularea variantei este discutabilă.",
      "warn": ""
     }
    ]

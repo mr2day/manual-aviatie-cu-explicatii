@@ -221,8 +221,8 @@
   {
    "number": "#7",
    "text": "784: Ce informații trebuie transmise către ATC de către o aeronavă care se pregătește să intre din spațiul necontrolat în spațiul controlat?",
-   "short": "Înainte de a intra în spațiul controlat, ATC trebuie să primească indicativul, poziția, aaltitudinea, ruta și destinația.",
-   "long": "Înainte de a intra din spațiul necontrolat în spațiul controlat, aeronava transmite indicativul, poziția, aaltitudinea, ruta intenționată și destinația, pentru ca ATC să o poată identifica și coordona.",
+   "short": "Înainte de a intra în spațiul controlat, ATC trebuie să primească indicativul, poziția, altitudinea, ruta și destinația.",
+   "long": "Înainte de a intra din spațiul necontrolat în spațiul controlat, aeronava transmite indicativul, poziția, altitudinea, ruta intenționată și destinația, pentru ca ATC să o poată identifica și coordona.",
    "answers": [
     {
      "text": "Numărul de pasageri la bord, greutatea totală a aeronavei și durata zborului",
@@ -232,10 +232,10 @@
      "warn": ""
     },
     {
-     "text": "Indicativul aeronavei, poziția curentă, aaltitudinea, ruta intenționată și destinația",
+     "text": "Indicativul aeronavei, poziția curentă, altitudinea, ruta intenționată și destinația",
      "correct": true,
      "short": "",
-     "long": "Corect. Indicativul, poziția, aaltitudinea, ruta și destinația permit ATC să identifice și să coordoneze aeronava.",
+     "long": "Corect. Indicativul, poziția, altitudinea, ruta și destinația permit ATC să identifice și să coordoneze aeronava.",
      "warn": ""
     },
     {
@@ -1312,10 +1312,10 @@
      "warn": ""
     },
     {
-     "text": "aaltitudinea de croazieră",
+     "text": "altitudinea de croazieră",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea de croazieră nu este informația esențială. Poziția contează mai mult pentru localizare.",
+     "long": "Altitudinea de croazieră nu este informația esențială. Poziția contează mai mult pentru localizare.",
      "warn": ""
     },
     {
@@ -1625,8 +1625,8 @@
   {
    "number": "#46",
    "text": "712: Când transmiteți un mesaj de urgența aveți obligația să furnizați următoarele informații:",
-   "short": "Într-un mesaj de urgență trebuie să spui poziția curentă sau ultima poziție cunoscută, aaltitudinea și capul compas.",
-   "long": "Într-un mesaj de urgență se dau poziția curentă sau ultima poziție cunoscută, aaltitudinea și capul compas, pentru a ajuta serviciile de salvare.",
+   "short": "Într-un mesaj de urgență trebuie să spui poziția curentă sau ultima poziție cunoscută, altitudinea și capul compas.",
+   "long": "Într-un mesaj de urgență se dau poziția curentă sau ultima poziție cunoscută, altitudinea și capul compas, pentru a ajuta serviciile de salvare.",
    "answers": [
     {
      "text": "distanța și poziția fată de aerodromul de plecare",
@@ -1646,14 +1646,14 @@
      "text": "poziția după GPS",
      "correct": false,
      "short": "",
-     "long": "Poziția GPS este o formă a poziției, dar mesajul cere poziția, aaltitudinea și capul compas.",
+     "long": "Poziția GPS este o formă a poziției, dar mesajul cere poziția, altitudinea și capul compas.",
      "warn": ""
     },
     {
      "text": "poziția curentă sau ultima poziție știută împreună cu înălțimea și capul compas",
      "correct": true,
      "short": "",
-     "long": "Corect. Poziția curentă sau ultima cunoscută, aaltitudinea și capul compas.",
+     "long": "Corect. Poziția curentă sau ultima cunoscută, altitudinea și capul compas.",
      "warn": ""
     }
    ]
@@ -2147,10 +2147,10 @@
      "warn": ""
     },
     {
-     "text": "aaltitudinea de croazieră",
+     "text": "altitudinea de croazieră",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea de croazieră nu este informația esențială a mesajului de primejdie.",
+     "long": "Altitudinea de croazieră nu este informația esențială a mesajului de primejdie.",
      "warn": ""
     },
     {

@@ -77,8 +77,8 @@
   {
    "number": "#3",
    "text": "335: Care este înălțimea maximă la care poate zbura o motoparapantă în spațiul aerian controlat?",
-   "short": "În spațiul controlat, zborul VFR se face cu autorizare ATC, iar aaltitudinea se stabilește prin această autorizare.",
-   "long": "Pentru zborul VFR în zona de control de aerodrom, RACR-RA 4.020 cere autorizare ATC. RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc o înălțime maximă numerică pentru motoparapantă în spațiul controlat, deci cifra de 3000 m nu are temei în ele. Aaltitudinea de zbor în zona de control este cea stabilită prin autorizarea ATC.",
+   "short": "În spațiul controlat, zborul VFR se face cu autorizare ATC, iar altitudinea se stabilește prin această autorizare.",
+   "long": "Pentru zborul VFR în zona de control de aerodrom, RACR-RA 4.020 cere autorizare ATC. RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc o înălțime maximă numerică pentru motoparapantă în spațiul controlat, deci cifra de 3000 m nu are temei în ele. Altitudinea de zbor în zona de control este cea stabilită prin autorizarea ATC.",
    "answers": [
     {
      "text": "1500 de metri",
@@ -92,7 +92,7 @@
      "correct": true,
      "short": "",
      "long": "Această variantă este greșită: RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc 3000 m ca înălțime maximă pentru motoparapantă în spațiul controlat.",
-     "warn": "RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc 3000 m ca înălțime maximă pentru motoparapantă în spațiul controlat. În zona de control, aaltitudinea se stabilește prin autorizarea ATC (RACR-RA 4.020)."
+     "warn": "RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc 3000 m ca înălțime maximă pentru motoparapantă în spațiul controlat. În zona de control, altitudinea se stabilește prin autorizarea ATC (RACR-RA 4.020)."
     },
     {
      "text": "2000 de metri",
@@ -1301,21 +1301,21 @@
   {
    "number": "#37",
    "text": "361: Ce trebuie să conțină un plan de zbor pentru a fi aprobat?",
-   "short": "Un plan de zbor aprobat conține ruta planificată, aaltitudinea, ora de plecare și durata estimată a zborului.",
-   "long": "Planul de zbor conține datele de identificare a zborului: ruta planificată, aaltitudinea, ora de plecare și durata estimată (RACR-RA, definiția 48 despre planul de zbor depus). Aceste date permit serviciilor de trafic aerian să ajute zborul.",
+   "short": "Un plan de zbor aprobat conține ruta planificată, altitudinea, ora de plecare și durata estimată a zborului.",
+   "long": "Planul de zbor conține datele de identificare a zborului: ruta planificată, altitudinea, ora de plecare și durata estimată (RACR-RA, definiția 48 despre planul de zbor depus). Aceste date permit serviciilor de trafic aerian să ajute zborul.",
    "answers": [
     {
      "text": "numele pilotului și detalii de contact",
      "correct": false,
      "short": "",
-     "long": "Numele pilotului și contactul sunt date de identificare, dar nu sunt conținutul esențial al planului de zbor. Esențial este ruta, aaltitudinea, ora și durata (RACR-RA, definiția 48).",
+     "long": "Numele pilotului și contactul sunt date de identificare, dar nu sunt conținutul esențial al planului de zbor. Esențial este ruta, altitudinea, ora și durata (RACR-RA, definiția 48).",
      "warn": ""
     },
     {
      "text": "detalii despre ruta planificată, altitudine, ora de plecare și durata estimată a zborului",
      "correct": true,
      "short": "",
-     "long": "Corect. Planul de zbor conține ruta, aaltitudinea, ora de plecare și durata estimată (RACR-RA, definiția 48).",
+     "long": "Corect. Planul de zbor conține ruta, altitudinea, ora de plecare și durata estimată (RACR-RA, definiția 48).",
      "warn": ""
     },
     {
@@ -2733,7 +2733,7 @@
      "text": "numai la altitudini sub 300 de metri",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea sub 300 m nu permite intrarea în CTR fără autorizație ATC.",
+     "long": "Altitudinea sub 300 m nu permite intrarea în CTR fără autorizație ATC.",
      "warn": ""
     }
    ]
@@ -2925,10 +2925,10 @@
    "long": "În FIR București, spațiul de clasa G este spațiul care nu este desemnat altă clasă, zonele restricționate exceptate (AIP ENR 1.4). Clasa C, deasupra FL105, este desemnată separat, deci clasa G merge până la FL105 în zonele unde nu există altă clasă.",
    "answers": [
     {
-     "text": "până la aaltitudinea de 1000 m",
+     "text": "până la altitudinea de 1000 m",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea de 1000 m nu este limita verticală a clasei G în AIP ENR 1.4 (clasa G este tot spațiul nedesemnat altfel).",
+     "long": "Altitudinea de 1000 m nu este limita verticală a clasei G în AIP ENR 1.4 (clasa G este tot spațiul nedesemnat altfel).",
      "warn": ""
     },
     {
@@ -3717,7 +3717,7 @@
    "long": "La apropiere convergentă, aeronava care are cealaltă aeronavă în dreapta sa trebuie să dea prioritate (RACR-RA, reguli de trecere, pct. 2.3).",
    "answers": [
     {
-     "text": "să schimbe aaltitudinea",
+     "text": "să schimbe altitudinea",
      "correct": false,
      "short": "",
      "long": "Schimbarea altitudinii nu este regula de prioritate. Regula este cea de la dreapta (RACR-RA, pct. 2.3).",

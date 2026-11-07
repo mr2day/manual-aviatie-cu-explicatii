@@ -465,7 +465,7 @@
      "text": "Lipsa de oxigen datorată scăderii temperaturii exterioare",
      "correct": false,
      "short": "",
-     "long": "Temperatura exterioară nu definește hipoxia. Aaltitudinea și oxigenul sunt factorii.",
+     "long": "Temperatura exterioară nu definește hipoxia. Altitudinea și oxigenul sunt factorii.",
      "warn": ""
     }
    ]
@@ -653,8 +653,8 @@
   {
    "number": "#19",
    "text": "1063: Care sunt factorii care pot produce tulburări de vedere în timpul zborului?",
-   "short": "Scăderea presiunii cu aaltitudinea, hiperventilația, oboseala fizică și nervoasă pot produce tulburări de vedere.",
-   "long": "Scăderea presiunii cu aaltitudinea, hiperventilația, oboseala și alți factori pot produce tulburări de vedere, deoarece reduc oxigenul și controlul muscular.",
+   "short": "Scăderea presiunii cu altitudinea, hiperventilația, oboseala fizică și nervoasă pot produce tulburări de vedere.",
+   "long": "Scăderea presiunii cu altitudinea, hiperventilația, oboseala și alți factori pot produce tulburări de vedere, deoarece reduc oxigenul și controlul muscular.",
    "answers": [
     {
      "text": "Creșterea temperaturii corpului și scăderea umidității",
@@ -667,14 +667,14 @@
      "text": "Scăderea presiunii odată cu creșterea altitudinii, hiperventilația, oboseala fizică și nervoasă",
      "correct": true,
      "short": "",
-     "long": "Corect. Aaltitudinea, hiperventilația și oboseala produc tulburări de vedere.",
+     "long": "Corect. Altitudinea, hiperventilația și oboseala produc tulburări de vedere.",
      "warn": ""
     },
     {
      "text": "Consumul de lichide în exces și lipsa somnului",
      "correct": false,
      "short": "",
-     "long": "Consumul de lichide și lipsa somnului pot influența, dar răspunsul complet cuprinde aaltitudinea și hiperventilația.",
+     "long": "Consumul de lichide și lipsa somnului pot influența, dar răspunsul complet cuprinde altitudinea și hiperventilația.",
      "warn": ""
     },
     {
@@ -1718,7 +1718,7 @@
      "text": "când decolăm la temperaturi peste 35 grade",
      "correct": false,
      "short": "",
-     "long": "Temperatura de peste 35 de grade nu este factorul principal de risc în zbor. Riscul principal este aaltitudinea.",
+     "long": "Temperatura de peste 35 de grade nu este factorul principal de risc în zbor. Riscul principal este altitudinea.",
      "warn": ""
     },
     {
@@ -3432,7 +3432,7 @@
      "text": "Zburând la altitudini foarte mari",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea mare nu previne răul de mișcare, ci poate produce alte probleme.",
+     "long": "Altitudinea mare nu previne răul de mișcare, ci poate produce alte probleme.",
      "warn": ""
     },
     {

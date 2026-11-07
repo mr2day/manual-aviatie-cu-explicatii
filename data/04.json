@@ -55,7 +55,7 @@
      "text": "25 grd. C",
      "correct": false,
      "short": "",
-     "long": "Temperatura crește, nu scade, cu aaltitudinea în troposferă.",
+     "long": "Temperatura crește, nu scade, cu altitudinea în troposferă.",
      "warn": ""
     },
     {
@@ -1283,24 +1283,24 @@
      "warn": ""
     },
     {
-     "text": "umiditatea în atmosfera ISA crește proporțional cu aaltitudinea",
+     "text": "umiditatea în atmosfera ISA crește proporțional cu altitudinea",
      "correct": false,
      "short": "",
-     "long": "În ISA umiditatea nu crește cu aaltitudinea. Atmosfera standard nu descrie umiditatea reală.",
+     "long": "În ISA umiditatea nu crește cu altitudinea. Atmosfera standard nu descrie umiditatea reală.",
      "warn": ""
     },
     {
      "text": "temperatura atmosferei ISA rămâne constantă de la nivelul mării până la 11 km altitudine",
      "correct": false,
      "short": "",
-     "long": "În ISA temperatura scade cu aaltitudinea (6,5°C/1000 m) până la tropopauză, nu rămâne constantă până la 11 km.",
+     "long": "În ISA temperatura scade cu altitudinea (6,5°C/1000 m) până la tropopauză, nu rămâne constantă până la 11 km.",
      "warn": ""
     },
     {
      "text": "atmosfera ISA are o densitate constantă la toate altitudinile",
      "correct": false,
      "short": "",
-     "long": "În ISA densitatea scade cu aaltitudinea. Nu este constantă.",
+     "long": "În ISA densitatea scade cu altitudinea. Nu este constantă.",
      "warn": ""
     }
    ]
@@ -1408,7 +1408,7 @@
      "text": "o creștere ușoară a vitezei vântului la altitudini de peste 12000 ft",
      "correct": false,
      "short": "",
-     "long": "Creșterea treptată a vitezei cu aaltitudinea este gradientul normal al vântului, produs de frecarea cu solul, nu forfecare.",
+     "long": "Creșterea treptată a vitezei cu altitudinea este gradientul normal al vântului, produs de frecarea cu solul, nu forfecare.",
      "warn": ""
     }
    ]
@@ -1839,10 +1839,10 @@
      "warn": ""
     },
     {
-     "text": "norii sunt clasificați în funcție de aaltitudinea la care se formează",
+     "text": "norii sunt clasificați în funcție de altitudinea la care se formează",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea este criteriu secundar. Clasificarea de bază este după formă.",
+     "long": "Altitudinea este criteriu secundar. Clasificarea de bază este după formă.",
      "warn": ""
     }
    ]
@@ -2067,8 +2067,8 @@
   {
    "number": "#58",
    "text": "254: Presiunea atmosferică scade în altitudine datorită:",
-   "short": "Presiunea atmosferică scade cu aaltitudinea din cauza scăderii densității aerului și a scurtării coloanei de aer deasupra.",
-   "long": "Presiunea scade cu aaltitudinea pentru că aerul de deasupra e mai rarefiat și coloana de aer deasupra este mai scurtă.",
+   "short": "Presiunea atmosferică scade cu altitudinea din cauza scăderii densității aerului și a scurtării coloanei de aer deasupra.",
+   "long": "Presiunea scade cu altitudinea pentru că aerul de deasupra e mai rarefiat și coloana de aer deasupra este mai scurtă.",
    "answers": [
     {
      "text": "creșterii gradientului termic",
@@ -2088,14 +2088,14 @@
      "text": "scăderii temperaturii aerului în înălțime",
      "correct": false,
      "short": "",
-     "long": "Temperatura scade cu aaltitudinea, dar presiunea scade din cauza coloanei de aer mai scurte.",
+     "long": "Temperatura scade cu altitudinea, dar presiunea scade din cauza coloanei de aer mai scurte.",
      "warn": ""
     },
     {
      "text": "creșterii umezelii în înălțime",
      "correct": false,
      "short": "",
-     "long": "Umezeala nu determină scăderea presiunii cu aaltitudinea.",
+     "long": "Umezeala nu determină scăderea presiunii cu altitudinea.",
      "warn": ""
     }
    ]
@@ -2470,7 +2470,7 @@
      "text": "schimbări bruște ale altitudinii și vitezei orizontale și verticale",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea și viteza se schimbă și în alte situații. Semnul specific al forfecării este comportamentul instrumentelor de bord.",
+     "long": "Altitudinea și viteza se schimbă și în alte situații. Semnul specific al forfecării este comportamentul instrumentelor de bord.",
      "warn": ""
     },
     {
@@ -2536,7 +2536,7 @@
    "number": "#71",
    "text": "289: Ce este vântul de gradient?",
    "short": "Vântul de gradient bate paralel cu izobarele curbate, influențat de forța Coriolis și de gradientul de presiune.",
-   "long": "Vântul de gradient bate paralel cu izobarele curbate, în echilibru între forța gradientului de presiune, forța Coriolis și forța centrifugă. Este vântul de la aaltitudinea la care frecarea cu solul nu mai contează mult.",
+   "long": "Vântul de gradient bate paralel cu izobarele curbate, în echilibru între forța gradientului de presiune, forța Coriolis și forța centrifugă. Este vântul de la altitudinea la care frecarea cu solul nu mai contează mult.",
    "answers": [
     {
      "text": "vântul de gradient este un vânt care bate în direcția în care scade presiunea atmosferică",
@@ -2716,34 +2716,34 @@
    "number": "#76",
    "text": "263: Inversiunea termică este:",
    "short": "Inversiunea termică este o creștere a temperaturii cu înălțimea.",
-   "long": "Inversiunea termică este stratul în care temperatura crește cu aaltitudinea, în loc să scadă. Aerul cald stă peste cel rece, iar convecția se oprește.",
+   "long": "Inversiunea termică este stratul în care temperatura crește cu altitudinea, în loc să scadă. Aerul cald stă peste cel rece, iar convecția se oprește.",
    "answers": [
     {
      "text": "o descreștere a presiunii cu înălțimea",
      "correct": false,
      "short": "",
-     "long": "Scăderea presiunii cu aaltitudinea este comportamentul normal, nu inversiunea.",
+     "long": "Scăderea presiunii cu altitudinea este comportamentul normal, nu inversiunea.",
      "warn": ""
     },
     {
      "text": "o descreștere a temperaturii cu înălțimea",
      "correct": false,
      "short": "",
-     "long": "Scăderea temperaturii cu aaltitudinea este gradientul normal, nu inversiunea.",
+     "long": "Scăderea temperaturii cu altitudinea este gradientul normal, nu inversiunea.",
      "warn": ""
     },
     {
      "text": "o creștere a temperaturii cu înălțimea",
      "correct": true,
      "short": "",
-     "long": "Corect. Inversiunea este creșterea temperaturii cu aaltitudinea.",
+     "long": "Corect. Inversiunea este creșterea temperaturii cu altitudinea.",
      "warn": ""
     },
     {
      "text": "o menținere a temperaturii cu înălțimea",
      "correct": false,
      "short": "",
-     "long": "Temperatura constantă cu aaltitudinea este izotermie, nu inversiune.",
+     "long": "Temperatura constantă cu altitudinea este izotermie, nu inversiune.",
      "warn": ""
     }
    ]
@@ -2933,7 +2933,7 @@
    "number": "#82",
    "text": "303: Care sunt subdiviziunile atmosferei?",
    "short": "Atmosfera este împărțită în troposferă, stratosferă, mezosferă, termosferă și exosferă.",
-   "long": "Atmosfera se împarte în troposferă, stratosferă, mezosferă, termosferă și exosferă, după variația temperaturii cu aaltitudinea.",
+   "long": "Atmosfera se împarte în troposferă, stratosferă, mezosferă, termosferă și exosferă, după variația temperaturii cu altitudinea.",
    "answers": [
     {
      "text": "atmosfera este divizată în troposferă, stratosferă, mezosferă, termosferă și exosferă",

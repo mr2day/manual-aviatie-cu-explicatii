@@ -117,10 +117,10 @@
    "long": "Sub viteza de angajare, aripa nu mai produce portanța necesară. Ajunge în stall și pierde altitudine rapid.",
    "answers": [
     {
-     "text": "aripa își menține aaltitudinea",
+     "text": "aripa își menține altitudinea",
      "correct": false,
      "short": "",
-     "long": "Aripa nu își menține aaltitudinea sub viteza de angajare.",
+     "long": "Aripa nu își menține altitudinea sub viteza de angajare.",
      "warn": ""
     },
     {
@@ -257,14 +257,14 @@
   {
    "number": "#8",
    "text": "671: Cum influențează forța portanței comportamentul unei parapante în zbor?",
-   "short": "Forța portanței contracarează greutatea și menține aaltitudinea constantă, permițând un zbor stabil.",
-   "long": "Portanța este forța care se opune greutății și menține aeronava în aer, deci ține aaltitudinea când este egală cu greutatea.",
+   "short": "Forța portanței contracarează greutatea și menține altitudinea constantă, permițând un zbor stabil.",
+   "long": "Portanța este forța care se opune greutății și menține aeronava în aer, deci ține altitudinea când este egală cu greutatea.",
    "answers": [
     {
-     "text": "forța portanței contracarează greutatea parapantei și menține aaltitudinea constantă, permițând un zbor stabil",
+     "text": "forța portanței contracarează greutatea parapantei și menține altitudinea constantă, permițând un zbor stabil",
      "correct": true,
      "short": "",
-     "long": "Corect. Portanța contrabalansează greutatea și menține aaltitudinea.",
+     "long": "Corect. Portanța contrabalansează greutatea și menține altitudinea.",
      "warn": ""
     },
     {
@@ -823,17 +823,17 @@
      "warn": ""
     },
     {
-     "text": "aaltitudinea la care se zboară cel mai frecvent și viteza vântului",
+     "text": "altitudinea la care se zboară cel mai frecvent și viteza vântului",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea și vântul sunt factori, dar nu criteriul principal al dimensiunii.",
+     "long": "Altitudinea și vântul sunt factori, dar nu criteriul principal al dimensiunii.",
      "warn": ""
     }
    ]
   },
   {
    "number": "#24",
-   "text": "652: Cum afectează aaltitudinea mare performanța aripii?",
+   "text": "652: Cum afectează altitudinea mare performanța aripii?",
    "short": "La altitudine mare, performanța aripii scade: portanța scade și trebuie ajustată puterea.",
    "long": "La altitudine mare, aerul este mai rar, deci portanța scade, iar pilotul trebuie să ajusteze puterea.",
    "answers": [
@@ -941,9 +941,9 @@
   },
   {
    "number": "#27",
-   "text": "600: Pentru a păstra aaltitudinea în timpul unui viraj accentuat ce trebuie să facem?",
-   "short": "Pentru a păstra aaltitudinea în timpul unui viraj accentuat, pui accelerația pe tempomat (motorul la putere mai mare).",
-   "long": "Într-un viraj accentuat, pentru a păstra aaltitudinea trebuie mărită viteza, deci accelerația trebuie menținută (portanța crește).",
+   "text": "600: Pentru a păstra altitudinea în timpul unui viraj accentuat ce trebuie să facem?",
+   "short": "Pentru a păstra altitudinea în timpul unui viraj accentuat, pui accelerația pe tempomat (motorul la putere mai mare).",
+   "long": "Într-un viraj accentuat, pentru a păstra altitudinea trebuie mărită viteza, deci accelerația trebuie menținută (portanța crește).",
    "answers": [
     {
      "text": "decelerăm",
@@ -956,7 +956,7 @@
      "text": "punem accelerația pe tempomat",
      "correct": true,
      "short": "",
-     "long": "Corect în esență: se menține accelerația, adică puterea suficientă, pentru a păstra aaltitudinea în viraj.",
+     "long": "Corect în esență: se menține accelerația, adică puterea suficientă, pentru a păstra altitudinea în viraj.",
      "warn": ""
     },
     {
@@ -1483,8 +1483,8 @@
   {
    "number": "#42",
    "text": "682: Cum afectează direcția forței gravitaționale zborul unei parapante?",
-   "short": "Forța gravitațională acționează vertical în jos, contracarând portanța și afectând aaltitudinea de zbor.",
-   "long": "Greutatea acționează vertical în jos și trebuie contrabalansată de portanță. Dacă portanța scade, aaltitudinea scade.",
+   "short": "Forța gravitațională acționează vertical în jos, contracarând portanța și afectând altitudinea de zbor.",
+   "long": "Greutatea acționează vertical în jos și trebuie contrabalansată de portanță. Dacă portanța scade, altitudinea scade.",
    "answers": [
     {
      "text": "acționează paralel cu direcția de zbor, reducând viteza",
@@ -1501,7 +1501,7 @@
      "warn": ""
     },
     {
-     "text": "acționează vertical în jos, contracarând portanța și afectând aaltitudinea de zbor",
+     "text": "acționează vertical în jos, contracarând portanța și afectând altitudinea de zbor",
      "correct": true,
      "short": "",
      "long": "Corect. Greutatea acționează în jos și este contrabalansată de portanță.",
@@ -1700,7 +1700,7 @@
    "number": "#48",
    "text": "656: Cum reacționezi în cazul unei scăderi bruște a altitudinii în timpul unui viraj?",
    "short": "Dacă ai o scădere bruscă de altitudine în timpul unui viraj, crești puterea motorului și stabilizezi aripa.",
-   "long": "Dacă aaltitudinea scade brusc în viraj, pilotul crește puterea motorului și stabilizează aripa, pentru a recăpăta portanța.",
+   "long": "Dacă altitudinea scade brusc în viraj, pilotul crește puterea motorului și stabilizează aripa, pentru a recăpăta portanța.",
    "answers": [
     {
      "text": "să tragi brusc de frâne",
@@ -1890,10 +1890,10 @@
      "warn": ""
     },
     {
-     "text": "aripa își menține aaltitudinea și viteza",
+     "text": "aripa își menține altitudinea și viteza",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea și viteza nu se mențin prin frânare excesivă.",
+     "long": "Altitudinea și viteza nu se mențin prin frânare excesivă.",
      "warn": ""
     },
     {
@@ -2361,7 +2361,7 @@
      "text": "să zbori la altitudini mari pentru mai multă siguranță",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea mare nu este mai sigură pentru un începător în mod general.",
+     "long": "Altitudinea mare nu este mai sigură pentru un începător în mod general.",
      "warn": ""
     },
     {
@@ -2454,7 +2454,7 @@
   },
   {
    "number": "#69",
-   "text": "635: Cum afectează aaltitudinea mare performanța aripii și a elicei?",
+   "text": "635: Cum afectează altitudinea mare performanța aripii și a elicei?",
    "short": "La altitudine mare, scade portanța și tracțiunea, deci trebuie ajustat amestecul de combustibil.",
    "long": "La altitudine mare aerul este mai rar, deci portanța și tracțiunea scad, iar amestecul de combustibil trebuie reglat.",
    "answers": [
@@ -2476,7 +2476,7 @@
      "text": "stabilizează zborul și optimizează performanța motorului",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea nu stabilizează zborul și nu optimizează motorul.",
+     "long": "Altitudinea nu stabilizează zborul și nu optimizează motorul.",
      "warn": ""
     },
     {
@@ -2682,10 +2682,10 @@
      "warn": ""
     },
     {
-     "text": "aripa își menține aaltitudinea fără probleme",
+     "text": "aripa își menține altitudinea fără probleme",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea nu se menține fără probleme în această situație.",
+     "long": "Altitudinea nu se menține fără probleme în această situație.",
      "warn": ""
     },
     {
@@ -3625,10 +3625,10 @@
      "warn": ""
     },
     {
-     "text": "vertical, pentru a menține aaltitudinea constantă",
+     "text": "vertical, pentru a menține altitudinea constantă",
      "correct": false,
      "short": "",
-     "long": "Forța de frânare nu este verticală pentru a menține aaltitudinea.",
+     "long": "Forța de frânare nu este verticală pentru a menține altitudinea.",
      "warn": ""
     },
     {

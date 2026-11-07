@@ -1087,7 +1087,7 @@
    "number": "#31",
    "text": "486: Care este înălțimea maximă până la care puteți zbura la verticala unui aerodrom situat la cota de 1300 m și în spațiu aerian de clasa G?",
    "short": "Dacă zbori la verticala unui aerodrom situat la 1300 m, în spațiu de clasa G, varianta corectă indică înălțimea maximă de 1900 m.",
-   "long": "În clasa G, limitele de înălțime VFR nu sunt date ca suma dintre cota aerodromului și 600 m. Cifra de 600 m este aaltitudinea minimă IFR deasupra terenurilor înalte (RACR-RA, niveluri minime), nu o limită VFR în clasa G.",
+   "long": "În clasa G, limitele de înălțime VFR nu sunt date ca suma dintre cota aerodromului și 600 m. Cifra de 600 m este altitudinea minimă IFR deasupra terenurilor înalte (RACR-RA, niveluri minime), nu o limită VFR în clasa G.",
    "answers": [
     {
      "text": "150m",
@@ -1108,7 +1108,7 @@
      "correct": true,
      "short": "",
      "long": "1900 m reprezintă 1300 m (cota aerodromului) plus 600 m. Această sumă nu are temei în regulamentele din manual pentru zborul VFR în clasa G.",
-     "warn": "Cifra de 600 m este aaltitudinea minimă IFR deasupra terenurilor înalte (RACR-RA, niveluri minime), nu o limită VFR în clasa G. Pentru zborul VFR în clasa G, regula este minimele de vizibilitate și distanța față de nori din Tabelul 3-1."
+     "warn": "Cifra de 600 m este altitudinea minimă IFR deasupra terenurilor înalte (RACR-RA, niveluri minime), nu o limită VFR în clasa G. Pentru zborul VFR în clasa G, regula este minimele de vizibilitate și distanța față de nori din Tabelul 3-1."
     },
     {
      "text": "1500m",
@@ -1807,7 +1807,7 @@
    "number": "#51",
    "text": "474: Doriți sa zburați VFR în spațiul aerian de clasă G, din punctul A în punctul B la șes. Vizibilitatea este peste 8 km, plafon la 400 m. Cum procedați?",
    "short": "Dacă vizibilitatea este peste 8 km, dar plafonul este la 400 m, în spațiul G nu zbori.",
-   "long": "Cu plafonul la 400 m, distanța verticală de 300 m față de nori (RACR-RA, Tabelul 3-1) impune cel mult 100 m altitudine. Aaltitudinea minimă de zbor VFR este 150 m deasupra solului (RACR-RA 4.060), deci zborul nu se poate face.",
+   "long": "Cu plafonul la 400 m, distanța verticală de 300 m față de nori (RACR-RA, Tabelul 3-1) impune cel mult 100 m altitudine. Altitudinea minimă de zbor VFR este 150 m deasupra solului (RACR-RA 4.060), deci zborul nu se poate face.",
    "answers": [
     {
      "text": "informați ATC despre condițiile de vizibilitate și cereți aprobare pentru a decola",
@@ -2105,10 +2105,10 @@
      "warn": ""
     },
     {
-     "text": "Mărești aaltitudinea pentru a evita turbulențele",
+     "text": "Mărești altitudinea pentru a evita turbulențele",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea nu rezolvă singură problema vântului.",
+     "long": "Altitudinea nu rezolvă singură problema vântului.",
      "warn": ""
     },
     {
@@ -2815,7 +2815,7 @@
    "number": "#79",
    "text": "475: Deasupra unui teren obstacolat:",
    "short": "Dacă nu poți evita zona obstacolată, crești înălțimea de zbor pentru a te asigura în caz de pană de motor.",
-   "long": "Dacă zona nu poate fi ocolită, pilotul crește aaltitudinea, ca să aibă marjă față de obstacole și opțiuni de planare.",
+   "long": "Dacă zona nu poate fi ocolită, pilotul crește altitudinea, ca să aibă marjă față de obstacole și opțiuni de planare.",
    "answers": [
     {
      "text": "nu sunt necesare alte măsuri deoarece aveți suficient combustibil pentru a traversa zona",
@@ -2842,7 +2842,7 @@
      "text": "dacă nu puteți evita zona creșteți înălțimea de zbor pentru a vă asigura în caz de pană de motor",
      "correct": true,
      "short": "",
-     "long": "Corect. Se crește aaltitudinea pentru marjă față de obstacole.",
+     "long": "Corect. Se crește altitudinea pentru marjă față de obstacole.",
      "warn": ""
     }
    ]
@@ -2923,11 +2923,11 @@
   {
    "number": "#82",
    "text": "579: Ce trebuie să faci dacă observi trafic aerian în apropierea ta?",
-   "short": "Dacă observi trafic aerian în apropiere, menții traiectoria și aaltitudinea actuală, pregătindu-te să iei măsuri de evitare dacă este necesar.",
-   "long": "Când observi trafic aerian în apropiere, menții traiectoria și aaltitudinea previzibile pentru ceilalți și te pregătești să acționezi dacă este nevoie de evitare.",
+   "short": "Dacă observi trafic aerian în apropiere, menții traiectoria și altitudinea actuală, pregătindu-te să iei măsuri de evitare dacă este necesar.",
+   "long": "Când observi trafic aerian în apropiere, menții traiectoria și altitudinea previzibile pentru ceilalți și te pregătești să acționezi dacă este nevoie de evitare.",
    "answers": [
     {
-     "text": "Schimbi imediat direcția și aaltitudinea",
+     "text": "Schimbi imediat direcția și altitudinea",
      "correct": false,
      "short": "",
      "long": "Schimbarea bruscă a direcției și a altitudinii poate duce la coliziune cu alți piloți care nu se așteaptă.",
@@ -2948,10 +2948,10 @@
      "warn": ""
     },
     {
-     "text": "Menții traiectoria și aaltitudinea actuală, pregătindu-te să iei măsuri de evitare dacă este necesar",
+     "text": "Menții traiectoria și altitudinea actuală, pregătindu-te să iei măsuri de evitare dacă este necesar",
      "correct": true,
      "short": "",
-     "long": "Corect. Traiectoria și aaltitudinea previzibile, cu pregătirea pentru evitare.",
+     "long": "Corect. Traiectoria și altitudinea previzibile, cu pregătirea pentru evitare.",
      "warn": ""
     }
    ]
@@ -4201,7 +4201,7 @@
      "warn": ""
     },
     {
-     "text": "Mărește aaltitudinea și pregătește-te pentru aterizare",
+     "text": "Mărește altitudinea și pregătește-te pentru aterizare",
      "correct": false,
      "short": "",
      "long": "Nu este procedura.",

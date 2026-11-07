@@ -76,9 +76,9 @@
   },
   {
    "number": "#3",
-   "text": "910: Aaltitudinea se măsoară față de:",
-   "short": "Aaltitudinea se măsoară față de nivelul mării.",
-   "long": "Aaltitudinea se măsoară față de nivelul mării (aaltitudinea reală, MSL), spre deosebire de înălțimea, care se măsoară față de sol.",
+   "text": "910: Altitudinea se măsoară față de:",
+   "short": "Altitudinea se măsoară față de nivelul mării.",
+   "long": "Altitudinea se măsoară față de nivelul mării (altitudinea reală, MSL), spre deosebire de înălțimea, care se măsoară față de sol.",
    "answers": [
     {
      "text": "cel mai jos punct de pe glob",
@@ -98,7 +98,7 @@
      "text": "nivelul mării",
      "correct": true,
      "short": "",
-     "long": "Corect. Aaltitudinea se măsoară față de nivelul mării.",
+     "long": "Corect. Altitudinea se măsoară față de nivelul mării.",
      "warn": ""
     },
     {
@@ -408,7 +408,7 @@
      "text": "altitudine",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea este înălțimea față de nivelul mării, nu distanța pentru 1 mb.",
+     "long": "Altitudinea este înălțimea față de nivelul mării, nu distanța pentru 1 mb.",
      "warn": ""
     },
     {
@@ -570,10 +570,10 @@
      "warn": ""
     },
     {
-     "text": "aaltitudinea de croazieră",
+     "text": "altitudinea de croazieră",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea de croazieră nu este un punct.",
+     "long": "Altitudinea de croazieră nu este un punct.",
      "warn": ""
     }
    ]
@@ -693,10 +693,10 @@
    "long": "Checkpoint-ul este un punct cunoscut, de regulă vizibil, pe care pilotul îl trece și îl verifică pe hartă, pentru a confirma că se află pe traseu.",
    "answers": [
     {
-     "text": "Aaltitudinea minimă de zbor",
+     "text": "Altitudinea minimă de zbor",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea minimă nu este checkpoint-ul. Checkpoint-ul este un reper geografic.",
+     "long": "Altitudinea minimă nu este checkpoint-ul. Checkpoint-ul este un reper geografic.",
      "warn": ""
     },
     {
@@ -1374,7 +1374,7 @@
    "number": "#39",
    "text": "931: Ce este viteza adevărată a aerului?",
    "short": "Viteza adevărată a aerului este viteza reală prin aer, în comparație cu viteza resimțită de pilot.",
-   "long": "Viteza adevărată (TAS) este viteza reală a aeronavei față de masa de aer, corectată cu aaltitudinea și temperatura.",
+   "long": "Viteza adevărată (TAS) este viteza reală a aeronavei față de masa de aer, corectată cu altitudinea și temperatura.",
    "answers": [
     {
      "text": "viteza aerului raportată la nivelul mării",
@@ -1452,14 +1452,14 @@
      "text": "distanța pe verticală măsurată de la nivelul mării până la aeronavă",
      "correct": false,
      "short": "",
-     "long": "Distanța de la nivelul mării este aaltitudinea, nu înălțimea.",
+     "long": "Distanța de la nivelul mării este altitudinea, nu înălțimea.",
      "warn": ""
     },
     {
      "text": "înălțimea de zbor se mai numește și altitudine și se măsoară de la nivelul corespunzător presiunii standard de 760 mm Hg și până la aeronavă",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea nu este înălțimea de zbor, iar măsurarea ei nu se face de la solul locului.",
+     "long": "Altitudinea nu este înălțimea de zbor, iar măsurarea ei nu se face de la solul locului.",
      "warn": ""
     },
     {
@@ -1481,35 +1481,35 @@
   {
    "number": "#42",
    "text": "917: Ce este o altitudine barometrică?",
-   "short": "Aaltitudinea barometrică este înălțimea de la nivelul mării.",
-   "long": "Aaltitudinea barometrică este înălțimea măsurată cu altimetrul, față de nivelul mării, pe baza presiunii atmosferice.",
+   "short": "Altitudinea barometrică este înălțimea de la nivelul mării.",
+   "long": "Altitudinea barometrică este înălțimea măsurată cu altimetrul, față de nivelul mării, pe baza presiunii atmosferice.",
    "answers": [
     {
      "text": "o înălțime care corespunde presiunii standard",
      "correct": false,
      "short": "",
-     "long": "Presiunea standard nu definește aaltitudinea barometrică. Altimetrul o calculează din presiunea locală.",
+     "long": "Presiunea standard nu definește altitudinea barometrică. Altimetrul o calculează din presiunea locală.",
      "warn": ""
     },
     {
      "text": "o înălțime dintr-un punct de referință",
      "correct": false,
      "short": "",
-     "long": "Înălțimea față de un punct de referință este înălțimea de zbor, nu aaltitudinea barometrică.",
+     "long": "Înălțimea față de un punct de referință este înălțimea de zbor, nu altitudinea barometrică.",
      "warn": ""
     },
     {
      "text": "o înălțime de la nivelul mării",
      "correct": true,
      "short": "",
-     "long": "Corect. Aaltitudinea barometrică este înălțimea de la nivelul mării.",
+     "long": "Corect. Altitudinea barometrică este înălțimea de la nivelul mării.",
      "warn": ""
     },
     {
      "text": "o înălțime care corespunde GPS",
      "correct": false,
      "short": "",
-     "long": "GPS-ul nu definește aaltitudinea barometrică. Ea vine din presiune.",
+     "long": "GPS-ul nu definește altitudinea barometrică. Ea vine din presiune.",
      "warn": ""
     }
    ]
@@ -1603,7 +1603,7 @@
      "text": "depinde de altitudine și orientare geografică",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea și orientarea nu sunt factorii principali ai orei de răsărit și apus.",
+     "long": "Altitudinea și orientarea nu sunt factorii principali ai orei de răsărit și apus.",
      "warn": ""
     },
     {
@@ -1626,7 +1626,7 @@
    "number": "#46",
    "text": "932: Ce reprezintă QFE?",
    "short": "QFE este presiunea la pragul pistei.",
-   "long": "QFE este presiunea la pragul pistei (la aerodrom), care arată aaltitudinea deasupra aerodromului când altimetrul este setat pe ea.",
+   "long": "QFE este presiunea la pragul pistei (la aerodrom), care arată altitudinea deasupra aerodromului când altimetrul este setat pe ea.",
    "answers": [
     {
      "text": "presiunea standard",
@@ -1650,10 +1650,10 @@
      "warn": ""
     },
     {
-     "text": "presiunea la aaltitudinea de croazieră",
+     "text": "presiunea la altitudinea de croazieră",
      "correct": false,
      "short": "",
-     "long": "Presiunea la aaltitudinea de croazieră este QNE sau FL, nu QFE.",
+     "long": "Presiunea la altitudinea de croazieră este QNE sau FL, nu QFE.",
      "warn": ""
     }
    ]
@@ -1661,8 +1661,8 @@
   {
    "number": "#47",
    "text": "1100: Ce trebuie să faceți dacă vântul schimbă direcția în timpul zborului cross-country?",
-   "short": "Dacă vântul își schimbă direcția în timpul zborului cross-country, schimbi aaltitudinea pentru o viteză mai bună la sol.",
-   "long": "Dacă vântul își schimbă direcția, pilotul schimbă aaltitudinea pentru a găsi un vânt mai favorabil și o viteză la sol mai bună, ținând cont de siguranță.",
+   "short": "Dacă vântul își schimbă direcția în timpul zborului cross-country, schimbi altitudinea pentru o viteză mai bună la sol.",
+   "long": "Dacă vântul își schimbă direcția, pilotul schimbă altitudinea pentru a găsi un vânt mai favorabil și o viteză la sol mai bună, ținând cont de siguranță.",
    "answers": [
     {
      "text": "Să ignorați schimbarea vântului",
@@ -1686,7 +1686,7 @@
      "warn": ""
     },
     {
-     "text": "Să schimbați aaltitudinea pentru o viteză mai bună la sol",
+     "text": "Să schimbați altitudinea pentru o viteză mai bună la sol",
      "correct": true,
      "short": "",
      "long": "Corect. Schimbarea altitudinii poate aduce un vânt mai favorabil și o viteză mai bună la sol.",
@@ -1806,7 +1806,7 @@
    "number": "#51",
    "text": "915: Ce unitate de masura este folosit pentru inaltime in normele OACI?",
    "short": "Pentru înălțime, normele OACI folosesc unitatea foot (picior).",
-   "long": "În normele OACI, aaltitudinea și înălțimea se exprimă în picioare (feet, ft).",
+   "long": "În normele OACI, altitudinea și înălțimea se exprimă în picioare (feet, ft).",
    "answers": [
     {
      "text": "foot",
@@ -2165,21 +2165,21 @@
   {
    "number": "#61",
    "text": "974: Ce informații esențiale furnizează un GPS în timpul zborului?",
-   "short": "GPS-ul furnizează poziția actuală, viteza la sol și aaltitudinea.",
-   "long": "În zbor, GPS-ul arată poziția curentă, viteza la sol și aaltitudinea (de obicei prin GPS sau barometric).",
+   "short": "GPS-ul furnizează poziția actuală, viteza la sol și altitudinea.",
+   "long": "În zbor, GPS-ul arată poziția curentă, viteza la sol și altitudinea (de obicei prin GPS sau barometric).",
    "answers": [
     {
      "text": "Distanta până la cel mai apropiat aeroport",
      "correct": false,
      "short": "",
-     "long": "Distanța până la aeroport poate fi afișată de GPS, dar informația esențială este poziția, viteza și aaltitudinea.",
+     "long": "Distanța până la aeroport poate fi afișată de GPS, dar informația esențială este poziția, viteza și altitudinea.",
      "warn": ""
     },
     {
-     "text": "Poziția actuală, viteza la sol și aaltitudinea",
+     "text": "Poziția actuală, viteza la sol și altitudinea",
      "correct": true,
      "short": "",
-     "long": "Corect. Poziția, viteza la sol și aaltitudinea sunt informațiile esențiale ale GPS-ului.",
+     "long": "Corect. Poziția, viteza la sol și altitudinea sunt informațiile esențiale ale GPS-ului.",
      "warn": ""
     },
     {
@@ -2310,7 +2310,7 @@
    "number": "#65",
    "text": "905: QFE reprezintă:",
    "short": "QFE reprezintă presiunea la pragul pistei.",
-   "long": "QFE este presiunea la pragul pistei (aerodromului), folosită pentru a arăta aaltitudinea deasupra aerodromului.",
+   "long": "QFE este presiunea la pragul pistei (aerodromului), folosită pentru a arăta altitudinea deasupra aerodromului.",
    "answers": [
     {
      "text": "nici un răspuns nu este corect",
@@ -2349,7 +2349,7 @@
    "long": "Regulamentul RACR-RA 4.060 cere, pentru zborul VFR, înălțimea de cel puțin 300 m deasupra celui mai înalt obstacol în zone dens populate și nu permite zborul sub 150 m deasupra solului în alte zone, cu excepția decolării și aterizării. Nu există o interdicție generală de zbor la 2500 m.",
    "answers": [
     {
-     "text": "nu, la aaltitudinea respectiva pilotul își poate pierde cunoștința",
+     "text": "nu, la altitudinea respectiva pilotul își poate pierde cunoștința",
      "correct": false,
      "short": "",
      "long": "Pierderea cunoștinței nu este regula de zbor. Riscul la altitudine este hipoxia, dar nu există o interdicție generală la 2500 m.",
@@ -2925,10 +2925,10 @@
    "long": "Traiectul este traseul de la decolare până la aterizare, adică drumul efectiv parcurs.",
    "answers": [
     {
-     "text": "diferența între aaltitudinea reală și aaltitudinea GPS",
+     "text": "diferența între altitudinea reală și altitudinea GPS",
      "correct": false,
      "short": "",
-     "long": "Diferența dintre aaltitudinea reală și cea GPS nu este traiectul.",
+     "long": "Diferența dintre altitudinea reală și cea GPS nu este traiectul.",
      "warn": ""
     },
     {
@@ -3119,10 +3119,10 @@
      "warn": ""
     },
     {
-     "text": "Pentru a măsura aaltitudinea",
+     "text": "Pentru a măsura altitudinea",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea nu se măsoară pe hartă, ci cu altimetrul.",
+     "long": "Altitudinea nu se măsoară pe hartă, ci cu altimetrul.",
      "warn": ""
     },
     {
@@ -3270,10 +3270,10 @@
      "warn": ""
     },
     {
-     "text": "un instrument folosit pentru a măsura aaltitudinea",
+     "text": "un instrument folosit pentru a măsura altitudinea",
      "correct": false,
      "short": "",
-     "long": "Altimetrul măsoară aaltitudinea, nu VOR.",
+     "long": "Altimetrul măsoară altitudinea, nu VOR.",
      "warn": ""
     }
    ]
@@ -3342,10 +3342,10 @@
      "warn": ""
     },
     {
-     "text": "Pentru a determina aaltitudinea de zbor",
+     "text": "Pentru a determina altitudinea de zbor",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea se stabilește din alte considerente, nu din viteza la sol.",
+     "long": "Altitudinea se stabilește din alte considerente, nu din viteza la sol.",
      "warn": ""
     }
    ]

@@ -156,7 +156,7 @@
      "text": "un instrument pentru măsurarea altitudinii",
      "correct": false,
      "short": "",
-     "long": "Altimetrul măsoară aaltitudinea, nu anemometrul.",
+     "long": "Altimetrul măsoară altitudinea, nu anemometrul.",
      "warn": ""
     },
     {
@@ -1236,7 +1236,7 @@
      "text": "un instrument pentru măsurarea altitudinii",
      "correct": false,
      "short": "",
-     "long": "Altimetrul măsoară aaltitudinea, nu viteza.",
+     "long": "Altimetrul măsoară altitudinea, nu viteza.",
      "warn": ""
     },
     {
@@ -1578,7 +1578,7 @@
      "warn": ""
     },
     {
-     "text": "redu aaltitudinea rapid",
+     "text": "redu altitudinea rapid",
      "correct": false,
      "short": "",
      "long": "Nu este răspunsul corect.",
@@ -1925,10 +1925,10 @@
      "warn": ""
     },
     {
-     "text": "aaltitudinea",
+     "text": "altitudinea",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea este indicată de altimetru.",
+     "long": "Altitudinea este indicată de altimetru.",
      "warn": ""
     },
     {
@@ -2098,10 +2098,10 @@
    "long": "Inspecția vizuală a aripii înainte de decolare detectează daunele, rupturile și uzura care pot compromite zborul.",
    "answers": [
     {
-     "text": "pentru a măsura aaltitudinea de zbor",
+     "text": "pentru a măsura altitudinea de zbor",
      "correct": false,
      "short": "",
-     "long": "Aaltitudinea nu se măsoară prin inspecția vizuală.",
+     "long": "Altitudinea nu se măsoară prin inspecția vizuală.",
      "warn": ""
     },
     {
@@ -3607,8 +3607,8 @@
   {
    "number": "#101",
    "text": "424: Ce este un altimetru?",
-   "short": "Altimetrul este un dispozitiv care măsoară aaltitudinea la care te afli.",
-   "long": "Altimetrul măsoară aaltitudinea, pe baza presiunii atmosferice.",
+   "short": "Altimetrul este un dispozitiv care măsoară altitudinea la care te afli.",
+   "long": "Altimetrul măsoară altitudinea, pe baza presiunii atmosferice.",
    "answers": [
     {
      "text": "un dispozitiv pentru determinarea direcției vântului",
@@ -3618,10 +3618,10 @@
      "warn": ""
     },
     {
-     "text": "un dispozitiv care măsoară aaltitudinea la care te afli",
+     "text": "un dispozitiv care măsoară altitudinea la care te afli",
      "correct": true,
      "short": "",
-     "long": "Corect. Altimetrul măsoară aaltitudinea.",
+     "long": "Corect. Altimetrul măsoară altitudinea.",
      "warn": ""
     },
     {
