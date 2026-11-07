@@ -77,8 +77,8 @@
   {
    "number": "#3",
    "text": "335: Care este înălțimea maximă la care poate zbura o motoparapantă în spațiul aerian controlat?",
-   "short": "În spațiul controlat, zborul VFR se face cu autorizare ATC, iar altitudinea se stabilește prin această autorizare.",
-   "long": "Pentru zborul VFR în zona de control de aerodrom, RACR-RA 4.020 cere autorizare ATC. RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc o înălțime maximă numerică pentru motoparapantă în spațiul controlat, deci cifra de 3000 m nu are temei în ele. Altitudinea de zbor în zona de control este cea stabilită prin autorizarea ATC.",
+   "short": "În spațiul controlat, zborul VFR se face cu autorizare ATC, iar aaltitudinea se stabilește prin această autorizare.",
+   "long": "Pentru zborul VFR în zona de control de aerodrom, RACR-RA 4.020 cere autorizare ATC. RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc o înălțime maximă numerică pentru motoparapantă în spațiul controlat, deci cifra de 3000 m nu are temei în ele. Aaltitudinea de zbor în zona de control este cea stabilită prin autorizarea ATC.",
    "answers": [
     {
      "text": "1500 de metri",
@@ -92,7 +92,7 @@
      "correct": true,
      "short": "",
      "long": "Această variantă este greșită: RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc 3000 m ca înălțime maximă pentru motoparapantă în spațiul controlat.",
-     "warn": "RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc 3000 m ca înălțime maximă pentru motoparapantă în spațiul controlat. În zona de control, altitudinea se stabilește prin autorizarea ATC (RACR-RA 4.020)."
+     "warn": "RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc 3000 m ca înălțime maximă pentru motoparapantă în spațiul controlat. În zona de control, aaltitudinea se stabilește prin autorizarea ATC (RACR-RA 4.020)."
     },
     {
      "text": "2000 de metri",
@@ -184,12 +184,12 @@
   },
   {
    "number": "#6",
-   "text": "172: Evidenţa activităţii de zbor a unui pilot de aeronave ultrauşoare motorizate se ţine în:",
+   "text": "172: Evidența activității de zbor a unui pilot de aeronave ultraușoare motorizate se ține în:",
    "short": "Evidența activității de zbor a pilotului de ULM se ține în carnetul de zbor.",
    "long": "Activitatea de zbor a pilotului de aeronave ultraușoare motorizate se înregistrează în carnetul de zbor, care este obligatoriu pentru piloți, inclusiv pentru elevi (RACR-LPAN ULM.4020). Instructorii certifică activitatea de pregătire în carnet, cu mențiunea „instruire” la scopul zborului.",
    "answers": [
     {
-     "text": "fişa de pregătire practică în zbor",
+     "text": "fișa de pregătire practică în zbor",
      "correct": false,
      "short": "",
      "long": "Fișa de pregătire practică în zbor este documentul de pregătire, completat de instructor, nu este evidența zborurilor pilotului (RACR-LPAN ULM.4020 lit. b și c).",
@@ -256,7 +256,7 @@
   },
   {
    "number": "#8",
-   "text": "175: Care sunt, conform reglementării RACR – RA Regulile aerului, condiţiile de vizibilitate şi plafon în care o aeronavă poate decola sau ateriza de pe/pe un aerodrom situat într-o zonă de control sau să intre în zona de trafic de aerodrom sau în procedura de trafic?",
+   "text": "175: Care sunt, conform reglementării RACR – RA Regulile aerului, condițiile de vizibilitate și plafon în care o aeronavă poate decola sau ateriza de pe/pe un aerodrom situat într-o zonă de control sau să intre în zona de trafic de aerodrom sau în procedura de trafic?",
    "short": "Pentru decolare sau aterizare pe aerodromul din zona de control sau în zona de trafic, varianta corectă indică plafon de 450 m și vizibilitate la sol de 5 km.",
    "long": "Conform RACR-RA 4.020, un zbor VFR nu poate decola sau ateriza pe un aerodrom din zona de control, sau nu poate intra în zona de trafic, dacă plafonul este sub 450 m (1500 ft) sau vizibilitatea la sol este sub 5 km. Excepția este autorizarea ATC de la unitatea competentă.",
    "answers": [
@@ -292,19 +292,19 @@
   },
   {
    "number": "#9",
-   "text": "176: Terenurile sau suprafeţele de apă, altele decât aerodromurile certificate de pe/pe care se pot efectua decolări şi aterizări ale aeronavelor civile, trebuie să:",
+   "text": "176: Terenurile sau suprafețele de apă, altele decât aerodromurile certificate de pe/pe care se pot efectua decolări și aterizări ale aeronavelor civile, trebuie să:",
    "short": "Terenurile sau suprafețele de apă, altele decât aerodromurile certificate, trebuie să aibă acordul proprietarului și să fie în afara zonelor dens populate, la cel puțin 150 m de locuințe.",
    "long": "Decolările și aterizările pe terenuri care nu sunt aerodromuri certificate sunt permise în anumite condiții cumulative (Codul aerian, art. 14 alin. 2): acordul proprietarului, amplasarea în afara zonelor dens populate, la cel puțin 150 m de clădiri de locuit, unități medicale sau de învățământ, și dimensiuni care permit zborul în siguranță.",
    "answers": [
     {
-     "text": "să obţină acordul proprietarului terenului sau al administratorului şi să fie amplasate în afara zonelor dens populate, la o distanță nu mai mică de 150 m de o locuință, iar dimensiunile terenului să permită decolarea/ aterizarea în condiții de siguranță",
+     "text": "să obțină acordul proprietarului terenului sau al administratorului și să fie amplasate în afara zonelor dens populate, la o distanță nu mai mică de 150 m de o locuință, iar dimensiunile terenului să permită decolarea/ aterizarea în condiții de siguranță",
      "correct": true,
      "short": "",
      "long": "Corect. Acestea sunt condițiile cumulative din Codul aerian, art. 14 alin. 2: acordul proprietarului sau administratorului, amplasarea în afara zonelor dens populate, distanța de cel puțin 150 m față de clădiri de locuit, medicale sau de învățământ, și dimensiuni care permit zborul în siguranță.",
      "warn": ""
     },
     {
-     "text": "aibă o lăţime minima de 50 m, lungime minimă de 500 m, să nu fie obstacolate la mai puţin de 200 m faţa de praguri pe directive",
+     "text": "aibă o lățime minima de 50 m, lungime minimă de 500 m, să nu fie obstacolate la mai puțin de 200 m fața de praguri pe directive",
      "correct": false,
      "short": "",
      "long": "Lățimea de 50 m, lungimea de 500 m și distanța de 200 m față de praguri sunt dimensiuni de aerodrom, nu condiții pentru teren neautorizat. Codul aerian cere doar ca dimensiunile să permită zborul în siguranță.",
@@ -328,7 +328,7 @@
   },
   {
    "number": "#10",
-   "text": "188: Este permis zborul VFR în spaţiul aerian de clasă A?",
+   "text": "188: Este permis zborul VFR în spațiul aerian de clasă A?",
    "short": "Zborul VFR nu este permis în spațiul aerian de clasă A.",
    "long": "Zborul VFR nu este acceptat în spațiul aerian de clasă A. RACR-RA, Tabelul 3-1 precizează că minimele VMC din clasa A sunt date doar cu titlu de informare și nu implică acceptarea zborurilor VFR în clasa A.",
    "answers": [
@@ -354,7 +354,7 @@
      "warn": ""
     },
     {
-     "text": "cu autorizarea unităţii de trafic aerian respective",
+     "text": "cu autorizarea unității de trafic aerian respective",
      "correct": false,
      "short": "",
      "long": "Autorizarea ATS există doar pentru excepții punctuale, de exemplu zborul VFR peste FL 200 (RACR-RA 4.040). Regula generală pentru clasa A rămâne interzicerea zborului VFR.",
@@ -981,28 +981,28 @@
    "long": "Zborul cu alte persoane decât pilotul comandant sau elevul pilot cere autorizație specială, eliberată pilotului care are calificarea și dreptul de zbor cu pasageri pe clasa respectivă (RACR-LPAN ULM.2030).",
    "answers": [
     {
-     "text": "proprietarilor sau deţinătorilor de aeronave cu licenţa de pilot în termen de valabilitate",
+     "text": "proprietarilor sau deținătorilor de aeronave cu licența de pilot în termen de valabilitate",
      "correct": false,
      "short": "",
      "long": "Calitatea de proprietar sau de deținător nu acordă dreptul de zbor cu pasageri. Este necesară autorizația specială (RACR-LPAN ULM.2030).",
      "warn": ""
     },
     {
-     "text": "piloţilor care deţin autorizaţia respectivă, iar aeronava este omologată",
+     "text": "piloților care dețin autorizația respectivă, iar aeronava este omologată",
      "correct": false,
      "short": "",
      "long": "Omologarea aeronavei nu este condiția pentru zborul cu pasageri. Condiția este autorizația specială a pilotului (RACR-LPAN ULM.2030).",
      "warn": ""
     },
     {
-     "text": "piloţilor care deţin autorizaţia respectivă",
+     "text": "piloților care dețin autorizația respectivă",
      "correct": true,
      "short": "",
      "long": "Corect. Zborul cu pasageri este permis piloților care au autorizația specială (RACR-LPAN ULM.2030).",
      "warn": ""
     },
     {
-     "text": "piloţilor care au acumulat minimum 150 ore experienţa de zbor în calitate de pilot comandant",
+     "text": "piloților care au acumulat minimum 150 ore experiența de zbor în calitate de pilot comandant",
      "correct": false,
      "short": "",
      "long": "Numărul de ore de zbor ca pilot comandant nu este condiția din regulament pentru zborul cu pasageri. Condiția este autorizația specială.",
@@ -1084,7 +1084,7 @@
   },
   {
    "number": "#31",
-   "text": "168: Valabilitatea aptitudinii medicale începe de la data semnării şi parafării fişei de către medicul şef şi este de:",
+   "text": "168: Valabilitatea aptitudinii medicale începe de la data semnării și parafării fișei de către medicul șef și este de:",
    "short": "Valabilitatea aptitudinii medicale depinde de vârstă: 60 de luni sub 30 de ani, 24 de luni între 30 și 50 de ani, 12 luni peste 50 de ani.",
    "long": "Certificatul medical de clasa 2 este valabil în funcție de vârsta titularului (Regulamentul (UE) 2019/27, MED.A.045 lit. a pct. 3): 60 de luni până la 40 de ani, 24 de luni între 40 și 50 de ani și 12 luni peste 50 de ani. Riscul medical crește cu vârsta, deci valabilitatea scade.",
    "answers": [
@@ -1096,7 +1096,7 @@
      "warn": ""
     },
     {
-     "text": "60 de luni pentru persoanele cu vârsta mai mică de 30 de ani, 24 de luni pentru persoanele cu vârsta cuprinsă între 30 de ani şi 50 de ani, 12 de luni pentru persoanele cu vârsta mai mare de 50 de ani",
+     "text": "60 de luni pentru persoanele cu vârsta mai mică de 30 de ani, 24 de luni pentru persoanele cu vârsta cuprinsă între 30 de ani și 50 de ani, 12 de luni pentru persoanele cu vârsta mai mare de 50 de ani",
      "correct": true,
      "short": "",
      "long": "Structura este corectă: trei perioade care scad cu vârsta (60, 24, 12 luni). Pragurile de vârstă sunt însă 40 și 50 de ani (MED.A.045 lit. a pct. 3), nu 30 și 50.",
@@ -1156,7 +1156,7 @@
   },
   {
    "number": "#33",
-   "text": "185: Când dispecerul extinde brusc braţele şi barele deasupra capului, încrucişând barele, înseamnă că ne comunică:",
+   "text": "185: Când dispecerul extinde brusc brațele și barele deasupra capului, încrucișând barele, înseamnă că ne comunică:",
    "short": "Când dispecerul extinde brusc brațele și barele deasupra capului, încrucișându-le, comunică oprirea de urgență.",
    "long": "Semnalizarea de la sol folosește gesturi standard. Brațele întinse și încrucișate deasupra capului înseamnă oprire, ceea ce pilotul trebuie să respecte imediat.",
    "answers": [
@@ -1168,7 +1168,7 @@
      "warn": ""
     },
     {
-     "text": "să oprim de urgenţă",
+     "text": "să oprim de urgență",
      "correct": true,
      "short": "",
      "long": "Corect. Brațele întinse și încrucișate deasupra capului înseamnă oprire de urgență în semnalizarea de la sol.",
@@ -1301,21 +1301,21 @@
   {
    "number": "#37",
    "text": "361: Ce trebuie să conțină un plan de zbor pentru a fi aprobat?",
-   "short": "Un plan de zbor aprobat conține ruta planificată, altitudinea, ora de plecare și durata estimată a zborului.",
-   "long": "Planul de zbor conține datele de identificare a zborului: ruta planificată, altitudinea, ora de plecare și durata estimată (RACR-RA, definiția 48 despre planul de zbor depus). Aceste date permit serviciilor de trafic aerian să ajute zborul.",
+   "short": "Un plan de zbor aprobat conține ruta planificată, aaltitudinea, ora de plecare și durata estimată a zborului.",
+   "long": "Planul de zbor conține datele de identificare a zborului: ruta planificată, aaltitudinea, ora de plecare și durata estimată (RACR-RA, definiția 48 despre planul de zbor depus). Aceste date permit serviciilor de trafic aerian să ajute zborul.",
    "answers": [
     {
      "text": "numele pilotului și detalii de contact",
      "correct": false,
      "short": "",
-     "long": "Numele pilotului și contactul sunt date de identificare, dar nu sunt conținutul esențial al planului de zbor. Esențial este ruta, altitudinea, ora și durata (RACR-RA, definiția 48).",
+     "long": "Numele pilotului și contactul sunt date de identificare, dar nu sunt conținutul esențial al planului de zbor. Esențial este ruta, aaltitudinea, ora și durata (RACR-RA, definiția 48).",
      "warn": ""
     },
     {
      "text": "detalii despre ruta planificată, altitudine, ora de plecare și durata estimată a zborului",
      "correct": true,
      "short": "",
-     "long": "Corect. Planul de zbor conține ruta, altitudinea, ora de plecare și durata estimată (RACR-RA, definiția 48).",
+     "long": "Corect. Planul de zbor conține ruta, aaltitudinea, ora de plecare și durata estimată (RACR-RA, definiția 48).",
      "warn": ""
     },
     {
@@ -1341,28 +1341,28 @@
    "long": "Spațiul aerian restricționat este un spațiu de dimensiuni definite în care zborul este permis în condiții specificate (de exemplu, în anumite ore sau cu aprobare). Zona interzisă este alta: zborul este interzis complet.",
    "answers": [
     {
-     "text": "O porţiune de spaţiu aerian de dimensiuni definite în care activităţi periculoase zborului aeronavelor pot exista în perioade de timp specificate.",
+     "text": "O porțiune de spațiu aerian de dimensiuni definite în care activități periculoase zborului aeronavelor pot exista în perioade de timp specificate.",
      "correct": false,
      "short": "",
      "long": "Descrierea corespunde spațiului periculos, în care activitățile periculoase pot exista în anumite perioade, nu spațiului restricționat.",
      "warn": ""
     },
     {
-     "text": "O porţiune de spaţiu aerian de dimensiuni definite, deasupra teritoriului sau apelor teritoriale ale unui Stat, în interiorul căruia zborul aeronavelor este interzis.",
+     "text": "O porțiune de spațiu aerian de dimensiuni definite, deasupra teritoriului sau apelor teritoriale ale unui Stat, în interiorul căruia zborul aeronavelor este interzis.",
      "correct": false,
      "short": "",
      "long": "Descrierea corespunde spațiului interzis, unde zborul este interzis, nu spațiului restricționat.",
      "warn": ""
     },
     {
-     "text": "O porţiune de spaţiu aerian de dimensiuni definite, deasupra teritoriului sau apelor teritoriale ale unui Stat, în interiorul căruia zborul aeronavelor se poate efectua în condiţii specificate.",
+     "text": "O porțiune de spațiu aerian de dimensiuni definite, deasupra teritoriului sau apelor teritoriale ale unui Stat, în interiorul căruia zborul aeronavelor se poate efectua în condiții specificate.",
      "correct": true,
      "short": "",
      "long": "Corect. Spațiul restricționat este un spațiu de dimensiuni definite în care zborul este permis în condiții specificate.",
      "warn": ""
     },
     {
-     "text": "Spaţiu aerian controlat care se întinde de la suprafaţa solului în sus până la o limită superioară specificată.",
+     "text": "Spațiu aerian controlat care se întinde de la suprafața solului în sus până la o limită superioară specificată.",
      "correct": false,
      "short": "",
      "long": "Descrierea corespunde spațiului controlat, nu spațiului restricționat.",
@@ -1878,7 +1878,7 @@
    "number": "#53",
    "text": "334: Care sunt regulile pentru zborul acrobatic cu motoparapanta?",
    "short": "Zborul acrobatic cu motoparapanta necesită o autorizare specială.",
-   "long": "Zborul acrobatic cu motoparapanta se efectuează numai în condițiile stabilite de AACR și cu autorizările relevante ale unității ATS (RACR-RA, zborul acrobatic, pct. 7).",
+   "long": "Zborul acrobatic cu motoparapanta se efectuează numai în condițiile stabilite de AACR și cu autorizările relevânte ale unității ATS (RACR-RA, zborul acrobatic, pct. 7).",
    "answers": [
     {
      "text": "zborul doar în spațiul aerian controlat",
@@ -1984,19 +1984,19 @@
   },
   {
    "number": "#56",
-   "text": "170: Care sunt conform reglementărilor specifice domeniului aeronauticii civile cu aeronave ultrauşoare, documentele obligatorii ale pilotului şi ale aeronavei ce trebuie să se afle asupra pilotului comandant?",
+   "text": "170: Care sunt conform reglementărilor specifice domeniului aeronauticii civile cu aeronave ultraușoare, documentele obligatorii ale pilotului și ale aeronavei ce trebuie să se afle asupra pilotului comandant?",
    "short": "Pilotul comandant trebuie să aibă la bord licența, certificatul medical, certificatul de înmatriculare și autorizația de zbor sau anexa, toate în termen de valabilitate.",
    "long": "Documentele obligatorii asupra pilotului comandant sunt licența și certificatul medical în termen de valabilitate, certificatul de înmatriculare, autorizația de zbor sau anexa la certificatul de înmatriculare (RACR-LPAN ULM.2020 lit. b și RACR-CCO ULM).",
    "answers": [
     {
-     "text": "licenţa de pilot în termen de valabilitate, certificatul medical în termen de valabilitate, certificatul de înmatriculare, autorizaţia de zbor sau anexa la certificatul de înmatriculare în termen de valabilitate",
+     "text": "licența de pilot în termen de valabilitate, certificatul medical în termen de valabilitate, certificatul de înmatriculare, autorizația de zbor sau anexa la certificatul de înmatriculare în termen de valabilitate",
      "correct": true,
      "short": "",
      "long": "Corect. Acestea sunt documentele cerute de regulamentele ULM.",
      "warn": ""
     },
     {
-     "text": "cartea de identitate, licenţa de pilot în termen de valabilitate, certificatul medical, autorizaţia de zbor",
+     "text": "cartea de identitate, licența de pilot în termen de valabilitate, certificatul medical, autorizația de zbor",
      "correct": false,
      "short": "",
      "long": "Cartea de identitate este necesară, dar lista nu include certificatul de înmatriculare, documentul obligatoriu al aeronavei.",
@@ -2010,7 +2010,7 @@
      "warn": ""
     },
     {
-     "text": "cartea de identitate, licenţa de pilot în termen de valabilitate, certificatul medical, certificatul de înmatriculare, manualul de utilizare şi întreţinere al aeronavei",
+     "text": "cartea de identitate, licența de pilot în termen de valabilitate, certificatul medical, certificatul de înmatriculare, manualul de utilizare și întreținere al aeronavei",
      "correct": false,
      "short": "",
      "long": "Manualul de utilizare și întreținere nu este în lista documentelor obligatorii la bord pentru pilot.",
@@ -2075,7 +2075,7 @@
      "warn": ""
     },
     {
-     "text": "sunt respectate reglementările aeronautice specifice şi generale din România",
+     "text": "sunt respectate reglementările aeronautice specifice și generale din România",
      "correct": false,
      "short": "",
      "long": "Formularea este prea generală: nu indică ce anume cere planul de zbor și asigurarea. Regula concretă este în RACR-RA 3.030 și în Codul aerian.",
@@ -2111,7 +2111,7 @@
      "warn": ""
     },
     {
-     "text": "nici unul din raspunsurile enumerate mai sus",
+     "text": "nici unul din răspunsurile enumerate mai sus",
      "correct": false,
      "short": "",
      "long": "Există un răspuns corect, cel de la varianta A.",
@@ -2128,7 +2128,7 @@
   },
   {
    "number": "#60",
-   "text": "192: O aeronavă ULM din clasa motoparapantă, neomologată, poate fi utilizată pentru zboruri şcoală:",
+   "text": "192: O aeronavă ULM din clasa motoparapantă, neomologată, poate fi utilizată pentru zboruri școală:",
    "short": "O aeronavă ULM din clasa motoparapantă neomologată poate fi folosită pentru zboruri școală doar pentru calificarea proprietarului sau a proprietarilor aeronavei.",
    "long": "Aeronavele neomologate pot fi folosite pentru zboruri școală, dacă operatorul de pregătire (OPD) completează declarația (Anexa 11) cu persoanele care vor fi școlarizate (RACR-LPAN ULM.2165 lit. c). Regulamentul nu limitează aceste zboruri la proprietar.",
    "answers": [
@@ -2154,7 +2154,7 @@
      "warn": "Regulamentul RACR-LPAN ULM.2165 lit. c permite zboruri școală cu aeronave neomologate dacă OPD completează declarația cu numele elevilor. Nu limitează aceste zboruri la proprietar."
     },
     {
-     "text": "pentru orice persoană care doreşte să înveţe pilotajul",
+     "text": "pentru orice persoană care dorește să învețe pilotajul",
      "correct": false,
      "short": "",
      "long": "Zborul pentru orice persoană nu este permis fără declarația OPD și fără instruirea în cadrul unui program (RACR-LPAN ULM.2165 lit. c).",
@@ -2308,7 +2308,7 @@
   },
   {
    "number": "#65",
-   "text": "173: Distanţa minimă faţă de nori în zbor VFR este:",
+   "text": "173: Distanța minimă față de nori în zbor VFR este:",
    "short": "Distanța minimă față de nori în zbor VFR este 1500 m orizontal și 300 m vertical.",
    "long": "RACR-RA, Tabelul 3-1, cere în spațiul sub 3050 m, până la cea mai mare dintre 900 m AMSL sau 300 m deasupra terenului, distanța față de nori de 1500 m orizontal și 300 m vertical.",
    "answers": [
@@ -2320,21 +2320,21 @@
      "warn": ""
     },
     {
-     "text": "400 m la şes şi munte",
+     "text": "400 m la șes și munte",
      "correct": false,
      "short": "",
      "long": "400 m nu este distanța din Tabelul 3-1 pentru zborul VFR. Tabelul cere 1500 m orizontal și 300 m vertical față de nori, în spațiul sub 3050 m.",
      "warn": ""
     },
     {
-     "text": "1500 m orizontală şi 300 m verticală",
+     "text": "1500 m orizontală și 300 m verticală",
      "correct": true,
      "short": "",
      "long": "Corect. Tabelul 3-1 din RACR-RA cere 1500 m orizontal și 300 m vertical față de nori, în spațiul sub 3050 m.",
      "warn": ""
     },
     {
-     "text": "300 m la şes şi 400 m în zona deluroasă sau muntoasă",
+     "text": "300 m la șes și 400 m în zona deluroasă sau muntoasă",
      "correct": false,
      "short": "",
      "long": "300 m și 400 m nu corespund Tabelului 3-1. Distanța minimă față de nori este de 1500 m orizontal și 300 m vertical, în spațiul sub 3050 m, la orice relief.",
@@ -2452,12 +2452,12 @@
   },
   {
    "number": "#69",
-   "text": "191: Autorizaţia specială pentru zbor cu alte persoane la bord decât un pilot calificat pe clasa respectivă de aeronave se poate acorda unui pilot ULM dacă acesta posedă o experienţa de:",
+   "text": "191: Autorizația specială pentru zbor cu alte persoane la bord decât un pilot calificat pe clasa respectivă de aeronave se poate acorda unui pilot ULM dacă acesta posedă o experiența de:",
    "short": "Pentru zborul cu alte persoane la bord, pilotul ULM trebuie să aibă 1/2 din experiența minimă cerută pentru calificarea de instructor.",
    "long": "Autorizația specială pentru zborul cu alte persoane se acordă pilotului ULM care are jumătate din experiența minimă de zbor cerută instructorilor (RACR-LPAN ULM.2110 lit. f).",
    "answers": [
     {
-     "text": "1/3 din experienţa minimă cerută pentru calificarea de instructor",
+     "text": "1/3 din experiența minimă cerută pentru calificarea de instructor",
      "correct": false,
      "short": "",
      "long": "O treime nu este cerința din RACR-LPAN ULM.2110 lit. f. Cerința este jumătate din experiența minimă a instructorului.",
@@ -2471,14 +2471,14 @@
      "warn": ""
     },
     {
-     "text": "egală cu experienţa minimă cerută pentru calificarea de instructor",
+     "text": "egală cu experiența minimă cerută pentru calificarea de instructor",
      "correct": false,
      "short": "",
      "long": "Experiența egală cu cea a instructorului nu este cerința, cerința este jumătate (RACR-LPAN ULM.2110 lit. f).",
      "warn": ""
     },
     {
-     "text": "1/2 din experienţa minimă cerută pentru calificarea de instructor",
+     "text": "1/2 din experiența minimă cerută pentru calificarea de instructor",
      "correct": true,
      "short": "",
      "long": "Corect. Cerința este jumătate din experiența minimă a instructorului (RACR-LPAN ULM.2110 lit. f).",
@@ -2601,7 +2601,7 @@
    "long": "Codul aerian, art. 15 alin. 2, interzice zborul oricărei aeronave deasupra zonelor dens populate sau a adunărilor de oameni în aer liber sub 300 m față de orice obstacol fix în raza de 600 m. Zborul cu ULM peste zone dens populate este deci interzis.",
    "answers": [
     {
-     "text": "permise la o înălţime minimă de 600 m",
+     "text": "permise la o înălțime minimă de 600 m",
      "correct": false,
      "short": "",
      "long": "Nu există înălțime minimă de 600 m care să permită zborul peste zone dens populate. Codul aerian, art. 15 alin. 2, interzice zborul sub 300 m față de obstacole.",
@@ -2615,7 +2615,7 @@
      "warn": ""
     },
     {
-     "text": "permise la o înălţime de minim 150 m, astfel încât la nevoie sa se poată ateriza în siguranţă",
+     "text": "permise la o înălțime de minim 150 m, astfel încât la nevoie sa se poată ateriza în siguranță",
      "correct": false,
      "short": "",
      "long": "Posibilitatea de a ateriza în siguranță nu face zborul permis peste zone dens populate. Codul aerian interzice zborul (art. 15 alin. 2).",
@@ -2733,7 +2733,7 @@
      "text": "numai la altitudini sub 300 de metri",
      "correct": false,
      "short": "",
-     "long": "Altitudinea sub 300 m nu permite intrarea în CTR fără autorizație ATC.",
+     "long": "Aaltitudinea sub 300 m nu permite intrarea în CTR fără autorizație ATC.",
      "warn": ""
     }
    ]
@@ -2920,19 +2920,19 @@
   },
   {
    "number": "#82",
-   "text": "174: Spaţiul aerian clasa G se întinde pe verticală:",
+   "text": "174: Spațiul aerian clasa G se întinde pe verticală:",
    "short": "Spațiul aerian de clasa G se întinde până la FL 105, adică aproximativ 3200 m deasupra nivelului mării.",
    "long": "În FIR București, spațiul de clasa G este spațiul care nu este desemnat altă clasă, zonele restricționate exceptate (AIP ENR 1.4). Clasa C, deasupra FL105, este desemnată separat, deci clasa G merge până la FL105 în zonele unde nu există altă clasă.",
    "answers": [
     {
-     "text": "până la altitudinea de 1000 m",
+     "text": "până la aaltitudinea de 1000 m",
      "correct": false,
      "short": "",
-     "long": "Altitudinea de 1000 m nu este limita verticală a clasei G în AIP ENR 1.4 (clasa G este tot spațiul nedesemnat altfel).",
+     "long": "Aaltitudinea de 1000 m nu este limita verticală a clasei G în AIP ENR 1.4 (clasa G este tot spațiul nedesemnat altfel).",
      "warn": ""
     },
     {
-     "text": "până la înălţimea de 1000 m",
+     "text": "până la înălțimea de 1000 m",
      "correct": false,
      "short": "",
      "long": "Înălțimea de 1000 m nu este limita verticală a clasei G în AIP ENR 1.4.",
@@ -2997,14 +2997,14 @@
    "long": "Zborul VFR de zi se face între răsărit și apus. Zborul VFR care are loc între apus și răsărit are reguli speciale (RACR-RA 4.030).",
    "answers": [
     {
-     "text": "începând cu 30 minute înainte de răsăritul soarelui şi terminând cu 30 minute după apusul soarelui",
+     "text": "începând cu 30 minute înainte de răsăritul soarelui și terminând cu 30 minute după apusul soarelui",
      "correct": false,
      "short": "",
      "long": "Perioada de 30 de minute înainte de răsărit și după apus nu este definiția zborului de zi. RACR-RA 4.030 leagă regulile de apusul și răsăritul soarelui.",
      "warn": ""
     },
     {
-     "text": "între răsăritul şi apusul soarelui",
+     "text": "între răsăritul și apusul soarelui",
      "correct": true,
      "short": "",
      "long": "Corect. Zborul de zi este cel între răsăritul și apusul soarelui.",
@@ -3172,19 +3172,19 @@
   },
   {
    "number": "#89",
-   "text": "169: Pentru obţinerea licenţei de pilot de aeronave ultraușoare motorizate solicitantul trebuie să aibă vârsta de cel puţin:",
+   "text": "169: Pentru obținerea licenței de pilot de aeronave ultraușoare motorizate solicitantul trebuie să aibă vârsta de cel puțin:",
    "short": "Pentru licența de ULM, solicitantul trebuie să aibă cel puțin 16 ani împliniți.",
    "long": "Vârsta minimă pentru licența de ULM este 16 ani împliniți (RACR-LPAN ULM.2040 lit. a).",
    "answers": [
     {
-     "text": "14 ani împliniţi",
+     "text": "14 ani împliniți",
      "correct": false,
      "short": "",
      "long": "14 ani nu este vârsta minimă pentru licența de ULM (RACR-LPAN ULM.2040 lit. a).",
      "warn": ""
     },
     {
-     "text": "16 ani împliniţi",
+     "text": "16 ani împliniți",
      "correct": true,
      "short": "",
      "long": "Corect. Vârsta minimă este 16 ani împliniți (RACR-LPAN ULM.2040 lit. a).",
@@ -3316,12 +3316,12 @@
   },
   {
    "number": "#93",
-   "text": "178: Este obligatorie legătura radio în spaţiul aerian de clasă C?",
+   "text": "178: Este obligatorie legătura radio în spațiul aerian de clasă C?",
    "short": "Legătura radio este obligatorie în spațiul aerian de clasa C.",
    "long": "În clasa C toate zborurile sunt sub control ATC și legătura radio bilaterală este obligatorie (AIP ENR 1.4, clasa C).",
    "answers": [
     {
-     "text": "doar la solicitarea unităţii de trafic aerian",
+     "text": "doar la solicitarea unității de trafic aerian",
      "correct": false,
      "short": "",
      "long": "Legătura radio nu depinde doar de cererea unității ATC: în clasa C este obligatorie (AIP ENR 1.4).",
@@ -3393,7 +3393,7 @@
    "long": "Zborurile VFR sunt permise în clasele C și G (AIP ENR 1.4). În clasa A nu sunt permise (RACR-RA, Tabelul 3-1, nota ***).",
    "answers": [
     {
-     "text": "numai în spaţiul aerian de clasă G",
+     "text": "numai în spațiul aerian de clasă G",
      "correct": false,
      "short": "",
      "long": "Zborurile VFR sunt permise și în clasa C, nu numai în G (AIP ENR 1.4).",
@@ -3407,14 +3407,14 @@
      "warn": ""
     },
     {
-     "text": "în spaţiile aeriene de clasă C şi G",
+     "text": "în spațiile aeriene de clasă C și G",
      "correct": true,
      "short": "",
      "long": "Corect. VFR este permis în clasele C și G, dar nu în clasa A (AIP ENR 1.4, RACR-RA).",
      "warn": ""
     },
     {
-     "text": "în spaţiile aeriene de clasă A, C şi G",
+     "text": "în spațiile aeriene de clasă A, C și G",
      "correct": false,
      "short": "",
      "long": "Clasa A nu permite VFR (RACR-RA, Tabelul 3-1, nota ***).",
@@ -3436,21 +3436,21 @@
      "warn": ""
     },
     {
-     "text": "piloţii cu minim 100 de ore experienţă după finalizarea școlii",
+     "text": "piloții cu minim 100 de ore experiență după finalizarea școlii",
      "correct": false,
      "short": "",
      "long": "Cele 100 de ore nu sunt condiția pentru instruire. Condiția este calificarea de instructor (RACR-LPAN ULM).",
      "warn": ""
     },
     {
-     "text": "cei care deţin aeronave omologate",
+     "text": "cei care dețin aeronave omologate",
      "correct": false,
      "short": "",
      "long": "Deținerea aeronavei omologate nu dă dreptul de a instrui. Dreptul ține de calificarea de instructor.",
      "warn": ""
     },
     {
-     "text": "instructorii calificaţi",
+     "text": "instructorii calificați",
      "correct": true,
      "short": "",
      "long": "Corect. Dreptul de a instrui în zbor îl au instructorii calificați (RACR-LPAN ULM).",
@@ -3460,12 +3460,12 @@
   },
   {
    "number": "#97",
-   "text": "171: Valabilitatea licenţei de pilot de aeronave ultrauşoare motorizate este de:",
+   "text": "171: Valabilitatea licenței de pilot de aeronave ultraușoare motorizate este de:",
    "short": "Varianta corectă indică 24 de luni de la examinarea teoretică, cu condiția ca certificatul medical să fie în termen de valabilitate.",
    "long": "Licența de ULM are valabilitate de 24 de luni de la examinarea teoretică (RACR-LPAN ULM.2025), iar certificatul medical trebuie să fie în termen de valabilitate.",
    "answers": [
     {
-     "text": "24 de luni de la data examinării teoretice cu condiţia ca certificatul medical să fie în termen de valabilitate",
+     "text": "24 de luni de la data examinării teoretice cu condiția ca certificatul medical să fie în termen de valabilitate",
      "correct": true,
      "short": "",
      "long": "Valabilitatea licenței de ULM este de 24 de luni de la examinarea teoretică (RACR-LPAN ULM). Varianta A adaugă condiția ca certificatul medical să fie valabil, ceea ce este logic: licența nu poate fi folosită fără aptitudine medicală valabilă. Referința este examinarea teoretică, nu cea practică.",
@@ -3479,7 +3479,7 @@
      "warn": ""
     },
     {
-     "text": "24 luni de la data examinării practice cu condiţia ca certificatul medical să fie în termen de valabilitate",
+     "text": "24 luni de la data examinării practice cu condiția ca certificatul medical să fie în termen de valabilitate",
      "correct": false,
      "short": "",
      "long": "Valabilitatea se numără de la examinarea teoretică, nu de la cea practică (RACR-LPAN ULM.2025).",
@@ -3676,7 +3676,7 @@
   },
   {
    "number": "#103",
-   "text": "186: Vizibilitatea minimă în spaţiul aerian de clasă G când se zboară cu viteze care permit observarea tuturor obstacolelor şi când probabilitatea întâlnirii cu alte aeronave este redusă, este:",
+   "text": "186: Vizibilitatea minimă în spațiul aerian de clasă G când se zboară cu viteze care permit observarea tuturor obstacolelor și când probabilitatea întâlnirii cu alte aeronave este redusă, este:",
    "short": "În clasa G, pentru viteze care permit observarea obstacolelor și probabilitate redusă de întâlnire cu alte aeronave, vizibilitatea minimă corectă este 1500 m.",
    "long": "Vizibilitatea minimă depinde de altitudine, de viteză și de probabilitatea întâlnirii cu alte aeronave. Tabelul 3-1 din RACR-RA dă 5 km ca minim general în clasa G. Nota ** din tabel permite cel puțin 1500 m, când autoritatea ATS o specifică, la viteze care permit evitarea obstacolelor și în zone cu trafic redus. Condițiile din întrebare corespund acestei note.",
    "answers": [
@@ -3717,7 +3717,7 @@
    "long": "La apropiere convergentă, aeronava care are cealaltă aeronavă în dreapta sa trebuie să dea prioritate (RACR-RA, reguli de trecere, pct. 2.3).",
    "answers": [
     {
-     "text": "să schimbe altitudinea",
+     "text": "să schimbe aaltitudinea",
      "correct": false,
      "short": "",
      "long": "Schimbarea altitudinii nu este regula de prioritate. Regula este cea de la dreapta (RACR-RA, pct. 2.3).",
@@ -3748,7 +3748,7 @@
   },
   {
    "number": "#105",
-   "text": "187: Pentru a evita efectul turbulenţei de siaj, eşalonarea la plecare în cazul aeronavelor uşoare sau medii care pleacă după o aeronavă grea va fi de minim:",
+   "text": "187: Pentru a evita efectul turbulenței de siaj, eșalonarea la plecare în cazul aeronavelor ușoare sau medii care pleacă după o aeronavă grea va fi de minim:",
    "short": "Pentru a evita turbulența de siaj, eșalonarea la plecare după o aeronavă grea este de minim 2 minute.",
    "long": "Turbulența de siaj de la o aeronavă grea poate fi periculoasă pentru una ușoară. La plecare, eșalonarea minimă după o aeronavă grea, în cazul aeronavelor ușoare, este de 2 minute, conform separării pentru turbulența de siaj din ICAO Doc 4444 (intervalele de decolare).",
    "answers": [

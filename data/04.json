@@ -55,7 +55,7 @@
      "text": "25 grd. C",
      "correct": false,
      "short": "",
-     "long": "Temperatura crește, nu scade, cu altitudinea în troposferă.",
+     "long": "Temperatura crește, nu scade, cu aaltitudinea în troposferă.",
      "warn": ""
     },
     {
@@ -186,7 +186,7 @@
    "number": "#6",
    "text": "222: Cu care tip de nori sunt asociate furtunile?",
    "short": "Furtunile sunt asociate cu norii de tip cumulonimbus.",
-   "long": "Furtunile și grindina se asociază cu norii cumulonimbus, care au dezvoltare verticală mare și curenți ascendenți puternici.",
+   "long": "Furtunile și grindină se asociază cu norii cumulonimbus, care au dezvoltare verticală mare și curenți ascendenți puternici.",
    "answers": [
     {
      "text": "nori de tip Cumulonimbus",
@@ -293,7 +293,7 @@
   },
   {
    "number": "#9",
-   "text": "320: Care dintre urmatoarele fenomene pot duce la o activitate orajoasă?",
+   "text": "320: Care dintre următoarele fenomene pot duce la o activitate orajoasă?",
    "short": "Frontul rece poate produce activitate orajoasă.",
    "long": "Frontul rece împinge aer cald în sus, rapid și instabil, cu nori cumulonimbus, averse și activitate orajoasă.",
    "answers": [
@@ -406,14 +406,14 @@
    "long": "Aerul instabil se ridică ușor, formează turbulență, nori cumuliformi și de regulă vizibilitate bună între averse.",
    "answers": [
     {
-     "text": "turbulenţe, vizibilitate bună şi nori Cumuliformi",
+     "text": "turbulențe, vizibilitate bună și nori Cumuliformi",
      "correct": true,
      "short": "",
      "long": "Corect. Turbulență, vizibilitate bună și nori cumuliformi caracterizează aerul instabil.",
      "warn": ""
     },
     {
-     "text": "turbulenţe şi vizibilitate slabă",
+     "text": "turbulențe și vizibilitate slabă",
      "correct": false,
      "short": "",
      "long": "Vizibilitatea slabă este caracteristica aerului stabil, nu a celui instabil.",
@@ -442,14 +442,14 @@
    "long": "Vântul laminar păstrează direcția și intensitatea, deoarece nu este perturbat de obstacole sau de convecție.",
    "answers": [
     {
-     "text": "vântul care ia naştere prin convecţia aerului",
+     "text": "vântul care ia naștere prin convecția aerului",
      "correct": false,
      "short": "",
      "long": "Convecția produce curenți ascendenți și turbulență, deci vântul născut din ea este turbulent, nu laminar.",
      "warn": ""
     },
     {
-     "text": "vântul care îşi păstrează direcţia şi intensitatea",
+     "text": "vântul care își păstrează direcția și intensitatea",
      "correct": true,
      "short": "",
      "long": "Corect. Vântul laminar curge în straturi paralele, fără turbulență, deci își păstrează direcția și intensitatea.",
@@ -463,7 +463,7 @@
      "warn": ""
     },
     {
-     "text": "vântul care suferă variaţii datorită obstacolelor",
+     "text": "vântul care suferă variații datorită obstacolelor",
      "correct": false,
      "short": "",
      "long": "Obstacolele perturbă curgerea și produc turbulență, deci vântul care suferă variații din obstacole nu este laminar.",
@@ -514,14 +514,14 @@
    "long": "Nivelul de condensare este înălțimea la care aerul ascendent ajunge la saturație (umiditate relativă 100%) și începe să se formeze nori.",
    "answers": [
     {
-     "text": "înălţimea până la care urcă aerul uscat",
+     "text": "înălțimea până la care urcă aerul uscat",
      "correct": false,
      "short": "",
      "long": "Aerul uscat nu atinge nivelul de condensare, fiindcă nu se satură.",
      "warn": ""
     },
     {
-     "text": "înălţimea corespunzătoare vârfului norilor",
+     "text": "înălțimea corespunzătoare vârfului norilor",
      "correct": false,
      "short": "",
      "long": "Vârful norilor nu este nivelul de condensare, ci baza lor.",
@@ -535,7 +535,7 @@
      "warn": ""
     },
     {
-     "text": "înălţimea la care umiditatea relativă devine 100%",
+     "text": "înălțimea la care umiditatea relativă devine 100%",
      "correct": true,
      "short": "",
      "long": "Corect. Nivelul de condensare este înălțimea la care umiditatea relativă ajunge la 100%.",
@@ -564,7 +564,7 @@
      "warn": ""
     },
     {
-     "text": "viteza vântului la sol, viteza vântului la înăltime, fenomene locale (vânt catabatic, vânt de vale, curenți ascendenți termici și dinamici), imagini din satelit, prognoza zilei și restricțiile zilnice",
+     "text": "viteza vântului la sol, viteza vântului la înălțime, fenomene locale (vânt catabatic, vânt de vale, curenți ascendenți termici și dinamici), imagini din satelit, prognoza zilei și restricțiile zilnice",
      "correct": true,
      "short": "",
      "long": "Corect. Planificarea ia în considerare vântul la sol și în altitudine și fenomenele locale.",
@@ -725,12 +725,12 @@
   },
   {
    "number": "#21",
-   "text": "226: O perdea de copaci în faţa vântului provoacă:",
+   "text": "226: O perdea de copaci în fața vântului provoacă:",
    "short": "O perdea de copaci în fața vântului produce turbulențe și umbre de vânt în spatele copacilor.",
    "long": "Vântul trece peste copaci și se formează turbulențe și umbre de vânt în spatele lor, sub vânt, unde aerul este agitat și nu curge laminar.",
    "answers": [
     {
-     "text": "nu provoacă turbulenţe",
+     "text": "nu provoacă turbulențe",
      "correct": false,
      "short": "",
      "long": "Obstacolele produc turbulențe, indiferent de densitatea lor. Aerul trece peste perdea și se rupe în rotoare.",
@@ -744,14 +744,14 @@
      "warn": ""
     },
     {
-     "text": "turbulenţe în partea vântului",
+     "text": "turbulențe în partea vântului",
      "correct": false,
      "short": "",
      "long": "Aerul din fața perdelei încetinește, dar turbulența se formează în spatele ei, sub vânt.",
      "warn": ""
     },
     {
-     "text": "turbulenţe şi “umbre de vânt” în spatele copacilor, sub vânt",
+     "text": "turbulențe și “umbre de vânt” în spatele copacilor, sub vânt",
      "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
@@ -763,7 +763,7 @@
   {
    "number": "#22",
    "image": "img/04-q22.png",
-   "text": "272: Pe panta următoare, veţi găsi cei mai buni curenți ascendenţi de dinamică:",
+   "text": "272: Pe panta următoare, veți găsi cei mai buni curenți ascendenți de dinamică:",
    "short": "Cei mai buni curenți ascendenți dinamici se găsesc pe panta 1, conform figurii.",
    "long": "Curenții ascendenți dinamici se formează pe versantul expus vântului, unde aerul este forțat să urce pe relief. Zona 1 din figură este acest versant, unde curenții ascendenți sunt cei mai puternici. Zona 2 este la creastă, unde aerul trece peste vârf și curenții se atenuează.",
    "answers": [
@@ -851,7 +851,7 @@
      "tag": "atenție, fenomen periculos!",
      "correct": false,
      "short": "",
-     "long": "## Ce este vântul de contrapantă\nVântul de contrapantă reprezintă acea masă de aer care suflă din direcția opusă zonei de decolare sau din spatele pantei pe care te afli (cunoscut și sub numele de vânt de spate sau backwind).\n!!Este unul dintre cele mai înșelătoare și periculoase fenomene pentru piloți, în special în faza de decolare sau la aterizările în zone montane.!!\nÎn contextul zborului cu paramotorul (și al parapantismului în general), vântul de contrapantă (sau rotorul de contrapantă) se referă la mișcările turbulente și descendente ale aerului care apar pe versantul adăpostit (în spatele zonei crestei sau dealului) atunci când vântul lovește panta din sens opus.\nPe scurt, dacă vântul bate din față pe un deal, versantul din spate devine o zonă de „umbră aerodinamică” unde aerul se rotește violent și coboară.\nIată principalele pericole și caracteristici ale acestui fenomen pentru piloții de paramotor:\n\n## De ce este periculos vântul de contrapantă?\n• Rotori și turbulențe mecanice: Curentul de aer care trece peste creastă se desprinde și formează vârtejuri (rotori). Acestea pot provoca închideri masive și bruște ale aripii (colapsuri asimetrice sau frontale).\n• Curenți descendenți puternici: Pe contrapantă, aerul tinde să curgă spre bază. Dacă motorul tău nu are suficientă putere să compenseze această coborâre forțată, poți fi „aspirat” spre sol.\n• Vânt fals la sol: La baza contrapantei, din cauza rotorului, vântul poate părea că bate din sens invers față de vântul meteo general. Dacă încerci să aterizezi acolo crezând că ești cu fața în vânt, poți fi surprins de forfecări de vânt (windshear) violente.\n\n## Regula generală de siguranță\nPentru a evita zona periculoasă de contrapantă, se folosește adesea regula de 1 la 10 (sau un unghi de siguranță de 45 de grade în funcție de tăria vântului). Turbulența se poate întinde în spatele obstacolului pe o distanță de până la 10 ori înălțimea acestuia și se propagă mult în josul vântului.\nCa pilot de paramotor, datorită motorului, ai avantajul de a putea urca rapid, însă regula de aur rămâne: nu zbura niciodată la înălțime joasă în spatele unui deal sau al unei linii de copaci dacă bate vânt puternic dinspre aceștia.",
+     "long": "## Ce este vântul de contrapantă\nVântul de contrapantă reprezintă acea masă de aer care suflă din direcția opusă zonei de decolare sau din spatele pantei pe care te afli (cunoscut și sub numele de vânt de spate sau backwind).\n!!Este unul dintre cele mai înșelătoare și periculoase fenomene pentru piloți, în special în faza de decolare sau la aterizările în zone montane.!!\nÎn contextul zborului cu paramotorul (și al parapantismului în general), vântul de contrapantă (sau rotorul de contrapantă) se referă la mișcările turbulente și descendente ale aerului care apar pe versantul adăpostit (în spatele zonei crestei sau dealului) atunci când vântul lovește panta din sens opus.\nPe scurt, dacă vântul bate din față pe un deal, versantul din spate devine o zonă de „umbră aerodinamică” unde aerul se rotește violent și coboară.\nIată principalele pericole și caracteristici ale acestui fenomen pentru piloții de paramotor:\n\n## De ce este periculos vântul de contrapantă?\n• Rotori și turbulențe mecanice: Curentul de aer care trece peste creastă se desprinde și formează vârtejuri (rotori). Acestea pot provoca închideri masive și bruște ale aripii (colapsuri asimetrice sau frontale).\n• Curenți descendenți puternici: Pe contrapantă, aerul tinde să curgă spre bază. Dacă motorul tău nu are suficientă putere să compenseze această coborâre forțată, poți fi „aspirat” spre sol.\n• Vânt fals la sol: La baza contrapantei, din cauza rotorului, vântul poate părea că bate din sens invers față de vântul meteo general. Dacă încerci să aterizezi acolo crezând că ești cu fața în vânt, poți fi surprins de forfecări de vânt (windshear) violente.\n\n## Regula generală de siguranță\nPentru a evita zona periculoasă de contrapantă, se folosește adesea regula de 1 la 10 (sau un unghi de siguranță de 45 de grade în funcție de tăria vântului). Turbulența se poate întinde în spatele obstacolului pe o distanță de până la 10 ori înălțimea acestuia și se propagă mult în josul vântului.\nCa pilot de paramotor, datorită motorului, ai avântajul de a putea urca rapid, însă regula de aur rămâne: nu zbura niciodată la înălțime joasă în spatele unui deal sau al unei linii de copaci dacă bate vânt puternic dinspre aceștia.",
      "warn": ""
     },
     {
@@ -872,7 +872,7 @@
   },
   {
    "number": "#25",
-   "text": "268: O perdea de copaci în faţa vântului provoacă:",
+   "text": "268: O perdea de copaci în fața vântului provoacă:",
    "short": "O perdea de copaci în fața vântului produce turbulențe și umbre de vânt în spatele copacilor.",
    "long": "Perdeaua de copaci produce turbulențe și umbre de vânt în spatele ei, sub vânt, unde aerul este agitat.",
    "answers": [
@@ -884,7 +884,7 @@
      "warn": ""
     },
     {
-     "text": "turbulenţe şi “umbre de vânt” în spatele copacilor, sub vânt",
+     "text": "turbulențe și “umbre de vânt” în spatele copacilor, sub vânt",
      "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
@@ -892,14 +892,14 @@
      "warn": ""
     },
     {
-     "text": "turbulenţe în partea vântului",
+     "text": "turbulențe în partea vântului",
      "correct": false,
      "short": "",
      "long": "Turbulența se formează în spatele copacilor, sub vânt, nu în partea din față.",
      "warn": ""
     },
     {
-     "text": "nu provoacă turbulenţe",
+     "text": "nu provoacă turbulențe",
      "correct": false,
      "short": "",
      "long": "Obstacolele produc turbulențe, deci afirmația că nu provoacă turbulențe este greșită.",
@@ -909,7 +909,7 @@
   },
   {
    "number": "#26",
-   "text": "270: Puteţi întâlni turbulenţa de forfecare:",
+   "text": "270: Puteți întâlni turbulența de forfecare:",
    "short": "Turbulența de forfecare apare când două mase de aer au direcții și caracteristici diferite.",
    "long": "Forfecarea vântului (wind shear) apare la limita dintre două mase de aer cu direcții și viteze diferite. Pe acest strat aeronava poate fi împinsă brusc.",
    "answers": [
@@ -935,7 +935,7 @@
      "warn": ""
     },
     {
-     "text": "când două mase de aer au direcţii şi caracteristici diferite",
+     "text": "când două mase de aer au direcții și caracteristici diferite",
      "correct": true,
      "short": "",
      "long": "Corect. Forfecarea apare când două mase de aer au direcții și caracteristici diferite.",
@@ -993,14 +993,14 @@
      "warn": ""
     },
     {
-     "text": "zona de demarcaţie între ploaie şi timp frumos",
+     "text": "zona de demarcație între ploaie și timp frumos",
      "correct": false,
      "short": "",
      "long": "Demarcația dintre ploaie și timp frumos este o descriere parțială, nu definiția frontului.",
      "warn": ""
     },
     {
-     "text": "linia de nori care apare când se răceşte vremea",
+     "text": "linia de nori care apare când se răcește vremea",
      "correct": false,
      "short": "",
      "long": "Linia de nori nu definește frontul. Frontul este limita dintre mase de aer.",
@@ -1018,7 +1018,7 @@
   {
    "number": "#29",
    "image": "img/04-q29.png",
-   "text": "273: Veţi întâlni turbulenţe ce pot fi periculoase în cazul în care zburaţi prea aproape de relief",
+   "text": "273: Veți întâlni turbulențe ce pot fi periculoase în cazul în care zburați prea aproape de relief",
    "short": "Turbulențe periculoase apar când zbori prea aproape de relief, în zonele 3 și 4 din figură.",
    "long": "Turbulențele periculoase apar pe partea sub vânt, unde aerul trece peste creastă și formează rotoare. Pe figură, zona 3 este rotorul de sub creastă, iar zona 4 este turbulența din aval. Zonele 1 și 2 sunt pe versantul expus vântului, unde aerul urcă.",
    "answers": [
@@ -1030,7 +1030,7 @@
      "warn": ""
     },
     {
-     "text": "în 3 şi 4",
+     "text": "în 3 și 4",
      "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
@@ -1045,7 +1045,7 @@
      "warn": ""
     },
     {
-     "text": "în 1 şi 2",
+     "text": "în 1 și 2",
      "correct": false,
      "short": "",
      "long": "Zonele 1 și 2 sunt pe versantul expus vântului, unde aerul urcă și nu formează rotoare periculoase.",
@@ -1163,12 +1163,12 @@
   },
   {
    "number": "#33",
-   "text": "264: Ce reprezintă înălţimea bazei (plafonul) norului?",
+   "text": "264: Ce reprezintă înălțimea bazei (plafonul) norului?",
    "short": "Înălțimea bazei norului (plafonul) este distanța de la suprafața solului până la baza norului.",
    "long": "Înălțimea bazei norului (plafonul) este distanța de la sol până la baza norului cea mai de jos.",
    "answers": [
     {
-     "text": "distanţa de la suprafaţa solului până la baza norului",
+     "text": "distanța de la suprafața solului până la baza norului",
      "correct": true,
      "short": "",
      "long": "Corect. Plafonul este distanța de la sol până la baza norului.",
@@ -1182,7 +1182,7 @@
      "warn": ""
     },
     {
-     "text": "distanţa de la baza la vârful norului",
+     "text": "distanța de la baza la vârful norului",
      "correct": false,
      "short": "",
      "long": "Grosimea norului, de la bază la vârf, nu este plafonul.",
@@ -1283,24 +1283,24 @@
      "warn": ""
     },
     {
-     "text": "umiditatea în atmosfera ISA crește proporțional cu altitudinea",
+     "text": "umiditatea în atmosfera ISA crește proporțional cu aaltitudinea",
      "correct": false,
      "short": "",
-     "long": "În ISA umiditatea nu crește cu altitudinea. Atmosfera standard nu descrie umiditatea reală.",
+     "long": "În ISA umiditatea nu crește cu aaltitudinea. Atmosfera standard nu descrie umiditatea reală.",
      "warn": ""
     },
     {
      "text": "temperatura atmosferei ISA rămâne constantă de la nivelul mării până la 11 km altitudine",
      "correct": false,
      "short": "",
-     "long": "În ISA temperatura scade cu altitudinea (6,5°C/1000 m) până la tropopauză, nu rămâne constantă până la 11 km.",
+     "long": "În ISA temperatura scade cu aaltitudinea (6,5°C/1000 m) până la tropopauză, nu rămâne constantă până la 11 km.",
      "warn": ""
     },
     {
      "text": "atmosfera ISA are o densitate constantă la toate altitudinile",
      "correct": false,
      "short": "",
-     "long": "În ISA densitatea scade cu altitudinea. Nu este constantă.",
+     "long": "În ISA densitatea scade cu aaltitudinea. Nu este constantă.",
      "warn": ""
     }
    ]
@@ -1408,7 +1408,7 @@
      "text": "o creștere ușoară a vitezei vântului la altitudini de peste 12000 ft",
      "correct": false,
      "short": "",
-     "long": "Creșterea treptată a vitezei cu altitudinea este gradientul normal al vântului, produs de frecarea cu solul, nu forfecare.",
+     "long": "Creșterea treptată a vitezei cu aaltitudinea este gradientul normal al vântului, produs de frecarea cu solul, nu forfecare.",
      "warn": ""
     }
    ]
@@ -1463,7 +1463,7 @@
      "warn": ""
     },
     {
-     "text": "nu are nici un efect asupra circulaţiei vântului",
+     "text": "nu are nici un efect asupra circulației vântului",
      "correct": false,
      "short": "",
      "long": "Îngustarea văii are efect asupra vântului, fiindcă schimbă viteza în axa văii.",
@@ -1487,12 +1487,12 @@
   },
   {
    "number": "#42",
-   "text": "269: Se numeşte zonă de forfecare:",
+   "text": "269: Se numește zonă de forfecare:",
    "short": "Zona de forfecare este o zonă de întâlnire a unor mase de aer care poate provoca turbulențe puternice.",
    "long": "Zona de forfecare este locul în care se întâlnesc mase de aer cu viteze și direcții diferite, unde pot apărea turbulențe puternice.",
    "answers": [
     {
-     "text": "o zonă de intalnire a unor mase de aer ce riscă să provoace turbulenţe puternice",
+     "text": "o zonă de intalnire a unor mase de aer ce riscă să provoace turbulențe puternice",
      "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
@@ -1507,7 +1507,7 @@
      "warn": ""
     },
     {
-     "text": "o zonă în interiorul căreia violenţa turbulenţelor este atât de mare încât riscă să provoace ruperea suspantelor",
+     "text": "o zonă în interiorul căreia violența turbulențelor este atât de mare încât riscă să provoace ruperea suspantelor",
      "correct": false,
      "short": "",
      "long": "Riscul de rupere a suspantelor apare în turbulențe extreme, dar definiția zonei de forfecare este întâlnirea maselor de aer.",
@@ -1561,7 +1561,7 @@
   {
    "number": "#44",
    "image": "img/04-q44.png",
-   "text": "275: Indicaţi zonele cu “umbre de vânt”:",
+   "text": "275: Indicați zonele cu “umbre de vânt”:",
    "short": "Zonele cu umbre de vânt sunt marcate cu d în figura.",
    "long": "Umbra vântului este zona de după munte, unde vântul este redus și aerul este mai liniștit. Pe figură, zona d este această umbră. Zona a este versantul expus vântului, b este curgerea de-a lungul crestei, iar c este rotorul turbulent de sub creastă.",
    "answers": [
@@ -1645,21 +1645,21 @@
      "warn": ""
     },
     {
-     "text": "vântul care suferă variaţii datorită obstacolelor",
+     "text": "vântul care suferă variații datorită obstacolelor",
      "correct": false,
      "short": "",
      "long": "Variațiile produse de obstacole înseamnă turbulență, deci vântul nu este laminar.",
      "warn": ""
     },
     {
-     "text": "vântul care ia naştere prin convecţia aerului",
+     "text": "vântul care ia naștere prin convecția aerului",
      "correct": false,
      "short": "",
      "long": "Convecția produce curenți ascendenți și turbulență, deci vântul născut din ea nu este laminar.",
      "warn": ""
     },
     {
-     "text": "vântul care îşi păstrează direcţia şi intensitatea",
+     "text": "vântul care își păstrează direcția și intensitatea",
      "correct": true,
      "short": "",
      "long": "Corect. Vântul laminar curge în straturi paralele, fără turbulență, deci își păstrează direcția și intensitatea.",
@@ -1839,10 +1839,10 @@
      "warn": ""
     },
     {
-     "text": "norii sunt clasificați în funcție de altitudinea la care se formează",
+     "text": "norii sunt clasificați în funcție de aaltitudinea la care se formează",
      "correct": false,
      "short": "",
-     "long": "Altitudinea este criteriu secundar. Clasificarea de bază este după formă.",
+     "long": "Aaltitudinea este criteriu secundar. Clasificarea de bază este după formă.",
      "warn": ""
     }
    ]
@@ -2067,8 +2067,8 @@
   {
    "number": "#58",
    "text": "254: Presiunea atmosferică scade în altitudine datorită:",
-   "short": "Presiunea atmosferică scade cu altitudinea din cauza scăderii densității aerului și a scurtării coloanei de aer deasupra.",
-   "long": "Presiunea scade cu altitudinea pentru că aerul de deasupra e mai rarefiat și coloana de aer deasupra este mai scurtă.",
+   "short": "Presiunea atmosferică scade cu aaltitudinea din cauza scăderii densității aerului și a scurtării coloanei de aer deasupra.",
+   "long": "Presiunea scade cu aaltitudinea pentru că aerul de deasupra e mai rarefiat și coloana de aer deasupra este mai scurtă.",
    "answers": [
     {
      "text": "creșterii gradientului termic",
@@ -2078,24 +2078,24 @@
      "warn": ""
     },
     {
-     "text": "scăderii densităţii aerului în înălţime şi scurtării coloanei de aer",
+     "text": "scăderii densității aerului în înălțime și scurtării coloanei de aer",
      "correct": true,
      "short": "",
      "long": "Corect. Scăderea densității și a coloanei de aer determină scăderea presiunii.",
      "warn": ""
     },
     {
-     "text": "scăderii temperaturii aerului în înălţime",
+     "text": "scăderii temperaturii aerului în înălțime",
      "correct": false,
      "short": "",
-     "long": "Temperatura scade cu altitudinea, dar presiunea scade din cauza coloanei de aer mai scurte.",
+     "long": "Temperatura scade cu aaltitudinea, dar presiunea scade din cauza coloanei de aer mai scurte.",
      "warn": ""
     },
     {
-     "text": "creşterii umezelii în înălţime",
+     "text": "creșterii umezelii în înălțime",
      "correct": false,
      "short": "",
-     "long": "Umezeala nu determină scăderea presiunii cu altitudinea.",
+     "long": "Umezeala nu determină scăderea presiunii cu aaltitudinea.",
      "warn": ""
     }
    ]
@@ -2390,7 +2390,7 @@
   },
   {
    "number": "#67",
-   "text": "252: Zburaţi pe vânt laminar de aproximativ 15km/h, efectuaţi un viraj de 360º cu înclinare şi viteză constante. Care este traiectoria dvs. faţă de sol?",
+   "text": "252: Zburați pe vânt laminar de aproximativ 15km/h, efectuați un viraj de 360º cu înclinare și viteză constante. Care este traiectoria dvs. față de sol?",
    "short": "Pe vânt laminar de 15 km/h, un viraj de 360° la viteză și înclinare constante lasă o traiectorie față de sol în formă de buclă, descrisă de figura c.",
    "long": "Vântul deplasează aeronava în timpul virajului, deci traiectoria față de sol nu este un cerc perfect, ci o buclă sau o curbă deplasată în direcția vântului. Figura c ilustrează această traiectorie. Verifică desenul pentru a vedea diferența față de a și b.",
    "answers": [
@@ -2470,7 +2470,7 @@
      "text": "schimbări bruște ale altitudinii și vitezei orizontale și verticale",
      "correct": false,
      "short": "",
-     "long": "Altitudinea și viteza se schimbă și în alte situații. Semnul specific al forfecării este comportamentul instrumentelor de bord.",
+     "long": "Aaltitudinea și viteza se schimbă și în alte situații. Semnul specific al forfecării este comportamentul instrumentelor de bord.",
      "warn": ""
     },
     {
@@ -2536,7 +2536,7 @@
    "number": "#71",
    "text": "289: Ce este vântul de gradient?",
    "short": "Vântul de gradient bate paralel cu izobarele curbate, influențat de forța Coriolis și de gradientul de presiune.",
-   "long": "Vântul de gradient bate paralel cu izobarele curbate, în echilibru între forța gradientului de presiune, forța Coriolis și forța centrifugă. Este vântul de la altitudinea la care frecarea cu solul nu mai contează mult.",
+   "long": "Vântul de gradient bate paralel cu izobarele curbate, în echilibru între forța gradientului de presiune, forța Coriolis și forța centrifugă. Este vântul de la aaltitudinea la care frecarea cu solul nu mai contează mult.",
    "answers": [
     {
      "text": "vântul de gradient este un vânt care bate în direcția în care scade presiunea atmosferică",
@@ -2606,7 +2606,7 @@
   },
   {
    "number": "#73",
-   "text": "267: Un vânt calm şi laminar, de 10 km/h suflă la altitudine deasupra zonei de aterizare:",
+   "text": "267: Un vânt calm și laminar, de 10 km/h suflă la altitudine deasupra zonei de aterizare:",
    "short": "Viteza vântului la sol depinde de topografia terenului, chiar dacă vântul de la altitudine este calm și laminar.",
    "long": "Vântul la sol este mai slab decât cel de altitudine și depinde de rugozitatea și relieful terenului, de obstacole și de pante. Deci nu poate fi egal cu cel de la altitudine.",
    "answers": [
@@ -2668,7 +2668,7 @@
      "warn": ""
     },
     {
-     "text": "modifica viteza motoparapantei faţă de sol",
+     "text": "modifica viteza motoparapantei față de sol",
      "correct": true,
      "short": "",
      "long": "Corect. Vântul modifică viteza motoparapantei față de sol.",
@@ -2704,7 +2704,7 @@
      "warn": ""
     },
     {
-     "text": "sunt informații nerelevante piloților de parapantă cu motor",
+     "text": "sunt informații nerelevânte piloților de parapantă cu motor",
      "correct": false,
      "short": "",
      "long": "Informațiile radar sunt utile și pilotului de motoparapantă cu motor.",
@@ -2716,34 +2716,34 @@
    "number": "#76",
    "text": "263: Inversiunea termică este:",
    "short": "Inversiunea termică este o creștere a temperaturii cu înălțimea.",
-   "long": "Inversiunea termică este stratul în care temperatura crește cu altitudinea, în loc să scadă. Aerul cald stă peste cel rece, iar convecția se oprește.",
+   "long": "Inversiunea termică este stratul în care temperatura crește cu aaltitudinea, în loc să scadă. Aerul cald stă peste cel rece, iar convecția se oprește.",
    "answers": [
     {
-     "text": "o descreştere a presiunii cu înălţimea",
+     "text": "o descreștere a presiunii cu înălțimea",
      "correct": false,
      "short": "",
-     "long": "Scăderea presiunii cu altitudinea este comportamentul normal, nu inversiunea.",
+     "long": "Scăderea presiunii cu aaltitudinea este comportamentul normal, nu inversiunea.",
      "warn": ""
     },
     {
-     "text": "o descreştere a temperaturii cu înălţimea",
+     "text": "o descreștere a temperaturii cu înălțimea",
      "correct": false,
      "short": "",
-     "long": "Scăderea temperaturii cu altitudinea este gradientul normal, nu inversiunea.",
+     "long": "Scăderea temperaturii cu aaltitudinea este gradientul normal, nu inversiunea.",
      "warn": ""
     },
     {
-     "text": "o creştere a temperaturii cu înălţimea",
+     "text": "o creștere a temperaturii cu înălțimea",
      "correct": true,
      "short": "",
-     "long": "Corect. Inversiunea este creșterea temperaturii cu altitudinea.",
+     "long": "Corect. Inversiunea este creșterea temperaturii cu aaltitudinea.",
      "warn": ""
     },
     {
      "text": "o menținere a temperaturii cu înălțimea",
      "correct": false,
      "short": "",
-     "long": "Temperatura constantă cu altitudinea este izotermie, nu inversiune.",
+     "long": "Temperatura constantă cu aaltitudinea este izotermie, nu inversiune.",
      "warn": ""
     }
    ]
@@ -2858,12 +2858,12 @@
   },
   {
    "number": "#80",
-   "text": "276: Veţi întâlni turbulenţe ce pot fi periculoase în caz de zbor aproape de relief:",
+   "text": "276: Veți întâlni turbulențe ce pot fi periculoase în caz de zbor aproape de relief:",
    "short": "Turbulențe periculoase apar zburând aproape de relief în zonele 1, 2 și 3 din figura.",
    "long": "Turbulența apare în zonele de sub vânt și lângă relieful accidentat, unde curentul de aer este perturbat de obstacole. Zonele exacte sunt cele indicate pe desenul întrebării.",
    "answers": [
     {
-     "text": "în 1 şi 2",
+     "text": "în 1 și 2",
      "correct": false,
      "short": "",
      "long": "Varianta nu este cea corectă.",
@@ -2877,7 +2877,7 @@
      "warn": ""
     },
     {
-     "text": "în 1, 2 şi 3",
+     "text": "în 1, 2 și 3",
      "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
@@ -2900,14 +2900,14 @@
    "long": "Vântul este mișcarea orizontală a aerului, de la zonele de presiune mai mare către cele de presiune mai mică.",
    "answers": [
     {
-     "text": "mişcarea turbulentă a aerului",
+     "text": "mișcarea turbulentă a aerului",
      "correct": false,
      "short": "",
      "long": "Turbulența este alt aspect al mișcării aerului, nu definiția vântului.",
      "warn": ""
     },
     {
-     "text": "mişcarea orizontală a aerului",
+     "text": "mișcarea orizontală a aerului",
      "correct": true,
      "short": "",
      "long": "Corect. Vântul este mișcarea orizontală a aerului.",
@@ -2921,7 +2921,7 @@
      "warn": ""
     },
     {
-     "text": "mişcarea orizontală şi verticală a aerului",
+     "text": "mișcarea orizontală și verticală a aerului",
      "correct": false,
      "short": "",
      "long": "Vântul este în principal orizontal. Mișcarea verticală este curent, nu vânt.",
@@ -2933,13 +2933,13 @@
    "number": "#82",
    "text": "303: Care sunt subdiviziunile atmosferei?",
    "short": "Atmosfera este împărțită în troposferă, stratosferă, mezosferă, termosferă și exosferă.",
-   "long": "Atmosfera se împarte în troposferă, stratosferă, mezosferă, termosferă și exosferă, după variația temperaturii cu altitudinea.",
+   "long": "Atmosfera se împarte în troposferă, stratosferă, mezosferă, termosferă și exosferă, după variația temperaturii cu aaltitudinea.",
    "answers": [
     {
      "text": "atmosfera este divizată în troposferă, stratosferă, mezosferă, termosferă și exosferă",
      "correct": true,
      "short": "",
-     "long": "Corect. Cele cinci straturi sunt troposfera, stratosfera, mezosfera, termosfera și exosfera.",
+     "long": "Corect. Cele cinci straturi sunt troposfera, stratosfera, mezosferă, termosferă și exosferă.",
      "warn": ""
     },
     {
@@ -2967,12 +2967,12 @@
   },
   {
    "number": "#83",
-   "text": "258: O perdea de copaci în faţa vântului anterior aterizării provoacă:",
+   "text": "258: O perdea de copaci în fața vântului anterior aterizării provoacă:",
    "short": "O perdea de copaci în fața vântului, înainte de aterizare, produce turbulențe și umbre de vânt în spatele copacilor.",
    "long": "O perdea de copaci în fața vântului produce turbulențe și umbre de vânt în spatele ei, sub vânt, unde aerul este agitat. Acest lucru contează înainte de aterizare.",
    "answers": [
     {
-     "text": "turbulenţe şi “umbre de vânt” în spatele copacilor, sub vânt",
+     "text": "turbulențe și “umbre de vânt” în spatele copacilor, sub vânt",
      "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
@@ -2980,14 +2980,14 @@
      "warn": ""
     },
     {
-     "text": "turbulenţe în partea vântului",
+     "text": "turbulențe în partea vântului",
      "correct": false,
      "short": "",
      "long": "Aerul din fața perdelei încetinește, iar turbulența apare în spate, nu în partea din față.",
      "warn": ""
     },
     {
-     "text": "nu provoacă turbulenţe",
+     "text": "nu provoacă turbulențe",
      "correct": false,
      "short": "",
      "long": "Copacii produc turbulențe, deci afirmația că nu produc este greșită.",
@@ -3004,7 +3004,7 @@
   },
   {
    "number": "#84",
-   "text": "266: Prin temperatura aerului înţelegem:",
+   "text": "266: Prin temperatura aerului înțelegem:",
    "short": "Temperatura aerului este starea de încălzire a aerului.",
    "long": "Temperatura aerului reprezintă starea lui de încălzire, adică energia termică medie a moleculelor de aer.",
    "answers": [
@@ -3076,7 +3076,7 @@
   },
   {
    "number": "#86",
-   "text": "274: Veţi întâlni turbulenţe ce pot fi periculoase în caz de zbor la mică altitudine sau aterizare:",
+   "text": "274: Veți întâlni turbulențe ce pot fi periculoase în caz de zbor la mică altitudine sau aterizare:",
    "short": "Turbulențe periculoase apar la zbor la altitudine mică sau la aterizare în zonele 3 și 4 din figura.",
    "long": "La altitudine mică și la aterizare, turbulența de sub vânt și de la relief este cea mai periculoasă, pentru că pilotul are puțin timp de reacție. Zonele exacte sunt cele indicate pe desenul întrebării.",
    "answers": [
@@ -3088,7 +3088,7 @@
      "warn": ""
     },
     {
-     "text": "în 3 şi 4",
+     "text": "în 3 și 4",
      "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
@@ -3096,14 +3096,14 @@
      "warn": ""
     },
     {
-     "text": "în 1 şi 2",
+     "text": "în 1 și 2",
      "correct": false,
      "short": "",
      "long": "Varianta nu este cea corectă.",
      "warn": ""
     },
     {
-     "text": "în 2 şi 3",
+     "text": "în 2 și 3",
      "correct": false,
      "short": "",
      "long": "Varianta nu este cea corectă.",

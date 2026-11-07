@@ -189,7 +189,7 @@
    "long": "Masa totală (pilot, echipament, combustibil) se compară cu masa maximă din manualul aeronavei, pentru a nu o depăși.",
    "answers": [
     {
-     "text": "da, pentru a fi comparată cu masa maximă specificată în manualul de utilizare şi întreţinere",
+     "text": "da, pentru a fi comparată cu masa maximă specificată în manualul de utilizare și întreținere",
      "correct": true,
      "short": "",
      "long": "Corect. Masa totală se compară cu masa maximă din manual.",
@@ -383,7 +383,7 @@
      "warn": ""
     },
     {
-     "text": "Să luam pasageri încât este periculos în caz de amerizare",
+     "text": "Să luăm pasageri încât este periculos în caz de amerizare",
      "correct": false,
      "short": "",
      "long": "Luarea pasagerilor nu este cea mai mare problemă, dar nu este răspunsul.",
@@ -1068,14 +1068,14 @@
      "warn": ""
     },
     {
-     "text": "pe suprafeţe cu pietriş",
+     "text": "pe suprafețe cu pietriș",
      "correct": false,
      "short": "",
      "long": "Suprafața cu pietriș poate arunca obiecte în elice.",
      "warn": ""
     },
     {
-     "text": "pe orice suprafaţă",
+     "text": "pe orice suprafață",
      "correct": false,
      "short": "",
      "long": "Pornirea pe orice suprafață nu este sigură. Se alege suprafața potrivită.",
@@ -1087,7 +1087,7 @@
    "number": "#31",
    "text": "486: Care este înălțimea maximă până la care puteți zbura la verticala unui aerodrom situat la cota de 1300 m și în spațiu aerian de clasa G?",
    "short": "Dacă zbori la verticala unui aerodrom situat la 1300 m, în spațiu de clasa G, varianta corectă indică înălțimea maximă de 1900 m.",
-   "long": "În clasa G, limitele de înălțime VFR nu sunt date ca suma dintre cota aerodromului și 600 m. Cifra de 600 m este altitudinea minimă IFR deasupra terenurilor înalte (RACR-RA, niveluri minime), nu o limită VFR în clasa G.",
+   "long": "În clasa G, limitele de înălțime VFR nu sunt date ca suma dintre cota aerodromului și 600 m. Cifra de 600 m este aaltitudinea minimă IFR deasupra terenurilor înalte (RACR-RA, niveluri minime), nu o limită VFR în clasa G.",
    "answers": [
     {
      "text": "150m",
@@ -1108,7 +1108,7 @@
      "correct": true,
      "short": "",
      "long": "1900 m reprezintă 1300 m (cota aerodromului) plus 600 m. Această sumă nu are temei în regulamentele din manual pentru zborul VFR în clasa G.",
-     "warn": "Cifra de 600 m este altitudinea minimă IFR deasupra terenurilor înalte (RACR-RA, niveluri minime), nu o limită VFR în clasa G. Pentru zborul VFR în clasa G, regula este minimele de vizibilitate și distanța față de nori din Tabelul 3-1."
+     "warn": "Cifra de 600 m este aaltitudinea minimă IFR deasupra terenurilor înalte (RACR-RA, niveluri minime), nu o limită VFR în clasa G. Pentru zborul VFR în clasa G, regula este minimele de vizibilitate și distanța față de nori din Tabelul 3-1."
     },
     {
      "text": "1500m",
@@ -1212,14 +1212,14 @@
      "warn": ""
     },
     {
-     "text": "se face cu o chingă spate şi comanda opusă",
+     "text": "se face cu o chingă spate și comanda opusă",
      "correct": false,
      "short": "",
      "long": "Chingile nu se folosesc cu comanda opusă în această procedură.",
      "warn": ""
     },
     {
-     "text": "trebuie să se facă prin tragerea lor cu câţiva cm",
+     "text": "trebuie să se facă prin tragerea lor cu câțiva cm",
      "correct": false,
      "short": "",
      "long": "Chingile nu se trag cu câțiva centimetri ca procedură generală.",
@@ -1229,12 +1229,12 @@
   },
   {
    "number": "#35",
-   "text": "500: În zbor, o aeronoavă ajunge în dreapta dv. pe o rută convergentă:",
+   "text": "500: În zbor, o aeronavă ajunge în dreapta dv. pe o rută convergentă:",
    "short": "Dacă o aeronavă vine în dreapta ta pe o rută convergentă, tu trebuie să cedezi prioritatea.",
    "long": "Pe o rută convergentă, aeronava care are cealaltă aeronavă în dreapta sa trebuie să cedeze prioritatea (RACR-RA, pct. 2.3).",
    "answers": [
     {
-     "text": "dvs. aveţi prioritate",
+     "text": "dvs. aveți prioritate",
      "correct": false,
      "short": "",
      "long": "Pilotul nu are prioritate când cealaltă aeronavă este în dreapta sa.",
@@ -1248,14 +1248,14 @@
      "warn": ""
     },
     {
-     "text": "dvs. trebuie să cedaţi prioritatea",
+     "text": "dvs. trebuie să cedați prioritatea",
      "correct": true,
      "short": "",
      "long": "Corect. Pilotul cedează prioritatea celei din dreapta (RACR-RA, pct. 2.3).",
      "warn": ""
     },
     {
-     "text": "paramotorul, fiind cea mai inceată aeronava, are intotdeauna prioritate",
+     "text": "paramotorul, fiind cea mai inceată aeronava, are întotdeauna prioritate",
      "correct": false,
      "short": "",
      "long": "Paramotorul nu are întotdeauna prioritate, chiar dacă zboară lent.",
@@ -1270,7 +1270,7 @@
    "long": "După rularea la relanti, motorul se accelerează scurt la o putere moderată, pentru a curăța bujiile și a evita depunerile.",
    "answers": [
     {
-     "text": "Să-l lași să ruleze la ralanti până la decolare",
+     "text": "Să-l lași să ruleze la relanti până la decolare",
      "correct": false,
      "short": "",
      "long": "Rularea prelungită la relanti depune reziduuri și nu curăță motorul.",
@@ -1409,7 +1409,7 @@
   },
   {
    "number": "#40",
-   "text": "491: Cum se compensează ruperea comenzii direcţiei?",
+   "text": "491: Cum se compensează ruperea comenzii direcției?",
    "short": "Ruperea comenzii direcției se compensează cu ajutorul ultimului rând de suspante, D.",
    "long": "Ruperea comenzii de direcție se compensează cu ultimul rând de suspante (D), care controlează aripa pe partea respectivă.",
    "answers": [
@@ -1428,7 +1428,7 @@
      "warn": ""
     },
     {
-     "text": "se acţionează obligatoriu paraşuta de rezervă",
+     "text": "se acționează obligatoriu parașuta de rezervă",
      "correct": false,
      "short": "",
      "long": "Parașuta de rezervă nu este obligatorie pentru compensarea ruperii comenzii.",
@@ -1517,12 +1517,12 @@
   },
   {
    "number": "#43",
-   "text": "476: În cazul înrăutăţirii condiţiilor meteorologice pe traiect (ceaţă, ploaie, vânt, etc.):",
+   "text": "476: În cazul înrăutățirii condițiilor meteorologice pe traiect (ceață, ploaie, vânt, etc.):",
    "short": "Dacă meteo se înrăutățește pe traiect, ocolești zona periculoasă, te îndrepți spre zone mai sigure și aterizezi pe aerodromul cel mai apropiat.",
    "long": "La înrăutățirea meteo pe traseu, se ocolește zona periculoasă și se merge spre zone mai sigure, ca să se evite pericolul.",
    "answers": [
     {
-     "text": "se ocoleşte, se evită zona periculoasă şi se îndreaptă către zone mai sigure şi se aterizează pe aerodromul cel mai apropiat",
+     "text": "se ocolește, se evită zona periculoasă și se îndreaptă către zone mai sigure și se aterizează pe aerodromul cel mai apropiat",
      "correct": true,
      "short": "",
      "long": "Corect. Se ocolește zona periculoasă și se merge spre zone mai sigure.",
@@ -1589,7 +1589,7 @@
   },
   {
    "number": "#45",
-   "text": "485: În zbor, va trebui să evitaţi o aeronavă, dvs. efectuaţi:",
+   "text": "485: În zbor, va trebui să evitați o aeronavă, dvs. efectuați:",
    "short": "Dacă trebuie să eviți o aeronavă, efectuezi un viraj la dreapta.",
    "long": "Pentru a evita o aeronavă se virează la dreapta, conform regulii de trecere (RACR-RA).",
    "answers": [
@@ -1625,7 +1625,7 @@
   },
   {
    "number": "#46",
-   "text": "465: Cum se execută atingerea apei în situaţia unei amerizări?",
+   "text": "465: Cum se execută atingerea apei în situația unei amerizări?",
    "short": "La amerizare, aterizezi cu chingile desfăcute și cu viteza cât mai mică.",
    "long": "La amerizare se atinge apa cu viteza cât mai mică și cu chingile desfăcute, pentru a ieși ușor din echipament.",
    "answers": [
@@ -1661,7 +1661,7 @@
   },
   {
    "number": "#47",
-   "text": "469: În cazul în care producatorul parapantei cu motor recomandă o anumită procedură de pornire a aparatului, dar noi avem de efectuat mai multe porniri consecutive în cadrul unor reglaje și nu putem respecta procedura, putem să:",
+   "text": "469: În cazul în care producătorul parapantei cu motor recomandă o anumită procedură de pornire a aparatului, dar noi avem de efectuat mai multe porniri consecutive în cadrul unor reglaje și nu putem respecta procedura, putem să:",
    "short": "Dacă producătorul recomandă o procedură de pornire, nu poți efectua proceduri care nu sunt în manualul de operare al aeronavei.",
    "long": "Procedurile de operare sunt cele din manualul aeronavei. Nu se efectuează proceduri care nu sunt în manual.",
    "answers": [
@@ -1673,7 +1673,7 @@
      "warn": ""
     },
     {
-     "text": "este interzis să efectuăm proceduri care nu sunt în manulul de operare al aeronavei",
+     "text": "este interzis să efectuăm proceduri care nu sunt în manualul de operare al aeronavei",
      "correct": true,
      "short": "",
      "long": "Corect. Sunt interzise procedurile care nu sunt în manual.",
@@ -1687,7 +1687,7 @@
      "warn": ""
     },
     {
-     "text": "ne abatem de la recomandarile producătorului dacă experiența de permite",
+     "text": "ne abatem de la recomandările producătorului dacă experiența de permite",
      "correct": false,
      "short": "",
      "long": "Experiența personală nu justifică abaterea de la recomandările producătorului.",
@@ -1805,9 +1805,9 @@
   },
   {
    "number": "#51",
-   "text": "474: Doriţi sa zburaţi VFR în spaţiul aerian de clasă G, din punctul A în punctul B la şes. Vizibilitatea este peste 8 km, plafon la 400 m. Cum procedaţi?",
+   "text": "474: Doriți sa zburați VFR în spațiul aerian de clasă G, din punctul A în punctul B la șes. Vizibilitatea este peste 8 km, plafon la 400 m. Cum procedați?",
    "short": "Dacă vizibilitatea este peste 8 km, dar plafonul este la 400 m, în spațiul G nu zbori.",
-   "long": "Cu plafonul la 400 m, distanța verticală de 300 m față de nori (RACR-RA, Tabelul 3-1) impune cel mult 100 m altitudine. Altitudinea minimă de zbor VFR este 150 m deasupra solului (RACR-RA 4.060), deci zborul nu se poate face.",
+   "long": "Cu plafonul la 400 m, distanța verticală de 300 m față de nori (RACR-RA, Tabelul 3-1) impune cel mult 100 m altitudine. Aaltitudinea minimă de zbor VFR este 150 m deasupra solului (RACR-RA 4.060), deci zborul nu se poate face.",
    "answers": [
     {
      "text": "informați ATC despre condițiile de vizibilitate și cereți aprobare pentru a decola",
@@ -1817,21 +1817,21 @@
      "warn": ""
     },
     {
-     "text": "zburaţi la o înălţime minimă de 150 m",
+     "text": "zburați la o înălțime minimă de 150 m",
      "correct": false,
      "short": "",
      "long": "Zborul la 150 m nu rezolvă problema, deoarece distanța verticală față de nori cere sub 100 m.",
      "warn": ""
     },
     {
-     "text": "zburaţi la o înălţime maximă de 250 m",
+     "text": "zburați la o înălțime maximă de 250 m",
      "correct": false,
      "short": "",
      "long": "Zborul la 250 m este peste plafonul de 400 m minus 300 m, deci nu este permis.",
      "warn": ""
     },
     {
-     "text": "nu zburaţi",
+     "text": "nu zburați",
      "correct": true,
      "short": "",
      "long": "Corect. Zborul nu se face în aceste condiții.",
@@ -1913,7 +1913,7 @@
   },
   {
    "number": "#54",
-   "text": "477: Prevenirea apariţiei unei pene de motor:",
+   "text": "477: Prevenirea apariției unei pene de motor:",
    "short": "Prevenirea penei de motor se face prin întreținerea regulată a aeronavei și prin pregătirea și verificarea sistematică a acesteia.",
    "long": "Pana de motor se previne prin întreținerea regulată, prin pregătirea și verificarea sistematică a aeronavei.",
    "answers": [
@@ -1925,7 +1925,7 @@
      "warn": ""
     },
     {
-     "text": "se realizează prin întreţinerea regulată a aeronavei şi prin pregătirea şi verificarea sistematică a acesteia",
+     "text": "se realizează prin întreținerea regulată a aeronavei și prin pregătirea și verificarea sistematică a acesteia",
      "correct": true,
      "short": "",
      "long": "Corect. Întreținerea regulată și verificarea sistematică previn pana de motor.",
@@ -2105,10 +2105,10 @@
      "warn": ""
     },
     {
-     "text": "Mărești altitudinea pentru a evita turbulențele",
+     "text": "Mărești aaltitudinea pentru a evita turbulențele",
      "correct": false,
      "short": "",
-     "long": "Altitudinea nu rezolvă singură problema vântului.",
+     "long": "Aaltitudinea nu rezolvă singură problema vântului.",
      "warn": ""
     },
     {
@@ -2273,7 +2273,7 @@
   },
   {
    "number": "#64",
-   "text": "499: În zbor, va trebui să evitaţi o aeronavă, dvs. efectuaţi:",
+   "text": "499: În zbor, va trebui să evitați o aeronavă, dvs. efectuați:",
    "short": "Dacă trebuie să eviți o aeronavă, efectuezi un viraj la dreapta.",
    "long": "Pentru a evita o aeronavă se virează la dreapta, conform regulii de trecere.",
    "answers": [
@@ -2309,7 +2309,7 @@
   },
   {
    "number": "#65",
-   "text": "574: Care este principalul avantaj al planificării zborului în direcția vântului la începutul unui zbor cross country?",
+   "text": "574: Care este principalul avântaj al planificării zborului în direcția vântului la începutul unui zbor cross country?",
    "short": "Planificarea zborului în direcția vântului la început permite o întoarcere rapidă dacă decizi să te întorci devreme, iar combustibilul se planifică mai ușor.",
    "long": "Zborul în direcția vântului la început permite o întoarcere rapidă, cu vânt de spate, dacă pilotul decide să se întoarcă devreme.",
    "answers": [
@@ -2317,7 +2317,7 @@
      "text": "Permite o viteză mai mare de urcare",
      "correct": false,
      "short": "",
-     "long": "Viteza de urcare nu este avantajul principal al planificării.",
+     "long": "Viteza de urcare nu este avântajul principal al planificării.",
      "warn": ""
     },
     {
@@ -2525,19 +2525,19 @@
   },
   {
    "number": "#71",
-   "text": "495: Dacă motoparapanta este echipată cu paraşută de rezervă este indicată oprirea motorului după deschiderea acesteia?",
+   "text": "495: Dacă motoparapanta este echipată cu parașută de rezervă este indicată oprirea motorului după deschiderea acesteia?",
    "short": "Dacă motoparapanta este echipată cu parașută de rezervă și ai deschis-o, oprirea motorului este obligatorie.",
    "long": "După deschiderea parașutei de rezervă, motorul trebuie oprit, deoarece elicea și motorul pot lovi suspantele sau aripa de rezervă și pot crea un pericol.",
    "answers": [
     {
-     "text": "motorul se opreşte dar poate fi pornit pentru a frâna la aterizare",
+     "text": "motorul se oprește dar poate fi pornit pentru a frâna la aterizare",
      "correct": false,
      "short": "",
      "long": "Motorul nu se repornește pentru frânare. Se oprește.",
      "warn": ""
     },
     {
-     "text": "oprirea motorului este obligatorie în astfel de situaţii",
+     "text": "oprirea motorului este obligatorie în astfel de situații",
      "correct": true,
      "short": "",
      "long": "Corect. Oprirea motorului este obligatorie.",
@@ -2551,7 +2551,7 @@
      "warn": ""
     },
     {
-     "text": "motorul trebuie sa funcţioneze pentru a ateriza în zona dorită",
+     "text": "motorul trebuie sa funcționeze pentru a ateriza în zona dorită",
      "correct": false,
      "short": "",
      "long": "Motorul nu trebuie să funcționeze după deschiderea rezervei.",
@@ -2815,7 +2815,7 @@
    "number": "#79",
    "text": "475: Deasupra unui teren obstacolat:",
    "short": "Dacă nu poți evita zona obstacolată, crești înălțimea de zbor pentru a te asigura în caz de pană de motor.",
-   "long": "Dacă zona nu poate fi ocolită, pilotul crește altitudinea, ca să aibă marjă față de obstacole și opțiuni de planare.",
+   "long": "Dacă zona nu poate fi ocolită, pilotul crește aaltitudinea, ca să aibă marjă față de obstacole și opțiuni de planare.",
    "answers": [
     {
      "text": "nu sunt necesare alte măsuri deoarece aveți suficient combustibil pentru a traversa zona",
@@ -2825,24 +2825,24 @@
      "warn": ""
     },
     {
-     "text": "reduceţi înălţimea de zbor pentru a vedea mai detaliat eventualele terenuri de aterizare",
+     "text": "reduceți înălțimea de zbor pentru a vedea mai detaliat eventualele terenuri de aterizare",
      "correct": false,
      "short": "",
      "long": "Reducerea înălțimii pentru a vedea mai detaliat este periculoasă deasupra obstacolelor.",
      "warn": ""
     },
     {
-     "text": "nu sunt necesare alte măsuri deoarece motorul are aprindere dublă şi aveţi paraşută",
+     "text": "nu sunt necesare alte măsuri deoarece motorul are aprindere dublă și aveți parașută",
      "correct": false,
      "short": "",
      "long": "Aprinderea dublă nu justifică lipsa altor măsuri.",
      "warn": ""
     },
     {
-     "text": "dacă nu puteţi evita zona creşteţi înălţimea de zbor pentru a vă asigura în caz de pană de motor",
+     "text": "dacă nu puteți evita zona creșteți înălțimea de zbor pentru a vă asigura în caz de pană de motor",
      "correct": true,
      "short": "",
-     "long": "Corect. Se crește altitudinea pentru marjă față de obstacole.",
+     "long": "Corect. Se crește aaltitudinea pentru marjă față de obstacole.",
      "warn": ""
     }
    ]
@@ -2923,11 +2923,11 @@
   {
    "number": "#82",
    "text": "579: Ce trebuie să faci dacă observi trafic aerian în apropierea ta?",
-   "short": "Dacă observi trafic aerian în apropiere, menții traiectoria și altitudinea actuală, pregătindu-te să iei măsuri de evitare dacă este necesar.",
-   "long": "Când observi trafic aerian în apropiere, menții traiectoria și altitudinea previzibile pentru ceilalți și te pregătești să acționezi dacă este nevoie de evitare.",
+   "short": "Dacă observi trafic aerian în apropiere, menții traiectoria și aaltitudinea actuală, pregătindu-te să iei măsuri de evitare dacă este necesar.",
+   "long": "Când observi trafic aerian în apropiere, menții traiectoria și aaltitudinea previzibile pentru ceilalți și te pregătești să acționezi dacă este nevoie de evitare.",
    "answers": [
     {
-     "text": "Schimbi imediat direcția și altitudinea",
+     "text": "Schimbi imediat direcția și aaltitudinea",
      "correct": false,
      "short": "",
      "long": "Schimbarea bruscă a direcției și a altitudinii poate duce la coliziune cu alți piloți care nu se așteaptă.",
@@ -2948,10 +2948,10 @@
      "warn": ""
     },
     {
-     "text": "Menții traiectoria și altitudinea actuală, pregătindu-te să iei măsuri de evitare dacă este necesar",
+     "text": "Menții traiectoria și aaltitudinea actuală, pregătindu-te să iei măsuri de evitare dacă este necesar",
      "correct": true,
      "short": "",
-     "long": "Corect. Traiectoria și altitudinea previzibile, cu pregătirea pentru evitare.",
+     "long": "Corect. Traiectoria și aaltitudinea previzibile, cu pregătirea pentru evitare.",
      "warn": ""
     }
    ]
@@ -3174,7 +3174,7 @@
   },
   {
    "number": "#89",
-   "text": "501: Zburaţi pe o ruta în acelaşi timp cu o aeronavă mai lentă; efectuaţi separarea prin:",
+   "text": "501: Zburați pe o ruta în același timp cu o aeronavă mai lentă; efectuați separarea prin:",
    "short": "Când zbori pe o rută în același timp cu o aeronavă mai lentă, faci separarea trecând pe dreapta.",
    "long": "Când zbori pe aceeași rută cu o aeronavă mai lentă, separarea se face pe dreapta (regula de trecere).",
    "answers": [
@@ -3210,12 +3210,12 @@
   },
   {
    "number": "#90",
-   "text": "494: Înainte de a porni motorul pilotul atenţionează prin folosirea expresiei:",
+   "text": "494: Înainte de a porni motorul pilotul atenționează prin folosirea expresiei:",
    "short": "Înainte de a porni motorul, pilotul atenționează prin expresia „liber la elice?”.",
    "long": "Înainte de pornire, pilotul întreabă dacă zona elicei este liberă de persoane și obiecte: „Liber la elice?”.",
    "answers": [
     {
-     "text": "atenţie pornesc",
+     "text": "atenție pornesc",
      "correct": false,
      "short": "",
      "long": "„Atenție, pornesc” nu este întrebarea de siguranță. Se cere confirmarea că zona este liberă.",
@@ -3330,7 +3330,7 @@
      "warn": ""
     },
     {
-     "text": "din faţă",
+     "text": "din față",
      "correct": false,
      "short": "",
      "long": "Partea din față este bordul de atac.",
@@ -3390,12 +3390,12 @@
   },
   {
    "number": "#95",
-   "text": "496: Cum procedaţi când va întâlniţi, în zbor, cu o aeronava care vine din faţă sau aproximativ din faţă ?",
+   "text": "496: Cum procedați când va întâlniți, în zbor, cu o aeronava care vine din față sau aproximativ din față ?",
    "short": "Dacă vine o aeronavă din față sau aproximativ din față, virezi la dreapta, la orizontală.",
    "long": "Când întâlnești o aeronavă din față, cele două aeronave se evită prin virajul la dreapta, în orizontală, conform regulii de trecere.",
    "answers": [
     {
-     "text": "viraţi la stânga în urcare",
+     "text": "virați la stânga în urcare",
      "correct": false,
      "short": "",
      "long": "Virajul la stânga în urcare nu este regula de evitare.",
@@ -3409,14 +3409,14 @@
      "warn": ""
     },
     {
-     "text": "urcaţi la înălţime superioară acesteia cu 150 m",
+     "text": "urcați la înălțime superioară acesteia cu 150 m",
      "correct": false,
      "short": "",
      "long": "Urcarea cu 150 m nu este regula de evitare.",
      "warn": ""
     },
     {
-     "text": "viraţi dreapta la orizontală",
+     "text": "virați dreapta la orizontală",
      "correct": true,
      "short": "",
      "long": "Corect. Virajul la dreapta, în orizontală.",
@@ -3786,7 +3786,7 @@
   },
   {
    "number": "#106",
-   "text": "483: Startul B, adica gonflajul făcut cu fața la aripă, se recomandă:",
+   "text": "483: Startul B, adică gonflajul făcut cu fața la aripă, se recomandă:",
    "short": "Startul B, adică gonflajul cu fața la aripă, se recomandă când viteza vântului este de aproximativ 10 km/h.",
    "long": "Startul B se folosește când vântul este suficient pentru a umfla aripa, dar nu permite startul A. Pentru vânt zero sau pentru începători, procedura este diferită. Varianta corectă indică 10 km/h.",
    "answers": [
@@ -3805,10 +3805,10 @@
      "warn": ""
     },
     {
-     "text": "nu este relevant pentru începători",
+     "text": "nu este relevânt pentru începători",
      "correct": false,
      "short": "",
-     "long": "Este relevant în anumite condiții.",
+     "long": "Este relevânt în anumite condiții.",
      "warn": ""
     },
     {
@@ -3822,7 +3822,7 @@
   },
   {
    "number": "#107",
-   "text": "570: Ce tipuri de parașute de salvare sunt disponibile și care sunt avantajele lor?",
+   "text": "570: Ce tipuri de parașute de salvare sunt disponibile și care sunt avântajele lor?",
    "short": "Parașutele de salvare sunt dirijabile (Rogallo) și rotunde; cele dirijabile oferă o rată de coborâre îmbunătățită și posibilitatea de a evita obstacolele.",
    "long": "Parașutele de salvare pot fi dirijabile (de tip Rogallo, cu control al direcției și o coborâre mai bună) sau rotunde (mai simple, fără control).",
    "answers": [
@@ -3968,7 +3968,7 @@
    "number": "#111",
    "text": "542: Ce trebuie să faci în cazul unui parachutal stall?",
    "short": "În cazul unui parachutal stall reduci complet puterea și frânele și te pregătești să atenuezi balansul.",
-   "long": "Stallul provocat de paraşuta de frânare (parachutal stall) se recuperează reducând presiunea pe frâne și puterea, apoi pregătindu-te pentru balans. Mărirea vitezei, tragerea bruscă de frâne și folosirea rezervei nu sunt corecte.",
+   "long": "Stallul provocat de parașuta de frânare (parachutal stall) se recuperează reducând presiunea pe frâne și puterea, apoi pregătindu-te pentru balans. Mărirea vitezei, tragerea bruscă de frâne și folosirea rezervei nu sunt corecte.",
    "answers": [
     {
      "text": "Reduci complet puterea și frânele și te pregătești să atenuezi balansul",
@@ -4201,7 +4201,7 @@
      "warn": ""
     },
     {
-     "text": "Mărește altitudinea și pregătește-te pentru aterizare",
+     "text": "Mărește aaltitudinea și pregătește-te pentru aterizare",
      "correct": false,
      "short": "",
      "long": "Nu este procedura.",

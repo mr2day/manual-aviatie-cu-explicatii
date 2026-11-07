@@ -184,12 +184,12 @@
   },
   {
    "number": "#6",
-   "text": "804: Întreţinerea ULM ului se face:",
+   "text": "804: Întreținerea ULM ului se face:",
    "short": "Varianta A este un text incomplet; răspunsul logic este că întreținerea se face înainte de fiecare zbor.",
    "long": "Întrebarea are o eroare: varianta A repetă enunțul, fără să indice o opțiune. Răspunsul rezonabil, conform practicii de întreținere, este că verificarea se face înainte de fiecare zbor. Reține principiul, nu formularea.",
    "answers": [
     {
-     "text": "Întreţinerea ULM ului se face:",
+     "text": "Întreținerea ULM ului se face:",
      "correct": true,
      "short": "",
      "long": "Textul este incomplet și nu poate fi evaluat; reține principiul din răspunsul logic.",
@@ -203,7 +203,7 @@
      "warn": ""
     },
     {
-     "text": "doar după apariţia unei probleme",
+     "text": "doar după apariția unei probleme",
      "correct": false,
      "short": "",
      "long": "Întreținerea preventivă nu se face doar după probleme.",
@@ -256,33 +256,33 @@
   },
   {
    "number": "#8",
-   "text": "813: Ocolirea aerodromurilor în zbor VFR se execută obligatoriu la distanţe de cel puţin:",
+   "text": "813: Ocolirea aerodromurilor în zbor VFR se execută obligatoriu la distanțe de cel puțin:",
    "short": "Ocolirea aerodromurilor în zbor VFR se face la cel puțin 10 km în sectoarele de decolare și aterizare.",
    "long": "Zborul VFR trebuie să evite zonele de trafic aerodromului, în special sectoarele de decolare și aterizare, pentru a nu intra în conflict cu aeronavele care aterizează sau decolează. Varianta corectă indică 10 km în aceste sectoare.",
    "answers": [
     {
-     "text": "10 km în sectoarele de decolare şi aterizare ale zonelor acestora",
+     "text": "10 km în sectoarele de decolare și aterizare ale zonelor acestora",
      "correct": true,
      "short": "",
      "long": "",
      "warn": "Cifra de 10 km nu apare în regulamentele din manual. Regula de bază este evitarea sectoarelor de decolare și aterizare, cu distanță suficientă pentru a nu intra în conflict cu traficul aerodromului."
     },
     {
-     "text": "15 km în sectoarele de decolare şi aterizare ale zonelor acestora",
+     "text": "15 km în sectoarele de decolare și aterizare ale zonelor acestora",
      "correct": false,
      "short": "",
      "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
-     "text": "3 km în sectoarele de decolare şi aterizare ale zonelor acestora",
+     "text": "3 km în sectoarele de decolare și aterizare ale zonelor acestora",
      "correct": false,
      "short": "",
      "long": "Distanța este prea mică pentru varianta corectă.",
      "warn": ""
     },
     {
-     "text": "5 km în sectoarele de decolare şi aterizare ale zonelor acestora",
+     "text": "5 km în sectoarele de decolare și aterizare ale zonelor acestora",
      "correct": false,
      "short": "",
      "long": "Nu este varianta corectă.",
@@ -400,12 +400,12 @@
   },
   {
    "number": "#12",
-   "text": "807: Care este motivul principal pentru care se caută a se decola cu vânt de faţă?",
+   "text": "807: Care este motivul principal pentru care se caută a se decola cu vânt de față?",
    "short": "Decolăm cu vânt de față ca să reducem viteza la sol și distanța de decolare.",
    "long": "Decolarea cu vânt de față înseamnă că aerul ajunge la aripă înainte de a ajunge motoparapanta la sol. Viteza la sol este mai mică, iar distanța de decolare scade.",
    "answers": [
     {
-     "text": "ca să reducem viteza indicată şi astfel să reducem distanţa de decolare",
+     "text": "ca să reducem viteza indicată și astfel să reducem distanța de decolare",
      "correct": false,
      "short": "",
      "long": "Viteza indicată nu se reduce prin vânt de față. Distanța scade pentru că viteza la sol este mai mică.",
@@ -426,7 +426,7 @@
      "warn": ""
     },
     {
-     "text": "ca să reducem viteza la sol şi astfel să reducem distanta de decolare",
+     "text": "ca să reducem viteza la sol și astfel să reducem distanta de decolare",
      "correct": true,
      "short": "",
      "long": "Corect. Vântul de față reduce viteza la sol și deci distanța de decolare.",
@@ -436,7 +436,7 @@
   },
   {
    "number": "#13",
-   "text": "817: Aeronavele care zboară în spaţiul aerian necontrolat sunt obligate să respecte înălţimile minime de siguranţa publicate în:",
+   "text": "817: Aeronavele care zboară în spațiul aerian necontrolat sunt obligate să respecte înălțimile minime de siguranța publicate în:",
    "short": "Înălțimile minime de siguranță în spațiul aerian necontrolat sunt publicate în RACR-RA.",
    "long": "În spațiul necontrolat, înălțimile minime de siguranță sunt cele publicate în RACR-RA, în regulile de zbor VFR (RACR-RA 4.060).",
    "answers": [
@@ -455,7 +455,7 @@
      "warn": ""
     },
     {
-     "text": "Regimul de zbor în spaţial aerian al României",
+     "text": "Regimul de zbor în spațial aerian al României",
      "correct": false,
      "short": "",
      "long": "Regimul de zbor nu este documentul care publică înălțimile minime.",
@@ -581,7 +581,7 @@
   {
    "number": "#17",
    "text": "810: Care este ordinea de prioritate la aterizare:",
-   "short": "Ordinea de prioritate la aterizare este paraşuta, apoi planorul, apoi motoparapanta.",
+   "short": "Ordinea de prioritate la aterizare este parașuta, apoi planorul, apoi motoparapanta.",
    "long": "La aterizare, parașutistul are prioritate, apoi planorul, iar motoparapanta cedează. Ordinea depinde de manevrabilitatea și viteza fiecărei categorii.",
    "answers": [
     {
@@ -592,14 +592,14 @@
      "warn": ""
     },
     {
-     "text": "paraşuta, planor, motoparapanta",
+     "text": "parașuta, planor, motoparapanta",
      "correct": true,
      "short": "",
      "long": "Corect. Parașuta, planorul și motoparapanta în această ordine.",
      "warn": ""
     },
     {
-     "text": "în funcţie de intrarea în turul de pistă",
+     "text": "în funcție de intrarea în turul de pistă",
      "correct": false,
      "short": "",
      "long": "Ordinea nu se stabilește după intrarea în turul de pistă, ci după categorie și manevrabilitate.",
@@ -618,27 +618,27 @@
    "number": "#18",
    "text": "831: Ce măsuri de precauție trebuie luate atunci când zburați în apropierea zonei de munte?",
    "short": "În zona de munte, trebuie să ai o altitudine suficient de mare pentru a evita rotoarele, în caz de vânt puternic.",
-   "long": "În zona de munte, vântul și rotoarele pot fi foarte puternice. Altitudinea suficientă dă timp de reacție și evită zona de rotoare de sub relief.",
+   "long": "În zona de munte, vântul și rotoarele pot fi foarte puternice. Aaltitudinea suficientă dă timp de reacție și evită zona de rotoare de sub relief.",
    "answers": [
     {
      "text": "să coordonați zborul cu alte aeronave pentru a evita coliziuni",
      "correct": false,
      "short": "",
-     "long": "Coordonarea cu alte aeronave este utilă, dar în zona de munte precauția principală este altitudinea și rotoarele.",
+     "long": "Coordonarea cu alte aeronave este utilă, dar în zona de munte precauția principală este aaltitudinea și rotoarele.",
      "warn": ""
     },
     {
      "text": "să analizați detaliat harta topografică pentru a identifica zonele de risc",
      "correct": false,
      "short": "",
-     "long": "Harta topografică este utilă pentru planificare, dar măsura de precauție de zbor este altitudinea suficientă.",
+     "long": "Harta topografică este utilă pentru planificare, dar măsura de precauție de zbor este aaltitudinea suficientă.",
      "warn": ""
     },
     {
      "text": "să aveți o altitudine suficient de mare pentru a evita rotoarele în caz de vânt puternic",
      "correct": true,
      "short": "",
-     "long": "Corect. Altitudinea suficientă evită rotoarele și dă timp de reacție.",
+     "long": "Corect. Aaltitudinea suficientă evită rotoarele și dă timp de reacție.",
      "warn": ""
     },
     {
@@ -880,21 +880,21 @@
      "warn": ""
     },
     {
-     "text": "răsăritul soarelui până la apus orele fiind luate din AIP după ora Bucureşti",
+     "text": "răsăritul soarelui până la apus orele fiind luate din AIP după ora București",
      "correct": false,
      "short": "",
      "long": "Ora Bucureștiului nu este referința. Se folosește ora aerodromului unde se desfășoară zborul.",
      "warn": ""
     },
     {
-     "text": "30 min după răsărit până la 30 min înainte de apus după ora Bucureşti",
+     "text": "30 min după răsărit până la 30 min înainte de apus după ora București",
      "correct": false,
      "short": "",
      "long": "Perioada de 30 de minute înainte și după nu este regula. Regula este răsăritul și apusul din AIP.",
      "warn": ""
     },
     {
-     "text": "răsăritul soarelui până la apus luate din AIP după ora aerodromului unde vă desfăşuraţi activitatea de zbor",
+     "text": "răsăritul soarelui până la apus luate din AIP după ora aerodromului unde vă desfășurați activitatea de zbor",
      "correct": true,
      "short": "",
      "long": "Corect. Răsăritul și apusul din AIP, cu ora locală a aerodromului.",
@@ -1156,7 +1156,7 @@
   },
   {
    "number": "#33",
-   "text": "871: Cum poate influența altitudinea densitatea aerului și, implicit, performanțele de zbor?",
+   "text": "871: Cum poate influența aaltitudinea densitatea aerului și, implicit, performanțele de zbor?",
    "short": "La altitudini mai mari, densitatea aerului scade, ceea ce poate reduce portanța.",
    "long": "La altitudine mare, densitatea aerului scade, deci aripa are mai puțină portanță pentru aceeași viteză, iar motorul are mai puțină putere.",
    "answers": [
@@ -1164,7 +1164,7 @@
      "text": "densitatea aerului rămâne constantă indiferent de altitudine",
      "correct": false,
      "short": "",
-     "long": "Densitatea scade cu altitudinea, deci este constantă este greșit.",
+     "long": "Densitatea scade cu aaltitudinea, deci este constantă este greșit.",
      "warn": ""
     },
     {
@@ -1175,24 +1175,24 @@
      "warn": ""
     },
     {
-     "text": "altitudinea nu influențează densitatea aerului",
+     "text": "aaltitudinea nu influențează densitatea aerului",
      "correct": false,
      "short": "",
-     "long": "Altitudinea influențează densitatea, deci afirmația este greșită.",
+     "long": "Aaltitudinea influențează densitatea, deci afirmația este greșită.",
      "warn": ""
     },
     {
      "text": "la altitudini mai mari, densitatea aerului crește, ceea ce poate îmbunătăți portanța",
      "correct": false,
      "short": "",
-     "long": "Densitatea nu crește cu altitudinea. Scade.",
+     "long": "Densitatea nu crește cu aaltitudinea. Scade.",
      "warn": ""
     }
    ]
   },
   {
    "number": "#34",
-   "text": "864: Ce influență are altitudinea asupra capacității de portanță a aripii?",
+   "text": "864: Ce influență are aaltitudinea asupra capacității de portanță a aripii?",
    "short": "Capacitatea de portanță a aripii scade la altitudini mai mari.",
    "long": "Portanța depinde de densitatea aerului. La altitudini mari densitatea scade, deci, pentru aceeași viteză, portanța scade.",
    "answers": [
@@ -1204,10 +1204,10 @@
      "warn": ""
     },
     {
-     "text": "ltitudinea nu influențează capacitatea de portanță",
+     "text": "altitudinea nu influențează capacitatea de portanță",
      "correct": false,
      "short": "",
-     "long": "Altitudinea influențează portanța, deci afirmația este greșită.",
+     "long": "Aaltitudinea influențează portanța, deci afirmația este greșită.",
      "warn": ""
     },
     {
@@ -1221,7 +1221,7 @@
      "text": "capacitatea de portanță crește la altitudini mai mari",
      "correct": false,
      "short": "",
-     "long": "Portanța nu crește cu altitudinea. Scade, pentru aceeași viteză.",
+     "long": "Portanța nu crește cu aaltitudinea. Scade, pentru aceeași viteză.",
      "warn": ""
     }
    ]
@@ -1240,7 +1240,7 @@
      "warn": ""
     },
     {
-     "text": "regulile de zbor care se aplică atunci când condiţiile meteo permit ca zborul să se efectueze la vedere",
+     "text": "regulile de zbor care se aplică atunci când condițiile meteo permit ca zborul să se efectueze la vedere",
      "correct": false,
      "short": "",
      "long": "Condițiile meteo permit zborul VFR, dar VFR nu se definește prin condiția meteo permisă. Se definește ca regula de zbor la vedere.",
@@ -1358,7 +1358,7 @@
      "text": "poate crește viteza de zbor prin fluxuri de aer ascendente",
      "correct": false,
      "short": "",
-     "long": "Curenții ascendenți nu cresc viteza de zbor față de sol în mod util, iar turbulența nu este avantaj.",
+     "long": "Curenții ascendenți nu cresc viteza de zbor față de sol în mod util, iar turbulența nu este avântaj.",
      "warn": ""
     },
     {
@@ -1391,7 +1391,7 @@
      "warn": ""
     },
     {
-     "text": "nu are importanţă",
+     "text": "nu are importanță",
      "correct": false,
      "short": "",
      "long": "Regulile au importanță, iar motoparapanta are reguli VFR.",
@@ -1452,14 +1452,14 @@
      "text": "rămâne neschimbată",
      "correct": false,
      "short": "",
-     "long": "Viteza de stall reală crește cu altitudinea, deci nu rămâne neschimbată.",
+     "long": "Viteza de stall reală crește cu aaltitudinea, deci nu rămâne neschimbată.",
      "warn": ""
     },
     {
      "text": "crește",
      "correct": true,
      "short": "",
-     "long": "Corect. Viteza reală de stall crește cu altitudinea.",
+     "long": "Corect. Viteza reală de stall crește cu aaltitudinea.",
      "warn": ""
     },
     {
@@ -1473,7 +1473,7 @@
      "text": "scădea",
      "correct": false,
      "short": "",
-     "long": "Viteza reală de stall nu scade cu altitudinea.",
+     "long": "Viteza reală de stall nu scade cu aaltitudinea.",
      "warn": ""
     }
    ]
@@ -1528,14 +1528,14 @@
      "warn": ""
     },
     {
-     "text": "viteza faţă de sol",
+     "text": "viteza față de sol",
      "correct": false,
      "short": "",
      "long": "Viteza față de sol este indicată de GPS, nu de variometru.",
      "warn": ""
     },
     {
-     "text": "variaţiile de viteza ale vântului",
+     "text": "variațiile de viteza ale vântului",
      "correct": false,
      "short": "",
      "long": "Variațiile vântului nu sunt măsurate de variometru.",
@@ -1554,7 +1554,7 @@
    "number": "#44",
    "text": "794: Odată cu creșterea altitudinii performanța motorului va:",
    "short": "Odată cu creșterea altitudinii, performanța motorului scade.",
-   "long": "Odată cu altitudinea, aerul devine mai rarefiat. Motorul primește mai puțin aer, deci puterea scade.",
+   "long": "Odată cu aaltitudinea, aerul devine mai rarefiat. Motorul primește mai puțin aer, deci puterea scade.",
    "answers": [
     {
      "text": "niciun răspuns nu este valabil",
@@ -1567,7 +1567,7 @@
      "text": "scădea",
      "correct": true,
      "short": "",
-     "long": "Corect. Puterea motorului scade cu altitudinea.",
+     "long": "Corect. Puterea motorului scade cu aaltitudinea.",
      "warn": ""
     },
     {
@@ -1581,7 +1581,7 @@
      "text": "crește",
      "correct": false,
      "short": "",
-     "long": "Puterea nu crește cu altitudinea. Scade.",
+     "long": "Puterea nu crește cu aaltitudinea. Scade.",
      "warn": ""
     }
    ]
@@ -1696,9 +1696,9 @@
   },
   {
    "number": "#48",
-   "text": "806: Când intraţi într-un viraj mult înclinat ca să menţineţi înălţimea şi viteza trebuie să:",
-   "short": "Când intri într-un viraj mult înclinat, ca să menții altitudinea și viteza, trebuie să crești puterea motorului.",
-   "long": "Într-un viraj înclinat, o parte din portanță se îndreaptă lateral, deci portanța verticală scade. Pentru a menține altitudinea trebuie mai multă putere.",
+   "text": "806: Când intrați într-un viraj mult înclinat ca să mențineți înălțimea și viteza trebuie să:",
+   "short": "Când intri într-un viraj mult înclinat, ca să menții aaltitudinea și viteza, trebuie să crești puterea motorului.",
+   "long": "Într-un viraj înclinat, o parte din portanță se îndreaptă lateral, deci portanța verticală scade. Pentru a menține aaltitudinea trebuie mai multă putere.",
    "answers": [
     {
      "text": "cresteti puterea motorului",
@@ -1722,10 +1722,10 @@
      "warn": ""
     },
     {
-     "text": "nu e nevoie sa măriţi puterea motorului",
+     "text": "nu e nevoie sa măriți puterea motorului",
      "correct": false,
      "short": "",
-     "long": "Puterea trebuie crescută pentru a menține altitudinea în viraj.",
+     "long": "Puterea trebuie crescută pentru a menține aaltitudinea în viraj.",
      "warn": ""
     }
    ]
@@ -1912,12 +1912,12 @@
   },
   {
    "number": "#54",
-   "text": "799: Vă pregătiţi să decolaţi în condiţii de temperatură exterioară foarte ridicată. Puterea dată de motor va fi:",
+   "text": "799: Vă pregătiți să decolați în condiții de temperatură exterioară foarte ridicată. Puterea dată de motor va fi:",
    "short": "Când temperatura exterioară este foarte ridicată, puterea motorului este mai slabă decât de obicei.",
    "long": "La temperatură ridicată aerul este mai puțin dens, deci motorul pierde putere, mai ales la regim mare.",
    "answers": [
     {
-     "text": "la nivelul obişnuit",
+     "text": "la nivelul obișnuit",
      "correct": false,
      "short": "",
      "long": "Puterea nu rămâne la nivelul obișnuit la temperatură ridicată.",
@@ -2154,7 +2154,7 @@
      "warn": ""
     },
     {
-     "text": "creșterea temperaturii ne ajută să decolam mai repede",
+     "text": "creșterea temperaturii ne ajută să decolăm mai repede",
      "correct": false,
      "short": "",
      "long": "Temperatura ridicată nu ajută la decolare. Aerul rarefiat face decolarea mai grea.",
@@ -2164,12 +2164,12 @@
   },
   {
    "number": "#61",
-   "text": "808: Ce efect are un vânt de coadă asupra timpului de urcare la o înălţime dată:",
+   "text": "808: Ce efect are un vânt de coadă asupra timpului de urcare la o înălțime dată:",
    "short": "Un vânt de coadă nu modifică timpul de urcare la o înălțime dată, față de aer.",
    "long": "Vântul de coadă modifică viteza la sol, nu viteza față de aer. Timpul de urcare la o altitudine depinde de viteza de urcare față de aer, deci nu se modifică.",
    "answers": [
     {
-     "text": "timpul de urcare se măreşte",
+     "text": "timpul de urcare se mărește",
      "correct": false,
      "short": "",
      "long": "Timpul de urcare nu crește cu vântul de coadă, deoarece depinde de viteza de urcare față de aer.",
@@ -2183,7 +2183,7 @@
      "warn": ""
     },
     {
-     "text": "timpul de urcare se micşorează",
+     "text": "timpul de urcare se micșorează",
      "correct": false,
      "short": "",
      "long": "Timpul de urcare nu scade cu vântul de coadă, deoarece depinde de viteza de urcare față de aer.",
@@ -2776,8 +2776,8 @@
   },
   {
    "number": "#78",
-   "text": "849: Ce efect are altitudinea asupra consumului de combustibil în timpul zborului?",
-   "short": "Altitudinea crește consumul de combustibil, din cauza aerului mai rarefiat.",
+   "text": "849: Ce efect are aaltitudinea asupra consumului de combustibil în timpul zborului?",
+   "short": "Aaltitudinea crește consumul de combustibil, din cauza aerului mai rarefiat.",
    "long": "La altitudine aerul este mai rarefiat. Motorul cu carburator dozează combustibilul după aer; cu regim setat, consumul pe oră scade, dar puterea scade și ea. Efectul asupra consumului depinde de regim.",
    "answers": [
     {
@@ -2791,7 +2791,7 @@
      "text": "nu influențează consumul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Altitudinea influențează consumul prin dozarea aerului, deci afirmația este greșită.",
+     "long": "Aaltitudinea influențează consumul prin dozarea aerului, deci afirmația este greșită.",
      "warn": ""
     },
     {
@@ -2805,7 +2805,7 @@
      "text": "crește consumul de combustibil din cauza aerului mai rarefiat",
      "correct": true,
      "short": "",
-     "long": "Afirmația că altitudinea crește consumul din cauza aerului rarefiat nu este efectul general. Formularea variantei este discutabilă.",
+     "long": "Afirmația că aaltitudinea crește consumul din cauza aerului rarefiat nu este efectul general. Formularea variantei este discutabilă.",
      "warn": ""
     }
    ]
@@ -2853,21 +2853,21 @@
    "long": "Zborul VFR în zona aerodromului este admis între răsărit și apus, cu orele din AIP raportate la ora locală a aerodromului unde se desfășoară zborul.",
    "answers": [
     {
-     "text": "răsăritul soarelui până la apus orele fiind luate din AIP după ora Bucureşti",
+     "text": "răsăritul soarelui până la apus orele fiind luate din AIP după ora București",
      "correct": false,
      "short": "",
      "long": "Ora Bucureștiului nu este referința. Se folosește ora aerodromului.",
      "warn": ""
     },
     {
-     "text": "răsăritul soarelui până la apus luate din AIP după ora aerodromului unde vă desfăşuraţi activitatea de zbor",
+     "text": "răsăritul soarelui până la apus luate din AIP după ora aerodromului unde vă desfășurați activitatea de zbor",
      "correct": true,
      "short": "",
      "long": "Corect. Răsăritul și apusul din AIP, cu ora aerodromului.",
      "warn": ""
     },
     {
-     "text": "30 min după răsărit până la 30 min înainte de apus după ora Bucureşti",
+     "text": "30 min după răsărit până la 30 min înainte de apus după ora București",
      "correct": false,
      "short": "",
      "long": "Perioada de 30 de minute nu este regula. Se folosesc orele din AIP.",
@@ -2956,19 +2956,19 @@
   },
   {
    "number": "#83",
-   "text": "820: Care este motivul principal pentru care se caută a se decola cu vânt de faţă?",
+   "text": "820: Care este motivul principal pentru care se caută a se decola cu vânt de față?",
    "short": "Vântul de față se folosește la decolare pentru a reduce viteza la sol și distanța de decolare.",
    "long": "Vântul de față face aripa să zboare cu viteză mai mare față de sol la același IAS. Viteza la sol este mai mică, deci decolarea se face pe o distanță mai scurtă.",
    "answers": [
     {
-     "text": "ca să reducem viteza la sol şi astfel să reducem distanta de decolare",
+     "text": "ca să reducem viteza la sol și astfel să reducem distanta de decolare",
      "correct": true,
      "short": "",
      "long": "Corect. Viteza la sol mai mică reduce distanța de decolare.",
      "warn": ""
     },
     {
-     "text": "ca să reducem viteza indicată şi astfel să reducem distanţa de decolare",
+     "text": "ca să reducem viteza indicată și astfel să reducem distanța de decolare",
      "correct": false,
      "short": "",
      "long": "Viteza indicată nu se reduce cu vântul de față. Se reduce viteza la sol.",
@@ -2992,33 +2992,33 @@
   },
   {
    "number": "#84",
-   "text": "819: Care este efectul vântului de faţa asupra unghiului de planare şi asupra distanţei de planare?",
+   "text": "819: Care este efectul vântului de fața asupra unghiului de planare și asupra distanței de planare?",
    "short": "Cu vânt de față, unghiul de planare crește și distanța de planare scade.",
    "long": "Cu vânt de față, viteza față de sol scade, dar viteza față de aer rămâne. Unghiul de planare crește (aterizarea pare mai abruptă), iar distanța de planare scade.",
    "answers": [
     {
-     "text": "unghiul de planare va rămâne la fel şi distanţa de planare la fel",
+     "text": "unghiul de planare va rămâne la fel și distanța de planare la fel",
      "correct": false,
      "short": "",
      "long": "Unghiul și distanța de planare se modifică cu vântul.",
      "warn": ""
     },
     {
-     "text": "unghiul de planare va creşte şi distanţa de planare va creşte",
+     "text": "unghiul de planare va crește și distanța de planare va crește",
      "correct": false,
      "short": "",
      "long": "Distanța de planare nu crește cu vântul de față. Scade.",
      "warn": ""
     },
     {
-     "text": "unghiul de planare va scădea şi distanţa de planare va descreşte",
+     "text": "unghiul de planare va scădea și distanța de planare va descrește",
      "correct": false,
      "short": "",
      "long": "Unghiul de planare nu scade cu vântul de față. Crește.",
      "warn": ""
     },
     {
-     "text": "unghiul de planare va creşte şi distanţa de planare va descreşte",
+     "text": "unghiul de planare va crește și distanța de planare va descrește",
      "correct": true,
      "short": "",
      "long": "Corect. Unghiul crește, distanța scade.",
@@ -3064,7 +3064,7 @@
   },
   {
    "number": "#86",
-   "text": "816: Vântul influenţează distanţa de aterizare astfel:",
+   "text": "816: Vântul influențează distanța de aterizare astfel:",
    "short": "Vântul de față reduce distanța de aterizare.",
    "long": "Vântul de față reduce viteza la sol la aterizare, deci și distanța de rulare și de oprire.",
    "answers": [
@@ -3076,21 +3076,21 @@
      "warn": ""
     },
     {
-     "text": "vântul de faţă măreşte distanţa",
+     "text": "vântul de față mărește distanța",
      "correct": false,
      "short": "",
      "long": "Vântul de față nu mărește distanța, ci o reduce.",
      "warn": ""
     },
     {
-     "text": "vântul de spate reduce distanţa",
+     "text": "vântul de spate reduce distanța",
      "correct": false,
      "short": "",
      "long": "Vântul de spate nu reduce distanța, ci o mărește.",
      "warn": ""
     },
     {
-     "text": "vântul de faţă reduce distanţa",
+     "text": "vântul de față reduce distanța",
      "correct": true,
      "short": "",
      "long": "Corect. Vântul de față reduce distanța de aterizare.",
@@ -3155,7 +3155,7 @@
      "warn": ""
     },
     {
-     "text": "modifică unghiul de incidenţă",
+     "text": "modifică unghiul de incidență",
      "correct": true,
      "short": "",
      "long": "Corect. Speed system-ul modifică unghiul de incidență.",
@@ -3208,33 +3208,33 @@
   },
   {
    "number": "#90",
-   "text": "801: Portanţa este o forţă:",
+   "text": "801: Portanța este o forță:",
    "short": "Portanța este o forță perpendiculară pe direcția de zbor.",
    "long": "Portanța este perpendiculară pe direcția de zbor, în sus. Rezistența este paralelă cu zborul, în sens opus.",
    "answers": [
     {
-     "text": "paralelă cu direcţia de zbor",
+     "text": "paralelă cu direcția de zbor",
      "correct": false,
      "short": "",
      "long": "Forța paralelă cu zborul este rezistența, nu portanța.",
      "warn": ""
     },
     {
-     "text": "de acelaşi sens cu direcţia de zbor",
+     "text": "de același sens cu direcția de zbor",
      "correct": false,
      "short": "",
      "long": "Forța de același sens cu zborul este tracțiunea motorului, nu portanța.",
      "warn": ""
     },
     {
-     "text": "opusa directiei de zbor",
+     "text": "opusa direcției de zbor",
      "correct": false,
      "short": "",
      "long": "Forța opusă zborului este rezistența, nu portanța.",
      "warn": ""
     },
     {
-     "text": "perpendiculară pe direcţia de zbor",
+     "text": "perpendiculară pe direcția de zbor",
      "correct": true,
      "short": "",
      "long": "Corect. Portanța este perpendiculară pe direcția de zbor.",
@@ -3280,7 +3280,7 @@
   },
   {
    "number": "#92",
-   "text": "805: În ce document găsiţi informaţii despre limitările de viteză?",
+   "text": "805: În ce document găsiți informații despre limitările de viteză?",
    "short": "Informații despre limitările de viteză se găsesc în manualul de exploatare și întreținere (documentația tehnică a aeronavei).",
    "long": "Limitările de viteză ale aeronavei sunt în manualul de exploatare și întreținere, parte a documentației tehnice a aeronavei.",
    "answers": [
@@ -3292,7 +3292,7 @@
      "warn": ""
     },
     {
-     "text": "în manualul de exploatare şi întreţinere (documentaţia tehnică a aeronavei)",
+     "text": "în manualul de exploatare și întreținere (documentația tehnică a aeronavei)",
      "correct": true,
      "short": "",
      "long": "Corect. Manualul de exploatare și întreținere conține limitările.",
@@ -3388,7 +3388,7 @@
   },
   {
    "number": "#95",
-   "text": "811: La pierderea legăturii radio într-un spaţiu controlat pilotul va:",
+   "text": "811: La pierderea legăturii radio într-un spațiu controlat pilotul va:",
    "short": "La pierderea legăturii radio într-un spațiu controlat, continui zborul până la cel mai apropiat aerodrom și, după aterizare, informezi telefonic organul de trafic.",
    "long": "La pierderea legăturii radio într-un spațiu controlat, pilotul continuă zborul conform procedurii, merge la cel mai apropiat aerodrom și informează după aterizare.",
    "answers": [
@@ -3400,21 +3400,21 @@
      "warn": ""
     },
     {
-     "text": "aterizează de urgenţă pe cel mai apropiat teren",
+     "text": "aterizează de urgență pe cel mai apropiat teren",
      "correct": false,
      "short": "",
      "long": "Aterizarea de urgență nu este necesară dacă se poate ajunge la un aerodrom.",
      "warn": ""
     },
     {
-     "text": "continua zborul până la cel mai apropiat aerodrom şi după aterizare informează telefonic organul de trafic",
+     "text": "continua zborul până la cel mai apropiat aerodrom și după aterizare informează telefonic organul de trafic",
      "correct": true,
      "short": "",
      "long": "Corect în esență: continuă zborul spre cel mai apropiat aerodrom și informează după aterizare.",
      "warn": ""
     },
     {
-     "text": "se întoarce de urgenţă la aerodromul de plecare",
+     "text": "se întoarce de urgență la aerodromul de plecare",
      "correct": false,
      "short": "",
      "long": "Întoarcerea la plecare nu este procedura standard, dacă se poate ajunge la aerodromul cel mai apropiat.",

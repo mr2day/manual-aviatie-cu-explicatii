@@ -9,14 +9,14 @@
    "long": "Kitul de urgență pentru întreținerea în teren trebuie să permită strângerea șuruburilor, înlocuirea bujiei și repararea unor piese simple. Set de chei, șurubelnițe și cleștele sunt de bază; ochelarii, busola sau bateriile nu sunt scule de reparație.",
    "answers": [
     {
-     "text": "omănuși de protecție și ochelari de protecție",
+     "text": "mănuși de protecție și ochelari de protecție",
      "correct": false,
      "short": "",
      "long": "Mănușile și ochelarii protejează operatorul, dar nu sunt scule pentru întreținerea de urgență.",
      "warn": ""
     },
     {
-     "text": "obusolă și hartă",
+     "text": "busolă și hartă",
      "correct": false,
      "short": "",
      "long": "Busola și harta sunt pentru navigație, nu pentru întreținerea de urgență.",
@@ -30,7 +30,7 @@
      "warn": ""
     },
     {
-     "text": "ochei imbus, șurubelnițe, cheie pentru bujii, cuțit mic, clește mic, set de chei tubulare",
+     "text": "ochi imbus, șurubelnițe, cheie pentru bujii, cuțit mic, clește mic, set de chei tubulare",
      "correct": true,
      "short": "",
      "long": "Corect. Imbusurile, șurubelnițele, cheia pentru bujii și cheile permit reparația de bază în teren.",
@@ -156,7 +156,7 @@
      "text": "un instrument pentru măsurarea altitudinii",
      "correct": false,
      "short": "",
-     "long": "Altimetrul măsoară altitudinea, nu anemometrul.",
+     "long": "Altimetrul măsoară aaltitudinea, nu anemometrul.",
      "warn": ""
     },
     {
@@ -225,7 +225,7 @@
    "long": "Amestecul carburant este aerul cu vapori de benzină care se aprinde în camera de ardere (același sens ca la întrebarea 2).",
    "answers": [
     {
-     "text": "amestecul apa/antigel care se foloseşte la motoarele ce se răcesc cu lichid",
+     "text": "amestecul apa/antigel care se folosește la motoarele ce se răcesc cu lichid",
      "correct": false,
      "short": "",
      "long": "Amestecul apă–antigel este lichidul de răcire, nu carburantul.",
@@ -246,7 +246,7 @@
      "warn": ""
     },
     {
-     "text": "amestecul ulei/benzină care se foloseşte drept carburant la motoarele în doi timpi",
+     "text": "amestecul ulei/benzină care se folosește drept carburant la motoarele în doi timpi",
      "correct": false,
      "short": "",
      "long": "Amestecul ulei–benzină este amestecul de ungere pentru doi timpi, nu carburantul în sensul motorului.",
@@ -441,7 +441,7 @@
    "long": "Motoarele paramotorului se răcesc cu aerul din zbor. Unele modele combină aerul cu lichidul de răcire, deci răcirea poate fi mixtă.",
    "answers": [
     {
-     "text": "forţat cu lichid",
+     "text": "forțat cu lichid",
      "correct": false,
      "short": "",
      "long": "Răcirea forțată cu lichid nu este singura variantă. Există și răcirea cu aer.",
@@ -498,7 +498,7 @@
      "warn": ""
     },
     {
-     "text": "fişa de navigaţie",
+     "text": "fișa de navigație",
      "correct": false,
      "short": "",
      "long": "Fișa de navigație nu este documentul lucrărilor de întreținere.",
@@ -714,7 +714,7 @@
      "warn": ""
     },
     {
-     "text": "clasa de omologare trebuie sa fie conformă cu nivelul de experienţă şi frecvenţa utilizării",
+     "text": "clasa de omologare trebuie sa fie conformă cu nivelul de experiență și frecvența utilizării",
      "correct": true,
      "short": "",
      "long": "Corect. Clasa de omologare trebuie să corespundă experienței și frecvenței zborului.",
@@ -904,7 +904,7 @@
   },
   {
    "number": "#26",
-   "text": "451: Care sunt avantajele unei aripi reflex?",
+   "text": "451: Care sunt avântajele unei aripi reflex?",
    "short": "Aripa reflex are stabilitate mai mare la viteze mari.",
    "long": "Aripa reflex are profil cu marginea de fugă curbată în sus, care îi dă stabilitate mai mare la viteze mari.",
    "answers": [
@@ -926,14 +926,14 @@
      "text": "costuri mai mici de întreținere",
      "correct": false,
      "short": "",
-     "long": "Costurile de întreținere nu sunt avantajul aripii reflex.",
+     "long": "Costurile de întreținere nu sunt avântajul aripii reflex.",
      "warn": ""
     },
     {
      "text": "manevrabilitate crescută în viraje strânse",
      "correct": false,
      "short": "",
-     "long": "Manevrabilitatea în viraje strânse nu este avantajul aripii reflex.",
+     "long": "Manevrabilitatea în viraje strânse nu este avântajul aripii reflex.",
      "warn": ""
     }
    ]
@@ -1120,36 +1120,36 @@
   },
   {
    "number": "#32",
-   "text": "453: Care este principalul dezavantaj al aripilor cu profil reflex?",
-   "short": "Dezavantajul principal al aripilor reflex este stabilitatea redusă la viteze mici.",
-   "long": "Aripile reflex au stabilitate mai mare la viteză mare, dar la viteză mică pot fi mai puțin stabile. Acesta este dezavantajul lor principal.",
+   "text": "453: Care este principalul dezavântaj al aripilor cu profil reflex?",
+   "short": "Dezavântajul principal al aripilor reflex este stabilitatea redusă la viteze mici.",
+   "long": "Aripile reflex au stabilitate mai mare la viteză mare, dar la viteză mică pot fi mai puțin stabile. Acesta este dezavântajul lor principal.",
    "answers": [
     {
      "text": "stabilitatea redusă la viteze mici",
      "correct": true,
      "short": "",
-     "long": "Corect. Stabilitatea redusă la viteze mici este dezavantajul aripii reflex.",
+     "long": "Corect. Stabilitatea redusă la viteze mici este dezavântajul aripii reflex.",
      "warn": ""
     },
     {
      "text": "dificultatea de a menține direcția în condiții de vânt puternic",
      "correct": false,
      "short": "",
-     "long": "Direcția în vânt puternic nu este dezavantajul specific al aripii reflex.",
+     "long": "Direcția în vânt puternic nu este dezavântajul specific al aripii reflex.",
      "warn": ""
     },
     {
      "text": "costul ridicat al întreținerii",
      "correct": false,
      "short": "",
-     "long": "Costul nu este dezavantajul tehnic al aripii reflex.",
+     "long": "Costul nu este dezavântajul tehnic al aripii reflex.",
      "warn": ""
     },
     {
      "text": "consumul mai mare de combustibil la viteze mari",
      "correct": false,
      "short": "",
-     "long": "Consumul de combustibil nu este dezavantajul aripii reflex.",
+     "long": "Consumul de combustibil nu este dezavântajul aripii reflex.",
      "warn": ""
     }
    ]
@@ -1192,8 +1192,8 @@
   },
   {
    "number": "#34",
-   "text": "460: Care este un dezavantaj al paramotoarelor cu motor în patru timpi?",
-   "short": "Un dezavantaj al paramotoarelor cu motor în patru timpi este greutatea mai mare.",
+   "text": "460: Care este un dezavântaj al paramotoarelor cu motor în patru timpi?",
+   "short": "Un dezavântaj al paramotoarelor cu motor în patru timpi este greutatea mai mare.",
    "long": "Motoarele în patru timpi sunt mai grele decât cele în doi timpi, din cauza mecanismului cu supape și arbore cu came.",
    "answers": [
     {
@@ -1214,14 +1214,14 @@
      "text": "greutate mai mare",
      "correct": true,
      "short": "",
-     "long": "Corect. Greutatea mai mare este dezavantajul motorului în patru timpi.",
+     "long": "Corect. Greutatea mai mare este dezavântajul motorului în patru timpi.",
      "warn": ""
     },
     {
      "text": "mai dificil de întreținut",
      "correct": false,
      "short": "",
-     "long": "Întreținerea nu este dezavantajul principal al motorului în patru timpi.",
+     "long": "Întreținerea nu este dezavântajul principal al motorului în patru timpi.",
      "warn": ""
     }
    ]
@@ -1236,7 +1236,7 @@
      "text": "un instrument pentru măsurarea altitudinii",
      "correct": false,
      "short": "",
-     "long": "Altimetrul măsoară altitudinea, nu viteza.",
+     "long": "Altimetrul măsoară aaltitudinea, nu viteza.",
      "warn": ""
     },
     {
@@ -1264,7 +1264,7 @@
   },
   {
    "number": "#36",
-   "text": "459: Care este principalul avantaj al unui paramotor cu motor în doi timpi?",
+   "text": "459: Care este principalul avântaj al unui paramotor cu motor în doi timpi?",
    "short": "Motorul în doi timpi are greutate mai redusă și putere mai mare raportată la greutate.",
    "long": "Motorul în doi timpi este mai ușor și dă mai multă putere pe kilogram decât cel în patru timpi, dar consumă mai mult și are alte compromisuri.",
    "answers": [
@@ -1279,54 +1279,54 @@
      "text": "consum redus de combustibil",
      "correct": false,
      "short": "",
-     "long": "Consumul mai redus este avantajul motorului în patru timpi, nu al celui în doi timpi.",
+     "long": "Consumul mai redus este avântajul motorului în patru timpi, nu al celui în doi timpi.",
      "warn": ""
     },
     {
      "text": "durată de viață mai lungă",
      "correct": false,
      "short": "",
-     "long": "Durata de viață nu este avantajul principal al motorului în doi timpi.",
+     "long": "Durata de viață nu este avântajul principal al motorului în doi timpi.",
      "warn": ""
     },
     {
      "text": "costuri de întreținere mai mici",
      "correct": false,
      "short": "",
-     "long": "Costurile de întreținere nu sunt avantajul principal al motorului în doi timpi.",
+     "long": "Costurile de întreținere nu sunt avântajul principal al motorului în doi timpi.",
      "warn": ""
     }
    ]
   },
   {
    "number": "#37",
-   "text": "209: Profilul aerodinamic e conceput ca să producă portanţă rezultată din:",
+   "text": "209: Profilul aerodinamic e conceput ca să producă portanță rezultată din:",
    "short": "Portanța profilului aerodinamic apare din presiune pe intrados și depresiune pe extrados.",
    "long": "Portanța apare pentru că aerul de sub profil are presiune mai mare decât aerul de deasupra. Presiunea pe intrados și depresiunea pe extrados formează portanța totală.",
    "answers": [
     {
-     "text": "presiune mărita pe bordul de atac şi depresiune pe bordul de fugă",
+     "text": "presiune mărita pe bordul de atac și depresiune pe bordul de fugă",
      "correct": false,
      "short": "",
      "long": "Presiunea mare pe bordul de atac și depresiunea pe bordul de fugă nu explică portanța. Depresiunea este pe extrados.",
      "warn": ""
     },
     {
-     "text": "vacuum dedesubtul aripii şi presiune mărită pe extrados",
+     "text": "vacuum dedesubtul aripii și presiune mărită pe extrados",
      "correct": false,
      "short": "",
      "long": "Presiunea mărită pe extrados este inversă: pe extrados se formează depresiune.",
      "warn": ""
     },
     {
-     "text": "presiune pe intrados şi depresiune pe extrados",
+     "text": "presiune pe intrados și depresiune pe extrados",
      "correct": true,
      "short": "",
      "long": "Corect. Presiunea pe intrados și depresiunea pe extrados produc portanța.",
      "warn": ""
     },
     {
-     "text": "depresiune pe intrados şi presiune pe extrados",
+     "text": "depresiune pe intrados și presiune pe extrados",
      "correct": false,
      "short": "",
      "long": "Depresiunea pe intrados și presiunea pe extrados sunt inversate.",
@@ -1336,19 +1336,19 @@
   },
   {
    "number": "#38",
-   "text": "247: Depăşirea masei maxime admise la decolare:",
+   "text": "247: Depășirea masei maxime admise la decolare:",
    "short": "Depășirea masei maxime admise la decolare este interzisă, pentru că depășește rezistența structurală.",
    "long": "Depășirea masei maxime la decolare depășește limitele structurale ale aripii și suspantelor, ceea ce poate duce la rupere în zbor.",
    "answers": [
     {
-     "text": "are drept consecinţă doar diminuarea performanţelor aparatului",
+     "text": "are drept consecință doar diminuarea performanțelor aparatului",
      "correct": false,
      "short": "",
      "long": "Consecința nu se limitează la scăderea performanțelor. Limitele structurale pot fi depășite.",
      "warn": ""
     },
     {
-     "text": "este interzisă întrucât atrage depăşirea rezistenţei structurale",
+     "text": "este interzisă întrucât atrage depășirea rezistenței structurale",
      "correct": true,
      "short": "",
      "long": "Corect. Depășirea MTOM este interzisă, deoarece depășește rezistența structurală.",
@@ -1362,7 +1362,7 @@
      "warn": ""
     },
     {
-     "text": "nu are consecinţe",
+     "text": "nu are consecințe",
      "correct": false,
      "short": "",
      "long": "Depășirea masei are consecințe, inclusiv structurale.",
@@ -1377,14 +1377,14 @@
    "long": "Înclinarea spre stânga înseamnă că aripa din stânga coboară, iar cea din dreapta se ridică. Pilotul trage de brâul din stânga.",
    "answers": [
     {
-     "text": "colțul stâng coboară şi cel drept rămâne orizontal",
+     "text": "colțul stâng coboară și cel drept rămâne orizontal",
      "correct": false,
      "short": "",
      "long": "Dacă colțul drept rămâne orizontal, nu există înclinare corectă a aripii.",
      "warn": ""
     },
     {
-     "text": "colțul stâng se ridică şi cel drept coboară",
+     "text": "colțul stâng se ridică și cel drept coboară",
      "correct": false,
      "short": "",
      "long": "Dacă stânga se ridică, înclinarea este spre dreapta.",
@@ -1398,7 +1398,7 @@
      "warn": ""
     },
     {
-     "text": "colțul stâng coboară şi cel drept se ridică",
+     "text": "colțul stâng coboară și cel drept se ridică",
      "correct": true,
      "short": "",
      "long": "Corect. La înclinarea spre stânga, colțul stâng coboară, iar cel drept se ridică.",
@@ -1408,33 +1408,33 @@
   },
   {
    "number": "#40",
-   "text": "245: În ceea ce priveşte rodajul motoarelor ULM:",
+   "text": "245: În ceea ce privește rodajul motoarelor ULM:",
    "short": "Rodajul motoarelor ULM se face conform recomandărilor constructorului, specifice fiecărui motor.",
    "long": "Rodajul motorului se face conform instrucțiunilor constructorului, care sunt diferite de la un motor la altul.",
    "answers": [
     {
-     "text": "trebuie să ţineţi cont de recomandările constructorului, specifice fiecărui tip de motor",
+     "text": "trebuie să țineți cont de recomandările constructorului, specifice fiecărui tip de motor",
      "correct": true,
      "short": "",
      "long": "Corect. Recomandările constructorului sunt cele care se urmează.",
      "warn": ""
     },
     {
-     "text": "pe perioada de rodare trebuie să utilizaţi doar ulei mineral din surse cunoscute",
+     "text": "pe perioada de rodare trebuie să utilizați doar ulei mineral din surse cunoscute",
      "correct": false,
      "short": "",
      "long": "Ulei mineral din surse cunoscute nu este regula. Se folosește uleiul recomandat de constructor.",
      "warn": ""
     },
     {
-     "text": "nu trebuie să depăşiţi 75% din regimul maxim în primele 100 de ore de funcționare",
+     "text": "nu trebuie să depășiți 75% din regimul maxim în primele 100 de ore de funcționare",
      "correct": false,
      "short": "",
      "long": "Limita de 75% nu este regula generală. Rodajul depinde de constructor.",
      "warn": ""
     },
     {
-     "text": "la motoarele actuale nu necesită precauţii speciale",
+     "text": "la motoarele actuale nu necesită precauții speciale",
      "correct": false,
      "short": "",
      "long": "Motoarele noi au nevoie de rodaj conform constructorului. Nu este adevărat că nu sunt necesare precauții.",
@@ -1480,7 +1480,7 @@
   },
   {
    "number": "#42",
-   "text": "457: Care este principalul avantaj al aripilor cu aspect ratio mare?",
+   "text": "457: Care este principalul avântaj al aripilor cu aspect ratio mare?",
    "short": "Aripile cu aspect ratio mare oferă performanță superioară la zborurile de distanță.",
    "long": "Aripa cu aspect ratio mare (alungită) are raport mare între anvergură și coardă, ceea ce reduce rezistența indusă și dă finețe mare la zborul de distanță.",
    "answers": [
@@ -1495,7 +1495,7 @@
      "text": "sunt mai ușor de decolat",
      "correct": false,
      "short": "",
-     "long": "Decolarea nu este avantajul aripii cu aspect ratio mare.",
+     "long": "Decolarea nu este avântajul aripii cu aspect ratio mare.",
      "warn": ""
     },
     {
@@ -1521,28 +1521,28 @@
    "long": "La alegerea paramotorului se ține cont de nivelul de pilotare, adică de experiența și de cerințele pilotului, nu doar de aspecte subiective.",
    "answers": [
     {
-     "text": "trebuie să ţinem cont de câteva elemente de ordin subiectiv: calitate şi finisaje, confort în zbor, locul în care va fi utilizat, tipul de utilizare",
+     "text": "trebuie să ținem cont de câteva elemente de ordin subiectiv: calitate și finisaje, confort în zbor, locul în care va fi utilizat, tipul de utilizare",
      "correct": false,
      "short": "",
      "long": "Elementele subiective nu sunt criteriul principal. Criteriul principal este nivelul de pilotare și siguranța.",
      "warn": ""
     },
     {
-     "text": "ţinem cont de nivelul de pilotare",
+     "text": "ținem cont de nivelul de pilotare",
      "correct": true,
      "short": "",
      "long": "Corect. Nivelul de pilotare este criteriul principal de alegere.",
      "warn": ""
     },
     {
-     "text": "ţinem cont de diametrul elicei",
+     "text": "ținem cont de diametrul elicei",
      "correct": false,
      "short": "",
      "long": "Diametrul elicei nu este criteriul principal de alegere a paramotorului.",
      "warn": ""
     },
     {
-     "text": "ţinem cont de puterea motorului raportat la greutatea lui",
+     "text": "ținem cont de puterea motorului raportat la greutatea lui",
      "correct": false,
      "short": "",
      "long": "Raportul putere/greutate este un element, dar criteriul principal este nivelul de pilotare.",
@@ -1578,7 +1578,7 @@
      "warn": ""
     },
     {
-     "text": "redu altitudinea rapid",
+     "text": "redu aaltitudinea rapid",
      "correct": false,
      "short": "",
      "long": "Nu este răspunsul corect.",
@@ -1660,36 +1660,36 @@
   },
   {
    "number": "#47",
-   "text": "461: Care este principalul avantaj al aripilor de începător (EN A)?",
-   "short": "Principalul avantaj al aripii de începător EN A este stabilitatea și siguranța maximă în zbor.",
+   "text": "461: Care este principalul avântaj al aripilor de începător (EN A)?",
+   "short": "Principalul avântaj al aripii de începător EN A este stabilitatea și siguranța maximă în zbor.",
    "long": "Aripile EN A au stabilitate și siguranță mare, ceea ce le face potrivite pentru începători și pentru zborul în condiții variate.",
    "answers": [
     {
      "text": "sunt mai ușor de reparat în caz de avarii",
      "correct": false,
      "short": "",
-     "long": "Reparabilitatea nu este avantajul principal al aripilor EN A.",
+     "long": "Reparabilitatea nu este avântajul principal al aripilor EN A.",
      "warn": ""
     },
     {
      "text": "permit viteze mai mari și viraje strânse",
      "correct": false,
      "short": "",
-     "long": "Vitezele mari și virajele strânse nu sunt avantajul EN A.",
+     "long": "Vitezele mari și virajele strânse nu sunt avântajul EN A.",
      "warn": ""
     },
     {
      "text": "sunt mai ieftine decât aripile avansate",
      "correct": false,
      "short": "",
-     "long": "Prețul nu este avantajul principal al aripilor EN A.",
+     "long": "Prețul nu este avântajul principal al aripilor EN A.",
      "warn": ""
     },
     {
      "text": "oferă o stabilitate și siguranță maximă în zbor",
      "correct": true,
      "short": "",
-     "long": "Corect. Stabilitatea și siguranța sunt avantajul principal al EN A.",
+     "long": "Corect. Stabilitatea și siguranța sunt avântajul principal al EN A.",
      "warn": ""
     }
    ]
@@ -1925,10 +1925,10 @@
      "warn": ""
     },
     {
-     "text": "altitudinea",
+     "text": "aaltitudinea",
      "correct": false,
      "short": "",
-     "long": "Altitudinea este indicată de altimetru.",
+     "long": "Aaltitudinea este indicată de altimetru.",
      "warn": ""
     },
     {
@@ -1975,7 +1975,7 @@
      "warn": ""
     },
     {
-     "text": "partea din faţă a aripii",
+     "text": "partea din față a aripii",
      "correct": false,
      "short": "",
      "long": "Partea din față este bordul de atac, nu extradosul.",
@@ -2098,10 +2098,10 @@
    "long": "Inspecția vizuală a aripii înainte de decolare detectează daunele, rupturile și uzura care pot compromite zborul.",
    "answers": [
     {
-     "text": "pentru a măsura altitudinea de zbor",
+     "text": "pentru a măsura aaltitudinea de zbor",
      "correct": false,
      "short": "",
-     "long": "Altitudinea nu se măsoară prin inspecția vizuală.",
+     "long": "Aaltitudinea nu se măsoară prin inspecția vizuală.",
      "warn": ""
     },
     {
@@ -2165,7 +2165,7 @@
   },
   {
    "number": "#61",
-   "text": "212: Depăşirea masei maxime admise la decolare:",
+   "text": "212: Depășirea masei maxime admise la decolare:",
    "short": "Depășirea masei maxime admise la decolare este interzisă, pentru că depășește rezistența structurală.",
    "long": "Depășirea masei maxime la decolare depășește rezistența structurală a aripii și a suspantelor. De aceea este interzisă.",
    "answers": [
@@ -2177,21 +2177,21 @@
      "warn": ""
     },
     {
-     "text": "este interzisă întrucât atrage depăşirea rezistenţei structurale",
+     "text": "este interzisă întrucât atrage depășirea rezistenței structurale",
      "correct": true,
      "short": "",
      "long": "Corect. Depășirea MTOM este interzisă, deoarece depășește rezistența structurală.",
      "warn": ""
     },
     {
-     "text": "are drept consecinţă doar diminuarea performanţelor aparatului",
+     "text": "are drept consecință doar diminuarea performanțelor aparatului",
      "correct": false,
      "short": "",
      "long": "Consecința nu se limitează la performanțe. Structura este solicitată peste limită.",
      "warn": ""
     },
     {
-     "text": "nu are consecinţe",
+     "text": "nu are consecințe",
      "correct": false,
      "short": "",
      "long": "Depășirea masei are consecințe.",
@@ -2279,14 +2279,14 @@
    "long": "Cuplul reactiv al elicei face aeronava să tindă să se încline în sens opus rotației elicei (efectul de cuplu).",
    "answers": [
     {
-     "text": "tendinţa aeronavei de a se înclina în partea opusă mişcării de rotaţie a elicei",
+     "text": "tendința aeronavei de a se înclina în partea opusă mișcării de rotație a elicei",
      "correct": true,
      "short": "",
      "long": "Corect. Cuplul reactiv înclină aeronava în sens opus rotației elicei.",
      "warn": ""
     },
     {
-     "text": "menţinerea aripii la orizontală",
+     "text": "menținerea aripii la orizontală",
      "correct": false,
      "short": "",
      "long": "Menținerea aripii la orizontală nu este efectul cuplului reactiv.",
@@ -2300,7 +2300,7 @@
      "warn": ""
     },
     {
-     "text": "tendinţa aeronavei de a se înclina în partea mişcării de rotaţie a elicei",
+     "text": "tendința aeronavei de a se înclina în partea mișcării de rotație a elicei",
      "correct": false,
      "short": "",
      "long": "Înclinarea în sensul rotației este opusul efectului de cuplu.",
@@ -2598,19 +2598,19 @@
   },
   {
    "number": "#73",
-   "text": "250: Se numeşte bord de atac:",
+   "text": "250: Se numește bord de atac:",
    "short": "Bordul de atac este partea din față a aripii.",
    "long": "Bordul de atac este partea din față a aripii, muchia care taie aerul. Vine primul în contact cu aerul la zbor.",
    "answers": [
     {
-     "text": "partea din faţă a celulei",
+     "text": "partea din față a celulei",
      "correct": false,
      "short": "",
      "long": "Partea din față a celulei nu este definiția bordului de atac. Bordul de atac este al aripii.",
      "warn": ""
     },
     {
-     "text": "partea din faţă a aripii",
+     "text": "partea din față a aripii",
      "correct": true,
      "short": "",
      "long": "Corect. Bordul de atac este partea din față a aripii.",
@@ -2706,22 +2706,22 @@
   },
   {
    "number": "#76",
-   "text": "455: Care este principalul avantaj al unei aripi EN B față de o aripă EN A?",
-   "short": "Principalul avantaj al unei aripi EN B față de una EN A este performanța mai mare și vitezele mai mari.",
+   "text": "455: Care este principalul avântaj al unei aripi EN B față de o aripă EN A?",
+   "short": "Principalul avântaj al unei aripi EN B față de una EN A este performanța mai mare și vitezele mai mari.",
    "long": "Aripa EN B are performanță mai mare decât EN A, cu viteze și finețe mai mari, dar cere mai multă experiență.",
    "answers": [
     {
      "text": "costul mai redus",
      "correct": false,
      "short": "",
-     "long": "Costul nu este avantajul EN B față de EN A.",
+     "long": "Costul nu este avântajul EN B față de EN A.",
      "warn": ""
     },
     {
      "text": "ușurința de utilizare și siguranța în zbor",
      "correct": false,
      "short": "",
-     "long": "Ușurința și siguranța sunt avantajele EN A, nu EN B.",
+     "long": "Ușurința și siguranța sunt avântajele EN A, nu EN B.",
      "warn": ""
     },
     {
@@ -2735,7 +2735,7 @@
      "text": "stabilitatea la viteze mari",
      "correct": false,
      "short": "",
-     "long": "Stabilitatea la viteze mari nu este avantajul specific al EN B. Avantajul lui este performanța.",
+     "long": "Stabilitatea la viteze mari nu este avântajul specific al EN B. Avântajul lui este performanța.",
      "warn": ""
     }
    ]
@@ -2999,10 +2999,10 @@
    "long": "Startul B (cu fața la aripă) se folosește când vântul nu este suficient pentru umflarea aripii cu startul A (cu spatele).",
    "answers": [
     {
-     "text": "nu este relevant pentru începători",
+     "text": "nu este relevânt pentru începători",
      "correct": false,
      "short": "",
-     "long": "Startul B este relevant și pentru începători, ca metodă de gonflare în condiții de vânt slab.",
+     "long": "Startul B este relevânt și pentru începători, ca metodă de gonflare în condiții de vânt slab.",
      "warn": ""
     },
     {
@@ -3035,7 +3035,7 @@
    "long": "Reductorul micșorează turația axului elicei față de turația motorului, ceea ce permite un motor rapid și o elice cu turație mai mică, mai eficientă.",
    "answers": [
     {
-     "text": "micşorează turaţia axului elicei fată de turatia motorului",
+     "text": "micșorează turația axului elicei fată de turatia motorului",
      "correct": true,
      "short": "",
      "long": "Corect. Reductorul micșorează turația axului elicei.",
@@ -3049,14 +3049,14 @@
      "warn": ""
     },
     {
-     "text": "măreşte puterea motorului, fără a modifica turaţia ce se transmite elicei",
+     "text": "mărește puterea motorului, fără a modifica turația ce se transmite elicei",
      "correct": false,
      "short": "",
      "long": "Reductorul nu mărește puterea. Modifică turația transmisă elicei.",
      "warn": ""
     },
     {
-     "text": "multiplică turaţia ce se transmite elicei",
+     "text": "multiplică turația ce se transmite elicei",
      "correct": false,
      "short": "",
      "long": "Reductorul nu multiplică turația, ci o micșorează.",
@@ -3071,21 +3071,21 @@
    "long": "Dacă amestecul ulei–benzină este insuficient, lubrifierea motorului scade, iar piesele se uzează sau se supraîncălzesc, cu risc de avarie.",
    "answers": [
     {
-     "text": "nu sunt consecinţe notabile",
+     "text": "nu sunt consecințe notabile",
      "correct": false,
      "short": "",
      "long": "Amestecul insuficient are consecințe, mai ales de lubrifiere.",
      "warn": ""
     },
     {
-     "text": "creşte consumul de combustibil",
+     "text": "crește consumul de combustibil",
      "correct": false,
      "short": "",
      "long": "Consumul de combustibil nu este consecința principală. Riscul este lubrifierea deficitară.",
      "warn": ""
     },
     {
-     "text": "temperatura chiuloasei este prea mică ceeea ce conduce la o omogenitate termică slabă a motorului",
+     "text": "temperatura chiuloasei este prea mică ceea ce conduce la o omogenitate termică slabă a motorului",
      "correct": false,
      "short": "",
      "long": "Temperatura chiulasei este mai mare, nu mai mică, în lipsa lubrifierii.",
@@ -3246,15 +3246,15 @@
   },
   {
    "number": "#91",
-   "text": "456: Care este dezavantajul principal al paramotoarelor cu elice de lemn?",
-   "short": "Dezavantajul principal al elicelor din lemn este că sunt mai susceptibile la deteriorare.",
+   "text": "456: Care este dezavântajul principal al paramotoarelor cu elice de lemn?",
+   "short": "Dezavântajul principal al elicelor din lemn este că sunt mai susceptibile la deteriorare.",
    "long": "Elicea de lemn este mai sensibilă la lovituri, umezeală și crăpături decât cea din compozit, deci se deteriorează mai ușor.",
    "answers": [
     {
      "text": "sunt mai grele decât elicele din materiale compozite",
      "correct": false,
      "short": "",
-     "long": "Elicea de lemn poate fi mai grea sau mai ușoară; greutatea nu este dezavantajul principal.",
+     "long": "Elicea de lemn poate fi mai grea sau mai ușoară; greutatea nu este dezavântajul principal.",
      "warn": ""
     },
     {
@@ -3268,14 +3268,14 @@
      "text": "sunt mai zgomotoase",
      "correct": false,
      "short": "",
-     "long": "Zgomotul nu este dezavantajul principal al elicei de lemn.",
+     "long": "Zgomotul nu este dezavântajul principal al elicei de lemn.",
      "warn": ""
     },
     {
      "text": "necesită mai multă întreținere",
      "correct": false,
      "short": "",
-     "long": "Necesarul de întreținere poate fi mai mare, dar dezavantajul principal este sensibilitatea la deteriorare.",
+     "long": "Necesarul de întreținere poate fi mai mare, dar dezavântajul principal este sensibilitatea la deteriorare.",
      "warn": ""
     }
    ]
@@ -3607,8 +3607,8 @@
   {
    "number": "#101",
    "text": "424: Ce este un altimetru?",
-   "short": "Altimetrul este un dispozitiv care măsoară altitudinea la care te afli.",
-   "long": "Altimetrul măsoară altitudinea, pe baza presiunii atmosferice.",
+   "short": "Altimetrul este un dispozitiv care măsoară aaltitudinea la care te afli.",
+   "long": "Altimetrul măsoară aaltitudinea, pe baza presiunii atmosferice.",
    "answers": [
     {
      "text": "un dispozitiv pentru determinarea direcției vântului",
@@ -3618,10 +3618,10 @@
      "warn": ""
     },
     {
-     "text": "un dispozitiv care măsoară altitudinea la care te afli",
+     "text": "un dispozitiv care măsoară aaltitudinea la care te afli",
      "correct": true,
      "short": "",
-     "long": "Corect. Altimetrul măsoară altitudinea.",
+     "long": "Corect. Altimetrul măsoară aaltitudinea.",
      "warn": ""
     },
     {

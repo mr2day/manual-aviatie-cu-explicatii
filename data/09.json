@@ -40,7 +40,7 @@
   },
   {
    "number": "#2",
-   "text": "595: Conul de siguranţă este spaţiul în care putem evolua ajungând la un teren de aterizare în caz de până motor:",
+   "text": "595: Conul de siguranță este spațiul în care putem evolua ajungând la un teren de aterizare în caz de până motor:",
    "short": "Conul de siguranță este spațiul în care poți ajunge la un teren de aterizare dacă motorul se oprește. Afirmația este adevărată.",
    "long": "Conul de siguranță este zona în care pilotul poate planta până la un teren de aterizare, dacă motorul se oprește.",
    "answers": [
@@ -117,10 +117,10 @@
    "long": "Sub viteza de angajare, aripa nu mai produce portanța necesară. Ajunge în stall și pierde altitudine rapid.",
    "answers": [
     {
-     "text": "aripa își menține altitudinea",
+     "text": "aripa își menține aaltitudinea",
      "correct": false,
      "short": "",
-     "long": "Aripa nu își menține altitudinea sub viteza de angajare.",
+     "long": "Aripa nu își menține aaltitudinea sub viteza de angajare.",
      "warn": ""
     },
     {
@@ -257,14 +257,14 @@
   {
    "number": "#8",
    "text": "671: Cum influențează forța portanței comportamentul unei parapante în zbor?",
-   "short": "Forța portanței contracarează greutatea și menține altitudinea constantă, permițând un zbor stabil.",
-   "long": "Portanța este forța care se opune greutății și menține aeronava în aer, deci ține altitudinea când este egală cu greutatea.",
+   "short": "Forța portanței contracarează greutatea și menține aaltitudinea constantă, permițând un zbor stabil.",
+   "long": "Portanța este forța care se opune greutății și menține aeronava în aer, deci ține aaltitudinea când este egală cu greutatea.",
    "answers": [
     {
-     "text": "forța portanței contracarează greutatea parapantei și menține altitudinea constantă, permițând un zbor stabil",
+     "text": "forța portanței contracarează greutatea parapantei și menține aaltitudinea constantă, permițând un zbor stabil",
      "correct": true,
      "short": "",
-     "long": "Corect. Portanța contrabalansează greutatea și menține altitudinea.",
+     "long": "Corect. Portanța contrabalansează greutatea și menține aaltitudinea.",
      "warn": ""
     },
     {
@@ -297,28 +297,28 @@
    "long": "La o rază de viraj mai mică, aeronava trebuie înclinată mai mult pentru a produce forța centripetă necesară.",
    "answers": [
     {
-     "text": "trebuie sa reducem motorul penru a pastra vario 0",
+     "text": "trebuie sa reducem motorul pentru a păstra vario 0",
      "correct": false,
      "short": "",
      "long": "Motorul nu trebuie redus pentru a păstra variometrul la 0 în această relație.",
      "warn": ""
     },
     {
-     "text": "cu atât creşte viteza de înfundare",
+     "text": "cu atât crește viteza de înfundare",
      "correct": false,
      "short": "",
      "long": "Viteza de înfundare nu crește cu raza.",
      "warn": ""
     },
     {
-     "text": "cu atât se diminueză înclinaţia",
+     "text": "cu atât se diminueză înclinația",
      "correct": false,
      "short": "",
      "long": "Înclinația nu scade cu raza mai mică. Crește.",
      "warn": ""
     },
     {
-     "text": "cu atât creşte înclinaţia",
+     "text": "cu atât crește înclinația",
      "correct": true,
      "short": "",
      "long": "Corect. Raza mai mică cere înclinație mai mare.",
@@ -472,7 +472,7 @@
   },
   {
    "number": "#14",
-   "text": "608: La viteza constantă, când înclinarea creşte:",
+   "text": "608: La viteza constantă, când înclinarea crește:",
    "short": "La viteză constantă, când înclinarea crește, raza de viraj scade.",
    "long": "La viteză constantă, creșterea înclinației reduce raza virajului, deoarece forța centripetă crește.",
    "answers": [
@@ -498,7 +498,7 @@
      "warn": ""
     },
     {
-     "text": "raza de viraj creşte",
+     "text": "raza de viraj crește",
      "correct": false,
      "short": "",
      "long": "Raza nu crește la înclinație mai mare.",
@@ -628,7 +628,7 @@
      "warn": ""
     },
     {
-     "text": ". stratul de aer din imediata vecinătate a aeronavei în care viteza creşte de la zero la viteza de zbor",
+     "text": ". stratul de aer din imediata vecinătate a aeronavei în care viteza crește de la zero la viteza de zbor",
      "correct": true,
      "short": "",
      "long": "Corect. Stratul limită este stratul de aer din imediata vecinătate a aripii, unde viteza crește.",
@@ -642,7 +642,7 @@
      "warn": ""
     },
     {
-     "text": "stratul de aer când incidenţa este la limită",
+     "text": "stratul de aer când incidența este la limită",
      "correct": false,
      "short": "",
      "long": "Stratul limită nu este legat de incidența la limită.",
@@ -823,17 +823,17 @@
      "warn": ""
     },
     {
-     "text": "altitudinea la care se zboară cel mai frecvent și viteza vântului",
+     "text": "aaltitudinea la care se zboară cel mai frecvent și viteza vântului",
      "correct": false,
      "short": "",
-     "long": "Altitudinea și vântul sunt factori, dar nu criteriul principal al dimensiunii.",
+     "long": "Aaltitudinea și vântul sunt factori, dar nu criteriul principal al dimensiunii.",
      "warn": ""
     }
    ]
   },
   {
    "number": "#24",
-   "text": "652: Cum afectează altitudinea mare performanța aripii?",
+   "text": "652: Cum afectează aaltitudinea mare performanța aripii?",
    "short": "La altitudine mare, performanța aripii scade: portanța scade și trebuie ajustată puterea.",
    "long": "La altitudine mare, aerul este mai rar, deci portanța scade, iar pilotul trebuie să ajusteze puterea.",
    "answers": [
@@ -905,7 +905,7 @@
   },
   {
    "number": "#26",
-   "text": "625: Care este avantajul unui profil de aripă „high aspect ratio” (aspect ratio – raportul dintre lungimea aripii și coarda acesteia)",
+   "text": "625: Care este avântajul unui profil de aripă „high aspect ratio” (aspect ratio – raportul dintre lungimea aripii și coarda acesteia)",
    "short": "Un profil de aripă cu aspect ratio mare permite zborul la viteze mai mari cu consum redus de combustibil.",
    "long": "Aripa cu aspect mare (alungită) are finețe bună, deci permite viteze mai mari cu consum de energie mic, pentru zboruri de distanță.",
    "answers": [
@@ -920,7 +920,7 @@
      "text": "siguranță pasivă crescută",
      "correct": false,
      "short": "",
-     "long": "Siguranța pasivă nu este avantajul aspectului mare.",
+     "long": "Siguranța pasivă nu este avântajul aspectului mare.",
      "warn": ""
     },
     {
@@ -941,9 +941,9 @@
   },
   {
    "number": "#27",
-   "text": "600: Pentru a păstra altitudinea în timpul unui viraj accentuat ce trebuie să facem?",
-   "short": "Pentru a păstra altitudinea în timpul unui viraj accentuat, pui accelerația pe tempomat (motorul la putere mai mare).",
-   "long": "Într-un viraj accentuat, pentru a păstra altitudinea trebuie mărită viteza, deci accelerația trebuie menținută (portanța crește).",
+   "text": "600: Pentru a păstra aaltitudinea în timpul unui viraj accentuat ce trebuie să facem?",
+   "short": "Pentru a păstra aaltitudinea în timpul unui viraj accentuat, pui accelerația pe tempomat (motorul la putere mai mare).",
+   "long": "Într-un viraj accentuat, pentru a păstra aaltitudinea trebuie mărită viteza, deci accelerația trebuie menținută (portanța crește).",
    "answers": [
     {
      "text": "decelerăm",
@@ -956,7 +956,7 @@
      "text": "punem accelerația pe tempomat",
      "correct": true,
      "short": "",
-     "long": "Corect în esență: se menține accelerația, adică puterea suficientă, pentru a păstra altitudinea în viraj.",
+     "long": "Corect în esență: se menține accelerația, adică puterea suficientă, pentru a păstra aaltitudinea în viraj.",
      "warn": ""
     },
     {
@@ -1206,7 +1206,7 @@
      "warn": ""
     },
     {
-     "text": "rezistenţă",
+     "text": "rezistență",
      "correct": false,
      "short": "",
      "long": "Rezistența este o forță, nu zona de presiune de pe extrados.",
@@ -1266,7 +1266,7 @@
   },
   {
    "number": "#36",
-   "text": "606: Dacă propulsia disponibilă depăşeşte propulsia necesară menţinerii motoparapantei în zbor orizontal:",
+   "text": "606: Dacă propulsia disponibilă depășește propulsia necesară menținerii motoparapantei în zbor orizontal:",
    "short": "Dacă propulsia disponibilă depășește propulsia necesară menținerii zborului orizontal, motoparapanta va urca.",
    "long": "Dacă propulsia disponibilă depășește cea necesară pentru zborul orizontal, surplusul de forță duce la urcare.",
    "answers": [
@@ -1278,14 +1278,14 @@
      "warn": ""
     },
     {
-     "text": "motoparapanta se decelerează dacă se menţine zborul orizontal",
+     "text": "motoparapanta se decelerează dacă se menține zborul orizontal",
      "correct": false,
      "short": "",
      "long": "Decelerarea nu apare dacă propulsia depășește necesarul.",
      "warn": ""
     },
     {
-     "text": "motoparapanta coboară dacă viteza este menţinută",
+     "text": "motoparapanta coboară dacă viteza este menținută",
      "correct": false,
      "short": "",
      "long": "Coborârea nu apare dacă viteza este menținută și propulsia este suficientă.",
@@ -1302,7 +1302,7 @@
   },
   {
    "number": "#37",
-   "text": "598: La majoritatea aripilor de generație nouă, în cazul zborului cu trimmer deshis și speed apăsat este recomandată folosirea intensă a frânelor:",
+   "text": "598: La majoritatea aripilor de generație nouă, în cazul zborului cu trimmer deschis și speed apăsat este recomandată folosirea intensă a frânelor:",
    "short": "La aripile noi, cu trimmer deschis și speed apăsat, nu se recomandă folosirea intensă a frânelor.",
    "long": "Cu trimmerele deschise și speed-ul apăsat, aripa lucrează la unghi de atac mic și este sensibilă. Frânele nu se folosesc în această configurație, pentru că pot duce la pierderea controlului.",
    "answers": [
@@ -1357,7 +1357,7 @@
      "warn": ""
     },
     {
-     "text": "dăm drumul la comenzi și ne ajutam de mâini",
+     "text": "dăm drumul la comenzi și ne ajutăm de mâini",
      "correct": false,
      "short": "",
      "long": "Lăsarea comenzilor libere duce la pierderea controlului.",
@@ -1446,19 +1446,19 @@
   },
   {
    "number": "#41",
-   "text": "611: La viteză constantă creşterea unghiului de incidenţă al unui profil va avea drept rezultat:",
+   "text": "611: La viteză constantă creșterea unghiului de incidență al unui profil va avea drept rezultat:",
    "short": "La viteză constantă, creșterea unghiului de incidență, conform băncii, duce la diminuarea rezistenței la înaintare.",
    "long": "Varianta A este greșită din punct de vedere fizic: creșterea unghiului de incidență crește portanța și, de regulă, rezistența indusă. Rezistența scade când unghiul scade.",
    "answers": [
     {
-     "text": "o diminuare a rezistenţei la înaintare",
+     "text": "o diminuare a rezistenței la înaintare",
      "correct": true,
      "short": "",
      "long": "Este greșită: incidența mai mare crește rezistența.",
      "warn": "Greșit: creșterea unghiului de incidență crește portanța și rezistența. Rezistența scade când unghiul scade, nu când crește."
     },
     {
-     "text": "o creştere a portanţei, apoi o diminuare brutală a acesteia odată cu atingerea incidenţei de angajare (critice)",
+     "text": "o creștere a portanței, apoi o diminuare brutală a acesteia odată cu atingerea incidenței de angajare (critice)",
      "correct": false,
      "short": "",
      "long": "Descrie corect stallul, dar nu răspunde la întrebarea despre rezistență.",
@@ -1472,7 +1472,7 @@
      "warn": ""
     },
     {
-     "text": "o creştere a portanţei oricare ar fi incidenţa atinsă",
+     "text": "o creștere a portanței oricare ar fi incidența atinsă",
      "correct": false,
      "short": "",
      "long": "Portanța nu crește oricare ar fi incidența: există limită.",
@@ -1483,8 +1483,8 @@
   {
    "number": "#42",
    "text": "682: Cum afectează direcția forței gravitaționale zborul unei parapante?",
-   "short": "Forța gravitațională acționează vertical în jos, contracarând portanța și afectând altitudinea de zbor.",
-   "long": "Greutatea acționează vertical în jos și trebuie contrabalansată de portanță. Dacă portanța scade, altitudinea scade.",
+   "short": "Forța gravitațională acționează vertical în jos, contracarând portanța și afectând aaltitudinea de zbor.",
+   "long": "Greutatea acționează vertical în jos și trebuie contrabalansată de portanță. Dacă portanța scade, aaltitudinea scade.",
    "answers": [
     {
      "text": "acționează paralel cu direcția de zbor, reducând viteza",
@@ -1501,7 +1501,7 @@
      "warn": ""
     },
     {
-     "text": "acționează vertical în jos, contracarând portanța și afectând altitudinea de zbor",
+     "text": "acționează vertical în jos, contracarând portanța și afectând aaltitudinea de zbor",
      "correct": true,
      "short": "",
      "long": "Corect. Greutatea acționează în jos și este contrabalansată de portanță.",
@@ -1700,7 +1700,7 @@
    "number": "#48",
    "text": "656: Cum reacționezi în cazul unei scăderi bruște a altitudinii în timpul unui viraj?",
    "short": "Dacă ai o scădere bruscă de altitudine în timpul unui viraj, crești puterea motorului și stabilizezi aripa.",
-   "long": "Dacă altitudinea scade brusc în viraj, pilotul crește puterea motorului și stabilizează aripa, pentru a recăpăta portanța.",
+   "long": "Dacă aaltitudinea scade brusc în viraj, pilotul crește puterea motorului și stabilizează aripa, pentru a recăpăta portanța.",
    "answers": [
     {
      "text": "să tragi brusc de frâne",
@@ -1770,7 +1770,7 @@
   },
   {
    "number": "#50",
-   "text": "593: Sunt cu faţa în vânt iar intensitatea vântului corespunde cu viteza mea față de aer:",
+   "text": "593: Sunt cu fața în vânt iar intensitatea vântului corespunde cu viteza mea față de aer:",
    "short": "Dacă ești cu fața în vânt și intensitatea vântului corespunde cu viteza ta față de aer, stai pe loc.",
    "long": "Dacă pilotul stă cu fața în vânt și viteza vântului este egală cu viteza față de aer, viteza față de sol este zero: stă pe loc.",
    "answers": [
@@ -1789,7 +1789,7 @@
      "warn": ""
     },
     {
-     "text": "viteza faţă de aer este nulă",
+     "text": "viteza față de aer este nulă",
      "correct": false,
      "short": "",
      "long": "Viteza față de aer nu este nulă. Este egală cu vântul, deci viteza față de sol este nulă.",
@@ -1850,14 +1850,14 @@
      "text": "îmbunătățește manevrabilitatea în condiții de vânt lateral",
      "correct": false,
      "short": "",
-     "long": "Manevrabilitatea în vânt lateral nu este avantajul vitezei mici.",
+     "long": "Manevrabilitatea în vânt lateral nu este avântajul vitezei mici.",
      "warn": ""
     },
     {
      "text": "reduce portanța și necesită ajustări frecvente ale trimmerelor",
      "correct": false,
      "short": "",
-     "long": "Portanța nu scade ca avantaj al zborului de croazieră.",
+     "long": "Portanța nu scade ca avântaj al zborului de croazieră.",
      "warn": ""
     },
     {
@@ -1871,7 +1871,7 @@
      "text": "crește riscul de pierdere a portanței în condiții de turbulență",
      "correct": false,
      "short": "",
-     "long": "Riscul de pierdere a portanței nu este avantajul.",
+     "long": "Riscul de pierdere a portanței nu este avântajul.",
      "warn": ""
     }
    ]
@@ -1890,10 +1890,10 @@
      "warn": ""
     },
     {
-     "text": "aripa își menține altitudinea și viteza",
+     "text": "aripa își menține aaltitudinea și viteza",
      "correct": false,
      "short": "",
-     "long": "Altitudinea și viteza nu se mențin prin frânare excesivă.",
+     "long": "Aaltitudinea și viteza nu se mențin prin frânare excesivă.",
      "warn": ""
     },
     {
@@ -1936,7 +1936,7 @@
      "text": "pentru că permit un control mai precis al direcției la viteze mici",
      "correct": false,
      "short": "",
-     "long": "Controlul precis la viteze mici nu este avantajul profilului reflex.",
+     "long": "Controlul precis la viteze mici nu este avântajul profilului reflex.",
      "warn": ""
     },
     {
@@ -2142,7 +2142,7 @@
      "warn": ""
     },
     {
-     "text": "putere la motor si mainile sus",
+     "text": "putere la motor si mâinile sus",
      "correct": false,
      "short": "",
      "long": "Mâinile sus nu sunt element de viteză.",
@@ -2310,7 +2310,7 @@
   },
   {
    "number": "#65",
-   "text": "607: Unghiul de atac (incidenţă) reprezintă:",
+   "text": "607: Unghiul de atac (incidență) reprezintă:",
    "short": "Unghiul de atac (incidență) este unghiul format între coarda profilului aripii și vântul relativ.",
    "long": "Unghiul de atac este unghiul dintre coarda profilului și direcția vântului relativ (curentul de aer care vine spre aripă).",
    "answers": [
@@ -2322,21 +2322,21 @@
      "warn": ""
     },
     {
-     "text": "unghiul format între coarda profilului aripii şi vântul relativ",
+     "text": "unghiul format între coarda profilului aripii și vântul relativ",
      "correct": true,
      "short": "",
      "long": "Corect. Unghiul dintre coarda profilului și vântul relativ.",
      "warn": ""
     },
     {
-     "text": "unghiul format între axul longitudinal al parapantei şi coarda aripii",
+     "text": "unghiul format între axul longitudinal al parapantei și coarda aripii",
      "correct": false,
      "short": "",
      "long": "Axul longitudinal nu definește unghiul de atac în această formulare.",
      "warn": ""
     },
     {
-     "text": "între unghiul de urcare şi linia orizontului",
+     "text": "între unghiul de urcare și linia orizontului",
      "correct": false,
      "short": "",
      "long": "Unghiul de urcare nu este unghiul de atac.",
@@ -2361,7 +2361,7 @@
      "text": "să zbori la altitudini mari pentru mai multă siguranță",
      "correct": false,
      "short": "",
-     "long": "Altitudinea mare nu este mai sigură pentru un începător în mod general.",
+     "long": "Aaltitudinea mare nu este mai sigură pentru un începător în mod general.",
      "warn": ""
     },
     {
@@ -2454,7 +2454,7 @@
   },
   {
    "number": "#69",
-   "text": "635: Cum afectează altitudinea mare performanța aripii și a elicei?",
+   "text": "635: Cum afectează aaltitudinea mare performanța aripii și a elicei?",
    "short": "La altitudine mare, scade portanța și tracțiunea, deci trebuie ajustat amestecul de combustibil.",
    "long": "La altitudine mare aerul este mai rar, deci portanța și tracțiunea scad, iar amestecul de combustibil trebuie reglat.",
    "answers": [
@@ -2476,7 +2476,7 @@
      "text": "stabilizează zborul și optimizează performanța motorului",
      "correct": false,
      "short": "",
-     "long": "Altitudinea nu stabilizează zborul și nu optimizează motorul.",
+     "long": "Aaltitudinea nu stabilizează zborul și nu optimizează motorul.",
      "warn": ""
     },
     {
@@ -2682,10 +2682,10 @@
      "warn": ""
     },
     {
-     "text": "aripa își menține altitudinea fără probleme",
+     "text": "aripa își menține aaltitudinea fără probleme",
      "correct": false,
      "short": "",
-     "long": "Altitudinea nu se menține fără probleme în această situație.",
+     "long": "Aaltitudinea nu se menține fără probleme în această situație.",
      "warn": ""
     },
     {
@@ -2814,12 +2814,12 @@
   },
   {
    "number": "#79",
-   "text": "605: Cele 4 forţe care acţionează asupra motoparapantei în timpul zborului sunt:",
+   "text": "605: Cele 4 forțe care acționează asupra motoparapantei în timpul zborului sunt:",
    "short": "Cele patru forțe care acționează asupra motoparapantei în zbor sunt greutatea, propulsia, rezistența la înaintare și portanța.",
    "long": "Cele patru forțe ale zborului sunt greutatea, propulsia (tracțiunea), rezistența la înaintare și portanța.",
    "answers": [
     {
-     "text": "gravitaţia, portanţa, rezistenţa la înaintare, tracţiunea",
+     "text": "gravitația, portanța, rezistența la înaintare, tracțiunea",
      "correct": false,
      "short": "",
      "long": "Tracțiunea este propulsia, deci varianta conține tracțiunea, dar lista nu este corectă în formularea completă.",
@@ -2833,14 +2833,14 @@
      "warn": ""
     },
     {
-     "text": "greutatea, propulsia, rezistenţa la înaintare, portanţa",
+     "text": "greutatea, propulsia, rezistența la înaintare, portanța",
      "correct": true,
      "short": "",
      "long": "Corect. Greutatea, propulsia, rezistența și portanța.",
      "warn": ""
     },
     {
-     "text": "portanţa, rezistenţa la înaintare, frecarea, greutatea",
+     "text": "portanța, rezistența la înaintare, frecarea, greutatea",
      "correct": false,
      "short": "",
      "long": "Frecarea nu este cea de-a patra forță în formularea corectă.",
@@ -2922,12 +2922,12 @@
   },
   {
    "number": "#82",
-   "text": "609: Unghiul de pantă în urcarea cu motor creşte odată cu:",
+   "text": "609: Unghiul de pantă în urcarea cu motor crește odată cu:",
    "short": "Unghiul de pantă în urcarea cu motor crește odată cu creșterea puterii și scăderea greutății.",
    "long": "Unghiul de pantă la urcare crește cu excedentul de putere și scade cu greutatea: mai multă putere și mai puțină greutate permit o urcare mai abruptă.",
    "answers": [
     {
-     "text": "scăderea greutăţii şi scaderea excedentului de tracţiune",
+     "text": "scăderea greutății și scaderea excedentului de tracțiune",
      "correct": false,
      "short": "",
      "long": "Scăderea greutății ajută, dar scăderea excedentului de tracțiune nu crește unghiul.",
@@ -2941,14 +2941,14 @@
      "warn": ""
     },
     {
-     "text": "creşterea excedentului de tracţiune şi de creştere a greutăţii",
+     "text": "creșterea excedentului de tracțiune și de creștere a greutății",
      "correct": false,
      "short": "",
      "long": "Creșterea greutății scade unghiul de urcare, nu îl crește.",
      "warn": ""
     },
     {
-     "text": "cresterea de putere şi scaderea greutatii",
+     "text": "cresterea de putere și scaderea greutatii",
      "correct": true,
      "short": "",
      "long": "Corect. Creșterea puterii și scăderea greutății cresc unghiul de urcare.",
@@ -3138,7 +3138,7 @@
   },
   {
    "number": "#88",
-   "text": "602: Care din următoarele afirmații este adevarată în zborul într-o masă de aer (vant) cu viteza de 60 km/h față de sol când viteza noastra față de masă de aer este de 60 km/h:",
+   "text": "602: Care din următoarele afirmații este adevarată în zborul într-o masă de aer (vânt) cu viteza de 60 km/h față de sol când viteza noastra față de masă de aer este de 60 km/h:",
    "short": "Cu vânt de față de 60 km/h și viteza față de aer de 60 km/h, viteza față de sol este zero.",
    "long": "Cu vânt de față, viteza față de sol scade. Dacă vântul este egal cu viteza aeronavei față de aer, viteza față de sol devine zero.",
    "answers": [
@@ -3318,7 +3318,7 @@
   },
   {
    "number": "#93",
-   "text": "592: Virajele sunt mai uşor de realizat:",
+   "text": "592: Virajele sunt mai ușor de realizat:",
    "short": "Virajele sunt mai ușor de realizat în sensul cuplului motor.",
    "long": "Virajele sunt mai ușor de făcut în sensul cuplului motor, deoarece efectul cuplului reactiv se adaugă la înclinare.",
    "answers": [
@@ -3330,7 +3330,7 @@
      "warn": ""
     },
     {
-     "text": "se pot efectua in orice directie cu acceasi usurinta",
+     "text": "se pot efectua in orice direcție cu acceasi usurinta",
      "correct": false,
      "short": "",
      "long": "Virajele nu sunt la fel de ușoare în toate direcțiile.",
@@ -3546,14 +3546,14 @@
      "warn": ""
     },
     {
-     "text": "ne deplasam in partea opusa cu acceleratie",
+     "text": "ne deplasăm in partea opusa cu acceleratie",
      "correct": false,
      "short": "",
      "long": "Deplasarea cu accelerație poate agrava asimetria.",
      "warn": ""
     },
     {
-     "text": "se continua pe directie cu gaz maxim",
+     "text": "se continua pe direcție cu gaz maxim",
      "correct": false,
      "short": "",
      "long": "Continuarea cu gaz maxim este periculoasă la aripă asimetrică.",
@@ -3625,10 +3625,10 @@
      "warn": ""
     },
     {
-     "text": "vertical, pentru a menține altitudinea constantă",
+     "text": "vertical, pentru a menține aaltitudinea constantă",
      "correct": false,
      "short": "",
-     "long": "Forța de frânare nu este verticală pentru a menține altitudinea.",
+     "long": "Forța de frânare nu este verticală pentru a menține aaltitudinea.",
      "warn": ""
     },
     {

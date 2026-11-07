@@ -76,7 +76,7 @@
   },
   {
    "number": "#3",
-   "text": "715: Distanţa maximă până la care aveţi obligaţia de a menţine legătura radio cu organul de trafic prin spaţiul aerian controlat de acesta prin care vă deplasaţi către spaţiul aerian de clasă G este:",
+   "text": "715: Distanța maximă până la care aveți obligația de a menține legătura radio cu organul de trafic prin spațiul aerian controlat de acesta prin care vă deplasați către spațiul aerian de clasă G este:",
    "short": "Legătura radio cu organul de trafic se menține până la ieșirea din zona controlată, adică până la intrarea în spațiul de clasă G.",
    "long": "Când zbori prin spațiul controlat către spațiul de clasă G, trebuie să menții legătura radio cu organul de trafic până la ieșirea din zona controlată. Abia atunci legătura nu mai este obligatorie.",
    "answers": [
@@ -88,21 +88,21 @@
      "warn": ""
     },
     {
-     "text": "până când organul de trafic va ordona schimbarea frecvenţei",
+     "text": "până când organul de trafic va ordona schimbarea frecvenței",
      "correct": false,
      "short": "",
      "long": "Legătura nu se oprește până la ordinul de schimbare a frecvenței. Obligația durează până la ieșirea din zona controlată.",
      "warn": ""
     },
     {
-     "text": "până la limita audibilităţii",
+     "text": "până la limita audibilității",
      "correct": false,
      "short": "",
      "long": "Limita audibilității nu este criteriul. Obligația durează până la ieșirea din zona controlată.",
      "warn": ""
     },
     {
-     "text": "până la ieşirea din zona controlată",
+     "text": "până la ieșirea din zona controlată",
      "correct": true,
      "short": "",
      "long": "Corect. Legătura radio se menține până la ieșirea din zona controlată.",
@@ -221,8 +221,8 @@
   {
    "number": "#7",
    "text": "784: Ce informații trebuie transmise către ATC de către o aeronavă care se pregătește să intre din spațiul necontrolat în spațiul controlat?",
-   "short": "Înainte de a intra în spațiul controlat, ATC trebuie să primească indicativul, poziția, altitudinea, ruta și destinația.",
-   "long": "Înainte de a intra din spațiul necontrolat în spațiul controlat, aeronava transmite indicativul, poziția, altitudinea, ruta intenționată și destinația, pentru ca ATC să o poată identifica și coordona.",
+   "short": "Înainte de a intra în spațiul controlat, ATC trebuie să primească indicativul, poziția, aaltitudinea, ruta și destinația.",
+   "long": "Înainte de a intra din spațiul necontrolat în spațiul controlat, aeronava transmite indicativul, poziția, aaltitudinea, ruta intenționată și destinația, pentru ca ATC să o poată identifica și coordona.",
    "answers": [
     {
      "text": "Numărul de pasageri la bord, greutatea totală a aeronavei și durata zborului",
@@ -232,10 +232,10 @@
      "warn": ""
     },
     {
-     "text": "Indicativul aeronavei, poziția curentă, altitudinea, ruta intenționată și destinația",
+     "text": "Indicativul aeronavei, poziția curentă, aaltitudinea, ruta intenționată și destinația",
      "correct": true,
      "short": "",
-     "long": "Corect. Indicativul, poziția, altitudinea, ruta și destinația permit ATC să identifice și să coordoneze aeronava.",
+     "long": "Corect. Indicativul, poziția, aaltitudinea, ruta și destinația permit ATC să identifice și să coordoneze aeronava.",
      "warn": ""
     },
     {
@@ -436,7 +436,7 @@
   },
   {
    "number": "#13",
-   "text": "718: La întreruperea comunicaţiei radio în spaţiul aerian în care transponderul este obligatoriu pilotul setează transponderul în:",
+   "text": "718: La întreruperea comunicației radio în spațiul aerian în care transponderul este obligatoriu pilotul setează transponderul în:",
    "short": "Dacă comunicațiile radio sunt întrerupte într-un spațiu în care transponderul este obligatoriu, se setează codul 7600.",
    "long": "La pierderea comunicației radio, în spațiul unde transponderul este obligatoriu, pilotul setează codul 7600, care semnalează pierderea comunicațiilor.",
    "answers": [
@@ -472,26 +472,26 @@
   },
   {
    "number": "#14",
-   "text": "714: La defectarea staţiei radio în zbor în spaţiul aerian de clasă G:",
+   "text": "714: La defectarea stației radio în zbor în spațiul aerian de clasă G:",
    "short": "Dacă stația radio se defectează în zbor în spațiul de clasă G, zborul continuă, pentru că nu este obligatorie comunicarea radio în acest spațiu.",
    "long": "La defectarea stației radio în clasa G, unde comunicația radio nu este obligatorie, zborul poate continua.",
    "answers": [
     {
-     "text": "aterizaţi de urgenţă pe cel mai adecvat teren situate în spaţiu clasa G",
+     "text": "aterizați de urgență pe cel mai adecvat teren situate în spațiu clasa G",
      "correct": false,
      "short": "",
      "long": "Aterizarea de urgență nu este necesară când stația defectă și spațiul este G, unde radio nu este obligatoriu.",
      "warn": ""
     },
     {
-     "text": "vă întoarceţi imediat la locul de decolare prin spaţiul clasa G",
+     "text": "vă întoarceți imediat la locul de decolare prin spațiul clasa G",
      "correct": false,
      "short": "",
      "long": "Întoarcerea nu este necesară. Zborul poate continua în clasa G.",
      "warn": ""
     },
     {
-     "text": "vă continuaţi zborul în spaţiu clasa G",
+     "text": "vă continuați zborul în spațiu clasa G",
      "correct": true,
      "short": "",
      "long": "Corect. În clasa G comunicația radio nu este obligatorie, deci zborul poate continua.",
@@ -544,7 +544,7 @@
   },
   {
    "number": "#16",
-   "text": "725: Informaţii privind audiţia se transmit cu numere care indică calitatea recepţiei semnificaţia cifrei „4” este:",
+   "text": "725: Informații privind audiția se transmit cu numere care indică calitatea recepției semnificația cifrei „4” este:",
    "short": "Nivelul 4 de audibilitate înseamnă că mesajul se aude bine.",
    "long": "Scara de audibilitate: 4 înseamnă audibil. Cifrele mai mici descriu dificultăți tot mai mari.",
    "answers": [
@@ -724,26 +724,26 @@
   },
   {
    "number": "#21",
-   "text": "734: Dacă un pilot primeşte o instrucţiune pe care nu poate să o îndeplinească, va spune controlorului:",
+   "text": "734: Dacă un pilot primește o instrucțiune pe care nu poate să o îndeplinească, va spune controlorului:",
    "short": "Dacă nu poți executa o instrucțiune, spui „nu pot urma instrucțiunea”.",
    "long": "Dacă pilotul nu poate îndeplini o instrucțiune, spune „nu pot urma instrucțiunea”, formula standard de răspuns în fonia aeronautică.",
    "answers": [
     {
-     "text": "anulaţi instrucţiunea",
+     "text": "anulați instrucțiunea",
      "correct": false,
      "short": "",
      "long": "Pilotul nu anulează instrucțiunea. Anularea este decizia controlorului.",
      "warn": ""
     },
     {
-     "text": "negativ instrucţiunea",
+     "text": "negativ instrucțiunea",
      "correct": false,
      "short": "",
      "long": "„Negativ” înseamnă „nu”, dar nu este formula standard pentru o instrucțiune pe care nu o poți îndeplini.",
      "warn": ""
     },
     {
-     "text": "nu pot urma instrucţiunea",
+     "text": "nu pot urma instrucțiunea",
      "correct": true,
      "short": "",
      "long": "Corect. „Nu pot urma instrucțiunea” este răspunsul standard.",
@@ -1084,12 +1084,12 @@
   },
   {
    "number": "#31",
-   "text": "729: Distanţa maximă până la care aveţi obligaţia de a menţine legătura radio cu organul de trafic prin spaţiul aerian controlat de acesta prin care vă deplasaţi către spaţiul aerian de clasă G este:",
+   "text": "729: Distanța maximă până la care aveți obligația de a menține legătura radio cu organul de trafic prin spațiul aerian controlat de acesta prin care vă deplasați către spațiul aerian de clasă G este:",
    "short": "Legătura radio cu organul de trafic se menține până la ieșirea din zona controlată.",
    "long": "Legătura radio cu organul de trafic se menține până la ieșirea din zona controlată, la trecerea în spațiul G.",
    "answers": [
     {
-     "text": "până la limita audibilităţii",
+     "text": "până la limita audibilității",
      "correct": false,
      "short": "",
      "long": "Limita audibilității nu este criteriul. Legătura se menține până la ieșirea din zona controlată.",
@@ -1103,14 +1103,14 @@
      "warn": ""
     },
     {
-     "text": "până când organul de trafic va ordona schimbarea frecvenţei",
+     "text": "până când organul de trafic va ordona schimbarea frecvenței",
      "correct": false,
      "short": "",
      "long": "Ordinul de schimbare a frecvenței nu definește durata obligației. Criteriul este ieșirea din zona controlată.",
      "warn": ""
     },
     {
-     "text": "până la ieşirea din zona controlată",
+     "text": "până la ieșirea din zona controlată",
      "correct": true,
      "short": "",
      "long": "Corect. Legătura se menține până la ieșirea din zona controlată.",
@@ -1228,7 +1228,7 @@
   },
   {
    "number": "#35",
-   "text": "733: În comunicarea sol aer dintre un controlor de trafic şi motoparapantă, controlorul întotdeauna va spune:",
+   "text": "733: În comunicarea sol aer dintre un controlor de trafic și motoparapantă, controlorul întotdeauna va spune:",
    "short": "Controlorul spune întâi indicativul aeronavei și apoi mesajul.",
    "long": "În fonia aeronautică, primul element al apelului este indicativul aeronavei, apoi mesajul. Indicativul identifică aeronava cui i se adresează controlorul.",
    "answers": [
@@ -1312,10 +1312,10 @@
      "warn": ""
     },
     {
-     "text": "altitudinea de croazieră",
+     "text": "aaltitudinea de croazieră",
      "correct": false,
      "short": "",
-     "long": "Altitudinea de croazieră nu este informația esențială. Poziția contează mai mult pentru localizare.",
+     "long": "Aaltitudinea de croazieră nu este informația esențială. Poziția contează mai mult pentru localizare.",
      "warn": ""
     },
     {
@@ -1336,7 +1336,7 @@
   },
   {
    "number": "#38",
-   "text": "700: Sunteți în zbor, iar calitatea transmisiei şi a recepţiei scade datorită distanţei. În acest caz, puteți utiliza pentru a creşte calitatea transmisiei:",
+   "text": "700: Sunteți în zbor, iar calitatea transmisiei și a recepției scade datorită distanței. În acest caz, puteți utiliza pentru a crește calitatea transmisiei:",
    "short": "Butonul squelch reduce zgomotul de fond, astfel încât semnalele slabe se aud mai clar.",
    "long": "Squelch-ul (pragul de squelch) taie zgomotul de fond când nu se recepționează semnal. Așa devine recepția mai clară, dar nu mărește semnalul care vine de la distanță.",
    "answers": [
@@ -1372,9 +1372,9 @@
   },
   {
    "number": "#39",
-   "text": "706: Pe ce frecvenţa aveţi obligaţia legală să intraţi în legătură cu o aeronavă care vă interceptează?",
+   "text": "706: Pe ce frecvența aveți obligația legală să intrați în legătură cu o aeronavă care vă interceptează?",
    "short": "Pentru o aeronavă care vă interceptează, obligația legală este să intrați în legătură pe 121,5 MHz.",
-   "long": "Frecvența de urgență 121,5 MHz este cea pe care se stabilește legătura cu o aeronavă care intercepteză, conform procedurii standard.",
+   "long": "Frecvența de urgență 121,5 MHz este cea pe care se stabilește legătura cu o aeronavă care interceptează, conform procedurii standard.",
    "answers": [
     {
      "text": "123",
@@ -1480,12 +1480,12 @@
   },
   {
    "number": "#42",
-   "text": "731: Aflaţi în zbor, atunci când TWR ne comunică prin radio o informaţie, este necesar să confirmăm faptul că am recepţionat corect mesajul respectiv?",
+   "text": "731: Aflați în zbor, atunci când TWR ne comunică prin radio o informație, este necesar să confirmăm faptul că am recepționat corect mesajul respectiv?",
    "short": "Confirmarea corectă a unei informații primite de la turn este „confirm”.",
    "long": "La primirea unei informații de la turn, pilotul confirmă cu cuvântul „confirm” (sau „wilco” pentru instrucțiuni). Formula este standard în fonia aeronautică.",
    "answers": [
     {
-     "text": "este suficient să confirmăm prin răspunsul “am înţeles”",
+     "text": "este suficient să confirmăm prin răspunsul “am înțeles”",
      "correct": false,
      "short": "",
      "long": "„Am înțeles” nu este formula standard de confirmare în fonia aeronautică.",
@@ -1499,7 +1499,7 @@
      "warn": ""
     },
     {
-     "text": "trebuie să fim întotdeauna pe recepţie când ne aflăm într-o categorie de spaţiu aerian în care legătura radio este obligatorie",
+     "text": "trebuie să fim întotdeauna pe recepție când ne aflăm într-o categorie de spațiu aerian în care legătura radio este obligatorie",
      "correct": false,
      "short": "",
      "long": "Ascultarea permanentă este obligatorie, dar nu înlocuiește confirmarea mesajului.",
@@ -1516,7 +1516,7 @@
   },
   {
    "number": "#43",
-   "text": "711: Daca sunteţi în legătură cu un organ de trafic şi vi s-a oprit motorul în zbor veţi declara:",
+   "text": "711: Daca sunteți în legătură cu un organ de trafic și vi s-a oprit motorul în zbor veți declara:",
    "short": "Dacă motorul s-a oprit în zbor, se declară MAYDAY.",
    "long": "Oprirea motorului în zbor, cu aterizare forțată, este o situație de pericol grav și iminent, deci se transmite MAYDAY.",
    "answers": [
@@ -1542,7 +1542,7 @@
      "warn": ""
     },
     {
-     "text": "Nu se informeaza organul de trafic avem disponibil pentru aterizare un teren mare",
+     "text": "Nu se informează organul de trafic avem disponibil pentru aterizare un teren mare",
      "correct": false,
      "short": "",
      "long": "Nu se informează organul de trafic este greșit: în urgență se informează organul de trafic.",
@@ -1578,7 +1578,7 @@
      "warn": ""
     },
     {
-     "text": "am înteles mesajul și mă voi conforma!",
+     "text": "am înțeles mesajul și mă voi conforma!",
      "correct": true,
      "short": "",
      "long": "Corect. WILCO înseamnă că am înțeles și mă voi conforma.",
@@ -1624,12 +1624,12 @@
   },
   {
    "number": "#46",
-   "text": "712: Când transmiteţi un mesaj de urgenta aveţi obligaţia să furnizaţi următoarele informaţii:",
-   "short": "Într-un mesaj de urgență trebuie să spui poziția curentă sau ultima poziție cunoscută, altitudinea și capul compas.",
-   "long": "Într-un mesaj de urgență se dau poziția curentă sau ultima poziție cunoscută, altitudinea și capul compas, pentru a ajuta serviciile de salvare.",
+   "text": "712: Când transmiteți un mesaj de urgența aveți obligația să furnizați următoarele informații:",
+   "short": "Într-un mesaj de urgență trebuie să spui poziția curentă sau ultima poziție cunoscută, aaltitudinea și capul compas.",
+   "long": "Într-un mesaj de urgență se dau poziția curentă sau ultima poziție cunoscută, aaltitudinea și capul compas, pentru a ajuta serviciile de salvare.",
    "answers": [
     {
-     "text": "distanţa şi poziţia fată de aerodromul de plecare",
+     "text": "distanța și poziția fată de aerodromul de plecare",
      "correct": false,
      "short": "",
      "long": "Distanța față de aerodromul de plecare nu este informația obligatorie. Contează poziția actuală.",
@@ -1643,29 +1643,29 @@
      "warn": ""
     },
     {
-     "text": "poziţia după GPS",
+     "text": "poziția după GPS",
      "correct": false,
      "short": "",
-     "long": "Poziția GPS este o formă a poziției, dar mesajul cere poziția, altitudinea și capul compas.",
+     "long": "Poziția GPS este o formă a poziției, dar mesajul cere poziția, aaltitudinea și capul compas.",
      "warn": ""
     },
     {
-     "text": "poziţia curentă sau ultima poziţie ştiută împreună cu înălţimea şi capul compas",
+     "text": "poziția curentă sau ultima poziție știută împreună cu înălțimea și capul compas",
      "correct": true,
      "short": "",
-     "long": "Corect. Poziția curentă sau ultima cunoscută, altitudinea și capul compas.",
+     "long": "Corect. Poziția curentă sau ultima cunoscută, aaltitudinea și capul compas.",
      "warn": ""
     }
    ]
   },
   {
    "number": "#47",
-   "text": "721: Aţi intrat în legătură cu turnul de control al unui aeroport şi recepţionaţi mesajul “RAMÂNEȚI PE RECEPȚIE “, veţi răspunde înapoi:",
+   "text": "721: Ați intrat în legătură cu turnul de control al unui aeroport și recepționați mesajul “RAMÂNEȚI PE RECEPȚIE “, veți răspunde înapoi:",
    "short": "La „RĂMÂNEȚI PE RECEPȚIE” nu răspunzi, ci aștepți să fii rechemat.",
    "long": "„Rămâneți pe recepție” (stand by) înseamnă că pilotul nu răspunde și așteaptă să fie rechemat.",
    "answers": [
     {
-     "text": "nu răspundeţi nimic, aşteptaţi să fiţi rechemaţi",
+     "text": "nu răspundeți nimic, așteptați să fiți rechemați",
      "correct": true,
      "short": "",
      "long": "Corect. Nu se răspunde, pilotul așteaptă să fie rechemat.",
@@ -1686,7 +1686,7 @@
      "warn": ""
     },
     {
-     "text": "rămân pe recepţie",
+     "text": "rămân pe recepție",
      "correct": false,
      "short": "",
      "long": "„Rămân pe recepție” nu se spune. Pilotul așteaptă fără să răspundă.",
@@ -1840,7 +1840,7 @@
   },
   {
    "number": "#52",
-   "text": "695: Folosirea staţiei radio la bord se face în baza:",
+   "text": "695: Folosirea stației radio la bord se face în baza:",
    "short": "Stația radio de bord se folosește pe baza certificatului general de operator radiotelefonist.",
    "long": "Folosirea stației radio de bord se face în baza certificatului general de operator radiotelefonist, eliberat de ANCOM.",
    "answers": [
@@ -1852,7 +1852,7 @@
      "warn": ""
     },
     {
-     "text": "licenţei staţiei de aeronavă şi certificatului restrâns de operator radiotelefonist",
+     "text": "licenței stației de aeronavă și certificatului restrâns de operator radiotelefonist",
      "correct": false,
      "short": "",
      "long": "Licența stației și certificatul restrâns nu sunt baza folosirii stației de bord, în formularea corectă.",
@@ -1866,7 +1866,7 @@
      "warn": ""
     },
     {
-     "text": "licenţei de pilot şi a CI",
+     "text": "licenței de pilot și a CI",
      "correct": false,
      "short": "",
      "long": "Licența de pilot și CI nu sunt documentul care autorizează operarea stației radio.",
@@ -1876,7 +1876,7 @@
   },
   {
    "number": "#53",
-   "text": "717: Pe ce frecvenţa comunicaţi cu o aeronava care vă interceptează:",
+   "text": "717: Pe ce frecvența comunicați cu o aeronava care vă interceptează:",
    "short": "Frecvența de urgență pentru o aeronavă care vă interceptează este 121,5 MHz.",
    "long": "Frecvența de urgență 121,5 MHz este cea pe care se comunică la interceptare.",
    "answers": [
@@ -1912,12 +1912,12 @@
   },
   {
    "number": "#54",
-   "text": "730: Frecvenţele radio ale turnului de control ale aeroporturilor din Romania se publică în:",
+   "text": "730: Frecvențele radio ale turnului de control ale aeroporturilor din Romania se publică în:",
    "short": "Frecvențele radio ale turnurilor din România se publică în AIP România.",
    "long": "Frecvențele radio ale turnurilor de control ale aeroporturilor din România se publică în AIP România, publicația oficială de informare aeronautică.",
    "answers": [
     {
-     "text": "serviciul de trafic aerian naţional",
+     "text": "serviciul de trafic aerian național",
      "correct": false,
      "short": "",
      "long": "Serviciul de trafic aerian nu publică frecvențele în sine. Ele se află în AIP România.",
@@ -1984,26 +1984,26 @@
   },
   {
    "number": "#56",
-   "text": "709: Rămâi pe recepţie înseamnă:",
+   "text": "709: Rămâi pe recepție înseamnă:",
    "short": "„Rămâi pe recepție” înseamnă să aștepți până ești rechemat.",
    "long": "„Rămâneți pe recepție” înseamnă să aștepți până ești rechemat, fără să răspunzi.",
    "answers": [
     {
-     "text": "aşteaptă până te rechem",
+     "text": "așteaptă până te rechem",
      "correct": true,
      "short": "",
      "long": "Corect. Înseamnă să aștepți până ești rechemat.",
      "warn": ""
     },
     {
-     "text": "menţine poziţia",
+     "text": "menține poziția",
      "correct": false,
      "short": "",
      "long": "Menținerea poziției nu este sensul expresiei.",
      "warn": ""
     },
     {
-     "text": "schimba frecventa",
+     "text": "schimba frecvența",
      "correct": false,
      "short": "",
      "long": "Schimbarea frecvenței nu este sensul expresiei.",
@@ -2056,12 +2056,12 @@
   },
   {
    "number": "#58",
-   "text": "732: Cum veţi solicita repetarea unui mesaj neînţeles?",
+   "text": "732: Cum veți solicita repetarea unui mesaj neînțeles?",
    "short": "Pentru a cere repetarea unui mesaj, spui „repetați mesajul”.",
    "long": "Pentru a cere repetarea unui mesaj neînțeles se folosește „repetați”, cuvântul standard din fonia aeronautică.",
    "answers": [
     {
-     "text": "repetaţi mesajul",
+     "text": "repetați mesajul",
      "correct": true,
      "short": "",
      "long": "Corect. „Repetați mesajul” cere repetarea în fonia aeronautică.",
@@ -2075,14 +2075,14 @@
      "warn": ""
     },
     {
-     "text": "repetaţi vă rog",
+     "text": "repetați vă rog",
      "correct": false,
      "short": "",
      "long": "„Repetați vă rog” are formulă de politețe, dar nu este formula standard.",
      "warn": ""
     },
     {
-     "text": "spuneţi din nou mesajul",
+     "text": "spuneți din nou mesajul",
      "correct": false,
      "short": "",
      "long": "„Spuneți din nou mesajul” nu este formula standard din fonia aeronautică.",
@@ -2147,10 +2147,10 @@
      "warn": ""
     },
     {
-     "text": "altitudinea de croazieră",
+     "text": "aaltitudinea de croazieră",
      "correct": false,
      "short": "",
-     "long": "Altitudinea de croazieră nu este informația esențială a mesajului de primejdie.",
+     "long": "Aaltitudinea de croazieră nu este informația esențială a mesajului de primejdie.",
      "warn": ""
     },
     {
@@ -2272,7 +2272,7 @@
   },
   {
    "number": "#64",
-   "text": "701: Sunteți în zbor într-un CTR și nu sunteți sigur că stația radio pe care o aveți la bord functionează corect. In acest caz, veți:",
+   "text": "701: Sunteți în zbor într-un CTR și nu sunteți sigur că stația radio pe care o aveți la bord funcționează corect. In acest caz, veți:",
    "short": "Într-un CTR cu stația nesigură, ceri turnului un control radio folosind frazeologia dedicată.",
    "long": "Într-un CTR, dacă nu ești sigur că stația funcționează, ceri un control radio de la turn (TWR) folosind frazeologia standard.",
    "answers": [
@@ -2310,7 +2310,7 @@
    "number": "#65",
    "text": "693: Ce este un zbor VFR special?",
    "short": "Un zbor VFR special este autorizat de ATC să zboare în condiții meteo sub valorile VMC.",
-   "long": "Zborul VFR special este autorizat de ATC să se desfășoare în condiții meteo sub valorile VMC (RACR-RA, zboruri VFR speciale).",
+   "long": "Zborul VFR special este autorizat de ATC să se desfășoară în condiții meteo sub valorile VMC (RACR-RA, zboruri VFR speciale).",
    "answers": [
     {
      "text": "un zbor de instruire",
@@ -2380,26 +2380,26 @@
   },
   {
    "number": "#67",
-   "text": "722: Rămâi pe recepţie înseamnă:",
+   "text": "722: Rămâi pe recepție înseamnă:",
    "short": "„Rămâi pe recepție” înseamnă să aștepți instrucțiuni și să rămâi atent la comunicațiile radio.",
    "long": "„Rămân pe recepție” înseamnă să aștepți instrucțiuni și să rămâi atent la comunicațiile radio.",
    "answers": [
     {
-     "text": "menţine directia",
+     "text": "menține direcția",
      "correct": false,
      "short": "",
      "long": "Menținerea direcției nu este sensul expresiei.",
      "warn": ""
     },
     {
-     "text": "aşteaptă instrucţiuni, ramai atent la comunicatiile radio",
+     "text": "așteaptă instrucțiuni, ramai atent la comunicațiile radio",
      "correct": true,
      "short": "",
      "long": "Corect. Pilotul așteaptă instrucțiuni și rămâne atent la comunicații.",
      "warn": ""
     },
     {
-     "text": "menţine poziţia",
+     "text": "menține poziția",
      "correct": false,
      "short": "",
      "long": "Menținerea poziției nu este sensul expresiei.",
@@ -2560,7 +2560,7 @@
   },
   {
    "number": "#72",
-   "text": "707: Frecvenţele radio a turnurilor de control din Romania sunt publicate în:",
+   "text": "707: Frecvențele radio a turnurilor de control din Romania sunt publicate în:",
    "short": "Frecvențele turnurilor de control din România sunt publicate în AIP România.",
    "long": "Frecvențele turnurilor de control sunt publicate în AIP România, publicația oficială de informare aeronautică.",
    "answers": [
@@ -2579,7 +2579,7 @@
      "warn": ""
     },
     {
-     "text": "Regulamentul Circulaţiei Aeriene din România",
+     "text": "Regulamentul Circulației Aeriene din România",
      "correct": false,
      "short": "",
      "long": "Regulamentul circulației aeriene nu publică frecvențele turnurilor. Acestea sunt în AIP.",
@@ -2632,7 +2632,7 @@
   },
   {
    "number": "#74",
-   "text": "724: Staţiile radio de aviaţie au un domeniu de frecvenţă de:",
+   "text": "724: Stațiile radio de aviație au un domeniu de frecvență de:",
    "short": "Radiostațiile de aviație funcționează între 118 și 135,975 MHz, cu un ecart de 8,33 kHz între canale.",
    "long": "Stațiile radio de aviație lucrează în banda 118,000–135,975 MHz. În Europa canalele sunt de 8,33 kHz, mai înguste decât cele vechi de 25 kHz.",
    "answers": [
@@ -2651,7 +2651,7 @@
      "warn": ""
     },
     {
-     "text": "domeniul de frecvenţa se schimbă la fiecare 6 luni",
+     "text": "domeniul de frecvența se schimbă la fiecare 6 luni",
      "correct": false,
      "short": "",
      "long": "Domeniul de frecvență nu se schimbă la șase luni. Este stabilit prin reglementările de spectru.",
@@ -2740,7 +2740,7 @@
   },
   {
    "number": "#77",
-   "text": "723: Dacă sunteţi în legătură cu un organ de trafic şi vi s-a oprit motorul în zbor veţi declara:",
+   "text": "723: Dacă sunteți în legătură cu un organ de trafic și vi s-a oprit motorul în zbor veți declara:",
    "short": "Dacă motorul s-a oprit în zbor, se declară MAYDAY.",
    "long": "La oprirea motorului în zbor, pericolul este grav și iminent. Se transmite MAYDAY (pericol grav și iminent).",
    "answers": [
@@ -2884,7 +2884,7 @@
   },
   {
    "number": "#81",
-   "text": "716: În ce reglementare se află regulile de radiotelefonie specifice pentru aviaţie?",
+   "text": "716: În ce reglementare se află regulile de radiotelefonie specifice pentru aviație?",
    "short": "Regulile de radiotelefonie pentru aviație se află în Regulamentul stațiilor de telecomunicații.",
    "long": "Procedurile de radiotelefonie și frazeologia aviatică sunt stabilite în Anexa 10 volumul II a OACI și aplicate în România. Regulamentul stațiilor de telecomunicații stabilește regulile de funcționare a stațiilor radio, inclusiv a celor aeronautice. Codul aerian și RACR-RA reglementează zborul și circulația aeriană, nu funcționarea stațiilor radio.",
    "answers": [
@@ -2896,7 +2896,7 @@
      "warn": ""
     },
     {
-     "text": "Regulamentul staţiilor de telecomunicaţii",
+     "text": "Regulamentul stațiilor de telecomunicații",
      "correct": true,
      "short": "",
      "long": "Conține regulile de funcționare a stațiilor radio.",
@@ -2910,7 +2910,7 @@
      "warn": ""
     },
     {
-     "text": "Regulamentul circulaţiei aeriene şi serviciilor de trafic aerian",
+     "text": "Regulamentul circulației aeriene și serviciilor de trafic aerian",
      "correct": false,
      "short": "",
      "long": "Reglementează circulația aeriană, nu toate regulile de radiotelefonie.",
@@ -3208,7 +3208,7 @@
   },
   {
    "number": "#90",
-   "text": "720: Unitatea de măsura a frecventei este:",
+   "text": "720: Unitatea de măsura a frecvenței este:",
    "short": "Unitatea de măsură a frecvenței este hertzul (Hz).",
    "long": "Frecvența se măsoară în hertzi (Hz), cu multipli kHz și MHz.",
    "answers": [
@@ -3364,7 +3364,7 @@
      "warn": ""
     },
     {
-     "text": "în spațiul G stațiile de tip walkie talkie sunt oblogatorii",
+     "text": "în spațiul G stațiile de tip walkie talkie sunt obligatorii",
      "correct": false,
      "short": "",
      "long": "Walkie-talkie-urile nu sunt obligatorii în clasa G. Obligația nu există pentru zborul VFR.",
@@ -3388,7 +3388,7 @@
   },
   {
    "number": "#95",
-   "text": "726: Semnificaţia mesajului „ALERFA” este:",
+   "text": "726: Semnificația mesajului „ALERFA” este:",
    "short": "ALERFA este termenul codificat care indică o fază de alarmă.",
    "long": "ALERFA este faza de alarmă: există motive să se creadă că aeronava are probleme.",
    "answers": [
@@ -3496,7 +3496,7 @@
   },
   {
    "number": "#98",
-   "text": "727: Zburaţi cu o motoparapantă care nu este echipată cu transponder, cum veţi raporta organului de trafic când acesta va cere să afişaţi un SQUAK?",
+   "text": "727: Zburați cu o motoparapantă care nu este echipată cu transponder, cum veți raporta organului de trafic când acesta va cere să afișați un SQUAK?",
    "short": "Dacă nu ai transponder, raportezi „negativ transponder”.",
    "long": "Dacă nu ai transponder, răspunzi „negativ transponder” când ți se cere SQUAWK. Formula standard este negativ urmat de termenul transponder.",
    "answers": [

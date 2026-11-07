@@ -465,7 +465,7 @@
      "text": "Lipsa de oxigen datorată scăderii temperaturii exterioare",
      "correct": false,
      "short": "",
-     "long": "Temperatura exterioară nu definește hipoxia. Altitudinea și oxigenul sunt factorii.",
+     "long": "Temperatura exterioară nu definește hipoxia. Aaltitudinea și oxigenul sunt factorii.",
      "warn": ""
     }
    ]
@@ -616,19 +616,19 @@
   },
   {
    "number": "#18",
-   "text": "1046: Ce tehnică trebuie să folosească un pilot pentru a scana eficient spațiul aerian în care zboară şi a observa traficul aerian din apropiere?",
+   "text": "1046: Ce tehnică trebuie să folosească un pilot pentru a scana eficient spațiul aerian în care zboară și a observa traficul aerian din apropiere?",
    "short": "Pentru a scana eficient spațiul aerian, pilotul focalizează privirea pe diferite segmente ale cerului pentru intervale scurte de timp.",
    "long": "Pentru a observa traficul, pilotul focalizează privirea pe segmente ale cerului câteva secunde, apoi trece la următorul, pentru a acoperi tot spațiul.",
    "answers": [
     {
-     "text": "Se concentrează pe mişcările observate de vederea periferică",
+     "text": "Se concentrează pe mișcările observate de vederea periferică",
      "correct": false,
      "short": "",
      "long": "Vederea periferică detectează mișcarea, dar scanarea eficientă cere focalizare pe segmente.",
      "warn": ""
     },
     {
-     "text": "Îşi mută rapid privirea între bordul aeronavei și diverse segmente ale cerului",
+     "text": "Își mută rapid privirea între bordul aeronavei și diverse segmente ale cerului",
      "correct": false,
      "short": "",
      "long": "Mutarea rapidă a privirii între bord și cer nu acoperă bine spațiul.",
@@ -653,8 +653,8 @@
   {
    "number": "#19",
    "text": "1063: Care sunt factorii care pot produce tulburări de vedere în timpul zborului?",
-   "short": "Scăderea presiunii cu altitudinea, hiperventilația, oboseala fizică și nervoasă pot produce tulburări de vedere.",
-   "long": "Scăderea presiunii cu altitudinea, hiperventilația, oboseala și alți factori pot produce tulburări de vedere, deoarece reduc oxigenul și controlul muscular.",
+   "short": "Scăderea presiunii cu aaltitudinea, hiperventilația, oboseala fizică și nervoasă pot produce tulburări de vedere.",
+   "long": "Scăderea presiunii cu aaltitudinea, hiperventilația, oboseala și alți factori pot produce tulburări de vedere, deoarece reduc oxigenul și controlul muscular.",
    "answers": [
     {
      "text": "Creșterea temperaturii corpului și scăderea umidității",
@@ -667,14 +667,14 @@
      "text": "Scăderea presiunii odată cu creșterea altitudinii, hiperventilația, oboseala fizică și nervoasă",
      "correct": true,
      "short": "",
-     "long": "Corect. Altitudinea, hiperventilația și oboseala produc tulburări de vedere.",
+     "long": "Corect. Aaltitudinea, hiperventilația și oboseala produc tulburări de vedere.",
      "warn": ""
     },
     {
      "text": "Consumul de lichide în exces și lipsa somnului",
      "correct": false,
      "short": "",
-     "long": "Consumul de lichide și lipsa somnului pot influența, dar răspunsul complet cuprinde altitudinea și hiperventilația.",
+     "long": "Consumul de lichide și lipsa somnului pot influența, dar răspunsul complet cuprinde aaltitudinea și hiperventilația.",
      "warn": ""
     },
     {
@@ -760,12 +760,12 @@
   },
   {
    "number": "#22",
-   "text": "992: Unul dintre factorii principali care contribuie la răul de mişcare este:",
+   "text": "992: Unul dintre factorii principali care contribuie la răul de mișcare este:",
    "short": "Unul dintre factorii principali ai răului de mișcare este neconcordanța dintre percepția vizuală și reacția senzorilor vestibulari.",
    "long": "Răul de mișcare apare când informațiile vizuale și cele ale aparatului vestibular nu coincid, deci creierul primește semnale contradictorii.",
    "answers": [
     {
-     "text": "neconcordanta dintre percepţia vizuală și reacţia senzorilor vestibulari",
+     "text": "neconcordanta dintre percepția vizuală și reacția senzorilor vestibulari",
      "correct": true,
      "short": "",
      "long": "Corect. Neconcordanța dintre vedere și vestibular provoacă răul de mișcare.",
@@ -880,7 +880,7 @@
      "warn": ""
     },
     {
-     "text": "se pot consuma cantităţi mici de băuturi alcoolice pentru încălzire",
+     "text": "se pot consuma cantități mici de băuturi alcoolice pentru încălzire",
      "correct": false,
      "short": "",
      "long": "Alcoolul nu încălzește corpul. Dimpotrivă, dă o senzație falsă de căldură și reduce atenția.",
@@ -1192,12 +1192,12 @@
   },
   {
    "number": "#34",
-   "text": "981: Firele reţelelor de transport al curentului electric (sau de orice altă natură) se observă în general mult mai greu dacă zburăm:",
+   "text": "981: Firele rețelelor de transport al curentului electric (sau de orice altă natură) se observă în general mult mai greu dacă zburăm:",
    "short": "Firele liniilor electrice se observă mai greu când zbori deasupra lor, având ca fundal solul.",
    "long": "Firele electrice sunt subțiri și se confundă cu solul când sunt privite de sus, deoarece fundalul este solul.",
    "answers": [
     {
-     "text": "la acelaşi nivel cu ele, plasându-le chiar pe orizont",
+     "text": "la același nivel cu ele, plasându-le chiar pe orizont",
      "correct": false,
      "short": "",
      "long": "Firele sunt greu de văzut și pe orizont, dar varianta cea mai clară este zborul deasupra cu solul ca fundal.",
@@ -1218,7 +1218,7 @@
      "warn": ""
     },
     {
-     "text": "se observă mai bine de sub nivelul lor dar un astfel de zbor nu este permis întrucât înălţimea minimă de siguranţă este de 150 m (cu excepţia etapelor de decolare şi aterizare)",
+     "text": "se observă mai bine de sub nivelul lor dar un astfel de zbor nu este permis întrucât înălțimea minimă de siguranță este de 150 m (cu excepția etapelor de decolare și aterizare)",
      "correct": false,
      "short": "",
      "long": "Zborul de sub fire nu este interzis ca regulă generală. Firele se văd mai bine de sub ele, pe cer.",
@@ -1312,7 +1312,7 @@
      "warn": ""
     },
     {
-     "text": "încercati să zburati acrobatic deasemenea, încât sunt spectatori la sol și doriți să impresionați",
+     "text": "încercați să zburati acrobatic deasemenea, încât sunt spectatori la sol și doriți să impresionați",
      "correct": false,
      "short": "",
      "long": "Imitarea acrobațiilor periculoase nu este corectă, nici pentru spectatori.",
@@ -1535,7 +1535,7 @@
      "warn": ""
     },
     {
-     "text": "neatenţia pilotului în zbor la observarea spaţiului aerian",
+     "text": "neatenția pilotului în zbor la observarea spațiului aerian",
      "correct": false,
      "short": "",
      "long": "Neatenția pilotului este un factor de pericol, dar în enunț este formulată ca observare, nu ca factor principal de pericol.",
@@ -1614,7 +1614,7 @@
      "warn": ""
     },
     {
-     "text": "neatenţia pilotului în zbor la observarea spaţiului aerian",
+     "text": "neatenția pilotului în zbor la observarea spațiului aerian",
      "correct": false,
      "short": "",
      "long": "Neatenția este un risc, dar în această formulare răspunsul principal este graba fără verificări.",
@@ -1701,7 +1701,7 @@
    "long": "La altitudini mari apar factorii de risc pentru organism: hipoxia, presiunea scăzută și frigul.",
    "answers": [
     {
-     "text": "când echipajul nu este protejat împotriva zgomotului şi trepidaţiilor aeronavei",
+     "text": "când echipajul nu este protejat împotriva zgomotului și trepidațiilor aeronavei",
      "correct": false,
      "short": "",
      "long": "Zgomotul și trepidațiile sunt disconfort, dar factorul principal la altitudine este lipsa oxigenului.",
@@ -1718,11 +1718,11 @@
      "text": "când decolăm la temperaturi peste 35 grade",
      "correct": false,
      "short": "",
-     "long": "Temperatura de peste 35 de grade nu este factorul principal de risc în zbor. Riscul principal este altitudinea.",
+     "long": "Temperatura de peste 35 de grade nu este factorul principal de risc în zbor. Riscul principal este aaltitudinea.",
      "warn": ""
     },
     {
-     "text": "la înălţimi mari de zbor",
+     "text": "la înălțimi mari de zbor",
      "correct": true,
      "short": "",
      "long": "Corect. La altitudini mari apar riscurile pentru organism.",
@@ -1804,7 +1804,7 @@
   },
   {
    "number": "#51",
-   "text": "999: Unul dintre factorii principali care contribuie la răul de mişcare este:",
+   "text": "999: Unul dintre factorii principali care contribuie la răul de mișcare este:",
    "short": "Răul de mișcare apare din cauza neconcordanței dintre percepția vizuală și reacția senzorilor vestibulari.",
    "long": "Răul de mișcare apare când informația vizuală nu coincide cu cea a aparatului vestibular, deci creierul primește semnale contradictorii.",
    "answers": [
@@ -1816,7 +1816,7 @@
      "warn": ""
     },
     {
-     "text": "neconcordanța dintre percepţia vizuală și reacţia senzorilor vestibulari",
+     "text": "neconcordanța dintre percepția vizuală și reacția senzorilor vestibulari",
      "correct": true,
      "short": "",
      "long": "Corect. Neconcordanța dintre vedere și vestibular cauzează răul de mișcare.",
@@ -1917,7 +1917,7 @@
    "long": "Un pilot bun știe când să nu zboare: renunțarea la zbor, când condițiile nu sunt sigure, este primul criteriu de siguranță.",
    "answers": [
     {
-     "text": "să zboare pe orice condiţie meteo",
+     "text": "să zboare pe orice condiție meteo",
      "correct": false,
      "short": "",
      "long": "Zborul pe orice condiție meteo nu este regula unui pilot bun.",
@@ -1931,7 +1931,7 @@
      "warn": ""
     },
     {
-     "text": "să ştie când să renunţe să decoleze",
+     "text": "să știe când să renunțe să decoleze",
      "correct": true,
      "short": "",
      "long": "Corect. Un pilot bun știe când să renunțe.",
@@ -2164,12 +2164,12 @@
   },
   {
    "number": "#61",
-   "text": "982: Care este direcţia predominantă în care trebuie să ne orientăm privirea astfel încât o aeronavă să poată fi pilotată (controlată) cât mai bine în condiţii de siguranţă?",
+   "text": "982: Care este direcția predominantă în care trebuie să ne orientăm privirea astfel încât o aeronavă să poată fi pilotată (controlată) cât mai bine în condiții de siguranță?",
    "short": "Privirea trebuie orientată predominant spre față, observând permanent spațiul aerian.",
    "long": "Pentru a controla aeronava în siguranță, privirea se îndreaptă predominant înainte, cu observarea permanentă a spațiului aerian.",
    "answers": [
     {
-     "text": "predominant către faţă obsevând în permanenţă spaţiul aerian",
+     "text": "predominant către față obsevând în permanență spațiul aerian",
      "correct": true,
      "short": "",
      "long": "Corect. Privirea predominant înainte, cu observarea spațiului.",
@@ -2291,7 +2291,7 @@
      "warn": ""
     },
     {
-     "text": "vă continuati zborul pentru ca fiecare pilot e responsabil pentru siguranța proprie",
+     "text": "vă continuați zborul pentru ca fiecare pilot e responsabil pentru siguranța proprie",
      "correct": false,
      "short": "",
      "long": "Continuarea zborului fără ajutor nu este solidaritatea cerută. Se analizează posibilitatea de ajutor.",
@@ -2452,7 +2452,7 @@
   },
   {
    "number": "#69",
-   "text": "983: Pentru a putea zbura în siguranță, reglementarile impun:",
+   "text": "983: Pentru a putea zbura în siguranță, reglementările impun:",
    "short": "Pentru a zbura în siguranță, reglementările impun 8 ore de somn.",
    "long": "Odihna suficientă este necesară pentru atenție și reacție. Lipsa de somn reduce atenția și timpul de reacție, iar pilotul trebuie să fie odihnit înainte de zbor.",
    "answers": [
@@ -2687,7 +2687,7 @@
      "warn": ""
     },
     {
-     "text": "se murdăreşte parbrizul şi scade vizibilitatea",
+     "text": "se murdărește parbrizul și scade vizibilitatea",
      "correct": false,
      "short": "",
      "long": "Parbrizul nu este piesa principală la paramotor. Problema este lipsa reperelor.",
@@ -2704,7 +2704,7 @@
   },
   {
    "number": "#76",
-   "text": "986: Peste ce înălţime poate aparea hipoxia (boala de înălţime)?",
+   "text": "986: Peste ce înălțime poate aparea hipoxia (boala de înălțime)?",
    "short": "Hipoxia, sau boala de altitudine, poate apărea de la 3000 m.",
    "long": "Hipoxia (boala de altitudine) poate apărea de la circa 3000 m, unde oxigenul din aer este mai puțin disponibil.",
    "answers": [
@@ -2788,7 +2788,7 @@
      "warn": ""
     },
     {
-     "text": "să zboare pe orice condiţie meteo",
+     "text": "să zboare pe orice condiție meteo",
      "correct": false,
      "short": "",
      "long": "Zborul pe orice condiție meteo nu este regula unui pilot bun.",
@@ -2802,7 +2802,7 @@
      "warn": ""
     },
     {
-     "text": "să ştie când condiția fizică, psihică și conditiile meteo pot pune în pericol siguranța zborului și să nu forteze decolarea",
+     "text": "să știe când condiția fizică, psihică și condițiile meteo pot pune în pericol siguranța zborului și să nu forteze decolarea",
      "correct": true,
      "short": "",
      "long": "Corect. Un pilot bun știe când poate fi pusă în pericol siguranța.",
@@ -2817,21 +2817,21 @@
    "long": "Vălul negru (greyout) apare la accelerații pozitive, când sângele se mută spre picioare și ochii rămân fără aport suficient.",
    "answers": [
     {
-     "text": "acceleraţii gravitaţionale pozitive",
+     "text": "accelerații gravitaționale pozitive",
      "correct": true,
      "short": "",
      "long": "Corect. Vălul negru apare la accelerații pozitive.",
      "warn": ""
     },
     {
-     "text": "acceleraţii gravitaţionale peste -2 G",
+     "text": "accelerații gravitaționale peste -2 G",
      "correct": false,
      "short": "",
      "long": "Accelerațiile de peste −2 G nu produc vălul negru în sensul întrebării.",
      "warn": ""
     },
     {
-     "text": "acceleraţii gravitaţionale negative",
+     "text": "accelerații gravitaționale negative",
      "correct": false,
      "short": "",
      "long": "Accelerațiile negative produc altă situație, nu vălul negru.",
@@ -2860,14 +2860,14 @@
      "warn": ""
     },
     {
-     "text": "curentul de aer răceşte continuu temperatura corpului pilotului",
+     "text": "curentul de aer răcește continuu temperatura corpului pilotului",
      "correct": true,
      "short": "",
      "long": "Corect. Curentul de aer răcește continuu corpul.",
      "warn": ""
     },
     {
-     "text": "există tendinţa de bruscare a aeronavei",
+     "text": "există tendința de bruscare a aeronavei",
      "correct": false,
      "short": "",
      "long": "Bruscarea aeronavei nu este motivul principal al pericolului.",
@@ -3432,7 +3432,7 @@
      "text": "Zburând la altitudini foarte mari",
      "correct": false,
      "short": "",
-     "long": "Altitudinea mare nu previne răul de mișcare, ci poate produce alte probleme.",
+     "long": "Aaltitudinea mare nu previne răul de mișcare, ci poate produce alte probleme.",
      "warn": ""
     },
     {
@@ -3753,7 +3753,7 @@
    "long": "Hipoxia este lipsa de oxigen în țesuturi, care apare la altitudine, unde aerul are mai puțin oxigen.",
    "answers": [
     {
-     "text": "lipsa de oxigen datorată creşterii înălţimii",
+     "text": "lipsa de oxigen datorată creșterii înălțimii",
      "correct": true,
      "short": "",
      "long": "Corect. Hipoxia este lipsa de oxigen din cauza altitudinii.",
@@ -3774,7 +3774,7 @@
      "warn": ""
     },
     {
-     "text": "creşterea presiunii arteriale datorată creşterii înălţimii",
+     "text": "creșterea presiunii arteriale datorată creșterii înălțimii",
      "correct": false,
      "short": "",
      "long": "Tensiunea arterială nu definește hipoxia.",
@@ -3784,7 +3784,7 @@
   },
   {
    "number": "#106",
-   "text": "1002: Pentru păstrarea întregii capacitaţi a aptitudinilor de zbor este interzis:",
+   "text": "1002: Pentru păstrarea întregii capacitați a aptitudinilor de zbor este interzis:",
    "short": "Pentru păstrarea aptitudinilor de zbor este interzis consumul de alcool, oricare ar fi cantitatea și cauza.",
    "long": "Consumul de alcool este interzis, oricare ar fi cantitatea și cauza, deoarece afectează capacitatea de zbor chiar și în cantități mici.",
    "answers": [
@@ -3803,14 +3803,14 @@
      "warn": ""
     },
     {
-     "text": "a nu se respecta programul de odihnă regulamentar, în timpul aşteptării pentru zbor precum şi în timpul zborului",
+     "text": "a nu se respecta programul de odihnă regulamentar, în timpul așteptării pentru zbor precum și în timpul zborului",
      "correct": false,
      "short": "",
      "long": "Programul de odihnă este obligatoriu, dar răspunsul complet este interdicția consumului de alcool.",
      "warn": ""
     },
     {
-     "text": "consumul de alcool oricare ar fi cantitatea şi cauza",
+     "text": "consumul de alcool oricare ar fi cantitatea și cauza",
      "correct": true,
      "short": "",
      "long": "Corect. Consumul de alcool este interzis, oricare ar fi cantitatea și cauza.",
@@ -3856,33 +3856,33 @@
   },
   {
    "number": "#108",
-   "text": "1000: Suferiţi de o răceală cu blocare parţială a sinusurilor, aveţi nasul înfundat şi trebuie să zburaţi, ce veţi face?",
+   "text": "1000: Suferiți de o răceală cu blocare parțială a sinusurilor, aveți nasul înfundat și trebuie să zburați, ce veți face?",
    "short": "Dacă ai o răceală cu blocare parțială a sinusurilor și nasul înfundat, se recomandă să nu zbori.",
    "long": "Sinusurile blocate îngreunează egalizarea presiunii. Zborul nu se recomandă în această stare, pentru a evita durerea și barotrauma.",
    "answers": [
     {
-     "text": "zburaţi normal dar cu condiţia să nu urcaţi sau coborâţi cu rate mari",
+     "text": "zburați normal dar cu condiția să nu urcați sau coborâți cu rate mari",
      "correct": false,
      "short": "",
      "long": "Zborul cu rate mici nu elimină riscul la sinusuri blocate.",
      "warn": ""
     },
     {
-     "text": "se recomandă să nu zburaţi",
+     "text": "se recomandă să nu zburați",
      "correct": true,
      "short": "",
      "long": "Corect. Zborul nu se recomandă cu sinusurile blocate.",
      "warn": ""
     },
     {
-     "text": "puteţi zbura normal",
+     "text": "puteți zbura normal",
      "correct": false,
      "short": "",
      "long": "Zborul normal este riscant cu sinusurile blocate.",
      "warn": ""
     },
     {
-     "text": "luaţi un decongestionant cu o jumătate de ora înainte de zbor",
+     "text": "luați un decongestionant cu o jumătate de ora înainte de zbor",
      "correct": false,
      "short": "",
      "long": "Decongestionantul nu este un substitut al deciziei de a nu zbura, iar efectele lui afectează atenția.",
@@ -4000,7 +4000,7 @@
   },
   {
    "number": "#112",
-   "text": "985: Iniţial la apariţia hipoxiei se instalează:",
+   "text": "985: Inițial la apariția hipoxiei se instalează:",
    "short": "La apariția hipoxiei se instalează inițial o senzație de confort și de putere, care dă o stare euforică.",
    "long": "La începutul hipoxiei apare o senzație de bine și euforie, care face pilotul să nu sesizeze pericolul.",
    "answers": [
@@ -4026,7 +4026,7 @@
      "warn": ""
     },
     {
-     "text": "o senzaţie de confort, de putere care dă o stare euforică",
+     "text": "o senzație de confort, de putere care dă o stare euforică",
      "correct": true,
      "short": "",
      "long": "Corect. Senzația de confort și euforia sunt inițiale.",
@@ -4185,21 +4185,21 @@
    "long": "Monoxidul de carbon reduce transportul oxigenului în sânge și produce dureri de cap, mai ales la nivelul frunții și al tâmplelor.",
    "answers": [
     {
-     "text": "senzaţie de pierdere a apetitului",
+     "text": "senzație de pierdere a apetitului",
      "correct": false,
      "short": "",
      "long": "Pierderea apetitului nu este simptomul tipic al monoxidului de carbon.",
      "warn": ""
     },
     {
-     "text": "dureri de cap la nivelul creierului parietal (în zona frunţii şi tâmplă)",
+     "text": "dureri de cap la nivelul creierului parietal (în zona frunții și tâmplă)",
      "correct": true,
      "short": "",
      "long": "Corect. Monoxidul de carbon produce dureri de cap în zona frunții și tâmplelor.",
      "warn": ""
     },
     {
-     "text": "o stare de euforie generala şi agitaţie",
+     "text": "o stare de euforie generala și agitație",
      "correct": false,
      "short": "",
      "long": "Euforia nu este simptomul tipic al monoxidului de carbon.",
