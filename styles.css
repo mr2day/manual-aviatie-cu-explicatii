@@ -771,3 +771,8 @@ details.question-more .more-body {
   color: #ffffff;
   text-decoration: underline;
 }
+
+/* Prima întrebare a capitolului începe la același nivel cu documentele */
+.content > section.question:first-of-type {
+  margin-top: 0;
+}
