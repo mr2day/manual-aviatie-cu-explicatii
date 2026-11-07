@@ -20,6 +20,7 @@ const component = name => fs.readFileSync(path.join(componentsDir, name), 'utf8'
 const header = component('header.html');
 const sidebar = component('sidebar.html');
 const mainContent = component('main-content.html');
+const menuBar = component('menu-bar.html');
 
 const html = `<!DOCTYPE html>
 <html lang="ro">
@@ -31,6 +32,7 @@ const html = `<!DOCTYPE html>
 </head>
 <body>
 ${header}
+${menuBar}
   <div class="layout">
 ${sidebar}
 ${mainContent}

@@ -848,3 +848,17 @@ details.question-more .more-body {
 .menu-current { font-weight: 400; letter-spacing: 0.5px; text-transform: none; opacity: 0.9; }
 .menu-current:empty { display: none; }
 .menu-current::before { content: "· "; }
+
+.menu-bar { display: none; }
+@media (max-width: 900px) {
+  .menu-bar {
+    display: block;
+    position: sticky;
+    top: 0;
+    z-index: 30;
+    padding: 8px 16px;
+    background: var(--page);
+    border-bottom: 1px solid var(--border);
+    text-align: center;
+  }
+}
