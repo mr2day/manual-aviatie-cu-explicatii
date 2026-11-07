@@ -24,7 +24,7 @@ un avertisment (`warn`) și explicația corectă.
 | 02 Cunoașterea aeronavei / întreținere | 104 | făcut, cu 3 blocate (44, 81, 93) |
 | 03 Legislație | 105 | 1–105 făcute, cu 4 blocate (20, 58, 90, 105): lipsesc sursele |
 | 04 Meteorologie | 87 | făcut, cu 7 blocate pe figuri (22, 29, 44, 67, 72, 80, 86): răspunsul depinde de desen, care nu e în repo |
-| 05 Navigație | 94 | făcut, cu 3 blocate: 19 (simbolul de pe hartă; explicația A e încă goală), 34 (figură; răspunsul depinde de desen) |
+| 05 Navigație | 94 | făcut, cu 1 blocată: 34 (figură; răspunsul depinde de desen). 19 completată |
 | 06 Performanțe de zbor | 101 | făcut, cu 2 blocate (8: distanța de ocolire a aerodromului nu e în docs; 66: amestecul ulei–benzină, durata nu e confirmată) |
 | 07 Performanțe umane | 119 | făcut, cu 2 blocate (41: 12 ore după alcool nu e în docs; 69: cifra de 8 ore nu e confirmată) |
 | 08 Proceduri operaționale | 117 | făcut, cu 5 blocate (9: direcția virajului după decolare; 31: cifra de 600 m; 53: amerizare cu vânt slab; 94 și 106: procedura constructorului) |
