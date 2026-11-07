@@ -712,3 +712,46 @@ details.question-more .more-body {
 .doc-link:hover {
   text-decoration: underline;
 }
+
+.doc-title {
+ font-size: 1.5rem;
+ line-height: 1.25;
+ margin: 0 0 0.4rem;
+ color: var(--heading);
+}
+
+.doc-meta {
+ font-size: 0.9rem;
+ margin: 0 0 1.25rem;
+ color: var(--text);
+}
+.doc-meta a {
+ color: var(--accent);
+}
+
+.doc-body h2 {
+ font-size: 1.2rem;
+ margin: 2rem 0 0.6rem;
+ color: var(--heading);
+ border-bottom: 1px solid var(--border);
+ padding-bottom: 0.3rem;
+}
+
+.doc-body h3 {
+ font-size: 1rem;
+ margin: 1.4rem 0 0.4rem;
+ color: var(--accent);
+}
+
+.doc-body p {
+ font-size: 0.98rem;
+ line-height: 1.6;
+ margin: 0 0 0.8rem;
+ text-align: justify;
+ hyphens: auto;
+}
+
+.doc-body p.item {
+ padding-left: 1.2rem;
+ text-indent: -1.2rem;
+}

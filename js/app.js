@@ -129,12 +129,52 @@
     window.scrollTo(0, 0);
   }
 
+  // Documentele se afișează în zona principală, ca orice conținut. Fiecare document este
+  // un fragment încărcat la cerere (docs/fragments/<slug>.js).
+  function renderDoc(d) {
+    var main = document.getElementById('content');
+    main.textContent = '';
+    main.appendChild(el('h1', 'doc-title', d.title));
+    var meta = el('p', 'doc-meta');
+    meta.innerHTML = d.meta;
+    main.appendChild(meta);
+    var body = el('div', 'doc-body');
+    body.innerHTML = d.html;
+    main.appendChild(body);
+    window.scrollTo(0, 0);
+  }
+
+  function showDocMissing() {
+    var main = document.getElementById('content');
+    main.textContent = '';
+    main.appendChild(el('h1', 'doc-title', 'Documentul nu a putut fi încărcat.'));
+  }
+
+  function loadDoc(slug) {
+    var frags = window.DOC_FRAGMENTS || {};
+    if (frags[slug]) { renderDoc(frags[slug]); return; }
+    var s = document.createElement('script');
+    s.src = 'docs/fragments/' + slug + '.js';
+    s.onload = function () {
+      var f = (window.DOC_FRAGMENTS || {})[slug];
+      if (f) renderDoc(f); else showDocMissing();
+    };
+    s.onerror = showDocMissing;
+    document.body.appendChild(s);
+  }
+
   function route() {
-    var id = (location.hash || '#01').slice(1);
-    var c = byId[id] || chapters[0];
+    var hash = location.hash || '#01';
+    if (hash.indexOf('#doc/') === 0) {
+      renderNav(null);
+      loadDoc(hash.slice(5));
+      return;
+    }
+    var c = byId[hash.slice(1)] || chapters[0];
     renderNav(c.id);
     renderChapter(c);
   }
+
 
   window.addEventListener('hashchange', route);
   route();
