@@ -191,7 +191,7 @@
     {
      "text": "fişa de pregătire practică în zbor",
      "correct": false,
-     "short": "Fișa de pregătire practică în zbor.",
+     "short": "",
      "long": "Fișa de pregătire practică în zbor este documentul de pregătire, completat de instructor, nu este evidența zborurilor pilotului (RACR-LPAN ULM.4020 lit. b și c).",
      "warn": ""
     },
@@ -320,7 +320,7 @@
     {
      "text": "fie autorizate de primărie",
      "correct": false,
-     "short": "Să fie autorizate de primărie.",
+     "short": "",
      "long": "Autorizarea de la primărie nu este condiția generală. Primăria poate stabili restricții de zbor pe teren, dar nu emite autorizarea de principiu (Codul aerian, art. 14 alin. 2 lit. d).",
      "warn": ""
     }
@@ -356,7 +356,7 @@
     {
      "text": "cu autorizarea unităţii de trafic aerian respective",
      "correct": false,
-     "short": "Cu autorizarea unității de trafic aerian respective.",
+     "short": "",
      "long": "Autorizarea ATS există doar pentru excepții punctuale, de exemplu zborul VFR peste FL 200 (RACR-RA 4.040). Regula generală pentru clasa A rămâne interzicerea zborului VFR.",
      "warn": ""
     }
@@ -565,7 +565,7 @@
     {
      "text": "\"zborurile VFR nu sunt permise în zona de control de aerodrom",
      "correct": false,
-     "short": "Zborurile VFR nu sunt permise în zona de control de aerodrom.",
+     "short": "",
      "long": "Zborul VFR nu este interzis în zona de control. Este permis cu autorizare ATC (RACR-RA 2.4.3).",
      "warn": ""
     },
@@ -587,7 +587,7 @@
     {
      "text": "numărul de zboruri efectuate cu aeronava, inclusiv cantitatea de combustibil utilizată",
      "correct": false,
-     "short": "Numărul de zboruri efectuate, inclusiv cantitatea de combustibil utilizată.",
+     "short": "",
      "long": "Combustibilul consumat nu este înscris ca obiect al livretului. Livretul ține evidența zborurilor și a întreținerii (RACR-CCO ULM 1095).",
      "warn": ""
     },
@@ -659,28 +659,28 @@
     {
      "text": "aeronavele care solicită aterizarea peste rând datorită unei situații speciale la bord au prioritate",
      "correct": true,
-     "short": "Aeronavele care solicită aterizarea peste rând datorită unei situații speciale la bord.",
+     "short": "",
      "long": "Corect. O aeronavă care cere aterizarea peste rând din cauza unei situații speciale la bord are prioritate (RACR-RA 2.5.3).",
      "warn": ""
     },
     {
      "text": "aeronavele cu motoare cu piston au prioritate",
      "correct": false,
-     "short": "Aeronavele cu motoare cu piston.",
+     "short": "",
      "long": "Tipul de motor nu determină prioritatea la aterizare (RACR-RA 2.5).",
      "warn": ""
     },
     {
      "text": "aeronavele de transport marfă au prioritate",
      "correct": false,
-     "short": "Aeronavele de transport marfă.",
+     "short": "",
      "long": "Transportul de marfă nu conferă prioritate la aterizare (RACR-RA 2.5).",
      "warn": ""
     },
     {
      "text": "aeronavele cu viteza mai mare au prioritate",
      "correct": false,
-     "short": "Aeronavele cu viteza mai mare.",
+     "short": "",
      "long": "Viteza nu determină prioritatea. Regula din RACR-RA 2.5.2 se referă la nivelul de zbor și la aeronava aflată în etapele finale ale apropierii.",
      "warn": ""
     }
@@ -889,7 +889,7 @@
     {
      "text": "document care specifică capacitatea maximă de încărcare a unei aeronave",
      "correct": false,
-     "short": "Document care specifică capacitatea maximă de încărcare.",
+     "short": "",
      "long": "Capacitatea maximă de încărcare este masa, nu certificatul de navigabilitate.",
      "warn": ""
     },
@@ -947,7 +947,7 @@
     {
      "text": "efectuarea de zboruri de către aeronavele civile care dețin certificat de navigabilitate, emis conform legislației și reglementărilor in vigoare",
      "correct": false,
-     "short": "Efectuarea de zboruri de către aeronavele civile care dețin certificat de navigabilitate.",
+     "short": "",
      "long": "Zborul aeronavelor cu certificat de navigabilitate nu este interzis ca atare. Interdicția din art. 15 alin. 2 vizează înălțimea sub 300 m față de obstacolele din raza de 600 m.",
      "warn": ""
     },
@@ -961,14 +961,14 @@
     {
      "text": "efectuarea de către aeronavele civile a zborurilor la înălțimi mai mici de 300 de metri față de cel mai înalt obstacol fix, cu excepția celor care execută proceduri de aterizare/ decolare pe/de pe aerodromuri certificate",
      "correct": true,
-     "short": "Efectuarea zborurilor la înălțimi mai mici de 300 m față de cel mai înalt obstacol fix, cu excepția procedurilor pe aerodromuri certificate.",
+     "short": "",
      "long": "Corect. Codul aerian, art. 15 alin. 2, interzice zborul sub 300 m față de obstacolele din raza de 600 m deasupra zonelor dens populate, cu excepția procedurilor pe aerodromuri certificate.",
      "warn": ""
     },
     {
      "text": "efectuarea de către aeronavele civile a zborurilor la înălțimi mai mici de 150 de metri față de cel mai înalt obstacol fix, cu excepția celor care execută proceduri de aterizare/ decolare pe/de pe aerodromuri certificate",
      "correct": false,
-     "short": "Efectuarea zborurilor la înălțimi mai mici de 150 m față de cel mai înalt obstacol fix.",
+     "short": "",
      "long": "150 m nu este pragul. Codul aerian, art. 15 alin. 2, stabilește 300 m.",
      "warn": ""
     }
@@ -983,28 +983,28 @@
     {
      "text": "proprietarilor sau deţinătorilor de aeronave cu licenţa de pilot în termen de valabilitate",
      "correct": false,
-     "short": "Proprietarilor sau deținătorilor de aeronave cu licența de pilot în termen de valabilitate.",
+     "short": "",
      "long": "Calitatea de proprietar sau de deținător nu acordă dreptul de zbor cu pasageri. Este necesară autorizația specială (RACR-LPAN ULM.2030).",
      "warn": ""
     },
     {
      "text": "piloţilor care deţin autorizaţia respectivă, iar aeronava este omologată",
      "correct": false,
-     "short": "Piloților care dețin autorizația respectivă, iar aeronava este omologată.",
+     "short": "",
      "long": "Omologarea aeronavei nu este condiția pentru zborul cu pasageri. Condiția este autorizația specială a pilotului (RACR-LPAN ULM.2030).",
      "warn": ""
     },
     {
      "text": "piloţilor care deţin autorizaţia respectivă",
      "correct": true,
-     "short": "Piloților care dețin autorizația respectivă.",
+     "short": "",
      "long": "Corect. Zborul cu pasageri este permis piloților care au autorizația specială (RACR-LPAN ULM.2030).",
      "warn": ""
     },
     {
      "text": "piloţilor care au acumulat minimum 150 ore experienţa de zbor în calitate de pilot comandant",
      "correct": false,
-     "short": "Piloților care au acumulat minimum 150 de ore de zbor ca pilot comandant.",
+     "short": "",
      "long": "Numărul de ore de zbor ca pilot comandant nu este condiția din regulament pentru zborul cu pasageri. Condiția este autorizația specială.",
      "warn": ""
     }
@@ -1019,7 +1019,7 @@
     {
      "text": "24 luni de la data examinării teoretice",
      "correct": true,
-     "short": "24 de luni de la data examinării teoretice.",
+     "short": "",
      "long": "Valabilitatea licenței de ULM este de 24 de luni de la data examinării teoretice (RACR-LPAN ULM.2025). Celelalte perioade nu corespund regulamentului.",
      "warn": ""
     },
@@ -1040,7 +1040,7 @@
     {
      "text": "36 luni de la data examinării teoretice",
      "correct": false,
-     "short": "36 de luni de la data examinării teoretice.",
+     "short": "",
      "long": "36 de luni nu corespund RACR-LPAN ULM.2025, care dă 24 de luni de la examinarea teoretică.",
      "warn": ""
     }
@@ -1091,28 +1091,28 @@
     {
      "text": "36 de luni indiferent de vârstă",
      "correct": false,
-     "short": "36 de luni, indiferent de vârstă.",
+     "short": "",
      "long": "Nu. Valabilitatea nu este aceeași la toate vârstele. MED.A.045 leagă perioada de vârsta titularului, deci 36 de luni fixe nu corespund regulamentului.",
      "warn": ""
     },
     {
      "text": "60 de luni pentru persoanele cu vârsta mai mică de 30 de ani, 24 de luni pentru persoanele cu vârsta cuprinsă între 30 de ani şi 50 de ani, 12 de luni pentru persoanele cu vârsta mai mare de 50 de ani",
      "correct": true,
-     "short": "60 de luni pentru sub 30 de ani, 24 de luni între 30 și 50 de ani, 12 luni peste 50 de ani.",
+     "short": "",
      "long": "Structura este corectă: trei perioade care scad cu vârsta (60, 24, 12 luni). Pragurile de vârstă sunt însă 40 și 50 de ani (MED.A.045 lit. a pct. 3), nu 30 și 50.",
      "warn": "Pragul de 30 de ani din această variantă nu corespunde regulamentului. MED.A.045 lit. a pct. 3 (Regulamentul (UE) 2019/27) stabilește: 60 de luni până la 40 de ani, 24 de luni între 40 și 50 de ani, 12 luni peste 50 de ani."
     },
     {
      "text": "1 an indiferent de vârstă",
      "correct": false,
-     "short": "1 an, indiferent de vârstă.",
+     "short": "",
      "long": "Nu. Un an fix, indiferent de vârstă, nu corespunde MED.A.045, care leagă valabilitatea de vârstă.",
      "warn": ""
     },
     {
      "text": "24 de luni indiferent de vârstă",
      "correct": false,
-     "short": "24 de luni, indiferent de vârstă.",
+     "short": "",
      "long": "Nu. 24 de luni fixe, indiferent de vârstă, nu corespund MED.A.045. Valabilitatea de 24 de luni există doar pentru grupa 40–50 de ani.",
      "warn": ""
     }
@@ -1170,14 +1170,14 @@
     {
      "text": "să oprim de urgenţă",
      "correct": true,
-     "short": "Să oprim de urgență.",
+     "short": "",
      "long": "Corect. Brațele întinse și încrucișate deasupra capului înseamnă oprire de urgență în semnalizarea de la sol.",
      "warn": ""
     },
     {
      "text": "să trecem fară a modifica viteza și înălțimea",
      "correct": false,
-     "short": "Să trecem fără a modifica viteza și înălțimea.",
+     "short": "",
      "long": "Trecerea fără modificarea vitezei și înălțimii nu corespunde semnalului de oprire de urgență.",
      "warn": ""
     },
@@ -1199,28 +1199,28 @@
     {
      "text": "să aibă vârsta de 18 ani împliniți",
      "correct": false,
-     "short": "18 ani împliniți.",
+     "short": "",
      "long": "Vârsta de 18 ani nu este cerința pentru licența de ULM. RACR-LPAN ULM.2040 lit. a cere 16 ani împliniți.",
      "warn": ""
     },
     {
      "text": "să aibă vârsta de 16 ani împliniți",
      "correct": true,
-     "short": "16 ani împliniți.",
+     "short": "",
      "long": "RACR-LPAN ULM.2040 lit. a cere 16 ani împliniți pentru licența de ULM. Celelalte cifre nu sunt cerința pentru licența de bază.",
      "warn": ""
     },
     {
      "text": "să aibă vârsta de 21 de ani împliniți",
      "correct": false,
-     "short": "21 de ani împliniți.",
+     "short": "",
      "long": "Vârsta de 21 de ani nu este cerința pentru licența de ULM. Cifra de 21 apare pentru calificarea de instructor, nu pentru licența de bază.",
      "warn": ""
     },
     {
      "text": "să aibă vârsta de 14 ani împliniți",
      "correct": false,
-     "short": "14 ani împliniți.",
+     "short": "",
      "long": "Vârsta de 14 ani nu este cerința pentru licența de ULM. RACR-LPAN ULM.2040 lit. a cere 16 ani împliniți.",
      "warn": ""
     }
@@ -1321,7 +1321,7 @@
     {
      "text": "descrierea completă a aeronavei și echipamentelor de la bord",
      "correct": false,
-     "short": "Descrierea completă a aeronavei și a echipamentelor de la bord.",
+     "short": "",
      "long": "Descrierea completă a aeronavei este informație din alte documente (certificatul de înmatriculare), nu conținutul principal al planului de zbor.",
      "warn": ""
     },
@@ -1343,28 +1343,28 @@
     {
      "text": "O porţiune de spaţiu aerian de dimensiuni definite în care activităţi periculoase zborului aeronavelor pot exista în perioade de timp specificate.",
      "correct": false,
-     "short": "O porțiune de spațiu aerian în care activități periculoase pot exista în perioade specificate.",
+     "short": "",
      "long": "Descrierea corespunde spațiului periculos, în care activitățile periculoase pot exista în anumite perioade, nu spațiului restricționat.",
      "warn": ""
     },
     {
      "text": "O porţiune de spaţiu aerian de dimensiuni definite, deasupra teritoriului sau apelor teritoriale ale unui Stat, în interiorul căruia zborul aeronavelor este interzis.",
      "correct": false,
-     "short": "O porțiune de spațiu aerian deasupra teritoriului unui stat, în interiorul căreia zborul este interzis.",
+     "short": "",
      "long": "Descrierea corespunde spațiului interzis, unde zborul este interzis, nu spațiului restricționat.",
      "warn": ""
     },
     {
      "text": "O porţiune de spaţiu aerian de dimensiuni definite, deasupra teritoriului sau apelor teritoriale ale unui Stat, în interiorul căruia zborul aeronavelor se poate efectua în condiţii specificate.",
      "correct": true,
-     "short": "O porțiune de spațiu aerian deasupra teritoriului unui stat, în interiorul căreia zborul se poate efectua în condiții specificate.",
+     "short": "",
      "long": "Corect. Spațiul restricționat este un spațiu de dimensiuni definite în care zborul este permis în condiții specificate.",
      "warn": ""
     },
     {
      "text": "Spaţiu aerian controlat care se întinde de la suprafaţa solului în sus până la o limită superioară specificată.",
      "correct": false,
-     "short": "Spațiu aerian controlat care se întinde de la suprafața solului până la o limită superioară specificată.",
+     "short": "",
      "long": "Descrierea corespunde spațiului controlat, nu spațiului restricționat.",
      "warn": ""
     }
@@ -1595,7 +1595,7 @@
     {
      "text": "24 luni de la data examinării teoretice",
      "correct": true,
-     "short": "24 de luni de la data examinării teoretice.",
+     "short": "",
      "long": "Corect. Valabilitatea licenței de ULM este de 24 de luni (RACR-LPAN ULM.2025).",
      "warn": ""
     },
@@ -1616,7 +1616,7 @@
     {
      "text": "36 luni de la data examinării teoretice",
      "correct": false,
-     "short": "36 de luni de la data examinării teoretice.",
+     "short": "",
      "long": "36 de luni nu corespund RACR-LPAN ULM.2025, care dă 24 de luni de la examinarea teoretică.",
      "warn": ""
     }
@@ -1991,14 +1991,14 @@
     {
      "text": "licenţa de pilot în termen de valabilitate, certificatul medical în termen de valabilitate, certificatul de înmatriculare, autorizaţia de zbor sau anexa la certificatul de înmatriculare în termen de valabilitate",
      "correct": true,
-     "short": "Licența de pilot în termen de valabilitate, certificatul medical în termen de valabilitate, certificatul de înmatriculare, autorizația de zbor sau anexa la certificatul de înmatriculare în termen de valabilitate.",
+     "short": "",
      "long": "Corect. Acestea sunt documentele cerute de regulamentele ULM.",
      "warn": ""
     },
     {
      "text": "cartea de identitate, licenţa de pilot în termen de valabilitate, certificatul medical, autorizaţia de zbor",
      "correct": false,
-     "short": "Cartea de identitate, licența de pilot, certificatul medical, autorizația de zbor.",
+     "short": "",
      "long": "Cartea de identitate este necesară, dar lista nu include certificatul de înmatriculare, documentul obligatoriu al aeronavei.",
      "warn": ""
     },
@@ -2012,7 +2012,7 @@
     {
      "text": "cartea de identitate, licenţa de pilot în termen de valabilitate, certificatul medical, certificatul de înmatriculare, manualul de utilizare şi întreţinere al aeronavei",
      "correct": false,
-     "short": "Cartea de identitate, licența de pilot, certificatul medical, certificatul de înmatriculare, manualul de utilizare și întreținere.",
+     "short": "",
      "long": "Manualul de utilizare și întreținere nu este în lista documentelor obligatorii la bord pentru pilot.",
      "warn": ""
     }
@@ -2027,21 +2027,21 @@
     {
      "text": "certificatul de inmatriculare, licența de pilot, documentul de asigurare, documentele de proveniență, manualul de utilizare și întreținere",
      "correct": false,
-     "short": "Certificatul de înmatriculare, licența de pilot, documentul de asigurare, documentele de proveniență, manualul de utilizare și întreținere.",
+     "short": "",
      "long": "Varianta cuprinde documentele de bază și manualul. Documentele de proveniență nu sunt cerute la controlul la sol.",
      "warn": ""
     },
     {
      "text": "certificatul de inmatriculare, licența de pilot, documentul de asigurare",
      "correct": true,
-     "short": "Certificatul de înmatriculare, licența de pilot, documentul de asigurare.",
+     "short": "",
      "long": "Lista este incompletă: lipsește manualul de utilizare și întreținere, cerut de RACR-CCO ULM 1215.",
      "warn": "Lista este incompletă. RACR-CCO ULM 1215 cere ca asupra utilizatorului să se afle și manualul de utilizare și întreținere, care nu este menționat aici."
     },
     {
      "text": "certificatul de inmatriculare, licența de pilot, documentul de asigurare, documentele de proveniență",
      "correct": false,
-     "short": "Certificatul de înmatriculare, licența de pilot, documentul de asigurare, documentele de proveniență.",
+     "short": "",
      "long": "Documentele de proveniență nu sunt cerute la controlul la sol al motoparapantei.",
      "warn": ""
     },
@@ -2063,28 +2063,28 @@
     {
      "text": "pentru zborul respectiv operatorul aeronavei a depus un plan de zbor, în conformitate cu reglementările aeronautice în vigoare, iar aeronava este asigurată, după caz, conform legii, pentru daune produse terților",
      "correct": true,
-     "short": "Operatorul a depus un plan de zbor, conform reglementărilor, iar aeronava este asigurată pentru daune produse terților.",
+     "short": "",
      "long": "Corect. Planul de zbor este cerut în cazurile din RACR-RA 3.030 pct. 1.2, iar asigurarea de răspundere civilă față de terți este cerința legată de aeronavă. Cele două condiții se aplică împreună zborului respectiv.",
      "warn": ""
     },
     {
      "text": "pentru zborul respectiv operatorul aeronavei a depus un plan de zbor în conformitate cu reglementările aeronautice în vigoare sau, la alegerea operatorului, a făcut o informare de trafic VFR la Ministerul Apărării Naționale",
      "correct": false,
-     "short": "Operatorul a depus plan de zbor sau a făcut informare VFR la Ministerul Apărării Naționale.",
+     "short": "",
      "long": "Informarea de trafic VFR nu înlocuiește planul de zbor în cazurile în care acesta este cerut (RACR-RA 3.030 pct. 1.2).",
      "warn": ""
     },
     {
      "text": "sunt respectate reglementările aeronautice specifice şi generale din România",
      "correct": false,
-     "short": "Sunt respectate reglementările aeronautice specifice și generale din România.",
+     "short": "",
      "long": "Formularea este prea generală: nu indică ce anume cere planul de zbor și asigurarea. Regula concretă este în RACR-RA 3.030 și în Codul aerian.",
      "warn": ""
     },
     {
      "text": "pentru zborul respectiv operatorul aeronavei a depus un plan de zbor, în conformitate cu reglementările aeronautice în vigoare, iar aeronava este asigurată, după caz, conform legii, pentru daune produse pasagerilor și bagajelor/mărfurilor.",
      "correct": false,
-     "short": "Operatorul a depus plan de zbor și aeronava este asigurată pentru daune produse pasagerilor și bagajelor.",
+     "short": "",
      "long": "Asigurarea în discuție este cea pentru terți.",
      "warn": ""
     }
@@ -2099,28 +2099,28 @@
     {
      "text": "un procedeu administrativ efectuat în interiorul perioadei de valabilitate a unei calificări sau autorizații;",
      "correct": true,
-     "short": "Un procedeu administrativ efectuat în interiorul perioadei de valabilitate a unei calificări sau autorizații.",
+     "short": "",
      "long": "Corect. Revalidarea este efectuată în interiorul perioadei de valabilitate (RACR-LPAN ULM, definiția revalidării).",
      "warn": ""
     },
     {
      "text": "procedeu administrativ efectuat în timpul cursurilor teoretice și practice pentru obținerea unei autorizații sau calificări",
      "correct": false,
-     "short": "Un procedeu administrativ efectuat în timpul cursurilor pentru obținerea unei autorizații.",
+     "short": "",
      "long": "Procedeul din timpul cursurilor descrie pregătirea pentru obținerea licenței, nu revalidarea.",
      "warn": ""
     },
     {
      "text": "nici unul din raspunsurile enumerate mai sus",
      "correct": false,
-     "short": "Nici unul din răspunsurile enumerate.",
+     "short": "",
      "long": "Există un răspuns corect, cel de la varianta A.",
      "warn": ""
     },
     {
      "text": "procedeu administrativ efectuat dupa ce o calificare sau autorizație a expirat;",
      "correct": false,
-     "short": "Un procedeu administrativ efectuat după ce o calificare sau autorizație a expirat.",
+     "short": "",
      "long": "Revalidarea se face înainte de expirare, nu după, altfel este reînnoire (RACR-LPAN ULM, definițiile).",
      "warn": ""
     }
@@ -2149,14 +2149,14 @@
     {
      "text": "doar pentru calificarea proprietarului/ proprietarilor aeronavei respective",
      "correct": true,
-     "short": "Doar pentru calificarea proprietarului sau a proprietarilor aeronavei respective.",
+     "short": "",
      "long": "Regulamentul nu limitează zborul școală cu aeronavă neomologată la proprietar. Condiția este declarația OPD cu numele elevilor (RACR-LPAN ULM.2165 lit. c).",
      "warn": "Regulamentul RACR-LPAN ULM.2165 lit. c permite zboruri școală cu aeronave neomologate dacă OPD completează declarația cu numele elevilor. Nu limitează aceste zboruri la proprietar."
     },
     {
      "text": "pentru orice persoană care doreşte să înveţe pilotajul",
      "correct": false,
-     "short": "Pentru orice persoană care dorește să învețe pilotajul.",
+     "short": "",
      "long": "Zborul pentru orice persoană nu este permis fără declarația OPD și fără instruirea în cadrul unui program (RACR-LPAN ULM.2165 lit. c).",
      "warn": ""
     }
@@ -2171,7 +2171,7 @@
     {
      "text": "24 luni",
      "correct": false,
-     "short": "24 de luni.",
+     "short": "",
      "long": "24 de luni nu este valabilitatea certificatului de identificare pentru aeronavele ULM în categoria generală (RACR-CCO ULM).",
      "warn": ""
     },
@@ -2192,7 +2192,7 @@
     {
      "text": "36 luni",
      "correct": false,
-     "short": "36 de luni.",
+     "short": "",
      "long": "36 de luni nu este valabilitatea certificatului în categoria generală (RACR-CCO ULM).",
      "warn": ""
     }
@@ -2322,7 +2322,7 @@
     {
      "text": "400 m la şes şi munte",
      "correct": false,
-     "short": "400 m la șes și munte.",
+     "short": "",
      "long": "400 m nu este distanța din Tabelul 3-1 pentru zborul VFR. Tabelul cere 1500 m orizontal și 300 m vertical față de nori, în spațiul sub 3050 m.",
      "warn": ""
     },
@@ -2336,7 +2336,7 @@
     {
      "text": "300 m la şes şi 400 m în zona deluroasă sau muntoasă",
      "correct": false,
-     "short": "300 m la șes și 400 m în zona deluroasă sau muntoasă.",
+     "short": "",
      "long": "300 m și 400 m nu corespund Tabelului 3-1. Distanța minimă față de nori este de 1500 m orizontal și 300 m vertical, în spațiul sub 3050 m, la orice relief.",
      "warn": ""
     }
@@ -2459,7 +2459,7 @@
     {
      "text": "1/3 din experienţa minimă cerută pentru calificarea de instructor",
      "correct": false,
-     "short": "1/3 din experiența minimă cerută pentru calificarea de instructor.",
+     "short": "",
      "long": "O treime nu este cerința din RACR-LPAN ULM.2110 lit. f. Cerința este jumătate din experiența minimă a instructorului.",
      "warn": ""
     },
@@ -2473,14 +2473,14 @@
     {
      "text": "egală cu experienţa minimă cerută pentru calificarea de instructor",
      "correct": false,
-     "short": "Egală cu experiența minimă cerută pentru calificarea de instructor.",
+     "short": "",
      "long": "Experiența egală cu cea a instructorului nu este cerința, cerința este jumătate (RACR-LPAN ULM.2110 lit. f).",
      "warn": ""
     },
     {
      "text": "1/2 din experienţa minimă cerută pentru calificarea de instructor",
      "correct": true,
-     "short": "1/2 din experiența minimă cerută pentru calificarea de instructor.",
+     "short": "",
      "long": "Corect. Cerința este jumătate din experiența minimă a instructorului (RACR-LPAN ULM.2110 lit. f).",
      "warn": ""
     }
@@ -2603,7 +2603,7 @@
     {
      "text": "permise la o înălţime minimă de 600 m",
      "correct": false,
-     "short": "Permise la o înălțime minimă de 600 m.",
+     "short": "",
      "long": "Nu există înălțime minimă de 600 m care să permită zborul peste zone dens populate. Codul aerian, art. 15 alin. 2, interzice zborul sub 300 m față de obstacole.",
      "warn": ""
     },
@@ -2617,7 +2617,7 @@
     {
      "text": "permise la o înălţime de minim 150 m, astfel încât la nevoie sa se poată ateriza în siguranţă",
      "correct": false,
-     "short": "Permise la o înălțime de minim 150 m, astfel încât la nevoie să se poată ateriza în siguranță.",
+     "short": "",
      "long": "Posibilitatea de a ateriza în siguranță nu face zborul permis peste zone dens populate. Codul aerian interzice zborul (art. 15 alin. 2).",
      "warn": ""
     },
@@ -2747,21 +2747,21 @@
     {
      "text": "nu trebuie să depășească 24 luni",
      "correct": false,
-     "short": "Nu trebuie să depășească 24 de luni.",
+     "short": "",
      "long": "Termenul de 24 de luni nu este regula generală. Valabilitatea certificatului de recunoaștere este cea a licenței de bază (RACR-LPAN ULM.2180).",
      "warn": ""
     },
     {
      "text": "nu trebuie să depășească 36 luni",
      "correct": false,
-     "short": "Nu trebuie să depășească 36 de luni.",
+     "short": "",
      "long": "Termenul de 36 de luni nu este regula. Valabilitatea certificatului de recunoaștere este cea a licenței de bază (RACR-LPAN ULM.2180).",
      "warn": ""
     },
     {
      "text": "nu trebuie să depășească 12 luni\",",
      "correct": false,
-     "short": "Nu trebuie să depășească 12 luni.",
+     "short": "",
      "long": "Termenul de 12 luni nu este regula. Valabilitatea certificatului de recunoaștere este cea a licenței de bază (RACR-LPAN ULM.2180).",
      "warn": ""
     },
@@ -2797,7 +2797,7 @@
     {
      "text": "o viteză maximă de 60km/h",
      "correct": false,
-     "short": "O viteză maximă de 60 km/h.",
+     "short": "",
      "long": "Viteza maximă nu este criteriul din Anexa 1. Criteriul este numărul de locuri și masa maximă la decolare (pct. 1.2.3.1).",
      "warn": ""
     },
@@ -2826,21 +2826,21 @@
     {
      "text": "sunt permise zborurile IFR și VFR, serviciul de control al traficului aerian este opțional",
      "correct": false,
-     "short": "Sunt permise zborurile IFR și VFR, serviciul de control este opțional.",
+     "short": "",
      "long": "Controlul ATC nu este opțional în clasa C. Toate zborurile primesc serviciu de control (AIP ENR 1.4).",
      "warn": ""
     },
     {
      "text": "sunt permise doar zborurile IFR, toate zborurile sunt supuse serviciului de control al traficului aerian",
      "correct": false,
-     "short": "Sunt permise doar zborurile IFR, toate sunt supuse controlului.",
+     "short": "",
      "long": "În clasa C sunt permise și zborurile VFR, nu doar IFR (AIP ENR 1.4).",
      "warn": ""
     },
     {
      "text": "sunt permise zborurile IFR și VFR, serviciul de control al traficului aerian nu este obligatoriu",
      "correct": false,
-     "short": "Sunt permise zborurile IFR și VFR, serviciul de control nu este obligatoriu.",
+     "short": "",
      "long": "Controlul ATC este obligatoriu în clasa C, nu facultativ (AIP ENR 1.4).",
      "warn": ""
     }
@@ -2934,7 +2934,7 @@
     {
      "text": "până la înălţimea de 1000 m",
      "correct": false,
-     "short": "Până la înălțimea de 1000 m.",
+     "short": "",
      "long": "Înălțimea de 1000 m nu este limita verticală a clasei G în AIP ENR 1.4.",
      "warn": ""
     },
@@ -2999,14 +2999,14 @@
     {
      "text": "începând cu 30 minute înainte de răsăritul soarelui şi terminând cu 30 minute după apusul soarelui",
      "correct": false,
-     "short": "Începând cu 30 de minute înainte de răsăritul soarelui și terminând cu 30 de minute după apus.",
+     "short": "",
      "long": "Perioada de 30 de minute înainte de răsărit și după apus nu este definiția zborului de zi. RACR-RA 4.030 leagă regulile de apusul și răsăritul soarelui.",
      "warn": ""
     },
     {
      "text": "între răsăritul şi apusul soarelui",
      "correct": true,
-     "short": "Între răsăritul și apusul soarelui.",
+     "short": "",
      "long": "Corect. Zborul de zi este cel între răsăritul și apusul soarelui.",
      "warn": ""
     },
@@ -3020,7 +3020,7 @@
     {
      "text": "atât timp cât este vizibilitate și putem decola/ ateriza în siguranță",
      "correct": false,
-     "short": "Atâta timp cât este vizibilitate și putem decola sau ateriza în siguranță.",
+     "short": "",
      "long": "Vizibilitatea nu definește zborul de zi. Perioada este cea dintre răsărit și apus (RACR-RA 4.030).",
      "warn": ""
     }
@@ -3179,14 +3179,14 @@
     {
      "text": "14 ani împliniţi",
      "correct": false,
-     "short": "14 ani împliniți.",
+     "short": "",
      "long": "14 ani nu este vârsta minimă pentru licența de ULM (RACR-LPAN ULM.2040 lit. a).",
      "warn": ""
     },
     {
      "text": "16 ani împliniţi",
      "correct": true,
-     "short": "16 ani împliniți.",
+     "short": "",
      "long": "Corect. Vârsta minimă este 16 ani împliniți (RACR-LPAN ULM.2040 lit. a).",
      "warn": ""
     },
@@ -3308,7 +3308,7 @@
     {
      "text": "\"să obțină autorizație de la autoritatea ATS competentă",
      "correct": false,
-     "short": "Să obțină autorizație de la autoritatea ATS competentă.",
+     "short": "",
      "long": "Autorizația ATS nu este cerința generală din RACR-RA 4.030 pentru zborul de noapte.",
      "warn": ""
     }
@@ -3323,7 +3323,7 @@
     {
      "text": "doar la solicitarea unităţii de trafic aerian",
      "correct": false,
-     "short": "Doar la solicitarea unității de trafic aerian.",
+     "short": "",
      "long": "Legătura radio nu depinde doar de cererea unității ATC: în clasa C este obligatorie (AIP ENR 1.4).",
      "warn": ""
     },
@@ -3359,28 +3359,28 @@
     {
      "text": "sa dezvolte transportul aerian privat",
      "correct": false,
-     "short": "Să dezvolte transportul aerian privat.",
+     "short": "",
      "long": "Dezvoltarea transportului aerian privat nu este scopul principal al OACI.",
      "warn": ""
     },
     {
      "text": "sa ofere servicii de consultanta pentru companii aeriene",
      "correct": false,
-     "short": "Să ofere servicii de consultanță pentru companii aeriene.",
+     "short": "",
      "long": "Consultanța pentru companii nu este scopul principal al OACI.",
      "warn": ""
     },
     {
      "text": "sa asigure dezvoltarea ordonata si sigura a aviatiei civile internationale",
      "correct": true,
-     "short": "Să asigure dezvoltarea ordonată și sigură a aviației civile internaționale.",
+     "short": "",
      "long": "Corect. OACI urmărește dezvoltarea ordonată și sigură a aviației civile internaționale.",
      "warn": ""
     },
     {
      "text": "sa reglementeze transportul maritim",
      "correct": false,
-     "short": "Să reglementeze transportul maritim.",
+     "short": "",
      "long": "Reglementarea transportului maritim nu ține de OACI.",
      "warn": ""
     }
@@ -3395,28 +3395,28 @@
     {
      "text": "numai în spaţiul aerian de clasă G",
      "correct": false,
-     "short": "Numai în spațiul aerian de clasă G.",
+     "short": "",
      "long": "Zborurile VFR sunt permise și în clasa C, nu numai în G (AIP ENR 1.4).",
      "warn": ""
     },
     {
      "text": "în spatiile aeriene de clasa A si G",
      "correct": false,
-     "short": "În spațiile aeriene de clasa A și G.",
+     "short": "",
      "long": "Clasa A nu permite zborul VFR (RACR-RA, Tabelul 3-1, nota ***).",
      "warn": ""
     },
     {
      "text": "în spaţiile aeriene de clasă C şi G",
      "correct": true,
-     "short": "În spațiile aeriene de clasă C și G.",
+     "short": "",
      "long": "Corect. VFR este permis în clasele C și G, dar nu în clasa A (AIP ENR 1.4, RACR-RA).",
      "warn": ""
     },
     {
      "text": "în spaţiile aeriene de clasă A, C şi G",
      "correct": false,
-     "short": "În spațiile aeriene de clasă A, C și G.",
+     "short": "",
      "long": "Clasa A nu permite VFR (RACR-RA, Tabelul 3-1, nota ***).",
      "warn": ""
     }
@@ -3431,28 +3431,28 @@
     {
      "text": "pilotii care stiu să instruiască",
      "correct": false,
-     "short": "Piloții care știu să instruiască.",
+     "short": "",
      "long": "Abilitatea de a instrui nu este suficientă. Dreptul ține de calificarea de instructor (RACR-LPAN ULM).",
      "warn": ""
     },
     {
      "text": "piloţii cu minim 100 de ore experienţă după finalizarea școlii",
      "correct": false,
-     "short": "Piloții cu minim 100 de ore experiență după finalizarea școlii.",
+     "short": "",
      "long": "Cele 100 de ore nu sunt condiția pentru instruire. Condiția este calificarea de instructor (RACR-LPAN ULM).",
      "warn": ""
     },
     {
      "text": "cei care deţin aeronave omologate",
      "correct": false,
-     "short": "Cei care dețin aeronave omologate.",
+     "short": "",
      "long": "Deținerea aeronavei omologate nu dă dreptul de a instrui. Dreptul ține de calificarea de instructor.",
      "warn": ""
     },
     {
      "text": "instructorii calificaţi",
      "correct": true,
-     "short": "Instructorii calificați.",
+     "short": "",
      "long": "Corect. Dreptul de a instrui în zbor îl au instructorii calificați (RACR-LPAN ULM).",
      "warn": ""
     }
@@ -3467,7 +3467,7 @@
     {
      "text": "24 de luni de la data examinării teoretice cu condiţia ca certificatul medical să fie în termen de valabilitate",
      "correct": true,
-     "short": "24 de luni de la data examinării teoretice cu condiția ca certificatul medical să fie în termen de valabilitate.",
+     "short": "",
      "long": "Valabilitatea licenței de ULM este de 24 de luni de la examinarea teoretică (RACR-LPAN ULM). Varianta A adaugă condiția ca certificatul medical să fie valabil, ceea ce este logic: licența nu poate fi folosită fără aptitudine medicală valabilă. Referința este examinarea teoretică, nu cea practică.",
      "warn": ""
     },
@@ -3481,14 +3481,14 @@
     {
      "text": "24 luni de la data examinării practice cu condiţia ca certificatul medical să fie în termen de valabilitate",
      "correct": false,
-     "short": "24 de luni de la data examinării practice cu condiția ca certificatul medical să fie în termen de valabilitate.",
+     "short": "",
      "long": "Valabilitatea se numără de la examinarea teoretică, nu de la cea practică (RACR-LPAN ULM.2025).",
      "warn": ""
     },
     {
      "text": "36 luni de la data examinării teoretice",
      "correct": false,
-     "short": "36 de luni de la data examinării teoretice.",
+     "short": "",
      "long": "36 de luni nu corespund RACR-LPAN ULM.2025, care dă 24 de luni.",
      "warn": ""
     }
@@ -3510,7 +3510,7 @@
     {
      "text": "aerodromuri certificate și alte terenuri sau suprafețe de apă în condiții stabilite prin hotărâre de Guvern",
      "correct": true,
-     "short": "Aerodromuri certificate și alte terenuri sau suprafețe de apă, în condiții stabilite prin hotărâre de Guvern.",
+     "short": "",
      "long": "Corect în esență: aerodromuri certificate și alte terenuri care îndeplinesc condițiile art. 14 alin. 2 din Codul aerian.",
      "warn": "Condițiile de decolare de pe alte terenuri sunt cele din Codul aerian, art. 14 alin. 2. Instrucțiunile specifice sunt emise de AACR (art. 14 alin. 4), nu printr-o hotărâre de Guvern."
     },

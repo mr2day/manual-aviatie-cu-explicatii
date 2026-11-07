@@ -11,28 +11,28 @@
     {
      "text": "este o mișcare de aer orizontală de-a lungul văilor",
      "correct": false,
-     "short": "O mișcare de aer orizontală de-a lungul văilor.",
+     "short": "",
      "long": "Mișcarea orizontală de-a lungul văilor este vântul de vale sau curentul canalizat, nu foehnul.",
      "warn": ""
     },
     {
      "text": "este o mișcare de aer ce coboară seara de pe crestele montane înalte",
      "correct": false,
-     "short": "O mișcare de aer care coboară seara de pe crestele înalte.",
+     "short": "",
      "long": "Coborârea seara de pe crestele înalte este vântul catabatic, nu foehnul.",
      "warn": ""
     },
     {
      "text": "este o mișcare de aer ascendentă de-a lungul unui versant, după care își continuă mișcarea descensional, în partea cealaltă a abruptului",
      "correct": true,
-     "short": "O mișcare de aer ascendentă de-a lungul unui versant, după care își continuă mișcarea descendent, în partea cealaltă a abruptului.",
+     "short": "",
      "long": "Corect. Aerul urcă pe un versant, își continuă mișcarea descendentă pe partea cealaltă și se încălzește, adică foehnul.",
      "warn": ""
     },
     {
      "text": "este o mișcare termică ce apare în văile înguste",
      "correct": false,
-     "short": "O mișcare termică ce apare în văile înguste.",
+     "short": "",
      "long": "Mișcarea termică din văile înguste este alt fenomen, nu foehnul.",
      "warn": ""
     }
@@ -126,21 +126,21 @@
     {
      "text": "la nivelul mării, treapta barică este de aproximativ 8.4 metri pentru o variație a presiunii de 1 mb",
      "correct": false,
-     "short": "La nivelul mării, treapta barică este de aproximativ 8,4 m pentru o variație a presiunii de 1 mb.",
+     "short": "",
      "long": "La nivelul mării treapta barică este de circa 8,4 m pentru 1 hPa. Valoarea este corectă.",
      "warn": ""
     },
     {
      "text": "la 11000 metri, este necesară o creștere de 32 metri pentru ca presiunea să scadă cu 1 mb",
      "correct": false,
-     "short": "La 11 000 m, este necesară o creștere de 32 m pentru ca presiunea să scadă cu 1 mb.",
+     "short": "",
      "long": "La 11 000 m treapta barică este de circa 32 m pentru 1 hPa. Valoarea este corectă.",
      "warn": ""
     },
     {
      "text": "la 5500 metri, treapta barică necesită 16 metri pentru o scădere a presiunii de 1 mb",
      "correct": false,
-     "short": "La 5500 m, treapta barică necesită 16 m pentru o scădere a presiunii de 1 mb.",
+     "short": "",
      "long": "La 5500 m treapta barică este de circa 16 m pentru 1 hPa. Valoarea este corectă.",
      "warn": ""
     }
@@ -263,28 +263,28 @@
     {
      "text": "CAVOK se utilizează când există nori Cumulonimbus sub 1500 m",
      "correct": false,
-     "short": "Când există nori cumulonimbus sub 1500 m.",
+     "short": "",
      "long": "CAVOK nu se folosește la nori cumulonimbus sub 1500 m. Cumulonimbusul exclude CAVOK.",
      "warn": ""
     },
     {
      "text": "CAVOK se utilizează când vizibilitatea orizontală este sub 10 km",
      "correct": false,
-     "short": "Când vizibilitatea orizontală este sub 10 km.",
+     "short": "",
      "long": "Vizibilitatea sub 10 km exclude CAVOK.",
      "warn": ""
     },
     {
      "text": "CAVOK se utilizează când fenomenele meteorologice sunt instabile",
      "correct": false,
-     "short": "Când fenomenele meteorologice sunt instabile.",
+     "short": "",
      "long": "Fenomenele instabile exclud CAVOK, dar criteriul precis este vizibilitatea de 10 km și lipsa norilor sub 1500 m.",
      "warn": ""
     },
     {
      "text": "CAVOK se utilizează când vizibilitatea orizontală este 10 km sau mai mult",
      "correct": true,
-     "short": "Când vizibilitatea orizontală este 10 km sau mai mult.",
+     "short": "",
      "long": "Corect. CAVOK este folosit când vizibilitatea este de 10 km sau mai mult.",
      "warn": ""
     }
@@ -371,28 +371,28 @@
     {
      "text": "amplitudinea termică reprezintă variația temperaturii medii anuale",
      "correct": false,
-     "short": "Variația temperaturii medii anuale.",
+     "short": "",
      "long": "Variația temperaturii medii anuale nu este amplitudinea termică zilnică.",
      "warn": ""
     },
     {
      "text": "amplitudinea termică descrie variația temperaturii pe parcursul a 24 de ore",
      "correct": true,
-     "short": "Variația temperaturii pe parcursul a 24 de ore.",
+     "short": "",
      "long": "Corect. Amplitudinea descrie variația temperaturii pe parcursul a 24 de ore.",
      "warn": ""
     },
     {
      "text": "amplitudinea termică măsoară schimbările de temperatură pe durata anotimpurilor",
      "correct": false,
-     "short": "Schimbările de temperatură pe durata anotimpurilor.",
+     "short": "",
      "long": "Schimbările pe durata anotimpurilor nu sunt amplitudinea termică zilnică.",
      "warn": ""
     },
     {
      "text": "amplitudinea termică este diferența dintre temperatura maximă și cea minimă într-un anumit loc",
      "correct": false,
-     "short": "Diferența dintre temperatura maximă și cea minimă într-un anumit loc.",
+     "short": "",
      "long": "Este definiția corectă: diferența dintre temperatura maximă și cea minimă dintr-un loc, de regulă într-o zi. Varianta B spune același lucru.",
      "warn": ""
     }
@@ -407,14 +407,14 @@
     {
      "text": "turbulenţe, vizibilitate bună şi nori Cumuliformi",
      "correct": true,
-     "short": "Turbulențe, vizibilitate bună și nori cumuliformi.",
+     "short": "",
      "long": "Corect. Turbulență, vizibilitate bună și nori cumuliformi caracterizează aerul instabil.",
      "warn": ""
     },
     {
      "text": "turbulenţe şi vizibilitate slabă",
      "correct": false,
-     "short": "Turbulențe și vizibilitate slabă.",
+     "short": "",
      "long": "Vizibilitatea slabă este caracteristica aerului stabil, nu a celui instabil.",
      "warn": ""
     },
@@ -443,28 +443,28 @@
     {
      "text": "vântul care ia naştere prin convecţia aerului",
      "correct": false,
-     "short": "Vântul care ia naștere prin convecția aerului.",
+     "short": "",
      "long": "Vântul născut prin convecție este cel turbulent, nu cel laminar.",
      "warn": ""
     },
     {
      "text": "vântul care îşi păstrează direcţia şi intensitatea",
      "correct": true,
-     "short": "Vântul care își păstrează direcția și intensitatea.",
+     "short": "",
      "long": "Corect. Vântul laminar își păstrează direcția și intensitatea.",
      "warn": ""
     },
     {
      "text": "vântul format în urma diferențelor de temperatură diurnă și nocturnă ale uscatului respectiv a apelor",
      "correct": false,
-     "short": "Vântul format în urma diferențelor de temperatură diurnă și nocturnă.",
+     "short": "",
      "long": "Vântul format din diferența de temperatură uscat–apă este brizele, nu vântul laminar.",
      "warn": ""
     },
     {
      "text": "vântul care suferă variaţii datorită obstacolelor",
      "correct": false,
-     "short": "Vântul care suferă variații datorită obstacolelor.",
+     "short": "",
      "long": "Vântul care suferă variații din obstacole este turbulent, nu laminar.",
      "warn": ""
     }
@@ -515,14 +515,14 @@
     {
      "text": "înălţimea până la care urcă aerul uscat",
      "correct": false,
-     "short": "Înălțimea până la care urcă aerul uscat.",
+     "short": "",
      "long": "Aerul uscat nu atinge nivelul de condensare, fiindcă nu se satură.",
      "warn": ""
     },
     {
      "text": "înălţimea corespunzătoare vârfului norilor",
      "correct": false,
-     "short": "Înălțimea corespunzătoare vârfului norilor.",
+     "short": "",
      "long": "Vârful norilor nu este nivelul de condensare, ci baza lor.",
      "warn": ""
     },
@@ -536,7 +536,7 @@
     {
      "text": "înălţimea la care umiditatea relativă devine 100%",
      "correct": true,
-     "short": "Înălțimea la care umiditatea relativă devine 100%.",
+     "short": "",
      "long": "Corect. Nivelul de condensare este înălțimea la care umiditatea relativă ajunge la 100%.",
      "warn": ""
     }
@@ -565,7 +565,7 @@
     {
      "text": "viteza vântului la sol, viteza vântului la înăltime, fenomene locale (vânt catabatic, vânt de vale, curenți ascendenți termici și dinamici), imagini din satelit, prognoza zilei și restricțiile zilnice",
      "correct": true,
-     "short": "Viteza vântului la sol, la înălțime, fenomene locale, imagini din satelit, prognoza zilei și restricțiile zilnice.",
+     "short": "",
      "long": "Corect. Planificarea ia în considerare vântul la sol și în altitudine și fenomenele locale.",
      "warn": ""
     },
@@ -587,28 +587,28 @@
     {
      "text": "umiditatea relativă indică nivelul de confort uman în raport cu umiditatea aerului",
      "correct": false,
-     "short": "Nivelul de confort uman în raport cu umiditatea aerului.",
+     "short": "",
      "long": "Umiditatea relativă nu este un indicator de confort, ci o mărime fizică.",
      "warn": ""
     },
     {
      "text": "umiditatea relativă reprezintă cantitatea de apă din aer raportată la temperatura actuală",
      "correct": false,
-     "short": "Cantitatea de apă din aer raportată la temperatura actuală.",
+     "short": "",
      "long": "Cantitatea de apă raportată la temperatura actuală nu este definiția umidității relative. Lipsește raportul cu saturația.",
      "warn": ""
     },
     {
      "text": "umiditatea relativă măsoară procentul de saturație a aerului cu vapori de apă",
      "correct": false,
-     "short": "Procentul de saturație a aerului cu vapori de apă.",
+     "short": "",
      "long": "Este aproape corect: umiditatea relativă este un procent din saturație. Varianta D o exprimă complet, ca raport dintre umiditatea absolută și umiditatea absolută maximă la aceeași temperatură.",
      "warn": ""
     },
     {
      "text": "umiditatea relativă este raportul dintre umiditatea absolută și umiditatea absolută maximă la aceeași temperatură",
      "correct": true,
-     "short": "Raportul dintre umiditatea absolută și umiditatea absolută maximă la aceeași temperatură.",
+     "short": "",
      "long": "Raportul dintre umiditatea absolută și umiditatea absolută maximă este formularea corectă: umiditatea relativă este raportul dintre cele două mărimi, la aceeași temperatură.",
      "warn": ""
     }
@@ -637,7 +637,7 @@
     {
      "text": "este o mișcare de aer ascendentă de-a lungul unui versant, după care își continuă mișcarea descensional, în partea cealaltă a abruptului",
      "correct": false,
-     "short": "O mișcare de aer ascendentă de-a lungul unui versant, după care își continuă mișcarea descendent.",
+     "short": "",
      "long": "Descrierea este a vântului de pantă cu mișcare ascendentă și descendentă, nu a efectului Venturi.",
      "warn": ""
     },
@@ -673,14 +673,14 @@
     {
      "text": "argonul constituie circa 0.93% din volumul gazelor din aerul uscat",
      "correct": false,
-     "short": "Argonul constituie circa 0,93% din volumul gazelor din aerul uscat.",
+     "short": "",
      "long": "Argonul este circa 0,93%, dar varianta nu este cea cerută, fiindcă întrebarea cere azotul.",
      "warn": ""
     },
     {
      "text": "azotul constituie 78.09% din volumul gazelor din aerul uscat",
      "correct": true,
-     "short": "Azotul constituie 78,09% din volumul gazelor din aerul uscat.",
+     "short": "",
      "long": "Corect. Azotul este 78,09% din volumul gazelor din aerul uscat.",
      "warn": ""
     }
@@ -695,28 +695,28 @@
     {
      "text": "ceața de advecție se produce prin răcirea aerului cald în contact direct cu o suprafață rece",
      "correct": false,
-     "short": "Se produce prin răcirea aerului cald în contact direct cu o suprafață rece.",
+     "short": "",
      "long": "Răcirea aerului cald la contactul cu suprafața rece este mecanismul, dar definiția corectă include deplasarea masei de aer.",
      "warn": ""
     },
     {
      "text": "ceața de advecție se dezvoltă în condiții de umiditate scăzută și temperaturi ridicate",
      "correct": false,
-     "short": "Se dezvoltă în condiții de umiditate scăzută și temperaturi ridicate.",
+     "short": "",
      "long": "Umiditatea scăzută și temperaturile ridicate nu produc ceața de advecție.",
      "warn": ""
     },
     {
      "text": "ceața de advecție apare la deplasarea unei mase de aer cald și umed peste o suprafață rece a pământului sau a apei",
      "correct": true,
-     "short": "Apare la deplasarea unei mase de aer cald și umed peste o suprafață rece a pământului sau a apei.",
+     "short": "",
      "long": "Corect. Masa de aer cald și umed se deplasează peste o suprafață rece.",
      "warn": ""
     },
     {
      "text": "ceața de advecție se formează prin ridicarea aerului cald peste aerul rece la nivelul solului",
      "correct": false,
-     "short": "Se formează prin ridicarea aerului cald peste aerul rece la nivelul solului.",
+     "short": "",
      "long": "Ridicarea aerului cald peste cel rece produce alt fenomen (fronturi, nori), nu ceața de advecție.",
      "warn": ""
     }
@@ -731,7 +731,7 @@
     {
      "text": "nu provoacă turbulenţe",
      "correct": false,
-     "short": "Nu provoacă turbulențe.",
+     "short": "",
      "long": "Copacii produc turbulențe. Nu este adevărat că nu provoacă.",
      "warn": ""
     },
@@ -745,14 +745,14 @@
     {
      "text": "turbulenţe în partea vântului",
      "correct": false,
-     "short": "Turbulențe în partea vântului.",
+     "short": "",
      "long": "Turbulențele se formează în spatele perdelei, sub vânt, nu în fața ei.",
      "warn": ""
     },
     {
      "text": "turbulenţe şi “umbre de vânt” în spatele copacilor, sub vânt",
      "correct": true,
-     "short": "Turbulențe și umbre de vânt în spatele copacilor, sub vânt.",
+     "short": "",
      "long": "Corect. Turbulențe și umbre de vânt apar în spatele copacilor, sub vânt.",
      "warn": ""
     }
@@ -875,28 +875,28 @@
     {
      "text": "turbulențele sunt neglijabile, deoarece frunzele copacilor atenuează viteza vântului",
      "correct": false,
-     "short": "Turbulențele sunt neglijabile, deoarece frunzele atenuează viteza vântului.",
+     "short": "",
      "long": "Turbulențele nu sunt neglijabile. Frunzele nu atenuează suficient, iar în spate se formează turbulență.",
      "warn": ""
     },
     {
      "text": "turbulenţe şi “umbre de vânt” în spatele copacilor, sub vânt",
      "correct": true,
-     "short": "Turbulențe și umbre de vânt în spatele copacilor, sub vânt.",
+     "short": "",
      "long": "Corect. Turbulențe și umbre de vânt sunt în spatele copacilor, sub vânt.",
      "warn": ""
     },
     {
      "text": "turbulenţe în partea vântului",
      "correct": false,
-     "short": "Turbulențe în partea vântului.",
+     "short": "",
      "long": "Turbulențele nu se produc în partea din față a vântului.",
      "warn": ""
     },
     {
      "text": "nu provoacă turbulenţe",
      "correct": false,
-     "short": "Nu provoacă turbulențe.",
+     "short": "",
      "long": "Copacii produc turbulențe, deci afirmația că nu provoacă este greșită.",
      "warn": ""
     }
@@ -932,7 +932,7 @@
     {
      "text": "când două mase de aer au direcţii şi caracteristici diferite",
      "correct": true,
-     "short": "Când două mase de aer au direcții și caracteristici diferite.",
+     "short": "",
      "long": "Corect. Forfecarea apare când două mase de aer au direcții și caracteristici diferite.",
      "warn": ""
     }
@@ -990,14 +990,14 @@
     {
      "text": "zona de demarcaţie între ploaie şi timp frumos",
      "correct": false,
-     "short": "Zona de demarcație între ploaie și timp frumos.",
+     "short": "",
      "long": "Demarcația dintre ploaie și timp frumos este o descriere parțială, nu definiția frontului.",
      "warn": ""
     },
     {
      "text": "linia de nori care apare când se răceşte vremea",
      "correct": false,
-     "short": "Linia de nori care apare când se răcește vremea.",
+     "short": "",
      "long": "Linia de nori nu definește frontul. Frontul este limita dintre mase de aer.",
      "warn": ""
     },
@@ -1055,7 +1055,7 @@
     {
      "text": "zburăm peste munți cu atentie și înălțime mică, să putem ateriza rapid în caz că se intensifică vântul",
      "correct": false,
-     "short": "Zburăm peste munți cu atenție și înălțime mică, să putem ateriza rapid în caz că se intensifică vântul.",
+     "short": "",
      "long": "Zborul la înălțime mică peste munți este periculos, mai ales când vântul se intensifică.",
      "warn": ""
     },
@@ -1076,7 +1076,7 @@
     {
      "text": "zburăm prin văi la înalțime mică",
      "correct": false,
-     "short": "Zburăm prin văi la înălțime mică.",
+     "short": "",
      "long": "Zborul prin văi la înălțime mică este periculos, din cauza turbulenței și a vântului canalizat.",
      "warn": ""
     }
@@ -1141,7 +1141,7 @@
     {
      "text": "scazută",
      "correct": true,
-     "short": "Scăzută.",
+     "short": "",
      "long": "Corect. Deriva spre dreapta indică presiune scăzută (legea lui Buys Ballot).",
      "warn": ""
     },
@@ -1163,7 +1163,7 @@
     {
      "text": "distanţa de la suprafaţa solului până la baza norului",
      "correct": true,
-     "short": "Distanța de la suprafața solului până la baza norului.",
+     "short": "",
      "long": "Corect. Plafonul este distanța de la sol până la baza norului.",
      "warn": ""
     },
@@ -1177,7 +1177,7 @@
     {
      "text": "distanţa de la baza la vârful norului",
      "correct": false,
-     "short": "Distanța de la baza la vârful norului.",
+     "short": "",
      "long": "Grosimea norului, de la bază la vârf, nu este plafonul.",
      "warn": ""
     },
@@ -1235,28 +1235,28 @@
     {
      "text": "1013 hPa MSL scăzând cu 1hPa pe 30 ft",
      "correct": false,
-     "short": "1013 hPa MSL, scăzând cu 1 hPa pe 30 ft.",
+     "short": "",
      "long": "Corect. Presiunea standard este 1013 hPa și scade cu 1 hPa la circa 30 ft în straturile joase.",
      "warn": ""
     },
     {
      "text": "1015 hPa MSL scăzând cu 30 hPa per 100 ft",
      "correct": true,
-     "short": "1015 hPa MSL, scăzând cu 30 hPa pe 100 ft.",
+     "short": "",
      "long": "Este greșită: scăderea de 30 hPa pe 100 ft este imposibilă.",
      "warn": "Acest răspuns este greșit: presiunea standard la nivelul mării este 1013,25 hPa, iar în straturile joase presiunea scade cu aproximativ 1 hPa la fiecare 30 ft (circa 8–9 m). Scăderea de 30 hPa la 100 ft nu are sens."
     },
     {
      "text": "1015 hPa MSL scăzând cu 1 hPa pe 30 ft",
      "correct": false,
-     "short": "1015 hPa MSL, scăzând cu 1 hPa pe 30 ft.",
+     "short": "",
      "long": "Presiunea la nivelul mării este 1013 hPa, nu 1015. Scăderea de 1 hPa pe 30 ft este corectă, dar valoarea de referință nu.",
      "warn": ""
     },
     {
      "text": "1013 hPa MSL scăzând cu 30 hPa pe 1 ft",
      "correct": false,
-     "short": "1013 hPa MSL, scăzând cu 30 hPa pe 1 ft.",
+     "short": "",
      "long": "Scăderea de 30 hPa pe 1 ft este imposibilă. Scăderea reală este de 1 hPa la circa 30 ft.",
      "warn": ""
     }
@@ -1285,7 +1285,7 @@
     {
      "text": "temperatura atmosferei ISA rămâne constantă de la nivelul mării până la 11 km altitudine",
      "correct": false,
-     "short": "Temperatura în ISA rămâne constantă de la nivelul mării până la 11 km.",
+     "short": "",
      "long": "În ISA temperatura scade cu altitudinea (6,5°C/1000 m) până la tropopauză, nu rămâne constantă până la 11 km.",
      "warn": ""
     },
@@ -1307,28 +1307,28 @@
     {
      "text": "densitatea atmosferei ISA la nivelul mării este de 1.225 g/m³",
      "correct": true,
-     "short": "Densitatea atmosferei ISA la nivelul mării este de 1,225 g/m³.",
+     "short": "",
      "long": "Are unitatea greșită; valoarea corectă este 1,225 kg/m³.",
      "warn": "Unitatea este greșită: densitatea aerului ISA la nivelul mării este 1,225 kg/m³, adică 1225 g/m³. Varianta cu 1,225 g/m³ are unitatea greșită."
     },
     {
      "text": "Densitatea atmosferei ISA la nivelul mării este de 0.1225 g/m³",
      "correct": false,
-     "short": "Densitatea atmosferei ISA la nivelul mării este de 0,1225 g/m³.",
+     "short": "",
      "long": "0,1225 g/m³ este de zece ori mai mic decât valoarea reală (1225 g/m³).",
      "warn": ""
     },
     {
      "text": "Densitatea atmosferei ISA la nivelul mării este de 1.225 kg/m³",
      "correct": false,
-     "short": "Densitatea atmosferei ISA la nivelul mării este de 1,225 kg/m³.",
+     "short": "",
      "long": "Corect. ISA densitatea la nivelul mării este 1,225 kg/m³.",
      "warn": ""
     },
     {
      "text": "Densitatea atmosferei ISA la nivelul mării este de 12.25 g/m³",
      "correct": false,
-     "short": "Densitatea atmosferei ISA la nivelul mării este de 12,25 g/m³.",
+     "short": "",
      "long": "12,25 g/m³ este de o sută de ori mai mic decât valoarea reală.",
      "warn": ""
     }
@@ -1343,14 +1343,14 @@
     {
      "text": "exclusiv în zonele polare, unde temperaturile extrem de scăzute influențează mișcările de aer",
      "correct": false,
-     "short": "Exclusiv în zonele polare.",
+     "short": "",
      "long": "Vântul catabatic nu este limitat la zonele polare. Apare pe pantele oricărui relief.",
      "warn": ""
     },
     {
      "text": "numai în zonele costiere, ca rezultat al diferențelor de temperatură între apă și uscat",
      "correct": false,
-     "short": "Numai în zonele costiere.",
+     "short": "",
      "long": "Brizele costiere sunt alt tip de vânt. Catabaticul este legat de pante.",
      "warn": ""
     },
@@ -1364,7 +1364,7 @@
     {
      "text": "doar în regiunile deșertice, unde variațiile mari de temperatură între zi și noapte generează vânturi puternice",
      "correct": false,
-     "short": "Doar în regiunile deșertice.",
+     "short": "",
      "long": "Vântul catabatic nu este specific deșerturilor. Apare pe pante de relief.",
      "warn": ""
     }
@@ -1400,7 +1400,7 @@
     {
      "text": "o creștere ușoară a vitezei vântului la altitudini de peste 12000 ft",
      "correct": false,
-     "short": "O creștere ușoară a vitezei vântului la altitudini de peste 12 000 ft.",
+     "short": "",
      "long": "Creșterea ușoară a vitezei la altitudine este gradientul normal al vântului, nu forfecarea.",
      "warn": ""
     }
@@ -1422,21 +1422,21 @@
     {
      "text": "frontul rece de ordinul II este frontul în care de-a lungul părții inferioare a suprafeței acestuia se observă ascendența aerului cald",
      "correct": false,
-     "short": "Frontul în care de-a lungul părții inferioare a suprafeței se observă ascendența aerului cald.",
+     "short": "",
      "long": "Aerul cald care coboară pe partea inferioară nu este caracteristica frontului rece de ordinul II.",
      "warn": ""
     },
     {
      "text": "frontul rece de ordinul II este frontul cu o viteză de deplasare foarte mică",
      "correct": false,
-     "short": "Frontul cu o viteză de deplasare foarte mică.",
+     "short": "",
      "long": "Viteza mică de deplasare este caracteristica frontului staționar, nu a frontului rece de ordinul II.",
      "warn": ""
     },
     {
      "text": "frontul rece de ordinul II este frontul în care de-a lungul părții superioare a suprafeței acestuia se observă descendența aerului cald",
      "correct": true,
-     "short": "Frontul în care de-a lungul părții superioare a suprafeței se observă descendența aerului cald.",
+     "short": "",
      "long": "Corect. Pe partea superioară a suprafeței frontale se formează nori și precipitații.",
      "warn": ""
     }
@@ -1458,7 +1458,7 @@
     {
      "text": "nu are nici un efect asupra circulaţiei vântului",
      "correct": false,
-     "short": "Nu are niciun efect asupra circulației vântului.",
+     "short": "",
      "long": "Îngustarea văii are efect asupra vântului, fiindcă schimbă viteza în axa văii.",
      "warn": ""
     },
@@ -1494,7 +1494,7 @@
     {
      "text": "o zonă în care se poate zbura fară probleme cu aripile omologate",
      "correct": false,
-     "short": "O zonă în care se poate zbura fără probleme cu aripile omologate.",
+     "short": "",
      "long": "Nu există zonă de zbor fără probleme în forfecare, indiferent de aripă.",
      "warn": ""
     },
@@ -1523,28 +1523,28 @@
     {
      "text": "deviația ISA înseamnă diferența dintre atmosfera reală și ISA",
      "correct": true,
-     "short": "Diferența dintre atmosfera reală și ISA.",
+     "short": "",
      "long": "Corect. Deviația este diferența dintre atmosfera reală și cea standard.",
      "warn": ""
     },
     {
      "text": "deviația ISA este schimbarea densității aerului comparativ cu valorile ISA",
      "correct": false,
-     "short": "Schimbarea densității aerului comparativ cu valorile ISA.",
+     "short": "",
      "long": "Densitatea nu este definiția deviației. Ea este diferența față de standard, indiferent de parametru.",
      "warn": ""
     },
     {
      "text": "deviația ISA semnifică diferența de umiditate dintre atmosfera reală și standardul ISA",
      "correct": false,
-     "short": "Diferența de umiditate dintre atmosfera reală și standardul ISA.",
+     "short": "",
      "long": "Umiditatea nu este definiția deviației ISA.",
      "warn": ""
     },
     {
      "text": "deviația ISA reprezintă variația presiunii atmosferice față de standardul ISA",
      "correct": false,
-     "short": "Variația presiunii atmosferice față de standardul ISA.",
+     "short": "",
      "long": "Presiunea este un parametru, dar deviația ISA este definită ca diferența dintre real și standard, nu doar pentru presiune.",
      "warn": ""
     }
@@ -1638,21 +1638,21 @@
     {
      "text": "vântul care suferă variaţii datorită obstacolelor",
      "correct": false,
-     "short": "Vântul care suferă variații datorită obstacolelor.",
+     "short": "",
      "long": "Vântul care suferă variații din obstacole este turbulent, nu laminar.",
      "warn": ""
     },
     {
      "text": "vântul care ia naştere prin convecţia aerului",
      "correct": false,
-     "short": "Vântul care ia naștere prin convecția aerului.",
+     "short": "",
      "long": "Vântul născut din convecție este turbulent.",
      "warn": ""
     },
     {
      "text": "vântul care îşi păstrează direcţia şi intensitatea",
      "correct": true,
-     "short": "Vântul care își păstrează direcția și intensitatea.",
+     "short": "",
      "long": "Corect. Vântul laminar își păstrează direcția și intensitatea.",
      "warn": ""
     }
@@ -1753,14 +1753,14 @@
     {
      "text": "acest zbor nu este interzis, însă nu este recomandat, trebuie acordată atenție sporită controlului parapantei încât curenții ascendenți termici pot cauza închideri necontrolate ale aripii",
      "correct": true,
-     "short": "Acest zbor nu este interzis, însă nu este recomandat; trebuie acordată atenție sporită controlului aripii, pentru că termicele pot cauza închideri necontrolate.",
+     "short": "",
      "long": "Corect. Zborul nu este interzis, dar nu este recomandat, și cere atenție sporită.",
      "warn": ""
     },
     {
      "text": "nu este nicio diferență față de zborul de seară sau de dimineață în vânt laminar",
      "correct": false,
-     "short": "Nu este nicio diferență față de zborul de seară sau de dimineață, în vânt laminar.",
+     "short": "",
      "long": "Există o diferență: la prânz termicele sunt puternice, deci zborul de dimineață sau de seară este mai calm.",
      "warn": ""
     }
@@ -1825,7 +1825,7 @@
     {
      "text": "clasificarea norilor se face pe baza conținutului lor de apă sau gheață",
      "correct": false,
-     "short": "Clasificarea norilor se face pe baza conținutului de apă sau gheață.",
+     "short": "",
      "long": "Conținutul de apă sau gheață nu este criteriul de bază al clasificării.",
      "warn": ""
     },
@@ -1933,7 +1933,7 @@
     {
      "text": "trecerea printre două formațiuni noroase numai dacă acestea se află la minim 10 km distanță una față de cealaltă",
      "correct": false,
-     "short": "Trecerea printre două formațiuni noroase numai dacă acestea se află la minim 10 km distanță una de alta.",
+     "short": "",
      "long": "Trecerea printre nori este periculoasă, chiar dacă ei sunt departe unul de altul.",
      "warn": ""
     },
@@ -1991,28 +1991,28 @@
     {
      "text": "căldura specifică este cantitatea de căldură necesară pentru a încălzi cu 1°C 1g dintr-un corp",
      "correct": true,
-     "short": "Cantitatea de căldură necesară pentru a încălzi cu 1°C 1 g dintr-un corp.",
+     "short": "",
      "long": "Corect. Căldura specifică este cantitatea de căldură pentru 1 g și 1°C.",
      "warn": ""
     },
     {
      "text": "căldura specifică este energia necesară pentru a încălzi cu 1°C un metru cub de aer",
      "correct": false,
-     "short": "Energia necesară pentru a încălzi cu 1°C un metru cub de aer.",
+     "short": "",
      "long": "Volumul de aer nu este referința căldurii specifice.",
      "warn": ""
     },
     {
      "text": "căldura specifică se referă la variația temperaturii unui corp sub influența radiației solare",
      "correct": false,
-     "short": "Variația temperaturii unui corp sub influența radiației solare.",
+     "short": "",
      "long": "Variația temperaturii sub radiație nu este definiția căldurii specifice.",
      "warn": ""
     },
     {
      "text": "căldura specifică reprezintă cantitatea de energie necesară pentru a schimba starea de agregare a unui corp",
      "correct": false,
-     "short": "Cantitatea de energie necesară pentru a schimba starea de agregare a unui corp.",
+     "short": "",
      "long": "Schimbarea stării de agregare este căldura latentă, nu căldura specifică.",
      "warn": ""
     }
@@ -2070,21 +2070,21 @@
     {
      "text": "scăderii densităţii aerului în înălţime şi scurtării coloanei de aer",
      "correct": true,
-     "short": "Scăderii densității aerului în înălțime și scurtării coloanei de aer.",
+     "short": "",
      "long": "Corect. Scăderea densității și a coloanei de aer determină scăderea presiunii.",
      "warn": ""
     },
     {
      "text": "scăderii temperaturii aerului în înălţime",
      "correct": false,
-     "short": "Scăderii temperaturii aerului în înălțime.",
+     "short": "",
      "long": "Temperatura scade cu altitudinea, dar presiunea scade din cauza coloanei de aer mai scurte.",
      "warn": ""
     },
     {
      "text": "creşterii umezelii în înălţime",
      "correct": false,
-     "short": "Creșterii umezelii în înălțime.",
+     "short": "",
      "long": "Umezeala nu determină scăderea presiunii cu altitudinea.",
      "warn": ""
     }
@@ -2099,28 +2099,28 @@
     {
      "text": "treapta barică reprezintă intervalul de timp în care presiunea atmosferică scade cu 1 mb",
      "correct": false,
-     "short": "Intervalul de timp în care presiunea atmosferică scade cu 1 mb.",
+     "short": "",
      "long": "Treapta barică nu este un interval de timp.",
      "warn": ""
     },
     {
      "text": "treapta barică este un interval de altitudine la care presiunea atmosferică rămâne constantă",
      "correct": false,
-     "short": "Un interval de altitudine la care presiunea atmosferică rămâne constantă.",
+     "short": "",
      "long": "Treapta barică nu este un interval de altitudine la presiune constantă.",
      "warn": ""
     },
     {
      "text": "treapta barică indică nivelul la care presiunea atmosferică se dublează",
      "correct": false,
-     "short": "Nivelul la care presiunea atmosferică se dublează.",
+     "short": "",
      "long": "Nivelul la care presiunea se dublează nu este treapta barică.",
      "warn": ""
     },
     {
      "text": "treapta barică reprezintă distanța verticală necesară pentru ca presiunea să scadă cu 1 mb",
      "correct": true,
-     "short": "Distanța verticală necesară pentru ca presiunea să scadă cu 1 mb.",
+     "short": "",
      "long": "Corect. Treapta barică este distanța verticală pentru o scădere de 1 hPa.",
      "warn": ""
     }
@@ -2315,14 +2315,14 @@
     {
      "text": "transmiterea căldurii se face prin convectie",
      "correct": false,
-     "short": "Transmiterea căldurii se face prin convecție.",
+     "short": "",
      "long": "Convecția este un mod real de transmitere a căldurii, deci nu este răspunsul fals.",
      "warn": ""
     },
     {
      "text": "transmiterea căldurii se face prin radiatie",
      "correct": false,
-     "short": "Transmiterea căldurii se face prin radiație.",
+     "short": "",
      "long": "Radiația este un mod real de transmitere a căldurii, deci nu este răspunsul fals.",
      "warn": ""
     },
@@ -2336,7 +2336,7 @@
     {
      "text": "transmiterea căldurii se face prin conductie",
      "correct": false,
-     "short": "Transmiterea căldurii se face prin conducție.",
+     "short": "",
      "long": "Conducția este un mod real de transmitere a căldurii, deci nu este răspunsul fals.",
      "warn": ""
     }
@@ -2351,28 +2351,28 @@
     {
      "text": "este un vânt descendent ce coboară pe versanții dealurilor în văi seara",
      "correct": true,
-     "short": "Un vânt descendent care coboară pe versanții dealurilor în văi seara.",
+     "short": "",
      "long": "Corect. Vântul catabatic coboară pe versanți seara.",
      "warn": ""
     },
     {
      "text": "este o mișcare de aer turbionară în văile înguste",
      "correct": false,
-     "short": "O mișcare de aer turbionară în văile înguste.",
+     "short": "",
      "long": "Turbionarea în văile înguste este alt fenomen, nu catabaticul.",
      "warn": ""
     },
     {
      "text": "este un vânt ascendent ce apare dimineața",
      "correct": false,
-     "short": "Un vânt ascendent care apare dimineața.",
+     "short": "",
      "long": "Vântul ascendent de dimineață este anabaticul, nu catabaticul.",
      "warn": ""
     },
     {
      "text": "este un vânt ascendent ce apare dimineața",
      "correct": false,
-     "short": "Un vânt ascendent care apare dimineața.",
+     "short": "",
      "long": "Vântul ascendent de dimineață este anabaticul. Descrierea este greșită.",
      "warn": ""
     }
@@ -2495,28 +2495,28 @@
     {
      "text": "frontul rece de ordinul I este frontul în care de-a lungul întregii suprafețe frontale a acestuia se observă ascensiunea aerului cald",
      "correct": true,
-     "short": "Frontul în care de-a lungul întregii suprafețe frontale se observă ascensiunea aerului cald.",
+     "short": "",
      "long": "Corect. Frontul de ordinul I are fenomene pe toată suprafața frontală.",
      "warn": ""
     },
     {
      "text": "frontul rece de ordinul I este frontul care se caracterizează prin deplasare rapidă și precipitații intense",
      "correct": false,
-     "short": "Frontul care se caracterizează prin deplasare rapidă și precipitații intense.",
+     "short": "",
      "long": "Deplasarea rapidă și precipitațiile intense sunt mai degrabă caracteristici ale ordinului II, nu ale ordinului I.",
      "warn": ""
     },
     {
      "text": "frontul rece de ordinul I este frontul cu nebulozitate redusă și fără precipitații",
      "correct": false,
-     "short": "Frontul cu nebulozitate redusă și fără precipitații.",
+     "short": "",
      "long": "Nebulozitatea redusă fără precipitații nu este caracteristica frontului rece de ordinul I.",
      "warn": ""
     },
     {
      "text": "frontul rece de ordinul I este frontul în care predomină descendența aerului cald",
      "correct": false,
-     "short": "Frontul în care predomină descendența aerului cald.",
+     "short": "",
      "long": "Descendența aerului cald nu caracterizează frontul rece de ordinul I.",
      "warn": ""
     }
@@ -2610,14 +2610,14 @@
     {
      "text": "vântul la sol va fi de 10km/h",
      "correct": false,
-     "short": "Vântul la sol va fi de 10 km/h.",
+     "short": "",
      "long": "Vântul la sol nu este egal cu cel de la altitudine. Frecarea cu solul îl încetinește.",
      "warn": ""
     },
     {
      "text": "vântul la sol va fi 0, ținânâd cont de gradient",
      "correct": false,
-     "short": "Vântul la sol va fi 0, ținând cont de gradient.",
+     "short": "",
      "long": "Vântul la sol nu este zero, chiar dacă există gradient. Frecarea îl reduce, dar nu îl anulează.",
      "warn": ""
     },
@@ -2646,7 +2646,7 @@
     {
      "text": "imprimarea unei descendențe direct proporțională cu viteza vântului",
      "correct": false,
-     "short": "Imprimarea unei descendențe direct proporționale cu viteza vântului.",
+     "short": "",
      "long": "Descendența depinde de aer și de motoparapantă, nu direct de viteza vântului.",
      "warn": ""
     },
@@ -2660,7 +2660,7 @@
     {
      "text": "modifica viteza motoparapantei faţă de sol",
      "correct": true,
-     "short": "Modifică viteza motoparapantei față de sol.",
+     "short": "",
      "long": "Corect. Vântul modifică viteza motoparapantei față de sol.",
      "warn": ""
     }
@@ -2696,7 +2696,7 @@
     {
      "text": "sunt informații nerelevante piloților de parapantă cu motor",
      "correct": false,
-     "short": "Sunt informații nerelevante pilotului de parapantă cu motor.",
+     "short": "",
      "long": "Informațiile radar sunt utile și pilotului de motoparapantă cu motor.",
      "warn": ""
     }
@@ -2711,21 +2711,21 @@
     {
      "text": "o descreştere a presiunii cu înălţimea",
      "correct": false,
-     "short": "O descreștere a presiunii cu înălțimea.",
+     "short": "",
      "long": "Scăderea presiunii cu altitudinea este comportamentul normal, nu inversiunea.",
      "warn": ""
     },
     {
      "text": "o descreştere a temperaturii cu înălţimea",
      "correct": false,
-     "short": "O descreștere a temperaturii cu înălțimea.",
+     "short": "",
      "long": "Scăderea temperaturii cu altitudinea este gradientul normal, nu inversiunea.",
      "warn": ""
     },
     {
      "text": "o creştere a temperaturii cu înălţimea",
      "correct": true,
-     "short": "O creștere a temperaturii cu înălțimea.",
+     "short": "",
      "long": "Corect. Inversiunea este creșterea temperaturii cu altitudinea.",
      "warn": ""
     },
@@ -2891,14 +2891,14 @@
     {
      "text": "mişcarea turbulentă a aerului",
      "correct": false,
-     "short": "Mișcarea turbulentă a aerului.",
+     "short": "",
      "long": "Turbulența este alt aspect al mișcării aerului, nu definiția vântului.",
      "warn": ""
     },
     {
      "text": "mişcarea orizontală a aerului",
      "correct": true,
-     "short": "Mișcarea orizontală a aerului.",
+     "short": "",
      "long": "Corect. Vântul este mișcarea orizontală a aerului.",
      "warn": ""
     },
@@ -2912,7 +2912,7 @@
     {
      "text": "mişcarea orizontală şi verticală a aerului",
      "correct": false,
-     "short": "Mișcarea orizontală și verticală a aerului.",
+     "short": "",
      "long": "Vântul este în principal orizontal. Mișcarea verticală este curent, nu vânt.",
      "warn": ""
     }
@@ -2927,28 +2927,28 @@
     {
      "text": "atmosfera este divizată în troposferă, stratosferă, mezosferă, termosferă și exosferă",
      "correct": true,
-     "short": "Troposferă, stratosferă, mezosferă, termosferă și exosferă.",
+     "short": "",
      "long": "Corect. Cele cinci straturi sunt troposfera, stratosfera, mezosfera, termosfera și exosfera.",
      "warn": ""
     },
     {
      "text": "atmosfera se împarte în troposferă, stratopauza, mezosferă, termopauza și exosferă",
      "correct": false,
-     "short": "Troposferă, stratopauză, mezosferă, termopauză și exosferă.",
+     "short": "",
      "long": "Stratopauza și termopauza sunt limite între straturi, nu straturi. Lista corectă este cea din varianta A.",
      "warn": ""
     },
     {
      "text": "subdiviziunile atmosferei includ stratul de ozon, ionosfera și magnetosfera",
      "correct": false,
-     "short": "Stratul de ozon, ionosfera și magnetosfera.",
+     "short": "",
      "long": "Stratul de ozon, ionosfera și magnetosfera nu sunt subdiviziunile atmosferei după temperatură.",
      "warn": ""
     },
     {
      "text": "principalele părți ale atmosferei sunt troposfera, stratosfera și mezopauza",
      "correct": false,
-     "short": "Troposfera, stratosfera și mezopauza.",
+     "short": "",
      "long": "Mezopauza este limita dintre straturi, nu un strat. Lista este incompletă.",
      "warn": ""
     }
@@ -2963,21 +2963,21 @@
     {
      "text": "turbulenţe şi “umbre de vânt” în spatele copacilor, sub vânt",
      "correct": true,
-     "short": "Turbulențe și umbre de vânt în spatele copacilor, sub vânt.",
+     "short": "",
      "long": "Corect. Turbulențe și umbre de vânt sunt în spatele copacilor.",
      "warn": ""
     },
     {
      "text": "turbulenţe în partea vântului",
      "correct": false,
-     "short": "Turbulențe în partea vântului.",
+     "short": "",
      "long": "Turbulențele nu apar în partea din față a vântului, ci în spate.",
      "warn": ""
     },
     {
      "text": "nu provoacă turbulenţe",
      "correct": false,
-     "short": "Nu provoacă turbulențe.",
+     "short": "",
      "long": "Copacii produc turbulențe, deci afirmația că nu produc este greșită.",
      "warn": ""
     },
@@ -3020,7 +3020,7 @@
     {
      "text": "cantitatea de temperatură pe care aerul o cedează în urma încălzirii de la soare, mediului înconjurător",
      "correct": false,
-     "short": "Cantitatea de temperatură pe care aerul o cedează mediului înconjurător.",
+     "short": "",
      "long": "Temperatura nu este o cantitate cedată de aer. Este starea de încălzire.",
      "warn": ""
     }
@@ -3128,7 +3128,7 @@
     {
      "text": "- 2 grade Celsius",
      "correct": false,
-     "short": "-2 grade Celsius.",
+     "short": "",
      "long": "−2°C nu corespunde calculului; temperatura nu scade sub 0°C cu 9,8°C pe kilometru de la 10°C.",
      "warn": ""
     }

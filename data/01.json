@@ -54,7 +54,7 @@
     {
      "text": "un operator deținator al unui certificat emis sau recunoscut de guvernul țării respective",
      "correct": true,
-     "short": "Un operator care deține un certificat emis sau recunoscut de guvernul țării.",
+     "short": "",
      "long": "Corect. Operatorul care deține certificatul emis sau recunoscut de guvern controlează serviciul stației.",
      "warn": ""
     },
@@ -90,7 +90,7 @@
     {
      "text": "până când organul de trafic va ordona schimbarea frecvenţei",
      "correct": false,
-     "short": "Până când organul de trafic ordonă schimbarea frecvenței.",
+     "short": "",
      "long": "Legătura nu se oprește până la ordinul de schimbare a frecvenței. Obligația durează până la ieșirea din zona controlată.",
      "warn": ""
     },
@@ -104,7 +104,7 @@
     {
      "text": "până la ieşirea din zona controlată",
      "correct": true,
-     "short": "Până la ieșirea din zona controlată.",
+     "short": "",
      "long": "Corect. Legătura radio se menține până la ieșirea din zona controlată.",
      "warn": ""
     }
@@ -227,28 +227,28 @@
     {
      "text": "Numărul de pasageri la bord, greutatea totală a aeronavei și durata zborului",
      "correct": false,
-     "short": "Numărul de pasageri, greutatea și durata zborului.",
+     "short": "",
      "long": "Numărul de pasageri, greutatea și durata zborului nu sunt informațiile de bază pentru intrarea în spațiul controlat.",
      "warn": ""
     },
     {
      "text": "Indicativul aeronavei, poziția curentă, altitudinea, ruta intenționată și destinația",
      "correct": true,
-     "short": "Indicativul, poziția curentă, altitudinea, ruta intenționată și destinația.",
+     "short": "",
      "long": "Corect. Indicativul, poziția, altitudinea, ruta și destinația permit ATC să identifice și să coordoneze aeronava.",
      "warn": ""
     },
     {
      "text": "Identitatea pilotului, certificatul de operator radio și licența de zbor",
      "correct": false,
-     "short": "Identitatea pilotului, certificatul de operator și licența de zbor.",
+     "short": "",
      "long": "Identitatea pilotului și licența nu sunt transmise la intrarea în spațiul controlat.",
      "warn": ""
     },
     {
      "text": "Viteza actuală a aeronavei și condițiile meteo locale",
      "correct": false,
-     "short": "Viteza actuală și condițiile meteo locale.",
+     "short": "",
      "long": "Viteza și meteo nu sunt informațiile de bază pentru intrarea în spațiul controlat.",
      "warn": ""
     }
@@ -299,28 +299,28 @@
     {
      "text": "Aeronautical Data System-Broadcast",
      "correct": false,
-     "short": "Aeronautical Data System–Broadcast.",
+     "short": "",
      "long": "Aeronautical Data System nu este denumirea ADS-B.",
      "warn": ""
     },
     {
      "text": "Automatic Directional System-Broadcast",
      "correct": false,
-     "short": "Automatic Directional System–Broadcast.",
+     "short": "",
      "long": "Automatic Directional System nu este denumirea ADS-B.",
      "warn": ""
     },
     {
      "text": "Airborne Detection System-Broadcast",
      "correct": false,
-     "short": "Airborne Detection System–Broadcast.",
+     "short": "",
      "long": "Airborne Detection System nu este denumirea ADS-B.",
      "warn": ""
     },
     {
      "text": "Automatic Dependent Surveillance-Broadcast",
      "correct": true,
-     "short": "Automatic Dependent Surveillance–Broadcast.",
+     "short": "",
      "long": "Corect. ADS-B este Automatic Dependent Surveillance–Broadcast.",
      "warn": ""
     }
@@ -371,14 +371,14 @@
     {
      "text": "utilizați o bujie cu rezistență încorporată",
      "correct": true,
-     "short": "Bujie cu rezistență încorporată.",
+     "short": "",
      "long": "Corect. Bujia cu rezistență încorporată reduce interferențele produse de aprindere.",
      "warn": ""
     },
     {
      "text": "utilizați un ulei premium pentru motoarele in doi timpi",
      "correct": false,
-     "short": "Ulei premium pentru motoarele în doi timpi.",
+     "short": "",
      "long": "Uleiul nu reduce interferențele radio. Interferența vine de la aprinderea motorului.",
      "warn": ""
     },
@@ -392,7 +392,7 @@
     {
      "text": "utilizați o antenă mai puternică pentru stație",
      "correct": false,
-     "short": "O antenă mai puternică pentru stație.",
+     "short": "",
      "long": "O antenă mai puternică amplifică semnalul, dar nu limitează interferențele produse de motor.",
      "warn": ""
     }
@@ -486,7 +486,7 @@
     {
      "text": "vă întoarceţi imediat la locul de decolare prin spaţiul clasa G",
      "correct": false,
-     "short": "Vă întoarceți imediat la locul de decolare.",
+     "short": "",
      "long": "Întoarcerea nu este necesară. Zborul poate continua în clasa G.",
      "warn": ""
     },
@@ -731,21 +731,21 @@
     {
      "text": "anulaţi instrucţiunea",
      "correct": false,
-     "short": "Anulați instrucțiunea.",
+     "short": "",
      "long": "Pilotul nu anulează instrucțiunea. Anularea este decizia controlorului.",
      "warn": ""
     },
     {
      "text": "negativ instrucţiunea",
      "correct": false,
-     "short": "Negativ instrucțiunea.",
+     "short": "",
      "long": "„Negativ” înseamnă „nu”, dar nu este formula standard pentru o instrucțiune pe care nu o poți îndeplini.",
      "warn": ""
     },
     {
      "text": "nu pot urma instrucţiunea",
      "correct": true,
-     "short": "Nu pot urma instrucțiunea.",
+     "short": "",
      "long": "Corect. „Nu pot urma instrucțiunea” este răspunsul standard.",
      "warn": ""
     },
@@ -767,28 +767,28 @@
     {
      "text": "se va solicita, în scris, eliberarea unui nou certificat de la ANCOM",
      "correct": true,
-     "short": "Se solicită în scris un nou certificat de la ANCOM.",
+     "short": "",
      "long": "Corect. Duplicatul se cere în scris la ANCOM.",
      "warn": ""
     },
     {
      "text": "se va solicita, în scris, eliberarea unui nou certificat de la Aeroclubul României",
      "correct": false,
-     "short": "Se solicită în scris un nou certificat de la Aeroclubul României.",
+     "short": "",
      "long": "Aeroclubul României nu eliberează certificatul general de operator radiotelefonist.",
      "warn": ""
     },
     {
      "text": "se va solicita, cu ocazia prelungirii valabilitații certificatului deținut eliberarea unui nou certificat",
      "correct": false,
-     "short": "Se solicită un nou certificat cu ocazia prelungirii valabilității.",
+     "short": "",
      "long": "Duplicatul nu se cere cu ocazia prelungirii. Se cere în scris, separat, de la ANCOM.",
      "warn": ""
     },
     {
      "text": "nu se va întreprinde nici o măsură întrucât există o bază de date cu operatorii certificați de ANCOM",
      "correct": false,
-     "short": "Nu se întreprinde nimic, pentru că există o bază de date ANCOM.",
+     "short": "",
      "long": "Pierderea certificatului cere măsuri. O bază de date nu înlocuiește duplicatul eliberat de ANCOM.",
      "warn": ""
     }
@@ -882,7 +882,7 @@
     {
      "text": "timpul total de zbor anuntat",
      "correct": false,
-     "short": "Timpul total de zbor anunțat.",
+     "short": "",
      "long": "Timpul total de zbor nu este semnificația UTC.",
      "warn": ""
     },
@@ -947,7 +947,7 @@
     {
      "text": "raportarea incidentelor la sol",
      "correct": false,
-     "short": "Raportarea incidentelor de la sol.",
+     "short": "",
      "long": "Raportarea incidentelor la sol nu este scopul principal al comunicațiilor radio.",
      "warn": ""
     },
@@ -1091,28 +1091,28 @@
     {
      "text": "până la limita audibilităţii",
      "correct": false,
-     "short": "Până la limita audibilității.",
+     "short": "",
      "long": "Limita audibilității nu este criteriul. Legătura se menține până la ieșirea din zona controlată.",
      "warn": ""
     },
     {
      "text": "până la o distanță de minim 10NM",
      "correct": false,
-     "short": "Până la o distanță de minim 10 NM.",
+     "short": "",
      "long": "Distanța de 10 NM nu este criteriul de menținere a legăturii. Criteriul este ieșirea din zona controlată.",
      "warn": ""
     },
     {
      "text": "până când organul de trafic va ordona schimbarea frecvenţei",
      "correct": false,
-     "short": "Până când organul de trafic ordonă schimbarea frecvenței.",
+     "short": "",
      "long": "Ordinul de schimbare a frecvenței nu definește durata obligației. Criteriul este ieșirea din zona controlată.",
      "warn": ""
     },
     {
      "text": "până la ieşirea din zona controlată",
      "correct": true,
-     "short": "Până la ieșirea din zona controlată.",
+     "short": "",
      "long": "Corect. Legătura se menține până la ieșirea din zona controlată.",
      "warn": ""
     }
@@ -1199,7 +1199,7 @@
     {
      "text": "Engage , Xerox, Baccalaureate",
      "correct": false,
-     "short": "Engage, Xerox, Baccalaureate.",
+     "short": "",
      "long": "Engage, Xerox și Baccalaureate nu sunt cuvintele ICAO pentru E, X și B.",
      "warn": ""
     },
@@ -1235,14 +1235,14 @@
     {
      "text": "mesajul apoi indicativul aeronavei",
      "correct": false,
-     "short": "Mesajul, apoi indicativul.",
+     "short": "",
      "long": "Mesajul înaintea indicativului nu este ordinea standard. Indicativul se spune primul.",
      "warn": ""
     },
     {
      "text": "indicativul prima oară apoi mesajul",
      "correct": true,
-     "short": "Indicativul prima oară, apoi mesajul.",
+     "short": "",
      "long": "Corect. Indicativul este primul, apoi mesajul.",
      "warn": ""
     },
@@ -1357,7 +1357,7 @@
     {
      "text": "butonul ON|OFF",
      "correct": false,
-     "short": "Butonul ON/OFF.",
+     "short": "",
      "long": "Butonul ON/OFF pornește sau oprește stația, fără să îmbunătățească recepția.",
      "warn": ""
     },
@@ -1458,14 +1458,14 @@
     {
      "text": "aeronavele comunică exclusiv prin semnale vizuale",
      "correct": false,
-     "short": "Comunică exclusiv prin semnale vizuale.",
+     "short": "",
      "long": "Semnalele vizuale nu sunt mijlocul principal de comunicare în spațiul necontrolat.",
      "warn": ""
     },
     {
      "text": "aeronavele folosesc doar frecvențele ATC",
      "correct": false,
-     "short": "Folosesc doar frecvențele ATC.",
+     "short": "",
      "long": "Frecvențele ATC nu sunt folosite în spațiul necontrolat, unde nu există control.",
      "warn": ""
     },
@@ -1487,14 +1487,14 @@
     {
      "text": "este suficient să confirmăm prin răspunsul “am înţeles”",
      "correct": false,
-     "short": "Este suficient răspunsul „am înțeles”.",
+     "short": "",
      "long": "„Am înțeles” nu este formula standard de confirmare în fonia aeronautică.",
      "warn": ""
     },
     {
      "text": "da, prin răspunsul „am copiat!”",
      "correct": false,
-     "short": "Da, prin răspunsul „am copiat”.",
+     "short": "",
      "long": "„Am copiat” nu este formula standard de confirmare.",
      "warn": ""
     },
@@ -1508,7 +1508,7 @@
     {
      "text": "da, prin răspunsul “confirm”",
      "correct": true,
-     "short": "Da, prin răspunsul „confirm”.",
+     "short": "",
      "long": "Corect. Confirmarea standard este „confirm”.",
      "warn": ""
     }
@@ -1544,7 +1544,7 @@
     {
      "text": "Nu se informeaza organul de trafic avem disponibil pentru aterizare un teren mare",
      "correct": false,
-     "short": "Nu se informează organul de trafic; avem disponibil un teren mare.",
+     "short": "",
      "long": "Nu se informează organul de trafic este greșit: în urgență se informează organul de trafic.",
      "warn": ""
     }
@@ -1573,14 +1573,14 @@
     {
      "text": "am epuizat combustibilul și voi ateriza!",
      "correct": false,
-     "short": "Am epuizat combustibilul și voi ateriza.",
+     "short": "",
      "long": "Epuizarea combustibilului nu este semnificația lui WILCO.",
      "warn": ""
     },
     {
      "text": "am înteles mesajul și mă voi conforma!",
      "correct": true,
-     "short": "Am înțeles mesajul și mă voi conforma.",
+     "short": "",
      "long": "Corect. WILCO înseamnă că am înțeles și mă voi conforma.",
      "warn": ""
     }
@@ -1631,28 +1631,28 @@
     {
      "text": "distanţa şi poziţia fată de aerodromul de plecare",
      "correct": false,
-     "short": "Distanța și poziția față de aerodromul de plecare.",
+     "short": "",
      "long": "Distanța față de aerodromul de plecare nu este informația obligatorie. Contează poziția actuală.",
      "warn": ""
     },
     {
      "text": "tipul de avion si cantitatea de combustibil la bord",
      "correct": false,
-     "short": "Tipul de avion și cantitatea de combustibil.",
+     "short": "",
      "long": "Tipul avionului și combustibilul nu sunt informațiile obligatorii pentru localizare.",
      "warn": ""
     },
     {
      "text": "poziţia după GPS",
      "correct": false,
-     "short": "Poziția după GPS.",
+     "short": "",
      "long": "Poziția GPS este o formă a poziției, dar mesajul cere poziția, altitudinea și capul compas.",
      "warn": ""
     },
     {
      "text": "poziţia curentă sau ultima poziţie ştiută împreună cu înălţimea şi capul compas",
      "correct": true,
-     "short": "Poziția curentă sau ultima poziție cunoscută, împreună cu înălțimea și capul compas.",
+     "short": "",
      "long": "Corect. Poziția curentă sau ultima cunoscută, altitudinea și capul compas.",
      "warn": ""
     }
@@ -1667,7 +1667,7 @@
     {
      "text": "nu răspundeţi nimic, aşteptaţi să fiţi rechemaţi",
      "correct": true,
-     "short": "Nu răspundeți nimic, așteptați să fiți rechemați.",
+     "short": "",
      "long": "Corect. Nu se răspunde, pilotul așteaptă să fie rechemat.",
      "warn": ""
     },
@@ -1688,7 +1688,7 @@
     {
      "text": "rămân pe recepţie",
      "correct": false,
-     "short": "Rămân pe recepție.",
+     "short": "",
      "long": "„Rămân pe recepție” nu se spune. Pilotul așteaptă fără să răspundă.",
      "warn": ""
     }
@@ -1739,28 +1739,28 @@
     {
      "text": "un dispozitiv care oferă navigație direcțională",
      "correct": false,
-     "short": "Dispozitiv care oferă navigație direcțională.",
+     "short": "",
      "long": "Navigația direcțională este rolul radiogoniometrului, nu al ELT.",
      "warn": ""
     },
     {
      "text": "un dispozitiv care măsoară distanța față de sol",
      "correct": false,
-     "short": "Dispozitiv care măsoară distanța față de sol.",
+     "short": "",
      "long": "Măsurarea distanței față de sol nu este rolul ELT.",
      "warn": ""
     },
     {
      "text": "un dispozitiv care măsoară viteza aeronavei",
      "correct": false,
-     "short": "Dispozitiv care măsoară viteza aeronavei.",
+     "short": "",
      "long": "Viteza aeronavei nu este măsurată de ELT.",
      "warn": ""
     },
     {
      "text": "un dispozitiv care transmite automat un semnal de urgență în caz de accident",
      "correct": true,
-     "short": "Dispozitiv care transmite automat un semnal de urgență în caz de accident.",
+     "short": "",
      "long": "Corect. ELT transmite automat semnal de urgență în caz de accident.",
      "warn": ""
     }
@@ -1854,14 +1854,14 @@
     {
      "text": "licenţei staţiei de aeronavă şi certificatului restrâns de operator radiotelefonist",
      "correct": false,
-     "short": "Licenței stației de aeronavă și certificatului restrâns.",
+     "short": "",
      "long": "Licența stației și certificatul restrâns nu sunt baza folosirii stației de bord, în formularea corectă.",
      "warn": ""
     },
     {
      "text": "stația radio la bord poate fi operată fără o pregătire prealabilă",
      "correct": false,
-     "short": "Stația poate fi operată fără o pregătire prealabilă.",
+     "short": "",
      "long": "Stația nu se operează fără pregătire, deoarece pilotul trebuie să aibă certificat de operator.",
      "warn": ""
     },
@@ -1919,14 +1919,14 @@
     {
      "text": "serviciul de trafic aerian naţional",
      "correct": false,
-     "short": "Serviciul de trafic aerian național.",
+     "short": "",
      "long": "Serviciul de trafic aerian nu publică frecvențele în sine. Ele se află în AIP România.",
      "warn": ""
     },
     {
      "text": "AIP Romania",
      "correct": true,
-     "short": "AIP România.",
+     "short": "",
      "long": "Corect. Frecvențele sunt în AIP România (publicația oficială de informare aeronautică).",
      "warn": ""
     },
@@ -1940,7 +1940,7 @@
     {
      "text": "HG 912//2010 - Anexa 1",
      "correct": false,
-     "short": "HG 912/2010, Anexa 1.",
+     "short": "",
      "long": "HG 912/2010 nu este publicația care conține frecvențele aeroporturilor.",
      "warn": ""
     }
@@ -1955,14 +1955,14 @@
     {
      "text": "Sunt permise doar zborurile IFR și se furnizează serviciul de alarmare",
      "correct": false,
-     "short": "Sunt permise doar zborurile IFR, iar serviciul este de alarmare.",
+     "short": "",
      "long": "În clasa G nu sunt permise doar IFR, și serviciul nu este alarmare (AIP ENR 1.4).",
      "warn": ""
     },
     {
      "text": "Sunt permise doar zborurile VFR și se furnizează serviciul de control al traficului aerian",
      "correct": false,
-     "short": "Sunt permise doar zborurile VFR, iar serviciul este de control.",
+     "short": "",
      "long": "În clasa G nu sunt permise doar VFR, și serviciul nu este control (AIP ENR 1.4).",
      "warn": ""
     },
@@ -1991,28 +1991,28 @@
     {
      "text": "aşteaptă până te rechem",
      "correct": true,
-     "short": "Așteaptă până te rechem.",
+     "short": "",
      "long": "Corect. Înseamnă să aștepți până ești rechemat.",
      "warn": ""
     },
     {
      "text": "menţine poziţia",
      "correct": false,
-     "short": "Menține poziția.",
+     "short": "",
      "long": "Menținerea poziției nu este sensul expresiei.",
      "warn": ""
     },
     {
      "text": "schimba frecventa",
      "correct": false,
-     "short": "Schimbă frecvența.",
+     "short": "",
      "long": "Schimbarea frecvenței nu este sensul expresiei.",
      "warn": ""
     },
     {
      "text": "selectează stand by la transponder",
      "correct": false,
-     "short": "Selectează stand-by la transponder.",
+     "short": "",
      "long": "Stand by la transponder nu este sensul expresiei.",
      "warn": ""
     }
@@ -2063,7 +2063,7 @@
     {
      "text": "repetaţi mesajul",
      "correct": true,
-     "short": "Repetați mesajul.",
+     "short": "",
      "long": "Corect. „Repetați mesajul” cere repetarea în fonia aeronautică.",
      "warn": ""
     },
@@ -2077,14 +2077,14 @@
     {
      "text": "repetaţi vă rog",
      "correct": false,
-     "short": "Repetați vă rog.",
+     "short": "",
      "long": "„Repetați vă rog” are formulă de politețe, dar nu este formula standard.",
      "warn": ""
     },
     {
      "text": "spuneţi din nou mesajul",
      "correct": false,
-     "short": "Spuneți din nou mesajul.",
+     "short": "",
      "long": "„Spuneți din nou mesajul” nu este formula standard din fonia aeronautică.",
      "warn": ""
     }
@@ -2243,28 +2243,28 @@
     {
      "text": "va continuați zborul prudent, zburând atent și urmărind grupul în continuare",
      "correct": true,
-     "short": "Continuați zborul prudent, urmărind grupul.",
+     "short": "",
      "long": "Corect. Zborul continuă prudent, urmărind grupul, deoarece comunicația nu este obligatorie în G.",
      "warn": ""
     },
     {
      "text": "puneți comenzile în magneți și încercați să diagnosticați problema în zbor",
      "correct": false,
-     "short": "Puneți comenzile în magneți și diagnosticați problema în zbor.",
+     "short": "",
      "long": "Comutarea magnetelor și diagnosticarea în zbor nu sunt procedura de pierdere a legăturii radio.",
      "warn": ""
     },
     {
      "text": "aterizați de urgență pe cel mai apropiat teren disponibil",
      "correct": false,
-     "short": "Aterizați de urgență pe cel mai apropiat teren.",
+     "short": "",
      "long": "Aterizarea de urgență nu este necesară doar pentru pierderea legăturii radio în clasa G.",
      "warn": ""
     },
     {
      "text": "aruncați stația radio încât dacă nu funcționează e doar balast",
      "correct": false,
-     "short": "Aruncați stația radio, este doar balast.",
+     "short": "",
      "long": "Aruncarea stației nu este o procedură. Stația se verifică, nu se aruncă.",
      "warn": ""
     }
@@ -2279,7 +2279,7 @@
     {
      "text": "continua zborul fără a mai interveni asupra stației",
      "correct": false,
-     "short": "Continuați zborul fără a mai interveni asupra stației.",
+     "short": "",
      "long": "Continuarea zborului fără a verifica stația nu este permisă în CTR, unde comunicația este obligatorie.",
      "warn": ""
     },
@@ -2300,7 +2300,7 @@
     {
      "text": "emite un mesaj oarecare pentru a verifica emisia stației",
      "correct": false,
-     "short": "Emiteți un mesaj oarecare pentru a verifica emisia.",
+     "short": "",
      "long": "Emiterea unui mesaj oarecare nu verifică stația și nu este frazeologie standard.",
      "warn": ""
     }
@@ -2358,7 +2358,7 @@
     {
      "text": "PAN, PAN",
      "correct": true,
-     "short": "PAN PAN.",
+     "short": "",
      "long": "Corect. PAN PAN pentru asistență urgentă fără pericol imediat.",
      "warn": ""
     },
@@ -2387,28 +2387,28 @@
     {
      "text": "menţine directia",
      "correct": false,
-     "short": "Menține direcția.",
+     "short": "",
      "long": "Menținerea direcției nu este sensul expresiei.",
      "warn": ""
     },
     {
      "text": "aşteaptă instrucţiuni, ramai atent la comunicatiile radio",
      "correct": true,
-     "short": "Așteaptă instrucțiuni și rămâi atent la comunicațiile radio.",
+     "short": "",
      "long": "Corect. Pilotul așteaptă instrucțiuni și rămâne atent la comunicații.",
      "warn": ""
     },
     {
      "text": "menţine poziţia",
      "correct": false,
-     "short": "Menține poziția.",
+     "short": "",
      "long": "Menținerea poziției nu este sensul expresiei.",
      "warn": ""
     },
     {
      "text": "selectează stand by la transponder",
      "correct": false,
-     "short": "Selectează stand-by la transponder.",
+     "short": "",
      "long": "Stand by la transponder nu este sensul expresiei.",
      "warn": ""
     }
@@ -2466,21 +2466,21 @@
     {
      "text": "frecvența de urgență 243.0 MHz",
      "correct": false,
-     "short": "Frecvența de urgență 243,0 MHz.",
+     "short": "",
      "long": "243 MHz este frecvența de urgență militară, nu frecvența pentru întreruperea serviciilor de trafic.",
      "warn": ""
     },
     {
      "text": "frecvența TIBA, stabilită și comunicată la nivel regional potrivit reglementărilor specifice aplicabile",
      "correct": true,
-     "short": "Frecvența TIBA, stabilită și comunicată regional.",
+     "short": "",
      "long": "Corect. Frecvența TIBA, stabilită regional, este folosită în acest caz.",
      "warn": ""
     },
     {
      "text": "frecvența de urgență 121.5 MHz",
      "correct": false,
-     "short": "Frecvența de urgență 121,5 MHz.",
+     "short": "",
      "long": "121,5 MHz este frecvența de urgență, nu frecvența pentru întreruperea serviciilor.",
      "warn": ""
     }
@@ -2567,21 +2567,21 @@
     {
      "text": "AIP Romania",
      "correct": true,
-     "short": "AIP România.",
+     "short": "",
      "long": "Corect. Frecvențele sunt în AIP România.",
      "warn": ""
     },
     {
      "text": "HG 912/2010 - Anexa 1",
      "correct": false,
-     "short": "HG 912/2010, Anexa 1.",
+     "short": "",
      "long": "HG 912/2010 nu este publicația cu frecvențele turnurilor.",
      "warn": ""
     },
     {
      "text": "Regulamentul Circulaţiei Aeriene din România",
      "correct": false,
-     "short": "Regulamentul Circulației Aeriene din România.",
+     "short": "",
      "long": "Regulamentul circulației aeriene nu publică frecvențele turnurilor. Acestea sunt în AIP.",
      "warn": ""
     },
@@ -2639,21 +2639,21 @@
     {
      "text": "118.000 MHz la 135.975 MHz cu un ecart între canale de 25 KHz",
      "correct": false,
-     "short": "118.000 MHz – 135,975 MHz, ecart de 25 kHz.",
+     "short": "",
      "long": "Banda este corectă, dar ecartul de 25 kHz este cel vechi. Se folosește 8,33 kHz.",
      "warn": ""
     },
     {
      "text": "118.000 MHz la 135.975 Mhz cu un ecart între canale de 8.33 Khz",
      "correct": true,
-     "short": "118.000 MHz – 135,975 MHz, ecart de 8,33 kHz.",
+     "short": "",
      "long": "Corect. Banda este 118–135,975 MHz, cu ecart de 8,33 kHz.",
      "warn": ""
     },
     {
      "text": "domeniul de frecvenţa se schimbă la fiecare 6 luni",
      "correct": false,
-     "short": "Domeniul se schimbă la fiecare 6 luni.",
+     "short": "",
      "long": "Domeniul de frecvență nu se schimbă la șase luni. Este stabilit prin reglementările de spectru.",
      "warn": ""
     },
@@ -2696,7 +2696,7 @@
     {
      "text": "Aeronava trebuie să aterizeze la cel mai apropiat aerodrom necontrolat",
      "correct": false,
-     "short": "Aterizează la cel mai apropiat aerodrom necontrolat.",
+     "short": "",
      "long": "Aterizarea nu este necesară doar pentru că lipsește legătura radio. Aeronava rămâne în spațiul necontrolat.",
      "warn": ""
     }
@@ -2898,7 +2898,7 @@
     {
      "text": "Regulamentul staţiilor de telecomunicaţii",
      "correct": true,
-     "short": "Regulamentul stațiilor de telecomunicații.",
+     "short": "",
      "long": "Conține regulile de funcționare a stațiilor radio.",
      "warn": "Regulamentul stațiilor de telecomunicații reglementează funcționarea stațiilor radio. Procedurile de radiotelefonie aeronautică și frazeologia sunt în Anexa 10 volumul II a OACI."
     },
@@ -2912,7 +2912,7 @@
     {
      "text": "Regulamentul circulaţiei aeriene şi serviciilor de trafic aerian",
      "correct": false,
-     "short": "Regulamentul circulației aeriene și serviciilor de trafic aerian.",
+     "short": "",
      "long": "Reglementează circulația aeriană, nu toate regulile de radiotelefonie.",
      "warn": ""
     }
@@ -2927,28 +2927,28 @@
     {
      "text": "avem o stație care să aibă un grad ridicat de protecție la umezeală",
      "correct": false,
-     "short": "O stație cu grad ridicat de protecție la umezeală.",
+     "short": "",
      "long": "Protecția la umezeală nu este condiția principală pentru utilizarea corectă a stației în zbor.",
      "warn": ""
     },
     {
      "text": "dispunem de o cască prevăzută cu sistem de comunicații integrat",
      "correct": true,
-     "short": "O cască prevăzută cu sistem de comunicații integrat.",
+     "short": "",
      "long": "Corect. Casca cu sistem integrat permite comunicația în zgomotul motorului și vântului.",
      "warn": ""
     },
     {
      "text": "avem o stație cu antenă suficient de lungă pentru a permite raze mari de acțiune",
      "correct": false,
-     "short": "O stație cu antenă suficient de lungă.",
+     "short": "",
      "long": "Antena lungă nu este condiția de utilizare corectă în zbor. Contează comunicația audibilă.",
      "warn": ""
     },
     {
      "text": "avem o stație radio cu un display suficient de mare",
      "correct": false,
-     "short": "O stație cu display suficient de mare.",
+     "short": "",
      "long": "Displayul mare nu este condiția de utilizare a stației în zbor.",
      "warn": ""
     }
@@ -3042,7 +3042,7 @@
     {
      "text": "poate opera pe frecvențele alocate exclusiv serviciului respectiv",
      "correct": true,
-     "short": "Poate opera doar pe frecvențele alocate exclusiv serviciului respectiv.",
+     "short": "",
      "long": "Corect. Certificatul restrâns este limitat la frecvențele alocate serviciului.",
      "warn": ""
     },
@@ -3323,7 +3323,7 @@
     {
      "text": "continuați procedura de aterizare chiar dacă turnul de control nu a răspuns solicitării",
      "correct": false,
-     "short": "Continuați procedura de aterizare chiar dacă turnul nu a răspuns.",
+     "short": "",
      "long": "Este periculos să aterizezi fără informația meteo.",
      "warn": ""
     },
@@ -3337,14 +3337,14 @@
     {
      "text": "consultați harta meteo satelitară și condiția meteo dată de METAR",
      "correct": false,
-     "short": "Consultați harta meteo satelitară și METAR-ul.",
+     "short": "",
      "long": "Nu este procedura corectă când turnul nu răspunde.",
      "warn": ""
     },
     {
      "text": "așteptați 10 secunde după care solicitați din nou turnului de control condiția meteo",
      "correct": true,
-     "short": "Așteptați 10 secunde și solicitați din nou condiția meteo turnului.",
+     "short": "",
      "long": "Procedura corectă este reluarea cererii după o scurtă așteptare. Pauza de 10 secunde nu este o cifră stabilită de reglementări; esențial este că informația meteo oficială se obține înainte de aterizare.",
      "warn": "Pauza de 10 secunde nu este o cifră stabilită de reglementări. Procedura este să aștepți puțin și să repeți cererea, iar aterizarea fără informația meteo oficială nu se face."
     }
@@ -3366,21 +3366,21 @@
     {
      "text": "în spațiul G stațiile de tip walkie talkie sunt oblogatorii",
      "correct": false,
-     "short": "În spațiul G stațiile walkie-talkie sunt obligatorii.",
+     "short": "",
      "long": "Walkie-talkie-urile nu sunt obligatorii în clasa G. Obligația nu există pentru zborul VFR.",
      "warn": ""
     },
     {
      "text": "în spațiul G este obligatorie legatura radio cu organul de trafic",
      "correct": false,
-     "short": "În spațiul G este obligatorie legătura radio cu organul de trafic.",
+     "short": "",
      "long": "Legătura radio nu este obligatorie în clasa G pentru zborul VFR (AIP ENR 1.4).",
      "warn": ""
     },
     {
      "text": "în spațiul G se poate zbura fără stație în frecvența de aviație doar dacă organul de control permite asta",
      "correct": false,
-     "short": "În spațiul G se poate zbura fără stație doar dacă organul de control permite.",
+     "short": "",
      "long": "Nu este nevoie de permisiunea organului de control pentru a zbura fără radio în clasa G.",
      "warn": ""
     }
@@ -3395,28 +3395,28 @@
     {
      "text": "termenul codificat care indică o faza de alarmă",
      "correct": true,
-     "short": "Termenul codificat care indică o fază de alarmă.",
+     "short": "",
      "long": "Corect. ALERFA este faza de alarmă.",
      "warn": ""
     },
     {
      "text": "termenul codificat care indică o faza de incertitudine",
      "correct": false,
-     "short": "Termenul codificat care indică o fază de incertitudine.",
+     "short": "",
      "long": "INCERFA este faza de incertitudine, nu de alarmă.",
      "warn": ""
     },
     {
      "text": "termenul codificat care indică o faza de atenționare",
      "correct": false,
-     "short": "Termenul codificat care indică o fază de atenționare.",
+     "short": "",
      "long": "Faza de atenționare nu este denumirea ALERFA. Este faza de alarmă.",
      "warn": ""
     },
     {
      "text": "termenul codificat care indică o faza de pericol",
      "correct": false,
-     "short": "Termenul codificat care indică o fază de pericol.",
+     "short": "",
      "long": "DETRESFA este faza de pericol, nu de alarmă.",
      "warn": ""
     }
@@ -3560,7 +3560,7 @@
     {
      "text": "executa imediat un viraj de 360 grade",
      "correct": false,
-     "short": "Execută imediat un viraj de 360 de grade.",
+     "short": "",
      "long": "Virajul de 360° nu este go around.",
      "warn": ""
     }
@@ -3611,28 +3611,28 @@
     {
      "text": "125.5 MHz",
      "correct": false,
-     "short": "125,5 MHz.",
+     "short": "",
      "long": "125,5 MHz nu este frecvența internațională de urgență.",
      "warn": ""
     },
     {
      "text": "121.5 MHz",
      "correct": true,
-     "short": "121,5 MHz.",
+     "short": "",
      "long": "Corect. 121,5 MHz este frecvența internațională de urgență.",
      "warn": ""
     },
     {
      "text": "124.5 MHz",
      "correct": false,
-     "short": "124,5 MHz.",
+     "short": "",
      "long": "124,5 MHz nu este frecvența internațională de urgență.",
      "warn": ""
     },
     {
      "text": "123.5 MHz",
      "correct": false,
-     "short": "123,5 MHz.",
+     "short": "",
      "long": "123,5 MHz nu este frecvența internațională de urgență.",
      "warn": ""
     }

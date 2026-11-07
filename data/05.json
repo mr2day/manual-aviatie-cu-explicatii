@@ -90,7 +90,7 @@
     {
      "text": "față de cel mai întalt reper de pe traseu",
      "correct": false,
-     "short": "Față de cel mai înalt reper de pe traseu.",
+     "short": "",
      "long": "Cel mai înalt reper de pe traseu nu este referința altitudinii. Acela este obstacol.",
      "warn": ""
     },
@@ -162,7 +162,7 @@
     {
      "text": "este ora de la miezul nopții",
      "correct": false,
-     "short": " Ora de la miezul nopții.",
+     "short": "",
      "long": "Miezul nopții nu definește UTC. UTC este ora la meridianul zero.",
      "warn": ""
     },
@@ -356,7 +356,7 @@
     {
      "text": "1 ora",
      "correct": false,
-     "short": "1 oră.",
+     "short": "",
      "long": "1 oră ar corespunde unei viteze de 80 km/h.",
      "warn": ""
     }
@@ -479,7 +479,7 @@
     {
      "text": "ne orientăm să alegem o zi cu vânt de față pentru că vom avea o rată de urcare mai bună",
      "correct": false,
-     "short": "Ne orientăm să alegem o zi cu vânt de față, pentru că vom avea o rată de urcare mai bună.",
+     "short": "",
      "long": "Vântul de față scade viteza față de sol și consumă timp și energie; nu este alegerea pentru zborul de distanță.",
      "warn": ""
     },
@@ -659,21 +659,21 @@
     {
      "text": "cale ferată",
      "correct": true,
-     "short": "Cale ferată.",
+     "short": "",
      "long": "Pe hărțile topografice și aeronautice, calea ferată este o linie neagră continuă, cu semne transversale la distanțe regulate. Șoseaua și drumul de țară au alte simboluri.",
      "warn": ""
     },
     {
      "text": "şosea naţională",
      "correct": false,
-     "short": "Șosea națională.",
+     "short": "",
      "long": "Șoseaua are simbol diferit, de obicei roșu sau galben.",
      "warn": ""
     },
     {
      "text": "drum de ţară",
      "correct": false,
-     "short": "Drum de țară.",
+     "short": "",
      "long": "Drumul de țară are marcaj diferit.",
      "warn": ""
     },
@@ -731,14 +731,14 @@
     {
      "text": "Prin distanța sa de la ecuator fiind nordică sau sudică.",
      "correct": false,
-     "short": "Prin distanța sa de la ecuator, fiind nordică sau sudică.",
+     "short": "",
      "long": "Distanța de la ecuator nu este exprimată în grade, ci în unghiuri măsurate din centrul Pământului.",
      "warn": ""
     },
     {
      "text": "Prin distanța sa unghiulara în grade de la polul respectiv, măsurată la centrul pământului.",
      "correct": false,
-     "short": "Prin distanța sa unghiulară în grade de la polul respectiv, măsurată la centrul Pământului.",
+     "short": "",
      "long": "Distanța de la polul respectiv este complementul latitudinii, nu latitudinea.",
      "warn": ""
     },
@@ -774,7 +774,7 @@
     {
      "text": "unghiul dintre axul longitudinal al aeronavei și direcția nordului geografic",
      "correct": false,
-     "short": "Unghiul dintre axul longitudinal și direcția nordului geografic.",
+     "short": "",
      "long": "Unghiul dintre axul aeronavei și nordul geografic este capul geografic, nu deriva.",
      "warn": ""
     },
@@ -803,28 +803,28 @@
     {
      "text": "unghiul format de direcţia nordului compas şi axul longitudinal al aeronavei partea din faţă",
      "correct": false,
-     "short": "Unghiul format de direcția nordului compas și axul longitudinal al aeronavei, partea din față.",
+     "short": "",
      "long": "Nordul compas nu este referința corectă. Referința este nordul magnetic.",
      "warn": ""
     },
     {
      "text": "eroarea dintre nordul magnetic si cel geografic",
      "correct": false,
-     "short": "Eroarea dintre nordul magnetic și cel geografic.",
+     "short": "",
      "long": "Eroarea dintre nordul magnetic și cel geografic este declinația, nu capul compas.",
      "warn": ""
     },
     {
      "text": "unghiul format de direcţia nordului magnetic şi axul longitudinal al aeronavei partea din faţă",
      "correct": true,
-     "short": "Unghiul format de direcția nordului magnetic și axul longitudinal al aeronavei, partea din față.",
+     "short": "",
      "long": "Corect. Capul compas este măsurat față de nordul magnetic.",
      "warn": ""
     },
     {
      "text": "direcţia indicată de busolă faţă de nordul magnetic",
      "correct": false,
-     "short": "Direcția indicată de busolă față de nordul magnetic.",
+     "short": "",
      "long": "Direcția indicată de busolă este capul compas, dar definiția completă este față de nordul magnetic cu axul aeronavei.",
      "warn": ""
     }
@@ -839,14 +839,14 @@
     {
      "text": "viteza vântului, direcţia vântului, viteza proprie adevărată",
      "correct": true,
-     "short": "Viteza vântului, direcția vântului, viteza proprie adevărată.",
+     "short": "",
      "long": "Corect. Viteza vântului, direcția și viteza adevărată permit calculul vitezei la sol și al timpului.",
      "warn": ""
     },
     {
      "text": "viteza proprie adevărată, viteza vântului şi viteza la sol",
      "correct": false,
-     "short": "Viteza proprie adevărată, viteza vântului și viteza la sol.",
+     "short": "",
      "long": "Viteza la sol nu este cerută dacă avem vântul și viteza adevărată, ea se calculează.",
      "warn": ""
     },
@@ -860,7 +860,7 @@
     {
      "text": "viteza la sol, viteza adevarata si directie vantului",
      "correct": false,
-     "short": "Viteza la sol, viteza adevărată și direcția vântului.",
+     "short": "",
      "long": "Viteza la sol este rezultatul, nu un element de intrare. Lipsește și direcția vântului.",
      "warn": ""
     }
@@ -947,7 +947,7 @@
     {
      "text": "știind că soarele apune în V, vom zbura cu soarele în stânga noastră și la aprox. 90 grd față de traiectoria noastră",
      "correct": true,
-     "short": "Știind că soarele apune în V, vom zbura cu soarele în stânga noastră, la aprox. 90° față de traiectoria noastră.",
+     "short": "",
      "long": "Corect. Soarele apune în vest; zburând spre nord, este la stânga, la 90°.",
      "warn": ""
     },
@@ -961,7 +961,7 @@
     {
      "text": "știind că soarele apune în V, vom zbura cu soarele în dreapta noastră la aprox. 90 grd diferentă de traiectoria noastră față de acesta",
      "correct": false,
-     "short": "Știind că soarele apune în V, vom zbura cu soarele în dreapta noastră, la aprox. 90°.",
+     "short": "",
      "long": "Dacă soarele este în dreapta, zburăm spre sud, nu spre nord, deci soarele nu indică corect direcția.",
      "warn": ""
     },
@@ -997,7 +997,7 @@
     {
      "text": "declinaţia magnetică",
      "correct": true,
-     "short": "Declinația magnetică.",
+     "short": "",
      "long": "Corect. Diferența dintre nordul geografic și cel magnetic este declinația magnetică.",
      "warn": ""
     },
@@ -1098,7 +1098,7 @@
     {
      "text": "unghiul dintre axul longitudinal al aeronavei și direcția nordului magnetic",
      "correct": false,
-     "short": "Unghiul dintre axul longitudinal și direcția nordului magnetic.",
+     "short": "",
      "long": "Unghiul dintre axul aeronavei și nordul magnetic este capul magnetic.",
      "warn": ""
     },
@@ -1134,14 +1134,14 @@
     {
      "text": "planificăm zborul astfel încât să ocolim vârful la o distanță suficient de sigură, păstrând o înălțime maximă legală de 3200m (FL105)",
      "correct": true,
-     "short": "Planificăm zborul astfel încât să ocolim vârful la o distanță suficient de sigură, păstrând o înălțime maximă legală de 3200 m (FL105).",
+     "short": "",
      "long": "Corect. Ocolirea vârfului la distanță sigură și cu înălțime suficientă este planificarea corectă.",
      "warn": ""
     },
     {
      "text": "putem păstra traiectul și zburăm peste vârf păstrând o înălțime de minim 150m",
      "correct": false,
-     "short": "Putem păstra traiectul și zburăm peste vârf păstrând o înălțime de minim 150 m.",
+     "short": "",
      "long": "Trecerea peste vârf la 150 m deasupra lui este periculoasă, căci vântul și turbulența de munte pot fi mari.",
      "warn": ""
     },
@@ -1199,7 +1199,7 @@
     {
      "text": "310º",
      "correct": true,
-     "short": "310°.",
+     "short": "",
      "long": "Depinde de figură.",
      "warn": ""
     },
@@ -1213,14 +1213,14 @@
     {
      "text": "130º",
      "correct": false,
-     "short": "130°.",
+     "short": "",
      "long": "Nu corespunde figurii.",
      "warn": ""
     },
     {
      "text": "050º",
      "correct": false,
-     "short": "050°.",
+     "short": "",
      "long": "Nu corespunde figurii.",
      "warn": ""
     }
@@ -1307,14 +1307,14 @@
     {
      "text": "decolăm și zurăm după planul de zbor inițial în speranța că norul de furtună se va disipa până ajungem la el",
      "correct": false,
-     "short": "Decolăm și zburăm după planul de zbor inițial, în speranța că norul se va disipa.",
+     "short": "",
      "long": "Speranța că norul se disipă nu este un plan de siguranță. Norii cumulonimbus pot dura ore.",
      "warn": ""
     },
     {
      "text": "modificăm traiectul de zbor la o distanță care ne permite să evităm efectele acestui tip de nor, 10 km respectiv minim 37 km pentru orajele puternice",
      "correct": true,
-     "short": "Modificăm traiectul la o distanță care ne permite să evităm efectele acestui tip de nor, 10 km, respectiv minim 37 km pentru orajele puternice.",
+     "short": "",
      "long": "Corect. Traiectul se modifică la o distanță sigură de cumulonimbus.",
      "warn": ""
     },
@@ -1343,7 +1343,7 @@
     {
      "text": "diferența între nordul geografic și nordul magnetic",
      "correct": true,
-     "short": "Diferența dintre nordul geografic și nordul magnetic.",
+     "short": "",
      "long": "Corect. Variația magnetică este diferența dintre nordul geografic și nordul magnetic.",
      "warn": ""
     },
@@ -1451,14 +1451,14 @@
     {
      "text": "distanţa pe verticală măsurată de la nivelul mării până la aeronavă",
      "correct": false,
-     "short": "Distanța pe verticală de la nivelul mării până la aeronavă.",
+     "short": "",
      "long": "Distanța de la nivelul mării este altitudinea, nu înălțimea.",
      "warn": ""
     },
     {
      "text": "înălţimea de zbor se mai numeşte şi altitudine şi se măsoară de la nivelul corespunzător presiunii standard de 760 mm Hg şi până la aeronavă",
      "correct": false,
-     "short": "Se mai numește altitudine și se măsoară de la presiunea standard 760 mm Hg.",
+     "short": "",
      "long": "Altitudinea nu este înălțimea de zbor, iar măsurarea ei nu se face de la solul locului.",
      "warn": ""
     },
@@ -1472,7 +1472,7 @@
     {
      "text": "distanţa pe verticală de la sol până la aeronavă",
      "correct": true,
-     "short": "Distanța pe verticală de la sol până la aeronavă.",
+     "short": "",
      "long": "Corect. Înălțimea de zbor se măsoară de la sol până la aeronavă.",
      "warn": ""
     }
@@ -1523,7 +1523,7 @@
     {
      "text": "cu maxim 10 km/h si nu depinde de viteza vântului",
      "correct": false,
-     "short": "Cu maxim 10 km/h și nu depinde de viteza vântului.",
+     "short": "",
      "long": "Corecția nu este limitată la 10 km/h. Depinde de intensitatea vântului și de unghiul lui.",
      "warn": ""
     },
@@ -1595,7 +1595,7 @@
     {
      "text": "depinde atât de latitudine cât și de longitudine",
      "correct": true,
-     "short": "Depinde atât de latitudine, cât și de longitudine.",
+     "short": "",
      "long": "Corect. Ora depinde de latitudine și de longitudine.",
      "warn": ""
     },
@@ -1775,21 +1775,21 @@
     {
      "text": "între direcţia vântului şi deplasarea pe sol a motoparapantei",
      "correct": false,
-     "short": "Între direcția vântului și deplasarea pe sol a motoparapantei.",
+     "short": "",
      "long": "Unghiul dintre direcția vântului și deplasarea pe sol nu este definiția derivei.",
      "warn": ""
     },
     {
      "text": "între direcția de deplasare dorită a unei parapante cu motor și direcția reală de deplasare determinată de vânt",
      "correct": true,
-     "short": "Între direcția de deplasare dorită și direcția reală de deplasare determinată de vânt.",
+     "short": "",
      "long": "Corect. Deriva este diferența dintre direcția dorită și cea reală.",
      "warn": ""
     },
     {
      "text": "între axul longitudinal partea din faţă şi linia deplasării pe sol",
      "correct": false,
-     "short": "Între axul longitudinal partea din față și linia deplasării pe sol.",
+     "short": "",
      "long": "Unghiul dintre axul aeronavei și deplasarea pe sol este unghiul de derivă dintre cap și traiect, nu definiția derivei.",
      "warn": ""
     },
@@ -1883,7 +1883,7 @@
     {
      "text": "căutăm o zonă cu vizibilitate care să ne permită trecerea sub plafon, chiar dacă asta presupune să zburăm mai mult și mai departe decât ne-am propus",
      "correct": true,
-     "short": "Căutăm o zonă cu vizibilitate care să ne permită trecerea sub plafon, chiar dacă asta presupune să zburăm mai mult.",
+     "short": "",
      "long": "Corect. Se caută zona cu vizibilitate care permite trecerea sub plafon în siguranță.",
      "warn": ""
     },
@@ -1897,14 +1897,14 @@
     {
      "text": "zburăm până se termina benzina spiralând în locul în care suntem și așteptăm să se însenineze",
      "correct": false,
-     "short": "Zburăm până se termină benzina, spiralând în locul în care suntem.",
+     "short": "",
      "long": "Zborul până la epuizarea combustibilului este o procedură greșită și periculoasă.",
      "warn": ""
     },
     {
      "text": "coborâm în viteză minima prin plafon spre aterizare",
      "correct": false,
-     "short": "Coborâm în viteză minimă prin plafon spre aterizare.",
+     "short": "",
      "long": "Coborârea în viteză minimă prin plafon este periculoasă și nu respectă condițiile VMC.",
      "warn": ""
     }
@@ -1955,28 +1955,28 @@
     {
      "text": "unghiul format între meridianul geografic şi vectorul vânt (la aterizare",
      "correct": false,
-     "short": "Unghiul format între meridianul geografic și vectorul vânt, la aterizare.",
+     "short": "",
      "long": "Meridianul geografic este nordul adevărat. Direcția vântului se dă față de nordul magnetic.",
      "warn": ""
     },
     {
      "text": "unghiul format între vectorul vânt şi meridianul geografic",
      "correct": false,
-     "short": "Unghiul format între vectorul vânt și meridianul geografic.",
+     "short": "",
      "long": "Vectorul față de meridianul geografic nu este convenția folosită la direcția vântului.",
      "warn": ""
     },
     {
      "text": "unghiul format planul aeronavei și vectorul vânt",
      "correct": false,
-     "short": "Unghiul format între planul aeronavei și vectorul vânt.",
+     "short": "",
      "long": "Unghiul față de planul aeronavei nu este direcția vântului.",
      "warn": ""
     },
     {
      "text": "unghiul format între NM (Nordul magnetic) şi vectorul vânt (la aterizare)",
      "correct": true,
-     "short": "Unghiul format între NM (nordul magnetic) și vectorul vânt, la aterizare.",
+     "short": "",
      "long": "Corect. Direcția vântului se dă față de nordul magnetic.",
      "warn": ""
     }
@@ -2171,7 +2171,7 @@
     {
      "text": "Distanta până la cel mai apropiat aeroport",
      "correct": false,
-     "short": "Distanța până la cel mai apropiat aeroport.",
+     "short": "",
      "long": "Distanța până la aeroport poate fi afișată de GPS, dar informația esențială este poziția, viteza și altitudinea.",
      "warn": ""
     },
@@ -2300,7 +2300,7 @@
     {
      "text": "O linie care intersectează ecuatorul la 90 de grade",
      "correct": false,
-     "short": "O linie care intersectează ecuatorul la 90°.",
+     "short": "",
      "long": "Linia care intersectează ecuatorul la 90° este un meridian, dar definiția corectă este cercul mare prin poli.",
      "warn": ""
     }
@@ -2315,7 +2315,7 @@
     {
      "text": "nici un raspuns nu este corect",
      "correct": false,
-     "short": "Nici un răspuns nu este corect.",
+     "short": "",
      "long": "Varianta C este corectă, deci A nu este adevărată.",
      "warn": ""
     },
@@ -2336,7 +2336,7 @@
     {
      "text": "presiunea la nivelul marii",
      "correct": false,
-     "short": "Presiunea la nivelul mării.",
+     "short": "",
      "long": "Presiunea la nivelul mării este QNH.",
      "warn": ""
     }
@@ -2351,21 +2351,21 @@
     {
      "text": "nu, la altitudinea respectiva pilotul își poate pierde cunoștința",
      "correct": false,
-     "short": "Nu, la altitudinea respectivă pilotul își poate pierde cunoștința.",
+     "short": "",
      "long": "Pierderea cunoștinței nu este regula de zbor. Riscul la altitudine este hipoxia, dar nu există o interdicție generală la 2500 m.",
      "warn": ""
     },
     {
      "text": "nu, cu parapanta cu motor este interzis zborul la înălțimi peste 2500m",
      "correct": false,
-     "short": "Nu, cu parapanta cu motor este interzis zborul la înălțimi peste 2500 m.",
+     "short": "",
      "long": "Nu există o interdicție generală de zbor la 2500 m pentru motoparapantă cu motor. Restricțiile sunt cele de înălțime din RACR-RA 4.060.",
      "warn": ""
     },
     {
      "text": "da, este recomandat să zburăm cât mai aproape de acesta pentru a putea ateriza în caz de",
      "correct": false,
-     "short": "Da, este recomandat să zburăm cât mai aproape de acesta pentru a putea ateriza în caz de urgență.",
+     "short": "",
      "long": "Zborul aproape de vârf nu este recomandat: vântul și turbulența de munte sunt periculoase.",
      "warn": ""
     },
@@ -2459,21 +2459,21 @@
     {
      "text": "corecție de 10 grade spre dreapta",
      "correct": true,
-     "short": "Corecție de 10° spre dreapta.",
+     "short": "",
      "long": "Corect. Traiectul este cu 10° la stânga, deci corecția este spre dreapta cu 10°.",
      "warn": ""
     },
     {
      "text": "corecție de 10 grade spre stânga",
      "correct": false,
-     "short": "Corecție de 10° spre stânga.",
+     "short": "",
      "long": "Corecția spre stânga ar duce și mai mult pe traiect spre sud, deci nu este cea corectă.",
      "warn": ""
     },
     {
      "text": "corecție de 20 de grade spre dreapta",
      "correct": false,
-     "short": "Corecție de 20° spre dreapta.",
+     "short": "",
      "long": "Corecția de 20° nu corespunde diferenței de 10° dintre traiect și direcția dorită.",
      "warn": ""
     },
@@ -2495,7 +2495,7 @@
     {
      "text": "Efectuând un viraj lent de 360 de grade și notând cea mai mică viteză la sol",
      "correct": true,
-     "short": "Efectuând un viraj lent de 360° și notând cea mai mică viteză la sol.",
+     "short": "",
      "long": "Corect. Virajul lent de 360° și notarea vitezei minime la sol permit estimarea vântului.",
      "warn": ""
     },
@@ -2531,7 +2531,7 @@
     {
      "text": "15 grade vest",
      "correct": false,
-     "short": "15° vest.",
+     "short": "",
      "long": "15° vest ar fi unghiul dacă nordul magnetic ar fi spre vest.",
      "warn": ""
     },
@@ -2545,14 +2545,14 @@
     {
      "text": "15 grade est",
      "correct": true,
-     "short": "15° est.",
+     "short": "",
      "long": "Corect. Diferența dintre norduri este de 15° est.",
      "warn": ""
     },
     {
      "text": "30 grade est",
      "correct": false,
-     "short": "30° est.",
+     "short": "",
      "long": "30° est ar fi dublul valorii date de busolă.",
      "warn": ""
     }
@@ -2610,7 +2610,7 @@
     {
      "text": "compasul indică o direcție de deplasare catre Est, iar soarele apune la Vest, afirmația este falsă",
      "correct": true,
-     "short": "Compasul indică o direcție de deplasare către est, iar soarele apune la vest, afirmația este falsă.",
+     "short": "",
      "long": "Corect. Busola indică est, iar soarele apune în vest: afirmația este falsă.",
      "warn": ""
     },
@@ -2639,7 +2639,7 @@
     {
      "text": "zburăm în linie dreaptă indiferent de înălțimea față de sol și obstacolele din fața noastră",
      "correct": false,
-     "short": "Zburăm în linie dreaptă indiferent de înălțimea față de sol și obstacolele din față.",
+     "short": "",
      "long": "Zborul în linie dreaptă, indiferent de relief, poate duce la contact cu obstacolele și la turbulență de munte.",
      "warn": ""
     },
@@ -2653,14 +2653,14 @@
     {
      "text": "ne setăm puncte pe aplicația de navigație pe care o folosim și nu ne abatem de la ele chiar dacă asta presupune să traversăm o zonă fără loc de aterizare",
      "correct": false,
-     "short": "Ne setăm puncte pe aplicația de navigație și nu ne abatem de la ele, chiar dacă trecem printr-o zonă fără loc de aterizare.",
+     "short": "",
      "long": "Aplicația de navigație este utilă, dar nu înlocuiește alegerea unei rute care permite ateriza în caz de urgență.",
      "warn": ""
     },
     {
      "text": "ocolim vârfurile peste 3200m și zburăm cât mai aproape de locurile de aterizare și căile de acces pentru recuperare în caz de urgență",
      "correct": true,
-     "short": "Ocolim vârfurile peste 3200 m și zburăm cât mai aproape de locurile de aterizare și căile de acces pentru recuperare în caz de urgență.",
+     "short": "",
      "long": "Corect. Se ocolesc vârfurile și se zboară aproape de zonele de aterizare, pentru siguranță.",
      "warn": ""
     }
@@ -2689,7 +2689,7 @@
     {
      "text": "orase, lacuri, terenuri",
      "correct": false,
-     "short": "Orașe, lacuri, terenuri.",
+     "short": "",
      "long": "Orașele și lacurile sunt zone sau puncte, nu repere liniare.",
      "warn": ""
     },
@@ -2718,21 +2718,21 @@
     {
      "text": "20 grade est",
      "correct": false,
-     "short": "20° est.",
+     "short": "",
      "long": "20° est ar fi dublul diferenței.",
      "warn": ""
     },
     {
      "text": "10 grade vest",
      "correct": false,
-     "short": "10° vest.",
+     "short": "",
      "long": "10° vest ar fi direcția greșită: busola arată spre est.",
      "warn": ""
     },
     {
      "text": "10 grade est",
      "correct": true,
-     "short": "10° est.",
+     "short": "",
      "long": "Corect. Declinația este de 10° est.",
      "warn": ""
     }
@@ -2840,7 +2840,7 @@
     {
      "text": "37.5 minute",
      "correct": true,
-     "short": "37,5 minute.",
+     "short": "",
      "long": "Corect. 50 : 80 = 0,625 h = 37,5 minute.",
      "warn": ""
     }
@@ -2862,7 +2862,7 @@
     {
      "text": "nu influențeaza zborurile VFR",
      "correct": false,
-     "short": "Nu influențează zborurile VFR.",
+     "short": "",
      "long": "Vizibilitatea scăzută influențează zborul VFR, care cere vizibilitate minimă.",
      "warn": ""
     },
@@ -2963,7 +2963,7 @@
     {
      "text": "culori inchise",
      "correct": false,
-     "short": "Culori închise.",
+     "short": "",
      "long": "Culorile închise nu sunt convenția pentru păduri pe hartă.",
      "warn": ""
     },
@@ -2977,7 +2977,7 @@
     {
      "text": "nu exista o regulă",
      "correct": false,
-     "short": "Nu există o regulă.",
+     "short": "",
      "long": "Există o convenție, care este verdele.",
      "warn": ""
     },
@@ -3035,7 +3035,7 @@
     {
      "text": "Se poate zbura cu vânt de față doar la înălțimi ce depășesc 100m",
      "correct": false,
-     "short": "Se poate zbura cu vânt de față doar la înălțimi ce depășesc 100 m.",
+     "short": "",
      "long": "Vântul de față nu are legătură cu înălțimea de zbor interzisă.",
      "warn": ""
     },
@@ -3049,7 +3049,7 @@
     {
      "text": "Nu este reglementată înalțimea maximă de zbor",
      "correct": false,
-     "short": "Nu este reglementată înălțimea maximă de zbor.",
+     "short": "",
      "long": "Înălțimea minimă este reglementată (RACR-RA 4.060), deci afirmația că nu este reglementată este greșită.",
      "warn": ""
     },
@@ -3308,7 +3308,7 @@
     {
      "text": "unghiul dintre un obiect și nordul geografic măsurat pe un plan orizontal",
      "correct": true,
-     "short": "Unghiul dintre un obiect și nordul geografic, măsurat pe un plan orizontal.",
+     "short": "",
      "long": "Corect. Azimutul este unghiul față de nord, în plan orizontal.",
      "warn": ""
     }

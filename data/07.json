@@ -205,7 +205,7 @@
     {
      "text": "Lângă mărul lui Adam, în spațiul dintre trahee și mușchii gâtului",
      "correct": true,
-     "short": "Lângă măr lui Adam, în spațiul dintre trahee și mușchii gâtului.",
+     "short": "",
      "long": "Corect. Pulsul carotidian se verifică lângă mărul lui Adam.",
      "warn": ""
     },
@@ -284,7 +284,7 @@
     {
      "text": "La sediul operatorului aeronavei, unde victima rămâne până la sosirea autorităților competente pentru investigarea accidentului",
      "correct": false,
-     "short": "La sediul operatorului aeronavei.",
+     "short": "",
      "long": "La sediul operatorului victima nu este tratată. Ajutorul se dă imediat.",
      "warn": ""
     }
@@ -335,14 +335,14 @@
     {
      "text": "decolăm imediat fără a verifica echipamentul încât acum 20 de minute a funcționat perfect",
      "correct": false,
-     "short": "Decolăm imediat fără a verifica echipamentul, încât acum 20 de minute a funcționat perfect.",
+     "short": "",
      "long": "Decolarea fără verificare nu este permisă. Echipamentul se verifică după pauză.",
      "warn": ""
     },
     {
      "text": "nu putem decola încât trebuie să așteptăm să se răsească motorul pentru a-l încălzi din nou",
      "correct": false,
-     "short": "Nu putem decola, încât trebuie să așteptăm să se răcească motorul pentru a-l încălzi din nou.",
+     "short": "",
      "long": "Motorul nu trebuie să aștepte răsăritul. Nu este regula.",
      "warn": ""
     },
@@ -414,7 +414,7 @@
     {
      "text": "coborâm cât de repede se poate, cu orice risc prin manevra de spiralare încat forțele G ajută la oxigenarea sângelui",
      "correct": false,
-     "short": "Coborâm cât de repede se poate, cu orice risc, prin spiralare.",
+     "short": "",
      "long": "Coborârea prin spiralare rapidă, cu orice risc, este periculoasă și nu rezolvă hiperventilația.",
      "warn": ""
     },
@@ -428,7 +428,7 @@
     {
      "text": "ne pastrăm calmul și începem o coborâre lentă până la o altitudine un nivelul de oxigen suficient să ne revenim",
      "correct": true,
-     "short": "Ne păstrăm calmul și începem o coborâre lentă până la o altitudine cu nivel de oxigen suficient să ne revenim.",
+     "short": "",
      "long": "Corect. Pilotul își păstrează calmul și coboară lent, până la o altitudine cu oxigen suficient.",
      "warn": ""
     }
@@ -601,7 +601,7 @@
     {
      "text": "nu este cazul la acest tip de aeronavă – parapanta cu motor",
      "correct": false,
-     "short": "Nu este cazul la acest tip de aeronavă, parapanta cu motor.",
+     "short": "",
      "long": "Odihna se cere pentru orice aeronavă, inclusiv motoparapanta cu motor.",
      "warn": ""
     },
@@ -623,14 +623,14 @@
     {
      "text": "Se concentrează pe mişcările observate de vederea periferică",
      "correct": false,
-     "short": "Se concentrează pe mișcările observate de vederea periferică.",
+     "short": "",
      "long": "Vederea periferică detectează mișcarea, dar scanarea eficientă cere focalizare pe segmente.",
      "warn": ""
     },
     {
      "text": "Îşi mută rapid privirea între bordul aeronavei și diverse segmente ale cerului",
      "correct": false,
-     "short": "Își mută rapid privirea între bordul aeronavei și diverse segmente ale cerului.",
+     "short": "",
      "long": "Mutarea rapidă a privirii între bord și cer nu acoperă bine spațiul.",
      "warn": ""
     },
@@ -767,7 +767,7 @@
     {
      "text": "neconcordanta dintre percepţia vizuală și reacţia senzorilor vestibulari",
      "correct": true,
-     "short": "Neconcordanța dintre percepția vizuală și reacția senzorilor vestibulari.",
+     "short": "",
      "long": "Corect. Neconcordanța dintre vedere și vestibular provoacă răul de mișcare.",
      "warn": ""
     },
@@ -882,7 +882,7 @@
     {
      "text": "se pot consuma cantităţi mici de băuturi alcoolice pentru încălzire",
      "correct": false,
-     "short": "Se pot consuma cantități mici de băuturi alcoolice pentru încălzire.",
+     "short": "",
      "long": "Alcoolul nu încălzește corpul. Dimpotrivă, dă o senzație falsă de căldură și reduce atenția.",
      "warn": ""
     },
@@ -968,7 +968,7 @@
     {
      "text": "Dependința de feedback extern pentru toate deciziile",
      "correct": false,
-     "short": "Dependența de feedback extern pentru toate deciziile.",
+     "short": "",
      "long": "Dependența de feedback extern nu este limita principală.",
      "warn": ""
     }
@@ -1076,7 +1076,7 @@
     {
      "text": "renunțăm la parașuta de rezervă și alte accesorii pentru a avea un paramotor cât mai ușor, întrucât suntem deja obosiți",
      "correct": false,
-     "short": "Renunțăm la parașuta de rezervă pentru a avea un paramotor mai ușor.",
+     "short": "",
      "long": "Renunțarea la parașuta de rezervă este periculoasă și nu rezolvă problema decolării.",
      "warn": ""
     }
@@ -1170,7 +1170,7 @@
     {
      "text": "Mențineți persoana calmă și nemișcată, și sunați imediat la serviciile de urgență",
      "correct": true,
-     "short": "Mențineți persoana calmă și nemișcată și sunați imediat la serviciile de urgență.",
+     "short": "",
      "long": "Corect. Persoana rămâne calmă și nemișcată, iar serviciile de urgență se sună.",
      "warn": ""
     },
@@ -1199,7 +1199,7 @@
     {
      "text": "la acelaşi nivel cu ele, plasându-le chiar pe orizont",
      "correct": false,
-     "short": "La același nivel cu ele, plasându-le chiar pe orizont.",
+     "short": "",
      "long": "Firele sunt greu de văzut și pe orizont, dar varianta cea mai clară este zborul deasupra cu solul ca fundal.",
      "warn": ""
     },
@@ -1220,7 +1220,7 @@
     {
      "text": "se observă mai bine de sub nivelul lor dar un astfel de zbor nu este permis întrucât înălţimea minimă de siguranţă este de 150 m (cu excepţia etapelor de decolare şi aterizare)",
      "correct": false,
-     "short": "Se observă mai bine de sub nivelul lor, dar un astfel de zbor nu este permis.",
+     "short": "",
      "long": "Zborul de sub fire nu este interzis ca regulă generală. Firele se văd mai bine de sub ele, pe cer.",
      "warn": ""
     }
@@ -1314,21 +1314,21 @@
     {
      "text": "încercati să zburati acrobatic deasemenea, încât sunt spectatori la sol și doriți să impresionați",
      "correct": false,
-     "short": "Încercați să zburați acrobatic de asemenea, încât sunt spectatori la sol și doriți să impresionați.",
+     "short": "",
      "long": "Imitarea acrobațiilor periculoase nu este corectă, nici pentru spectatori.",
      "warn": ""
     },
     {
      "text": ". încercați să va apropiați de el, efectuând semnale cum că este periculos ceea ce face",
      "correct": false,
-     "short": "Încercați să vă apropiați de el, efectuând semnale că este periculos ceea ce face.",
+     "short": "",
      "long": "Apropierea de pilotul acrobat nu este sigură și nu este semnalizarea corectă.",
      "warn": ""
     },
     {
      "text": "anuntați organele competente despre încalcarea regulilor de zbor",
      "correct": false,
-     "short": "Anunțați organele competente despre încălcarea regulilor de zbor.",
+     "short": "",
      "long": "Anunțarea autorităților poate fi corectă, dar răspunsul principal este zborul în limita propriei pregătiri.",
      "warn": ""
     }
@@ -1537,7 +1537,7 @@
     {
      "text": "neatenţia pilotului în zbor la observarea spaţiului aerian",
      "correct": false,
-     "short": "Neatenția pilotului în zbor la observarea spațiului aerian.",
+     "short": "",
      "long": "Neatenția pilotului este un factor de pericol, dar în enunț este formulată ca observare, nu ca factor principal de pericol.",
      "warn": ""
     },
@@ -1559,7 +1559,7 @@
     {
      "text": "analizăm condiția meteo și asteptam să se îmbunătățească și să rămână așa cel puțin 15 minute, după care putem decola dacă prognoza și vremea în teren arată bine pentru zbor",
      "correct": true,
-     "short": "Analizăm condiția meteo și așteptăm să se îmbunătățească și să rămână așa cel puțin 15 minute, după care putem decola dacă prognoza și vremea în teren arată bine pentru zbor.",
+     "short": "",
      "long": "Corect. Se analizează meteo și se așteaptă îmbunătățirea condițiilor.",
      "warn": ""
     },
@@ -1573,14 +1573,14 @@
     {
      "text": "decolăm pentru că colegii noștrii așteaptă o demonstrație de zbor",
      "correct": false,
-     "short": "Decolăm pentru că colegii noștri așteaptă o demonstrație de zbor.",
+     "short": "",
      "long": "Presiunea colegilor nu este motiv de zbor.",
      "warn": ""
     },
     {
      "text": "renunțăm la zbor pentru următoarea perioadă încât vremea rea înseamnă ghinion",
      "correct": false,
-     "short": "Renunțăm la zbor pentru următoarea perioadă, încât vremea rea înseamnă ghinion.",
+     "short": "",
      "long": "Renunțarea pe termen lung pentru că vremea este rea nu este decizia corectă. Se analizează condițiile.",
      "warn": ""
     }
@@ -1616,7 +1616,7 @@
     {
      "text": "neatenţia pilotului în zbor la observarea spaţiului aerian",
      "correct": false,
-     "short": "Neatenția pilotului în zbor la observarea spațiului aerian.",
+     "short": "",
      "long": "Neatenția este un risc, dar în această formulare răspunsul principal este graba fără verificări.",
      "warn": ""
     }
@@ -1703,7 +1703,7 @@
     {
      "text": "când echipajul nu este protejat împotriva zgomotului şi trepidaţiilor aeronavei",
      "correct": false,
-     "short": "Când echipajul nu este protejat împotriva zgomotului și trepidațiilor aeronavei.",
+     "short": "",
      "long": "Zgomotul și trepidațiile sunt disconfort, dar factorul principal la altitudine este lipsa oxigenului.",
      "warn": ""
     },
@@ -1717,14 +1717,14 @@
     {
      "text": "când decolăm la temperaturi peste 35 grade",
      "correct": false,
-     "short": "Când decolăm la temperaturi peste 35 de grade.",
+     "short": "",
      "long": "Temperatura de peste 35 de grade nu este factorul principal de risc în zbor. Riscul principal este altitudinea.",
      "warn": ""
     },
     {
      "text": "la înălţimi mari de zbor",
      "correct": true,
-     "short": "La înălțimi mari de zbor.",
+     "short": "",
      "long": "Corect. La altitudini mari apar riscurile pentru organism.",
      "warn": ""
     }
@@ -1760,7 +1760,7 @@
     {
      "text": "accelerații gravitaționale peste 10G",
      "correct": true,
-     "short": "Accelerații gravitaționale peste 10 G.",
+     "short": "",
      "long": "Varianta este greșită: vederea roșie apare la câteva G pozitivi, nu la peste 10 G.",
      "warn": "Vederea roșie apare la accelerații gravitaționale pozitive, în general mult sub 10 G (de la câteva G în sus). Valoarea de 10 G este extremă și nu este pragul."
     }
@@ -1818,7 +1818,7 @@
     {
      "text": "neconcordanța dintre percepţia vizuală și reacţia senzorilor vestibulari",
      "correct": true,
-     "short": "Neconcordanța dintre percepția vizuală și reacția senzorilor vestibulari.",
+     "short": "",
      "long": "Corect. Neconcordanța dintre vedere și vestibular cauzează răul de mișcare.",
      "warn": ""
     },
@@ -1919,7 +1919,7 @@
     {
      "text": "să zboare pe orice condiţie meteo",
      "correct": false,
-     "short": "Să zboare pe orice condiție meteo.",
+     "short": "",
      "long": "Zborul pe orice condiție meteo nu este regula unui pilot bun.",
      "warn": ""
     },
@@ -1933,7 +1933,7 @@
     {
      "text": "să ştie când să renunţe să decoleze",
      "correct": true,
-     "short": "Să știe când să renunțe să decoleze.",
+     "short": "",
      "long": "Corect. Un pilot bun știe când să renunțe.",
      "warn": ""
     },
@@ -2171,7 +2171,7 @@
     {
      "text": "predominant către faţă obsevând în permanenţă spaţiul aerian",
      "correct": true,
-     "short": "Predominant către față, observând în permanență spațiul aerian.",
+     "short": "",
      "long": "Corect. Privirea predominant înainte, cu observarea spațiului.",
      "warn": ""
     },
@@ -2185,7 +2185,7 @@
     {
      "text": "din când în când către spate pentru a ne asigura că nu ne lovește o aeronavă din spate",
      "correct": false,
-     "short": "Din când în când către spate, pentru a ne asigura că nu ne lovește o aeronavă din spate.",
+     "short": "",
      "long": "Verificarea din când în când a spatelui este utilă, dar nu este direcția predominantă.",
      "warn": ""
     },
@@ -2279,28 +2279,28 @@
     {
      "text": "faceți o analiză rapidă a locației/ condiției meteo și în cazul în care puteți ateriza în siguranța lângă el efectuați manevra în condiții de siguranță, apoi anuntați organele competente și acordați primul ajutor",
      "correct": true,
-     "short": "Faceți o analiză rapidă a locației/condiției meteo și, dacă puteți ateriza în siguranță lângă el, efectuați manevra, apoi anunțați organele competente și acordați primul ajutor.",
+     "short": "",
      "long": "Corect. Se analizează rapid situația și se aterizează doar dacă este sigur.",
      "warn": ""
     },
     {
      "text": "aterizați de urgență lângă el să-l ajutați, indiferent de riscurile aferente locației/ condiției meteo",
      "correct": false,
-     "short": "Aterizați de urgență lângă el, indiferent de riscurile locației/condiției meteo.",
+     "short": "",
      "long": "Aterizarea în condiții riscante fără analiză crește pericolul pentru ambii piloți.",
      "warn": ""
     },
     {
      "text": "vă continuati zborul pentru ca fiecare pilot e responsabil pentru siguranța proprie",
      "correct": false,
-     "short": "Vă continuați zborul, pentru că fiecare pilot e responsabil pentru siguranța proprie.",
+     "short": "",
      "long": "Continuarea zborului fără ajutor nu este solidaritatea cerută. Se analizează posibilitatea de ajutor.",
      "warn": ""
     },
     {
      "text": "continuați să zburați deasupra lui astfel atrăgând atenția celor de pe sol",
      "correct": false,
-     "short": "Continuați să zburați deasupra lui, atrăgând atenția celor de pe sol.",
+     "short": "",
      "long": "Zborul deasupra colegului nu este ajutor și nu semnalizează corect situația.",
      "warn": ""
     }
@@ -2387,14 +2387,14 @@
     {
      "text": "efectuați un zbor acrobatic deoarece aveți exces de curaj",
      "correct": false,
-     "short": "Efectuați un zbor acrobatic, deoarece aveți exces de curaj.",
+     "short": "",
      "long": "Zborul acrobatic sub influența alcoolului este interzis și periculos.",
      "warn": ""
     },
     {
      "text": "renuntați la zbor încât este strict interzis a zbura sub influența alcoolului",
      "correct": true,
-     "short": "Renunțați la zbor, încât este strict interzis a zbura sub influența alcoolului.",
+     "short": "",
      "long": "Corect. Zborul sub influența alcoolului este interzis.",
      "warn": ""
     },
@@ -2408,7 +2408,7 @@
     {
      "text": "zburați aproape de sol, pentru cazul în care ametiți să puteți decola rapid",
      "correct": false,
-     "short": "Zburați aproape de sol, pentru cazul în care ameți să puteți decola rapid.",
+     "short": "",
      "long": "Zborul aproape de sol după alcool este interzis și periculos.",
      "warn": ""
     }
@@ -2653,14 +2653,14 @@
     {
      "text": "Se transportă imediat victima la spital așezată pe o targă improvizată",
      "correct": false,
-     "short": "Se transportă imediat victima la spital, așezată pe o targă improvizată.",
+     "short": "",
      "long": "Transportul pe targă improvizată fără protecție poate agrava leziunea.",
      "warn": ""
     },
     {
      "text": "Se informează victima despre efectele ce pot rămâne pe viitor în urma traumatismului",
      "correct": false,
-     "short": "Se informează victima despre efectele ce pot rămâne pe viitor.",
+     "short": "",
      "long": "Informarea victimei nu este măsura de prim ajutor.",
      "warn": ""
     }
@@ -2689,7 +2689,7 @@
     {
      "text": "se murdăreşte parbrizul şi scade vizibilitatea",
      "correct": false,
-     "short": "Se murdărește parbrizul și scade vizibilitatea.",
+     "short": "",
      "long": "Parbrizul nu este piesa principală la paramotor. Problema este lipsa reperelor.",
      "warn": ""
     },
@@ -2790,7 +2790,7 @@
     {
      "text": "să zboare pe orice condiţie meteo",
      "correct": false,
-     "short": "Să zboare pe orice condiție meteo.",
+     "short": "",
      "long": "Zborul pe orice condiție meteo nu este regula unui pilot bun.",
      "warn": ""
     },
@@ -2804,7 +2804,7 @@
     {
      "text": "să ştie când condiția fizică, psihică și conditiile meteo pot pune în pericol siguranța zborului și să nu forteze decolarea",
      "correct": true,
-     "short": "Să știe când condiția fizică, psihică și condițiile meteo pot pune în pericol siguranța zborului și să nu forțeze decolarea.",
+     "short": "",
      "long": "Corect. Un pilot bun știe când poate fi pusă în pericol siguranța.",
      "warn": ""
     }
@@ -2819,21 +2819,21 @@
     {
      "text": "acceleraţii gravitaţionale pozitive",
      "correct": true,
-     "short": "Accelerații gravitaționale pozitive.",
+     "short": "",
      "long": "Corect. Vălul negru apare la accelerații pozitive.",
      "warn": ""
     },
     {
      "text": "acceleraţii gravitaţionale peste -2 G",
      "correct": false,
-     "short": "Accelerații gravitaționale peste -2 G.",
+     "short": "",
      "long": "Accelerațiile de peste −2 G nu produc vălul negru în sensul întrebării.",
      "warn": ""
     },
     {
      "text": "acceleraţii gravitaţionale negative",
      "correct": false,
-     "short": "Accelerații gravitaționale negative.",
+     "short": "",
      "long": "Accelerațiile negative produc altă situație, nu vălul negru.",
      "warn": ""
     },
@@ -2862,14 +2862,14 @@
     {
      "text": "curentul de aer răceşte continuu temperatura corpului pilotului",
      "correct": true,
-     "short": "Curentul de aer răcește continuu temperatura corpului pilotului.",
+     "short": "",
      "long": "Corect. Curentul de aer răcește continuu corpul.",
      "warn": ""
     },
     {
      "text": "există tendinţa de bruscare a aeronavei",
      "correct": false,
-     "short": "Există tendința de bruscare a aeronavei.",
+     "short": "",
      "long": "Bruscarea aeronavei nu este motivul principal al pericolului.",
      "warn": ""
     },
@@ -2999,7 +2999,7 @@
     {
      "text": "Fie pregătit pentru eventualitatea întâmplării unei situații de urgență și să fie pregătit referitor la modul de acțiune pentru rezolvarea acestor situații",
      "correct": true,
-     "short": "Fie pregătit pentru eventualitatea întâmplării unei situații de urgență și să fie pregătit referitor la modul de acțiune.",
+     "short": "",
      "long": "Corect. Pregătirea și exersarea procedurilor reduc stresul în urgență.",
      "warn": ""
     },
@@ -3020,7 +3020,7 @@
     {
      "text": "Tragă adânc aer în piept și să nu decidă până nu a evaluat consecințele fiecărei acțiuni, indiferent de timpul pierdut până s-a luat o decizie",
      "correct": false,
-     "short": "Tragă adânc aer în piept și să nu decidă până nu a evaluat consecințele, indiferent de timpul pierdut.",
+     "short": "",
      "long": "Respirația este utilă, dar pregătirea este cea care reduce stresul.",
      "warn": ""
     }
@@ -3164,7 +3164,7 @@
     {
      "text": "Alcoolul afectează capacitatea de evaluare și coordonare, și poate duce la somnolență",
      "correct": true,
-     "short": "Alcoolul afectează capacitatea de evaluare și coordonare și poate duce la somnolență.",
+     "short": "",
      "long": "Corect. Alcoolul afectează evaluarea și coordonarea și duce la somnolență.",
      "warn": ""
     }
@@ -3222,7 +3222,7 @@
     {
      "text": "acest zbor poate efectuat doar după regulile IFR",
      "correct": false,
-     "short": "Acest zbor poate fi efectuat doar după regulile IFR.",
+     "short": "",
      "long": "Zborul IFR nu este varianta pentru paramotor. Interdicția este mai largă.",
      "warn": ""
     },
@@ -3359,28 +3359,28 @@
     {
      "text": "efectuați un zbor acrobatic încât adrenalina o sa va repuna pe picioare",
      "correct": false,
-     "short": "Efectuați un zbor acrobatic, încât adrenalina o să vă repună pe picioare.",
+     "short": "",
      "long": "Zborul acrobatic în oboseală este periculos. Adrenalina nu compensează oboseala.",
      "warn": ""
     },
     {
      "text": "renuntați la zbor pentru următoarea perioadă până va reveniți la o formă fizica/ psihică apta pentru zbor",
      "correct": true,
-     "short": "Renunțați la zbor pentru următoarea perioadă până reveniți la o formă fizică/psihică aptă pentru zbor.",
+     "short": "",
      "long": "Corect. Zborul se amână până la revenirea formei fizice.",
      "warn": ""
     },
     {
      "text": "mergeți la zbor încat este o activitate relaxantă",
      "correct": false,
-     "short": "Mergeți la zbor, încât este o activitate relaxantă.",
+     "short": "",
      "long": "Zborul obosit nu este relaxant, ci periculos.",
      "warn": ""
     },
     {
      "text": "rugați câțiva prieteni să vă ajute să decolați încât singur nu va simțiți în stare",
      "correct": false,
-     "short": "Rugați câțiva prieteni să vă ajute să decolați.",
+     "short": "",
      "long": "Decolarea asistată nu rezolvă oboseala pilotului.",
      "warn": ""
     }
@@ -3467,7 +3467,7 @@
     {
      "text": "Suprasolicitarea individului și incapacitatea de răspuns adaptiv la agentii din mediul înconjurător",
      "correct": true,
-     "short": "Suprasolicitarea individului și incapacitatea de răspuns adaptiv la agenții din mediul înconjurător.",
+     "short": "",
      "long": "Corect. Suprasolicitarea și incapacitatea de adaptare cauzează stresul.",
      "warn": ""
     },
@@ -3683,7 +3683,7 @@
     {
      "text": "marim raza virajului eliberând ușor și treptat comanda aplicată revenind la un zbor rectiliniu și ne relaxam/ revenim",
      "correct": true,
-     "short": "Mărim raza virajului, eliberând ușor și treptat comanda aplicată, revenind la un zbor rectiliniu și ne relaxăm/revenim.",
+     "short": "",
      "long": "Corect. Mărirea razei și eliberarea treptată a comenzii reduc forța G.",
      "warn": ""
     },
@@ -3697,14 +3697,14 @@
     {
      "text": "micșoram raza virajului astfel încât să mărim forța G, încât după un anumit nivel totul revine la normal",
      "correct": false,
-     "short": "Micșorăm raza virajului, astfel încât să mărim forța G.",
+     "short": "",
      "long": "Micșorarea razei crește forța G, deci agravează amețeala.",
      "warn": ""
     },
     {
      "text": "eliberăm comanda acționată și accelerăm motorul la maxim pentru a neutraliza efectul gravitațional",
      "correct": false,
-     "short": "Eliberăm comanda acționată și accelerăm motorul la maxim.",
+     "short": "",
      "long": "Accelerarea la maxim nu neutralizează efectul forței G.",
      "warn": ""
     }
@@ -3755,7 +3755,7 @@
     {
      "text": "lipsa de oxigen datorată creşterii înălţimii",
      "correct": true,
-     "short": "Lipsa de oxigen datorată creșterii înălțimii.",
+     "short": "",
      "long": "Corect. Hipoxia este lipsa de oxigen din cauza altitudinii.",
      "warn": ""
     },
@@ -3776,7 +3776,7 @@
     {
      "text": "creşterea presiunii arteriale datorată creşterii înălţimii",
      "correct": false,
-     "short": "Creșterea presiunii arteriale datorată creșterii înălțimii.",
+     "short": "",
      "long": "Tensiunea arterială nu definește hipoxia.",
      "warn": ""
     }
@@ -3805,14 +3805,14 @@
     {
      "text": "a nu se respecta programul de odihnă regulamentar, în timpul aşteptării pentru zbor precum şi în timpul zborului",
      "correct": false,
-     "short": "A nu se respecta programul de odihnă regulamentar.",
+     "short": "",
      "long": "Programul de odihnă este obligatoriu, dar răspunsul complet este interdicția consumului de alcool.",
      "warn": ""
     },
     {
      "text": "consumul de alcool oricare ar fi cantitatea şi cauza",
      "correct": true,
-     "short": "Consumul de alcool oricare ar fi cantitatea și cauza.",
+     "short": "",
      "long": "Corect. Consumul de alcool este interzis, oricare ar fi cantitatea și cauza.",
      "warn": ""
     }
@@ -3863,28 +3863,28 @@
     {
      "text": "zburaţi normal dar cu condiţia să nu urcaţi sau coborâţi cu rate mari",
      "correct": false,
-     "short": "Zburați normal, dar cu condiția să nu urcați sau coborâți cu rate mari.",
+     "short": "",
      "long": "Zborul cu rate mici nu elimină riscul la sinusuri blocate.",
      "warn": ""
     },
     {
      "text": "se recomandă să nu zburaţi",
      "correct": true,
-     "short": "Se recomandă să nu zburați.",
+     "short": "",
      "long": "Corect. Zborul nu se recomandă cu sinusurile blocate.",
      "warn": ""
     },
     {
      "text": "puteţi zbura normal",
      "correct": false,
-     "short": "Puteți zbura normal.",
+     "short": "",
      "long": "Zborul normal este riscant cu sinusurile blocate.",
      "warn": ""
     },
     {
      "text": "luaţi un decongestionant cu o jumătate de ora înainte de zbor",
      "correct": false,
-     "short": "Luați un decongestionant cu o jumătate de oră înainte de zbor.",
+     "short": "",
      "long": "Decongestionantul nu este un substitut al deciziei de a nu zbura, iar efectele lui afectează atenția.",
      "warn": ""
     }
@@ -4028,7 +4028,7 @@
     {
      "text": "o senzaţie de confort, de putere care dă o stare euforică",
      "correct": true,
-     "short": "O senzație de confort, de putere care dă o stare euforică.",
+     "short": "",
      "long": "Corect. Senzația de confort și euforia sunt inițiale.",
      "warn": ""
     }
@@ -4187,21 +4187,21 @@
     {
      "text": "senzaţie de pierdere a apetitului",
      "correct": false,
-     "short": "Senzație de pierdere a apetitului.",
+     "short": "",
      "long": "Pierderea apetitului nu este simptomul tipic al monoxidului de carbon.",
      "warn": ""
     },
     {
      "text": "dureri de cap la nivelul creierului parietal (în zona frunţii şi tâmplă)",
      "correct": true,
-     "short": "Dureri de cap la nivelul creierului parietal (în zona frunții și tâmplei).",
+     "short": "",
      "long": "Corect. Monoxidul de carbon produce dureri de cap în zona frunții și tâmplelor.",
      "warn": ""
     },
     {
      "text": "o stare de euforie generala şi agitaţie",
      "correct": false,
-     "short": "O stare de euforie generală și agitație.",
+     "short": "",
      "long": "Euforia nu este simptomul tipic al monoxidului de carbon.",
      "warn": ""
     },
@@ -4266,7 +4266,7 @@
     {
      "text": "Dureri de cap, palpitatii, dificultati respiratorii, insomnii",
      "correct": true,
-     "short": "Dureri de cap, palpitații, dificultăți respiratorii, insomnii.",
+     "short": "",
      "long": "Corect. Durerile de cap, palpitațiile, dificultățile respiratorii și insomniile sunt manifestări fizice ale stresului.",
      "warn": ""
     },

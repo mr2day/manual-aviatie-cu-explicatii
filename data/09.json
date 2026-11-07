@@ -299,14 +299,14 @@
     {
      "text": "trebuie sa reducem motorul penru a pastra vario 0",
      "correct": false,
-     "short": "Trebuie să reducem motorul pentru a păstra variometrul la 0.",
+     "short": "",
      "long": "Motorul nu trebuie redus pentru a păstra variometrul la 0 în această relație.",
      "warn": ""
     },
     {
      "text": "cu atât creşte viteza de înfundare",
      "correct": false,
-     "short": "Cu atât crește viteza de înfundare.",
+     "short": "",
      "long": "Viteza de înfundare nu crește cu raza.",
      "warn": ""
     },
@@ -320,7 +320,7 @@
     {
      "text": "cu atât creşte înclinaţia",
      "correct": true,
-     "short": "Cu atât crește înclinația.",
+     "short": "",
      "long": "Corect. Raza mai mică cere înclinație mai mare.",
      "warn": ""
     }
@@ -500,7 +500,7 @@
     {
      "text": "raza de viraj creşte",
      "correct": false,
-     "short": "Raza de viraj crește.",
+     "short": "",
      "long": "Raza nu crește la înclinație mai mare.",
      "warn": ""
     }
@@ -536,7 +536,7 @@
     {
      "text": "viteza de zbor si unghiul de incidență",
      "correct": true,
-     "short": "Viteza de zbor și unghiul de incidență.",
+     "short": "",
      "long": "Corect. Portanța depinde de viteza de zbor și de unghiul de incidență.",
      "warn": ""
     }
@@ -630,7 +630,7 @@
     {
      "text": ". stratul de aer din imediata vecinătate a aeronavei în care viteza creşte de la zero la viteza de zbor",
      "correct": true,
-     "short": "Stratul de aer din imediata vecinătate a aeronavei în care viteza crește de la zero la viteza de zbor.",
+     "short": "",
      "long": "Corect. Stratul limită este stratul de aer din imediata vecinătate a aripii, unde viteza crește.",
      "warn": ""
     },
@@ -644,7 +644,7 @@
     {
      "text": "stratul de aer când incidenţa este la limită",
      "correct": false,
-     "short": "Stratul de aer când incidența este la limită.",
+     "short": "",
      "long": "Stratul limită nu este legat de incidența la limită.",
      "warn": ""
     }
@@ -666,7 +666,7 @@
     {
      "text": "greutatea si viteza",
      "correct": false,
-     "short": "Greutatea și viteza.",
+     "short": "",
      "long": "Viteza nu este o forță. Lista este incompletă.",
      "warn": ""
     },
@@ -680,7 +680,7 @@
     {
      "text": "greutatea, forța portanta, forța de tracțiune și forța de frecare",
      "correct": true,
-     "short": "Greutatea, forța portantă, forța de tracțiune și forța de frecare.",
+     "short": "",
      "long": "Corect. Greutatea, portanța, tracțiunea și rezistența sunt forțele.",
      "warn": ""
     }
@@ -709,7 +709,7 @@
     {
      "text": "în spate și sub aripa",
      "correct": false,
-     "short": "În spate și sub aripă.",
+     "short": "",
      "long": "Sub aripă și în spate apare siajul, nu turbioanele terminale ca sursă principală.",
      "warn": ""
     },
@@ -810,14 +810,14 @@
     {
      "text": "materialul din care este fabricată aripa și durabilitatea acesteia în condiții de utilizare intensă",
      "correct": false,
-     "short": "Materialul din care este fabricată aripa și durabilitatea acesteia.",
+     "short": "",
      "long": "Materialul și durabilitatea nu sunt criteriul principal al dimensiunii.",
      "warn": ""
     },
     {
      "text": "capacitatea aripii de a efectua manevre avansate și reacția la ajustările de trimmere",
      "correct": false,
-     "short": "Capacitatea aripii de a efectua manevre avansate.",
+     "short": "",
      "long": "Manevrele avansate nu sunt criteriul pentru un pilot începător.",
      "warn": ""
     },
@@ -1112,7 +1112,7 @@
     {
      "text": "Asteptăm să revină",
      "correct": false,
-     "short": "Așteptăm să revină.",
+     "short": "",
      "long": "Așteptarea revenirii nu este sigură în autorotație.",
      "warn": ""
     }
@@ -1134,7 +1134,7 @@
     {
      "text": "forma aripii in plan",
      "correct": false,
-     "short": "Forma aripii în plan.",
+     "short": "",
      "long": "Forma în plan nu este polara.",
      "warn": ""
     },
@@ -1206,7 +1206,7 @@
     {
      "text": "rezistenţă",
      "correct": false,
-     "short": "Rezistență.",
+     "short": "",
      "long": "Rezistența este o forță, nu zona de presiune de pe extrados.",
      "warn": ""
     },
@@ -1271,21 +1271,21 @@
     {
      "text": "menținând motoparapanta la orizontală aceasta va coborî",
      "correct": false,
-     "short": "Menținând motoparapanta la orizontală, aceasta va coborî.",
+     "short": "",
      "long": "Dacă propulsia este suficientă, aeronava nu coboară la orizontală.",
      "warn": ""
     },
     {
      "text": "motoparapanta se decelerează dacă se menţine zborul orizontal",
      "correct": false,
-     "short": "Motoparapanta se decelerează dacă se menține zborul orizontal.",
+     "short": "",
      "long": "Decelerarea nu apare dacă propulsia depășește necesarul.",
      "warn": ""
     },
     {
      "text": "motoparapanta coboară dacă viteza este menţinută",
      "correct": false,
-     "short": "Motoparapanta coboară dacă viteza este menținută.",
+     "short": "",
      "long": "Coborârea nu apare dacă viteza este menținută și propulsia este suficientă.",
      "warn": ""
     },
@@ -1350,14 +1350,14 @@
     {
      "text": "comenzile se țin cu o singură mână și cu cealaltă mână ne ajutăm să intrăm in seletă sau punem comenzile în magnet sau capse și cu mâinile ne ajutăm să intrăm in seletă",
      "correct": true,
-     "short": "Comenzile se țin cu o singură mână și cu cealaltă mână ne ajutăm să intrăm în seletă sau punem comenzile în magnet sau capse și cu mâinile ne ajutăm să intrăm în seletă.",
+     "short": "",
      "long": "Corect. Comenzile rămân ținute cu o mână, iar cu cealaltă se intră în seletă.",
      "warn": ""
     },
     {
      "text": "dăm drumul la comenzi și ne ajutam de mâini",
      "correct": false,
-     "short": "Dăm drumul la comenzi și ne ajutăm de mâini.",
+     "short": "",
      "long": "Lăsarea comenzilor libere duce la pierderea controlului.",
      "warn": ""
     },
@@ -1451,28 +1451,28 @@
     {
      "text": "o diminuare a rezistenţei la înaintare",
      "correct": true,
-     "short": "O diminuare a rezistenței la înaintare.",
+     "short": "",
      "long": "Este greșită: incidența mai mare crește rezistența.",
      "warn": "Greșit: creșterea unghiului de incidență crește portanța și rezistența. Rezistența scade când unghiul scade, nu când crește."
     },
     {
      "text": "o creştere a portanţei, apoi o diminuare brutală a acesteia odată cu atingerea incidenţei de angajare (critice)",
      "correct": false,
-     "short": "O creștere a portanței, apoi o diminuare bruscă a acesteia odată cu atingerea incidenței de angajare (critice).",
+     "short": "",
      "long": "Descrie corect stallul, dar nu răspunde la întrebarea despre rezistență.",
      "warn": ""
     },
     {
      "text": "o creștere a vitezei de înaintare și un consum mai mare a motorului",
      "correct": false,
-     "short": "O creștere a vitezei de înaintare și un consum mai mare al motorului.",
+     "short": "",
      "long": "Nu este efectul.",
      "warn": ""
     },
     {
      "text": "o creştere a portanţei oricare ar fi incidenţa atinsă",
      "correct": false,
-     "short": "O creștere a portanței oricare ar fi incidența atinsă.",
+     "short": "",
      "long": "Portanța nu crește oricare ar fi incidența: există limită.",
      "warn": ""
     }
@@ -1595,7 +1595,7 @@
     {
      "text": "un unghi de incidență ajustabil nu are un impact semnificativ asupra performanței generale a parapantei, fiind mai important pentru zborurile acrobatice",
      "correct": false,
-     "short": "Un unghi de incidență ajustabil nu are un impact semnificativ asupra performanței generale a parapantei.",
+     "short": "",
      "long": "Unghiul de incidență are impact important asupra performanței și stabilității.",
      "warn": ""
     },
@@ -1782,14 +1782,14 @@
     {
      "text": "am ascendenta",
      "correct": false,
-     "short": "Am ascendență.",
+     "short": "",
      "long": "Ascendența nu este cazul descris.",
      "warn": ""
     },
     {
      "text": "viteza faţă de aer este nulă",
      "correct": false,
-     "short": "Viteza față de aer este nulă.",
+     "short": "",
      "long": "Viteza față de aer nu este nulă. Este egală cu vântul, deci viteza față de sol este nulă.",
      "warn": ""
     },
@@ -1818,7 +1818,7 @@
     {
      "text": "crește portanța, creste viteza",
      "correct": false,
-     "short": "Crește portanța, crește viteza.",
+     "short": "",
      "long": "Viteza scade cu unghiul de incidență mai mare, nu crește.",
      "warn": ""
     },
@@ -1998,7 +1998,7 @@
     {
      "text": "datorită diferenței de presiune dintre partea superioară și inferioară a aripii cauzată de profilul curbat",
      "correct": true,
-     "short": "Datorită diferenței de presiune dintre partea superioară și inferioară a aripii, cauzată de profilul curbat.",
+     "short": "",
      "long": "Corect. Diferența de presiune dintre partea superioară și cea inferioară.",
      "warn": ""
     },
@@ -2142,7 +2142,7 @@
     {
      "text": "putere la motor si mainile sus",
      "correct": false,
-     "short": "Putere la motor și mâinile sus.",
+     "short": "",
      "long": "Mâinile sus nu sunt element de viteză.",
      "warn": ""
     },
@@ -2322,21 +2322,21 @@
     {
      "text": "unghiul format între coarda profilului aripii şi vântul relativ",
      "correct": true,
-     "short": "Unghiul format între coarda profilului aripii și vântul relativ.",
+     "short": "",
      "long": "Corect. Unghiul dintre coarda profilului și vântul relativ.",
      "warn": ""
     },
     {
      "text": "unghiul format între axul longitudinal al parapantei şi coarda aripii",
      "correct": false,
-     "short": "Unghiul format între axul longitudinal al parapantei și coarda aripii.",
+     "short": "",
      "long": "Axul longitudinal nu definește unghiul de atac în această formulare.",
      "warn": ""
     },
     {
      "text": "între unghiul de urcare şi linia orizontului",
      "correct": false,
-     "short": "Între unghiul de urcare și linia orizontului.",
+     "short": "",
      "long": "Unghiul de urcare nu este unghiul de atac.",
      "warn": ""
     }
@@ -2430,21 +2430,21 @@
     {
      "text": "stabilirea unui punct de aterizare alternativ, efectuarea unei inspecții detaliate a aripii după fiecare pas, și coordonarea cu un alt pilot pentru sprijin",
      "correct": false,
-     "short": "Stabilirea unui punct de aterizare alternativ, efectuarea unei inspecții detaliate a aripii după fiecare pas.",
+     "short": "",
      "long": "Punctul alternativ și inspecția sunt utile, dar lista nu este cea completă a decolării.",
      "warn": ""
     },
     {
      "text": "poziționarea aripii la un unghi de atac negativ, folosirea trimmerelor pentru controlul direcției, și alergarea cu putere maximă din start",
      "correct": false,
-     "short": "Poziționarea aripii la un unghi de atac negativ, folosirea trimmerelor pentru controlul direcției.",
+     "short": "",
      "long": "Unghiul de atac negativ nu este poziția corectă pentru decolare.",
      "warn": ""
     },
     {
      "text": "evaluarea condițiilor meteo pe termen lung, utilizarea unui calculator de zbor pentru traiectorie, și exersarea decolărilor pe simulatoare",
      "correct": false,
-     "short": "Evaluarea condițiilor meteo pe termen lung, utilizarea unui calculator de zbor pentru traiectorie.",
+     "short": "",
      "long": "Meteo pe termen lung și calculatorul nu sunt pașii de decolare.",
      "warn": ""
     }
@@ -2509,7 +2509,7 @@
     {
      "text": "eliberarea în zbor este interzisă, acestea se deschid la sol",
      "correct": false,
-     "short": "Eliberarea în zbor este interzisă; acestea se deschid la sol.",
+     "short": "",
      "long": "Eliberarea în zbor nu este interzisă, se face la nevoie.",
      "warn": ""
     },
@@ -2574,7 +2574,7 @@
     {
      "text": "după o încărcare bruscă, cum ar fi „snap-ul” în timpul gonflajului sau cand lovește brutal bordul de atac solul",
      "correct": true,
-     "short": "După o încărcare bruscă, cum ar fi snap-ul în timpul gonflajului sau când lovește brutal bordul de atac solul.",
+     "short": "",
      "long": "Corect. Inspecția este necesară după încărcări bruște.",
      "warn": ""
     },
@@ -2624,7 +2624,7 @@
     {
      "text": "mobil sau fix functie de tipul profilului aerodinamic",
      "correct": true,
-     "short": "Mobil sau fix, în funcție de tipul profilului aerodinamic.",
+     "short": "",
      "long": "Corect. Centrul de presiune depinde de tipul profilului.",
      "warn": ""
     }
@@ -2725,14 +2725,14 @@
     {
      "text": "aripile compacte și manevrabile permit explorarea diferitelor tehnici de zbor și ajustarea ușoară a stilului de zbor",
      "correct": false,
-     "short": "Aripile compacte și manevrabile permit explorarea diferitelor tehnici de zbor.",
+     "short": "",
      "long": "Aripile compacte și manevrabile sunt pentru piloți cu experiență.",
      "warn": ""
     },
     {
      "text": "aripile cu unghi de atac ajustabil ajută la învățarea tehnicilor avansate de zbor și optimizarea performanței",
      "correct": false,
-     "short": "Aripile cu unghi de atac ajustabil ajută la învățarea tehnicilor avansate de zbor.",
+     "short": "",
      "long": "Unghiul de atac ajustabil nu este potrivit pentru începători.",
      "warn": ""
     }
@@ -2819,7 +2819,7 @@
     {
      "text": "gravitaţia, portanţa, rezistenţa la înaintare, tracţiunea",
      "correct": false,
-     "short": "Gravitația, portanța, rezistența la înaintare, tracțiunea.",
+     "short": "",
      "long": "Tracțiunea este propulsia, deci varianta conține tracțiunea, dar lista nu este corectă în formularea completă.",
      "warn": ""
     },
@@ -2833,14 +2833,14 @@
     {
      "text": "greutatea, propulsia, rezistenţa la înaintare, portanţa",
      "correct": true,
-     "short": "Greutatea, propulsia, rezistența la înaintare, portanța.",
+     "short": "",
      "long": "Corect. Greutatea, propulsia, rezistența și portanța.",
      "warn": ""
     },
     {
      "text": "portanţa, rezistenţa la înaintare, frecarea, greutatea",
      "correct": false,
-     "short": "Portanța, rezistența la înaintare, frecarea, greutatea.",
+     "short": "",
      "long": "Frecarea nu este cea de-a patra forță în formularea corectă.",
      "warn": ""
     }
@@ -2862,7 +2862,7 @@
     {
      "text": "unghi de atac ajustabil și trimmere eficiente pentru a optimiza performanța în diverse condiții de zbor",
      "correct": false,
-     "short": "Unghi de atac ajustabil și trimmere eficiente pentru a optimiza performanța.",
+     "short": "",
      "long": "Unghiul de atac ajustabil nu este cerința principală a aripii după școală.",
      "warn": ""
     },
@@ -2927,7 +2927,7 @@
     {
      "text": "scăderea greutăţii şi scaderea excedentului de tracţiune",
      "correct": false,
-     "short": "Scăderea greutății și scăderea excedentului de tracțiune.",
+     "short": "",
      "long": "Scăderea greutății ajută, dar scăderea excedentului de tracțiune nu crește unghiul.",
      "warn": ""
     },
@@ -2941,14 +2941,14 @@
     {
      "text": "creşterea excedentului de tracţiune şi de creştere a greutăţii",
      "correct": false,
-     "short": "Creșterea excedentului de tracțiune și de creștere a greutății.",
+     "short": "",
      "long": "Creșterea greutății scade unghiul de urcare, nu îl crește.",
      "warn": ""
     },
     {
      "text": "cresterea de putere şi scaderea greutatii",
      "correct": true,
-     "short": "Cresterea de putere și scăderea greutății.",
+     "short": "",
      "long": "Corect. Creșterea puterii și scăderea greutății cresc unghiul de urcare.",
      "warn": ""
     }
@@ -3071,28 +3071,28 @@
     {
      "text": "cu viteza ridicată nu este necesar să se frâneze încât efectul de sol va iniția filarea",
      "correct": false,
-     "short": "Cu viteza ridicată nu este necesar să se frâneze, încât efectul de sol va iniția filarea.",
+     "short": "",
      "long": "Viteza mare fără frânare nu este răspunsul complet. Important este energia pentru filare.",
      "warn": ""
     },
     {
      "text": "cu aripa frânată aproape de limita de viteză pentru a avea o viteza cât mai mică la contactul cu solul",
      "correct": false,
-     "short": "Cu aripa frânată aproape de limita de viteză pentru a avea o viteză cât mai mică la contactul cu solul.",
+     "short": "",
      "long": "Aripa frânată aproape de limita de viteză pierde energia pentru filare.",
      "warn": ""
     },
     {
      "text": "cu aripa frânată maxim de la înalțimea de 10m",
      "correct": false,
-     "short": "Cu aripa frânată maxim de la înălțimea de 10 m.",
+     "short": "",
      "long": "Frânarea maximă de la 10 m duce la stall.",
      "warn": ""
     },
     {
      "text": "cu mâinile sus pentru a avea energia necesara filării",
      "correct": true,
-     "short": "Cu mâinile sus pentru a avea energia necesară filării.",
+     "short": "",
      "long": "Corect. Mâinile sus, fără frâne, pentru a avea energia filării.",
      "warn": ""
     }
@@ -3143,28 +3143,28 @@
     {
      "text": "cu vânt de spate vom avea viteza de 60 km/h fața de sol",
      "correct": false,
-     "short": "Cu vânt de spate vom avea viteza de 60 km/h față de sol.",
+     "short": "",
      "long": "Cu vânt de spate, viteza față de sol crește, nu rămâne 60.",
      "warn": ""
     },
     {
      "text": "cu vânt de față vom avea viteza de 0 km/h fața de sol",
      "correct": true,
-     "short": "Cu vânt de față vom avea viteza de 0 km/h față de sol.",
+     "short": "",
      "long": "Corect. Cu vânt de față de 60 km/h și viteză față de aer de 60 km/h, viteza față de sol este 0.",
      "warn": ""
     },
     {
      "text": "cu vânt de spate vom avea o viteza de 0 km/h fața de sol",
      "correct": false,
-     "short": "Cu vânt de spate vom avea o viteză de 0 km/h față de sol.",
+     "short": "",
      "long": "Cu vânt de spate, viteza față de sol nu este 0, ci crește.",
      "warn": ""
     },
     {
      "text": "cu vânt de față vom avea viteza de 120 km/h fața de sol",
      "correct": false,
-     "short": "Cu vânt de față vom avea viteza de 120 km/h față de sol.",
+     "short": "",
      "long": "Cu vânt de față, viteza față de sol scade, nu crește la 120.",
      "warn": ""
     }
@@ -3330,7 +3330,7 @@
     {
      "text": "se pot efectua in orice directie cu acceasi usurinta",
      "correct": false,
-     "short": "Se pot efectua în orice direcție cu aceeași ușurință.",
+     "short": "",
      "long": "Virajele nu sunt la fel de ușoare în toate direcțiile.",
      "warn": ""
     },
@@ -3467,14 +3467,14 @@
     {
      "text": "încercare repornire motor, stabilit direcția vântului, și locul de aterizare",
      "correct": false,
-     "short": "Încercare repornire motor, stabilit direcția vântului și locul de aterizare.",
+     "short": "",
      "long": "Stabilirea direcției vântului este utilă, dar prima procedură este găsirea câmpului în conul de siguranță.",
      "warn": ""
     },
     {
      "text": "ne concentăm, pornim motorul și continuăm conform planului de zbor",
      "correct": false,
-     "short": "Ne concentrăm, pornim motorul și continuăm conform planului de zbor.",
+     "short": "",
      "long": "Continuarea planului fără terenul de aterizare este periculoasă.",
      "warn": ""
     },
@@ -3510,14 +3510,14 @@
     {
      "text": "cu speed-ul apasat",
      "correct": false,
-     "short": "Cu speed-ul apăsat.",
+     "short": "",
      "long": "Cu speed-ul apăsat unghiul este mai mic, nu mai mare.",
      "warn": ""
     },
     {
      "text": "cu speed-ul neapăsat și trimerul în pozitie standard (închis)",
      "correct": true,
-     "short": "Cu speed-ul neapăsat și trimmerul în poziție standard (închis).",
+     "short": "",
      "long": "Corect. Speed neapăsat și trimmer închis dau unghi de incidență mai mare.",
      "warn": ""
     },
@@ -3539,28 +3539,28 @@
     {
      "text": "se opreste motorul si se renunta la decolare",
      "correct": true,
-     "short": "Se oprește motorul și se renunță la decolare.",
+     "short": "",
      "long": "Corect. Se oprește motorul și se renunță la decolare.",
      "warn": ""
     },
     {
      "text": "ne deplasam in partea opusa cu acceleratie",
      "correct": false,
-     "short": "Ne deplasăm în partea opusă cu accelerație.",
+     "short": "",
      "long": "Deplasarea cu accelerație poate agrava asimetria.",
      "warn": ""
     },
     {
      "text": "se continua pe directie cu gaz maxim",
      "correct": false,
-     "short": "Se continuă pe direcție cu gaz maxim.",
+     "short": "",
      "long": "Continuarea cu gaz maxim este periculoasă la aripă asimetrică.",
      "warn": ""
     },
     {
      "text": "se mareste viteza si se scade acceleratia motorului",
      "correct": false,
-     "short": "Se mărește viteza și se scade accelerația motorului.",
+     "short": "",
      "long": "Mărirea vitezei și scăderea accelerației nu corectează asimetria.",
      "warn": ""
     }
@@ -3575,7 +3575,7 @@
     {
      "text": "ă își țină brațele întinse pentru a stabiliza aripa și să folosească doar frâna dreaptă",
      "correct": false,
-     "short": "Să își țină brațele întinse pentru a stabiliza aripa și să folosească doar frâna dreaptă.",
+     "short": "",
      "long": "Brațele întinse nu sunt tehnica de stabilizare a aripii.",
      "warn": ""
     },
@@ -3589,14 +3589,14 @@
     {
      "text": "utilizarea trimmerelor pentru a schimba rapid direcția aripii, aplicarea de frâne doar pe o parte a aripii, și creșterea vitezei de alergare",
      "correct": false,
-     "short": "Utilizarea trimmerelor pentru a schimba rapid direcția aripii, aplicarea de frâne doar pe o parte, și creșterea vitezei de alergare.",
+     "short": "",
      "long": "Trimmerele nu se schimbă rapid la decolare pentru direcție.",
      "warn": ""
     },
     {
      "text": "ajustarea frânelor pentru a menține aripa centrată, utilizarea unui unghi de atac adecvat, și menținerea unei alergări constante",
      "correct": true,
-     "short": "Ajustarea frânelor pentru a menține aripa centrată, utilizarea unui unghi de atac adecvat și menținerea unei alergări constante.",
+     "short": "",
      "long": "Corect. Frânele pentru centrare și unghiul bun de alergare.",
      "warn": ""
     }

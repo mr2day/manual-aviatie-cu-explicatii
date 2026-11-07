@@ -54,7 +54,7 @@
     {
      "text": "Să iei doar harta locală fără a avea o hartă digitală",
      "correct": false,
-     "short": "Să iei doar harta locală, fără a avea o hartă digitală.",
+     "short": "",
      "long": "Harta digitală și cea tipărită se folosesc amândouă, fără să înlocuiască una pe alta.",
      "warn": ""
     },
@@ -83,7 +83,7 @@
     {
      "text": "Să sări din scaun",
      "correct": false,
-     "short": "Să sari din scaun.",
+     "short": "",
      "long": "Sărirea din scaun nu este procedura. Pilotul rămâne și corectează.",
      "warn": ""
     },
@@ -126,21 +126,21 @@
     {
      "text": "efectuăm un zbor deasupra mulțimii, acrobatic pentru a ne demonstra abilitațile",
      "correct": false,
-     "short": "Efectuăm un zbor deasupra mulțimii, acrobatic, pentru a ne demonstra abilitățile.",
+     "short": "",
      "long": "Zborul acrobatic deasupra mulțimii, pentru începători, este periculos și interzis.",
      "warn": ""
     },
     {
      "text": "ne alegem un loc de decolare în siguranță și cât mai departe de mulțime, iar după decolare ne îndepărtăm de locul de decolare pentru a le permite și celorlalți decolarea în siguranță",
      "correct": true,
-     "short": "Ne alegem un loc de decolare în siguranță și cât mai departe de mulțime, iar după decolare ne îndepărtăm de locul de decolare.",
+     "short": "",
      "long": "Corect. Se alege locul sigur de decolare, departe de mulțime.",
      "warn": ""
     },
     {
      "text": "bem maxim 2 beri căt e permis pentru ne avea curaj și decolăm în siguranță",
      "correct": false,
-     "short": "Bem maxim 2 beri și decolăm în siguranță.",
+     "short": "",
      "long": "Alcoolul interzice zborul, indiferent de cantitate.",
      "warn": ""
     }
@@ -191,14 +191,14 @@
     {
      "text": "da, pentru a fi comparată cu masa maximă specificată în manualul de utilizare şi întreţinere",
      "correct": true,
-     "short": "Da, pentru a fi comparată cu masa maximă specificată în manualul de utilizare și întreținere.",
+     "short": "",
      "long": "Corect. Masa totală se compară cu masa maximă din manual.",
      "warn": ""
     },
     {
      "text": "nu este necesar la această clasa de aeronavă",
      "correct": false,
-     "short": "Nu este necesar la această clasă de aeronavă.",
+     "short": "",
      "long": "Calcularea masei este necesară și la motoparapantă.",
      "warn": ""
     },
@@ -299,7 +299,7 @@
     {
      "text": "la latitudinea dumneavoastră pentru că nu se solicită o direcție anume",
      "correct": false,
-     "short": "La latitudinea dumneavoastră, pentru că nu se solicită o direcție anume.",
+     "short": "",
      "long": "Trebuie respectat circuitul standard.",
      "warn": ""
     },
@@ -371,28 +371,28 @@
     {
      "text": "Să zburăm cu putin combustibil la bord pentru a avea aparatul cât mai usor",
      "correct": false,
-     "short": "Să zburăm cu puțin combustibil la bord pentru a avea aparatul cât mai ușor.",
+     "short": "",
      "long": "Combustibilul redus nu este măsura principală de siguranță în acest caz.",
      "warn": ""
     },
     {
      "text": "Zborul cu soarele din fața încât ne poate afecta percepția vizuala și putem să amerizăm fără sa dorim acest lucru",
      "correct": false,
-     "short": "Zborul cu soarele în față, încât ne poate afecta percepția vizuală.",
+     "short": "",
      "long": "Zborul cu soarele în față poate afecta percepția, dar răspunsul principal este înălțimea minimă.",
      "warn": ""
     },
     {
      "text": "Să luam pasageri încât este periculos în caz de amerizare",
      "correct": false,
-     "short": "Să luăm pasageri, încât este periculos în caz de amerizare.",
+     "short": "",
      "long": "Luarea pasagerilor nu este cea mai mare problemă, dar nu este răspunsul.",
      "warn": ""
     },
     {
      "text": "Să zburam la o inaltime mai mica de 150 m fata de sol/ apa, deoarece este interzis",
      "correct": true,
-     "short": "Să zburăm la o înălțime mai mică de 150 m față de sol/apă, deoarece este interzis.",
+     "short": "",
      "long": "Corect. Zborul sub 150 m față de sol sau apă este interzis, în afara decolării și aterizării (RACR-RA 4.060).",
      "warn": ""
     }
@@ -529,14 +529,14 @@
     {
      "text": "vom frâna cât mai repede aripa pentru ca urmeaza impactul cu solul",
      "correct": false,
-     "short": "Vom frâna cât mai repede aripa pentru că urmează impactul cu solul.",
+     "short": "",
      "long": "Frânarea bruscă a aripii duce la prăbușire.",
      "warn": ""
     },
     {
      "text": "încercam să pornim motorul cât mai repede",
      "correct": false,
-     "short": "Încercăm să pornim motorul cât mai repede.",
+     "short": "",
      "long": "Pornirea motorului nu este prioritară în urgență la 10 m.",
      "warn": ""
     }
@@ -558,7 +558,7 @@
     {
      "text": "După apusul soarelui, dacă suntem echipati cu lumini de aviație",
      "correct": false,
-     "short": "După apusul soarelui, dacă suntem echipați cu lumini de aviație.",
+     "short": "",
      "long": "După apus zborul nu este recomandat, chiar cu lumini.",
      "warn": ""
     },
@@ -572,7 +572,7 @@
     {
      "text": "In mijlocul zilei, pentru a beneficia de termice",
      "correct": false,
-     "short": "În mijlocul zilei, pentru a beneficia de termice.",
+     "short": "",
      "long": "La amiază sunt termice puternice, deci atmosfera nu este calmă.",
      "warn": ""
     }
@@ -623,7 +623,7 @@
     {
      "text": "interzicerea zborului, trafic aerian aglomerat in zonă",
      "correct": false,
-     "short": "Interzicerea zborului, trafic aerian aglomerat în zonă.",
+     "short": "",
      "long": "CAVOK nu înseamnă interzicerea zborului din cauza traficului.",
      "warn": ""
     },
@@ -666,7 +666,7 @@
     {
      "text": "Eliberezi accelerația și tragi puțin frânele să nu te depășească când își revine",
      "correct": true,
-     "short": "Eliberezi accelerația și tragi puțin frânele, să nu te depășească când își revine.",
+     "short": "",
      "long": "Corect. Se eliberează accelerația și se trage ușor frânele.",
      "warn": ""
     },
@@ -767,21 +767,21 @@
     {
      "text": "se accelerează motorul pe loc în turație maximă după care se ridică brusc aripa și se decolează cât mai repede posibil",
      "correct": false,
-     "short": "Se accelerează motorul pe loc în turație maximă, după care se ridică brusc aripa și se decolează cât mai repede posibil.",
+     "short": "",
      "long": "Accelerarea pe loc și ridicarea bruscă a aripii sunt periculoase.",
      "warn": ""
     },
     {
      "text": "nu este recomandată decolarea cu vânt de spate, iar la aceasta viteză este puțin probabil să putem decola",
      "correct": true,
-     "short": "Nu este recomandată decolarea cu vânt de spate, iar la această viteză este puțin probabil să putem decola.",
+     "short": "",
      "long": "Corect. Decolarea cu vânt de spate peste 20 km/h nu este recomandată.",
      "warn": ""
     },
     {
      "text": "se aleargă cu viteza mare și cu aripa frânată pentru a micșora distanța de decolare",
      "correct": false,
-     "short": "Se aleargă cu viteză mare și cu aripa frânată pentru a micșora distanța de decolare.",
+     "short": "",
      "long": "Alergarea cu frânele trase nu scurtează distanța, ci o alterează.",
      "warn": ""
     },
@@ -1055,28 +1055,28 @@
     {
      "text": "în spatele pilotului, în aer liber având elicea liberă",
      "correct": true,
-     "short": "În spatele pilotului, în aer liber, având elicea liberă.",
+     "short": "",
      "long": "Corect. Pornirea în spatele pilotului, în aer liber, cu elicea liberă.",
      "warn": ""
     },
     {
      "text": "sprijinit de corp cu minim 2 puncte de sprijin",
      "correct": false,
-     "short": "Sprijinit de corp, cu minim 2 puncte de sprijin.",
+     "short": "",
      "long": "Sprijinirea pe corp nu este procedura corectă de pornire.",
      "warn": ""
     },
     {
      "text": "pe suprafeţe cu pietriş",
      "correct": false,
-     "short": "Pe suprafețe cu pietriș.",
+     "short": "",
      "long": "Suprafața cu pietriș poate arunca obiecte în elice.",
      "warn": ""
     },
     {
      "text": "pe orice suprafaţă",
      "correct": false,
-     "short": "Pe orice suprafață.",
+     "short": "",
      "long": "Pornirea pe orice suprafață nu este sigură. Se alege suprafața potrivită.",
      "warn": ""
     }
@@ -1213,14 +1213,14 @@
     {
      "text": "se face cu o chingă spate şi comanda opusă",
      "correct": false,
-     "short": "Se face cu o chingă spate și comanda opusă.",
+     "short": "",
      "long": "Chingile nu se folosesc cu comanda opusă în această procedură.",
      "warn": ""
     },
     {
      "text": "trebuie să se facă prin tragerea lor cu câţiva cm",
      "correct": false,
-     "short": "Trebuie să se facă prin tragerea lor cu câțiva cm.",
+     "short": "",
      "long": "Chingile nu se trag cu câțiva centimetri ca procedură generală.",
      "warn": ""
     }
@@ -1235,7 +1235,7 @@
     {
      "text": "dvs. aveţi prioritate",
      "correct": false,
-     "short": "Dvs. aveți prioritate.",
+     "short": "",
      "long": "Pilotul nu are prioritate când cealaltă aeronavă este în dreapta sa.",
      "warn": ""
     },
@@ -1249,14 +1249,14 @@
     {
      "text": "dvs. trebuie să cedaţi prioritatea",
      "correct": true,
-     "short": "Dvs. trebuie să cedați prioritatea.",
+     "short": "",
      "long": "Corect. Pilotul cedează prioritatea celei din dreapta (RACR-RA, pct. 2.3).",
      "warn": ""
     },
     {
      "text": "paramotorul, fiind cea mai inceată aeronava, are intotdeauna prioritate",
      "correct": false,
-     "short": "Paramotorul, fiind cea mai lentă aeronavă, are întotdeauna prioritate.",
+     "short": "",
      "long": "Paramotorul nu are întotdeauna prioritate, chiar dacă zboară lent.",
      "warn": ""
     }
@@ -1271,7 +1271,7 @@
     {
      "text": "Să-l lași să ruleze la ralanti până la decolare",
      "correct": false,
-     "short": "Să-l lași să ruleze la relanti până la decolare.",
+     "short": "",
      "long": "Rularea prelungită la relanti depune reziduuri și nu curăță motorul.",
      "warn": ""
     },
@@ -1343,28 +1343,28 @@
     {
      "text": "\"Prepare, Adjust, Deploy\" (Pregătește, ajustează, aruncă)",
      "correct": false,
-     "short": "Pregătește, ajustează, aruncă.",
+     "short": "",
      "long": "Pregătirea, ajustarea și aruncarea nu sunt pașii procedurii de salvare.",
      "warn": ""
     },
     {
      "text": "\"Check, Reduce, Release\" (Verifică, redu, eliberează)",
      "correct": false,
-     "short": "Verifică, redu, eliberează.",
+     "short": "",
      "long": "Verificarea, reducerea și eliberarea nu sunt pașii procedurii de salvare.",
      "warn": ""
     },
     {
      "text": "\"Look, Aim, Fire\" (Privește, țintește, aruncă)",
      "correct": false,
-     "short": "Privește, țintește, aruncă.",
+     "short": "",
      "long": "Privirea, țintirea și focul nu sunt pașii procedurii de salvare.",
      "warn": ""
     },
     {
      "text": "\"Kill, Look, Pull, Clear, and Throw\" (Oprește motorul, privește, trage, asigură și aruncă)",
      "correct": true,
-     "short": "Oprește motorul, privește, trage, asigură și aruncă.",
+     "short": "",
      "long": "Corect. Oprirea motorului, privirea, tragerea, asigurarea zonei și aruncarea sunt pașii.",
      "warn": ""
     }
@@ -1386,7 +1386,7 @@
     {
      "text": "Să eviți utilizarea frânelor extrem și să planifici coborârea urmărind conturul obstacolelor",
      "correct": true,
-     "short": "Să eviți utilizarea frânelor extreme și să planifici coborârea urmărind conturul obstacolelor.",
+     "short": "",
      "long": "Corect. Se evită frânarea extremă și se planifică coborârea.",
      "warn": ""
     },
@@ -1422,14 +1422,14 @@
     {
      "text": "cu ajutorul ultimului rând de suspante(D)",
      "correct": true,
-     "short": "Cu ajutorul ultimului rând de suspante (D).",
+     "short": "",
      "long": "Corect. Ultimul rând de suspante (D) compensează comanda ruptă.",
      "warn": ""
     },
     {
      "text": "se acţionează obligatoriu paraşuta de rezervă",
      "correct": false,
-     "short": "Se acționează obligatoriu parașuta de rezervă.",
+     "short": "",
      "long": "Parașuta de rezervă nu este obligatorie pentru compensarea ruperii comenzii.",
      "warn": ""
     },
@@ -1451,21 +1451,21 @@
     {
      "text": "dacă din față vine o altă aeronava este interzis să efectuăm manevre",
      "correct": false,
-     "short": "Dacă din față vine o altă aeronavă, este interzis să efectuăm manevre.",
+     "short": "",
      "long": "Manevrele nu sunt interzise doar pentru că din față vine o aeronavă. Se evită coliziunea.",
      "warn": ""
     },
     {
      "text": "dacă zburăm cu piloți pe care îi cunoaștem putem vira fără să ne privim în jur pentru că ne cunosc comportamentul",
      "correct": false,
-     "short": "Dacă zburăm cu piloți pe care îi cunoaștem, putem vira fără să ne privim în jur.",
+     "short": "",
      "long": "Cunoașterea piloților nu scutește de verificarea spațiului.",
      "warn": ""
     },
     {
      "text": "vom vira tot timpul în sensul momentului motor",
      "correct": false,
-     "short": "Virăm tot timpul în sensul momentului motor.",
+     "short": "",
      "long": "Virajul nu se face mereu în același sens. Se verifică spațiul.",
      "warn": ""
     },
@@ -1487,7 +1487,7 @@
     {
      "text": "Devine mai dinamică și mai reactivă și are o rată de urcare mai scăzută și reacționează mai violent în cazul unui colaps",
      "correct": true,
-     "short": "Devine mai dinamică și mai reactivă, are o rată de urcare mai scăzută și reacționează mai violent în cazul unui colaps.",
+     "short": "",
      "long": "Corect. Aripa supraîncărcată este mai reactivă, cu rată de urcare mai mică.",
      "warn": ""
     },
@@ -1508,7 +1508,7 @@
     {
      "text": "Își pierde capacitatea de a se inflata corect",
      "correct": false,
-     "short": "Își pierde capacitatea de a se umfla corect.",
+     "short": "",
      "long": "Umflarea nu este afectată în mod principal de supraîncărcare.",
      "warn": ""
     }
@@ -1523,21 +1523,21 @@
     {
      "text": "se ocoleşte, se evită zona periculoasă şi se îndreaptă către zone mai sigure şi se aterizează pe aerodromul cel mai apropiat",
      "correct": true,
-     "short": "Se ocolește, se evită zona periculoasă, se îndreaptă către zone mai sigure și se aterizează pe aerodromul cel mai apropiat.",
+     "short": "",
      "long": "Corect. Se ocolește zona periculoasă și se merge spre zone mai sigure.",
      "warn": ""
     },
     {
      "text": "pilotul poate lua orice hotărâre, nefiind suspus nici unei reglementari în acest sens",
      "correct": false,
-     "short": "Pilotul poate lua orice hotărâre, nefiind supus niciunei reglementări în acest sens.",
+     "short": "",
      "long": "Pilotul nu poate lua orice decizie. Se aplică regulile de siguranță și regulile de zbor.",
      "warn": ""
     },
     {
      "text": "se va lua înălțime cât mai mare pentru a evita vremea nefavorabilă",
      "correct": false,
-     "short": "Se va lua altitudine cât mai mare pentru a evita vremea nefavorabilă.",
+     "short": "",
      "long": "Înălțimea mare nu este soluția pentru vremea nefavorabilă, iar în nori zborul este interzis.",
      "warn": ""
     },
@@ -1602,7 +1602,7 @@
     {
      "text": "orice manevra, pentru a atrage atentia celeilalte aeronave",
      "correct": false,
-     "short": "Orice manevră, pentru a atrage atenția celeilalte aeronave.",
+     "short": "",
      "long": "Manevrele care atrag atenția nu evită coliziunea.",
      "warn": ""
     },
@@ -1638,7 +1638,7 @@
     {
      "text": "se franează cât mai sus pentru a stala aripa",
      "correct": false,
-     "short": "Se frânează cât mai sus pentru a stala aripa.",
+     "short": "",
      "long": "Frânarea sus duce la stall înainte de atingere, ceea ce este periculos.",
      "warn": ""
     },
@@ -1652,7 +1652,7 @@
     {
      "text": "se deschid chingile și se sare de la înălțime de 150 metri",
      "correct": false,
-     "short": "Se deschid chingile și se sare de la înălțime de 150 de metri.",
+     "short": "",
      "long": "Săritura de la 150 m nu este procedura de amerizare.",
      "warn": ""
     }
@@ -1674,21 +1674,21 @@
     {
      "text": "este interzis să efectuăm proceduri care nu sunt în manulul de operare al aeronavei",
      "correct": true,
-     "short": "Este interzis să efectuăm proceduri care nu sunt în manualul de operare al aeronavei.",
+     "short": "",
      "long": "Corect. Sunt interzise procedurile care nu sunt în manual.",
      "warn": ""
     },
     {
      "text": "căutam o variantă de pornire optimă încât să ne asigure pornirea în siguranță",
      "correct": false,
-     "short": "Căutăm o variantă de pornire optimă încât să ne asigure pornirea în siguranță.",
+     "short": "",
      "long": "O variantă proprie de pornire nu este permisă fără aprobarea producătorului.",
      "warn": ""
     },
     {
      "text": "ne abatem de la recomandarile producătorului dacă experiența de permite",
      "correct": false,
-     "short": "Ne abatem de la recomandările producătorului dacă experiența ne permite.",
+     "short": "",
      "long": "Experiența personală nu justifică abaterea de la recomandările producătorului.",
      "warn": ""
     }
@@ -1760,7 +1760,7 @@
     {
      "text": "Poți fi învăluit în aripă și căderea poate fi violentă",
      "correct": true,
-     "short": "Poți fi învăluit în aripă, iar căderea poate fi violentă.",
+     "short": "",
      "long": "Corect. Pilotul poate fi învelit în aripă, iar căderea poate fi violentă.",
      "warn": ""
     }
@@ -1818,21 +1818,21 @@
     {
      "text": "zburaţi la o înălţime minimă de 150 m",
      "correct": false,
-     "short": "Zburați la o înălțime minimă de 150 m.",
+     "short": "",
      "long": "Zborul la 150 m nu rezolvă problema, deoarece distanța verticală față de nori cere sub 100 m.",
      "warn": ""
     },
     {
      "text": "zburaţi la o înălţime maximă de 250 m",
      "correct": false,
-     "short": "Zburați la o înălțime maximă de 250 m.",
+     "short": "",
      "long": "Zborul la 250 m este peste plafonul de 400 m minus 300 m, deci nu este permis.",
      "warn": ""
     },
     {
      "text": "nu zburaţi",
      "correct": true,
-     "short": "Nu zburați.",
+     "short": "",
      "long": "Corect. Zborul nu se face în aceste condiții.",
      "warn": ""
     }
@@ -1854,7 +1854,7 @@
     {
      "text": "Prezenta animalelor sălbatice",
      "correct": false,
-     "short": "Prezența animalelor sălbatice.",
+     "short": "",
      "long": "Animalele nu sunt motivul principal.",
      "warn": ""
     },
@@ -1926,7 +1926,7 @@
     {
      "text": "se realizează prin întreţinerea regulată a aeronavei şi prin pregătirea şi verificarea sistematică a acesteia",
      "correct": true,
-     "short": "Se realizează prin întreținerea regulată a aeronavei și prin pregătirea și verificarea sistematică a acesteia.",
+     "short": "",
      "long": "Corect. Întreținerea regulată și verificarea sistematică previn pana de motor.",
      "warn": ""
     },
@@ -1962,7 +1962,7 @@
     {
      "text": "Cu putin combustibil",
      "correct": false,
-     "short": "Cu puțin combustibil.",
+     "short": "",
      "long": "Combustibilul redus nu este condiția de siguranță.",
      "warn": ""
     },
@@ -2178,21 +2178,21 @@
     {
      "text": "zburam cu trimerele inchise pentru a avea o aripa stabila si usor manevrabila",
      "correct": false,
-     "short": "Zburăm cu trimmerele închise pentru a avea o aripă stabilă și ușor manevrabilă.",
+     "short": "",
      "long": "Trimmerele închise nu sunt procedura pentru condiții necunoscute.",
      "warn": ""
     },
     {
      "text": "încercăm să ne întoarcem din drum pe același traseu pentru ca e probabil cel mai sigur",
      "correct": true,
-     "short": "Încercăm să ne întoarcem din drum pe același traseu, pentru că e probabil cel mai sigur.",
+     "short": "",
      "long": "Corect. Întoarcerea pe același traseu cunoscut este cea mai sigură.",
      "warn": ""
     },
     {
      "text": "eliberam trimerele pentru a avea viteză cat mai mare sa ieșim din zona respectivă",
      "correct": false,
-     "short": "Eliberăm trimmerele pentru a avea viteză cât mai mare și să ieșim din zona respectivă.",
+     "short": "",
      "long": "Trimmerele eliberate pentru viteză mare nu sunt soluția în condiții meteo necunoscute.",
      "warn": ""
     }
@@ -2279,14 +2279,14 @@
     {
      "text": "orice manevra, pentru a atrage atentia celeilalte aeronave",
      "correct": false,
-     "short": "Orice manevră, pentru a atrage atenția celeilalte aeronave.",
+     "short": "",
      "long": "Manevrele care nu sunt coordonate nu evită coliziunea.",
      "warn": ""
     },
     {
      "text": "un viraj la stanga",
      "correct": false,
-     "short": "Un viraj la stânga.",
+     "short": "",
      "long": "Virajul la stânga nu este regula.",
      "warn": ""
     },
@@ -2531,14 +2531,14 @@
     {
      "text": "motorul se opreşte dar poate fi pornit pentru a frâna la aterizare",
      "correct": false,
-     "short": "Motorul se oprește, dar poate fi pornit pentru a frâna la aterizare.",
+     "short": "",
      "long": "Motorul nu se repornește pentru frânare. Se oprește.",
      "warn": ""
     },
     {
      "text": "oprirea motorului este obligatorie în astfel de situaţii",
      "correct": true,
-     "short": "Oprirea motorului este obligatorie în astfel de situații.",
+     "short": "",
      "long": "Corect. Oprirea motorului este obligatorie.",
      "warn": ""
     },
@@ -2552,7 +2552,7 @@
     {
      "text": "motorul trebuie sa funcţioneze pentru a ateriza în zona dorită",
      "correct": false,
-     "short": "Motorul trebuie să funcționeze pentru a ateriza în zona dorită.",
+     "short": "",
      "long": "Motorul nu trebuie să funcționeze după deschiderea rezervei.",
      "warn": ""
     }
@@ -2718,7 +2718,7 @@
     {
      "text": "Să practici amortizarea oscilațiilor la altitudine mare și să eviți corectarea acestora sub aproximativ 20 metri",
      "correct": true,
-     "short": "Să practici amortizarea oscilațiilor la altitudine mare și să eviți corectarea acestora sub aproximativ 20 m.",
+     "short": "",
      "long": "Corect. Amortizarea la altitudine mare și evitarea corecțiilor bruște.",
      "warn": ""
     },
@@ -2819,28 +2819,28 @@
     {
      "text": "nu sunt necesare alte măsuri deoarece aveți suficient combustibil pentru a traversa zona",
      "correct": false,
-     "short": "Nu sunt necesare alte măsuri, deoarece aveți suficient combustibil pentru a traversa zona.",
+     "short": "",
      "long": "Combustibilul nu rezolvă singur problema obstacolelor.",
      "warn": ""
     },
     {
      "text": "reduceţi înălţimea de zbor pentru a vedea mai detaliat eventualele terenuri de aterizare",
      "correct": false,
-     "short": "Reduceți înălțimea de zbor pentru a vedea mai detaliat eventualele terenuri de aterizare.",
+     "short": "",
      "long": "Reducerea înălțimii pentru a vedea mai detaliat este periculoasă deasupra obstacolelor.",
      "warn": ""
     },
     {
      "text": "nu sunt necesare alte măsuri deoarece motorul are aprindere dublă şi aveţi paraşută",
      "correct": false,
-     "short": "Nu sunt necesare alte măsuri, deoarece motorul are aprindere dublă și aveți parașută.",
+     "short": "",
      "long": "Aprinderea dublă nu justifică lipsa altor măsuri.",
      "warn": ""
     },
     {
      "text": "dacă nu puteţi evita zona creşteţi înălţimea de zbor pentru a vă asigura în caz de pană de motor",
      "correct": true,
-     "short": "Dacă nu puteți evita zona, creșteți înălțimea de zbor pentru a vă asigura în caz de pană de motor.",
+     "short": "",
      "long": "Corect. Se crește altitudinea pentru marjă față de obstacole.",
      "warn": ""
     }
@@ -2891,7 +2891,7 @@
     {
      "text": "lăsăm motorul în turație constantă și ne vom continua traseul stabilit",
      "correct": false,
-     "short": "Lăsăm motorul în turație constantă și ne continuăm traseul stabilit.",
+     "short": "",
      "long": "Continuarea traseului cu un motor defect este periculoasă.",
      "warn": ""
     },
@@ -3078,7 +3078,7 @@
     {
      "text": "Încească să stabilizezi zborul prin reducerea completă a puterii",
      "correct": false,
-     "short": "Încearcă să stabilizezi zborul prin reducerea completă a puterii.",
+     "short": "",
      "long": "Reducerea completă a puterii nu este răspunsul principal.",
      "warn": ""
     },
@@ -3215,7 +3215,7 @@
     {
      "text": "atenţie pornesc",
      "correct": false,
-     "short": "Atenție pornesc.",
+     "short": "",
      "long": "„Atenție, pornesc” nu este întrebarea de siguranță. Se cere confirmarea că zona este liberă.",
      "warn": ""
     },
@@ -3330,7 +3330,7 @@
     {
      "text": "din faţă",
      "correct": false,
-     "short": "Din față.",
+     "short": "",
      "long": "Partea din față este bordul de atac.",
      "warn": ""
     },
@@ -3395,7 +3395,7 @@
     {
      "text": "viraţi la stânga în urcare",
      "correct": false,
-     "short": "Virați la stânga în urcare.",
+     "short": "",
      "long": "Virajul la stânga în urcare nu este regula de evitare.",
      "warn": ""
     },
@@ -3409,14 +3409,14 @@
     {
      "text": "urcaţi la înălţime superioară acesteia cu 150 m",
      "correct": false,
-     "short": "Urcați la înălțime superioară acesteia cu 150 m.",
+     "short": "",
      "long": "Urcarea cu 150 m nu este regula de evitare.",
      "warn": ""
     },
     {
      "text": "viraţi dreapta la orizontală",
      "correct": true,
-     "short": "Virați dreapta la orizontală.",
+     "short": "",
      "long": "Corect. Virajul la dreapta, în orizontală.",
      "warn": ""
     }
@@ -3467,7 +3467,7 @@
     {
      "text": "Să tensionezi ușor suspantele fără strica profilul aripii",
      "correct": true,
-     "short": "Să tensionezi ușor suspantele fără să strici profilul aripii.",
+     "short": "",
      "long": "Corect. Tensionarea ușoară a suspantelor, fără deformarea profilului.",
      "warn": ""
     },
@@ -3553,7 +3553,7 @@
     {
      "text": "neintreruptă – dacă se întrerupe se reia în totalitate",
      "correct": false,
-     "short": "Neîntreruptă – dacă se întrerupe se reia în totalitate.",
+     "short": "",
      "long": "Neîntreruperea este o caracteristică corectă, dar nu singura.",
      "warn": ""
     },
@@ -3798,7 +3798,7 @@
     {
      "text": "atunci cand viteza vântului este 0",
      "correct": false,
-     "short": "Atunci când viteza vântului este 0.",
+     "short": "",
      "long": "Fără vânt se folosește alt gonflaj.",
      "warn": ""
     },
@@ -3812,7 +3812,7 @@
     {
      "text": "atunci cand viteza vântului este de aproximativ 10 km/h",
      "correct": true,
-     "short": "Atunci când viteza vântului este de aproximativ 10 km/h.",
+     "short": "",
      "long": "",
      "warn": ""
     }
@@ -3834,21 +3834,21 @@
     {
      "text": "Parașute cu deschidere rapidă și parașute cu deschidere lentă; cele cu deschidere lentă sunt mai sigure în zbor",
      "correct": false,
-     "short": "Parașute cu deschidere rapidă și parașute cu deschidere lentă.",
+     "short": "",
      "long": "Diferența de deschidere nu este clasificarea parașutelor de salvare.",
      "warn": ""
     },
     {
      "text": "Parașute frontale și parașute laterale; cele frontale sunt mai ușor de aruncat",
      "correct": false,
-     "short": "Parașute frontale și parașute laterale.",
+     "short": "",
      "long": "Clasificarea frontal-lateral nu este cea a parașutelor de salvare.",
      "warn": ""
     },
     {
      "text": "Parașute automate și parașute manuale; cele automate se deschid mai rapid",
      "correct": false,
-     "short": "Parașute automate și parașute manuale.",
+     "short": "",
      "long": "Automat și manual nu este clasificarea principală.",
      "warn": ""
     }
@@ -3906,14 +3906,14 @@
     {
      "text": "la latitudinea dvs. deoarece nu se solicită o direcție anume",
      "correct": false,
-     "short": "La latitudinea dvs., deoarece nu se solicită o direcție anume.",
+     "short": "",
      "long": "Circuitul standard este prevăzut.",
      "warn": ""
     },
     {
      "text": "viraj de 90 grade la alegere",
      "correct": false,
-     "short": "Viraj de 90 de grade la alegere.",
+     "short": "",
      "long": "Nu este regula.",
      "warn": ""
     },

@@ -205,7 +205,7 @@
     {
      "text": "doar după apariţia unei probleme",
      "correct": false,
-     "short": "Doar după apariția unei probleme.",
+     "short": "",
      "long": "Întreținerea preventivă nu se face doar după probleme.",
      "warn": ""
     },
@@ -263,28 +263,28 @@
     {
      "text": "10 km în sectoarele de decolare şi aterizare ale zonelor acestora",
      "correct": true,
-     "short": "10 km în sectoarele de decolare și aterizare ale zonelor acestora.",
+     "short": "",
      "long": "",
      "warn": "Cifra de 10 km nu apare în regulamentele din manual. Regula de bază este evitarea sectoarelor de decolare și aterizare, cu distanță suficientă pentru a nu intra în conflict cu traficul aerodromului."
     },
     {
      "text": "15 km în sectoarele de decolare şi aterizare ale zonelor acestora",
      "correct": false,
-     "short": "15 km în sectoarele de decolare și aterizare ale zonelor acestora.",
+     "short": "",
      "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
      "text": "3 km în sectoarele de decolare şi aterizare ale zonelor acestora",
      "correct": false,
-     "short": "3 km în sectoarele de decolare și aterizare ale zonelor acestora.",
+     "short": "",
      "long": "Distanța este prea mică pentru varianta corectă.",
      "warn": ""
     },
     {
      "text": "5 km în sectoarele de decolare şi aterizare ale zonelor acestora",
      "correct": false,
-     "short": "5 km în sectoarele de decolare și aterizare ale zonelor acestora.",
+     "short": "",
      "long": "Nu este varianta corectă.",
      "warn": ""
     }
@@ -349,7 +349,7 @@
     {
      "text": "presiunea scăzută poate modifica punctul de aprindere al combustibil",
      "correct": false,
-     "short": "Presiunea scăzută poate modifica punctul de aprindere al combustibilului.",
+     "short": "",
      "long": "Presiunea scăzută nu schimbă punctul de aprindere al combustibilului. Efectul este pe putere și pe portanță.",
      "warn": ""
     },
@@ -371,28 +371,28 @@
     {
      "text": "anulați zborul și încercați să degresați/ spalați seleta cu detergenți ce nu afectează materialele din care este construită seleta, încât benzina poate afecta drastic rezistența și integritatea acesteia",
      "correct": true,
-     "short": "Anulați zborul și încercați să degresați/spălați seleta cu detergenți care nu afectează materialele.",
+     "short": "",
      "long": "Corect. Zborul se anulează și seleta se curăță cu detergenți care nu afectează materialul.",
      "warn": ""
     },
     {
      "text": "așteptați 10 minute să se evapore apoi continuați cu procedura de decolare",
      "correct": false,
-     "short": "Așteptați 10 minute să se evapore, apoi continuați cu procedura de decolare.",
+     "short": "",
      "long": "Benzina nu se evaporă destul de repede pentru a continua zborul în siguranță. Pe seletă rămâne în material.",
      "warn": ""
     },
     {
      "text": "instalați o folie de protecție o folie de protecție între pilot și seletă să nu vă murdăriți",
      "correct": false,
-     "short": "Instalați o folie de protecție între pilot și seletă.",
+     "short": "",
      "long": "Folia nu protejează materialul de benzină și nu rezolvă situația.",
      "warn": ""
     },
     {
      "text": "demontăm seleta și o lăsăm la soare câteva zile până se evapora benzina absorbită de materialul acesteia",
      "correct": false,
-     "short": "Demontăm seleta și o lăsăm la soare câteva zile.",
+     "short": "",
      "long": "Lăsarea la soare poate deteriora materialul și nu asigură curățarea corectă.",
      "warn": ""
     }
@@ -407,7 +407,7 @@
     {
      "text": "ca să reducem viteza indicată şi astfel să reducem distanţa de decolare",
      "correct": false,
-     "short": "Ca să reducem viteza indicată și astfel să reducem distanța de decolare.",
+     "short": "",
      "long": "Viteza indicată nu se reduce prin vânt de față. Distanța scade pentru că viteza la sol este mai mică.",
      "warn": ""
     },
@@ -428,7 +428,7 @@
     {
      "text": "ca să reducem viteza la sol şi astfel să reducem distanta de decolare",
      "correct": true,
-     "short": "Ca să reducem viteza la sol și astfel să reducem distanța de decolare.",
+     "short": "",
      "long": "Corect. Vântul de față reduce viteza la sol și deci distanța de decolare.",
      "warn": ""
     }
@@ -457,7 +457,7 @@
     {
      "text": "Regimul de zbor în spaţial aerian al României",
      "correct": false,
-     "short": "Regimul de zbor în spațiul aerian al României.",
+     "short": "",
      "long": "Regimul de zbor nu este documentul care publică înălțimile minime.",
      "warn": ""
     },
@@ -529,7 +529,7 @@
     {
      "text": "numai când se efectuează zboruri în afara zonei de control al aeroportului/aerodromului",
      "correct": false,
-     "short": "Numai când se efectuează zboruri în afara zonei de control al aeroportului.",
+     "short": "",
      "long": "Zborul în afara zonei de control nu cere neapărat plan, în afara cazurilor din RACR-RA 3.030.",
      "warn": ""
     },
@@ -594,21 +594,21 @@
     {
      "text": "paraşuta, planor, motoparapanta",
      "correct": true,
-     "short": "Parașuta, planor, motoparapanta.",
+     "short": "",
      "long": "Corect. Parașuta, planorul și motoparapanta în această ordine.",
      "warn": ""
     },
     {
      "text": "în funcţie de intrarea în turul de pistă",
      "correct": false,
-     "short": "În funcție de intrarea în turul de pistă.",
+     "short": "",
      "long": "Ordinea nu se stabilește după intrarea în turul de pistă, ci după categorie și manevrabilitate.",
      "warn": ""
     },
     {
      "text": "care este mai aproape de virajul “3”, cu traficul la vedere",
      "correct": false,
-     "short": "Care este mai aproape de virajul 3, cu traficul la vedere.",
+     "short": "",
      "long": "Apropierea de virajul 3 nu este criteriul principal de prioritate.",
      "warn": ""
     }
@@ -731,7 +731,7 @@
     {
      "text": "trebuie să achizitionați o altă parapantă încât aceasta nu mai este sigură",
      "correct": false,
-     "short": "Trebuie să achiziționați o altă parapantă, încât aceasta nu mai este sigură.",
+     "short": "",
      "long": "Nu este necesar să cumperi altă aripă pentru o ruptură reparabilă, dar răspunsul corect este repararea și inspecția.",
      "warn": ""
     },
@@ -745,14 +745,14 @@
     {
      "text": "decolați încât acea ruptură nu este suficient de mare încât să afecteze performanțele de zbor ale aripii",
      "correct": false,
-     "short": "Decolați, încât acea ruptură nu este suficient de mare încât să afecteze performanțele.",
+     "short": "",
      "long": "Decolarea cu rupere este periculoasă, ruptura poate crește în zbor.",
      "warn": ""
     },
     {
      "text": "încercați să o reparați cu bandă izolatoare electrică încât e suficient pentru 1-2 zboruri",
      "correct": false,
-     "short": "Încercați să o reparați cu bandă izolatoare electrică, încât este suficientă pentru 1–2 zboruri.",
+     "short": "",
      "long": "Banda izolatoare nu este reparația corectă pentru voal. Se folosește ripstop.",
      "warn": ""
     }
@@ -875,28 +875,28 @@
     {
      "text": "daca pista e luminata nu exista reglementari",
      "correct": false,
-     "short": "Dacă pista e luminată, nu există reglementări.",
+     "short": "",
      "long": "Pista iluminată nu înlocuiește regulile. Zborul de zi are reguli de răsărit și apus.",
      "warn": ""
     },
     {
      "text": "răsăritul soarelui până la apus orele fiind luate din AIP după ora Bucureşti",
      "correct": false,
-     "short": "Răsăritul soarelui până la apus, orele fiind luate din AIP după ora Bucureștiului.",
+     "short": "",
      "long": "Ora Bucureștiului nu este referința. Se folosește ora aerodromului unde se desfășoară zborul.",
      "warn": ""
     },
     {
      "text": "30 min după răsărit până la 30 min înainte de apus după ora Bucureşti",
      "correct": false,
-     "short": "30 min după răsărit până la 30 min înainte de apus, după ora Bucureștiului.",
+     "short": "",
      "long": "Perioada de 30 de minute înainte și după nu este regula. Regula este răsăritul și apusul din AIP.",
      "warn": ""
     },
     {
      "text": "răsăritul soarelui până la apus luate din AIP după ora aerodromului unde vă desfăşuraţi activitatea de zbor",
      "correct": true,
-     "short": "Răsăritul soarelui până la apus, luate din AIP după ora aerodromului unde vă desfășurați activitatea de zbor.",
+     "short": "",
      "long": "Corect. Răsăritul și apusul din AIP, cu ora locală a aerodromului.",
      "warn": ""
     }
@@ -983,7 +983,7 @@
     {
      "text": "decolați încât sunteți un pilot ușor și nu aveți nevoie de turație/ puterea maximă a motorului",
      "correct": false,
-     "short": "Decolați, încât sunteți un pilot ușor și nu aveți nevoie de turația/puterea maximă.",
+     "short": "",
      "long": "Greutatea pilotului nu justifică decolarea cu un defect neclarificat.",
      "warn": ""
     },
@@ -997,14 +997,14 @@
     {
      "text": "decolați și sperați că motorul va funcționa pentru încă 2 ore încât să puteți efectua zborul planificat",
      "correct": false,
-     "short": "Decolați și sperați că motorul va funcționa pentru încă 2 ore.",
+     "short": "",
      "long": "Sperarea că motorul va funcționa nu este siguranță.",
      "warn": ""
     },
     {
      "text": "anulați decolarea și așteptați 10 min sperând că zgomotul va dispărea",
      "correct": false,
-     "short": "Anulați decolarea și așteptați 10 minute sperând că zgomotul va dispărea.",
+     "short": "",
      "long": "Așteptarea nu rezolvă defectul. Trebuie inspecție.",
      "warn": ""
     }
@@ -1026,14 +1026,14 @@
     {
      "text": "vă continuați zborul prudent asigurându-vă că nu eliberați mânerul de comandă din mână pe tot parcursul zborului până la aterizare",
      "correct": true,
-     "short": "Vă continuați zborul prudent, asigurându-vă că nu eliberați mânerul de comandă pe tot parcursul zborului până la aterizare.",
+     "short": "",
      "long": "Corect. Pilotul continuă prudent și ține mânerul în mână.",
      "warn": ""
     },
     {
      "text": "vă continuați zborul normal, lăsând comanda liberă la nevoie încât plasa de protecție o va reține să nu intre în elice",
      "correct": false,
-     "short": "Vă continuați zborul normal, lăsând comanda liberă, încât plasa de protecție o va reține.",
+     "short": "",
      "long": "Lăsarea comenzii libere este periculoasă, nu este rezolvare.",
      "warn": ""
     },
@@ -1242,7 +1242,7 @@
     {
      "text": "regulile de zbor care se aplică atunci când condiţiile meteo permit ca zborul să se efectueze la vedere",
      "correct": false,
-     "short": "Regulile de zbor care se aplică atunci când condițiile meteo permit zborul la vedere.",
+     "short": "",
      "long": "Condițiile meteo permit zborul VFR, dar VFR nu se definește prin condiția meteo permisă. Se definește ca regula de zbor la vedere.",
      "warn": ""
     },
@@ -1393,7 +1393,7 @@
     {
      "text": "nu are importanţă",
      "correct": false,
-     "short": "Nu are importanță.",
+     "short": "",
      "long": "Regulile au importanță, iar motoparapanta are reguli VFR.",
      "warn": ""
     },
@@ -1415,28 +1415,28 @@
     {
      "text": "vă continuați zborul normal încât nu aveți nevoie de speed bar",
      "correct": false,
-     "short": "Vă continuați zborul normal, încât nu aveți nevoie de speed bar.",
+     "short": "",
      "long": "Speed bar-ul nu poate fi ignorat, dacă este deconectat de pe o parte; aripa se comportă diferit.",
      "warn": ""
     },
     {
      "text": "în cazul în care nu puteți ateriza imediat puneți comenzile în capse/ magneți și căutați să asigurați/ conectați cârligul deconectat încât acesta poate ajunge la elice și poate provoca daune",
      "correct": true,
-     "short": "În cazul în care nu puteți ateriza imediat, puneți comenzile în capse/magneți și căutați să asigurați/conectați cârligul deconectat, încât acesta poate ajunge la elice și poate provoca daune.",
+     "short": "",
      "long": "Corect. Dacă nu se poate ateriza imediat, pilotul pune comenzile în poziție neutră și caută un loc de aterizare.",
      "warn": ""
     },
     {
      "text": "folosiți speed bar-ul normal încât acesta este conectat doar pe o parte a aripii",
      "correct": false,
-     "short": "Folosiți speed bar-ul normal, încât acesta este conectat doar pe o parte a aripii.",
+     "short": "",
      "long": "Speed bar-ul conectat pe o parte a aripii creează dezechilibru, nu este normal.",
      "warn": ""
     },
     {
      "text": "deconectați și celălalt cârlig încât nu este normal să vă conectați zborul în aceste condiții",
      "correct": false,
-     "short": "Deconectați și celălalt cârlig, încât nu este normal să vă conectați zborul în aceste condiții.",
+     "short": "",
      "long": "Deconectarea celuilalt cârlig nu rezolvă problema și nu este procedura.",
      "warn": ""
     }
@@ -1451,7 +1451,7 @@
     {
      "text": "rămâne neschimbată",
      "correct": false,
-     "short": "Va rămâne neschimbată.",
+     "short": "",
      "long": "Viteza de stall reală crește cu altitudinea, deci nu rămâne neschimbată.",
      "warn": ""
     },
@@ -1472,7 +1472,7 @@
     {
      "text": "scădea",
      "correct": false,
-     "short": "Va scădea.",
+     "short": "",
      "long": "Viteza reală de stall nu scade cu altitudinea.",
      "warn": ""
     }
@@ -1501,7 +1501,7 @@
     {
      "text": "trimmul nu are nicio influență asupra stabilității",
      "correct": false,
-     "short": "Trimul nu are nicio influență asupra stabilității.",
+     "short": "",
      "long": "Trimmerele influențează stabilitatea, deci afirmația este greșită.",
      "warn": ""
     },
@@ -1530,14 +1530,14 @@
     {
      "text": "viteza faţă de sol",
      "correct": false,
-     "short": "Viteza față de sol.",
+     "short": "",
      "long": "Viteza față de sol este indicată de GPS, nu de variometru.",
      "warn": ""
     },
     {
      "text": "variaţiile de viteza ale vântului",
      "correct": false,
-     "short": "Variațiile de viteză ale vântului.",
+     "short": "",
      "long": "Variațiile vântului nu sunt măsurate de variometru.",
      "warn": ""
     },
@@ -1674,14 +1674,14 @@
     {
      "text": "trebuie să acceleram mai putin motorul în decolare",
      "correct": false,
-     "short": "Trebuie să accelerăm mai puțin motorul în decolare.",
+     "short": "",
      "long": "Trebuie să alergăm mai tare, nu mai puțin.",
      "warn": ""
     },
     {
      "text": "trebuie sa alergăm cu viteză constantă pentru a decola",
      "correct": false,
-     "short": "Trebuie să alergăm cu viteză constantă pentru a decola.",
+     "short": "",
      "long": "Viteza constantă nu asigură portanța necesară când densitatea scade.",
      "warn": ""
     },
@@ -1703,28 +1703,28 @@
     {
      "text": "cresteti puterea motorului",
      "correct": true,
-     "short": "Creșteți puterea motorului.",
+     "short": "",
      "long": "Corect. Se crește puterea motorului pentru a compensa scăderea portanței verticale.",
      "warn": ""
     },
     {
      "text": "deschideti trimurile",
      "correct": false,
-     "short": "Deschideți trimurile.",
+     "short": "",
      "long": "Trimmerele nu compensează singure scăderea portanței verticale.",
      "warn": ""
     },
     {
      "text": "deschideti trimurile si mentineti puterea constanta",
      "correct": false,
-     "short": "Deschideți trimurile și mențineți puterea constantă.",
+     "short": "",
      "long": "Trimmerele deschise nu sunt suficiente. Puterea trebuie crescută.",
      "warn": ""
     },
     {
      "text": "nu e nevoie sa măriţi puterea motorului",
      "correct": false,
-     "short": "Nu e nevoie să măriți puterea motorului.",
+     "short": "",
      "long": "Puterea trebuie crescută pentru a menține altitudinea în viraj.",
      "warn": ""
     }
@@ -1782,7 +1782,7 @@
     {
      "text": "alterează capacitatea de susținere a aripii în curenți de aer ascendenți",
      "correct": false,
-     "short": "Alterează capacitatea de susținere a aripii în curenți ascendenți.",
+     "short": "",
      "long": "Capacitatea de susținere a aripii în curenți nu este efectul principal al umidității.",
      "warn": ""
     },
@@ -1883,7 +1883,7 @@
     {
      "text": "da, punctul de acroșare trebuie reglat pentru greutate specifică a pilotului deoarece influențează în mod direct unghiul elicei față de vântul relativ",
      "correct": true,
-     "short": "Da, punctul de acroșare trebuie reglat pentru greutatea specifică a pilotului, deoarece influențează în mod direct unghiul elicei față de vântul relativ.",
+     "short": "",
      "long": "Corect. Punctul de acroșare influențează comportamentul și trebuie reglat pentru greutatea pilotului.",
      "warn": ""
     },
@@ -1904,7 +1904,7 @@
     {
      "text": "da, deoarece poate scădea confortul pilotului în timpul decolării/ aterizării",
      "correct": false,
-     "short": "Da, deoarece poate scădea confortul pilotului în timpul decolării/aterizării.",
+     "short": "",
      "long": "Confortul nu este motivul principal al reglajului punctului de acroșare.",
      "warn": ""
     }
@@ -1919,7 +1919,7 @@
     {
      "text": "la nivelul obişnuit",
      "correct": false,
-     "short": "La nivelul obișnuit.",
+     "short": "",
      "long": "Puterea nu rămâne la nivelul obișnuit la temperatură ridicată.",
      "warn": ""
     },
@@ -2048,7 +2048,7 @@
     {
      "text": "nu exista o poziția corectă, depinde de mulți factori",
      "correct": false,
-     "short": "Nu există o poziție corectă, depinde de mulți factori.",
+     "short": "",
      "long": "Există o poziție corectă, cea recomandată de constructor.",
      "warn": ""
     }
@@ -2070,7 +2070,7 @@
     {
      "text": "încheiați activitatea de zbor și efectuați înlocuirea supantelor",
      "correct": true,
-     "short": "Încheiați activitatea de zbor și efectuați înlocuirea suspantelor.",
+     "short": "",
      "long": "Corect. Zborul se încheie și suspantele se înlocuiesc.",
      "warn": ""
     },
@@ -2084,7 +2084,7 @@
     {
      "text": "decolați încât rezistența acestora nu a fost afectată",
      "correct": false,
-     "short": "Decolați, încât rezistența acestora nu a fost afectată.",
+     "short": "",
      "long": "Decolarea cu suspante deteriorate este periculoasă.",
      "warn": ""
     }
@@ -2149,14 +2149,14 @@
     {
      "text": "temperatura ridicată nu modifica performanța zborului",
      "correct": false,
-     "short": "Temperatura ridicată nu modifică performanța zborului.",
+     "short": "",
      "long": "Temperatura influențează performanțele, deci afirmația este greșită.",
      "warn": ""
     },
     {
      "text": "creșterea temperaturii ne ajută să decolam mai repede",
      "correct": false,
-     "short": "Creșterea temperaturii ne ajută să decolăm mai repede.",
+     "short": "",
      "long": "Temperatura ridicată nu ajută la decolare. Aerul rarefiat face decolarea mai grea.",
      "warn": ""
     }
@@ -2171,7 +2171,7 @@
     {
      "text": "timpul de urcare se măreşte",
      "correct": false,
-     "short": "Timpul de urcare se mărește.",
+     "short": "",
      "long": "Timpul de urcare nu crește cu vântul de coadă, deoarece depinde de viteza de urcare față de aer.",
      "warn": ""
     },
@@ -2185,7 +2185,7 @@
     {
      "text": "timpul de urcare se micşorează",
      "correct": false,
-     "short": "Timpul de urcare se micșorează.",
+     "short": "",
      "long": "Timpul de urcare nu scade cu vântul de coadă, deoarece depinde de viteza de urcare față de aer.",
      "warn": ""
     },
@@ -2408,7 +2408,7 @@
     {
      "text": "nu se modifică deoarece aeronava se află în limitele de greutate admise",
      "correct": false,
-     "short": "Nu se modifică, deoarece aeronava se află în limitele de greutate admise.",
+     "short": "",
      "long": "Greutatea apropiată de maxim influențează distanța, chiar dacă este admisă.",
      "warn": ""
     }
@@ -2423,28 +2423,28 @@
     {
      "text": "dacă la sol nu apar vibrații nedorite decolați fără probleme",
      "correct": false,
-     "short": "Dacă la sol nu apar vibrații nedorite, decolați fără probleme.",
+     "short": "",
      "long": "Absența vibrațiilor la sol nu garantează că fisura nu se extinde în zbor.",
      "warn": ""
     },
     {
      "text": "decolați încât vârful elicei nu e foarte solicitat în zbor",
      "correct": false,
-     "short": "Decolați, încât vârful elicei nu e foarte solicitat în zbor.",
+     "short": "",
      "long": "Solicitarea în zbor a vârfului elicei este mare, deci fisura se poate extinde.",
      "warn": ""
     },
     {
      "text": "anulați zborul și reparați/înlocuii elicea",
      "correct": true,
-     "short": "Anulați zborul și reparați/înlocuiți elicea.",
+     "short": "",
      "long": "Corect. Zborul se anulează și elicea se repară sau se înlocuiește.",
      "warn": ""
     },
     {
      "text": "dacă aveți puțin lipici încercați reparația elicei și decolati",
      "correct": false,
-     "short": "Dacă aveți puțin lipici, încercați reparația elicei și decolați.",
+     "short": "",
      "long": "Lipiciul nu repară elicea pentru zbor. Elicea cu fisură se înlocuiește.",
      "warn": ""
     }
@@ -2855,28 +2855,28 @@
     {
      "text": "răsăritul soarelui până la apus orele fiind luate din AIP după ora Bucureşti",
      "correct": false,
-     "short": "Răsăritul soarelui până la apus, orele fiind luate din AIP după ora Bucureștiului.",
+     "short": "",
      "long": "Ora Bucureștiului nu este referința. Se folosește ora aerodromului.",
      "warn": ""
     },
     {
      "text": "răsăritul soarelui până la apus luate din AIP după ora aerodromului unde vă desfăşuraţi activitatea de zbor",
      "correct": true,
-     "short": "Răsăritul soarelui până la apus, luate din AIP după ora aerodromului unde vă desfășurați activitatea de zbor.",
+     "short": "",
      "long": "Corect. Răsăritul și apusul din AIP, cu ora aerodromului.",
      "warn": ""
     },
     {
      "text": "30 min după răsărit până la 30 min înainte de apus după ora Bucureşti",
      "correct": false,
-     "short": "30 min după răsărit până la 30 min înainte de apus, după ora Bucureștiului.",
+     "short": "",
      "long": "Perioada de 30 de minute nu este regula. Se folosesc orele din AIP.",
      "warn": ""
     },
     {
      "text": "răsăritul soarelui până la apus luate din AIP după ora dată de GPS",
      "correct": false,
-     "short": "Răsăritul soarelui până la apus, luate din AIP după ora dată de GPS.",
+     "short": "",
      "long": "Ora dată de GPS nu este referința. Se folosește ora locală a aerodromului.",
      "warn": ""
     }
@@ -2963,14 +2963,14 @@
     {
      "text": "ca să reducem viteza la sol şi astfel să reducem distanta de decolare",
      "correct": true,
-     "short": "Ca să reducem viteza la sol și astfel să reducem distanța de decolare.",
+     "short": "",
      "long": "Corect. Viteza la sol mai mică reduce distanța de decolare.",
      "warn": ""
     },
     {
      "text": "ca să reducem viteza indicată şi astfel să reducem distanţa de decolare",
      "correct": false,
-     "short": "Ca să reducem viteza indicată și astfel să reducem distanța de decolare.",
+     "short": "",
      "long": "Viteza indicată nu se reduce cu vântul de față. Se reduce viteza la sol.",
      "warn": ""
     },
@@ -2999,28 +2999,28 @@
     {
      "text": "unghiul de planare va rămâne la fel şi distanţa de planare la fel",
      "correct": false,
-     "short": "Unghiul de planare va rămâne la fel și distanța de planare la fel.",
+     "short": "",
      "long": "Unghiul și distanța de planare se modifică cu vântul.",
      "warn": ""
     },
     {
      "text": "unghiul de planare va creşte şi distanţa de planare va creşte",
      "correct": false,
-     "short": "Unghiul de planare va crește și distanța de planare va crește.",
+     "short": "",
      "long": "Distanța de planare nu crește cu vântul de față. Scade.",
      "warn": ""
     },
     {
      "text": "unghiul de planare va scădea şi distanţa de planare va descreşte",
      "correct": false,
-     "short": "Unghiul de planare va scădea și distanța de planare va descrește.",
+     "short": "",
      "long": "Unghiul de planare nu scade cu vântul de față. Crește.",
      "warn": ""
     },
     {
      "text": "unghiul de planare va creşte şi distanţa de planare va descreşte",
      "correct": true,
-     "short": "Unghiul de planare va crește și distanța de planare va descrește.",
+     "short": "",
      "long": "Corect. Unghiul crește, distanța scade.",
      "warn": ""
     }
@@ -3078,21 +3078,21 @@
     {
      "text": "vântul de faţă măreşte distanţa",
      "correct": false,
-     "short": "Vântul de față mărește distanța.",
+     "short": "",
      "long": "Vântul de față nu mărește distanța, ci o reduce.",
      "warn": ""
     },
     {
      "text": "vântul de spate reduce distanţa",
      "correct": false,
-     "short": "Vântul de spate reduce distanța.",
+     "short": "",
      "long": "Vântul de spate nu reduce distanța, ci o mărește.",
      "warn": ""
     },
     {
      "text": "vântul de faţă reduce distanţa",
      "correct": true,
-     "short": "Vântul de față reduce distanța.",
+     "short": "",
      "long": "Corect. Vântul de față reduce distanța de aterizare.",
      "warn": ""
     }
@@ -3157,14 +3157,14 @@
     {
      "text": "modifică unghiul de incidenţă",
      "correct": true,
-     "short": "Modifică unghiul de incidență.",
+     "short": "",
      "long": "Corect. Speed system-ul modifică unghiul de incidență.",
      "warn": ""
     },
     {
      "text": "creste stabilitatea aripii",
      "correct": false,
-     "short": "Crește stabilitatea aripii.",
+     "short": "",
      "long": "Speed system-ul scade stabilitatea, nu o crește.",
      "warn": ""
     }
@@ -3215,28 +3215,28 @@
     {
      "text": "paralelă cu direcţia de zbor",
      "correct": false,
-     "short": "Paralelă cu direcția de zbor.",
+     "short": "",
      "long": "Forța paralelă cu zborul este rezistența, nu portanța.",
      "warn": ""
     },
     {
      "text": "de acelaşi sens cu direcţia de zbor",
      "correct": false,
-     "short": "De același sens cu direcția de zbor.",
+     "short": "",
      "long": "Forța de același sens cu zborul este tracțiunea motorului, nu portanța.",
      "warn": ""
     },
     {
      "text": "opusa directiei de zbor",
      "correct": false,
-     "short": "Opusă direcției de zbor.",
+     "short": "",
      "long": "Forța opusă zborului este rezistența, nu portanța.",
      "warn": ""
     },
     {
      "text": "perpendiculară pe direcţia de zbor",
      "correct": true,
-     "short": "Perpendiculară pe direcția de zbor.",
+     "short": "",
      "long": "Corect. Portanța este perpendiculară pe direcția de zbor.",
      "warn": ""
     }
@@ -3294,7 +3294,7 @@
     {
      "text": "în manualul de exploatare şi întreţinere (documentaţia tehnică a aeronavei)",
      "correct": true,
-     "short": "În manualul de exploatare și întreținere (documentația tehnică a aeronavei).",
+     "short": "",
      "long": "Corect. Manualul de exploatare și întreținere conține limitările.",
      "warn": ""
     },
@@ -3308,7 +3308,7 @@
     {
      "text": "pe site-ul Aeroclubului Romaniei",
      "correct": false,
-     "short": "Pe site-ul Aeroclubului României.",
+     "short": "",
      "long": "Site-ul Aeroclubului nu este sursa tehnică a limitărilor aeronavei.",
      "warn": ""
     }
@@ -3402,21 +3402,21 @@
     {
      "text": "aterizează de urgenţă pe cel mai apropiat teren",
      "correct": false,
-     "short": "Aterizează de urgență pe cel mai apropiat teren.",
+     "short": "",
      "long": "Aterizarea de urgență nu este necesară dacă se poate ajunge la un aerodrom.",
      "warn": ""
     },
     {
      "text": "continua zborul până la cel mai apropiat aerodrom şi după aterizare informează telefonic organul de trafic",
      "correct": true,
-     "short": "Continuă zborul până la cel mai apropiat aerodrom și după aterizare informează telefonic organul de trafic.",
+     "short": "",
      "long": "Corect în esență: continuă zborul spre cel mai apropiat aerodrom și informează după aterizare.",
      "warn": ""
     },
     {
      "text": "se întoarce de urgenţă la aerodromul de plecare",
      "correct": false,
-     "short": "Se întoarce de urgență la aerodromul de plecare.",
+     "short": "",
      "long": "Întoarcerea la plecare nu este procedura standard, dacă se poate ajunge la aerodromul cel mai apropiat.",
      "warn": ""
     }

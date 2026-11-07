@@ -32,7 +32,7 @@
     {
      "text": "ochei imbus, șurubelnițe, cheie pentru bujii, cuțit mic, clește mic, set de chei tubulare",
      "correct": true,
-     "short": "Chei imbus, șurubelnițe, cheie pentru bujii, cuțit mic, clește mic, set de chei tubulare.",
+     "short": "",
      "long": "Corect. Imbusurile, șurubelnițele, cheia pentru bujii și cheile permit reparația de bază în teren.",
      "warn": ""
     }
@@ -54,14 +54,14 @@
     {
      "text": "amestecul apă/antigel care se folosește la motoarele răcite cu lichid",
      "correct": false,
-     "short": "Amestecul apă/antigel folosit la motoarele răcite cu lichid.",
+     "short": "",
      "long": "Amestecul apă–antigel este lichidul de răcire, nu carburantul.",
      "warn": ""
     },
     {
      "text": "amestecul de aer/vapori de benzină care se aprinde în camera de ardere",
      "correct": true,
-     "short": "Amestecul de aer și vapori de benzină care se aprinde în camera de ardere.",
+     "short": "",
      "long": "Corect. Amestecul carburant este aerul cu vapori de benzină care se aprinde în camera de ardere.",
      "warn": ""
     },
@@ -241,14 +241,14 @@
     {
      "text": "amestecul ulei/ aer din carter",
      "correct": false,
-     "short": "Amestecul ulei/aer din carter.",
+     "short": "",
      "long": "Amestecul ulei–aer din carter nu este carburantul motorului.",
      "warn": ""
     },
     {
      "text": "amestecul ulei/benzină care se foloseşte drept carburant la motoarele în doi timpi",
      "correct": false,
-     "short": "Amestecul ulei/benzină folosit drept carburant la motoarele în doi timpi.",
+     "short": "",
      "long": "Amestecul ulei–benzină este amestecul de ungere pentru doi timpi, nu carburantul în sensul motorului.",
      "warn": ""
     }
@@ -320,7 +320,7 @@
     {
      "text": "înlocuiește toate suspentele și materialul aripii",
      "correct": false,
-     "short": "Înlocuiește toate suspantele și materialul aripii.",
+     "short": "",
      "long": "Înlocuirea tuturor suspantelor și a aripii nu este necesară după o imersiune. Clătirea este pasul corect.",
      "warn": ""
     }
@@ -335,7 +335,7 @@
     {
      "text": "pe spate, echipat cel putin cu cască",
      "correct": true,
-     "short": "Pe spate, echipat cel puțin cu cască.",
+     "short": "",
      "long": "Corect. Pornirea culcat pe spate, cu cască, este poziția recomandată.",
      "warn": ""
     },
@@ -349,7 +349,7 @@
     {
      "text": "cu putin combustibil",
      "correct": false,
-     "short": "Cu puțin combustibil.",
+     "short": "",
      "long": "Combustibilul redus nu este condiția de siguranță. Motorul pornește corect cu cantitatea normală.",
      "warn": ""
     },
@@ -443,7 +443,7 @@
     {
      "text": "forţat cu lichid",
      "correct": false,
-     "short": "Forțat cu lichid.",
+     "short": "",
      "long": "Răcirea forțată cu lichid nu este singura variantă. Există și răcirea cu aer.",
      "warn": ""
     },
@@ -479,7 +479,7 @@
     {
      "text": "aceste lucrări nu se consemnează deoarece fac parte din categoria verificărilor de rutină",
      "correct": false,
-     "short": "Aceste lucrări nu se consemnează, deoarece fac parte din verificările de rutină.",
+     "short": "",
      "long": "Lucrările periodice se consemnează. Nu sunt simple verificări de rutină.",
      "warn": ""
     },
@@ -500,7 +500,7 @@
     {
      "text": "fişa de navigaţie",
      "correct": false,
-     "short": "Fișa de navigație.",
+     "short": "",
      "long": "Fișa de navigație nu este documentul lucrărilor de întreținere.",
      "warn": ""
     }
@@ -630,21 +630,21 @@
     {
      "text": "temeinică – nu se omite niciun lucru",
      "correct": false,
-     "short": "Temeinică, nu se omite niciun lucru.",
+     "short": "",
      "long": "Temeinicia este o caracteristică corectă, dar nu singura.",
      "warn": ""
     },
     {
      "text": "neintreruptă – dacă se întrerupe se reia în totalitate",
      "correct": false,
-     "short": "Neîntreruptă, dacă se întrerupe se reia în totalitate.",
+     "short": "",
      "long": "Neîntreruperea este o caracteristică corectă, dar nu singura.",
      "warn": ""
     },
     {
      "text": "consistentă – se începe din același loc și în același fel de fiecare dată",
      "correct": false,
-     "short": "Consistentă, se începe din același loc și în același fel de fiecare dată.",
+     "short": "",
      "long": "Consistența este o caracteristică corectă, dar nu singura.",
      "warn": ""
     }
@@ -673,7 +673,7 @@
     {
      "text": "pentru a asigura un control optim și a evita frînarea neintenționată",
      "correct": true,
-     "short": "Pentru a asigura un control optim și a evita frânarea neintenționată.",
+     "short": "",
      "long": "Corect. Reglajul corect dă control și evită frânarea neintenționată.",
      "warn": ""
     },
@@ -695,7 +695,7 @@
     {
      "text": "să fie cât mai rapidă posibil pentru a-i depăși pe cei cu care zburăm",
      "correct": false,
-     "short": "Să fie cât mai rapidă posibil, pentru a-i depăși pe cei cu care zburăm.",
+     "short": "",
      "long": "Viteza mare nu este criteriul de alegere pentru siguranță. Ea nu trebuie aleasă ca să-i depășești pe alții.",
      "warn": ""
     },
@@ -716,7 +716,7 @@
     {
      "text": "clasa de omologare trebuie sa fie conformă cu nivelul de experienţă şi frecvenţa utilizării",
      "correct": true,
-     "short": "Clasa de omologare trebuie să fie conformă cu nivelul de experiență și frecvența utilizării.",
+     "short": "",
      "long": "Corect. Clasa de omologare trebuie să corespundă experienței și frecvenței zborului.",
      "warn": ""
     }
@@ -745,7 +745,7 @@
     {
      "text": "crește viteza de zbor cînd este închis",
      "correct": false,
-     "short": "Crește viteza de zbor când este închis.",
+     "short": "",
      "long": "Trimmerele închise scad viteza. Deschise cresc viteza.",
      "warn": ""
     },
@@ -839,7 +839,7 @@
     {
      "text": "verificarea carabinerelor, elicei, motorului și sistemului de combustibil",
      "correct": true,
-     "short": "Verificarea carabinierelor, elicei, motorului și sistemului de combustibil.",
+     "short": "",
      "long": "Corect. Inspecția preflight cuprinde carabinierele, elicea, motorul și sistemul de combustibil.",
      "warn": ""
     },
@@ -1134,7 +1134,7 @@
     {
      "text": "dificultatea de a menține direcția în condiții de vânt puternic",
      "correct": false,
-     "short": "Dificultatea de a menține direcția în vânt puternic.",
+     "short": "",
      "long": "Direcția în vânt puternic nu este dezavantajul specific al aripii reflex.",
      "warn": ""
     },
@@ -1307,28 +1307,28 @@
     {
      "text": "presiune mărita pe bordul de atac şi depresiune pe bordul de fugă",
      "correct": false,
-     "short": "Presiune mărită pe bordul de atac și depresiune pe bordul de fugă.",
+     "short": "",
      "long": "Presiunea mare pe bordul de atac și depresiunea pe bordul de fugă nu explică portanța. Depresiunea este pe extrados.",
      "warn": ""
     },
     {
      "text": "vacuum dedesubtul aripii şi presiune mărită pe extrados",
      "correct": false,
-     "short": "Vacuum dedesubtul aripii și presiune mărită pe extrados.",
+     "short": "",
      "long": "Presiunea mărită pe extrados este inversă: pe extrados se formează depresiune.",
      "warn": ""
     },
     {
      "text": "presiune pe intrados şi depresiune pe extrados",
      "correct": true,
-     "short": "Presiune pe intrados și depresiune pe extrados.",
+     "short": "",
      "long": "Corect. Presiunea pe intrados și depresiunea pe extrados produc portanța.",
      "warn": ""
     },
     {
      "text": "depresiune pe intrados şi presiune pe extrados",
      "correct": false,
-     "short": "Depresiune pe intrados și presiune pe extrados.",
+     "short": "",
      "long": "Depresiunea pe intrados și presiunea pe extrados sunt inversate.",
      "warn": ""
     }
@@ -1343,28 +1343,28 @@
     {
      "text": "are drept consecinţă doar diminuarea performanţelor aparatului",
      "correct": false,
-     "short": "Are drept consecință doar diminuarea performanțelor aparatului.",
+     "short": "",
      "long": "Consecința nu se limitează la scăderea performanțelor. Limitele structurale pot fi depășite.",
      "warn": ""
     },
     {
      "text": "este interzisă întrucât atrage depăşirea rezistenţei structurale",
      "correct": true,
-     "short": "Este interzisă, întrucât atrage depășirea rezistenței structurale.",
+     "short": "",
      "long": "Corect. Depășirea MTOM este interzisă, deoarece depășește rezistența structurală.",
      "warn": ""
     },
     {
      "text": "este recomandată pentru că vom avea vitează mai mare",
      "correct": false,
-     "short": "Este recomandată, pentru că vom avea viteză mai mare.",
+     "short": "",
      "long": "Depășirea masei nu este recomandată. Viteza mai mare nu compensează riscul structural.",
      "warn": ""
     },
     {
      "text": "nu are consecinţe",
      "correct": false,
-     "short": "Nu are consecințe.",
+     "short": "",
      "long": "Depășirea masei are consecințe, inclusiv structurale.",
      "warn": ""
     }
@@ -1379,14 +1379,14 @@
     {
      "text": "colțul stâng coboară şi cel drept rămâne orizontal",
      "correct": false,
-     "short": "Colțul stâng coboară și cel drept rămâne orizontal.",
+     "short": "",
      "long": "Dacă colțul drept rămâne orizontal, nu există înclinare corectă a aripii.",
      "warn": ""
     },
     {
      "text": "colțul stâng se ridică şi cel drept coboară",
      "correct": false,
-     "short": "Colțul stâng se ridică și cel drept coboară.",
+     "short": "",
      "long": "Dacă stânga se ridică, înclinarea este spre dreapta.",
      "warn": ""
     },
@@ -1400,7 +1400,7 @@
     {
      "text": "colțul stâng coboară şi cel drept se ridică",
      "correct": true,
-     "short": "Colțul stâng coboară și cel drept se ridică.",
+     "short": "",
      "long": "Corect. La înclinarea spre stânga, colțul stâng coboară, iar cel drept se ridică.",
      "warn": ""
     }
@@ -1415,28 +1415,28 @@
     {
      "text": "trebuie să ţineţi cont de recomandările constructorului, specifice fiecărui tip de motor",
      "correct": true,
-     "short": "Trebuie să țineți cont de recomandările constructorului, specifice fiecărui tip de motor.",
+     "short": "",
      "long": "Corect. Recomandările constructorului sunt cele care se urmează.",
      "warn": ""
     },
     {
      "text": "pe perioada de rodare trebuie să utilizaţi doar ulei mineral din surse cunoscute",
      "correct": false,
-     "short": "Pe perioada de rodare trebuie să utilizați doar ulei mineral din surse cunoscute.",
+     "short": "",
      "long": "Ulei mineral din surse cunoscute nu este regula. Se folosește uleiul recomandat de constructor.",
      "warn": ""
     },
     {
      "text": "nu trebuie să depăşiţi 75% din regimul maxim în primele 100 de ore de funcționare",
      "correct": false,
-     "short": "Nu trebuie să depășiți 75% din regimul maxim în primele 100 de ore.",
+     "short": "",
      "long": "Limita de 75% nu este regula generală. Rodajul depinde de constructor.",
      "warn": ""
     },
     {
      "text": "la motoarele actuale nu necesită precauţii speciale",
      "correct": false,
-     "short": "La motoarele actuale nu necesită precauții speciale.",
+     "short": "",
      "long": "Motoarele noi au nevoie de rodaj conform constructorului. Nu este adevărat că nu sunt necesare precauții.",
      "warn": ""
     }
@@ -1523,28 +1523,28 @@
     {
      "text": "trebuie să ţinem cont de câteva elemente de ordin subiectiv: calitate şi finisaje, confort în zbor, locul în care va fi utilizat, tipul de utilizare",
      "correct": false,
-     "short": "Trebuie să ținem cont de elemente subiective: calitate, finisaje, confort, locul și tipul de utilizare.",
+     "short": "",
      "long": "Elementele subiective nu sunt criteriul principal. Criteriul principal este nivelul de pilotare și siguranța.",
      "warn": ""
     },
     {
      "text": "ţinem cont de nivelul de pilotare",
      "correct": true,
-     "short": "Ținem cont de nivelul de pilotare.",
+     "short": "",
      "long": "Corect. Nivelul de pilotare este criteriul principal de alegere.",
      "warn": ""
     },
     {
      "text": "ţinem cont de diametrul elicei",
      "correct": false,
-     "short": "Ținem cont de diametrul elicei.",
+     "short": "",
      "long": "Diametrul elicei nu este criteriul principal de alegere a paramotorului.",
      "warn": ""
     },
     {
      "text": "ţinem cont de puterea motorului raportat la greutatea lui",
      "correct": false,
-     "short": "Ținem cont de puterea motorului raportată la greutatea lui.",
+     "short": "",
      "long": "Raportul putere/greutate este un element, dar criteriul principal este nivelul de pilotare.",
      "warn": ""
     }
@@ -1631,7 +1631,7 @@
     {
      "text": "fixarea fermă a capacului rezervorului și a rezervorului pe cadru",
      "correct": false,
-     "short": "Fixarea fermă a capacului și a rezervorului pe cadru.",
+     "short": "",
      "long": "Fixarea este o verificare corectă, dar nu singura.",
      "warn": ""
     },
@@ -1710,7 +1710,7 @@
     {
      "text": "fixarea aripii prin buclele de suspensie la seleta",
      "correct": true,
-     "short": "Fixarea aripii prin buclele de suspensie la seletă.",
+     "short": "",
      "long": "Corect. Atașarea carabinierelor fixează suspantele (prin buclele lor) de seletă.",
      "warn": ""
     },
@@ -1825,7 +1825,7 @@
     {
      "text": "efectuează un test de rezistență a materialului și verifică porozitatea acestuia, verifică lungimea suspantelor",
      "correct": true,
-     "short": "Efectuează un test de rezistență a materialului, verifică porozitatea și lungimea suspantelor.",
+     "short": "",
      "long": "Corect. Testul de rezistență, porozitatea și lungimea suspantelor sunt verificările periodice.",
      "warn": ""
     },
@@ -1890,7 +1890,7 @@
     {
      "text": "întinde aripa și las-o să se usuce într-o zonă deschisă, de preferat la umbră",
      "correct": true,
-     "short": "Întinde aripa și lasă-o să se usuce într-o zonă deschisă, de preferat la umbră.",
+     "short": "",
      "long": "Corect. Aripa se întinde și se usucă la umbră, în zonă deschisă.",
      "warn": ""
     },
@@ -1919,7 +1919,7 @@
     {
      "text": "viteza pe orizontala",
      "correct": false,
-     "short": "Viteza pe orizontală.",
+     "short": "",
      "long": "Viteza pe orizontală este indicată de vitezometru, nu de variometru.",
      "warn": ""
     },
@@ -1976,7 +1976,7 @@
     {
      "text": "partea din faţă a aripii",
      "correct": false,
-     "short": "Partea din față a aripii.",
+     "short": "",
      "long": "Partea din față este bordul de atac, nu extradosul.",
      "warn": ""
     }
@@ -2149,7 +2149,7 @@
     {
      "text": "extrados pe treimea anterioară, măsurând de la bordul de atac",
      "correct": true,
-     "short": "Extradosul pe treimea anterioară, măsurând de la bordul de atac.",
+     "short": "",
      "long": "Corect. Uzura maximă este pe extrados, în treimea anterioară.",
      "warn": ""
     },
@@ -2178,21 +2178,21 @@
     {
      "text": "este interzisă întrucât atrage depăşirea rezistenţei structurale",
      "correct": true,
-     "short": "Este interzisă întrucât atrage depășirea rezistenței structurale.",
+     "short": "",
      "long": "Corect. Depășirea MTOM este interzisă, deoarece depășește rezistența structurală.",
      "warn": ""
     },
     {
      "text": "are drept consecinţă doar diminuarea performanţelor aparatului",
      "correct": false,
-     "short": "Are drept consecință doar diminuarea performanțelor aparatului.",
+     "short": "",
      "long": "Consecința nu se limitează la performanțe. Structura este solicitată peste limită.",
      "warn": ""
     },
     {
      "text": "nu are consecinţe",
      "correct": false,
-     "short": "Nu are consecințe.",
+     "short": "",
      "long": "Depășirea masei are consecințe.",
      "warn": ""
     }
@@ -2300,7 +2300,7 @@
     {
      "text": "tendinţa aeronavei de a se înclina în partea mişcării de rotaţie a elicei",
      "correct": false,
-     "short": "Tendința aeronavei de a se înclina în partea mișcării de rotație a elicei.",
+     "short": "",
      "long": "Înclinarea în sensul rotației este opusul efectului de cuplu.",
      "warn": ""
     }
@@ -2444,7 +2444,7 @@
     {
      "text": "suspantele trebuie să fie conectate, fără îndoituri și fără rupturi sau stres evident",
      "correct": true,
-     "short": "Suspantele trebuie să fie conectate, fără îndoituri, rupturi sau stres evident.",
+     "short": "",
      "long": "Corect. Suspantele conectate, fără îndoituri și fără rupturi sunt verificarea aripii.",
      "warn": ""
     }
@@ -2531,7 +2531,7 @@
     {
      "text": "în rezervor să se afle cel putin 5 litri de combustibil",
      "correct": false,
-     "short": "În rezervor să se afle cel puțin 5 litri de combustibil.",
+     "short": "",
      "long": "Un prag fix de 5 litri nu este verificarea de siguranță. Verificarea este revenirea manetei la relanti.",
      "warn": ""
     },
@@ -2545,7 +2545,7 @@
     {
      "text": "legătura manetei de accelerație cu comanda carburatorului să permita revenirea la poziția de relanti",
      "correct": true,
-     "short": "Legătura manetei de accelerație cu comanda carburatorului să permită revenirea la poziția de relanti.",
+     "short": "",
      "long": "Corect. Revenirea manetei la relanti previne pornirea la turație mare.",
      "warn": ""
     },
@@ -2603,14 +2603,14 @@
     {
      "text": "partea din faţă a celulei",
      "correct": false,
-     "short": "Partea din față a celulei.",
+     "short": "",
      "long": "Partea din față a celulei nu este definiția bordului de atac. Bordul de atac este al aripii.",
      "warn": ""
     },
     {
      "text": "partea din faţă a aripii",
      "correct": true,
-     "short": "Partea din față a aripii.",
+     "short": "",
      "long": "Corect. Bordul de atac este partea din față a aripii.",
      "warn": ""
     },
@@ -2653,7 +2653,7 @@
     {
      "text": "orice aripă dacă ne-am descurat bine în școală și instructorul ne recomandă",
      "correct": false,
-     "short": "Orice aripă, dacă ne-am descurcat bine în școală și instructorul ne recomandă.",
+     "short": "",
      "long": "Nu orice aripă este potrivită, chiar dacă instructorul recomandă. Clasa trebuie să corespundă nivelului.",
      "warn": ""
     },
@@ -3035,7 +3035,7 @@
     {
      "text": "micşorează turaţia axului elicei fată de turatia motorului",
      "correct": true,
-     "short": "Micșorează turația axului elicei față de turația motorului.",
+     "short": "",
      "long": "Corect. Reductorul micșorează turația axului elicei.",
      "warn": ""
     },
@@ -3049,7 +3049,7 @@
     {
      "text": "măreşte puterea motorului, fără a modifica turaţia ce se transmite elicei",
      "correct": false,
-     "short": "Mărește puterea motorului, fără a modifica turația transmisă elicei.",
+     "short": "",
      "long": "Reductorul nu mărește puterea. Modifică turația transmisă elicei.",
      "warn": ""
     },
@@ -3071,14 +3071,14 @@
     {
      "text": "nu sunt consecinţe notabile",
      "correct": false,
-     "short": "Nu sunt consecințe notabile.",
+     "short": "",
      "long": "Amestecul insuficient are consecințe, mai ales de lubrifiere.",
      "warn": ""
     },
     {
      "text": "creşte consumul de combustibil",
      "correct": false,
-     "short": "Crește consumul de combustibil.",
+     "short": "",
      "long": "Consumul de combustibil nu este consecința principală. Riscul este lubrifierea deficitară.",
      "warn": ""
     },
@@ -3323,7 +3323,7 @@
     {
      "text": "se verifică lungimea suspantelor și adaugă extensii dacă este necesar",
      "correct": false,
-     "short": "Se verifică lungimea suspantelor și se adaugă extensii dacă este necesar.",
+     "short": "",
      "long": "Extensiile nu sunt metoda recomandată.",
      "warn": ""
     },
@@ -3344,7 +3344,7 @@
     {
      "text": "se gonflează aripa, se măsoară liniile de frână și se corectează diferențele de lungime",
      "correct": true,
-     "short": "Se gonflează aripa, se măsoară liniile de frână și se corectează diferențele de lungime.",
+     "short": "",
      "long": "Corect. Aripa se gonflează, liniile de frână se măsoară, iar diferențele de lungime se corectează, astfel încât frânele să acționeze simetric.",
      "warn": ""
     }
@@ -3503,14 +3503,14 @@
     {
      "text": "uzura apare doar in cazul stocării aripii într-o zonă umedă",
      "correct": false,
-     "short": "Uzura apare doar în cazul stocării aripii într-o zonă umedă.",
+     "short": "",
      "long": "Umezeala la depozitare produce deteriorare, dar nu este singura cauză. Vârsta și UV sunt factorii principali.",
      "warn": ""
     },
     {
      "text": "varsta și expunerea la lumina solară",
      "correct": true,
-     "short": "Vârsta și expunerea la lumina solară.",
+     "short": "",
      "long": "Corect. Vârsta și expunerea la UV uzează aripa.",
      "warn": ""
     },
@@ -3589,7 +3589,7 @@
     {
      "text": "nu este folosit decât în cazul motoarelor în 4 timpi",
      "correct": false,
-     "short": "Nu este folosit decât în cazul motoarelor în patru timpi.",
+     "short": "",
      "long": "Ambreiajul nu este folosit doar la motoarele în patru timpi.",
      "warn": ""
     },
@@ -3647,7 +3647,7 @@
     {
      "text": "într-un mediu uscat pentru a preveni umezirea materialului",
      "correct": true,
-     "short": "Într-un mediu uscat, pentru a preveni umezirea materialului.",
+     "short": "",
      "long": "Corect. Mediul uscat protejează țesătura de umezeală.",
      "warn": ""
     },
@@ -3661,14 +3661,14 @@
     {
      "text": "într-un mediu umed pentru a preveni uscarea materialului",
      "correct": false,
-     "short": "Într-un mediu umed, pentru a preveni uscarea materialului.",
+     "short": "",
      "long": "Mediul umed degradează țesătura.",
      "warn": ""
     },
     {
      "text": "într-un loc închis și comprimat pentru a economisi spațiu",
      "correct": false,
-     "short": "Într-un loc închis și comprimat, pentru a economisi spațiu.",
+     "short": "",
      "long": "Comprimarea puternică deteriorează țesătura și celulele.",
      "warn": ""
     }
