@@ -22,7 +22,7 @@ un avertisment (`warn`) și explicația corectă.
 |---|---|---|
 | 01 Comunicații | 101 | nefăcut |
 | 02 Cunoașterea aeronavei / întreținere | 104 | nefăcut |
-| 03 Legislație | 105 | 1–70 făcute (cu excepțiile de mai jos) |
+| 03 Legislație | 105 | 1–105 făcute, cu 4 blocate (20, 58, 90, 105): lipsesc sursele |
 | 04 Meteorologie | 87 | nefăcut |
 | 05 Navigație | 94 | nefăcut |
 | 06 Performanțe de zbor | 101 | nefăcut |
@@ -30,19 +30,23 @@ un avertisment (`warn`) și explicația corectă.
 | 08 Proceduri operaționale | 117 | nefăcut |
 | 09 Principii de zbor | 103 | nefăcut |
 
-### Capitolul 03: rămâne de făcut
+### Capitolul 03: blocat de surse lipsă
 
-- Fără sursă clară încă: 20 (marcaj L), 22 (documente la bord), 26, 40, 41, 46, 47,
-  48, 52, 53, 54, 57, 58, 64, 69.
-- Nerecitite: 71–105.
+- **20** (marcajul L): marcajele de aerodrom (ICAO Anexa 14, volumul I) nu sunt în `docs/`.
+- **90** (cruce dublă albă): același motiv, Anexa 14.
+- **58** (condițiile de autorizare a zborului): partea de asigurare nu apare în
+  documentele din `docs/`. Lipsește textul despre asigurarea aeronavei (Codul aerian
+  sau o normă de asigurare).
+- **105** (eșalonare la turbulența de siaj, 2 minute): RACR-RA menționează turbulența,
+  dar nu dă cifra de eșalonare. Lipsește procedura de trafic (RACR-RA sau un document
+  de exploatare cu eșalonările).
 
 ## Pași
 
 1. [x] Lotul 1 capitol 03 (Q1–10)
 2. [x] Lotul 2 capitol 03 (Q11–33)
 3. [x] Lotul 3 capitol 03 (Q32–70)
-4. [ ] Capitol 03: Q71–105, apoi cele fără sursă (cu citate sau cu explicație
-       care spune ce se știe, fără trimitere la verificare)
+4. [x] Capitol 03: Q71–105 (lotul 4, 5, 6, 7, 8); blocate doar 20, 58, 90, 105
 5. [ ] Capitol 01
 6. [ ] Capitol 02
 7. [ ] Capitol 04
