@@ -141,9 +141,15 @@ body {
   text-transform: uppercase;
 }
 
-.topic:hover,
-.topic.current {
+.topic:hover {
   opacity: 0.85;
+}
+
+/* Capitolul selectat: fundal deschis și text închis, ca să se vadă clar */
+.topic.current {
+  background: var(--accent);
+  color: #0a1014;
+  box-shadow: 0 0 0 2px #ffffff;
 }
 
 .content {

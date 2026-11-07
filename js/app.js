@@ -40,6 +40,7 @@
     chapters.forEach(function (c) {
       var a = el('a', 'topic' + (c.id === activeId ? ' current' : ''), c.title);
       a.href = '#' + c.id;
+        if (c.id === activeId) a.setAttribute('aria-current', 'page');
       nav.appendChild(a);
     });
   }
