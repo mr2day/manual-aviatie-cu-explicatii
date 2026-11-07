@@ -23,6 +23,15 @@ const html = `<!DOCTYPE html>
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand-box" href="index.html">
+        <span class="brand-top">PARAMOTOR</span>
+        <span class="brand-bottom">ARTISAN</span>
+      </a>
+      <p class="brand-tagline">Manual de pregătire pentru examenul teoretic</p>
+    </div>
+  </header>
   <div class="layout">
     <aside class="sidebar">
       <nav class="topics" id="topics"></nav>
