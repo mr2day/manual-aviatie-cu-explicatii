@@ -793,7 +793,7 @@ details.question-more .more-body {
   .menu-toggle {
     display: inline-flex;
     align-items: center;
-    gap: 10px;
+    gap: 0;
     margin: 0 auto;
     padding: 18px 16px;
     border: none;
@@ -815,7 +815,7 @@ details.question-more .more-body {
     background: currentColor;
     border-radius: 2px;
   }
-  .menu-bars { position: relative; }
+  .menu-bars { position: relative; margin-right: 10px; }
   .menu-bars::before, .menu-bars::after { content: ""; position: absolute; left: 0; }
   .menu-bars::before { top: -6px; }
   .menu-bars::after { top: 6px; }
