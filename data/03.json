@@ -1122,34 +1122,34 @@
    "number": "#32",
    "text": "372: AACR este abrevierea pentru…",
    "short": "AACR este Autoritatea Aeronautică Civilă Română.",
-   "long": "AACR este autoritatea care certifică personalul și aeronavele civile în România. Celelalte denumiri nu sunt cele oficiale.",
+   "long": "AACR este Autoritatea Aeronautică Civilă Română, autoritatea de certificare și de reglementare a aviației civile în România (Codul aerian).",
    "answers": [
     {
      "text": "Asociația Aviatorilor Civili din România",
      "correct": false,
      "short": "",
-     "long": "Nu este denumirea oficială.",
+     "long": "Asociația Aviatorilor Civili nu este autoritate și nu are rolul de certificare. AACR este Autoritatea Aeronautică Civilă Română.",
      "warn": ""
     },
     {
      "text": "Academia Aeronautică Civilă Română",
      "correct": false,
      "short": "",
-     "long": "Nu este denumirea oficială.",
+     "long": "Academia Aeronautică Civilă nu este denumirea AACR.",
      "warn": ""
     },
     {
      "text": "Autoritatea Aeronautică Civilă Română",
      "correct": true,
      "short": "",
-     "long": "Este denumirea oficială.",
+     "long": "Corect. AACR este Autoritatea Aeronautică Civilă Română (Codul aerian).",
      "warn": ""
     },
     {
      "text": "Autoritatea Aviatorilor Civili din România",
      "correct": false,
      "short": "",
-     "long": "Nu este denumirea oficială.",
+     "long": "Denumirea „Autoritatea Aviatorilor Civili” nu este cea oficială. AACR este Autoritatea Aeronautică Civilă Română.",
      "warn": ""
     }
    ]
@@ -1200,7 +1200,7 @@
      "text": "să aibă vârsta de 18 ani împliniți",
      "correct": false,
      "short": "18 ani împliniți.",
-     "long": "Nu este vârsta corectă.",
+     "long": "Vârsta de 18 ani nu este cerința pentru licența de ULM. RACR-LPAN ULM.2040 lit. a cere 16 ani împliniți.",
      "warn": ""
     },
     {
@@ -1214,14 +1214,14 @@
      "text": "să aibă vârsta de 21 de ani împliniți",
      "correct": false,
      "short": "21 de ani împliniți.",
-     "long": "Nu este vârsta corectă.",
+     "long": "Vârsta de 21 de ani nu este cerința pentru licența de ULM. Cifra de 21 apare pentru calificarea de instructor, nu pentru licența de bază.",
      "warn": ""
     },
     {
      "text": "să aibă vârsta de 14 ani împliniți",
      "correct": false,
      "short": "14 ani împliniți.",
-     "long": "Nu este vârsta corectă.",
+     "long": "Vârsta de 14 ani nu este cerința pentru licența de ULM. RACR-LPAN ULM.2040 lit. a cere 16 ani împliniți.",
      "warn": ""
     }
    ]
@@ -1230,34 +1230,34 @@
    "number": "#35",
    "text": "328: Care sunt contravențiile specifice zborului cu motoparapanta?",
    "short": "Contravențiile specifice zborului cu motoparapanta sunt toate variantele: neanunțarea zborului, zborul cu aeronavă neînmatriculată și zborul fără licență valabilă.",
-   "long": "Fiecare dintre aceste încălcări este contravenție. Varianta care le cuprinde pe toate este cea corectă.",
+   "long": "Contravențiile din Codul aerian (art. 126) privesc decolarea și aterizarea pe teren neautorizat (lit. c) și activitatea fără document de certificare valabil (lit. l). Neanunțarea zborului nu apare în lista contravențiilor, deci nu toate variantele sunt contravenții.",
    "answers": [
     {
      "text": "toate variantele sunt corecte",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
-     "warn": ""
+     "long": "Nu toate variantele sunt contravenții. Neanunțarea zborului planificat nu este enumerată în art. 126 din Codul aerian.",
+     "warn": "Nu toate variantele sunt contravenții. Neanunțarea zborului planificat nu este enumerată în art. 126 din Codul aerian. Contravențiile privesc decolarea de pe teren neautorizat (lit. c) și activitatea fără document de certificare valabil (lit. l)."
     },
     {
      "text": "neanunțarea autorităților de zborul planificat",
      "correct": false,
      "short": "",
-     "long": "Este o contravenție, dar nu singura.",
+     "long": "Neanunțarea autorităților de zborul planificat nu este enumerată în art. 126 din Codul aerian ca fapt contravențional.",
      "warn": ""
     },
     {
      "text": "zborul cu o aeronavă neînmatriculată",
      "correct": false,
      "short": "",
-     "long": "Este o contravenție, dar nu singura.",
+     "long": "Zborul cu aeronavă neînmatriculată este tratat de Codul aerian ca problemă de înmatriculare, nu ca una din contravențiile enumerate la art. 126 lit. c-l.",
      "warn": ""
     },
     {
      "text": "zborul fără licență valabilă",
      "correct": false,
      "short": "",
-     "long": "Este o contravenție, dar nu singura.",
+     "long": "Zborul fără licență valabilă este contravenție (art. 126 lit. l), dacă nu are document de certificare valabil.",
      "warn": ""
     }
    ]
@@ -1266,34 +1266,34 @@
    "number": "#36",
    "text": "329: Ce înseamnă spațiul aerian controlat CTR?",
    "short": "CTR este zona de control în care zborurile sunt coordonate de controlul traficului aerian.",
-   "long": "CTR (Control Zone) este spațiul controlat din jurul unui aerodrom. Zborurile de aici sunt coordonate de ATC, iar pentru intrare sau zbor este nevoie de autorizare. Nu este zonă dedicată doar zborurilor comerciale, nici zonă liberă sau interzisă.",
+   "long": "CTR este spațiul aerian controlat din jurul unui aerodrom, în care zborurile sunt coordonate de controlul traficului aerian (RACR-RA, zona de control, definiția 103). Zborul VFR acolo cere autorizare ATC (RACR-RA 2.4.3).",
    "answers": [
     {
      "text": "zonă dedicată doar zborurilor comerciale",
      "correct": false,
      "short": "",
-     "long": "Nu este definiția CTR.",
+     "long": "CTR nu este dedicat zborurilor comerciale. Este spațiu controlat, deschis tuturor zborurilor care respectă coordonarea ATC.",
      "warn": ""
     },
     {
      "text": "zonă de zbor liber fără restricții",
      "correct": false,
      "short": "",
-     "long": "CTR este spațiu controlat, nu liber.",
+     "long": "CTR nu este zonă de zbor liber. Zborurile sunt coordonate de ATC (RACR-RA, definiția 103).",
      "warn": ""
     },
     {
      "text": "zonă interzisă zborurilor civile",
      "correct": false,
      "short": "",
-     "long": "CTR nu este interzis, ci controlat.",
+     "long": "CTR nu este zonă interzisă. Zborurile civile sunt permise cu coordonare ATC.",
      "warn": ""
     },
     {
      "text": "zonă în care zborurile sunt coordonate de controlul traficului aerian",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect. CTR este spațiu aerian controlat în care zborurile sunt coordonate de controlul traficului aerian (RACR-RA, zona de control, definiția 103).",
      "warn": ""
     }
    ]
@@ -1302,34 +1302,34 @@
    "number": "#37",
    "text": "361: Ce trebuie să conțină un plan de zbor pentru a fi aprobat?",
    "short": "Un plan de zbor aprobat conține ruta planificată, altitudinea, ora de plecare și durata estimată a zborului.",
-   "long": "Planul de zbor informează autoritățile și serviciile de căutare despre intențiile zborului. Include ruta, altitudinea, ora de plecare, durata estimată și alte date de operare. Numele pilotului și descrierea aeronavei sunt date de identificare, iar meteo este doar o parte a briefingului.",
+   "long": "Planul de zbor conține datele de identificare a zborului: ruta planificată, altitudinea, ora de plecare și durata estimată (RACR-RA, definiția 48 despre planul de zbor depus). Aceste date permit serviciilor de trafic aerian să ajute zborul.",
    "answers": [
     {
      "text": "numele pilotului și detalii de contact",
      "correct": false,
      "short": "",
-     "long": "Sunt date de identificare, nu conținutul principal.",
+     "long": "Numele pilotului și contactul sunt date de identificare, dar nu sunt conținutul esențial al planului de zbor. Esențial este ruta, altitudinea, ora și durata (RACR-RA, definiția 48).",
      "warn": ""
     },
     {
      "text": "detalii despre ruta planificată, altitudine, ora de plecare și durata estimată a zborului",
      "correct": true,
      "short": "",
-     "long": "Este conținutul corect al planului de zbor.",
+     "long": "Corect. Planul de zbor conține ruta, altitudinea, ora de plecare și durata estimată (RACR-RA, definiția 48).",
      "warn": ""
     },
     {
      "text": "descrierea completă a aeronavei și echipamentelor de la bord",
      "correct": false,
      "short": "Descrierea completă a aeronavei și a echipamentelor de la bord.",
-     "long": "Acestea sunt date tehnice, nu conținutul principal.",
+     "long": "Descrierea completă a aeronavei este informație din alte documente (certificatul de înmatriculare), nu conținutul principal al planului de zbor.",
      "warn": ""
     },
     {
      "text": "informații privind condițiile meteorologice preconizate",
      "correct": false,
      "short": "",
-     "long": "Meteo este parte a briefingului, nu conținutul principal.",
+     "long": "Condițiile meteo preconizate pot fi incluse în informații suplimentare, dar nu definesc planul de zbor (RACR-RA, definiția 48).",
      "warn": ""
     }
    ]
@@ -1338,34 +1338,34 @@
    "number": "#38",
    "text": "374: O zonă de spațiu aerian restricționat reprezintă:",
    "short": "O zonă de spațiu aerian restricționat este o porțiune definită în care zborul se poate efectua în condiții specificate.",
-   "long": "Spațiul restricționat are limitări, de exemplu ore sau condiții de zbor, dar nu este total interzis, deci zborul este posibil cu respectarea condițiilor. Zona interzisă are regim diferit, iar zona cu activități periculoase este o alta categorie. CTR este spațiu controlat.",
+   "long": "Spațiul aerian restricționat este un spațiu de dimensiuni definite în care zborul este permis în condiții specificate (de exemplu, în anumite ore sau cu aprobare). Zona interzisă este alta: zborul este interzis complet.",
    "answers": [
     {
      "text": "O porţiune de spaţiu aerian de dimensiuni definite în care activităţi periculoase zborului aeronavelor pot exista în perioade de timp specificate.",
      "correct": false,
      "short": "O porțiune de spațiu aerian în care activități periculoase pot exista în perioade specificate.",
-     "long": "Aceasta este definiția zonei periculoase, altă categorie.",
+     "long": "Descrierea corespunde spațiului periculos, în care activitățile periculoase pot exista în anumite perioade, nu spațiului restricționat.",
      "warn": ""
     },
     {
      "text": "O porţiune de spaţiu aerian de dimensiuni definite, deasupra teritoriului sau apelor teritoriale ale unui Stat, în interiorul căruia zborul aeronavelor este interzis.",
      "correct": false,
      "short": "O porțiune de spațiu aerian deasupra teritoriului unui stat, în interiorul căreia zborul este interzis.",
-     "long": "Aceasta este definiția zonei interzise.",
+     "long": "Descrierea corespunde spațiului interzis, unde zborul este interzis, nu spațiului restricționat.",
      "warn": ""
     },
     {
      "text": "O porţiune de spaţiu aerian de dimensiuni definite, deasupra teritoriului sau apelor teritoriale ale unui Stat, în interiorul căruia zborul aeronavelor se poate efectua în condiţii specificate.",
      "correct": true,
      "short": "O porțiune de spațiu aerian deasupra teritoriului unui stat, în interiorul căreia zborul se poate efectua în condiții specificate.",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Spațiul restricționat este un spațiu de dimensiuni definite în care zborul este permis în condiții specificate.",
      "warn": ""
     },
     {
      "text": "Spaţiu aerian controlat care se întinde de la suprafaţa solului în sus până la o limită superioară specificată.",
      "correct": false,
      "short": "Spațiu aerian controlat care se întinde de la suprafața solului până la o limită superioară specificată.",
-     "long": "Aceasta este definiția spațiului controlat, altă categorie.",
+     "long": "Descrierea corespunde spațiului controlat, nu spațiului restricționat.",
      "warn": ""
     }
    ]
@@ -1374,34 +1374,34 @@
    "number": "#39",
    "text": "378: Cine poate organiza examinarea teoretică pentru obținerea licenței de pilot de aeronave ultraușoare motorizate?",
    "short": "Examinarea teoretică pentru licența de ULM poate fi organizată de un examinator autorizat.",
-   "long": "Examinatorii autorizați verifică pregătirea teoretică a candidaților, conform procedurii. Operatorul aerian, pilotul instructor și Ministerul au alte roluri: instruirea, operarea sau reglementarea.",
+   "long": "Examinarea teoretică pentru licența de ULM este organizată de un examinator autorizat (RACR-LPAN ULM.2045 și Capitolul 2, V).",
    "answers": [
     {
      "text": "operatorul aerian",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă pentru examinare.",
+     "long": "Operatorul aerian nu organizează examinarea teoretică pentru licența de ULM.",
      "warn": ""
     },
     {
      "text": "un examinator autorizat",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Examinarea teoretică este organizată de un examinator autorizat (RACR-LPAN ULM.2045).",
      "warn": ""
     },
     {
      "text": "pilotul instructor",
      "correct": false,
      "short": "",
-     "long": "Instructorul pregătește, dar nu organizează examenul.",
+     "long": "Pilotul instructor pregătește candidatul și eliberează certificatul de pregătire, dar nu organizează examinarea (RACR-LPAN ULM.2045).",
      "warn": ""
     },
     {
      "text": "Ministerul Transporturilor",
      "correct": false,
      "short": "",
-     "long": "Ministerul reglementează, nu organizează examenul.",
+     "long": "Ministerul Transporturilor reglementează, dar nu organizează examinările (RACR-LPAN ULM).",
      "warn": ""
     }
    ]
@@ -1482,34 +1482,34 @@
    "number": "#42",
    "text": "347: Ce document trebuie prezentat pentru recunoașterea experienței de zbor?",
    "short": "Pentru recunoașterea experienței de zbor se prezintă carnetul de zbor pentru personal navigant.",
-   "long": "Experiența de zbor se dovedește cu documentul în care sunt consemnate zborurile. Certificatul medical, cel de radiotelefonist și cel de navigabilitate nu dovedesc experiența de zbor.",
+   "long": "Experiența de zbor se dovedește prin carnetul de zbor, în care instructorii și examinatorii înscriu activitatea (RACR-LPAN ULM.4020).",
    "answers": [
     {
      "text": "certificat medical",
      "correct": false,
      "short": "",
-     "long": "Dovedește aptitudinea medicală, nu experiența.",
+     "long": "Certificatul medical dovedește aptitudinea medicală, nu experiența de zbor.",
      "warn": ""
     },
     {
      "text": "certificat de radiotelefonist",
      "correct": false,
      "short": "",
-     "long": "Dovedește operarea radioului, nu experiența.",
+     "long": "Certificatul de radiotelefonist dovedește competența radio, nu experiența de zbor.",
      "warn": ""
     },
     {
      "text": "certificat de navigabilitate",
      "correct": false,
      "short": "",
-     "long": "Este pentru aeronavă.",
+     "long": "Certificatul de navigabilitate privește aeronava, nu experiența pilotului.",
      "warn": ""
     },
     {
      "text": "carnetul de zbor pentru personal navigant",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Experiența se dovedește cu carnetul de zbor (RACR-LPAN ULM.4020).",
      "warn": ""
     }
    ]
@@ -1518,34 +1518,34 @@
    "number": "#43",
    "text": "333: Ce este un plan de zbor?",
    "short": "Un plan de zbor este documentul care conține detalii despre ruta de zbor planificată.",
-   "long": "Planul de zbor descrie ruta, altitudinea, timpii și alte date necesare pentru coordonarea zborului. Detaliile tehnice ale motoparapantei, condițiile meteo și datele personale nu definesc planul.",
+   "long": "Planul de zbor este documentul în care se înscriu informațiile despre ruta planificată a zborului, transmise serviciilor de trafic aerian (RACR-RA, definițiile 46 și 48).",
    "answers": [
     {
      "text": "document care conține detalii despre ruta de zbor planificată",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Planul de zbor conține informațiile despre ruta planificată (RACR-RA, definiția 48).",
      "warn": ""
     },
     {
      "text": "document care include detalii tehnice despre motoparapantă",
      "correct": false,
      "short": "",
-     "long": "Acestea sunt fișa tehnică, nu planul de zbor.",
+     "long": "Datele tehnice ale motoparapantei sunt în certificatul de identificare și în livret, nu în planul de zbor.",
      "warn": ""
     },
     {
      "text": "document care descrie condițiile meteo",
      "correct": false,
      "short": "",
-     "long": "Acesta este buletinul meteo.",
+     "long": "Condițiile meteo sunt informații de meteo, nu planul de zbor.",
      "warn": ""
     },
     {
      "text": "document care conține datele personale ale pilotului",
      "correct": false,
      "short": "",
-     "long": "Acestea sunt datele de identificare, nu planul.",
+     "long": "Datele personale ale pilotului nu definesc planul de zbor.",
      "warn": ""
     }
    ]
@@ -1554,34 +1554,34 @@
    "number": "#44",
    "text": "357: Ce responsabilitate revine pilotului comandant în cazul zborurilor VFR?",
    "short": "În zborul VFR, pilotul comandant are responsabilitatea evitării coliziunilor cu alte aeronave și cu obstacolele de la sol.",
-   "long": "Într-un zbor VFR, pilotul vede și evită singur traficul și obstacolele, pentru că nu primește separare de la ATC. Coordonarea traficului, menținerea legăturii radio și transmiterea planului sunt alte responsabilități, cu rol diferit.",
+   "long": "Pilotul comandant răspunde de evitarea coliziunilor, cu ochii pe spațiul aerian și pe obstacole, în zborul la vedere (regulile VFR din RACR-RA).",
    "answers": [
     {
      "text": "responsabilitatea coordonării traficului aerian",
      "correct": false,
      "short": "",
-     "long": "Coordonarea este a ATC.",
+     "long": "Coordonarea traficului aerian este responsabilitatea serviciului ATC, nu a pilotului comandant.",
      "warn": ""
     },
     {
      "text": "responsabilitatea menținerii legăturii radio bilaterale",
      "correct": false,
      "short": "",
-     "long": "Este o obligație în anumite spații, nu responsabilitatea principală.",
+     "long": "Legătura radio bilaterală este cerută în anumite clase de spațiu, dar nu este responsabilitatea principală a pilotului în zborul VFR.",
      "warn": ""
     },
     {
      "text": "responsabilitatea evitării coliziunilor între aeronavele în zbor VFR și obstacolele de la sol",
      "correct": true,
      "short": "",
-     "long": "Este responsabilitatea corectă a pilotului comandant.",
+     "long": "Corect. În zborul VFR, pilotul comandant răspunde de evitarea coliziunilor cu alte aeronave și obstacolele.",
      "warn": ""
     },
     {
      "text": "responsabilitatea transmiterii planului de zbor",
      "correct": false,
      "short": "",
-     "long": "Aceasta este o procedură, nu responsabilitatea principală.",
+     "long": "Planul de zbor se depune la unitatea ATS, dar responsabilitatea principală nu este transmiterea lui.",
      "warn": ""
     }
    ]
@@ -1590,34 +1590,34 @@
    "number": "#45",
    "text": "351: Care este valabilitatea licenței de pilot de aeronave ultraușoare motorizate?",
    "short": "Varianta corectă indică 24 de luni de la data examinării teoretice ca valabilitate a licenței de ULM.",
-   "long": "Aceeași valoare ca la întrebarea 29. Varianta corectă o indică drept corectă; verifică-o în RACR-LPAN ULM, deoarece nu am găsit textul oficial care să o confirme.",
+   "long": "Licența de ULM are valabilitate de 24 de luni de la examinarea teoretică, cu condiția ca certificatul medical să fie valabil (RACR-LPAN ULM.2025).",
    "answers": [
     {
      "text": "24 luni de la data examinării teoretice",
      "correct": true,
      "short": "24 de luni de la data examinării teoretice.",
-     "long": "Valabilitatea licenței de ULM este de 24 de luni de la data examinării teoretice, conform RACR-LPAN ULM. Celelalte variante (12, 6, 36 de luni) nu corespund regulamentului consultat.",
+     "long": "Corect. Valabilitatea licenței de ULM este de 24 de luni (RACR-LPAN ULM.2025).",
      "warn": ""
     },
     {
      "text": "12 luni de la data examinării teoretice",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "12 luni nu corespund RACR-LPAN ULM.2025.",
      "warn": ""
     },
     {
      "text": "6 luni de la data examinării teoretice",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "6 luni nu corespund RACR-LPAN ULM.2025.",
      "warn": ""
     },
     {
      "text": "36 luni de la data examinării teoretice",
      "correct": false,
      "short": "36 de luni de la data examinării teoretice.",
-     "long": "Nu este valoarea corectă.",
+     "long": "36 de luni nu corespund RACR-LPAN ULM.2025.",
      "warn": ""
     }
    ]
@@ -1734,34 +1734,34 @@
    "number": "#49",
    "text": "324: Care sunt condițiile pentru recunoașterea licențelor străine de pilot de motoparapantă în România?",
    "short": "Licențele străine de pilot de motoparapantă se recunosc în România dacă sunt echivalate de Autoritatea Aeronautică Civilă Română.",
-   "long": "Recunoașterea depinde de echivalarea licenței de către autoritatea română. Vechimea licenței, traducerea și statul emitent nu sunt, singure, criteriul.",
+   "long": "Licența străină de motoparapantă este recunoscută de AACR, care verifică echivalarea și emite certificatul de recunoaștere (RACR-LPAN ULM.2020 și ULM.2175).",
    "answers": [
     {
      "text": "să fie obținute în ultimii 5 ani",
      "correct": false,
      "short": "",
-     "long": "Vechimea nu este criteriul.",
+     "long": "Vechimea licenței nu este criteriul. Licența trebuie să fie în termen de valabilitate (RACR-LPAN ULM.2175 lit. a).",
      "warn": ""
     },
     {
      "text": "să fie traduse în limba română",
      "correct": false,
      "short": "",
-     "long": "Traducerea nu este criteriul principal.",
+     "long": "Traducerea nu este condiția de recunoaștere din regulament. Recunoașterea se face de autoritatea de certificare (RACR-LPAN ULM.2020).",
      "warn": ""
     },
     {
      "text": "să fie emise de o țară din UE",
      "correct": false,
      "short": "",
-     "long": "Statul emitent nu este criteriul unic.",
+     "long": "Licența nu trebuie să provină dintr-o țară UE. Regulamentul acceptă licențe din orice autoritate competentă dintr-un alt stat (RACR-LPAN ULM.2020 lit. a).",
      "warn": ""
     },
     {
      "text": "să fie echivalate de Autoritatea Aeronautică Civilă Română",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Licența străină trebuie echivalată, recunoscută de autoritatea de certificare (RACR-LPAN ULM.2020 și ULM.2175).",
      "warn": ""
     }
    ]
@@ -1770,34 +1770,34 @@
    "number": "#50",
    "text": "371: În condiții meteorologice de zbor la vedere, într-o regiune de informare a zborurilor, un pilot de aeronavă ultraușoară motorizată, vede în fața lui la aproximativ același nivel o altă aeronavă care se îndreaptă direct spre el. Ce manevră trebuie să execute pilotul pentru a evita abordajul cu cealaltă aeronavă ?",
    "short": "În fața ta, o altă aeronavă vine direct spre tine, la același nivel: virează la dreapta.",
-   "long": "Reguli de trafic VFR: când două aeronave vin frontal, la același nivel, fiecare virează la dreapta, pentru a trece una pe lângă alta la distanță sigură. Urcarea sau coborârea pot fi folosite doar ca manevră de separare, nu ca regulă generală.",
+   "long": "La apropiere frontală la aceeași altitudine, ambele aeronave virează la dreapta (regulile de trecere din RACR-RA, secțiunea 2). Virajul la dreapta evită coliziunea.",
    "answers": [
     {
      "text": "Viraj la stânga",
      "correct": false,
      "short": "",
-     "long": "Nu este regula pentru abordaj frontal.",
+     "long": "Virajul la stânga nu este regula de trecere la apropiere frontală. Ambele aeronave virează la dreapta.",
      "warn": ""
     },
     {
      "text": "Viraj la dreapta",
      "correct": true,
      "short": "",
-     "long": "Este manevra corectă: ambele aeronave virează la dreapta.",
+     "long": "Corect. La apropiere frontală la același nivel, se virează la dreapta (RACR-RA, reguli de trecere).",
      "warn": ""
     },
     {
      "text": "Urcare",
      "correct": false,
      "short": "",
-     "long": "Nu este regula generală.",
+     "long": "Urcarea nu este manevra standard la apropiere frontală la același nivel.",
      "warn": ""
     },
     {
      "text": "Coborâre",
      "correct": false,
      "short": "",
-     "long": "Nu este regula generală.",
+     "long": "Coborârea nu este manevra standard la apropiere frontală la același nivel.",
      "warn": ""
     }
    ]
@@ -1806,34 +1806,34 @@
    "number": "#51",
    "text": "360: Ce reprezintă certificatul de înmatriculare al unei aeronave?",
    "short": "Certificatul de înmatriculare atestă că aeronava este autorizată să opereze în spațiul aerian național și internațional.",
-   "long": "Certificatul de înmatriculare arată că aeronava este înregistrată în registrul țării și că este autorizată să zboare. Certificatul de navigabilitate atestă starea tehnică, iar proprietatea se dovedește altfel.",
+   "long": "Certificatul de înmatriculare atestă înregistrarea aeronavei în registrul național și este document obligatoriu la bordul aeronavelor civile (Codul aerian, art. referitor la înmatriculare).",
    "answers": [
     {
      "text": "documentul care atestă proprietatea asupra aeronavei",
      "correct": false,
      "short": "",
-     "long": "Proprietatea nu este atestată de certificatul de înmatriculare.",
+     "long": "Proprietatea nu este atestată de certificatul de înmatriculare, ci de actele de proprietate și de documentele de înregistrare.",
      "warn": ""
     },
     {
      "text": "documentul care atestă conformitatea aeronavei cu reglementările de siguranță",
      "correct": false,
      "short": "",
-     "long": "Aceasta este navigabilitatea.",
+     "long": "Conformitatea cu reglementările de siguranță este atestată de certificatul de navigabilitate, nu de înmatriculare.",
      "warn": ""
     },
     {
      "text": "documentul care specifică datele tehnice ale aeronavei",
      "correct": false,
      "short": "",
-     "long": "Acestea sunt în fișa tehnică.",
+     "long": "Datele tehnice sunt în livret și în documentația aeronavei, nu în certificatul de înmatriculare.",
      "warn": ""
     },
     {
      "text": "documentul care atestă faptul că aeronava este autorizată să opereze în spațiul aerian național și internațional",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Cea mai apropiată formulare: certificatul de înmatriculare atestă înregistrarea aeronavei și este obligatoriu la bord. Expresia „și internațional” exagerează ce atestă documentul.",
      "warn": ""
     }
    ]
@@ -1950,34 +1950,34 @@
    "number": "#55",
    "text": "390: Cine este responsabil de întocmirea și semnarea fișei de pregătire practică la sol și în zbor?",
    "short": "Pilotul instructor întocmește și semnează fișa de pregătire practică la sol și în zbor.",
-   "long": "Instructorul răspunde de pregătirea elevului și consemnează lecțiile în fișa de pregătire. Examinatorul evaluează, autoritatea de certificare reglementează, iar pilotul solicitant doar urmează pregătirea.",
+   "long": "Fișa de pregătire practică la sol și în zbor este completată și semnată de pilotul instructor care a efectuat pregătirea (RACR-LPAN ULM, Anexa 4 și ULM.2045).",
    "answers": [
     {
      "text": "pilotul instructor",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Pilotul instructor completează și semnează fișa de pregătire.",
      "warn": ""
     },
     {
      "text": "examinatorul autorizat",
      "correct": false,
      "short": "",
-     "long": "Evaluează, nu întocmește fișa de pregătire.",
+     "long": "Examinatorul autorizat evaluează, dar nu completează fișa de pregătire.",
      "warn": ""
     },
     {
      "text": "autoritatea de certificare",
      "correct": false,
      "short": "",
-     "long": "Reglementează, nu întocmește fișa.",
+     "long": "Autoritatea de certificare aprobă modelul fișei, dar nu o completează.",
      "warn": ""
     },
     {
      "text": "pilotul solicitant",
      "correct": false,
      "short": "",
-     "long": "Urmează pregătirea, nu întocmește fișa.",
+     "long": "Pilotul solicitant nu completează fișa de pregătire, o primește și o prezintă.",
      "warn": ""
     }
    ]
@@ -1986,34 +1986,34 @@
    "number": "#56",
    "text": "170: Care sunt conform reglementărilor specifice domeniului aeronauticii civile cu aeronave ultrauşoare, documentele obligatorii ale pilotului şi ale aeronavei ce trebuie să se afle asupra pilotului comandant?",
    "short": "Pilotul comandant trebuie să aibă la bord licența, certificatul medical, certificatul de înmatriculare și autorizația de zbor sau anexa, toate în termen de valabilitate.",
-   "long": "Sunt documentele obligatorii pentru zborul ULM: licența și certificatul medical ale pilotului, plus certificatul de înmatriculare și autorizația (sau anexa) pentru aeronavă. Cartea de identitate și certificatul de operator radio nu sunt documente de bord cerute pentru ULM, în varianta corectă.",
+   "long": "Documentele obligatorii asupra pilotului comandant sunt licența și certificatul medical în termen de valabilitate, certificatul de înmatriculare, autorizația de zbor sau anexa la certificatul de înmatriculare (RACR-LPAN ULM.2020 lit. b și RACR-CCO ULM).",
    "answers": [
     {
      "text": "licenţa de pilot în termen de valabilitate, certificatul medical în termen de valabilitate, certificatul de înmatriculare, autorizaţia de zbor sau anexa la certificatul de înmatriculare în termen de valabilitate",
      "correct": true,
      "short": "Licența de pilot în termen de valabilitate, certificatul medical în termen de valabilitate, certificatul de înmatriculare, autorizația de zbor sau anexa la certificatul de înmatriculare în termen de valabilitate.",
-     "long": "",
+     "long": "Corect. Acestea sunt documentele cerute de regulamentele ULM.",
      "warn": ""
     },
     {
      "text": "cartea de identitate, licenţa de pilot în termen de valabilitate, certificatul medical, autorizaţia de zbor",
      "correct": false,
      "short": "Cartea de identitate, licența de pilot, certificatul medical, autorizația de zbor.",
-     "long": "Lipsește certificatul de înmatriculare.",
+     "long": "Cartea de identitate este necesară, dar lista nu include certificatul de înmatriculare, documentul obligatoriu al aeronavei.",
      "warn": ""
     },
     {
      "text": "certificatul de operator radio, certificatul medical, certificatul de identificare al aeronavei",
      "correct": false,
      "short": "",
-     "long": "Nu conține licența și nici certificatul de înmatriculare.",
+     "long": "Certificatul de operator radio și certificatul de identificare nu sunt lista documentelor pilotului comandant în regulamentele ULM.",
      "warn": ""
     },
     {
      "text": "cartea de identitate, licenţa de pilot în termen de valabilitate, certificatul medical, certificatul de înmatriculare, manualul de utilizare şi întreţinere al aeronavei",
      "correct": false,
      "short": "Cartea de identitate, licența de pilot, certificatul medical, certificatul de înmatriculare, manualul de utilizare și întreținere.",
-     "long": "Include cartea de identitate și manualul, care nu sunt varianta corectă.",
+     "long": "Manualul de utilizare și întreținere nu este în lista documentelor obligatorii la bord pentru pilot.",
      "warn": ""
     }
    ]
@@ -2094,34 +2094,34 @@
    "number": "#59",
    "text": "197: Revalidarea este:",
    "short": "Revalidarea este un procedeu administrativ efectuat în interiorul perioadei de valabilitate a unei calificări sau autorizații.",
-   "long": "Revalidarea se face înainte ca autorizația să expire, pentru a o menține. Procedura de după expirare este reînnoirea sau reobținerea, iar cea din timpul cursurilor ține de obținere.",
+   "long": "Revalidarea este un procedeu administrativ efectuat în interiorul perioadei de valabilitate a licenței sau calificării (RACR-LPAN ULM, definiția revalidării).",
    "answers": [
     {
      "text": "un procedeu administrativ efectuat în interiorul perioadei de valabilitate a unei calificări sau autorizații;",
      "correct": true,
      "short": "Un procedeu administrativ efectuat în interiorul perioadei de valabilitate a unei calificări sau autorizații.",
-     "long": "",
+     "long": "Corect. Revalidarea este efectuată în interiorul perioadei de valabilitate (RACR-LPAN ULM, definiția revalidării).",
      "warn": ""
     },
     {
      "text": "procedeu administrativ efectuat în timpul cursurilor teoretice și practice pentru obținerea unei autorizații sau calificări",
      "correct": false,
      "short": "Un procedeu administrativ efectuat în timpul cursurilor pentru obținerea unei autorizații.",
-     "long": "Acesta ține de obținere, nu de revalidare.",
+     "long": "Procedeul din timpul cursurilor descrie pregătirea pentru obținerea licenței, nu revalidarea.",
      "warn": ""
     },
     {
      "text": "nici unul din raspunsurile enumerate mai sus",
      "correct": false,
      "short": "Nici unul din răspunsurile enumerate.",
-     "long": "Varianta de mai sus este corectă.",
+     "long": "Există un răspuns corect, cel de la varianta A.",
      "warn": ""
     },
     {
      "text": "procedeu administrativ efectuat dupa ce o calificare sau autorizație a expirat;",
      "correct": false,
      "short": "Un procedeu administrativ efectuat după ce o calificare sau autorizație a expirat.",
-     "long": "Acesta ține de reînnoire, nu de revalidare.",
+     "long": "Revalidarea se face înainte de expirare, nu după, altfel este reînnoire (RACR-LPAN ULM, definițiile).",
      "warn": ""
     }
    ]
@@ -2130,34 +2130,34 @@
    "number": "#60",
    "text": "192: O aeronavă ULM din clasa motoparapantă, neomologată, poate fi utilizată pentru zboruri şcoală:",
    "short": "O aeronavă ULM din clasa motoparapantă neomologată poate fi folosită pentru zboruri școală doar pentru calificarea proprietarului sau a proprietarilor aeronavei.",
-   "long": "Utilizarea unei aeronave neomologate este restrânsă. Varianta corectă este cea cu proprietarul, deci nu se poate folosi pentru orice persoană care vrea să învețe. Verifică restricțiile exacte în RACR-LPAN ULM.",
+   "long": "Aeronavele neomologate pot fi folosite pentru zboruri școală, dacă operatorul de pregătire (OPD) completează declarația (Anexa 11) cu persoanele care vor fi școlarizate (RACR-LPAN ULM.2165 lit. c). Regulamentul nu limitează aceste zboruri la proprietar.",
    "answers": [
     {
      "text": "nu se precizează în reglementări",
      "correct": false,
      "short": "",
-     "long": "Reglementarea o restrânge, nu lasă loc de interpretare.",
+     "long": "Regulamentul precizează condițiile: declarația OPD pentru zboruri școală (RACR-LPAN ULM.2165 lit. c).",
      "warn": ""
     },
     {
      "text": "dacă elevul pilot a susținut cu succes o testare teoretică a cunoștințelor",
      "correct": false,
      "short": "",
-     "long": "Testarea teoretică nu este condiția corectă.",
+     "long": "Testarea teoretică nu este condiția pentru zborul școală cu aeronavă neomologată. Condiția este declarația OPD (RACR-LPAN ULM.2165 lit. c).",
      "warn": ""
     },
     {
      "text": "doar pentru calificarea proprietarului/ proprietarilor aeronavei respective",
      "correct": true,
      "short": "Doar pentru calificarea proprietarului sau a proprietarilor aeronavei respective.",
-     "long": "",
-     "warn": ""
+     "long": "Regulamentul nu limitează zborul școală cu aeronavă neomologată la proprietar. Condiția este declarația OPD cu numele elevilor (RACR-LPAN ULM.2165 lit. c).",
+     "warn": "Regulamentul RACR-LPAN ULM.2165 lit. c permite zboruri școală cu aeronave neomologate dacă OPD completează declarația cu numele elevilor. Nu limitează aceste zboruri la proprietar."
     },
     {
      "text": "pentru orice persoană care doreşte să înveţe pilotajul",
      "correct": false,
      "short": "Pentru orice persoană care dorește să învețe pilotajul.",
-     "long": "Nu este permis pentru orice persoană.",
+     "long": "Zborul pentru orice persoană nu este permis fără declarația OPD și fără instruirea în cadrul unui program (RACR-LPAN ULM.2165 lit. c).",
      "warn": ""
     }
    ]
@@ -2166,34 +2166,34 @@
    "number": "#61",
    "text": "195: Certificatul de înmatriculare al unei aeronave ULM are o valabilitate de:",
    "short": "Certificatul de înmatriculare al unei aeronave ULM are valabilitate nelimitată.",
-   "long": "Înmatricularea rămâne valabilă atât timp cât aeronava este înregistrată, deci nu are termen fix, spre deosebire de licența sau certificatul medical. Varianta corectă indică varianta „nelimitat”.",
+   "long": "Certificatul de identificare al aeronavelor ULM are valabilitate nelimitată, începând cu data emiterii, pentru categoriile de aeronave care nu sunt prototip sau serie nou construită (RACR-CCO ULM, valabilitatea certificatului).",
    "answers": [
     {
      "text": "24 luni",
      "correct": false,
      "short": "24 de luni.",
-     "long": "Nu este valabilitatea corectă.",
+     "long": "24 de luni nu este valabilitatea certificatului de identificare pentru aeronavele ULM în categoria generală (RACR-CCO ULM).",
      "warn": ""
     },
     {
      "text": "nelimitat",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Valabilitatea certificatului de identificare pentru categoriile fără prototip sau serie nouă este nelimitată (RACR-CCO ULM).",
      "warn": ""
     },
     {
      "text": "12 luni",
      "correct": false,
      "short": "",
-     "long": "Nu este valabilitatea corectă.",
+     "long": "12 luni nu este valabilitatea certificatului în categoria generală (RACR-CCO ULM).",
      "warn": ""
     },
     {
      "text": "36 luni",
      "correct": false,
      "short": "36 de luni.",
-     "long": "Nu este valabilitatea corectă.",
+     "long": "36 de luni nu este valabilitatea certificatului în categoria generală (RACR-CCO ULM).",
      "warn": ""
     }
    ]
@@ -2238,35 +2238,35 @@
    "number": "#63",
    "text": "331: Care este înălțimea maximă de zbor în spațiul aerian G?",
    "short": "În spațiul aerian G, varianta corectă indică 3000 de metri ca înălțime maximă de zbor.",
-   "long": "Aceeași valoare ca la întrebarea 4. Varianta corectă o indică, dar nu am găsit confirmarea în sursele consultate. Verifică textul oficial înainte să o reții.",
+   "long": "În clasa G, spațiul este necontrolat. RACR-RA, Tabelul 3-1, cere 5 km vizibilitate sub 900 m AMSL sau 300 m deasupra terenului. Regulamentele consultate nu conțin cifra de 3000 m ca înălțime maximă în clasa G.",
    "answers": [
     {
      "text": "4000 de metri",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "4000 m nu apare în regulamentele consultate ca înălțime maximă în clasa G.",
      "warn": ""
     },
     {
      "text": "600 de metri",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "600 m nu apare în regulamentele consultate ca înălțime maximă în clasa G.",
      "warn": ""
     },
     {
      "text": "1500 de metri",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "1500 m nu apare în regulamentele consultate ca înălțime maximă în clasa G. Cifra apare în RACR-RA ca distanță orizontală față de nori.",
      "warn": ""
     },
     {
      "text": "3000 de metri",
      "correct": true,
      "short": "",
-     "long": "Sursele consultate nu confirmă 3000 m ca înălțime maximă în spațiul G. Ce am găsit: în spațiul G, sub 3000 ft (circa 900 m), vizibilitatea minimă este de 5 km. Cifra de 3000 m trebuie verificată în RACR-RA și în AIP România.",
-     "warn": ""
+     "long": "Cifra de 3000 m nu apare în regulamentele consultate ca înălțime maximă în clasa G. Vezi avertismentul.",
+     "warn": "Regulamentele consultate (RACR-RA, RACR-LPAN ULM, Codul aerian) nu conțin cifra de 3000 m ca înălțime maximă în clasa G. Răspunsul marcat nu este susținut de documentele din manual."
     }
    ]
   },
@@ -2310,34 +2310,34 @@
    "number": "#65",
    "text": "173: Distanţa minimă faţă de nori în zbor VFR este:",
    "short": "Distanța minimă față de nori în zbor VFR este 1500 m orizontal și 300 m vertical.",
-   "long": "Distanțele față de nori în zbor VFR depind de altitudine și de spațiul aerian. Varianta corectă indică 1500 m orizontal și 300 m vertical, valori care apar și în reglementările europene pentru zborul la altitudine mare. Verifică regula aplicabilă altitudinii tale.",
+   "long": "RACR-RA, Tabelul 3-1, cere în spațiul sub 3050 m, până la cea mai mare dintre 900 m AMSL sau 300 m deasupra terenului, distanța față de nori de 1500 m orizontal și 300 m vertical.",
    "answers": [
     {
      "text": "50 m orizontală și 100 m verticală",
      "correct": false,
      "short": "50 m orizontal și 100 m vertical.",
-     "long": "Nu este valoarea corectă.",
+     "long": "50 m orizontal și 100 m vertical nu corespund Tabelului 3-1 din RACR-RA.",
      "warn": ""
     },
     {
      "text": "400 m la şes şi munte",
      "correct": false,
      "short": "400 m la șes și munte.",
-     "long": "Nu este valoarea corectă.",
+     "long": "400 m nu este distanța din Tabelul 3-1 pentru zborul VFR, care cere 1500 m orizontal și 300 m vertical.",
      "warn": ""
     },
     {
      "text": "1500 m orizontală şi 300 m verticală",
      "correct": true,
      "short": "1500 m orizontal și 300 m vertical.",
-     "long": "",
+     "long": "Corect. Tabelul 3-1 din RACR-RA cere 1500 m orizontal și 300 m vertical față de nori, în spațiul sub 3050 m.",
      "warn": ""
     },
     {
      "text": "300 m la şes şi 400 m în zona deluroasă sau muntoasă",
      "correct": false,
      "short": "300 m la șes și 400 m în zona deluroasă sau muntoasă.",
-     "long": "Nu este valoarea corectă.",
+     "long": "300 m și 400 m nu corespund Tabelului 3-1 din RACR-RA.",
      "warn": ""
     }
    ]
@@ -2382,34 +2382,34 @@
    "number": "#67",
    "text": "342: Ce trebuie să facă un pilot pentru a zbura în spațiul aerian necontrolat?",
    "short": "Pentru a zbura în spațiul aerian necontrolat, pilotul respectă reglementările specifice acestui spațiu.",
-   "long": "În spațiul necontrolat nu se cer autorizări ATC pentru fiecare zbor, dar regulile de zbor VFR, de altitudine și de comunicare trebuie respectate. Depunerea planului sau comunicarea cu turnul nu sunt cerințele generale.",
+   "long": "Spațiul aerian necontrolat (clasa G) are reguli proprii pe care pilotul trebuie să le respecte. Nu cere plan de zbor sau comunicare cu turnul (RACR-RA, clasa G).",
    "answers": [
     {
      "text": "să depună un plan de zbor",
      "correct": false,
      "short": "",
-     "long": "Nu este cerința generală.",
+     "long": "Planul de zbor nu este cerința generală pentru spațiul necontrolat VFR.",
      "warn": ""
     },
     {
      "text": "să comunice cu turnul de control",
      "correct": false,
      "short": "",
-     "long": "Turnul nu controlează spațiul necontrolat.",
+     "long": "Comunicarea cu turnul nu este cerută în spațiul necontrolat, unde zborul este informat prin FIS.",
      "warn": ""
     },
     {
      "text": "să notifice autoritățile aeroportului",
      "correct": false,
      "short": "",
-     "long": "Nu este cerința generală.",
+     "long": "Notificarea autorităților aeroportului nu este cerința generală în spațiul necontrolat.",
      "warn": ""
     },
     {
      "text": "să respecte reglementările specifice spațiului aerian necontrolat",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Pilotul respectă regulile specifice spațiului necontrolat.",
      "warn": ""
     }
    ]
@@ -2418,34 +2418,34 @@
    "number": "#68",
    "text": "367: Ce reprezintă regiunile de informare a zborului (FIR)?",
    "short": "Regiunile de informare a zborurilor (FIR) sunt zone delimitate în care se furnizează servicii de control al traficului aerian și de informare a zborurilor.",
-   "long": "FIR este un spațiu definit în care se oferă servicii de trafic aerian, atât control, cât și informare. Nu este rezervat zborurilor internaționale sau antrenamentului, iar informațiile meteo sunt doar o parte.",
+   "long": "FIR (regiunea de informare a zborurilor) este spațiul aerian în care se furnizează serviciul de informare a zborurilor și serviciul de alarmare (RACR-RA, definiția 59). Serviciul de control se furnizează în zonele de control din FIR.",
    "answers": [
     {
      "text": "zone delimitate unde se furnizează servicii de control al traficului aerian și de informare a zborurilor",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect. FIR este spațiul în care se furnizează servicii de informare și alarmare, iar controlul se furnizează în zonele controlate din FIR (RACR-RA, definiția 59).",
      "warn": ""
     },
     {
      "text": "zone destinate exclusiv zborurilor internaționale",
      "correct": false,
      "short": "",
-     "long": "FIR nu este rezervat zborurilor internaționale.",
+     "long": "FIR nu este rezervat zborurilor internaționale. Este spațiu aerian național și internațional (RACR-RA, definiția 59).",
      "warn": ""
     },
     {
      "text": "zone delimitate unde se furnizează informații despre condițiile meteorologice",
      "correct": false,
      "short": "",
-     "long": "Meteo este doar o parte din servicii.",
+     "long": "FIR nu se definește prin informațiile meteo, ci prin serviciile furnizate (RACR-RA, definiția 59).",
      "warn": ""
     },
     {
      "text": "zone unde se efectuează doar zboruri de antrenament",
      "correct": false,
      "short": "",
-     "long": "FIR nu este rezervat antrenamentului.",
+     "long": "FIR nu este destinat exclusiv antrenamentului.",
      "warn": ""
     }
    ]
@@ -2490,34 +2490,34 @@
    "number": "#70",
    "text": "375: Ce document trebuie să poarte asupra sa deținătorul unei licențe de pilot de aeronave ultraușoare motorizate?",
    "short": "Pilotul trebuie să poarte asupra sa certificatul medical și licența.",
-   "long": "Documentele personale ale pilotului sunt licența și certificatul medical, ambele valabile. Certificatul de navigabilitate și doar un singur document nu sunt varianta completă.",
+   "long": "Pilotul trebuie să poarte asupra sa licența și certificatul medical în termen de valabilitate (RACR-LPAN ULM.2020 lit. b, în aceeași logică pentru licența națională).",
    "answers": [
     {
      "text": "doar licența",
      "correct": false,
      "short": "",
-     "long": "Lipsește certificatul medical.",
+     "long": "Doar licența nu este suficientă. Pilotul trebuie să poarte și certificatul medical valabil.",
      "warn": ""
     },
     {
      "text": "certificatul medical și licența",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Pilotul trebuie să poarte asupra sa licența și certificatul medical în termen de valabilitate.",
      "warn": ""
     },
     {
      "text": "certificatul de navigabilitate",
      "correct": false,
      "short": "",
-     "long": "Este documentul aeronavei.",
+     "long": "Certificatul de navigabilitate privește aeronava și nu se poartă de pilot ca document personal.",
      "warn": ""
     },
     {
      "text": "doar certificatul medical",
      "correct": false,
      "short": "",
-     "long": "Lipsește licența.",
+     "long": "Doar certificatul medical nu este suficient. Pilotul trebuie să poarte și licența.",
      "warn": ""
     }
    ]
