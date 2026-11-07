@@ -1698,34 +1698,34 @@
    "number": "#48",
    "text": "967: Care este primul pas în planificarea unui zbor de distanță?",
    "short": "Primul pas în planificarea unui zbor de distanță este verificarea condițiilor meteo.",
-   "long": "Meteo decide dacă zborul se face, în ce zi și pe ce altitudini. Înainte de orice calcul sau pregătire, trebuie verificată prognoza. Stabilirea destinației și calculul vitezei vin după.",
+   "long": "Primul pas este analiza meteo: vântul, nebulozitatea, plafonul, vizibilitatea și prognoza decid dacă zborul se face, în ce zi și la ce altitudini. Calculul vitezei, alegerea destinației și planificarea rutei vin după, pe baza condițiilor meteo.",
    "answers": [
     {
      "text": "Verificarea condițiilor meteo",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Analiza meteo decide dacă și când se zboară, deci este primul pas al planificării.",
      "warn": ""
     },
     {
      "text": "Încărcarea combustibilului",
      "correct": false,
      "short": "",
-     "long": "Se face după verificarea meteo.",
+     "long": "Încărcarea combustibilului se face după ce zborul este planificat și condițiile meteo sunt cunoscute.",
      "warn": ""
     },
     {
      "text": "Calcularea vitezei aerului",
      "correct": false,
      "short": "",
-     "long": "Se face după verificarea meteo.",
+     "long": "Viteza aerului se calculează după ce se știu condițiile de vânt, deci nu este primul pas.",
      "warn": ""
     },
     {
      "text": "Stabilirea punctului de destinație",
      "correct": false,
      "short": "",
-     "long": "Este un pas, dar nu primul.",
+     "long": "Destinația se stabilește după ce se știe că zborul este posibil. Dacă meteo nu permite zborul, destinația nu mai contează.",
      "warn": ""
     }
    ]
