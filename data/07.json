@@ -1761,7 +1761,7 @@
      "text": "accelerații gravitaționale peste 10G",
      "correct": true,
      "short": "Accelerații gravitaționale peste 10 G.",
-     "long": "Este discutabilă: valoarea de 10 G nu este pragul. Verifică sursa.",
+     "long": "Vederea roșie (red-out) apare de regulă la câteva G pozitivi, mult sub 10 G. Valoarea de 10 G este mult peste pragul la care apare vederea roșie, deci nu poate fi răspunsul corect.",
      "warn": "Vederea roșie apare la accelerații gravitaționale pozitive, în general mult sub 10 G (de la câteva G în sus). Valoarea de 10 G este extremă și nu este pragul."
     }
    ]
@@ -2481,7 +2481,7 @@
      "text": "8 ore de somn",
      "correct": true,
      "short": "",
-     "long": "Verifică regula actuală.",
+     "long": "Oboseala și lipsa de somn reduc atenția și timpul de reacție, deci pilotul trebuie să aibă odihnă suficientă. Cifra de 8 ore nu am confirmat-o în sursele consultate; verifică-o în reglementarea aplicabilă.",
      "warn": ""
     }
    ]

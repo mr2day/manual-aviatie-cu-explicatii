@@ -19,7 +19,7 @@
      "text": "pot zbura doar în anumite zone desemnate",
      "correct": true,
      "short": "",
-     "long": "Verifică reglementarea actuală.",
+     "long": "Sursele consultate arată că aeronavele ULM înmatriculate în alt stat pot zbura în România doar dacă pilotul are o licență recunoscută de Aeroclubul României, iar licențele și documentele de navigabilitate trebuie depuse la Aeroclubul României înainte de zbor. Pentru aeronave străine sunt permise doar zboruri în interes propriu și particulare. Restricția la anumite zone desemnate nu este confirmată de sursele consultate; verifică-o în RACR-LPAN ULM și în AIP România.",
      "warn": ""
     },
     {
@@ -91,7 +91,7 @@
      "text": "3000 de metri",
      "correct": true,
      "short": "",
-     "long": "Verifică textul oficial.",
+     "long": "Sursele consultate nu confirmă cifra de 3000 m ca limită de altitudine pentru ULM în spațiul controlat. În spațiul controlat zborul depinde de autorizarea ATC, iar limitele de altitudine sunt stabilite în reglementarea aplicabilă. Cifra nu am confirmat-o; verifică-o în RACR-LPAN ULM și în AIP România.",
      "warn": ""
     },
     {
@@ -120,7 +120,7 @@
      "text": "3000 de metri",
      "correct": true,
      "short": "",
-     "long": "Verifică textul oficial.",
+     "long": "Sursele consultate nu confirmă cifra de 3000 m ca limită de altitudine în spațiul G. Ce am găsit: în spațiul G, sub 3000 ft (circa 900 m), vizibilitatea minimă este de 5 km. Este o limită de vizibilitate, nu de înălțime maximă, și nu trebuie confundată cu 3000 m.",
      "warn": ""
     },
     {
@@ -285,7 +285,7 @@
      "text": "plafon la 450 m, vizibilitate la sol 5 km",
      "correct": true,
      "short": "",
-     "long": "Verifică textul oficial.",
+     "long": "Conform RACR-RA (4.020), o aeronavă VFR nu poate decola sau ateriza pe un aerodrom din zona de control dacă plafonul este sub 450 m (1500 ft) sau vizibilitatea la sol este sub 5 km, decât cu autorizare ATC. Varianta D are exact aceste valori, iar celelalte variante au plafoane sau vizibilități diferite.",
      "warn": ""
     }
    ]
@@ -1020,7 +1020,7 @@
      "text": "24 luni de la data examinării teoretice",
      "correct": true,
      "short": "24 de luni de la data examinării teoretice.",
-     "long": "Verifică textul oficial.",
+     "long": "Valabilitatea licenței de ULM este de 24 de luni de la data examinării teoretice, conform RACR-LPAN ULM. Celelalte perioade (6, 12, 36 de luni) nu sunt cele din regulament, deși nu am confirmat fiecare variantă pe text oficial.",
      "warn": ""
     },
     {
@@ -1099,7 +1099,7 @@
      "text": "60 de luni pentru persoanele cu vârsta mai mică de 30 de ani, 24 de luni pentru persoanele cu vârsta cuprinsă între 30 de ani şi 50 de ani, 12 de luni pentru persoanele cu vârsta mai mare de 50 de ani",
      "correct": true,
      "short": "60 de luni pentru sub 30 de ani, 24 de luni între 30 și 50 de ani, 12 luni peste 50 de ani.",
-     "long": "Verifică regula actuală.",
+     "long": "Riscul medical crește cu vârsta, deci valabilitatea certificatului medical trebuie să scadă odată cu vârsta. Varianta B este singura care arată această scădere (mai puțin de 30 de ani, între 30 și 50, peste 50). Variantele A, C și D dau aceeași perioadă indiferent de vârstă, deci nu pot fi corecte în logica aptitudinii medicale. Cifrele exacte (60, 24, 12 luni) nu le-am găsit în sursele consultate; verifică-le în PAC-MED.",
      "warn": ""
     },
     {
@@ -1596,7 +1596,7 @@
      "text": "24 luni de la data examinării teoretice",
      "correct": true,
      "short": "24 de luni de la data examinării teoretice.",
-     "long": "Verifică textul oficial.",
+     "long": "Valabilitatea licenței de ULM este de 24 de luni de la data examinării teoretice, conform RACR-LPAN ULM. Celelalte variante (12, 6, 36 de luni) nu corespund regulamentului consultat.",
      "warn": ""
     },
     {
@@ -2208,7 +2208,7 @@
      "text": "certificat medical clasa 2",
      "correct": true,
      "short": "",
-     "long": "Verifică reglementarea actuală.",
+     "long": "Procedura AACR (PAC-MED) precizează că cerințele pentru clasa 2 se aplică celor care obțin sau dețin licență de ULM. Certificatul medical de clasa 2 este deci cel cerut pentru licența de motoparapantă motorizată. Celelalte clase nu sunt cerute pentru această licență.",
      "warn": ""
     },
     {
@@ -2265,7 +2265,7 @@
      "text": "3000 de metri",
      "correct": true,
      "short": "",
-     "long": "Verifică textul oficial.",
+     "long": "Sursele consultate nu confirmă 3000 m ca înălțime maximă în spațiul G. Ce am găsit: în spațiul G, sub 3000 ft (circa 900 m), vizibilitatea minimă este de 5 km. Cifra de 3000 m trebuie verificată în RACR-RA și în AIP România.",
      "warn": ""
     }
    ]
@@ -2906,7 +2906,7 @@
      "text": "50 de ore teorie și 15 ore de zbor",
      "correct": true,
      "short": "",
-     "long": "Verifică textul oficial.",
+     "long": "RACR-LPAN ULM (anexa 2) cere un curs teoretic de cel puțin 50 de ore, sub supravegherea unui instructor. Cifra de 15 ore de zbor nu am confirmat-o în sursele consultate; verifică-o în anexa 2 din RACR-LPAN ULM.",
      "warn": ""
     },
     {
@@ -3115,7 +3115,7 @@
      "text": "să depunem plan de zbor",
      "correct": true,
      "short": "",
-     "long": "Verifică regula pentru zborul tău.",
+     "long": "În clasa G spațiul este necontrolat: nu este nevoie de autorizare ATC, iar zborul VFR se face fără legătură obligatorie cu un serviciu de control. Sursele consultate nu confirmă o obligație generală de a depune plan de zbor pentru zborul cu motoparapanta în clasa G; verifică RACR-RA și RACR-LPAN ULM pentru zborul tău.",
      "warn": ""
     },
     {
@@ -3468,7 +3468,7 @@
      "text": "24 de luni de la data examinării teoretice cu condiţia ca certificatul medical să fie în termen de valabilitate",
      "correct": true,
      "short": "24 de luni de la data examinării teoretice cu condiția ca certificatul medical să fie în termen de valabilitate.",
-     "long": "Verifică textul oficial.",
+     "long": "Valabilitatea licenței de ULM este de 24 de luni de la examinarea teoretică (RACR-LPAN ULM). Varianta A adaugă condiția ca certificatul medical să fie valabil, ceea ce este logic: licența nu poate fi folosită fără aptitudine medicală valabilă. Referința este examinarea teoretică, nu cea practică.",
      "warn": ""
     },
     {
@@ -3705,7 +3705,7 @@
      "text": "1500 m",
      "correct": true,
      "short": "",
-     "long": "Verifică reglementarea.",
+     "long": "Sursele consultate indică pentru spațiul G o vizibilitate minimă de 5 km sub 3000 ft, și de 3 km în condiții specifice. Cifra de 1500 m nu este cea din aceste surse. Verifică-o în RACR-RA, pentru că sursele consultate nu confirmă varianta D.",
      "warn": ""
     }
    ]
@@ -3770,7 +3770,7 @@
      "text": "2 min",
      "correct": true,
      "short": "2 minute.",
-     "long": "Verifică procedurile.",
+     "long": "Turbulența de siaj de la o aeronavă grea poate fi periculoasă pentru una ușoară, de aceea la plecare se respectă o eșalonare minimă. Cifra de 2 minute nu am confirmat-o în sursele consultate; verifică-o în procedurile de trafic aplicabile.",
      "warn": ""
     },
     {

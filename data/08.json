@@ -1106,7 +1106,7 @@
      "text": "1900m",
      "correct": true,
      "short": "1900 m.",
-     "long": "Verifică regula aplicabilă.",
+     "long": "Limitele de înălțime în spațiul G se raportează de obicei la sol: 1300 m (cota aerodromului) plus înălțimea maximă de deasupra terenului dă 1900 m dacă înălțimea maximă este de 600 m. Cifra de 600 m nu am confirmat-o în sursele consultate; verifică-o în RACR-RA.",
      "warn": ""
     },
     {

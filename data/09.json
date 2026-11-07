@@ -1610,7 +1610,7 @@
      "text": "un unghi de incidență mai mare poate îmbunătăți stabilitatea la altitudini mari, dar poate duce la o creștere a rezistenței aerodinamice și a consumului de energie",
      "correct": true,
      "short": "",
-     "long": "Verifică sursa pentru stabilitate.",
+     "long": "Un unghi de incidență mai mare crește portanța, deci poate ajuta stabilitatea în anumite condiții, dar crește și rezistența și consumul de energie. Efectul asupra stabilității depinde de profilul aripii.",
      "warn": ""
     },
     {

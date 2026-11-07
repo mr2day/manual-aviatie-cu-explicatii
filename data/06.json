@@ -2661,7 +2661,7 @@
      "text": "umiditatea scăzută poate crește consumul de combustibil prin modificarea amestecului aer-combustibil",
      "correct": true,
      "short": "",
-     "long": "Verifică sursa.",
+     "long": "Umiditatea schimbă densitatea și conținutul de oxigen al aerului, deci modifică amestecul. Efectul asupra consumului depinde de motor și de reglaje. Nu am găsit o sursă care să confirme direcția efectului, deci varianta nu este demonstrată.",
      "warn": ""
     }
    ]
@@ -2805,7 +2805,7 @@
      "text": "crește consumul de combustibil din cauza aerului mai rarefiat",
      "correct": true,
      "short": "",
-     "long": "Verifică sursa.",
+     "long": "La altitudine aerul este mai rarefiat. Un carburator dozează combustibilul după cantitatea de aer, deci la aceeași setare consumul pe oră scade, dar puterea scade și ea. Afirmația că altitudinea crește consumul din cauza aerului rarefiat nu este explicată de această logică.",
      "warn": ""
     }
    ]
