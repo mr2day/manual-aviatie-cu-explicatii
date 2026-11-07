@@ -508,7 +508,7 @@ details.more .more-body p:last-child {
 /* Antet: wordmark Paramotor Artisan (text, nu imagine) și slogan */
 .site-header {
   position: relative;
-  background: linear-gradient(rgba(26, 30, 30, 0.72), rgba(26, 30, 30, 0.9)), url("img/header-bg.png") center / cover no-repeat;
+  background: url("img/header-bg.png") center / cover no-repeat;
   border-bottom: 1px solid var(--border);
 }
 .header-inner { flex-wrap: wrap; align-items: center; gap: 16px 24px; max-width: 1280px; padding: 18px 24px; }
@@ -518,7 +518,7 @@ details.more .more-body p:last-child {
   align-items: center;
   text-align: center;
   padding: 12px 22px 10px;
-  background: #1a1e1e;
+  background: transparent;
   border: 2px solid #ffffff;
   border-radius: 8px;
   text-decoration: none;
@@ -528,19 +528,36 @@ details.more .more-body p:last-child {
 .brand-top,
 .brand-bottom {
   display: inline-block;
-  font-size: 2rem;
   font-weight: 700;
   letter-spacing: 1px;
-  transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1), color 0.35s ease;
+  transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
   transform-origin: center;
 }
-.brand-top { color: #ffffff; padding-bottom: 4px; border-bottom: 3px solid #ffffff; }
-.brand-bottom { color: var(--accent); padding-top: 4px; }
+.brand-top {
+  font-size: 2rem;
+  color: #ffffff;
+  padding-bottom: 4px;
+  border-bottom: 3px solid #ffffff;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.35);
+}
+.brand-bottom {
+  font-size: 3.05rem;
+  color: #000000;
+  padding-top: 4px;
+  letter-spacing: 0;
+}
 .brand-top:hover,
 .brand-bottom:hover { transform: scale(1.08); }
-.brand-bottom:hover { color: #ffffff; }
-.brand-tagline { margin: 0; font-family: var(--font-head); font-size: 1rem; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: var(--text); }
-@media (max-width: 600px) { .brand-top, .brand-bottom { font-size: 1.5rem; } .brand-tagline { font-size: 0.85rem; letter-spacing: 1px; } }
+.brand-tagline {
+  margin: 0;
+  font-family: var(--font-head);
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #1a1e1e;
+}
+@media (max-width: 600px) { .brand-top { font-size: 1.5rem; } .brand-bottom { font-size: 2.1rem; } .brand-tagline { font-size: 0.85rem; letter-spacing: 1px; } }
 @media (prefers-reduced-motion: reduce) { .brand-top, .brand-bottom { transition: none; } }
 
 /* Linkuri secundare din bara laterală */
