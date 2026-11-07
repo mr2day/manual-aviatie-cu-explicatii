@@ -87,13 +87,15 @@
         var li = el('li', 'answer' + (a.correct ? ' correct' : ''));
         li.appendChild(el('span', 'letter', 'ABCD'.charAt(k)));
         var body = el('div', 'answer-body');
-        body.appendChild(el('span', 'answer-text', a.text));
+        var head = el('div', 'answer-head');
+        head.appendChild(el('span', 'answer-text', a.text));
         if (a.tag) {
           var tag = el('span', 'answer-tag');
-          tag.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M12 2 1 21h22L12 2zm0 6.5 6.8 11.5H5.2L12 8.5zM11 11v4h2v-4h-2zm0 5v2h2v-2h-2z"/></svg>';
+          tag.innerHTML = '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z" fill="#ff9800"/><path d="M12 9v4.5M12 17h.01" stroke="#1a1e1e" stroke-width="2.2" stroke-linecap="round"/></svg>';
           tag.appendChild(document.createTextNode(' - ' + a.tag));
-          body.appendChild(tag);
+          head.appendChild(tag);
         }
+        body.appendChild(head);
         if (a.short) body.appendChild(el('p', 'answer-short', a.short));
         if (a.long) {
           var det = more('', a.long, 'answer-more');

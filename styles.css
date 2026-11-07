@@ -667,12 +667,29 @@ details.question-more .more-body {
   font-weight: 700;
 }
 
+.answer-head {
+ display: flex;
+ flex-wrap: wrap;
+ align-items: center;
+ justify-content: space-between;
+ gap: 0.25rem 0.75rem;
+}
+
+.answer-head .answer-text {
+ flex: 1 1 auto;
+}
+
 .answer-tag {
-  display: inline-flex;
-  align-items: center;
-  gap: 4px;
-  color: #ff9800;
-  font-weight: 700;
-  font-size: 0.9rem;
-  margin-left: 0.3rem;
+ display: inline-flex;
+ align-items: center;
+ gap: 6px;
+ color: #ff9800;
+ font-weight: 700;
+ font-size: 0.9rem;
+ white-space: nowrap;
+ margin-left: auto;
+}
+
+.answer-tag svg {
+ flex: none;
 }
