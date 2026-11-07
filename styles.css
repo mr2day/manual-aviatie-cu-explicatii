@@ -638,6 +638,12 @@ details.question-more {
  margin: 0;
 }
 
+details.question-more[open] {
+ background: var(--page);
+ border-radius: 6px;
+ padding: 0.6rem 0.8rem;
+}
+
 details.question-more .more-body {
  margin-top: 0.5rem;
  padding: 0 0 0.25rem;
