@@ -11,12 +11,17 @@
     return e;
   }
 
-  // Long explanations: paragraphs separated by blank lines, line breaks kept.
+  // Explicații lungi: blocuri separate de rânduri goale; un bloc care începe cu „## ” devine titlu.
   function fillParagraphs(container, text) {
-    String(text || '').split(/\\n\\s*\\n/).forEach(function (para) {
-      if (!para.trim()) return;
+    String(text || '').split(/\n\s*\n/).forEach(function (block) {
+      var lines = block.split('\n').filter(function (l) { return l.trim() !== ''; });
+      if (!lines.length) return;
+      if (/^## /.test(lines[0])) {
+        container.appendChild(el('h4', null, lines[0].replace(/^## /, '')));
+        lines = lines.slice(1);
+        if (!lines.length) return;
+      }
       var p = el('p');
-      var lines = para.split('\\n');
       lines.forEach(function (line, i) {
         if (i > 0) p.appendChild(document.createElement('br'));
         p.appendChild(document.createTextNode(line));

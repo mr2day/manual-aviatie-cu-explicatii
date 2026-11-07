@@ -650,3 +650,14 @@ details.question-more .more-body {
  background: transparent;
  border-left: none;
 }
+
+.more-body h4 {
+  margin: 0.9rem 0 0.35rem;
+  font-family: var(--font-head);
+  font-size: 1rem;
+  color: var(--heading);
+}
+
+.more-body h4:first-child {
+  margin-top: 0;
+}
