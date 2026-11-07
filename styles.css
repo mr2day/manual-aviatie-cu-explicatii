@@ -857,7 +857,7 @@ details.question-more .more-body {
     top: 0;
     z-index: 30;
     padding: 8px 16px;
-    background: linear-gradient(180deg, #8cc4ee 0%, #4a92cf 55%, #1f6aa3 100%);
+    background: var(--page);
     border-bottom: 1px solid var(--border);
     text-align: center;
   }
