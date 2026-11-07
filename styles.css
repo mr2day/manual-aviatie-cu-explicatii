@@ -796,10 +796,10 @@ details.question-more .more-body {
     gap: 10px;
     margin: 0.5rem auto 0;
     padding: 10px 18px;
-    border: 1px solid #ffffff;
+    border: 1px solid #0b3350;
     border-radius: 4px;
-    background: transparent;
-    color: #ffffff;
+    background: rgba(255, 255, 255, 0.6);
+    color: #0b3350;
     font-family: var(--font-head);
     font-size: 0.9rem;
     font-weight: 700;
@@ -857,7 +857,7 @@ details.question-more .more-body {
     top: 0;
     z-index: 30;
     padding: 8px 16px;
-    background: linear-gradient(180deg, #8cc4ee 0%, #4a92cf 55%, #1f6aa3 100%);
+    background: linear-gradient(180deg, #e4f4ff 0%, #a9d8f7 60%, #6fb6ea 100%);
     border-bottom: 1px solid var(--border);
     text-align: center;
   }
