@@ -6,34 +6,34 @@
    "number": "#1",
    "text": "627: Care este efectul principal al unui unghi de atac prea mare asupra unei aripi?",
    "short": "Un unghi de atac prea mare poate duce la stall.",
-   "long": "Unghiul de atac este unghiul dintre coarda profilului și vântul relativ. Crește portanța până la un punct, apoi aerul se desprinde de pe extrados și aripa intră în stall. Stabilitatea laterală, croaziera și consumul nu sunt efectele directe.",
+   "long": "Un unghi de atac prea mare depășește unghiul critic: fluxul de aer se desprinde de pe aripă, portanța scade brusc și aripa intră în stall.",
    "answers": [
     {
      "text": "optimizează stabilitatea laterală",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul corect.",
+     "long": "Unghiul de atac mare nu optimizează stabilitatea laterală. Efectul principal este stall-ul.",
      "warn": ""
     },
     {
      "text": "poate duce la un stall",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Unghiul de atac prea mare duce la stall.",
      "warn": ""
     },
     {
      "text": "îmbunătățește portanța și reduce consumul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Portanța crește, dar consumul și stallul nu sunt îmbunătățiri.",
+     "long": "Unghiul de atac mare crește rezistența și nu îmbunătățește portanța la nesfârșit. Portanța scade după unghiul critic.",
      "warn": ""
     },
     {
      "text": "crește viteza de croazieră",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul.",
+     "long": "Unghiul de atac mare scade viteza de croazieră, nu o crește.",
      "warn": ""
     }
    ]
@@ -42,34 +42,34 @@
    "number": "#2",
    "text": "595: Conul de siguranţă este spaţiul în care putem evolua ajungând la un teren de aterizare în caz de până motor:",
    "short": "Conul de siguranță este spațiul în care poți ajunge la un teren de aterizare dacă motorul se oprește. Afirmația este adevărată.",
-   "long": "Conul de siguranță este o zonă imaginară sub aripă, în care, dacă motorul se oprește, pilotul poate planează către un loc sigur de aterizare. Este un concept de bază la motoparapantă.",
+   "long": "Conul de siguranță este zona în care pilotul poate planta până la un teren de aterizare, dacă motorul se oprește.",
    "answers": [
     {
      "text": "adevărat",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Conul de siguranță este spațiul în care se poate ajunge la un teren în caz de oprire a motorului.",
      "warn": ""
     },
     {
      "text": "nu se recomandă a avea con de siguranță",
      "correct": false,
      "short": "",
-     "long": "Conul este recomandat.",
+     "long": "Conul de siguranță se recomandă, nu se evită.",
      "warn": ""
     },
     {
      "text": "fals",
      "correct": false,
      "short": "",
-     "long": "Afirmația este adevărată.",
+     "long": "Afirmația este adevărată, deci fals nu este corect.",
      "warn": ""
     },
     {
      "text": "este o noțiune ce nu se folosește la parapantă cu motor",
      "correct": false,
      "short": "",
-     "long": "Se folosește.",
+     "long": "Conul de siguranță este folosit la motoparapantă, nu este o noțiune străină.",
      "warn": ""
     }
    ]
@@ -78,34 +78,34 @@
    "number": "#3",
    "text": "657: Ce se întâmplă dacă zbori la altitudine mare?",
    "short": "La altitudine mare scade portanța, deci trebuie ajustată puterea.",
-   "long": "Aerul rarefiat produce mai puțină portanță la aceeași viteză, iar motorul produce mai puțină putere. Pilotul trebuie să ajusteze puterea și viteza. Consumul, stabilitatea și controlul nu se îmbunătățesc automat.",
+   "long": "La altitudine mare aerul este mai rarefiat, deci portanța scade și motorul pierde putere, iar pilotul trebuie să ajusteze puterea.",
    "answers": [
     {
      "text": "reduce consumul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul principal.",
+     "long": "Consumul nu scade automat. Trebuie ajustată puterea.",
      "warn": ""
     },
     {
      "text": "scade portanța și necesită ajustarea puterii",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Portanța scade, iar puterea trebuie ajustată.",
      "warn": ""
     },
     {
      "text": "crește portanța și stabilitatea",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Portanța nu crește la altitudine, scade.",
      "warn": ""
     },
     {
      "text": "îmbunătățește controlul aripii",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul.",
+     "long": "Controlul aripii nu se îmbunătățește la altitudine mare, ci devine mai puțin precis.",
      "warn": ""
     }
    ]
@@ -114,34 +114,34 @@
    "number": "#4",
    "text": "639: Ce se întâmplă dacă viteza paramotorului scade sub viteza de angajare?",
    "short": "Dacă viteza scade sub viteza de angajare, aripa intră în stall și pierde rapid altitudine.",
-   "long": "Viteza de angajare este cea minimă la care aripa își păstrează portanța. Sub ea, unghiul de atac crește și aripa intră în stall. Pierderea rapidă de altitudine este consecința.",
+   "long": "Sub viteza de angajare, aripa nu mai produce portanța necesară. Ajunge în stall și pierde altitudine rapid.",
    "answers": [
     {
      "text": "aripa își menține altitudinea",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Aripa nu își menține altitudinea sub viteza de angajare.",
      "warn": ""
     },
     {
      "text": "aripa devine mai stabilă",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Aripa nu devine mai stabilă sub viteza de angajare.",
      "warn": ""
     },
     {
      "text": "aripa intră în stall și pierde rapid altitudine",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Aripa intră în stall și pierde altitudine.",
      "warn": ""
     },
     {
      "text": "aripa crește viteza de zbor",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Aripa nu crește viteza sub viteza de angajare.",
      "warn": ""
     }
    ]
@@ -150,34 +150,34 @@
    "number": "#5",
    "text": "603: Am parcurs distanța de 30 km într-o oră cu vânt de față; viteza noastră față de aer este de 60 km/h. Ce viteza medie a avut vântul în aceasta perioadă?",
    "short": "Dacă ai parcurs 30 km într-o oră cu vânt de față și viteza față de aer de 60 km/h, vântul a avut viteza medie de 30 km/h.",
-   "long": "Viteza față de sol este 30 km/h. Viteza față de aer este 60 km/h. Cu vânt de față, viteza față de sol = viteza față de aer − vânt, deci vântul = 60 − 30 = 30 km/h.",
+   "long": "Distanța de 30 km în 1 oră înseamnă viteză medie la sol de 30 km/h. Cu viteza față de aer 60 km/h, vântul de față are 30 km/h.",
    "answers": [
     {
      "text": "0 km/h",
      "correct": false,
      "short": "",
-     "long": "Vântul există, deoarece viteza la sol este mai mică decât viteza față de aer.",
+     "long": "0 km/h nu este viteza medie. Aeronava a parcurs 30 km.",
      "warn": ""
     },
     {
      "text": "30 km/h",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă: 60 − 30 = 30.",
+     "long": "Corect. 30 km în 1 oră înseamnă 30 km/h la sol.",
      "warn": ""
     },
     {
      "text": "60 km/h",
      "correct": false,
      "short": "",
-     "long": "Ar fi viteza față de aer, nu a vântului.",
+     "long": "60 km/h este viteza față de aer, nu viteza la sol.",
      "warn": ""
     },
     {
      "text": "36 km/h",
      "correct": false,
      "short": "",
-     "long": "Nu rezultă din calcul.",
+     "long": "36 km/h nu corespunde distanței parcurse în 1 oră.",
      "warn": ""
     }
    ]
@@ -186,34 +186,34 @@
    "number": "#6",
    "text": "653: Ce ar trebui să faci dacă observi o creștere bruscă a vitezei în timpul coborârii?",
    "short": "Dacă observi o creștere bruscă a vitezei în coborâre, ajustezi trimmerele și folosești frânele pentru a stabiliza aripa.",
-   "long": "Creșterea bruscă a vitezei în coborâre poate indica un unghi de atac prea mic sau o aripă instabilă. Ajustarea trimmerelor și frânarea ușoară stabilizează aripa. Creșterea puterii sau frânarea bruscă nu sunt corecte.",
+   "long": "Când viteza crește în coborâre, pilotul ajustează trimmerele și folosește frânele moderat, ca să stabilizeze aripa fără să o deformeze.",
    "answers": [
     {
      "text": "să crești puterea motorului",
      "correct": false,
      "short": "",
-     "long": "Nu este procedura corectă.",
+     "long": "Mărirea puterii în coborâre nu stabilizează situația.",
      "warn": ""
     },
     {
      "text": "să tragi brusc de frâne",
      "correct": false,
      "short": "",
-     "long": "Este periculos.",
+     "long": "Tragerea bruscă de frâne poate duce la stall sau colaps.",
      "warn": ""
     },
     {
      "text": "să ignori creșterea vitezei",
      "correct": false,
      "short": "",
-     "long": "Este periculos.",
+     "long": "Ignorarea creșterii vitezei este periculoasă.",
      "warn": ""
     },
     {
      "text": "să ajustezi trimmerele și să folosești frânele pentru a stabiliza",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Trimmerele și frânele moderate stabilizează.",
      "warn": ""
     }
    ]
@@ -222,34 +222,34 @@
    "number": "#7",
    "text": "618: Cum se piloteaza dacă am pierdut o comandă în timpul zborului?",
    "short": "Dacă ai pierdut o comandă în zbor, pilotezi cu chinga.",
-   "long": "Când o comandă nu mai poate fi folosită, aripa se controlează prin chingile din spate, care permit redresarea și virajele. Pilotarea cu corpul sau încetarea pilotării nu sunt soluțiile.",
+   "long": "Dacă pilotul a pierdut o comandă, pilotează cu chinga (suspanta) din spate, care controlează aripa.",
    "answers": [
     {
      "text": "se pilotează normal cu o comandă",
      "correct": false,
      "short": "",
-     "long": "Nu este posibil cu comanda pierdută.",
+     "long": "Pilotajul normal cu o singură comandă nu este posibil.",
      "warn": ""
     },
     {
      "text": "cu corpul",
      "correct": false,
      "short": "",
-     "long": "Corpul ajută, dar nu este metoda principală.",
+     "long": "Corpul ajută, dar nu este mijlocul principal de pilotaj.",
      "warn": ""
     },
     {
      "text": "nu mai pilotăm",
      "correct": false,
      "short": "",
-     "long": "Este periculos.",
+     "long": "Pilotajul nu se oprește, zborul continuă cu alte comenzi.",
      "warn": ""
     },
     {
      "text": "se pilotează cu chinga",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Pilotajul se face cu chinga din spate.",
      "warn": ""
     }
    ]
@@ -258,34 +258,34 @@
    "number": "#8",
    "text": "671: Cum influențează forța portanței comportamentul unei parapante în zbor?",
    "short": "Forța portanței contracarează greutatea și menține altitudinea constantă, permițând un zbor stabil.",
-   "long": "În zbor orizontal, portanța egalează greutatea. Dacă portanța este mai mare decât greutatea, aeronava urcă. Acesta este echilibrul care permite zborul stabil. Reducerea rezistenței sau stabilizarea în turbulență nu sunt efectele principale ale portanței.",
+   "long": "Portanța este forța care se opune greutății și menține aeronava în aer, deci ține altitudinea când este egală cu greutatea.",
    "answers": [
     {
      "text": "forța portanței contracarează greutatea parapantei și menține altitudinea constantă, permițând un zbor stabil",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Portanța contrabalansează greutatea și menține altitudinea.",
      "warn": ""
     },
     {
      "text": "forța portanței reduce rezistența aerodinamică și crește viteza de zbor",
      "correct": false,
      "short": "",
-     "long": "Portanța nu reduce rezistența.",
+     "long": "Portanța nu reduce rezistența aerodinamică. Rezistența este o altă forță.",
      "warn": ""
     },
     {
      "text": "forța portanței este responsabilă doar pentru virajele strânse și manevrele rapide",
      "correct": false,
      "short": "",
-     "long": "Nu este doar pentru viraje.",
+     "long": "Portanța nu este responsabilă doar de viraje. Ea susține aeronava.",
      "warn": ""
     },
     {
      "text": "forța portanței ajută la stabilizarea parapantei în condiții de turbulență puternică",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul principal.",
+     "long": "Stabilizarea în turbulență nu este rolul principal al portanței.",
      "warn": ""
     }
    ]
@@ -294,34 +294,34 @@
    "number": "#9",
    "text": "594: Cu cât raza virajului scade:",
    "short": "Când raza virajului scade, crește înclinația.",
-   "long": "La viteză constantă, o rază mai mică presupune o înclinație mai mare, deoarece forța centrifugă trebuie compensată de o componentă mai mare a portanței. Înclinația crescută produce și o viteză de înfundare mai mare.",
+   "long": "La o rază de viraj mai mică, aeronava trebuie înclinată mai mult pentru a produce forța centripetă necesară.",
    "answers": [
     {
      "text": "trebuie sa reducem motorul penru a pastra vario 0",
      "correct": false,
      "short": "Trebuie să reducem motorul pentru a păstra variometrul la 0.",
-     "long": "Nu este regula.",
+     "long": "Motorul nu trebuie redus pentru a păstra variometrul la 0 în această relație.",
      "warn": ""
     },
     {
      "text": "cu atât creşte viteza de înfundare",
      "correct": false,
      "short": "Cu atât crește viteza de înfundare.",
-     "long": "Viteza de înfundare crește, dar varianta corectă este înclinația.",
+     "long": "Viteza de înfundare nu crește cu raza.",
      "warn": ""
     },
     {
      "text": "cu atât se diminueză înclinaţia",
      "correct": false,
      "short": "Cu atât se diminuează înclinația.",
-     "long": "Efectul este opus.",
+     "long": "Înclinația nu scade cu raza mai mică. Crește.",
      "warn": ""
     },
     {
      "text": "cu atât creşte înclinaţia",
      "correct": true,
      "short": "Cu atât crește înclinația.",
-     "long": "",
+     "long": "Corect. Raza mai mică cere înclinație mai mare.",
      "warn": ""
     }
    ]
@@ -330,34 +330,34 @@
    "number": "#10",
    "text": "661: Cum influențează condițiile de zbor pe vreme caldă performanța aripii?",
    "short": "Pe vreme caldă, aerul este mai rarefiat, deci scade portanța și trebuie ajustată puterea.",
-   "long": "Aerul cald are densitate mai mică, deci aripa produce mai puțină portanță la aceeași viteză, iar motorul produce mai puțină putere. Pilotul trebuie să ajusteze puterea și să zboare cu mai multă atenție.",
+   "long": "Aerul cald este mai puțin dens, deci portanța scade pentru aceeași viteză, iar motorul pierde putere, deci trebuie ajustată puterea.",
    "answers": [
     {
      "text": "scade portanța și necesită ajustarea puterii",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Aerul cald scade portanța și cere ajustarea puterii.",
      "warn": ""
     },
     {
      "text": "crește portanța și stabilitatea",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Portanța nu crește pe vreme caldă, scade.",
      "warn": ""
     },
     {
      "text": "reduce consumul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul principal.",
+     "long": "Consumul nu se reduce în mod general pe vreme caldă.",
      "warn": ""
     },
     {
      "text": "îmbunătățește controlul aripii",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul.",
+     "long": "Controlul nu se îmbunătățește pe vreme caldă.",
      "warn": ""
     }
    ]
@@ -366,34 +366,34 @@
    "number": "#11",
    "text": "615: Viteza de curgere a fileurilor de aer pe un profil aerodinamic este:",
    "short": "Viteza de curgere a aerului pe extrados este mai mare decât pe intrados.",
-   "long": "Profilul curbat face ca aerul de deasupra să curgă mai repede, ceea ce creează depresiunea responsabilă de portanță. Pe intrados aerul curge mai încet, iar presiunea este mai mare.",
+   "long": "Extradosul este curbat mai mult, iar aerul curge mai repede pe el decât pe intrados. Diferența de viteză creează depresiunea care generează portanța.",
    "answers": [
     {
      "text": "mai mică pe extrados decât pe intrados",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Pe extrados aerul curge mai repede, nu mai lent.",
      "warn": ""
     },
     {
      "text": "egală intrados cu extrados",
      "correct": false,
      "short": "",
-     "long": "Nu există portanță dacă este egală.",
+     "long": "Vitezele nu sunt egale, altfel nu s-ar genera portanță.",
      "warn": ""
     },
     {
      "text": "mai mare pe extrados decât pe intrados",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Viteza este mai mare pe extrados.",
      "warn": ""
     },
     {
      "text": "mai mare pe intrados decât pe extrados",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Pe intrados viteza este mai mică, nu mai mare.",
      "warn": ""
     }
    ]
@@ -402,34 +402,34 @@
    "number": "#12",
    "text": "633: Cum este afectată performanța aripii la viteze mici?",
    "short": "La viteze mici, aripa scade portanța și stabilitatea în viraje strânse.",
-   "long": "La viteze mici, aripa are mai puțină portanță și stabilitate. În viraje strânse, riscul de stall și de colaps crește. Consumul sau manevrabilitatea în turbulență nu sunt efectele principale.",
+   "long": "La viteze mici, aripa își pierde portanța și stabilitatea, mai ales în viraje strânse, unde cererea de portanță crește.",
    "answers": [
     {
      "text": "scade portanța și stabilitatea în viraje strânse",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. La viteze mici scad portanța și stabilitatea, mai ales în viraje strânse.",
      "warn": ""
     },
     {
      "text": "optimizează consumul de combustibil în zborul la altitudine",
      "correct": false,
      "short": "",
-     "long": "Efectul este diferit.",
+     "long": "Consumul nu este efectul vitezei mici asupra aripii.",
      "warn": ""
     },
     {
      "text": "reduce stabilitatea și necesită ajustări frecvente ale trimmerelor",
      "correct": false,
      "short": "",
-     "long": "Nu este formularea principală.",
+     "long": "Trimmerele nu sunt efectul principal la viteze mici.",
      "warn": ""
     },
     {
      "text": "îmbunătățește manevrabilitatea în condiții de turbulențe moderate",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Manevrabilitatea nu crește la viteze mici.",
      "warn": ""
     }
    ]
@@ -438,34 +438,34 @@
    "number": "#13",
    "text": "650: Ce trebuie să faci dacă simți o scădere bruscă de altitudine în timpul zborului?",
    "short": "Dacă simți o scădere bruscă de altitudine, crești puterea motorului și stabilizezi aripa folosind frânele.",
-   "long": "Pierderea bruscă de altitudine indică o scădere a portanței. Creșterea puterii readuce tracțiunea, iar frânele ușoare stabilizează aripa. Ignorarea problemei sau frânarea bruscă nu sunt corecte.",
+   "long": "La scădere bruscă de altitudine, pilotul crește puterea și stabilizează aripa, deoarece cu putere suplimentară recapătă portanța.",
    "answers": [
     {
      "text": "să crești puterea motorului și să stabilizezi aripa folosind frânele",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Se crește puterea și se stabilizează aripa.",
      "warn": ""
     },
     {
      "text": "să ignori scăderea de altitudine",
      "correct": false,
      "short": "",
-     "long": "Este periculos.",
+     "long": "Ignorarea scăderii de altitudine este periculoasă.",
      "warn": ""
     },
     {
      "text": "să reduci puterea motorului și să aștepți stabilizarea",
      "correct": false,
      "short": "",
-     "long": "Nu este procedura.",
+     "long": "Reducerea puterii agravează scăderea de altitudine.",
      "warn": ""
     },
     {
      "text": "să tragi brusc de frâne",
      "correct": false,
      "short": "",
-     "long": "Este periculos.",
+     "long": "Tragerea bruscă de frâne poate duce la stall.",
      "warn": ""
     }
    ]
@@ -474,34 +474,34 @@
    "number": "#14",
    "text": "608: La viteza constantă, când înclinarea creşte:",
    "short": "La viteză constantă, când înclinarea crește, raza de viraj scade.",
-   "long": "Înclinarea mai mare produce o forță centripetă mai mare, deci virajul se strânge. Viteza constantă face ca raza să depindă de înclinare: mai mare înclinare, rază mai mică.",
+   "long": "La viteză constantă, creșterea înclinației reduce raza virajului, deoarece forța centripetă crește.",
    "answers": [
     {
      "text": "rata de coborâre scade",
      "correct": false,
      "short": "",
-     "long": "Efectul nu este principal.",
+     "long": "Rata de coborâre crește la viraj înclinat, nu scade.",
      "warn": ""
     },
     {
      "text": "nu se schimbă viteza fiind constantă",
      "correct": false,
      "short": "",
-     "long": "Nu explică efectul asupra razei.",
+     "long": "Viteza este constantă, dar înclinația schimbă raza virajului.",
      "warn": ""
     },
     {
      "text": "raza de viraj scade",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Înclinația mai mare duce la rază mai mică.",
      "warn": ""
     },
     {
      "text": "raza de viraj creşte",
      "correct": false,
      "short": "Raza de viraj crește.",
-     "long": "Efectul este opus.",
+     "long": "Raza nu crește la înclinație mai mare.",
      "warn": ""
     }
    ]
@@ -510,34 +510,34 @@
    "number": "#15",
    "text": "614: În cazul motoparapantelor forța portantă este influențată de:",
    "short": "În cazul motoparapantelor, forța portantă este influențată de viteza de zbor și de unghiul de incidență.",
-   "long": "Portanța crește cu pătratul vitezei și cu unghiul de incidență, până la limita stallului. Vântul lateral, curenții termici și viteza vântului nu sunt factorii care determină direct portanța aripii.",
+   "long": "Portanța depinde de viteza de zbor și de unghiul de incidență, care determină curgerea aerului pe aripă.",
    "answers": [
     {
      "text": "viteza vântului",
      "correct": false,
      "short": "",
-     "long": "Nu determină direct portanța.",
+     "long": "Viteza vântului influențează viteza la sol, nu portanța direct.",
      "warn": ""
     },
     {
      "text": "vântul lateral",
      "correct": false,
      "short": "",
-     "long": "Nu determină direct portanța.",
+     "long": "Vântul lateral nu determină portanța.",
      "warn": ""
     },
     {
      "text": "curenții termici",
      "correct": false,
      "short": "",
-     "long": "Nu determină direct portanța.",
+     "long": "Curenții termici nu determină portanța direct, ci doar prin efectul asupra vitezei aerului.",
      "warn": ""
     },
     {
      "text": "viteza de zbor si unghiul de incidență",
      "correct": true,
      "short": "Viteza de zbor și unghiul de incidență.",
-     "long": "",
+     "long": "Corect. Portanța depinde de viteza de zbor și de unghiul de incidență.",
      "warn": ""
     }
    ]
@@ -546,34 +546,34 @@
    "number": "#16",
    "text": "677: Cum acționează forța de rezistență aerodinamică și cum afectează performanța zborului?",
    "short": "Rezistența aerodinamică acționează în direcția opusă tracțiunii și reduce viteza de zbor.",
-   "long": "Rezistența este forța care se opune mișcării aeronavei prin aer. Ea acționează paralel cu direcția de zbor, dar în sens opus. Reduce viteza dacă tracțiunea nu o compensează.",
+   "long": "Rezistența aerodinamică acționează în direcția opusă mișcării, deci se opune tracțiunii și reduce viteza.",
    "answers": [
     {
      "text": "acționează perpendicular pe direcția de zbor, crescând portanța",
      "correct": false,
      "short": "",
-     "long": "Aceasta descrie portanța.",
+     "long": "Rezistența nu este perpendiculară pe zbor. Portanța este perpendiculară.",
      "warn": ""
     },
     {
      "text": "acționează în aceeași direcție cu greutatea, stabilizând zborul",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul.",
+     "long": "Rezistența nu acționează în aceeași direcție cu greutatea.",
      "warn": ""
     },
     {
      "text": "acționează paralel cu suprafața aripii, crescând tracțiunea",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul.",
+     "long": "Rezistența nu este paralelă cu suprafața aripii care crește tracțiunea.",
      "warn": ""
     },
     {
      "text": "acționează în direcția opusă tracțiunii, reducând viteza de zbor",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Rezistența acționează opus tracțiunii și reduce viteza.",
      "warn": ""
     }
    ]
@@ -582,34 +582,34 @@
    "number": "#17",
    "text": "672: Care este efectul principal al unghiului de atac asupra zborului unei parapante?",
    "short": "Un unghi de atac mai mare crește portanța, dar poate duce la un stall dacă este prea mare.",
-   "long": "Portanța crește cu unghiul de atac până la un punct critic. Dincolo de acesta, aerul se desprinde de extrados și portanța scade brusc, adică apare stallul.",
+   "long": "Creșterea unghiului de atac crește portanța până la unghiul critic, dar dincolo de el apare stall-ul.",
    "answers": [
     {
      "text": "unghiul de atac mai mic îmbunătățește stabilitatea parapantei la viteze mari",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul principal.",
+     "long": "Unghiul de atac mai mic nu îmbunătățește stabilitatea la viteze mari în această formulare.",
      "warn": ""
     },
     {
      "text": "unghiul de atac nu influențează semnificativ portanța, ci doar rezistența aerodinamică",
      "correct": false,
      "short": "",
-     "long": "Influențează portanța.",
+     "long": "Unghiul de atac influențează portanța, nu doar rezistența.",
      "warn": ""
     },
     {
      "text": "unghiul de atac mai mare crește portanța, dar poate duce la un stall dacă este prea mare",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Unghi mai mare crește portanța și poate duce la stall.",
      "warn": ""
     },
     {
      "text": "unghiul de atac este principalul factor care determină capacitatea parapantei de a plana eficient",
      "correct": false,
      "short": "",
-     "long": "Finețea depinde de mai mulți factori.",
+     "long": "Unghiul de atac nu este singurul factor al capacității parapantei.",
      "warn": ""
     }
    ]
@@ -618,34 +618,34 @@
    "number": "#18",
    "text": "612: Stratul limită este:",
    "short": "Stratul limită este stratul de aer din imediata vecinătate a aeronavei, în care viteza crește de la zero la viteza de zbor.",
-   "long": "Stratul limită este zona de aer aflată în contact cu suprafața aripii, unde viteza aerului variază de la zero (la suprafață) până la viteza liberă a curentului. Aici se produce frecarea.",
+   "long": "Stratul limită este stratul de aer din imediata apropiere a suprafeței aripii, unde viteza aerului crește de la zero la viteza liberă.",
    "answers": [
     {
      "text": "stratul de aer format când avionul este în limita de viteză",
      "correct": false,
      "short": "",
-     "long": "Nu este definiția.",
+     "long": "Stratul limită nu este legat de limita de viteză a aeronavei.",
      "warn": ""
     },
     {
      "text": ". stratul de aer din imediata vecinătate a aeronavei în care viteza creşte de la zero la viteza de zbor",
      "correct": true,
      "short": "Stratul de aer din imediata vecinătate a aeronavei în care viteza crește de la zero la viteza de zbor.",
-     "long": "",
+     "long": "Corect. Stratul limită este stratul de aer din imediata vecinătate a aripii, unde viteza crește.",
      "warn": ""
     },
     {
      "text": "stratul de aer aflat în vecinătatea bordului de atac",
      "correct": false,
      "short": "",
-     "long": "Este o zonă, nu definiția.",
+     "long": "Stratul de la bordul de atac nu este definiția stratului limită.",
      "warn": ""
     },
     {
      "text": "stratul de aer când incidenţa este la limită",
      "correct": false,
      "short": "Stratul de aer când incidența este la limită.",
-     "long": "Nu este definiția.",
+     "long": "Stratul limită nu este legat de incidența la limită.",
      "warn": ""
     }
    ]
@@ -654,34 +654,34 @@
    "number": "#19",
    "text": "590: Ce forțe acționează asupra unei parapante cu motor în zbor?",
    "short": "Forțele care acționează asupra unei parapante cu motor în zbor sunt greutatea, portanța, tracțiunea și frecarea.",
-   "long": "Cele patru forțe sunt greutatea (în jos), portanța (în sus, perpendicular pe traiect), tracțiunea (înainte, dată de elice) și rezistența aerodinamică sau frecarea (înapoi). Ele se echilibrează în zbor drept.",
+   "long": "În zbor asupra motoparapantei acționează greutatea (în jos), portanța (în sus), tracțiunea elicei (înainte) și rezistența (înapoi, opus mișcării).",
    "answers": [
     {
      "text": "finețea, viteza și greutatea",
      "correct": false,
      "short": "",
-     "long": "Finețea și viteza nu sunt forțe.",
+     "long": "Finețea nu este o forță. Forțele sunt greutatea, portanța, tracțiunea și rezistența.",
      "warn": ""
     },
     {
      "text": "greutatea si viteza",
      "correct": false,
      "short": "Greutatea și viteza.",
-     "long": "Viteza nu este o forță.",
+     "long": "Viteza nu este o forță. Lista este incompletă.",
      "warn": ""
     },
     {
      "text": "finețea, greutatea și forța de împingere",
      "correct": false,
      "short": "",
-     "long": "Finețea nu este forță.",
+     "long": "Finețea nu este forță, iar forța de împingere este tracțiunea, dar lista lipsește rezistența.",
      "warn": ""
     },
     {
      "text": "greutatea, forța portanta, forța de tracțiune și forța de frecare",
      "correct": true,
      "short": "Greutatea, forța portantă, forța de tracțiune și forța de frecare.",
-     "long": "",
+     "long": "Corect. Greutatea, portanța, tracțiunea și rezistența sunt forțele.",
      "warn": ""
     }
    ]
@@ -690,34 +690,34 @@
    "number": "#20",
    "text": "616: Turbioanele terminale responsabile pentru rezistentă indusă apar:",
    "short": "Turbioanele terminale responsabile pentru rezistența indusă apar pe capetele aripii.",
-   "long": "Diferența de presiune dintre extrados și intrados produce un flux spre vârfurile aripii, care formează vârtejuri. Acestea produc rezistența indusă. Ele apar pe capetele aripii, nu în alte zone.",
+   "long": "Turbioanele de la capetele aripii apar din diferența de presiune dintre intrados și extrados și creează rezistența indusă.",
    "answers": [
     {
      "text": "pe capetele aripii",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Turbioanele terminale apar pe capetele aripii.",
      "warn": ""
     },
     {
      "text": "în imediata apropiere a bordului de fugă",
      "correct": false,
      "short": "",
-     "long": "Nu este zona.",
+     "long": "Lângă bordul de fugă apar alte fenomene, nu turbioanele terminale.",
      "warn": ""
     },
     {
      "text": "în spate și sub aripa",
      "correct": false,
      "short": "În spate și sub aripă.",
-     "long": "Nu este zona principală.",
+     "long": "Sub aripă și în spate apare siajul, nu turbioanele terminale ca sursă principală.",
      "warn": ""
     },
     {
      "text": "în spatele aripii (siaj)",
      "correct": false,
      "short": "",
-     "long": "Siajul este alt fenomen.",
+     "long": "Siajul este în spatele aripii, dar turbioanele care produc rezistența indusă sunt la capete.",
      "warn": ""
     }
    ]
@@ -726,34 +726,34 @@
    "number": "#21",
    "text": "655: Cum influențează utilizarea trimmerelor la viteza maximă stabilitatea zborului?",
    "short": "Folosirea trimmerelor la viteza maximă crește riscul de instabilitate și necesită atenție sporită.",
-   "long": "La viteză maximă, aripa are unghi de atac mic și este mai sensibilă la rafale și la comenzi. Stabilitatea scade, deci pilotul trebuie să fie atent. Consumul și controlul nu se îmbunătățesc.",
+   "long": "Trimmerele deschise la viteză mare reduc stabilitatea și cresc riscul de instabilitate, deci pilotul trebuie să fie atent.",
    "answers": [
     {
      "text": "reduce consumul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul.",
+     "long": "Consumul nu este efectul trimmerelor la viteză maximă.",
      "warn": ""
     },
     {
      "text": "îmbunătățește stabilitatea și portanța",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Trimmerele la viteză maximă nu îmbunătățesc stabilitatea.",
      "warn": ""
     },
     {
      "text": "crește viteza de zbor",
      "correct": false,
      "short": "",
-     "long": "Crește viteza, dar varianta corectă este riscul.",
+     "long": "Viteza crește, dar nu este efectul care cere cel mai mult atenție.",
      "warn": ""
     },
     {
      "text": "crește riscul de instabilitate și necesită atenție sporită",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Riscul de instabilitate crește, cu atenție sporită.",
      "warn": ""
     }
    ]
@@ -762,34 +762,34 @@
    "number": "#22",
    "text": "624: Cum influențează turbulențele performanța unei aripi în zbor?",
    "short": "Turbulențele pot provoca pierderea portanței și instabilitate temporară.",
-   "long": "Rafalele schimbă unghiul de atac, deci portanța variază și aripa devine instabilă. Turbulența nu îmbunătățește portanța sau nu are efect neglijabil.",
+   "long": "Turbulențele pot produce pierderea temporară a portanței și instabilitate, deoarece schimbă brusc unghiul de atac.",
    "answers": [
     {
      "text": "nu au niciun efect asupra performanței aripii",
      "correct": false,
      "short": "",
-     "long": "Au efect.",
+     "long": "Turbulențele afectează performanța aripii.",
      "warn": ""
     },
     {
      "text": "îmbunătățesc portanța și reduc rezistența aerodinamică",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Turbulențele nu îmbunătățesc portanța. O perturbă.",
      "warn": ""
     },
     {
      "text": "stabilizează zborul prin creșterea vitezei aerului",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Turbulențele nu stabilizează zborul.",
      "warn": ""
     },
     {
      "text": "pot provoca pierderea portanței și instabilitate temporară",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Turbulențele pot duce la pierderea portanței și instabilitate.",
      "warn": ""
     }
    ]
@@ -798,34 +798,34 @@
    "number": "#23",
    "text": "669: Ce factori trebuie luați în considerare când alegem dimensiunea aripii pentru un pilot cu puțină experiență?",
    "short": "La alegerea dimensiunii aripii pentru un pilot cu puțină experiență se ține cont de greutatea pilotului, condițiile medii de zbor și nivelul de confort dorit.",
-   "long": "Dimensiunea aripii trebuie să corespundă greutății pilotului, condițiilor în care zboară și confortului. Materialul, manevrele avansate și altitudinea nu sunt criteriile principale pentru un începător.",
+   "long": "Pentru un pilot cu puțină experiență se ține cont de greutatea pilotului, de condițiile medii de zbor și de confortul dorit, pentru a alege o aripă potrivită.",
    "answers": [
     {
      "text": "greutatea pilotului, condițiile medii de zbor și nivelul de confort dorit",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Greutatea pilotului, condițiile medii și confortul.",
      "warn": ""
     },
     {
      "text": "materialul din care este fabricată aripa și durabilitatea acesteia în condiții de utilizare intensă",
      "correct": false,
      "short": "Materialul din care este fabricată aripa și durabilitatea acesteia.",
-     "long": "Este important, dar nu este criteriul principal.",
+     "long": "Materialul și durabilitatea nu sunt criteriul principal al dimensiunii.",
      "warn": ""
     },
     {
      "text": "capacitatea aripii de a efectua manevre avansate și reacția la ajustările de trimmere",
      "correct": false,
      "short": "Capacitatea aripii de a efectua manevre avansate.",
-     "long": "Nu este criteriul pentru începător.",
+     "long": "Manevrele avansate nu sunt criteriul pentru un pilot începător.",
      "warn": ""
     },
     {
      "text": "altitudinea la care se zboară cel mai frecvent și viteza vântului",
      "correct": false,
      "short": "",
-     "long": "Nu este criteriul principal.",
+     "long": "Altitudinea și vântul sunt factori, dar nu criteriul principal al dimensiunii.",
      "warn": ""
     }
    ]
@@ -834,34 +834,34 @@
    "number": "#24",
    "text": "652: Cum afectează altitudinea mare performanța aripii?",
    "short": "La altitudine mare, performanța aripii scade: portanța scade și trebuie ajustată puterea.",
-   "long": "Aerul rarefiat produce mai puțină portanță și putere. Pilotul trebuie să ajusteze puterea și viteza. Efectul este același ca la întrebarea 3.",
+   "long": "La altitudine mare, aerul este mai rar, deci portanța scade, iar pilotul trebuie să ajusteze puterea.",
    "answers": [
     {
      "text": "îmbunătățește controlul aripii",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul.",
+     "long": "Controlul nu se îmbunătățește la altitudine mare.",
      "warn": ""
     },
     {
      "text": "reduce consumul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul principal.",
+     "long": "Consumul nu se reduce în mod general la altitudine.",
      "warn": ""
     },
     {
      "text": "crește portanța și stabilitatea",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Portanța nu crește la altitudine, scade.",
      "warn": ""
     },
     {
      "text": "scade portanța și necesită ajustarea puterii",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Portanța scade, iar puterea se ajustează.",
      "warn": ""
     }
    ]
@@ -870,34 +870,34 @@
    "number": "#25",
    "text": "666: Cum poate un elev începător să îmbunătățească coordonarea și controlul în timpul primei decolări?",
    "short": "Un elev începător își îmbunătățește coordonarea prin repetarea exercițiilor de sol, învățarea tehnicii corecte de alergare și practica sub supravegherea instructorului.",
-   "long": "Pașii sunt progresivi: exercițiile de sol consolidează tehnica, alergarea corectă pregătește decolarea, iar instructorul corectează greșelile. Manevrele acrobatice, simulatoarele și zborurile solo timpurii nu sunt pașii corecți.",
+   "long": "Un elev începător își îmbunătățește coordonarea prin exerciții la sol și prin învățarea tehnicii corecte de alergare, înainte de zbor.",
    "answers": [
     {
      "text": "prin exersarea manevrelor acrobatice pentru a dezvolta abilități avansate de control",
      "correct": false,
      "short": "",
-     "long": "Este prematur pentru un începător.",
+     "long": "Manevrele acrobatice sunt prea avansate pentru un începător.",
      "warn": ""
     },
     {
      "text": "prin repetarea exercițiilor de sol, învățarea tehnicii corecte de alergare și practică sub supravegherea atentă a instructorului",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Exercițiile la sol și tehnica de alergare.",
      "warn": ""
     },
     {
      "text": "prin utilizarea simulatoarelor de zbor pentru toate antrenamentele",
      "correct": false,
      "short": "",
-     "long": "Simulatoarele nu înlocuiesc practica.",
+     "long": "Exercițiile de bază nu se înlocuiesc prin metode care sar peste pregătirea la sol; ele vin înaintea zborului.",
      "warn": ""
     },
     {
      "text": "prin efectuarea de zboruri solo înainte de a finaliza exercițiile de sol",
      "correct": false,
      "short": "",
-     "long": "Este periculos.",
+     "long": "Zborul solo înainte de exerciții de sol este periculos.",
      "warn": ""
     }
    ]
@@ -906,34 +906,34 @@
    "number": "#26",
    "text": "625: Care este avantajul unui profil de aripă „high aspect ratio” (aspect ratio – raportul dintre lungimea aripii și coarda acesteia)",
    "short": "Un profil de aripă cu aspect ratio mare permite zborul la viteze mai mari cu consum redus de combustibil.",
-   "long": "Aspect ratio mare (aripă lungă și îngustă) reduce rezistența indusă și permite o fineță mai bună. Aceasta înseamnă zbor eficient, cu consum redus. Aripile mari sunt de regulă pentru avansați, nu pentru începători.",
+   "long": "Aripa cu aspect mare (alungită) are finețe bună, deci permite viteze mai mari cu consum de energie mic, pentru zboruri de distanță.",
    "answers": [
     {
      "text": "permite zborul la viteze mai mari cu un consum redus de combustibil",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Aspectul mare dă performanță la viteze mari și eficiență.",
      "warn": ""
     },
     {
      "text": "siguranță pasivă crescută",
      "correct": false,
      "short": "",
-     "long": "Nu este avantajul principal.",
+     "long": "Siguranța pasivă nu este avantajul aspectului mare.",
      "warn": ""
     },
     {
      "text": "sunt destinate începătorilor",
      "correct": false,
      "short": "",
-     "long": "Nu sunt destinate începătorilor.",
+     "long": "Aripile cu aspect mare nu sunt destinate începătorilor.",
      "warn": ""
     },
     {
      "text": "viteze mai mici de stall",
      "correct": false,
      "short": "",
-     "long": "Nu este avantajul principal.",
+     "long": "Viteza de stall nu este mai mică la aspect mare.",
      "warn": ""
     }
    ]
@@ -942,34 +942,34 @@
    "number": "#27",
    "text": "600: Pentru a păstra altitudinea în timpul unui viraj accentuat ce trebuie să facem?",
    "short": "Pentru a păstra altitudinea în timpul unui viraj accentuat, pui accelerația pe tempomat (motorul la putere mai mare).",
-   "long": "În viraj accentuat, portanța verticală scade, deci trebuie compensată prin putere suplimentară. Varianta corectă formulează această compensare ca accelerație menținută, adică putere mai mare. Decelerarea sau frânarea maximă nu păstrează altitudinea.",
+   "long": "Într-un viraj accentuat, pentru a păstra altitudinea trebuie mărită viteza, deci accelerația trebuie menținută (portanța crește).",
    "answers": [
     {
      "text": "decelerăm",
      "correct": false,
      "short": "",
-     "long": "Decelerarea scade portanța și altitudinea.",
+     "long": "Decelerarea scade portanța și duce la pierdere de altitudine.",
      "warn": ""
     },
     {
      "text": "punem accelerația pe tempomat",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă: putere suplimentară pentru a compensa.",
+     "long": "Corect în esență: se menține accelerația, adică puterea suficientă, pentru a păstra altitudinea în viraj.",
      "warn": ""
     },
     {
      "text": "accelerăm",
      "correct": false,
      "short": "",
-     "long": "Accelerarea fără ajustare poate fi insuficientă; varianta corectă este menținerea puterii.",
+     "long": "Accelerarea simplă poate fi insuficientă; formularea corectă este menținerea accelerației.",
      "warn": ""
     },
     {
      "text": "frânăm aripa maxim pentru a crește unghiul de incidență",
      "correct": false,
      "short": "",
-     "long": "Frânarea maximă poate duce la stall.",
+     "long": "Frânarea maximă scade viteza și crește riscul de stall.",
      "warn": ""
     }
    ]
@@ -978,34 +978,34 @@
    "number": "#28",
    "text": "660: Cum influențează vântul puternic de față viteza de zbor?",
    "short": "Un vânt puternic de față scade viteza de zbor față de sol.",
-   "long": "Vântul de față se scade din viteza față de aer, deci viteza față de sol devine mai mică. Viteza față de aer rămâne aceeași, deci nu se schimbă.",
+   "long": "Vântul de față scade viteza față de sol, deoarece viteza față de aer rămâne aceeași, dar aeronava se deplasează mai încet peste sol.",
    "answers": [
     {
      "text": "scade viteza de zbor față de sol",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Vântul de față scade viteza față de sol.",
      "warn": ""
     },
     {
      "text": "crește viteza de zbor față de sol",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Vântul de față nu crește viteza față de sol.",
      "warn": ""
     },
     {
      "text": "scade viteza de zbor față de aer",
      "correct": false,
      "short": "",
-     "long": "Viteza față de aer nu se modifică.",
+     "long": "Viteza față de aer nu scade cu vântul de față.",
      "warn": ""
     },
     {
      "text": "crește viteza de zbor față de aer",
      "correct": false,
      "short": "",
-     "long": "Viteza față de aer nu se modifică.",
+     "long": "Viteza față de aer nu crește cu vântul de față.",
      "warn": ""
     }
    ]
@@ -1014,34 +1014,34 @@
    "number": "#29",
    "text": "649: Cum afectează turbulențele puternice zborul unui paramotor?",
    "short": "Turbulențele puternice reduc stabilitatea și cresc riscul de pierdere a controlului.",
-   "long": "Rafalele puternice schimbă rapid unghiul de atac și traiectul. Stabilitatea scade, iar pilotul poate pierde controlul dacă nu reacționează corect. Turbulența nu îmbunătățește portanța și nu crește eficiența.",
+   "long": "Turbulențele puternice reduc stabilitatea aripii, deci cresc riscul de pierdere a controlului.",
    "answers": [
     {
      "text": "îmbunătățesc portanța și stabilitatea",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Turbulențele nu îmbunătățesc portanța și stabilitatea.",
      "warn": ""
     },
     {
      "text": "reduc viteza de zbor",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul principal.",
+     "long": "Turbulențele nu reduc viteza în mod direct. Ele afectează stabilitatea.",
      "warn": ""
     },
     {
      "text": "reduc stabilitatea și cresc riscul de pierdere a controlului",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Reduc stabilitatea și cresc riscul de pierdere a controlului.",
      "warn": ""
     },
     {
      "text": "cresc eficiența aripii",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Turbulențele nu cresc eficiența aripii.",
      "warn": ""
     }
    ]
@@ -1050,34 +1050,34 @@
    "number": "#30",
    "text": "601: Ce se întâmplă dacă în aer frânăm aripa și accelerăm maxim, iar aripa rămâne excesiv în spatele nostru:",
    "short": "Dacă frânezi aripa și accelerezi maxim, iar aripa rămâne excesiv în spatele tău, aripa se angajează.",
-   "long": "Când aripa rămâne în spate, nu mai este aliniată cu pilotul și nu se poate ridica deasupra. Varianta corectă indică termenul „se angajează” pentru această situație. Ascendența constantă, front stall-ul și închiderea asimetrică nu sunt descrierea corectă.",
+   "long": "Dacă aripa rămâne prea în spate, aripa se angajează (intră în zona de forță redusă), iar pilotul trebuie să corecteze cu accelerare controlată.",
    "answers": [
     {
      "text": "vom avea ascendența constantă și o bună rată de urcare",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul.",
+     "long": "Ascendența constantă nu este efectul unei aripi în spate.",
      "warn": ""
     },
     {
      "text": "aripa va face „front stall”",
      "correct": false,
      "short": "",
-     "long": "Este un alt fenomen.",
+     "long": "Front stall-ul apare la deformarea frontală, nu la aripa în spate.",
      "warn": ""
     },
     {
      "text": "aripa se angajează",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Aripa se angajează, adică rămâne în urmă și nu mai zboară eficient.",
      "warn": ""
     },
     {
      "text": "aripa va avea o închidere asimetrică",
      "correct": false,
      "short": "",
-     "long": "Este un alt fenomen.",
+     "long": "Închiderea asimetrică nu este efectul descris.",
      "warn": ""
     }
    ]
@@ -1086,34 +1086,34 @@
    "number": "#31",
    "text": "589: Cum procedăm în cazul în care avem o închidere, iar parapanta a rămas între suspante și am intrat în autorotație?",
    "short": "Dacă ai o închidere și parașuta a rămas între suspante și ai intrat în autorotație, arunci imediat parașuta de rezervă.",
-   "long": "Autorotația (rotația incontrolabilă a aripii) cu aripa încurcată în suspante este o situație critică. Parașuta de rezervă este soluția de salvare. Pomparea comenzilor, tragerea de suspante și așteptarea revenirii pot fi insuficiente.",
+   "long": "Dacă parașuta de rezervă este prinsă de suspante și aripa este în autorotație, cea mai sigură acțiune este aruncarea imediată a parașutei de rezervă.",
    "answers": [
     {
      "text": "Pompăm comenzile",
      "correct": false,
      "short": "",
-     "long": "Nu rezolvă situația.",
+     "long": "Pomparea comenzilor într-o autorotație poate agrava situația.",
      "warn": ""
     },
     {
      "text": "Aruncăm imediat parașuta de rezervă",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Parașuta de rezervă se aruncă imediat.",
      "warn": ""
     },
     {
      "text": "Tragem de suspante",
      "correct": false,
      "short": "",
-     "long": "Poate agrava încurcarea.",
+     "long": "Tragerea de suspante agravează încurcarea.",
      "warn": ""
     },
     {
      "text": "Asteptăm să revină",
      "correct": false,
      "short": "Așteptăm să revină.",
-     "long": "Nu este procedura.",
+     "long": "Așteptarea revenirii nu este sigură în autorotație.",
      "warn": ""
     }
    ]
@@ -1122,34 +1122,34 @@
    "number": "#32",
    "text": "620: Polara aripii de parapantă descrie:",
    "short": "Polara aripii de parapantă descrie caracteristicile de zbor ale parapantei.",
-   "long": "Polara este graficul care arată relația dintre viteza de zbor și viteza de coborâre a aripii. Ea descrie performanțele aripii: viteza de planare, finețea și viteza de înfundare.",
+   "long": "Polara descrie caracteristicile de zbor ale aripii: viteza de coborâre și viteza de înaintare la diferite viteze.",
    "answers": [
     {
      "text": "forma scheletului profilului aerodinamic",
      "correct": false,
      "short": "",
-     "long": "Nu este definiția.",
+     "long": "Scheletul profilului nu este polara. Polara arată performanța.",
      "warn": ""
     },
     {
      "text": "forma aripii in plan",
      "correct": false,
      "short": "Forma aripii în plan.",
-     "long": "Nu este definiția.",
+     "long": "Forma în plan nu este polara.",
      "warn": ""
     },
     {
      "text": "caracteristicile de zbor ale parapantei",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Polara descrie caracteristicile de zbor.",
      "warn": ""
     },
     {
      "text": "centrul de presiune maximă",
      "correct": false,
      "short": "",
-     "long": "Nu este definiția.",
+     "long": "Centrul de presiune nu este polara.",
      "warn": ""
     }
    ]
@@ -1158,34 +1158,34 @@
    "number": "#33",
    "text": "632: Cum este influență performanța elicei de vitezele mari?",
    "short": "La viteze mari, elicea devine mai puțin eficientă.",
-   "long": "Elicea are un raport optim între viteza de rotație și viteza aerului. Când viteza de zbor crește, unghiul de atac al palelor se modifică și eficiența scade. Stabilitatea și temperatura nu sunt efectele directe.",
+   "long": "La viteze mari elicea se încarcă mai mult, iar eficiența ei scade, deoarece unghiul de atac al palelor devine nefavorabil.",
    "answers": [
     {
      "text": "stabilizează zborul și îmbunătățește manevrabilitatea",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul.",
+     "long": "Stabilitatea și manevrabilitatea nu sunt efectul vitezelor mari asupra elicei.",
      "warn": ""
     },
     {
      "text": "elicea devine mai puțin eficientă",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Elicea devine mai puțin eficientă la viteze mari.",
      "warn": ""
     },
     {
      "text": "scade consumul de combustibil în zborul de croazieră",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul direct.",
+     "long": "Consumul nu scade ca efect al vitezei mari asupra elicei.",
      "warn": ""
     },
     {
      "text": "optimizează performanța în condiții de temperatură scăzută",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul.",
+     "long": "Temperatura scăzută nu este efectul vitezelor mari.",
      "warn": ""
     }
    ]
@@ -1194,34 +1194,34 @@
    "number": "#34",
    "text": "610: În timpul zborului, pe partea de deasupra aripii (extrados) se formează:",
    "short": "Pe partea de deasupra aripii (extrados) se formează depresiune.",
-   "long": "Aerul curge mai repede pe extrados, deci presiunea scade. Această depresiune, împreună cu presiunea mai mare de pe intrados, produce portanța.",
+   "long": "Pe extrados curgerea este mai rapidă și presiunea scade, formând depresiune, care contribuie la portanță.",
    "answers": [
     {
      "text": "condens",
      "correct": false,
      "short": "",
-     "long": "Nu este fenomenul.",
+     "long": "Condensul nu se formează pe extrados ca efect principal al zborului.",
      "warn": ""
     },
     {
      "text": "rezistenţă",
      "correct": false,
      "short": "Rezistență.",
-     "long": "Nu este fenomenul de presiune.",
+     "long": "Rezistența este o forță, nu zona de presiune de pe extrados.",
      "warn": ""
     },
     {
      "text": "presiune",
      "correct": false,
      "short": "",
-     "long": "Presiunea este pe intrados.",
+     "long": "Presiunea mare este pe intrados, nu pe extrados.",
      "warn": ""
     },
     {
      "text": "depresiune",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Pe extrados se formează depresiune.",
      "warn": ""
     }
    ]
@@ -1230,34 +1230,34 @@
    "number": "#35",
    "text": "676: În ce direcție acționează forța de tracțiune asupra unei parapante motorizate?",
    "short": "Forța de tracțiune acționează paralel cu direcția de zbor și înainte, în direcția mișcării.",
-   "long": "Tracțiunea este dată de elice și împinge aeronava înainte, paralel cu traiectul. Ea contracarează rezistența aerodinamică. Celelalte direcții descriu alte forțe.",
+   "long": "Tracțiunea este forța motorului care împinge aeronava înainte, paralel cu direcția de zbor.",
    "answers": [
     {
      "text": "perpendicular pe suprafața aripii și în spate",
      "correct": false,
      "short": "",
-     "long": "Nu este direcția tracțiunii.",
+     "long": "Forța perpendiculară pe aripă nu este tracțiunea. Tracțiunea este înainte.",
      "warn": ""
     },
     {
      "text": "paralel cu direcția de zbor și înainte, în direcția mișcării",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Tracțiunea este paralelă cu zborul și înainte.",
      "warn": ""
     },
     {
      "text": "perpendicular pe direcția de zbor și în sus",
      "correct": false,
      "short": "",
-     "long": "Aceasta este portanța.",
+     "long": "Forța perpendiculară pe zbor și în sus este portanța, nu tracțiunea.",
      "warn": ""
     },
     {
      "text": "paralel cu direcția de zbor și în jos",
      "correct": false,
      "short": "",
-     "long": "Nu este direcția tracțiunii.",
+     "long": "Tracțiunea nu acționează în jos.",
      "warn": ""
     }
    ]
@@ -1266,34 +1266,34 @@
    "number": "#36",
    "text": "606: Dacă propulsia disponibilă depăşeşte propulsia necesară menţinerii motoparapantei în zbor orizontal:",
    "short": "Dacă propulsia disponibilă depășește propulsia necesară menținerii zborului orizontal, motoparapanta va urca.",
-   "long": "Excedentul de tracțiune se transformă în urcare. Dacă motorul produce mai multă forță decât rezistența, aeronava accelerează sau urcă. Menținerea orizontală cu coborâre sau decelerarea nu sunt consecințele corecte.",
+   "long": "Dacă propulsia disponibilă depășește cea necesară pentru zborul orizontal, surplusul de forță duce la urcare.",
    "answers": [
     {
      "text": "menținând motoparapanta la orizontală aceasta va coborî",
      "correct": false,
      "short": "Menținând motoparapanta la orizontală, aceasta va coborî.",
-     "long": "Nu este efectul excedentului.",
+     "long": "Dacă propulsia este suficientă, aeronava nu coboară la orizontală.",
      "warn": ""
     },
     {
      "text": "motoparapanta se decelerează dacă se menţine zborul orizontal",
      "correct": false,
      "short": "Motoparapanta se decelerează dacă se menține zborul orizontal.",
-     "long": "Efectul este opus.",
+     "long": "Decelerarea nu apare dacă propulsia depășește necesarul.",
      "warn": ""
     },
     {
      "text": "motoparapanta coboară dacă viteza este menţinută",
      "correct": false,
      "short": "Motoparapanta coboară dacă viteza este menținută.",
-     "long": "Nu este efectul corect.",
+     "long": "Coborârea nu apare dacă viteza este menținută și propulsia este suficientă.",
      "warn": ""
     },
     {
      "text": "motoparapanta va urca",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Surplusul de propulsie produce urcare.",
      "warn": ""
     }
    ]
