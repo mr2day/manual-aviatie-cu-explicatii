@@ -26,7 +26,7 @@
      "text": "este o mișcare de aer ascendentă de-a lungul unui versant, după care își continuă mișcarea descensional, în partea cealaltă a abruptului",
      "correct": true,
      "short": "",
-     "long": "Corect. Aerul urcă pe un versant, își continuă mișcarea descendentă pe partea cealaltă și se încălzește, adică foehnul.",
+     "long": "Corect. Aerul urcă pe versant, se răcește și pierde umezeala prin precipitații. Coborând pe partea cealaltă, se comprimă și se încălzește, deci devine cald și uscat: acesta este foehnul.",
      "warn": ""
     },
     {
@@ -228,28 +228,28 @@
      "text": "doar în zonele polare, ca urmare a contrastului mare de temperatură",
      "correct": false,
      "short": "",
-     "long": "Vântul anabatic nu este limitat la zonele polare.",
+     "long": "Vântul anabatic nu se formează în zonele polare, pentru că lipsește încălzirea zilnică a versanților care îl produce.",
      "warn": ""
     },
     {
      "text": "în zonele de coastă, formând brize de mare",
      "correct": false,
      "short": "",
-     "long": "Brizele de mare sunt un fenomen de coastă, dar vântul anabatic este cel de pe versanții muntelui.",
+     "long": "Brizele de mare apar din diferența de încălzire dintre uscat și apă. Vântul anabatic apare pe versanții muntelui, când aerul de lângă pantă se încălzește.",
      "warn": ""
     },
     {
      "text": "în zonele deșertice, unde este generat de încălzirea rapidă a suprafeței",
      "correct": false,
      "short": "",
-     "long": "Vântul anabatic nu este tipic deșerturilor, ci al versanților de munte.",
+     "long": "Vântul anabatic nu se formează din încălzirea generală a suprafeței deșertice, ci din încălzirea versantului, care face aerul de lângă pantă mai ușor și îl ridică.",
      "warn": ""
     },
     {
      "text": "pe versanții munților în timpul zilei, când soarele încălzește pantele",
      "correct": true,
      "short": "",
-     "long": "Corect. Vântul anabatic urcă pe versanții muntelui ziua, când soarele îi încălzește.",
+     "long": "Corect. Soarele încălzește versantul ziua; aerul de lângă pantă devine mai ușor și urcă, formând vântul anabatic.",
      "warn": ""
     }
    ]
@@ -841,28 +841,28 @@
      "text": "vânt catabatic",
      "correct": false,
      "short": "",
-     "long": "Vântul catabatic coboară pe pante, noaptea.",
+     "long": "Vântul catabatic coboară pe pante noaptea: aerul de lângă versant se răcește prin pierdere de căldură, devine mai greu și curge în jos.",
      "warn": ""
     },
     {
      "text": "vânt de contrapantă",
      "correct": false,
      "short": "",
-     "long": "Vântul de contrapantă nu este denumirea vântului care urcă pe versant ziua.",
+     "long": "Vântul de contrapantă nu este denumirea vântului care urcă pe versant ziua. Urcarea ziua este produsă de încălzirea pantei, deci se numește anabatic.",
      "warn": ""
     },
     {
      "text": "vânt anabatic",
      "correct": true,
      "short": "",
-     "long": "Corect. Vântul anabatic urcă spre vârf ziua, din încălzire.",
+     "long": "Corect. Versantul se încălzește ziua, aerul de lângă el se încălzește, devine mai ușor și urcă spre vârf: acesta este vântul anabatic.",
      "warn": ""
     },
     {
      "text": "vânt geostrofic",
      "correct": false,
      "short": "",
-     "long": "Vântul geostrofic este vântul din regiunile libere, paralel cu izobarele, nu cel de pe munte.",
+     "long": "Vântul geostrofic apare deasupra stratului de frecare, din echilibrul dintre gradientul de presiune și forța Coriolis, care îl face paralel cu izobarele. Nu se formează din încălzirea versantului.",
      "warn": ""
     }
    ]
@@ -1093,28 +1093,28 @@
      "text": "vânt catabatic",
      "correct": true,
      "short": "",
-     "long": "Corect. Vântul de vale, care coboară de pe pante, se numește catabatic.",
+     "long": "Corect. Pe pante, aerul răcit noaptea devine mai greu și coboară pe versant; de aceea se numește catabatic.",
      "warn": ""
     },
     {
      "text": "briză",
      "correct": false,
      "short": "",
-     "long": "Briza este un fenomen de coastă sau de vale, dar vântul de coborâre se numește catabatic.",
+     "long": "Briza se formează din diferențe de încălzire între zone vecine. Coborârea aerului de pe pantă se numește catabatic.",
      "warn": ""
     },
     {
      "text": "undă orografică",
      "correct": false,
      "short": "",
-     "long": "Unda orografică este alt fenomen, de după munte, nu vântul de vale.",
+     "long": "Unda orografică apare în aerul stabil de după munte, prin oscilația aerului peste obstacol, nu prin coborârea aerului de pe pante.",
      "warn": ""
     },
     {
      "text": "vânt anabatic",
      "correct": false,
      "short": "",
-     "long": "Vântul anabatic urcă, nu coboară. Vântul de vale este catabatic.",
+     "long": "Vântul anabatic se formează ziua, când versantul se încălzește și aerul urcă. Nu coboară.",
      "warn": ""
     }
    ]
@@ -1345,28 +1345,28 @@
      "text": "exclusiv în zonele polare, unde temperaturile extrem de scăzute influențează mișcările de aer",
      "correct": false,
      "short": "",
-     "long": "Vântul catabatic nu este limitat la zonele polare. Apare pe pantele oricărui relief.",
+     "long": "Vântul catabatic se formează pe orice pantă răcită, nu doar în zonele polare.",
      "warn": ""
     },
     {
      "text": "numai în zonele costiere, ca rezultat al diferențelor de temperatură între apă și uscat",
      "correct": false,
      "short": "",
-     "long": "Brizele costiere sunt alt tip de vânt. Catabaticul este legat de pante.",
+     "long": "Brizele costiere se formează din diferența de încălzire dintre apă și uscat. Catabaticul se formează pe pante, prin răcirea aerului de lângă ele.",
      "warn": ""
     },
     {
      "text": "în zonele de dealuri și de munte, coborând pe pantele munților noaptea și în cursul dimineții",
      "correct": true,
      "short": "",
-     "long": "Corect. Vântul catabatic coboară pe pantele dealurilor și munților, noaptea și dimineața.",
+     "long": "Corect. Noaptea, pantele pierd căldură prin radiație; aerul de lângă ele se răcește, devine mai greu și coboară, formând vântul catabatic.",
      "warn": ""
     },
     {
      "text": "doar în regiunile deșertice, unde variațiile mari de temperatură între zi și noapte generează vânturi puternice",
      "correct": false,
      "short": "",
-     "long": "Vântul catabatic nu este specific deșerturilor. Apare pe pante de relief.",
+     "long": "Vântul catabatic nu depinde de deșert. Se formează pe pante răcite, indiferent de regiune.",
      "warn": ""
     }
    ]
@@ -1957,14 +1957,14 @@
      "text": "vântul catabatic",
      "correct": true,
      "short": "",
-     "long": "Corect. Vântul care coboară seara, cu răcire bruscă, este catabatic.",
+     "long": "Corect. După apus, versantul se răcește prin pierdere de căldură; aerul de lângă el devine mai greu și coboară, de unde scăderea bruscă a temperaturii și schimbarea direcției vântului.",
      "warn": ""
     },
     {
      "text": "vântul anabatic",
      "correct": false,
      "short": "",
-     "long": "Vântul anabatic urcă pe pante ziua, nu coboară seara.",
+     "long": "Vântul anabatic se formează ziua, când pantele se încălzesc și aerul urcă. Seara procesul este invers.",
      "warn": ""
     },
     {
@@ -2137,14 +2137,14 @@
      "text": "vântul geostrofic este un vânt care bate paralel cu izobarele, ca rezultat al echilibrului dintre forța gradientului de presiune și forța Coriolis",
      "correct": true,
      "short": "",
-     "long": "Corect. Vântul geostrofic bate paralel cu izobarele, prin echilibrul forțelor.",
+     "long": "Corect. Vântul geostrofic apare deasupra stratului de frecare: gradientul de presiune împinge aerul spre presiune scăzută, iar forța Coriolis îl deviază până devine paralel cu izobarele.",
      "warn": ""
     },
     {
      "text": "vântul geostrofic este un curent de aer care se formează datorită încălzirii solare",
      "correct": false,
      "short": "",
-     "long": "Vântul generat de încălzirea solară este vânt termic sau local, nu geostrofic.",
+     "long": "Încălzirea solară produce vânturi termice sau locale. Vântul geostrofic apare din echilibrul presiunii și al forței Coriolis.",
      "warn": ""
     },
     {
@@ -2353,7 +2353,7 @@
      "text": "este un vânt descendent ce coboară pe versanții dealurilor în văi seara",
      "correct": true,
      "short": "",
-     "long": "Corect. Vântul catabatic coboară pe versanți seara.",
+     "long": "Corect. Pe versanți, aerul răcit noaptea și dimineața devine mai greu și coboară, formând vântul catabatic.",
      "warn": ""
     },
     {
@@ -2367,14 +2367,14 @@
      "text": "este un vânt ascendent ce apare dimineața",
      "correct": false,
      "short": "",
-     "long": "Vântul ascendent de dimineață este anabaticul, nu catabaticul.",
+     "long": "Vântul anabatic se formează ziua sau dimineața, când versantul se încălzește și aerul urcă; nu este catabatic.",
      "warn": ""
     },
     {
      "text": "este un vânt ascendent ce apare dimineața",
      "correct": false,
      "short": "",
-     "long": "Vântul ascendent de dimineață este anabaticul. Descrierea este greșită.",
+     "long": "Vântul anabatic se formează când versantul se încălzește și aerul urcă; nu este catabatic.",
      "warn": ""
     }
    ]
@@ -2547,7 +2547,7 @@
      "text": "vântul de gradient este un vânt care bate paralel cu izobarele curbate, influențat de forța Coriolis și de gradientul de presiune",
      "correct": true,
      "short": "",
-     "long": "Corect. Vântul de gradient bate paralel cu izobarele curbate, sub influența forței Coriolis.",
+     "long": "Corect. Vântul de gradient bate paralel cu izobarele curbate: gradientul de presiune este echilibrat de forța Coriolis și de forța centrifugă, care apare pe izobara curbată.",
      "warn": ""
     },
     {
