@@ -25,8 +25,8 @@
     });
   }
 
-  function more(label, longText) {
-    var d = el('details', 'more');
+  function more(label, longText, extraClass) {
+    var d = el('details', 'more' + (extraClass ? ' ' + extraClass : ''));
     d.appendChild(el('summary', null, label));
     var body = el('div', 'more-body');
     fillParagraphs(body, longText);
@@ -67,7 +67,11 @@
         var body = el('div', 'answer-body');
         body.appendChild(el('span', 'answer-text', a.text));
         if (a.short) body.appendChild(el('p', 'answer-short', a.short));
-        if (a.long) body.appendChild(more('Detalii', a.long));
+        if (a.long) {
+          var det = more('', a.long, 'answer-more');
+          det.firstChild.setAttribute('aria-label', 'Detalii');
+          body.appendChild(det);
+        }
         if (a.warn) {
           var w = el('p', 'warn');
           var strong = el('strong', null, 'Atenție: ');

@@ -206,6 +206,7 @@ body {
   line-height: 1.4;
   color: var(--text);
   border: 2px solid transparent;
+  position: relative;
 }
 
 .letter {
@@ -300,6 +301,7 @@ body {
 .answer-body {
   flex: 1;
   min-width: 0;
+  padding-right: 1.6rem;
 }
 
 .answer-short {
@@ -361,6 +363,32 @@ details.more .more-body p {
 
 details.more .more-body p:last-child {
   margin-bottom: 0;
+}
+
+details.answer-more {
+  margin: 0;
+}
+
+details.answer-more > summary {
+  position: absolute;
+  top: 10px;
+  right: 12px;
+  width: 1.6rem;
+  height: 1.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--accent);
+}
+
+details.answer-more > summary::before {
+  width: 0.5em;
+  height: 0.5em;
+  transform: translateY(-25%) rotate(45deg);
+}
+
+details.answer-more[open] > summary::before {
+  transform: translateY(25%) rotate(225deg);
 }
 
 .answer.correct .answer-short,
