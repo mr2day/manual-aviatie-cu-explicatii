@@ -1122,7 +1122,7 @@
    "number": "#32",
    "text": "797: Înainte de începerea unui zbor VFR / VMC în spațiul clasa G aveți obligația de a:",
    "short": "Înainte de un zbor VFR în clasa G, ai obligația să te informezi asupra cerințelor, limitărilor și restricțiilor aplicabile publicate.",
-   "long": "Pilotul trebuie să cunoască regulile spațiului aerian în care zboară, publicate în AIP și în alte documente. Setarea stației sau simpla respectare a regulilor de zbor sunt pași, dar obligația principală este informarea.",
+   "long": "Pilotul trebuie să cunoască regulile spațiului aerian în care zboară, publicate în AIP și în alte documente. Setarea stației sau simpla respectare a regulilor de zbor sunt pași, dar obligația principală este informarea.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
    "answers": [
     {
      "text": "a vă seta stația pe frecvența solicitată",

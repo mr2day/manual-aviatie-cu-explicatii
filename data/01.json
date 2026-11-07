@@ -78,7 +78,7 @@
    "number": "#3",
    "text": "715: Distanţa maximă până la care aveţi obligaţia de a menţine legătura radio cu organul de trafic prin spaţiul aerian controlat de acesta prin care vă deplasaţi către spaţiul aerian de clasă G este:",
    "short": "Legătura radio cu organul de trafic se menține până la ieșirea din zona controlată, adică până la intrarea în spațiul de clasă G.",
-   "long": "Spațiul aerian de clasă G este necontrolat, deci în el nu este obligatorie comunicarea radio cu un organ de trafic. Din acest motiv, obligația de a menține legătura radio se termină în momentul în care aeronava părăsește zona controlată. Până atunci, pilotul trebuie să rămână pe frecvența organului de trafic, iar dacă pierde comunicarea trebuie să urmeze procedurile de pierdere a legăturii radio.",
+   "long": "Spațiul aerian de clasă G este necontrolat, deci în el nu este obligatorie comunicarea radio cu un organ de trafic. Din acest motiv, obligația de a menține legătura radio se termină în momentul în care aeronava părăsește zona controlată. Până atunci, pilotul trebuie să rămână pe frecvența organului de trafic, iar dacă pierde comunicarea trebuie să urmeze procedurile de pierdere a legăturii radio.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
    "answers": [
     {
      "text": "nu este specificat",
@@ -474,7 +474,7 @@
    "number": "#14",
    "text": "714: La defectarea staţiei radio în zbor în spaţiul aerian de clasă G:",
    "short": "Dacă stația radio se defectează în zbor în spațiul de clasă G, zborul continuă, pentru că nu este obligatorie comunicarea radio în acest spațiu.",
-   "long": "În clasa G nu există servicii de control obligatorii, deci nu este necesar să aterizezi sau să te întorci din cauza unei defecțiuni radio. Pilotul trebuie să zboare cu precauție, să respecte regulile VFR și să evite zonele controlate, unde comunicarea radio devine obligatorie și trebuie refăcută.",
+   "long": "În clasa G nu există servicii de control obligatorii, deci nu este necesar să aterizezi sau să te întorci din cauza unei defecțiuni radio. Pilotul trebuie să zboare cu precauție, să respecte regulile VFR și să evite zonele controlate, unde comunicarea radio devine obligatorie și trebuie refăcută.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
    "answers": [
     {
      "text": "aterizaţi de urgenţă pe cel mai adecvat teren situate în spaţiu clasa G",
@@ -1086,7 +1086,7 @@
    "number": "#31",
    "text": "729: Distanţa maximă până la care aveţi obligaţia de a menţine legătura radio cu organul de trafic prin spaţiul aerian controlat de acesta prin care vă deplasaţi către spaţiul aerian de clasă G este:",
    "short": "Legătura radio cu organul de trafic se menține până la ieșirea din zona controlată.",
-   "long": "În spațiul de clasă G comunicarea radio nu este obligatorie. Din acest motiv, obligația de a menține legătura radio încetează când aeronava iese din zona controlată. Distanțele fixe, cum ar fi 10 NM, nu sunt criteriul legal.",
+   "long": "În spațiul de clasă G comunicarea radio nu este obligatorie. Din acest motiv, obligația de a menține legătura radio încetează când aeronava iese din zona controlată. Distanțele fixe, cum ar fi 10 NM, nu sunt criteriul legal.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
    "answers": [
     {
      "text": "până la limita audibilităţii",
@@ -1950,7 +1950,7 @@
    "number": "#55",
    "text": "778: În spațiul aerian de clasă G, ce tipuri de zboruri sunt permise și ce serviciu de trafic aerian este furnizat?",
    "short": "În spațiul de clasă G sunt permise zborurile IFR și VFR, iar serviciul furnizat este de informare a zborurilor.",
-   "long": "În clasa G nu există control, dar pot zbura atât zboruri VFR, cât și IFR. Organele de trafic oferă, la cerere, servicii de informare a zborurilor, nu control. Serviciul de control este rezervat spațiului controlat.",
+   "long": "În clasa G nu există control, dar pot zbura atât zboruri VFR, cât și IFR. Organele de trafic oferă, la cerere, servicii de informare a zborurilor, nu control. Serviciul de control este rezervat spațiului controlat.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
    "answers": [
     {
      "text": "Sunt permise doar zborurile IFR și se furnizează serviciul de alarmare",
@@ -2202,7 +2202,7 @@
    "number": "#62",
    "text": "783: Care sunt procedurile standard de comunicare atunci când o aeronavă intră din spațiul aerian necontrolat (clasa G) în spațiul aerian controlat (clasele A-E)?",
    "short": "Înainte de a intra din spațiul G în spațiul controlat, trebuie să stabiliți contactul radio cu ATC și să obțineți autorizarea.",
-   "long": "Spațiul controlat (clasele A–E) necesită autorizare de la ATC. Aeronava trebuie să stabilească legătura radio, să raporteze intențiile și să aștepte aprobarea înainte de intrare. Schimbarea transponderului sau reducerea vitezei nu sunt procedura de intrare.",
+   "long": "Spațiul controlat (clasele A–E) necesită autorizare de la ATC. Aeronava trebuie să stabilească legătura radio, să raporteze intențiile și să aștepte aprobarea înainte de intrare. Schimbarea transponderului sau reducerea vitezei nu sunt procedura de intrare.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
    "answers": [
     {
      "text": "Aeronava trebuie să schimbe transponderul pe codul 7000 și să continue zborul fără comunicare suplimentară",

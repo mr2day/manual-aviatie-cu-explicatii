@@ -330,7 +330,7 @@
    "number": "#10",
    "text": "188: Este permis zborul VFR în spaţiul aerian de clasă A?",
    "short": "Zborul VFR nu este permis în spațiul aerian de clasă A.",
-   "long": "Clasa A este spațiul cel mai strict controlat, în care zborurile se fac numai IFR, cu autorizare de la ATC. VFR nu este permis în această clasă, deci răspunsul „nu” este corect. Restul variantelor contrazic regula.",
+   "long": "Clasa A este spațiul cel mai strict controlat, în care zborurile se fac numai IFR, cu autorizare de la ATC. VFR nu este permis în această clasă, deci răspunsul „nu” este corect. Restul variantelor contrazic regula.\n\nClasa A este spațiu controlat în care zborul este permis doar IFR, cu autorizare ATC; VFR nu este permis.",
    "answers": [
     {
      "text": "nu",
@@ -2058,7 +2058,7 @@
    "number": "#58",
    "text": "189: Zborul unei aeronave civile in spatiul aerian national, cu exceptia zborului VFR executat în întregime într-o zonă de spațiu aerian de clasa G, precum și zborul unei aeronave civile care traversează granița regiunii de informare a zborurilor – FIR București se consideră autorizate dacă:",
    "short": "Zborul unei aeronave civile în spațiul aerian național este autorizat dacă operatorul a depus un plan de zbor și aeronava este asigurată pentru daunele produse terților.",
-   "long": "Pentru zborurile care nu sunt VFR în întregime în clasa G, este nevoie de plan de zbor și de asigurare pentru terți. Informarea de trafic la MApN și pasagerii sau bagajele nu sunt condițiile marcate.",
+   "long": "Pentru zborurile care nu sunt VFR în întregime în clasa G, este nevoie de plan de zbor și de asigurare pentru terți. Informarea de trafic la MApN și pasagerii sau bagajele nu sunt condițiile marcate.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
    "answers": [
     {
      "text": "pentru zborul respectiv operatorul aeronavei a depus un plan de zbor, în conformitate cu reglementările aeronautice în vigoare, iar aeronava este asigurată, după caz, conform legii, pentru daune produse terților",
@@ -2814,7 +2814,7 @@
    "number": "#79",
    "text": "352: Ce servicii sunt asigurate în spațiul aerian de clasa C?",
    "short": "În spațiul aerian de clasa C sunt permise zborurile IFR și VFR, iar toate zborurile sunt supuse serviciului de control al traficului aerian.",
-   "long": "În clasa C, ATC controlează toate zborurile, IFR și VFR, și cere comunicare radio bilaterală. Serviciul nu este opțional, nici nu este permis doar zborul IFR.",
+   "long": "În clasa C, ATC controlează toate zborurile, IFR și VFR, și cere comunicare radio bilaterală. Serviciul nu este opțional, nici nu este permis doar zborul IFR.\n\nClasa C este spațiu controlat în care ATC asigură serviciu pentru toate zborurile, IFR și VFR. Pentru intrare este necesară autorizarea ATC și legătura radio bilaterală, menținută permanent. Serviciul nu este opțional. În România, clasa C este folosită, conform AIP ENR 1.4 (ediția 2023), de la FL105 în sus; verifică limitele în ediția actuală, pe aisro.ro.",
    "answers": [
     {
      "text": "sunt permise zborurile IFR și VFR, toate zborurile sunt supuse serviciului de control al traficului aerian",
@@ -2922,7 +2922,7 @@
    "number": "#82",
    "text": "174: Spaţiul aerian clasa G se întinde pe verticală:",
    "short": "Spațiul aerian de clasa G se întinde până la FL 105, adică aproximativ 3200 m deasupra nivelului mării.",
-   "long": "Limita superioară a clasei G este stabilită prin reglementare și exprimată ca nivel de zbor. FL 105 corespunde aproximativ la 3200 m (10 500 ft). Celelalte variante nu indică limita superioară.",
+   "long": "Limita superioară a clasei G este stabilită prin reglementare și exprimată ca nivel de zbor. FL 105 corespunde aproximativ la 3200 m (10 500 ft). Celelalte variante nu indică limita superioară.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
    "answers": [
     {
      "text": "până la altitudinea de 1000 m",
@@ -3102,7 +3102,7 @@
    "number": "#87",
    "text": "181: În spațiul de clasă G, ce obligație legală avem înainte de decolare:",
    "short": "În spațiul de clasa G, înainte de decolare avem obligația legală să depunem plan de zbor.",
-   "long": "Banca marchează planul de zbor ca obligație. Verifică în reglementarea actuală dacă obligația se aplică zborului tău, deoarece cerințele pentru zborurile VFR în clasa G pot diferi. Anunțarea COAP sau armatei nu este varianta marcată.",
+   "long": "Banca marchează planul de zbor ca obligație. Verifică în reglementarea actuală dacă obligația se aplică zborului tău, deoarece cerințele pentru zborurile VFR în clasa G pot diferi. Anunțarea COAP sau armatei nu este varianta marcată.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
    "answers": [
     {
      "text": "să anunțăm zborul la COAP",
@@ -3318,7 +3318,7 @@
    "number": "#93",
    "text": "178: Este obligatorie legătura radio în spaţiul aerian de clasă C?",
    "short": "Legătura radio este obligatorie în spațiul aerian de clasa C.",
-   "long": "În clasa C, comunicarea radio bilaterală cu ATC este obligatorie pentru toate zborurile. Nu depinde de cererea ATC sau de transponder.",
+   "long": "În clasa C, comunicarea radio bilaterală cu ATC este obligatorie pentru toate zborurile. Nu depinde de cererea ATC sau de transponder.\n\nClasa C este spațiu controlat în care ATC asigură serviciu pentru toate zborurile, IFR și VFR. Pentru intrare este necesară autorizarea ATC și legătura radio bilaterală, menținută permanent. Serviciul nu este opțional. În România, clasa C este folosită, conform AIP ENR 1.4 (ediția 2023), de la FL105 în sus; verifică limitele în ediția actuală, pe aisro.ro.",
    "answers": [
     {
      "text": "doar la solicitarea unităţii de trafic aerian",
@@ -3390,7 +3390,7 @@
    "number": "#95",
    "text": "182: Zborurile VFR se pot efectua în România:",
    "short": "Zborurile VFR se pot efectua în România în spațiile aeriene de clasă C și G.",
-   "long": "Conform regulilor marcate în bancă, zborurile VFR sunt permise în clasa C (cu coordonare) și în clasa G. Clasa A nu permite VFR, iar clasa A, C și G împreună nu este varianta corectă.",
+   "long": "Conform regulilor marcate în bancă, zborurile VFR sunt permise în clasa C (cu coordonare) și în clasa G. Clasa A nu permite VFR, iar clasa A, C și G împreună nu este varianta corectă.\n\nClasa C și G permit zborul VFR; clasa A nu. Detaliile de clasă: Clasa C este spațiu controlat în care ATC asigură serviciu pentru toate zborurile, IFR și VFR. Pentru intrare este necesară autorizarea ATC și legătura radio bilaterală, menținută permanent. Serviciul nu este opțional. În România, clasa C este folosită, conform AIP ENR 1.4 (ediția 2023), de la FL105 în sus; verifică limitele în ediția actuală, pe aisro.ro. Clasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
    "answers": [
     {
      "text": "numai în spaţiul aerian de clasă G",
@@ -3678,7 +3678,7 @@
    "number": "#103",
    "text": "186: Vizibilitatea minimă în spaţiul aerian de clasă G când se zboară cu viteze care permit observarea tuturor obstacolelor şi când probabilitatea întâlnirii cu alte aeronave este redusă, este:",
    "short": "În clasa G, pentru viteze care permit observarea obstacolelor și probabilitate redusă de întâlnire cu alte aeronave, vizibilitatea minimă marcată este 1500 m.",
-   "long": "Vizibilitatea minimă depinde de altitudine, de viteză și de probabilitatea întâlnirii cu alte aeronave. Banca marchează 1500 m pentru condițiile descrise. Verifică valorile din reglementarea aplicabilă.",
+   "long": "Vizibilitatea minimă depinde de altitudine, de viteză și de probabilitatea întâlnirii cu alte aeronave. Banca marchează 1500 m pentru condițiile descrise. Verifică valorile din reglementarea aplicabilă.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
    "answers": [
     {
      "text": "450 m",

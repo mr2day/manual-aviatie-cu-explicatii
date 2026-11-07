@@ -1086,7 +1086,7 @@
    "number": "#31",
    "text": "486: Care este înălțimea maximă până la care puteți zbura la verticala unui aerodrom situat la cota de 1300 m și în spațiu aerian de clasa G?",
    "short": "Dacă zbori la verticala unui aerodrom situat la 1300 m, în spațiu de clasa G, banca marchează înălțimea maximă de 1900 m.",
-   "long": "Limitele de înălțime în spațiul G sunt raportate la aerodrom sau la altitudinea terenului, conform regulilor. Banca marchează 1900 m, adică 1300 m (aerodrom) plus 600 m. Verifică valoarea din reglementarea aplicabilă, deoarece limitele pot fi exprimate diferit.",
+   "long": "Limitele de înălțime în spațiul G sunt raportate la aerodrom sau la altitudinea terenului, conform regulilor. Banca marchează 1900 m, adică 1300 m (aerodrom) plus 600 m. Verifică valoarea din reglementarea aplicabilă, deoarece limitele pot fi exprimate diferit.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
    "answers": [
     {
      "text": "150m",
@@ -1806,7 +1806,7 @@
    "number": "#51",
    "text": "474: Doriţi sa zburaţi VFR în spaţiul aerian de clasă G, din punctul A în punctul B la şes. Vizibilitatea este peste 8 km, plafon la 400 m. Cum procedaţi?",
    "short": "Dacă vizibilitatea este peste 8 km, dar plafonul este la 400 m, în spațiul G nu zbori.",
-   "long": "Banca marchează varianta de a nu zbura în aceste condiții. Pentru zborul VFR, condițiile minime de vizibilitate și de distanță față de nori trebuie respectate. Verifică valorile exacte din reglementare, pentru că plafonul de 400 m poate fi sub limita cerută.",
+   "long": "Banca marchează varianta de a nu zbura în aceste condiții. Pentru zborul VFR, condițiile minime de vizibilitate și de distanță față de nori trebuie respectate. Verifică valorile exacte din reglementare, pentru că plafonul de 400 m poate fi sub limita cerută.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
    "answers": [
     {
      "text": "informați ATC despre condițiile de vizibilitate și cereți aprobare pentru a decola",
