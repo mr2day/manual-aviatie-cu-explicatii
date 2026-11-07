@@ -6,34 +6,34 @@
    "number": "#1",
    "text": "325: Ce drepturi au piloții străini de motoparapantă pentru a zbura în România?",
    "short": "Piloții străini de motoparapantă pot zbura în România doar în anumite zone desemnate.",
-   "long": "Accesul piloților străini depinde de recunoașterea licenței și de respectarea regulilor locale. Varianta corectă este cea cu zonele desemnate. Condițiile exacte (recunoașterea licenței, zonele, eventualele autorizări) trebuie verificate în reglementarea actuală (RACR-LPAN ULM și legislația aeronautică), deoarece aceste cerințe pot fi modificate.",
+   "long": "Piloții străini de motoparapantă pot zbura în România dacă licența lor este în termen de valabilitate și au certificat de recunoaștere emis de autoritatea de certificare (RACR-LPAN ULM.2020 lit. a și ULM.2175). Recunoașterea presupune examinare teoretică și practică, certificat medical valabil și certificat general de operator radiotelefonist. Regulamentul nu limitează zborul străinilor la zone desemnate.",
    "answers": [
     {
      "text": "pot zbura numai sub supravegherea unui pilot român",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "Nu. Regulamentul nu cere supravegherea de către un pilot român. Singura excepție legată de supraveghere (RACR-LPAN ULM.2020 lit. i) privește activitatea de zbor organizată sub controlul unui examinator sau inspector autorizat, nu orice pilot român.",
      "warn": ""
     },
     {
      "text": "pot zbura doar în anumite zone desemnate",
      "correct": true,
      "short": "",
-     "long": "Sursele consultate arată că aeronavele ULM înmatriculate în alt stat pot zbura în România doar dacă pilotul are o licență recunoscută de Aeroclubul României, iar licențele și documentele de navigabilitate trebuie depuse la Aeroclubul României înainte de zbor. Pentru aeronave străine sunt permise doar zboruri în interes propriu și particulare. Restricția la anumite zone desemnate nu este confirmată de sursele consultate; verifică-o în RACR-LPAN ULM și în AIP România.",
-     "warn": ""
+     "long": "Regula din RACR-LPAN ULM nu limitează piloții străini la zone desemnate. Pentru a zbura în România au nevoie de certificatul de recunoaștere sau de cadrul organizat sub supraveghere, așa cum se arată la întrebare.",
+     "warn": "Regulamentul RACR-LPAN ULM nu prevede restricția la zone desemnate pentru piloții străini. Condiția este certificatul de recunoaștere emis de autoritatea de certificare, pentru o licență aflată în termen de valabilitate (RACR-LPAN ULM.2020 lit. a și ULM.2175)."
     },
     {
      "text": "pot zbura numai dacă dețin o licență emisă de un stat UE",
      "correct": false,
      "short": "",
-     "long": "Recunoașterea licenței depinde de echivalare, nu doar de statul emitent.",
+     "long": "Nu. Regulamentul nu face distincție între state. Licența emisă de orice autoritate competentă dintr-un alt stat poate fi recunoscută, dacă sunt îndeplinite condițiile de recunoaștere (RACR-LPAN ULM.2020 lit. a).",
      "warn": ""
     },
     {
      "text": "pot zbura fără restricții",
      "correct": false,
      "short": "",
-     "long": "Nu există zbor fără restricții pentru piloții străini.",
+     "long": "Nu. Piloții străini au nevoie de certificatul de recunoaștere, de licența din țara de origine în termen de valabilitate și de certificatul medical valabil. Nu există zbor fără restricții.",
      "warn": ""
     }
    ]
@@ -42,34 +42,34 @@
    "number": "#2",
    "text": "373: Ce reprezintă VMC?",
    "short": "VMC înseamnă condițiile meteorologice pentru zboruri la vedere.",
-   "long": "VMC (Visual Meteorological Conditions) sunt condițiile în care pilotul poate vedea și evita obstacolele și alte aeronave. Sunt condiții de zbor VFR. Opusul lor sunt condițiile IMC, pentru zborul instrumental.",
+   "long": "VMC (visual meteorological conditions) sunt condițiile meteo în care zborul la vedere este permis. Sunt exprimate prin vizibilitate, distanță față de nori și plafon, și trebuie să fie egale sau mai mari decât minimele din RACR-RA, Tabelul 3-1. Zborul VFR (la vedere) se execută în VMC.",
    "answers": [
     {
      "text": "condițiile de zbor pe timp de noapte",
      "correct": false,
      "short": "",
-     "long": "Noaptea poate fi VMC sau nu; nu este definiția VMC.",
+     "long": "Noaptea nu definește VMC. Condițiile VMC sunt condiții meteo, indiferent de ora zilei. Zborul pe timp de noapte are reguli proprii, dar nu este definiția abrevierii.",
      "warn": ""
     },
     {
      "text": "regulile de zbor instrumental",
      "correct": false,
      "short": "",
-     "long": "Acestea sunt regulile IFR, nu VMC.",
+     "long": "Regulile de zbor instrumental (IFR) se aplică atunci când condițiile nu sunt VMC sau când pilotul zboară cu instrumentele. VMC este tocmai opusul: condiții în care pilotul vede solul, obstacolele și alte aeronave.",
      "warn": ""
     },
     {
      "text": "sistemul de dirijare și control al traficului aerian",
      "correct": false,
      "short": "",
-     "long": "Aceasta este definiția ATC.",
+     "long": "Sistemul de dirijare și control al traficului aerian este serviciul ATC, nu o condiție meteo. VMC se referă doar la condițiile meteorologice.",
      "warn": ""
     },
     {
      "text": "condițiile meteorologice pentru zboruri la vedere",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect. VMC sunt condițiile meteorologice în care pilotul vede la vedere: vizibilitatea, distanța față de nori și plafonul sunt cel puțin cele din RACR-RA, Tabelul 3-1 (definiția 23 și RACR-RA 3.090).",
      "warn": ""
     }
    ]
@@ -78,34 +78,34 @@
    "number": "#3",
    "text": "335: Care este înălțimea maximă la care poate zbura o motoparapantă în spațiul aerian controlat?",
    "short": "Varianta corectă indică 3000 de metri ca înălțime maximă a motoparapantei în spațiul aerian controlat.",
-   "long": "Limitele de altitudine pentru ULM în spațiul controlat sunt stabilite prin reglementarea aeronautică și prin autorizațiile de zbor. Valoarea este 3000 m, dar nu am confirmat-o în textul oficial consultat, deci trebuie verificată în RACR-LPAN ULM și în AIP România înainte de zbor.",
+   "long": "Limitele de altitudine pentru zborul ULM sunt stabilite prin reglementările aeronautice. Regulamentele consultate (RACR-RA, RACR-LPAN ULM, Codul aerian) nu conțin cifra de 3000 m ca înălțime maximă pentru motoparapantă în spațiul controlat. În zona de control de aerodrom, zborul VFR la decolare și aterizare are condiții date de RACR-RA 4.020, iar excepția este autorizarea ATC.",
    "answers": [
     {
      "text": "1500 de metri",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "1500 m nu este cifra din regulamentele consultate pentru înălțimea maximă a motoparapantei în spațiul controlat. Pentru zborul VFR în zona de control, RACR-RA 4.020 cere autorizare ATC, iar limita de altitudine se stabilește prin aceasta.",
      "warn": ""
     },
     {
      "text": "3000 de metri",
      "correct": true,
      "short": "",
-     "long": "Sursele consultate nu confirmă cifra de 3000 m ca limită de altitudine pentru ULM în spațiul controlat. În spațiul controlat zborul depinde de autorizarea ATC, iar limitele de altitudine sunt stabilite în reglementarea aplicabilă. Cifra nu am confirmat-o; verifică-o în RACR-LPAN ULM și în AIP România.",
-     "warn": ""
+     "long": "3000 m nu apare în regulamentele consultate ca înălțime maximă pentru motoparapantă. Răspunsul marcat este tratat în avertisment.",
+     "warn": "Regulamentele consultate (RACR-RA, RACR-LPAN ULM, Codul aerian) nu conțin cifra de 3000 m ca înălțime maximă pentru motoparapantă în spațiul controlat. Răspunsul marcat nu este susținut de documentele din manual."
     },
     {
      "text": "2000 de metri",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "2000 m nu apare în regulamentele consultate ca înălțime maximă pentru motoparapantă în spațiul controlat.",
      "warn": ""
     },
     {
      "text": "4000 de metri",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "4000 m nu apare în regulamentele consultate ca înălțime maximă pentru motoparapantă în spațiul controlat.",
      "warn": ""
     }
    ]
@@ -114,34 +114,34 @@
    "number": "#4",
    "text": "323: Care este înălțimea maximă la care poate zbura o motoparapantă în spațiul aerian G?",
    "short": "Varianta corectă indică 3000 de metri ca înălțime maximă a motoparapantei în spațiul aerian G.",
-   "long": "Spațiul aerian G este necontrolat. Limitele depind de condițiile VMC și de reglementarea aplicabilă. Valoarea este 3000 m, dar nu am găsit confirmarea ei în sursele consultate, deci verifică-o înainte să o reții.",
+   "long": "Spațiul aerian de clasă G este necontrolat. În clasa G, zborul VFR este permis fără autorizare ATC, dar vizibilitatea și distanța față de nori trebuie să respecte RACR-RA, Tabelul 3-1: sub 900 m AMSL sau sub 300 m deasupra terenului, vizibilitatea minimă este de 5 km. Regulamentele consultate nu conțin cifra de 3000 m ca înălțime maximă în clasa G.",
    "answers": [
     {
      "text": "3000 de metri",
      "correct": true,
      "short": "",
-     "long": "Sursele consultate nu confirmă cifra de 3000 m ca limită de altitudine în spațiul G. Ce am găsit: în spațiul G, sub 3000 ft (circa 900 m), vizibilitatea minimă este de 5 km. Este o limită de vizibilitate, nu de înălțime maximă, și nu trebuie confundată cu 3000 m.",
-     "warn": ""
+     "long": "Regulamentele consultate nu conțin cifra de 3000 m ca înălțime maximă în clasa G. Răspunsul marcat este tratat în avertisment.",
+     "warn": "Regulamentele consultate (RACR-RA, RACR-LPAN ULM, Codul aerian) nu conțin cifra de 3000 m ca înălțime maximă pentru motoparapantă în clasa G. Răspunsul marcat nu este susținut de documentele din manual."
     },
     {
      "text": "2000 de metri",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "2000 m nu apare în regulamentele consultate ca înălțime maximă în clasa G.",
      "warn": ""
     },
     {
      "text": "4000 de metri",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "4000 m nu apare în regulamentele consultate ca înălțime maximă în clasa G.",
      "warn": ""
     },
     {
      "text": "1500 de metri",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea corectă.",
+     "long": "1500 m nu apare în regulamentele consultate ca înălțime maximă în clasa G. Cifra de 1500 m apare în RACR-RA ca distanță orizontală față de nori, nu ca înălțime.",
      "warn": ""
     }
    ]
@@ -150,34 +150,34 @@
    "number": "#5",
    "text": "394: Ce tip de licență este prevăzută pentru personalul aeronautic civil navigant al motoparapantelor conform OMTCT 630, consolidat 2023?",
    "short": "Pentru personalul navigant al motoparapantelor, licența prevăzută este RACR-LPAN ULM.",
-   "long": "Licența de pilot pentru aeronave ultraușoare motorizate din România este emisă conform RACR-LPAN ULM. CPL, ATPL și PPL sunt licențe pentru avioane, în sistemul de licențiere EASA. Denumirea exactă a documentului și valabilitatea trebuie verificate în reglementarea actuală.",
+   "long": "Licența de pilot de aeronave ultraușoare motorizate, inclusiv pentru motoparapantă, este reglementată prin RACR-LPAN ULM. Nu este o licență de avion comercial sau de linie.",
    "answers": [
     {
      "text": "CPL (Commercial Pilot License)",
      "correct": false,
      "short": "",
-     "long": "Este licență pentru avioane, nu pentru ULM.",
+     "long": "CPL este licența de pilot comercial pentru avioane, reglementată altfel, nu pentru motoparapantă sub RACR-LPAN ULM.",
      "warn": ""
     },
     {
      "text": "RACR - LPAN ULM",
      "correct": true,
      "short": "",
-     "long": "Este licența corectă pentru personalul navigant ULM.",
+     "long": "Corect. Licența de pilot de aeronave ultraușoare motorizate este reglementată prin RACR-LPAN ULM, iar motoparapanta este inclusă în categoria aeronavelor ultraușoare (RACR-CCO ULM, pct. 1.2.3.1).",
      "warn": ""
     },
     {
      "text": "ATPL (Airline Transport Pilot License)",
      "correct": false,
      "short": "",
-     "long": "Este licența pentru transportul aerian de linie.",
+     "long": "ATPL este licența de pilot de linie, cu cerințe mult mai mari decât licența ULM. Nu se aplică motoparapantei.",
      "warn": ""
     },
     {
      "text": "PPL (Private Pilot License)",
      "correct": false,
      "short": "",
-     "long": "Este licența pentru avioane, nu pentru ULM.",
+     "long": "PPL este licența de pilot privat pentru aeronave din alte categorii. Pentru motoparapantă se aplică RACR-LPAN ULM.",
      "warn": ""
     }
    ]
@@ -186,34 +186,34 @@
    "number": "#6",
    "text": "172: Evidenţa activităţii de zbor a unui pilot de aeronave ultrauşoare motorizate se ţine în:",
    "short": "Evidența activității de zbor a pilotului de ULM se ține în carnetul de zbor.",
-   "long": "Carnetul de zbor este documentul personal în care pilotul consemnează zborurile. Livretul aeronavei este pentru aeronavă, fișa de pregătire este pentru instruire, iar cantitatea de ulei nu este evidență de zbor.",
+   "long": "Activitatea de zbor a pilotului de aeronave ultraușoare motorizate se înregistrează în carnetul de zbor, care este obligatoriu pentru piloți, inclusiv pentru elevi (RACR-LPAN ULM.4020). Instructorii certifică activitatea de pregătire în carnet, cu mențiunea „instruire” la scopul zborului.",
    "answers": [
     {
      "text": "fişa de pregătire practică în zbor",
      "correct": false,
      "short": "Fișa de pregătire practică în zbor.",
-     "long": "Este pentru instruire, nu pentru evidența zborurilor.",
+     "long": "Fișa de pregătire practică în zbor este documentul de pregătire, completat de instructor, nu este evidența zborurilor pilotului (RACR-LPAN ULM.4020 lit. b și c).",
      "warn": ""
     },
     {
      "text": "livretul aeronavei",
      "correct": false,
      "short": "",
-     "long": "Este documentul aeronavei, nu al pilotului.",
+     "long": "Livretul aeronavei conține datele tehnice și ale aeronavei, nu activitatea de zbor a pilotului.",
      "warn": ""
     },
     {
      "text": "carnetul de zbor",
      "correct": true,
      "short": "",
-     "long": "Este documentul corect pentru evidența zborurilor.",
+     "long": "Corect. Carnetul de zbor este evidența activității de zbor a pilotului, obligatorie conform RACR-LPAN ULM.4020.",
      "warn": ""
     },
     {
      "text": "cantitatea de ulei consumată",
      "correct": false,
      "short": "",
-     "long": "Nu este evidența activității de zbor.",
+     "long": "Consumul de ulei nu este evidența zborului pilotului.",
      "warn": ""
     }
    ]
@@ -222,34 +222,34 @@
    "number": "#7",
    "text": "340: Ce document trebuie prezentat pentru recunoașterea licențelor străine de pilot de motoparapantă?",
    "short": "Pentru recunoașterea licențelor străine de pilot de motoparapantă se prezintă certificatul de recunoaștere emis de autoritatea de certificare.",
-   "long": "Licența străină nu este valabilă automat în România. Este nevoie de un certificat de recunoaștere emis de autoritatea competentă, care arată că licența a fost echivalată. Certificatul de radiotelefonist, cel de navigabilitate și cel medical au alte roluri.",
+   "long": "Pentru a putea acționa ca membru al echipajului de conducere cu o licență străină de motoparapantă, pilotul trebuie să aibă certificat de recunoaștere emis de autoritatea de certificare, aflat în termen de valabilitate (RACR-LPAN ULM.2020 lit. a). Certificatul este modelat în Anexa 3 a regulamentului.",
    "answers": [
     {
      "text": "certificatul de radiotelefonist",
      "correct": false,
      "short": "",
-     "long": "Are alt rol, legat de operarea radioului.",
+     "long": "Certificatul de radiotelefonist este necesar separat, pentru comunicații, dar nu este documentul de recunoaștere a licenței străine (RACR-LPAN ULM.2175 lit. e).",
      "warn": ""
     },
     {
      "text": "certificatul de recunoaștere emis de autoritatea de certificare",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Certificatul de recunoaștere, emis de autoritatea de certificare, este documentul cerut pentru recunoașterea licenței străine (RACR-LPAN ULM.2020 lit. a și Anexa 3).",
      "warn": ""
     },
     {
      "text": "certificatul de navigabilitate",
      "correct": false,
      "short": "",
-     "long": "Este pentru aeronavă, nu pentru licența pilotului.",
+     "long": "Certificatul de navigabilitate privește aeronava, nu pilotul.",
      "warn": ""
     },
     {
      "text": "certificatul medical",
      "correct": false,
      "short": "",
-     "long": "Este separat de recunoașterea licenței.",
+     "long": "Certificatul medical este cerut în plus, dar nu înlocuiește certificatul de recunoaștere (RACR-LPAN ULM.2175 lit. d).",
      "warn": ""
     }
    ]
@@ -258,34 +258,34 @@
    "number": "#8",
    "text": "175: Care sunt, conform reglementării RACR – RA Regulile aerului, condiţiile de vizibilitate şi plafon în care o aeronavă poate decola sau ateriza de pe/pe un aerodrom situat într-o zonă de control sau să intre în zona de trafic de aerodrom sau în procedura de trafic?",
    "short": "Pentru decolare sau aterizare pe aerodromul din zona de control sau în zona de trafic, varianta corectă indică plafon de 450 m și vizibilitate la sol de 5 km.",
-   "long": "Condițiile minime de plafon și vizibilitate pentru decolare și aterizare în zona de control sunt stabilite prin RACR-RA (Regulile aerului). Valorile sunt 450 m și 5 km. Nu le-am confirmat în textul oficial, deci verifică-le înainte de utilizare.",
+   "long": "Conform RACR-RA 4.020, un zbor VFR nu poate decola sau ateriza pe un aerodrom din zona de control, sau nu poate intra în zona de trafic, dacă plafonul este sub 450 m (1500 ft) sau vizibilitatea la sol este sub 5 km. Excepția este autorizarea ATC de la unitatea competentă.",
    "answers": [
     {
      "text": "plafon la 1000 m, vizibilitate la sol 10 km",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "Plafonul de 1000 m și vizibilitatea de 10 km nu sunt pragurile din RACR-RA 4.020 pentru zona de control; limitele sunt 450 m și 5 km.",
      "warn": ""
     },
     {
      "text": "plafon la 1500 m, vizibilitate la sol 10 km",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "Plafonul de 1500 m nu este pragul din RACR-RA 4.020. Pragul este 450 m (1500 ft); cifra de 1500 m confundă metrii cu picioarele.",
      "warn": ""
     },
     {
      "text": "plafon la 1500 m, vizibilitate la sol 5 km",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "Plafonul de 1500 m nu este pragul din RACR-RA 4.020. Pragul este 450 m (1500 ft), iar vizibilitatea de 5 km este corectă, dar cifra de plafon nu este.",
      "warn": ""
     },
     {
      "text": "plafon la 450 m, vizibilitate la sol 5 km",
      "correct": true,
      "short": "",
-     "long": "Conform RACR-RA (4.020), o aeronavă VFR nu poate decola sau ateriza pe un aerodrom din zona de control dacă plafonul este sub 450 m (1500 ft) sau vizibilitatea la sol este sub 5 km, decât cu autorizare ATC. Varianta D are exact aceste valori, iar celelalte variante au plafoane sau vizibilități diferite.",
+     "long": "Corect. RACR-RA 4.020: plafon de cel puțin 450 m (1500 ft) și vizibilitate la sol de cel puțin 5 km pentru decolarea și aterizarea VFR în zona de control.",
      "warn": ""
     }
    ]
@@ -294,34 +294,34 @@
    "number": "#9",
    "text": "176: Terenurile sau suprafeţele de apă, altele decât aerodromurile certificate de pe/pe care se pot efectua decolări şi aterizări ale aeronavelor civile, trebuie să:",
    "short": "Terenurile sau suprafețele de apă, altele decât aerodromurile certificate, trebuie să aibă acordul proprietarului și să fie în afara zonelor dens populate, la cel puțin 150 m de locuințe.",
-   "long": "Decolarea sau aterizarea pe alte terenuri necesită acordul proprietarului sau administratorului, iar terenul trebuie să permită decolare și aterizare în siguranță, departe de zonele populate și de locuințe. Varianta reunește aceste condiții. Distanța de 150 m trebuie verificată în reglementarea actuală.",
+   "long": "Decolările și aterizările pe terenuri care nu sunt aerodromuri certificate sunt permise în anumite condiții cumulative (Codul aerian, art. 14 alin. 2): acordul proprietarului, amplasarea în afara zonelor dens populate, la cel puțin 150 m de clădiri de locuit, unități medicale sau de învățământ, și dimensiuni care permit zborul în siguranță.",
    "answers": [
     {
      "text": "să obţină acordul proprietarului terenului sau al administratorului şi să fie amplasate în afara zonelor dens populate, la o distanță nu mai mică de 150 m de o locuință, iar dimensiunile terenului să permită decolarea/ aterizarea în condiții de siguranță",
      "correct": true,
      "short": "Să aibă o lățime minimă de 50 m, lungime minimă de 500 m și să nu fie obstacolate la mai puțin de 200 m față de praguri.",
-     "long": "Sunt dimensiuni pentru aerodrom, nu condițiile pentru teren.",
+     "long": "Corect. Acestea sunt condițiile cumulative din Codul aerian, art. 14 alin. 2: acordul proprietarului sau administratorului, amplasarea în afara zonelor dens populate, distanța de cel puțin 150 m față de clădiri de locuit, medicale sau de învățământ, și dimensiuni care permit zborul în siguranță.",
      "warn": ""
     },
     {
      "text": "aibă o lăţime minima de 50 m, lungime minimă de 500 m, să nu fie obstacolate la mai puţin de 200 m faţa de praguri pe directive",
      "correct": false,
      "short": "Să fie cosite sau betonate.",
-     "long": "Nu este condiția corectă.",
+     "long": "Lățimea de 50 m, lungimea de 500 m și distanța de 200 m față de praguri sunt dimensiuni de aerodrom, nu condiții pentru teren neautorizat. Codul aerian cere doar ca dimensiunile să permită zborul în siguranță.",
      "warn": ""
     },
     {
      "text": "să fie cosite sau betonate",
      "correct": false,
      "short": "Să obțină acordul proprietarului sau al administratorului, să fie în afara zonelor dens populate, la cel puțin 150 m de o locuință, iar dimensiunile să permită decolarea și aterizarea în siguranță.",
-     "long": "Nu este varianta corectă.",
+     "long": "Cosirea sau betonarea nu este cerința din Codul aerian. Terenul trebuie să permită zborul în condiții de siguranță, indiferent de suprafață.",
      "warn": ""
     },
     {
      "text": "fie autorizate de primărie",
      "correct": false,
      "short": "Să fie autorizate de primărie.",
-     "long": "Nu este condiția corectă.",
+     "long": "Autorizarea de la primărie nu este condiția generală. Primăria poate stabili restricții de zbor pe teren, dar nu emite autorizarea de principiu (Codul aerian, art. 14 alin. 2 lit. d).",
      "warn": ""
     }
    ]
@@ -330,34 +330,34 @@
    "number": "#10",
    "text": "188: Este permis zborul VFR în spaţiul aerian de clasă A?",
    "short": "Zborul VFR nu este permis în spațiul aerian de clasă A.",
-   "long": "Clasa A este spațiul cel mai strict controlat, în care zborurile se fac numai IFR, cu autorizare de la ATC. VFR nu este permis în această clasă, deci răspunsul „nu” este corect. Restul variantelor contrazic regula.\n\nClasa A este spațiu controlat în care zborul este permis doar IFR, cu autorizare ATC; VFR nu este permis.",
+   "long": "Zborul VFR nu este acceptat în spațiul aerian de clasă A. RACR-RA, Tabelul 3-1 precizează că minimele VMC din clasa A sunt date doar cu titlu de informare și nu implică acceptarea zborurilor VFR în clasa A.",
    "answers": [
     {
      "text": "nu",
      "correct": true,
      "short": "",
-     "long": "Este răspunsul corect: VFR nu este permis în clasa A.",
+     "long": "Corect. Zborul VFR nu este acceptat în clasa A (RACR-RA, Tabelul 3-1, nota ***).",
      "warn": ""
     },
     {
      "text": "da",
      "correct": false,
      "short": "",
-     "long": "Nu este permis zborul VFR în clasa A.",
+     "long": "Nu. Zborul VFR nu este acceptat în clasa A (RACR-RA, Tabelul 3-1, nota ***).",
      "warn": ""
     },
     {
      "text": "doar în timpul zilei",
      "correct": false,
      "short": "",
-     "long": "Ziua nu schimbă regula pentru clasa A.",
+     "long": "Ziua nu schimbă regula. Clasa A nu acceptă zborul VFR (RACR-RA, Tabelul 3-1, nota ***).",
      "warn": ""
     },
     {
      "text": "cu autorizarea unităţii de trafic aerian respective",
      "correct": false,
      "short": "Cu autorizarea unității de trafic aerian respective.",
-     "long": "Autorizarea nu transformă clasa A în spațiu pentru VFR.",
+     "long": "Autorizarea ATS există doar pentru excepții punctuale, de exemplu zborul VFR peste FL 200 (RACR-RA 4.040). Regula generală pentru clasa A rămâne interzicerea zborului VFR.",
      "warn": ""
     }
    ]
