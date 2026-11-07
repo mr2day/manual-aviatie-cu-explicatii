@@ -2526,34 +2526,34 @@
    "number": "#71",
    "text": "345: Ce trebuie să facă un pilot pentru a opera o motoparapantă în vecinătatea unui aerodrom?",
    "short": "Pentru a opera o motoparapantă în vecinătatea unui aerodrom trebuie să observi traficul de aerodrom.",
-   "long": "În jurul aerodromului circulă aeronave care aterizează și decolează, deci pilotul trebuie să observe traficul, să respecte procedurile de trafic și să evite zona de aterizare. Depunerea planului sau comunicarea cu turnul nu sunt cerințele corecte.",
+   "long": "În apropierea aerodromului, pilotul trebuie să vadă și să evite traficul de aerodrom: aeronavele care decolează, aterizează sau circulă pe sol. De aceea observarea traficului este obligatorie.",
    "answers": [
     {
      "text": "să depună un plan de zbor",
      "correct": false,
      "short": "",
-     "long": "Nu este cerința corectă.",
+     "long": "Planul de zbor nu este cerința pentru operarea în vecinătatea aerodromului. Planul se depune pentru zborurile în care se cere serviciu ATC (RACR-RA 3.030, pct. 1.2).",
      "warn": ""
     },
     {
      "text": "să respecte procedurile de trafic",
      "correct": false,
      "short": "",
-     "long": "Este importantă, dar varianta corectă este observarea traficului.",
+     "long": "Procedurile de trafic sunt aplicate, dar pilotul trebuie să observe mai întâi traficul, ceea ce este formularea completă a obligației.",
      "warn": ""
     },
     {
      "text": "să comunice cu turnul de control",
      "correct": false,
      "short": "",
-     "long": "Nu este cerința generală în vecinătate.",
+     "long": "Comunicarea cu turnul este cerută doar acolo unde există serviciu ATC cu radio obligatoriu. Obligația generală este observarea traficului.",
      "warn": ""
     },
     {
      "text": "să observe traficul de aerodrom",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Pilotul trebuie să observe traficul de aerodrom, pentru a evita coliziunile cu aeronavele care decolează, aterizează sau circulă.",
      "warn": ""
     }
    ]
@@ -2562,34 +2562,34 @@
    "number": "#72",
    "text": "366: Ce presupune clasificarea spațiului aerian?",
    "short": "Clasificarea spațiului aerian înseamnă împărțirea lui în clase, în funcție de nivelul de control și de serviciile furnizate.",
-   "long": "Spațiul aerian este grupat în clase (A–G), fiecare cu reguli diferite pentru tipurile de zbor, comunicare și servicii. Clasificarea nu împarte spațiul în sectoare naționale sau pe tipuri de aeronave.",
+   "long": "Spațiul aerian este clasificat în clase de la A la G (AIP ENR 1.4). Clasa depinde de nivelul de control ATC și de serviciile furnizate fiecărui zbor, de exemplu clasa A are doar IFR cu control, iar clasa G este necontrolată.",
    "answers": [
     {
      "text": "divizarea spațiului aerian în sectoare naționale și internaționale",
      "correct": false,
      "short": "",
-     "long": "Nu este clasificarea.",
+     "long": "Împărțirea în sectoare naționale și internaționale nu este clasificarea spațiului aerian. Clasificarea se face pe clase de la A la G.",
      "warn": ""
     },
     {
      "text": "clasificarea spațiului aerian în funcție de nivelul de control al traficului aerian și serviciile furnizate",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Clasele de la A la G depind de nivelul de control ATC și de serviciile furnizate (AIP ENR 1.4).",
      "warn": ""
     },
     {
      "text": "alocarea spațiului aerian în funcție de tipul de aeronave utilizate",
      "correct": false,
      "short": "",
-     "long": "Clasificarea nu depinde de tipul aeronavei.",
+     "long": "Clasificarea nu se face după tipul de aeronave. Se face după nivelul de control și serviciile furnizate.",
      "warn": ""
     },
     {
      "text": "delimitarea spațiului aerian în zone pentru zboruri private și comerciale",
      "correct": false,
      "short": "",
-     "long": "Clasificarea nu se face pe acest criteriu.",
+     "long": "Delimitarea pe zboruri private și comerciale nu este clasificarea spațiului aerian din AIP ENR 1.4.",
      "warn": ""
     }
    ]
@@ -2598,34 +2598,34 @@
    "number": "#73",
    "text": "179: Zborurile cu aeronave ULM deasupra zonelor dens populate sunt:",
    "short": "Zborurile cu aeronave ULM deasupra zonelor dens populate sunt interzise.",
-   "long": "Deasupra zonelor dens populate, zborurile ULM sunt interzise, în varianta corectă. Limitele de altitudine menționate în alte variante nu înlocuiesc interdicția. Verifică regula exactă în reglementare.",
+   "long": "Codul aerian, art. 15 alin. 2, interzice zborul oricărei aeronave deasupra zonelor dens populate sau a adunărilor de oameni în aer liber sub 300 m față de orice obstacol fix în raza de 600 m. Zborul cu ULM peste zone dens populate este deci interzis.",
    "answers": [
     {
      "text": "permise la o înălţime minimă de 600 m",
      "correct": false,
      "short": "Permise la o înălțime minimă de 600 m.",
-     "long": "Nu este varianta corectă.",
+     "long": "Nu există înălțime minimă de 600 m care să permită zborul peste zone dens populate. Codul aerian, art. 15 alin. 2, interzice zborul sub 300 m față de obstacole.",
      "warn": ""
     },
     {
      "text": "permise la o înălțime minimă de 150 m",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "150 m nu permite zborul peste zone dens populate. Codul aerian, art. 15 alin. 2, interzice zborul sub 300 m față de obstacole.",
      "warn": ""
     },
     {
      "text": "permise la o înălţime de minim 150 m, astfel încât la nevoie sa se poată ateriza în siguranţă",
      "correct": false,
      "short": "Permise la o înălțime de minim 150 m, astfel încât la nevoie să se poată ateriza în siguranță.",
-     "long": "Nu este varianta corectă.",
+     "long": "Posibilitatea de a ateriza în siguranță nu face zborul permis peste zone dens populate. Codul aerian interzice zborul (art. 15 alin. 2).",
      "warn": ""
     },
     {
      "text": "interzise",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Codul aerian, art. 15 alin. 2, interzice zborul peste zone dens populate la sub 300 m față de obstacolele din raza de 600 m, cu excepțiile enumerate în lege.",
      "warn": ""
     }
    ]
@@ -2634,34 +2634,34 @@
    "number": "#74",
    "text": "388: Ce indică un H alb dispus în zona de aterizare pe un aerodrom?",
    "short": "Un H alb în zona de aterizare marchează zona rezervată elicopterelor.",
-   "long": "Marcajele de sol sunt standardizate: H pentru elicoptere, L pentru aeronave ușoare, cruce dublă pentru planoare. H nu marchează zona pentru parapante motorizate.",
+   "long": "Literele și semnele de pe aerodrom indică zone pentru categorii de aeronave. Litera H este semnul zonei rezervate elicopterelor.",
    "answers": [
     {
      "text": "zona de parcare pentru aeronave",
      "correct": false,
      "short": "",
-     "long": "Nu este semnificația H.",
+     "long": "Zona de parcare nu este indicată de litera H.",
      "warn": ""
     },
     {
      "text": "zona rezervată decolării/aterizării parapantelor motorizate",
      "correct": false,
      "short": "",
-     "long": "Nu este semnificația H.",
+     "long": "Zona pentru parapante motorizate nu este indicată de litera H.",
      "warn": ""
     },
     {
      "text": "zona rezervată decolării/aterizării planoarelor",
      "correct": false,
      "short": "",
-     "long": "Planoarele au cruce dublă.",
+     "long": "Zona planoarelor nu este indicată de litera H.",
      "warn": ""
     },
     {
      "text": "zona rezervată decolării/aterizării elicopterelor",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. H este semnul zonei rezervate decolării și aterizării elicopterelor.",
      "warn": ""
     }
    ]
@@ -2670,34 +2670,34 @@
    "number": "#75",
    "text": "327: Care sunt regulile de siguranță pentru zborul cu motoparapanta?",
    "short": "Regulile de siguranță pentru zborul cu motoparapanta includă verificarea echipamentului, folosirea echipamentului de protecție și zborul în condiții meteo favorabile: toate sunt corecte.",
-   "long": "Verificarea prealabilă, echipamentul de protecție și condițiile meteo favorabile sunt toate reguli de siguranță. Varianta care le cuprinde pe toate este cea corectă.",
+   "long": "Siguranța zborului cu motoparapanta cere verificarea echipamentului înainte de zbor, purtarea echipamentului de protecție și zborul în condiții meteo favorabile. Toate cele trei sunt reguli de siguranță.",
    "answers": [
     {
      "text": "verificarea prealabilă a echipamentului",
      "correct": false,
      "short": "",
-     "long": "Este o regulă, dar nu singura.",
+     "long": "Verificarea echipamentului înainte de zbor este regulă de siguranță, deci este corectă, dar nu singura.",
      "warn": ""
     },
     {
      "text": "utilizarea echipamentului de protecție",
      "correct": false,
      "short": "",
-     "long": "Este o regulă, dar nu singura.",
+     "long": "Echipamentul de protecție este regulă de siguranță, deci este corectă, dar nu singura.",
      "warn": ""
     },
     {
      "text": "zborul doar în condiții meteo favorabile",
      "correct": false,
      "short": "",
-     "long": "Este o regulă, dar nu singura.",
+     "long": "Zborul în condiții meteo favorabile este regulă de siguranță, deci este corectă, dar nu singura.",
      "warn": ""
     },
     {
      "text": "toate variantele sunt corecte",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Toate cele trei reguli sunt de siguranță, deci varianta care le cuprinde pe toate este corectă.",
      "warn": ""
     }
    ]
@@ -2706,34 +2706,34 @@
    "number": "#76",
    "text": "330: Cum se poate zbura în interiorul spațiului aerian controlat CTR?",
    "short": "Zborul în interiorul CTR se face cu autorizație de la controlul traficului aerian.",
-   "long": "CTR este spațiu controlat, deci pentru a intra sau a zbura acolo este nevoie de autorizarea ATC. Notificarea aeroportului, zilele de week-end sau altitudinile mici nu sunt condițiile corecte.",
+   "long": "Zborul în CTR (zona de control) se face cu autorizație ATC. Spațiul controlat cere coordonare cu unitatea de control al traficului aerian (RACR-RA 2.4.3 și 4.020).",
    "answers": [
     {
      "text": "cu autorizație de la controlul traficului aerian",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. În CTR se intră cu autorizație de la controlul traficului aerian (RACR-RA 2.4.3).",
      "warn": ""
     },
     {
      "text": "cu notificarea prealabilă a aeroportului local",
      "correct": false,
      "short": "",
-     "long": "Notificarea nu înlocuiește autorizația.",
+     "long": "Notificarea aeroportului nu este condiția de intrare în CTR. Condiția este autorizația ATC.",
      "warn": ""
     },
     {
      "text": "doar în zilele de week-end",
      "correct": false,
      "short": "",
-     "long": "Nu este condiția.",
+     "long": "Zilele de week-end nu sunt condiție pentru zborul în CTR.",
      "warn": ""
     },
     {
      "text": "numai la altitudini sub 300 de metri",
      "correct": false,
      "short": "",
-     "long": "Altitudinea nu înlocuiește autorizația.",
+     "long": "Altitudinea sub 300 m nu permite intrarea în CTR fără autorizație ATC.",
      "warn": ""
     }
    ]
@@ -2742,34 +2742,34 @@
    "number": "#77",
    "text": "385: Care este termenul de valabilitate al certificatului de recunoaștere pentru licența de pilot de aeronave ultrausoare motorizate emisă de o autoritate competentă dintr-un alt stat?",
    "short": "Certificatul de recunoaștere pentru o licență străină nu depășește termenul de valabilitate al licenței de bază.",
-   "long": "Recunoașterea rămâne valabilă atât timp cât și licența de bază este valabilă. Termenele fixe de 12, 24 sau 36 de luni nu sunt criteriul corect.",
+   "long": "Certificatul de recunoaștere nu poate depăși valabilitatea licenței de bază (RACR-LPAN ULM.2180).",
    "answers": [
     {
      "text": "nu trebuie să depășească 24 luni",
      "correct": false,
      "short": "Nu trebuie să depășească 24 de luni.",
-     "long": "Nu este criteriul corect.",
+     "long": "Termenul de 24 de luni nu este regula generală. Valabilitatea certificatului de recunoaștere este cea a licenței de bază (RACR-LPAN ULM.2180).",
      "warn": ""
     },
     {
      "text": "nu trebuie să depășească 36 luni",
      "correct": false,
      "short": "Nu trebuie să depășească 36 de luni.",
-     "long": "Nu este criteriul corect.",
+     "long": "Termenul de 36 de luni nu este regula. Valabilitatea certificatului de recunoaștere este cea a licenței de bază (RACR-LPAN ULM.2180).",
      "warn": ""
     },
     {
      "text": "nu trebuie să depășească 12 luni\",",
      "correct": false,
      "short": "Nu trebuie să depășească 12 luni.",
-     "long": "Nu este criteriul corect.",
+     "long": "Termenul de 12 luni nu este regula. Valabilitatea certificatului de recunoaștere este cea a licenței de bază (RACR-LPAN ULM.2180).",
      "warn": ""
     },
     {
      "text": "nu trebuie să depășească termenul de valabilitate al licenței de bază",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Certificatul de recunoaștere nu depășește termenul de valabilitate al licenței de bază (RACR-LPAN ULM.2180).",
      "warn": ""
     }
    ]
@@ -2814,34 +2814,34 @@
    "number": "#79",
    "text": "352: Ce servicii sunt asigurate în spațiul aerian de clasa C?",
    "short": "În spațiul aerian de clasa C sunt permise zborurile IFR și VFR, iar toate zborurile sunt supuse serviciului de control al traficului aerian.",
-   "long": "În clasa C, ATC controlează toate zborurile, IFR și VFR, și cere comunicare radio bilaterală. Serviciul nu este opțional, nici nu este permis doar zborul IFR.\n\nClasa C este spațiu controlat în care ATC asigură serviciu pentru toate zborurile, IFR și VFR. Pentru intrare este necesară autorizarea ATC și legătura radio bilaterală, menținută permanent. Serviciul nu este opțional. În România, clasa C este folosită, conform AIP ENR 1.4 (ediția 2023), de la FL105 în sus; verifică limitele în ediția actuală, pe aisro.ro.",
+   "long": "Clasa C este spațiu controlat: toate zborurile, IFR și VFR, sunt supuse serviciului de control ATC, iar zborul este permis în ambele regimuri (AIP ENR 1.4, clasa C).",
    "answers": [
     {
      "text": "sunt permise zborurile IFR și VFR, toate zborurile sunt supuse serviciului de control al traficului aerian",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. În clasa C sunt permise IFR și VFR, iar toate zborurile sunt sub control ATC (AIP ENR 1.4, clasa C).",
      "warn": ""
     },
     {
      "text": "sunt permise zborurile IFR și VFR, serviciul de control al traficului aerian este opțional",
      "correct": false,
      "short": "Sunt permise zborurile IFR și VFR, serviciul de control este opțional.",
-     "long": "Controlul nu este opțional în clasa C.",
+     "long": "Controlul ATC nu este opțional în clasa C. Toate zborurile primesc serviciu de control (AIP ENR 1.4).",
      "warn": ""
     },
     {
      "text": "sunt permise doar zborurile IFR, toate zborurile sunt supuse serviciului de control al traficului aerian",
      "correct": false,
      "short": "Sunt permise doar zborurile IFR, toate sunt supuse controlului.",
-     "long": "VFR este permis în clasa C.",
+     "long": "În clasa C sunt permise și zborurile VFR, nu doar IFR (AIP ENR 1.4).",
      "warn": ""
     },
     {
      "text": "sunt permise zborurile IFR și VFR, serviciul de control al traficului aerian nu este obligatoriu",
      "correct": false,
      "short": "Sunt permise zborurile IFR și VFR, serviciul de control nu este obligatoriu.",
-     "long": "Controlul este obligatoriu în clasa C.",
+     "long": "Controlul ATC este obligatoriu în clasa C, nu facultativ (AIP ENR 1.4).",
      "warn": ""
     }
    ]
@@ -2850,34 +2850,34 @@
    "number": "#80",
    "text": "326: De unde se poate decola cu o motoparapantă în România?",
    "short": "Motoparapanta decolează din orice zonă desemnată pentru decolare.",
-   "long": "Decolarea se face din zonele desemnate, adică aerodromuri certificate sau alte terenuri stabilite în condițiile reglementării. Nu se decolează din orice loc neobstacolat, nici doar din aerodromuri sau doar din terenuri private.",
+   "long": "Decolarea și aterizarea cu motoparapanta se fac, de regulă, de pe aerodromuri certificate sau de pe terenuri care îndeplinesc condițiile din Codul aerian, art. 14 alin. 2 (în afara zonelor dens populate, la 150 m de clădiri, cu acordul proprietarului).",
    "answers": [
     {
      "text": "din orice loc neobstacolat",
      "correct": false,
      "short": "",
-     "long": "Nu este permis din orice loc.",
+     "long": "Orice loc neobstacolat nu îndeplinește condițiile art. 14 alin. 2 din Codul aerian (acord, distanță de clădiri, zone dens populate).",
      "warn": ""
     },
     {
      "text": "doar de pe aerodromuri",
      "correct": false,
      "short": "",
-     "long": "Pot fi folosite și alte zone desemnate.",
+     "long": "Decolarea nu este limitată la aerodromuri. Codul aerian, art. 14 alin. 2, permite și terenuri care îndeplinesc condițiile.",
      "warn": ""
     },
     {
      "text": "din orice zonă desemnată pentru decolare",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Terenurile de decolare trebuie să îndeplinească condițiile din Codul aerian, art. 14 alin. 2 (acord, distanță, dimensiuni), și pot fi folosite în zone desemnate de autoritate.",
      "warn": ""
     },
     {
      "text": "doar de pe terenuri private",
      "correct": false,
      "short": "",
-     "long": "Nu este condiția.",
+     "long": "Decolarea nu este limitată la terenuri private. Codul aerian, art. 14 alin. 2, permite și alte terenuri care îndeplinesc condițiile.",
      "warn": ""
     }
    ]
@@ -2892,14 +2892,14 @@
      "text": "50 de ore teorie și 12 ore de zbor",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "12 ore de zbor nu corespund RACR-LPAN ULM.2060 lit. a pct. i, care cere minimum 15 ore de zbor pentru parapante cu motor.",
      "warn": ""
     },
     {
      "text": "50 de ore teorie și 13 ore de zbor",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "13 ore de zbor nu corespund RACR-LPAN ULM.2060 lit. a pct. i (minimum 15 ore pentru parapante cu motor).",
      "warn": ""
     },
     {
@@ -2913,7 +2913,7 @@
      "text": "50 de ore teorie și 18 ore de zbor",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "18 ore de zbor nu corespund RACR-LPAN ULM.2060 lit. a pct. i (minimum 15 ore pentru parapante cu motor). Cifra de 15 este minimul, nu un plafon.",
      "warn": ""
     }
    ]
@@ -2922,34 +2922,34 @@
    "number": "#82",
    "text": "174: Spaţiul aerian clasa G se întinde pe verticală:",
    "short": "Spațiul aerian de clasa G se întinde până la FL 105, adică aproximativ 3200 m deasupra nivelului mării.",
-   "long": "Limita superioară a clasei G este stabilită prin reglementare și exprimată ca nivel de zbor. FL 105 corespunde aproximativ la 3200 m (10 500 ft). Celelalte variante nu indică limita superioară.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
+   "long": "În FIR București, spațiul de clasa G este spațiul care nu este desemnat altă clasă, zonele restricționate exceptate (AIP ENR 1.4). Clasa C, deasupra FL105, este desemnată separat, deci clasa G merge până la FL105 în zonele unde nu există altă clasă.",
    "answers": [
     {
      "text": "până la altitudinea de 1000 m",
      "correct": false,
      "short": "",
-     "long": "Limita este mai mare.",
+     "long": "Altitudinea de 1000 m nu este limita verticală a clasei G în AIP ENR 1.4 (clasa G este tot spațiul nedesemnat altfel).",
      "warn": ""
     },
     {
      "text": "până la înălţimea de 1000 m",
      "correct": false,
      "short": "Până la înălțimea de 1000 m.",
-     "long": "Limita este mai mare.",
+     "long": "Înălțimea de 1000 m nu este limita verticală a clasei G în AIP ENR 1.4.",
      "warn": ""
     },
     {
      "text": "nu este prevăzut în legislație",
      "correct": false,
      "short": "",
-     "long": "Este prevăzut.",
+     "long": "Spațiul G este prevăzut în legislație (AIP ENR 1.4, clasa G).",
      "warn": ""
     },
     {
      "text": "până la FL 105 (aprox. 3200m față de nivelul mării)",
      "correct": true,
      "short": "Până la FL 105 (aproximativ 3200 m față de nivelul mării).",
-     "long": "",
+     "long": "Corect. Clasa G este spațiul nedesemnat altfel, iar clasa C începe deasupra FL105 (AIP ENR 1.4).",
      "warn": ""
     }
    ]
@@ -2958,34 +2958,34 @@
    "number": "#83",
    "text": "180: Cui trebuie să ne adresăm pentru a începe procedura de înmatriculare a unei aeronave ultraușoare?",
    "short": "Pentru înmatricularea unei aeronave ultraușoare se adresează Aeroclubului României.",
-   "long": "Procedura de înmatriculare se face prin Aeroclubul României, care este interfața pentru documentele și verificările necesare. Inspectorul, instructorul sau școala și producătorul nu sunt punctul de început al procedurii corect.",
+   "long": "Înmatricularea aeronavelor ULM se face la autoritatea de certificare, care pentru ULM este Aeroclubul României (RACR-CCO ULM, certificatul de identificare și livretul se eliberează de autoritatea de certificare).",
    "answers": [
     {
      "text": "Inspectorului",
      "correct": false,
      "short": "",
-     "long": "Nu este punctul de început corect.",
+     "long": "Inspectorul verifică aeronava, dar nu deschide procedura de înmatriculare.",
      "warn": ""
     },
     {
      "text": "Instructorului",
      "correct": false,
      "short": "",
-     "long": "Nu este punctul de început corect.",
+     "long": "Instructorul pregătește piloții, dar nu înmatriculează aeronava.",
      "warn": ""
     },
     {
      "text": "Aeroclubului României",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Procedura de înmatriculare a ULM se începe la Aeroclubul României, autoritatea de certificare pentru ULM.",
      "warn": ""
     },
     {
      "text": "Școlii de zbor și producătorului",
      "correct": false,
      "short": "",
-     "long": "Nu este punctul de început corect.",
+     "long": "Școala de zbor și producătorul nu sunt autorități de înmatriculare.",
      "warn": ""
     }
    ]
@@ -2994,34 +2994,34 @@
    "number": "#84",
    "text": "184: Zborurile VFR ziua se execută:",
    "short": "Zborurile VFR ziua se execută între răsăritul și apusul soarelui.",
-   "long": "Zborul VFR de zi se face între răsărit și apus, cu excepțiile prevăzute în reglementare. Marja de 30 de minute, vizibilitatea singură sau nicio reglementare nu sunt varianta corectă.",
+   "long": "Zborul VFR de zi se face între răsărit și apus. Zborul VFR care are loc între apus și răsărit are reguli speciale (RACR-RA 4.030).",
    "answers": [
     {
      "text": "începând cu 30 minute înainte de răsăritul soarelui şi terminând cu 30 minute după apusul soarelui",
      "correct": false,
      "short": "Începând cu 30 de minute înainte de răsăritul soarelui și terminând cu 30 de minute după apus.",
-     "long": "Nu este varianta corectă.",
+     "long": "Perioada de 30 de minute înainte de răsărit și după apus nu este definiția zborului de zi. RACR-RA 4.030 leagă regulile de apusul și răsăritul soarelui.",
      "warn": ""
     },
     {
      "text": "între răsăritul şi apusul soarelui",
      "correct": true,
      "short": "Între răsăritul și apusul soarelui.",
-     "long": "",
+     "long": "Corect. Zborul de zi este cel între răsăritul și apusul soarelui.",
      "warn": ""
     },
     {
      "text": "nu se precizează în reglementări",
      "correct": false,
      "short": "",
-     "long": "Reglementarea o precizează.",
+     "long": "Regulamentul precizează perioada prin RACR-RA 4.030.",
      "warn": ""
     },
     {
      "text": "atât timp cât este vizibilitate și putem decola/ ateriza în siguranță",
      "correct": false,
      "short": "Atâta timp cât este vizibilitate și putem decola sau ateriza în siguranță.",
-     "long": "Vizibilitatea nu este singura condiție.",
+     "long": "Vizibilitatea nu definește zborul de zi. Perioada este cea dintre răsărit și apus (RACR-RA 4.030).",
      "warn": ""
     }
    ]
@@ -3030,34 +3030,34 @@
    "number": "#85",
    "text": "344: Ce trebuie să facă un pilot pentru a zbura deasupra teritoriului altui stat?",
    "short": "Pentru a zbura deasupra teritoriului altui stat, pilotul trebuie să obțină autorizația corespunzătoare din partea statului respectiv.",
-   "long": "Zborul în spațiul altui stat cere autorizarea acelui stat, conform regulilor sale. Comunicarea cu turnul, notificarea aeroportului sau planul de zbor nu înlocuiesc autorizarea statului străin.",
+   "long": "Zborul peste teritoriul altui stat cere autorizația statului respectiv, conform legislației statului sub care se zboară.",
    "answers": [
     {
      "text": "să comunice cu turnul de control",
      "correct": false,
      "short": "",
-     "long": "Nu înlocuiește autorizarea.",
+     "long": "Comunicarea cu turnul de control nu este autorizația de a zbura peste alt stat.",
      "warn": ""
     },
     {
      "text": "să notifice autoritățile aeroportului",
      "correct": false,
      "short": "",
-     "long": "Nu înlocuiește autorizarea.",
+     "long": "Notificarea autorităților aeroportului nu este autorizația de a zbura peste alt stat.",
      "warn": ""
     },
     {
      "text": "să obțină autorizație corespunzătoare din partea statului respectiv",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Zborul peste teritoriul altui stat cere autorizație din partea statului respectiv.",
      "warn": ""
     },
     {
      "text": "să depună un plan de zbor",
      "correct": false,
      "short": "",
-     "long": "Nu înlocuiește autorizarea statului.",
+     "long": "Planul de zbor este necesar la trecerea frontierei (RACR-RA 3.030 pct. 1.2.5), dar autorizația statului este condiția de bază.",
      "warn": ""
     }
    ]
@@ -3066,34 +3066,34 @@
    "number": "#86",
    "text": "332: Ce presupune zborul în formație?",
    "short": "Zborul în formație înseamnă zborul a două sau mai multe aeronave la o distanță minimă una de cealaltă.",
-   "long": "Formația este un grup de aeronave care zboară împreună, cu distanțe stabilite între ele, pentru siguranță. Nu înseamnă doar aceleași condiții meteo, aceeași altitudine sau un plan comun.",
+   "long": "Zborul în formație înseamnă zborul a două sau mai multor aeronave, menținând între ele o distanță de siguranță, sub conducerea unui comandant de formație.",
    "answers": [
     {
      "text": "zborul în aceleași condiții meteorologice",
      "correct": false,
      "short": "",
-     "long": "Condițiile meteo nu definesc formația.",
+     "long": "Aceleași condiții meteo nu definesc zborul în formație.",
      "warn": ""
     },
     {
      "text": "zborul la aceeași altitudine",
      "correct": false,
      "short": "",
-     "long": "Altitudinea nu definește formația.",
+     "long": "Aceeași altitudine nu definește zborul în formație, deși poate fi o condiție.",
      "warn": ""
     },
     {
      "text": "zborul a două sau mai multe aeronave la o distanță minimă una de cealaltă",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Zborul în formație este zborul a două sau mai multor aeronave, la o distanță minimă între ele.",
      "warn": ""
     },
     {
      "text": "zborul cu un plan de zbor comun",
      "correct": false,
      "short": "",
-     "long": "Planul comun nu definește formația.",
+     "long": "Un plan de zbor comun nu definește zborul în formație. Fiecare aeronavă are planul ei.",
      "warn": ""
     }
    ]
@@ -3102,34 +3102,34 @@
    "number": "#87",
    "text": "181: În spațiul de clasă G, ce obligație legală avem înainte de decolare:",
    "short": "În spațiul de clasa G, înainte de decolare avem obligația legală să depunem plan de zbor.",
-   "long": "Varianta corectă indică planul de zbor ca obligație. Verifică în reglementarea actuală dacă obligația se aplică zborului tău, deoarece cerințele pentru zborurile VFR în clasa G pot diferi. Anunțarea COAP sau armatei nu este varianta corectă.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
+   "long": "În clasa G, zborul VFR nu cere, de regulă, plan de zbor. RACR-RA 3.030 pct. 1.2 cere plan de zbor doar în cazurile enumerate: zborul IFR în spațiul consultativ, zborul în zone desemnate la cererea ATS, zborul peste granițe sau când se cere serviciu ATC.",
    "answers": [
     {
      "text": "să anunțăm zborul la COAP",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "Anunțarea zborului la COAP nu este obligația generală în clasa G. Regulile privind planul de zbor sunt în RACR-RA 3.030.",
      "warn": ""
     },
     {
      "text": "să depunem plan de zbor",
      "correct": true,
      "short": "",
-     "long": "În clasa G spațiul este necontrolat: nu este nevoie de autorizare ATC, iar zborul VFR se face fără legătură obligatorie cu un serviciu de control. Sursele consultate nu confirmă o obligație generală de a depune plan de zbor pentru zborul cu motoparapanta în clasa G; verifică RACR-RA și RACR-LPAN ULM pentru zborul tău.",
-     "warn": ""
+     "long": "Planul de zbor nu este obligatoriu pentru zborul VFR în clasa G, în afara cazurilor din RACR-RA 3.030 pct. 1.2.",
+     "warn": "În clasa G, zborul VFR nu cere, de regulă, plan de zbor. RACR-RA 3.030 pct. 1.2 cere plan doar pentru zborul IFR în spațiul consultativ, zborul în zone desemnate la cererea ATS, zborul peste granițe sau când se cere serviciu ATC."
     },
     {
      "text": "să anunțăm armata dacă avem o unitate militară în zonă",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "Anunțarea armatei nu este obligația generală în clasa G. Zborurile în zone militare sunt reglementate separat (RACR-RA 3.030 pct. 1.2.4).",
      "warn": ""
     },
     {
      "text": "în spațiul G nu avem nicio obligație legală",
      "correct": false,
      "short": "",
-     "long": "Există obligații, deci varianta este greșită.",
+     "long": "Afirmația că nu există nicio obligație nu este exactă. Există obligații în anumite cazuri din RACR-RA 3.030 pct. 1.2, de exemplu zborul peste granițe.",
      "warn": ""
     }
    ]
@@ -3138,34 +3138,34 @@
    "number": "#88",
    "text": "363: Ce este un eveniment de aviație civilă?",
    "short": "Un eveniment de aviație civilă este orice întrerupere operațională, defect, greșeală sau altă circumstanță care influențează siguranța zborului, fără a fi accident sau incident grav.",
-   "long": "Evenimentul este categoria largă, care include accidentele și incidentele, dar și situațiile care afectează siguranța fără a ajunge la acestea. Definiția cuprinde aceste situații.",
+   "long": "Evenimentul de aviație civilă (Codul aerian, definițiile) este orice circumstanță care afectează siguranța zborului și nu se încadrează neapărat ca accident sau incident grav.",
    "answers": [
     {
      "text": "orice întrerupere operațională, defect, greșeală sau altă circumstanță care influențează siguranța zborului fără a rezulta într-un accident sau incident grav",
      "correct": true,
      "short": "Orice incident care implică o aeronavă comercială.",
-     "long": "Definiția este prea restrânsă.",
+     "long": "Corect. Evenimentul include orice întrerupere, defect, greșeală sau altă circumstanță care afectează siguranța, fără să fie neapărat accident.",
      "warn": ""
     },
     {
      "text": "orice incident care implică o aeronavă comercială",
      "correct": false,
      "short": "Orice problemă tehnică raportată de echipaj.",
-     "long": "Definiția este prea restrânsă.",
+     "long": "Nu orice incident la o aeronavă comercială este eveniment în sensul definiției: definiția este mai largă și include și aeronavele ULM.",
      "warn": ""
     },
     {
      "text": "orice problemă tehnică raportată de echipaj",
      "correct": false,
      "short": "Orice abatere de la procedurile standard.",
-     "long": "Definiția este prea restrânsă.",
+     "long": "Nu orice problemă tehnică raportată de echipaj este eveniment: trebuie să afecteze siguranța zborului.",
      "warn": ""
     },
     {
      "text": "orice abatere de la procedurile standard",
      "correct": false,
      "short": "Orice întrerupere operațională, defect, greșeală sau altă circumstanță care influențează siguranța zborului fără a rezulta într-un accident sau incident grav.",
-     "long": "Este varianta corectă.",
+     "long": "Nu orice abatere de la procedurile standard este eveniment: trebuie să afecteze siguranța zborului.",
      "warn": ""
     }
    ]
@@ -3174,34 +3174,34 @@
    "number": "#89",
    "text": "169: Pentru obţinerea licenţei de pilot de aeronave ultraușoare motorizate solicitantul trebuie să aibă vârsta de cel puţin:",
    "short": "Pentru licența de ULM, solicitantul trebuie să aibă cel puțin 16 ani împliniți.",
-   "long": "Aceeași vârstă ca la întrebarea 34. Varianta corectă o indică; un furnizor de pregătire consultat indică același lucru, dar verifică RACR-LPAN ULM.",
+   "long": "Vârsta minimă pentru licența de ULM este 16 ani împliniți (RACR-LPAN ULM.2040 lit. a).",
    "answers": [
     {
      "text": "14 ani împliniţi",
      "correct": false,
      "short": "14 ani împliniți.",
-     "long": "Nu este varianta corectă.",
+     "long": "14 ani nu este vârsta minimă pentru licența de ULM (RACR-LPAN ULM.2040 lit. a).",
      "warn": ""
     },
     {
      "text": "16 ani împliniţi",
      "correct": true,
      "short": "16 ani împliniți.",
-     "long": "",
+     "long": "Corect. Vârsta minimă este 16 ani împliniți (RACR-LPAN ULM.2040 lit. a).",
      "warn": ""
     },
     {
      "text": "15 ani împliniți",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "15 ani nu este vârsta minimă. Ea este de 16 ani împliniți (RACR-LPAN ULM.2040 lit. a).",
      "warn": ""
     },
     {
      "text": "orice vârstă",
      "correct": false,
      "short": "",
-     "long": "Există vârstă minimă.",
+     "long": "Nu orice vârstă este permisă. Minimul este 16 ani împliniți (RACR-LPAN ULM.2040 lit. a).",
      "warn": ""
     }
    ]
@@ -3246,34 +3246,34 @@
    "number": "#91",
    "text": "336: Care sunt cerințele pentru recunoașterea licențelor străine de pilot de motoparapantă în România?",
    "short": "Licențele străine de pilot de motoparapantă trebuie să fie echivalate de Autoritatea Aeronautică Civilă Română.",
-   "long": "Recunoașterea este făcută de autoritatea română, prin echivalare. Statul emitent, traducerea și vechimea nu sunt criteriul principal.",
+   "long": "Licențele străine de motoparapantă sunt recunoscute de AACR, care le echivalează dacă sunt îndeplinite condițiile (RACR-LPAN ULM.2175).",
    "answers": [
     {
      "text": "să fie echivalate de Autoritatea Aeronautică Civilă Română",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Licența străină trebuie echivalată de AACR (RACR-LPAN ULM.2175).",
      "warn": ""
     },
     {
      "text": "să fie emise de o țară din UE",
      "correct": false,
      "short": "",
-     "long": "Nu este criteriul unic.",
+     "long": "Licența nu trebuie să provină dintr-o țară UE. Regulamentul acceptă licențe din orice autoritate competentă (RACR-LPAN ULM.2020 lit. a).",
      "warn": ""
     },
     {
      "text": "să fie traduse în limba română",
      "correct": false,
      "short": "",
-     "long": "Nu este criteriul principal.",
+     "long": "Traducerea în limba română nu este condiția de recunoaștere (RACR-LPAN ULM.2175).",
      "warn": ""
     },
     {
      "text": "să fie obținute în ultimii 5 ani",
      "correct": false,
      "short": "",
-     "long": "Vechimea nu este criteriul.",
+     "long": "Vechimea de 5 ani nu este condiția de recunoaștere. Licența trebuie să fie în termen de valabilitate (RACR-LPAN ULM.2175 lit. a).",
      "warn": ""
     }
    ]
@@ -3282,34 +3282,34 @@
    "number": "#92",
    "text": "346: Ce trebuie să facă un pilot pentru a opera un zbor VFR între apusul și răsăritul soarelui?",
    "short": "Pentru zborul VFR între apusul și răsăritul soarelui trebuie respectate condițiile specificate de reglementările în vigoare.",
-   "long": "Zborul VFR de noapte este posibil doar în anumite condiții, stabilite în reglementare, cum ar fi echipamentul și autorizarea. Notificarea aeroportului, planul de zbor sau autorizarea ATS nu sunt condițiile generale corecte.",
+   "long": "Zborul VFR între apus și răsărit se face respectând condițiile din reglementările în vigoare (RACR-RA 4.030).",
    "answers": [
     {
      "text": "să respecte condițiile specificate de reglementările în vigoare",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. RACR-RA 4.030 cere să se respecte condițiile din reglementările în vigoare.",
      "warn": ""
     },
     {
      "text": "să notifice autoritățile aeroportului",
      "correct": false,
      "short": "",
-     "long": "Nu este condiția generală.",
+     "long": "Notificarea autorităților aeroportului nu este cerința din RACR-RA 4.030.",
      "warn": ""
     },
     {
      "text": "să depună un plan de zbor",
      "correct": false,
      "short": "",
-     "long": "Nu este condiția generală corectă.",
+     "long": "Planul de zbor nu este cerința specifică zborului VFR de noapte (RACR-RA 4.030).",
      "warn": ""
     },
     {
      "text": "\"să obțină autorizație de la autoritatea ATS competentă",
      "correct": false,
      "short": "Să obțină autorizație de la autoritatea ATS competentă.",
-     "long": "Nu este condiția generală corectă.",
+     "long": "Autorizația ATS nu este cerința generală din RACR-RA 4.030 pentru zborul de noapte.",
      "warn": ""
     }
    ]
@@ -3318,34 +3318,34 @@
    "number": "#93",
    "text": "178: Este obligatorie legătura radio în spaţiul aerian de clasă C?",
    "short": "Legătura radio este obligatorie în spațiul aerian de clasa C.",
-   "long": "În clasa C, comunicarea radio bilaterală cu ATC este obligatorie pentru toate zborurile. Nu depinde de cererea ATC sau de transponder.\n\nClasa C este spațiu controlat în care ATC asigură serviciu pentru toate zborurile, IFR și VFR. Pentru intrare este necesară autorizarea ATC și legătura radio bilaterală, menținută permanent. Serviciul nu este opțional. În România, clasa C este folosită, conform AIP ENR 1.4 (ediția 2023), de la FL105 în sus; verifică limitele în ediția actuală, pe aisro.ro.",
+   "long": "În clasa C toate zborurile sunt sub control ATC și legătura radio bilaterală este obligatorie (AIP ENR 1.4, clasa C).",
    "answers": [
     {
      "text": "doar la solicitarea unităţii de trafic aerian",
      "correct": false,
      "short": "Doar la solicitarea unității de trafic aerian.",
-     "long": "Nu este regula.",
+     "long": "Legătura radio nu depinde doar de cererea unității ATC: în clasa C este obligatorie (AIP ENR 1.4).",
      "warn": ""
     },
     {
      "text": "nu",
      "correct": false,
      "short": "",
-     "long": "Este obligatorie.",
+     "long": "Nu. În clasa C legătura radio este obligatorie (AIP ENR 1.4).",
      "warn": ""
     },
     {
      "text": "da",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. În clasa C legătura radio bilaterală este obligatorie (AIP ENR 1.4).",
      "warn": ""
     },
     {
      "text": "doar dacă aeronava are la bord transponder",
      "correct": false,
      "short": "",
-     "long": "Transponderul nu determină obligația.",
+     "long": "Transponderul nu determină obligația de legătură radio în clasa C (AIP ENR 1.4).",
      "warn": ""
     }
    ]
@@ -3354,34 +3354,34 @@
    "number": "#94",
    "text": "354: „Care este scopul principal al Organizatiei Aviatiei Civile Internationale (OACI)?",
    "short": "Scopul principal al OACI este asigurarea dezvoltării ordonate și sigure a aviației civile internaționale.",
-   "long": "OACI (ICAO) stabilește standardele și practicile internaționale pentru siguranța și ordinea aviației civile. Nu se ocupă de transportul privat, de consultanță sau de transportul maritim.",
+   "long": "OACI (Organizația Aviației Civile Internaționale) are rolul de a asigura dezvoltarea ordonată și sigură a aviației civile internaționale.",
    "answers": [
     {
      "text": "sa dezvolte transportul aerian privat",
      "correct": false,
      "short": "Să dezvolte transportul aerian privat.",
-     "long": "Nu este scopul principal.",
+     "long": "Dezvoltarea transportului aerian privat nu este scopul principal al OACI.",
      "warn": ""
     },
     {
      "text": "sa ofere servicii de consultanta pentru companii aeriene",
      "correct": false,
      "short": "Să ofere servicii de consultanță pentru companii aeriene.",
-     "long": "Nu este scopul principal.",
+     "long": "Consultanța pentru companii nu este scopul principal al OACI.",
      "warn": ""
     },
     {
      "text": "sa asigure dezvoltarea ordonata si sigura a aviatiei civile internationale",
      "correct": true,
      "short": "Să asigure dezvoltarea ordonată și sigură a aviației civile internaționale.",
-     "long": "Este varianta corectă.",
+     "long": "Corect. OACI urmărește dezvoltarea ordonată și sigură a aviației civile internaționale.",
      "warn": ""
     },
     {
      "text": "sa reglementeze transportul maritim",
      "correct": false,
      "short": "Să reglementeze transportul maritim.",
-     "long": "OACI se ocupă de aviație.",
+     "long": "Reglementarea transportului maritim nu ține de OACI.",
      "warn": ""
     }
    ]
@@ -3390,34 +3390,34 @@
    "number": "#95",
    "text": "182: Zborurile VFR se pot efectua în România:",
    "short": "Zborurile VFR se pot efectua în România în spațiile aeriene de clasă C și G.",
-   "long": "Conform regulilor aplicabile, zborurile VFR sunt permise în clasa C (cu coordonare) și în clasa G. Clasa A nu permite VFR, iar clasa A, C și G împreună nu este varianta corectă.\n\nClasa C și G permit zborul VFR; clasa A nu. Detaliile de clasă: Clasa C este spațiu controlat în care ATC asigură serviciu pentru toate zborurile, IFR și VFR. Pentru intrare este necesară autorizarea ATC și legătura radio bilaterală, menținută permanent. Serviciul nu este opțional. În România, clasa C este folosită, conform AIP ENR 1.4 (ediția 2023), de la FL105 în sus; verifică limitele în ediția actuală, pe aisro.ro. Clasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
+   "long": "Zborurile VFR sunt permise în clasele C și G (AIP ENR 1.4). În clasa A nu sunt permise (RACR-RA, Tabelul 3-1, nota ***).",
    "answers": [
     {
      "text": "numai în spaţiul aerian de clasă G",
      "correct": false,
      "short": "Numai în spațiul aerian de clasă G.",
-     "long": "Sunt permise și în clasa C.",
+     "long": "Zborurile VFR sunt permise și în clasa C, nu numai în G (AIP ENR 1.4).",
      "warn": ""
     },
     {
      "text": "în spatiile aeriene de clasa A si G",
      "correct": false,
      "short": "În spațiile aeriene de clasa A și G.",
-     "long": "Clasa A nu permite VFR.",
+     "long": "Clasa A nu permite zborul VFR (RACR-RA, Tabelul 3-1, nota ***).",
      "warn": ""
     },
     {
      "text": "în spaţiile aeriene de clasă C şi G",
      "correct": true,
      "short": "În spațiile aeriene de clasă C și G.",
-     "long": "",
+     "long": "Corect. VFR este permis în clasele C și G, dar nu în clasa A (AIP ENR 1.4, RACR-RA).",
      "warn": ""
     },
     {
      "text": "în spaţiile aeriene de clasă A, C şi G",
      "correct": false,
      "short": "În spațiile aeriene de clasă A, C și G.",
-     "long": "Clasa A nu permite VFR.",
+     "long": "Clasa A nu permite VFR (RACR-RA, Tabelul 3-1, nota ***).",
      "warn": ""
     }
    ]
@@ -3426,34 +3426,34 @@
    "number": "#96",
    "text": "183: Dreptul de a instrui în zbor îl au:",
    "short": "Dreptul de a instrui în zbor îl au instructorii calificați.",
-   "long": "Instruirea în zbor cere calificare de instructor, nu doar experiență sau deținerea unei aeronave. Cunoștințele generale sau numărul de ore nu sunt suficiente fără calificarea oficială.",
+   "long": "Dreptul de a instrui în zbor îl au instructorii calificați pe clasa respectivă (RACR-LPAN ULM.2045, calificarea de instructor).",
    "answers": [
     {
      "text": "pilotii care stiu să instruiască",
      "correct": false,
      "short": "Piloții care știu să instruiască.",
-     "long": "Cunoașterea nu este suficientă; este nevoie de calificare.",
+     "long": "Abilitatea de a instrui nu este suficientă. Dreptul ține de calificarea de instructor (RACR-LPAN ULM).",
      "warn": ""
     },
     {
      "text": "piloţii cu minim 100 de ore experienţă după finalizarea școlii",
      "correct": false,
      "short": "Piloții cu minim 100 de ore experiență după finalizarea școlii.",
-     "long": "Orele nu sunt suficiente fără calificare.",
+     "long": "Cele 100 de ore nu sunt condiția pentru instruire. Condiția este calificarea de instructor (RACR-LPAN ULM).",
      "warn": ""
     },
     {
      "text": "cei care deţin aeronave omologate",
      "correct": false,
      "short": "Cei care dețin aeronave omologate.",
-     "long": "Dețineri aeronavă nu dă dreptul de instruire.",
+     "long": "Deținerea aeronavei omologate nu dă dreptul de a instrui. Dreptul ține de calificarea de instructor.",
      "warn": ""
     },
     {
      "text": "instructorii calificaţi",
      "correct": true,
      "short": "Instructorii calificați.",
-     "long": "",
+     "long": "Corect. Dreptul de a instrui în zbor îl au instructorii calificați (RACR-LPAN ULM).",
      "warn": ""
     }
    ]
@@ -3475,21 +3475,21 @@
      "text": "12 luni de la data examinării teoretice",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "Termenul de 12 luni nu corespunde RACR-LPAN ULM.2025, care dă 24 de luni.",
      "warn": ""
     },
     {
      "text": "24 luni de la data examinării practice cu condiţia ca certificatul medical să fie în termen de valabilitate",
      "correct": false,
      "short": "24 de luni de la data examinării practice cu condiția ca certificatul medical să fie în termen de valabilitate.",
-     "long": "Referința este examinarea teoretică, nu cea practică.",
+     "long": "Valabilitatea se numără de la examinarea teoretică, nu de la cea practică (RACR-LPAN ULM.2025).",
      "warn": ""
     },
     {
      "text": "36 luni de la data examinării teoretice",
      "correct": false,
      "short": "36 de luni de la data examinării teoretice.",
-     "long": "Nu este varianta corectă.",
+     "long": "36 de luni nu corespund RACR-LPAN ULM.2025, care dă 24 de luni.",
      "warn": ""
     }
    ]
@@ -3498,34 +3498,34 @@
    "number": "#98",
    "text": "389: Pe ce tipuri de terenuri este permisă decolarea parapantelor motorizate?",
    "short": "Parapantele motorizate pot decola din aerodromuri certificate și din alte terenuri sau suprafețe de apă, în condițiile stabilite prin hotărâre de Guvern.",
-   "long": "Decolarea nu se limitează la aerodromuri, dar nici nu este liberă oriunde. Condițiile sunt stabilite prin hotărâre de Guvern și prin reglementarea ULM. Varianta le cuprinde.",
+   "long": "Decolarea cu motoparapanta se face pe aerodromuri certificate și pe alte terenuri sau suprafețe de apă care îndeplinesc condițiile din Codul aerian, art. 14 alin. 2, cu instrucțiunile specifice emise de AACR (art. 14 alin. 4).",
    "answers": [
     {
      "text": "doar aerodromuri certificate",
      "correct": false,
      "short": "",
-     "long": "Sunt permise și alte terenuri în condițiile stabilite.",
+     "long": "Aerodromurile certificate nu sunt singurele locuri permise (Codul aerian, art. 14 alin. 2).",
      "warn": ""
     },
     {
      "text": "aerodromuri certificate și alte terenuri sau suprafețe de apă în condiții stabilite prin hotărâre de Guvern",
      "correct": true,
      "short": "Aerodromuri certificate și alte terenuri sau suprafețe de apă, în condiții stabilite prin hotărâre de Guvern.",
-     "long": "",
-     "warn": ""
+     "long": "Corect în esență: aerodromuri certificate și alte terenuri care îndeplinesc condițiile art. 14 alin. 2 din Codul aerian.",
+     "warn": "Condițiile de decolare de pe alte terenuri sunt cele din Codul aerian, art. 14 alin. 2. Instrucțiunile specifice sunt emise de AACR (art. 14 alin. 4), nu printr-o hotărâre de Guvern."
     },
     {
      "text": "doar terenuri temporare marcate corespunzător",
      "correct": false,
      "short": "",
-     "long": "Nu este condiția exclusivă.",
+     "long": "Terenurile temporare nu sunt singura categorie permisă (Codul aerian, art. 14 alin. 2).",
      "warn": ""
     },
     {
      "text": "terenuri publice deschise fără restricții",
      "correct": false,
      "short": "",
-     "long": "Nu există libertate fără restricții.",
+     "long": "Terenurile publice nu sunt deschise fără restricții. Condiția este acordul administratorului și restricțiile stabilite (Codul aerian, art. 14 alin. 2 lit. b și d).",
      "warn": ""
     }
    ]
@@ -3534,34 +3534,34 @@
    "number": "#99",
    "text": "322: Ce condiții trebuie să îndeplinească un solicitant pentru obținerea licenței de pilot de motoparapantă?",
    "short": "Solicitantul pentru licența de motoparapantă trebuie să aibă vârsta de 16 ani împliniți.",
-   "long": "Aceeași vârstă minimă ca la întrebările 34 și 89. Cetățenia, permisul de conducere și studiile universitare nu sunt condițiile corecte.",
+   "long": "Solicitantul licenței de ULM, inclusiv pentru motoparapantă, trebuie să aibă 16 ani împliniți și certificat medical valabil (RACR-LPAN ULM.2040).",
    "answers": [
     {
      "text": "să aibă vârsta de 16 ani împliniți",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Vârsta minimă este 16 ani împliniți (RACR-LPAN ULM.2040 lit. a).",
      "warn": ""
     },
     {
      "text": "să fie cetățean român",
      "correct": false,
      "short": "",
-     "long": "Nu este condiția corectă.",
+     "long": "Cetățenia română nu este condiția din RACR-LPAN ULM.2040. Licențele străine sunt recunoscute (RACR-LPAN ULM.2020).",
      "warn": ""
     },
     {
      "text": "să dețină permis de conducere",
      "correct": false,
      "short": "",
-     "long": "Nu este condiția corectă.",
+     "long": "Permisul de conducere nu este condiția din RACR-LPAN ULM.2040.",
      "warn": ""
     },
     {
      "text": "să fi absolvit un curs universitar",
      "correct": false,
      "short": "",
-     "long": "Nu este condiția corectă.",
+     "long": "Curs universitar nu este condiția din RACR-LPAN ULM.2040.",
      "warn": ""
     }
    ]
@@ -3570,34 +3570,34 @@
    "number": "#100",
    "text": "359: Ce reprezintă VFR?",
    "short": "VFR înseamnă regulile de zbor la vedere.",
-   "long": "VFR (Visual Flight Rules) sunt regulile după care pilotul zboară vizual, cu referință la sol și la orizont. IFR este zborul instrumental, iar ATC este sistemul de dirijare a traficului.",
+   "long": "VFR înseamnă zbor la vedere (Visual Flight Rules), regulile după care pilotul zboară cu referință vizuală la sol și la orizont (RACR-RA).",
    "answers": [
     {
      "text": "regulile de zbor la vedere",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect. VFR sunt regulile de zbor la vedere.",
      "warn": ""
     },
     {
      "text": "regulile de zbor instrumental",
      "correct": false,
      "short": "",
-     "long": "Acestea sunt regulile IFR.",
+     "long": "Regulile de zbor instrumental sunt IFR, nu VFR.",
      "warn": ""
     },
     {
      "text": "sistemul de dirijare și control al traficului aerian",
      "correct": false,
      "short": "",
-     "long": "Aceasta este definiția ATC.",
+     "long": "Sistemul de dirijare și control al traficului aerian este serviciul ATC, nu sigla VFR.",
      "warn": ""
     },
     {
      "text": "condițiile meteorologice de zbor la vedere",
      "correct": false,
      "short": "",
-     "long": "Acestea sunt condițiile VMC, nu regulile VFR.",
+     "long": "Condițiile meteo de zbor la vedere sunt VMC, nu VFR.",
      "warn": ""
     }
    ]
@@ -3642,34 +3642,34 @@
    "number": "#102",
    "text": "370: Ce drepturi sunt acordate deținătorului licenței de pilot de aeronave ultraușoare motorizate?",
    "short": "Deținătorul licenței de ULM are dreptul de a efectua zboruri în interes propriu și zboruri particulare.",
-   "long": "Aceeași regulă ca la întrebarea 46. Zborurile internaționale regulate și comerciale cer alte autorizări.",
+   "long": "Licența de pilot de ULM permite zboruri în interes propriu și zboruri particulare (RACR-LPAN ULM.2030 și privilegiile licenței).",
    "answers": [
     {
      "text": "dreptul de a efectua zboruri internaționale regulate",
      "correct": false,
      "short": "",
-     "long": "Nu este dreptul conferit.",
+     "long": "Zborurile internaționale regulate nu sunt privilegiul licenței de ULM.",
      "warn": ""
     },
     {
      "text": "dreptul de a efectua zboruri în interes propriu și zboruri particulare",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Privilegiul este zborul în interes propriu și cel particular.",
      "warn": ""
     },
     {
      "text": "dreptul de a efectua zboruri comerciale",
      "correct": false,
      "short": "",
-     "long": "Nu este dreptul conferit.",
+     "long": "Zborurile comerciale nu sunt privilegiul licenței de ULM.",
      "warn": ""
     },
     {
      "text": "dreptul de a efectua zboruri internaționale regulate",
      "correct": false,
      "short": "",
-     "long": "Nu este dreptul conferit.",
+     "long": "Zborurile internaționale regulate nu sunt privilegiul licenței de ULM.",
      "warn": ""
     }
    ]
@@ -3714,34 +3714,34 @@
    "number": "#104",
    "text": "341: Ce trebuie să facă un pilot dacă întâlnește o motoparapantă pe traiectorie convergentă?",
    "short": "Dacă întâlnești o motoparapantă pe traiectorie convergentă, dai prioritate dacă cealaltă este în dreapta ta.",
-   "long": "La traiectorii convergente, aeronava care are cealaltă aeronavă în dreapta are prioritate, iar cealaltă trebuie să cedeze. Schimbarea altitudinii, reducerea vitezei sau menținerea direcției nu sunt regula de prioritate.",
+   "long": "La apropiere convergentă, aeronava care are cealaltă aeronavă în dreapta sa trebuie să dea prioritate (RACR-RA, reguli de trecere, pct. 2.3).",
    "answers": [
     {
      "text": "să schimbe altitudinea",
      "correct": false,
      "short": "",
-     "long": "Nu este regula de prioritate.",
+     "long": "Schimbarea altitudinii nu este regula de prioritate. Regula este cea de la dreapta (RACR-RA, pct. 2.3).",
      "warn": ""
     },
     {
      "text": "să reducă viteza",
      "correct": false,
      "short": "",
-     "long": "Nu este regula de prioritate.",
+     "long": "Reducerea vitezei nu este regula de prioritate. Regula este cea de la dreapta (RACR-RA, pct. 2.3).",
      "warn": ""
     },
     {
      "text": "să își mențină direcția",
      "correct": false,
      "short": "",
-     "long": "Nu este regula de prioritate.",
+     "long": "Menținerea direcției fără prioritate poate duce la coliziune. Regula cere să dea prioritate cel care are cealaltă aeronavă în dreapta (RACR-RA, pct. 2.3).",
      "warn": ""
     },
     {
      "text": "să dea prioritate dacă cealaltă motoparapantă este în dreapta sa",
      "correct": true,
      "short": "",
-     "long": "Este regula corectă.",
+     "long": "Corect. Dacă cealaltă aeronavă este în dreapta, pilotul dă prioritate (RACR-RA, pct. 2.3).",
      "warn": ""
     }
    ]
