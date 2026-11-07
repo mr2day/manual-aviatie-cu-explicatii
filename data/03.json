@@ -3678,7 +3678,7 @@
    "number": "#103",
    "text": "186: Vizibilitatea minimă în spaţiul aerian de clasă G când se zboară cu viteze care permit observarea tuturor obstacolelor şi când probabilitatea întâlnirii cu alte aeronave este redusă, este:",
    "short": "În clasa G, pentru viteze care permit observarea obstacolelor și probabilitate redusă de întâlnire cu alte aeronave, vizibilitatea minimă corectă este 1500 m.",
-   "long": "Vizibilitatea minimă depinde de altitudine, de viteză și de probabilitatea întâlnirii cu alte aeronave. Varianta corectă indică 1500 m pentru condițiile descrise. Verifică valorile din reglementarea aplicabilă.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
+   "long": "Vizibilitatea minimă depinde de altitudine, de viteză și de probabilitatea întâlnirii cu alte aeronave. Tabelul 3-1 din RACR-RA dă 5 km ca minim general în clasa G. Nota ** din tabel permite cel puțin 1500 m, când autoritatea ATS o specifică, la viteze care permit evitarea obstacolelor și în zone cu trafic redus. Condițiile din întrebare corespund acestei note.",
    "answers": [
     {
      "text": "450 m",
@@ -3705,7 +3705,7 @@
      "text": "1500 m",
      "correct": true,
      "short": "",
-     "long": "Sursele consultate indică pentru spațiul G o vizibilitate minimă de 5 km sub 3000 ft, și de 3 km în condiții specifice. Cifra de 1500 m nu este cea din aceste surse. Verifică-o în RACR-RA, pentru că sursele consultate nu confirmă varianta D.",
+     "long": "Vizibilitatea minimă normală în clasa G, până la 900 m AMSL sau 300 m deasupra terenului, este de 5 km (RACR-RA, Tabelul 3-1). Varianta D este corectă: nota ** din tabel permite vizibilitate de cel puțin 1500 m, când autoritatea ATS o specifică, pentru zborul la viteze care permit evitarea obstacolelor sau în zone cu trafic redus.",
      "warn": ""
     }
    ]
