@@ -163,15 +163,23 @@
     document.body.appendChild(s);
   }
 
+  // Titlul secțiunii curente, afișat în butonul Meniu pe mobil.
+  function setCurrent(text) {
+    var e = document.getElementById('menu-current');
+    if (e) e.textContent = text || '';
+  }
+
   function route() {
     var hash = location.hash || '#01';
     if (hash.indexOf('#doc/') === 0) {
       renderNav(null);
+      setCurrent((document.querySelector('.sidebar a[href="' + hash + '"]') || {}).textContent || '');
       loadDoc(hash.slice(5));
       return;
     }
     var c = byId[hash.slice(1)] || chapters[0];
     renderNav(c.id);
+    setCurrent(c.title);
     renderChapter(c);
   }
 
