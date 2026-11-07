@@ -6,34 +6,34 @@
    "number": "#1",
    "text": "502: Una dintre cele mai importante verificări înainte de pornirea paramotului în siguranță este:",
    "short": "Înainte de pornire verifici ca legătura manetei de accelerație cu comanda carburatorului să permită revenirea la relanti.",
-   "long": "Dacă maneta nu revine la relanti, motorul poate rămâne turat sau nu poate fi oprit rapid. Este una dintre cele mai importante verificări de siguranță. Pornirea la turație mare, cantitatea de combustibil și anticiparea decolării nu sunt verificările esențiale.",
+   "long": "Înainte de pornire, se verifică dacă maneta de accelerație revine la relanti. Dacă nu revine, motorul poate rămâne turat, iar oprirea devine dificilă.",
    "answers": [
     {
      "text": "motorul să pornească la turație mare",
      "correct": false,
      "short": "",
-     "long": "Pornirea la turație mare este periculoasă.",
+     "long": "Pornirea la turație mare este periculoasă, motorul se pornește la relanti.",
      "warn": ""
     },
     {
      "text": "anticiparea traiectoriei de decolare",
      "correct": false,
      "short": "",
-     "long": "Este pregătire, nu verificare de pornire.",
+     "long": "Anticiparea traiectoriei este utilă, dar nu este verificarea de siguranță înainte de pornire.",
      "warn": ""
     },
     {
      "text": "în rezervor să se afle cel puțin 5 litri de combustibil",
      "correct": false,
      "short": "",
-     "long": "Cantitatea nu este criteriul de siguranță.",
+     "long": "Cantitatea de 5 litri nu este pragul de siguranță. Verificarea esențială este revenirea manetei.",
      "warn": ""
     },
     {
      "text": "legătura manetei de accelerație cu comanda carburatorului să permită revenirea la poziția de relanti",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Revenirea manetei la relanti este verificarea de siguranță.",
      "warn": ""
     }
    ]
@@ -42,34 +42,34 @@
    "number": "#2",
    "text": "575: Ce măsuri de siguranță trebuie să iei înainte de un zbor cross country?",
    "short": "Înainte de un zbor cross-country informezi pe cineva despre zbor și iei cu tine un telefon sau un dispozitiv de localizare prin satelit.",
-   "long": "Dacă ai un accident sau te pierzi, cineva trebuie să știe unde ești și unde trebuia să ajungi. Telefonul sau dispozitivul de localizare prin satelit permite salvarea. Harta digitală, costumul și frecvențele nu sunt măsurile de bază.",
+   "long": "Un zbor cross-country se anunță cuiva, iar pilotul are la el un mijloc de comunicare, pentru a putea cere ajutor dacă aterizează departe.",
    "answers": [
     {
      "text": "Să informezi pe cineva despre zbor și să iei un telefon mobil sau un dispozitiv de localizare prin satelit",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Se informează cineva despre zbor și se ia un mijloc de comunicare.",
      "warn": ""
     },
     {
      "text": "Să iei doar harta locală fără a avea o hartă digitală",
      "correct": false,
      "short": "Să iei doar harta locală, fără a avea o hartă digitală.",
-     "long": "Nu este măsura principală de siguranță.",
+     "long": "Harta digitală și cea tipărită se folosesc amândouă, fără să înlocuiască una pe alta.",
      "warn": ""
     },
     {
      "text": "Să te asiguri că ai un costum de zbor adecvat",
      "correct": false,
      "short": "",
-     "long": "Este util, dar nu este măsura principală.",
+     "long": "Costumul de zbor nu este măsura de siguranță pentru zborul de distanță.",
      "warn": ""
     },
     {
      "text": "Să verifici frecvențele radio locale",
      "correct": false,
      "short": "",
-     "long": "Este util, dar nu este măsura principală.",
+     "long": "Frecvențele radio locale sunt utile, dar nu sunt măsura principală de siguranță înainte de zbor.",
      "warn": ""
     }
    ]
@@ -78,34 +78,34 @@
    "number": "#3",
    "text": "513: Ce trebuie să faci dacă aripa începe să oscileze stanga-dreapta față de direcția înainte în timpul decolării?",
    "short": "Dacă aripa începe să oscileze stânga-dreapta în timpul decolării, reduci viteza și corectezi direcția.",
-   "long": "Oscilația apare când aripa nu este bine aliniată sau când pilotul merge prea repede. Reducerea vitezei și corectarea direcției stabilizează aripa. Sărirea din scaun sau frânarea bruscă agravează situația.",
+   "long": "Dacă aripa oscilează stânga-dreapta la decolare, pilotul reduce viteza, ca aripa să se stabilizeze, și corectează direcția cu grijă.",
    "answers": [
     {
      "text": "Să sări din scaun",
      "correct": false,
      "short": "Să sari din scaun.",
-     "long": "Este periculos.",
+     "long": "Sărirea din scaun nu este procedura. Pilotul rămâne și corectează.",
      "warn": ""
     },
     {
      "text": "Să mărești viteza",
      "correct": false,
      "short": "",
-     "long": "Agravează oscilația.",
+     "long": "Mărirea vitezei agravează oscilația în loc să o rezolve.",
      "warn": ""
     },
     {
      "text": "Să reduci viteza și să corectezi direcția",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Se reduce viteza și se corectează direcția.",
      "warn": ""
     },
     {
      "text": "Să tragi de frânele parapantei",
      "correct": false,
      "short": "",
-     "long": "Frânarea bruscă poate agrava situația.",
+     "long": "Tragerea frânelor la decolare poate agrava oscilația și pierderea controlului.",
      "warn": ""
     }
    ]
@@ -114,34 +114,34 @@
    "number": "#4",
    "text": "473: Suntem începători și suntem invitați la un eveniment de zbor unde sunt mai multi piloți și invitați, cum vom proceda pentru și după decolare:",
    "short": "La un eveniment cu mai mulți piloți, alegi un loc de decolare sigur, departe de mulțime, și după decolare te îndepărtezi de locul de decolare.",
-   "long": "În aglomerație, pilotul trebuie să aleagă un loc sigur și să elibereze zona pentru ceilalți. Zborul acrobatic deasupra mulțimii, consumul de alcool și decolarea în grabă sunt periculoase.",
+   "long": "La un eveniment cu mulți piloți și spectatori, se alege un loc de decolare sigur, departe de public, și se respectă regulile de zbor. Nu se zboară acrobatic sau sub influența alcoolului.",
    "answers": [
     {
      "text": "decolăm cât mai repede pentru a scăpa de emoții",
      "correct": false,
      "short": "",
-     "long": "Grabă este periculoasă.",
+     "long": "Decolarea grăbită din cauza emoțiilor este periculoasă. Pregătirea și locul sigur contează.",
      "warn": ""
     },
     {
      "text": "efectuăm un zbor deasupra mulțimii, acrobatic pentru a ne demonstra abilitațile",
      "correct": false,
      "short": "Efectuăm un zbor deasupra mulțimii, acrobatic, pentru a ne demonstra abilitățile.",
-     "long": "Este periculos și interzis.",
+     "long": "Zborul acrobatic deasupra mulțimii, pentru începători, este periculos și interzis.",
      "warn": ""
     },
     {
      "text": "ne alegem un loc de decolare în siguranță și cât mai departe de mulțime, iar după decolare ne îndepărtăm de locul de decolare pentru a le permite și celorlalți decolarea în siguranță",
      "correct": true,
      "short": "Ne alegem un loc de decolare în siguranță și cât mai departe de mulțime, iar după decolare ne îndepărtăm de locul de decolare.",
-     "long": "",
+     "long": "Corect. Se alege locul sigur de decolare, departe de mulțime.",
      "warn": ""
     },
     {
      "text": "bem maxim 2 beri căt e permis pentru ne avea curaj și decolăm în siguranță",
      "correct": false,
      "short": "Bem maxim 2 beri și decolăm în siguranță.",
-     "long": "Alcoolul este interzis înainte de zbor.",
+     "long": "Alcoolul interzice zborul, indiferent de cantitate.",
      "warn": ""
     }
    ]
@@ -150,34 +150,34 @@
    "number": "#5",
    "text": "531: Ce se întâmplă în cazul unei închideri asimetrice mari?",
    "short": "O închidere asimetrică mare poate provoca o înclinare violentă și o întoarcere în afundare spre partea închisă.",
-   "long": "Când o parte a aripii se închide, aripa se întoarce spre partea închisă. Dacă închiderea este mare, întoarcerea poate deveni violentă. Aripa nu se stabilizează singură fără intervenția pilotului.",
+   "long": "La o închidere asimetrică mare, aripa se înclină brusc de partea închisă, iar pilotul poate intra într-o întoarcere în afundare spre partea închisă, dacă nu intervine corect.",
    "answers": [
     {
      "text": "Poate provoca o înclinare violentă și o întoarcere în afundare spre partea închisă",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Închiderea asimetrică mare duce la înclinare violentă și întoarcere spre partea închisă.",
      "warn": ""
     },
     {
      "text": "Aripa se stabilizează automat fără intervenție din partea pilotului",
      "correct": false,
      "short": "",
-     "long": "Nu se stabilizează singură în cazul mare.",
+     "long": "Aripa nu se stabilizează singură de fiecare dată. Pilotul trebuie să intervină.",
      "warn": ""
     },
     {
      "text": "Aripa se va deschide automat după câteva secunde de cădere liberă",
      "correct": false,
      "short": "",
-     "long": "Nu este garantat.",
+     "long": "Aripa nu se deschide automat în câteva secunde, în general.",
      "warn": ""
     },
     {
      "text": "Pilotul este tras spre partea deschisă și intră într-o spirală ascendentă",
      "correct": false,
      "short": "",
-     "long": "Efectul este diferit.",
+     "long": "Pilotul nu este tras spre partea deschisă. Întoarcerea este spre partea închisă.",
      "warn": ""
     }
    ]
@@ -186,34 +186,34 @@
    "number": "#6",
    "text": "493: Este necesară calcularea masei totale înainte de decolare?",
    "short": "Da, masa totală trebuie calculată înainte de decolare și comparată cu masa maximă din manualul de utilizare.",
-   "long": "Masa totală include pilotul, echipamentul, combustibilul și aripa. Comparația cu masa maximă din manual previne suprasolicitarea aripii și motorului. Verificarea nu este necesară doar la zborurile cu pasager sau la raiduri.",
+   "long": "Masa totală (pilot, echipament, combustibil) se compară cu masa maximă din manualul aeronavei, pentru a nu o depăși.",
    "answers": [
     {
      "text": "da, pentru a fi comparată cu masa maximă specificată în manualul de utilizare şi întreţinere",
      "correct": true,
      "short": "Da, pentru a fi comparată cu masa maximă specificată în manualul de utilizare și întreținere.",
-     "long": "",
+     "long": "Corect. Masa totală se compară cu masa maximă din manual.",
      "warn": ""
     },
     {
      "text": "nu este necesar la această clasa de aeronavă",
      "correct": false,
      "short": "Nu este necesar la această clasă de aeronavă.",
-     "long": "Este necesar.",
+     "long": "Calcularea masei este necesară și la motoparapantă.",
      "warn": ""
     },
     {
      "text": "numai dacă se zboară cu pasager la bord",
      "correct": false,
      "short": "",
-     "long": "Este necesar întotdeauna.",
+     "long": "Masa se calculează și fără pasager, pentru că limita se aplică oricum.",
      "warn": ""
     },
     {
      "text": "doar în zborurile de raid",
      "correct": false,
      "short": "",
-     "long": "Este necesar întotdeauna.",
+     "long": "Calculul masei nu este doar pentru raid. Este necesar pentru orice zbor.",
      "warn": ""
     }
    ]
@@ -222,34 +222,34 @@
    "number": "#7",
    "text": "510: Care este procedura corectă pentru a verifica motorul înainte de decolare?",
    "short": "Înainte de a verifica motorul, te asiguri că zona de pe sol este liberă de obiecte care ar putea fi aspirate în elice.",
-   "long": "Elicea aspiră pietre, bețe și alte obiecte, care pot lovi pilotul sau pot deteriora elicea. Verificarea zonei este o regulă de bază înainte de pornire sau încălzire.",
+   "long": "Înainte de pornirea motorului se verifică zona din jur, pentru ca obiectele de pe sol să nu fie aspirate de elice.",
    "answers": [
     {
      "text": "Să te asiguri că zona de pe sol este liberă de obiecte care ar putea fi aspirate în elice",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Zona de pe sol se verifică, fără obiecte care pot fi aspirate în elice.",
      "warn": ""
     },
     {
      "text": "Să verifici dacă rezervorul este plin",
      "correct": false,
      "short": "",
-     "long": "Este util, dar nu verificarea principală.",
+     "long": "Rezervorul plin nu este verificarea motorului înainte de decolare.",
      "warn": ""
     },
     {
      "text": "Să testezi parașuta de rezervă",
      "correct": false,
      "short": "",
-     "long": "Nu este verificarea motorului.",
+     "long": "Parașuta de rezervă se verifică separat, nu ca verificare a motorului.",
      "warn": ""
     },
     {
      "text": "Să pornești motorul la turație maximă",
      "correct": false,
      "short": "",
-     "long": "Este periculos.",
+     "long": "Turația maximă la sol este periculoasă, nu verificarea corectă.",
      "warn": ""
     }
    ]
@@ -258,34 +258,34 @@
    "number": "#8",
    "text": "517: De ce este important să te antrenezi să simți unde este aripa fără să te uiți în sus?",
    "short": "Te antrenezi să simți unde este aripa fără să te uiți în sus, pentru a putea decola din locuri înguste fără a rata decolarea.",
-   "long": "Pilotul care simte aripa poate verifica gonflajul fără să își ia ochii de la traiect. Acest lucru este important în locuri înguste sau cu obstacole, unde nu există loc pentru ratare.",
+   "long": "Dacă pilotul simte unde este aripa fără să se uite în sus, poate decola din locuri înguste, unde nu are loc să ratze decolarea.",
    "answers": [
     {
      "text": "Pentru a reduce riscul de accident",
      "correct": false,
      "short": "",
-     "long": "Este un efect general, dar varianta corectă este decolarea din locuri înguste.",
+     "long": "Riscul de accident este redus de antrenament, dar răspunsul specific este decolarea din locuri înguste.",
      "warn": ""
     },
     {
      "text": "Pentru a economisi timp",
      "correct": false,
      "short": "",
-     "long": "Nu este motivul principal.",
+     "long": "Economisirea timpului nu este motivul antrenamentului.",
      "warn": ""
     },
     {
      "text": "Pentru a putea decola din locuri înguste fără a rata decolarea",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Simțirea aripii permite decolarea din locuri înguste, fără ratare.",
      "warn": ""
     },
     {
      "text": "Pentru a impresiona spectatorii",
      "correct": false,
      "short": "",
-     "long": "Nu este motivul.",
+     "long": "Impresionarea spectatorilor nu este motivul antrenamentului.",
      "warn": ""
     }
    ]
@@ -330,34 +330,34 @@
    "number": "#10",
    "text": "572: Ce efect are oboseala asupra capacității unui pilot de a controla paramotorul?",
    "short": "Oboseala scade timpul de reacție și precizia, crescând riscul de accidente.",
-   "long": "Oboseala afectează atenția, reacțiile și judecata. Pilotul obosit reacționează mai lent și greșește mai ușor. Ea nu îmbunătățește concentrarea sau stabilitatea.",
+   "long": "Oboseala încetinește reacțiile, scade precizia controlului și crește riscul de accident.",
    "answers": [
     {
      "text": "Scade timpul de reacție și precizia, crescând riscul de accidente",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Oboseala scade timpul de reacție și precizia.",
      "warn": ""
     },
     {
      "text": "Nu are niciun efect semnificativ",
      "correct": false,
      "short": "",
-     "long": "Are efect.",
+     "long": "Oboseala are efect semnificativ asupra controlului.",
      "warn": ""
     },
     {
      "text": "Crește viteza de reacție și stabilitatea în zbor",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Oboseala nu crește viteza de reacție. O scade.",
      "warn": ""
     },
     {
      "text": "Îmbunătățește concentrarea și atenția",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Oboseala nu îmbunătățește concentrarea, o scade.",
      "warn": ""
     }
    ]
@@ -366,34 +366,34 @@
    "number": "#11",
    "text": "468: Zburam la 3m deasupra unui lac într-o seară liniștită la apus; vom evita:",
    "short": "Zburând la 3 m deasupra unui lac seara, evităm să zburăm sub 150 m față de sol sau apă, deoarece este interzis.",
-   "long": "Zborul la altitudine foarte mică deasupra apei este restricționat. Varianta corectă indică înălțimea de 150 m ca limită pentru acest caz. Apusul și combustibilul sunt alți factori, dar nu regula principală.",
+   "long": "Zborul la mică înălțime deasupra apei sau a solului, sub 150 m, este interzis în afara decolării și aterizării (RACR-RA 4.060).",
    "answers": [
     {
      "text": "Să zburăm cu putin combustibil la bord pentru a avea aparatul cât mai usor",
      "correct": false,
      "short": "Să zburăm cu puțin combustibil la bord pentru a avea aparatul cât mai ușor.",
-     "long": "Nu este regula principală.",
+     "long": "Combustibilul redus nu este măsura principală de siguranță în acest caz.",
      "warn": ""
     },
     {
      "text": "Zborul cu soarele din fața încât ne poate afecta percepția vizuala și putem să amerizăm fără sa dorim acest lucru",
      "correct": false,
      "short": "Zborul cu soarele în față, încât ne poate afecta percepția vizuală.",
-     "long": "Factor de risc, nu regula principală.",
+     "long": "Zborul cu soarele în față poate afecta percepția, dar răspunsul principal este înălțimea minimă.",
      "warn": ""
     },
     {
      "text": "Să luam pasageri încât este periculos în caz de amerizare",
      "correct": false,
      "short": "Să luăm pasageri, încât este periculos în caz de amerizare.",
-     "long": "Factor de risc, nu regula principală.",
+     "long": "Luarea pasagerilor nu este cea mai mare problemă, dar nu este răspunsul.",
      "warn": ""
     },
     {
      "text": "Să zburam la o inaltime mai mica de 150 m fata de sol/ apa, deoarece este interzis",
      "correct": true,
      "short": "Să zburăm la o înălțime mai mică de 150 m față de sol/apă, deoarece este interzis.",
-     "long": "",
+     "long": "Corect. Zborul sub 150 m față de sol sau apă este interzis, în afara decolării și aterizării (RACR-RA 4.060).",
      "warn": ""
     }
    ]
@@ -402,34 +402,34 @@
    "number": "#12",
    "text": "505: Care este primul pas recomandat înainte de o aterizare inevitabilă în apă?",
    "short": "Înainte de o aterizare inevitabilă în apă, primul pas este dezlegarea chingilor de la picioare, piept și rezervă.",
-   "long": "Dacă rămâi legat de echipament, poți fi tras sub apă sau împiedicat să ieși. Dezlegarea chingilor permite ieșirea rapidă. Fotografia, lumânarea și săritura din scaun nu sunt pași de siguranță.",
+   "long": "Înainte de aterizarea în apă, primul pas este desfacerea chingilor de la picioare, piept și rezervă, ca pilotul să poată ieși rapid din echipament.",
    "answers": [
     {
      "text": "Făcutul unei fotografii rapide",
      "correct": false,
      "short": "",
-     "long": "Nu este pas de siguranță.",
+     "long": "Fotografia nu este pasul de siguranță.",
      "warn": ""
     },
     {
      "text": "Dezlegarea chingilor de la picioare, piept și rezervă",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Chingile se desfac primele.",
      "warn": ""
     },
     {
      "text": "Aprinderea unei lumânări",
      "correct": false,
      "short": "",
-     "long": "Nu este pas de siguranță.",
+     "long": "Lumânarea nu este procedura.",
      "warn": ""
     },
     {
      "text": "Săritura din scaun",
      "correct": false,
      "short": "",
-     "long": "Nu este pas de siguranță.",
+     "long": "Săritura din scaun nu este procedura înainte de aterizarea în apă.",
      "warn": ""
     }
    ]
@@ -438,34 +438,34 @@
    "number": "#13",
    "text": "530: Ce este un full stall și cum poate fi recuperat?",
    "short": "Un full stall este o manevră extremă în care pilotul trage destul de mult de frâne pentru a deforma aripa, iar recuperarea se face prin eliberarea graduală și uniformă a frânelor.",
-   "long": "La full stall, aripa se oprește din zbor, se deformează și cade. Recuperarea cere eliberarea treptată a frânelor, nu bruscă. Căderea controlată cu motorul și frânarea bruscă nu sunt descrierea corectă.",
+   "long": "Full stall este o stare în care aripa își pierde complet portanța, iar pilotul trebuie să elibereze frânele rapid pentru a restabili fluxul de aer.",
    "answers": [
     {
      "text": "O cădere controlată a aripii, recuperată prin utilizarea completă a motorului",
      "correct": false,
      "short": "",
-     "long": "Descrierea nu este cea corectă.",
+     "long": "Motorul nu este mijlocul de recuperare dintr-un full stall.",
      "warn": ""
     },
     {
      "text": "O deformare frontală a aripii, recuperată prin tragerea bruscă de frâne",
      "correct": false,
      "short": "",
-     "long": "Este o altă situație.",
+     "long": "Trasul brusc de frâne agravează situația.",
      "warn": ""
     },
     {
      "text": "O cădere ușoară a aripii, recuperată prin accelerare maximă",
      "correct": false,
      "short": "",
-     "long": "Descrierea nu este cea corectă.",
+     "long": "Accelerarea maximă nu este recuperarea din full stall.",
      "warn": ""
     },
     {
      "text": "O manevră extremă unde pilotul trage destul de mult de frâne pentru a deforma aripa, recuperată prin eliberarea graduală și uniformă a frânelor",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect în esență: full stall este stare de deformare și se recuperează prin eliberarea frânelor.",
      "warn": ""
     }
    ]
@@ -474,34 +474,34 @@
    "number": "#14",
    "text": "581: Care este regula de prioritate în cazul în care o aeronavă motorizată și una nemotorizată se apropie una de alta?",
    "short": "Dacă o aeronavă motorizată se apropie de una nemotorizată, aeronava motorizată cedează trecerea.",
-   "long": "Regula de prioritate protejează aeronava fără motor, care are manevrabilitate mai redusă. Aeronava motorizată trebuie să se îndepărteze sau să vireze. Ambele aeronave virând spre stânga nu este regula.",
+   "long": "Aeronavele motorizate dau prioritate celor nemotorizate, cum sunt planoarele și parapantele fără motor (RACR-RA, prioritatea de trecere).",
    "answers": [
     {
      "text": "Aeronava motorizată trebuie să cedeze trecerea aeronavei nemotorizate",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Aeronava motorizată cedează trecerea celei nemotorizate.",
      "warn": ""
     },
     {
      "text": "Ambele aeronave trebuie să urce",
      "correct": false,
      "short": "",
-     "long": "Nu este regula.",
+     "long": "Urcarea nu este regula de prioritate.",
      "warn": ""
     },
     {
      "text": "Aeronava nemotorizată trebuie să cedeze trecerea aeronavei motorizate",
      "correct": false,
      "short": "",
-     "long": "Este opusul regulii.",
+     "long": "Regula este inversă: nemotorizata nu cedează, motorizata cedează.",
      "warn": ""
     },
     {
      "text": "Ambele aeronave trebuie să vireze spre stânga",
      "correct": false,
      "short": "",
-     "long": "Nu este regula.",
+     "long": "Virajul la stânga nu este regula de prioritate.",
      "warn": ""
     }
    ]
@@ -510,34 +510,34 @@
    "number": "#15",
    "text": "471: La 10 metri înălțime după decolare ni se oprește motorul, ce este recomandat să facem în acest caz?",
    "short": "Dacă motorul se oprește la 10 m după decolare, asiguri viteza de planare și aterizezi înainte.",
-   "long": "La oprirea motorului la altitudine mică, primul lucru este menținerea vitezei de planare, ca aripa să rămână stabilă. Apoi alegi locul de aterizare cel mai apropiat, în direcția înainte. Virajul rapid spre decolare și frânarea bruscă pot provoca stallul.",
+   "long": "Dacă motorul se oprește la 10 m, pilotul asigură viteza de planare și alege direcția de aterizare înainte, pentru a ateriza controlat.",
    "answers": [
     {
      "text": "virăm rapid pentru a ne întoarce la decolare",
      "correct": false,
      "short": "",
-     "long": "Virajul rapid poate duce la stall.",
+     "long": "Virajul rapid la 10 m poate duce la pierderea controlului și la stall.",
      "warn": ""
     },
     {
      "text": "trebuie asigurată viteza de planare, iar direcția de aterizare este înainte",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Viteza de planare și direcția înainte.",
      "warn": ""
     },
     {
      "text": "vom frâna cât mai repede aripa pentru ca urmeaza impactul cu solul",
      "correct": false,
      "short": "Vom frâna cât mai repede aripa pentru că urmează impactul cu solul.",
-     "long": "Frânarea bruscă poate duce la stall.",
+     "long": "Frânarea bruscă a aripii duce la prăbușire.",
      "warn": ""
     },
     {
      "text": "încercam să pornim motorul cât mai repede",
      "correct": false,
      "short": "Încercăm să pornim motorul cât mai repede.",
-     "long": "Prioritatea este viteza de planare.",
+     "long": "Pornirea motorului nu este prioritară în urgență la 10 m.",
      "warn": ""
     }
    ]
@@ -546,34 +546,34 @@
    "number": "#16",
    "text": "487: În ce perioada a zilei este recomandat zborul cu paramotorul, pentru ca atmosfera să fie cât mai calmă:",
    "short": "Zborul cu paramotorul este recomandat dimineața și seara, când atmosfera este mai calmă.",
-   "long": "Dimineața și seara vântul este de regulă mai slab și convecția este redusă. La amiază, termicele sunt intense și turbulente. Zborul după apus fără echipament adecvat nu este recomandat.",
+   "long": "Atmosfera este mai calmă dimineața și seara, când nu există încă termicele puternice de după-amiază.",
    "answers": [
     {
      "text": "Dimineața și seara",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Dimineața și seara atmosfera este mai calmă.",
      "warn": ""
     },
     {
      "text": "După apusul soarelui, dacă suntem echipati cu lumini de aviație",
      "correct": false,
      "short": "După apusul soarelui, dacă suntem echipați cu lumini de aviație.",
-     "long": "Zborul de noapte este alt caz.",
+     "long": "După apus zborul nu este recomandat, chiar cu lumini.",
      "warn": ""
     },
     {
      "text": "Orice perioadă este potrivită, chiar cu riscul unei închideri parțiale a aripii",
      "correct": false,
      "short": "",
-     "long": "Riscul nu este acceptabil.",
+     "long": "Închiderea aripii nu este acceptabilă ca risc normal.",
      "warn": ""
     },
     {
      "text": "In mijlocul zilei, pentru a beneficia de termice",
      "correct": false,
      "short": "În mijlocul zilei, pentru a beneficia de termice.",
-     "long": "Termicele de amiază pot fi turbulente.",
+     "long": "La amiază sunt termice puternice, deci atmosfera nu este calmă.",
      "warn": ""
     }
    ]
@@ -582,34 +582,34 @@
    "number": "#17",
    "text": "550: Care este primul criteriu de verificat înainte de a alege un loc de decolare?",
    "short": "Primul criteriu înainte de a alege un loc de decolare este asigurarea că te afli într-un spațiu aerian legal.",
-   "long": "Înainte de orice altă evaluare, trebuie verificat că zona de decolare și traseul sunt legale, adică în afara zonelor interzise și restricționate. Meteo, obstacolele și zonele de urgență contează după.",
+   "long": "Înainte de alegerea locului de decolare, se verifică dacă zborul se face într-un spațiu aerian legal (zona permisă, restricțiile și interdicțiile).",
    "answers": [
     {
      "text": "Evaluarea condițiilor meteorologice",
      "correct": false,
      "short": "",
-     "long": "Este important, dar nu primul criteriu.",
+     "long": "Meteo este important, dar primul criteriu este legalitatea spațiului.",
      "warn": ""
     },
     {
      "text": "Verificarea prezenței obstacolelor",
      "correct": false,
      "short": "",
-     "long": "Este important, dar nu primul criteriu.",
+     "long": "Obstacolele se verifică după ce locul este legal.",
      "warn": ""
     },
     {
      "text": "Asigurarea că se află într-un spațiu aerian legal",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Primul criteriu este spațiul legal.",
      "warn": ""
     },
     {
      "text": "Confirmarea existenței unei zone de urgență",
      "correct": false,
      "short": "",
-     "long": "Este importantă, dar nu primul criteriu.",
+     "long": "Zona de urgență se verifică după ce zborul este legal.",
      "warn": ""
     }
    ]
@@ -618,34 +618,34 @@
    "number": "#18",
    "text": "504: Mentiunea CAVOK în METAR presupune în mod obligatoriu:",
    "short": "Mențiunea CAVOK în METAR nu presupune restricții speciale în acest caz.",
-   "long": "CAVOK indică vizibilitate bună, fără nori sub 1500 m și fără fenomene semnificative. Nu înseamnă automat că zborul este permis oricum, dar nu impune restricții speciale din cauza meteo. Traficul sau condițiile periculoase nu sunt definite de CAVOK.",
+   "long": "CAVOK înseamnă vizibilitate de 10 km sau mai mult, fără nori sub 1500 m și fără fenomene meteo importante. Nu are restricții speciale.",
    "answers": [
     {
      "text": "interzicerea zborului, trafic aerian aglomerat in zonă",
      "correct": false,
      "short": "Interzicerea zborului, trafic aerian aglomerat în zonă.",
-     "long": "CAVOK nu definește trafic aglomerat.",
+     "long": "CAVOK nu înseamnă interzicerea zborului din cauza traficului.",
      "warn": ""
     },
     {
      "text": "nu există restricții speciale în acest caz",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. CAVOK nu are restricții speciale.",
      "warn": ""
     },
     {
      "text": "interzicerea zborului, condiții meteo periculoase",
      "correct": false,
      "short": "",
-     "long": "CAVOK indică condiții bune.",
+     "long": "CAVOK nu înseamnă condiții meteo periculoase.",
      "warn": ""
     },
     {
      "text": "condiții meteo bune, dar în curs de schimbare",
      "correct": false,
      "short": "",
-     "long": "CAVOK nu indică schimbare.",
+     "long": "CAVOK descrie condiții bune, fără schimbare obligatorie.",
      "warn": ""
     }
    ]
@@ -654,34 +654,34 @@
    "number": "#19",
    "text": "535: Care este principala metodă de recuperare dintr-o închidere frontală?",
    "short": "Pentru a recupera dintr-o închidere frontală eliberezi accelerația și tragi puțin frânele, ca să nu te depășească aripa când își revine.",
-   "long": "La închiderea frontală, aripa pierde presiunea în față. Eliberarea accelerației și o ușoară tragere de frâne ajută aripa să își revină treptat, fără să o depășească. Tragerea bruscă a frânelor și mărirea puterii nu sunt soluțiile corecte.",
+   "long": "La închiderea frontală, pilotul eliberează accelerația, trage ușor frânele pentru a nu depăși aripa la revenire, iar aripa își revine.",
    "answers": [
     {
      "text": "Tragi brusc de frâne pentru a deschide aripa",
      "correct": false,
      "short": "",
-     "long": "Agravează situația.",
+     "long": "Tragerea bruscă de frâne agravează închiderea.",
      "warn": ""
     },
     {
      "text": "Eliberezi accelerația și tragi puțin frânele să nu te depășească când își revine",
      "correct": true,
      "short": "Eliberezi accelerația și tragi puțin frânele, să nu te depășească când își revine.",
-     "long": "",
+     "long": "Corect. Se eliberează accelerația și se trage ușor frânele.",
      "warn": ""
     },
     {
      "text": "Mărești puterea motorului pentru a stabiliza aripa",
      "correct": false,
      "short": "",
-     "long": "Nu este soluția corectă.",
+     "long": "Mărirea puterii nu stabilizează aripa în închidere frontală.",
      "warn": ""
     },
     {
      "text": "Folosești rezerva pentru a stabiliza zborul",
      "correct": false,
      "short": "",
-     "long": "Rezerva se folosește doar în caz extrem.",
+     "long": "Rezerva nu este folosită pentru a stabiliza zborul în închidere frontală.",
      "warn": ""
     }
    ]
@@ -690,34 +690,34 @@
    "number": "#20",
    "text": "506: De ce nu este recomandat să sari înainte de atingerea apei în cazul unei aterizări forțate?",
    "short": "Nu sări înainte de atingerea apei, pentru că este greu de estimat înălțimea deasupra apei.",
-   "long": "Dacă sari prea devreme, cazi de la înălțime și te lovești. Dacă sari prea târziu, poți fi prins în echipament. Este mai sigur să rămâi legat, să menții poziția și să ieși după impact.",
+   "long": "Săritura înainte de atingerea apei este greu de evaluat, deoarece înălțimea peste apă nu se estimează bine, iar lovirea apei cu corpul poate fi periculoasă.",
    "answers": [
     {
      "text": "Este imposibil să înoți corect după o săritură",
      "correct": false,
      "short": "",
-     "long": "Nu este motivul.",
+     "long": "Pilotul poate înota după săritură. Problema este estimarea înălțimii.",
      "warn": ""
     },
     {
      "text": "Apa poate ascunde rechini",
      "correct": false,
      "short": "",
-     "long": "Nu este motivul principal.",
+     "long": "Riscul de rechini nu este motivul principal în acest context.",
      "warn": ""
     },
     {
      "text": "Este greu de estimat înălțimea peste apă",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Înălțimea peste apă este greu de estimat.",
      "warn": ""
     },
     {
      "text": "Apa este prea rece pentru o săritură",
      "correct": false,
      "short": "",
-     "long": "Nu este motivul.",
+     "long": "Temperatura apei nu este motivul principal al acestei recomandări.",
      "warn": ""
     }
    ]
@@ -726,34 +726,34 @@
    "number": "#21",
    "text": "520: Care este scopul principal al „flare-ului” în timpul aterizării?",
    "short": "Scopul flare-ului în aterizare este să facă corpul să se balanseze înainte, reducând viteza de coborâre și de înaintare.",
-   "long": "Flare-ul este o trăgare ușoară și progresivă a comenzilor, care ridică nasul aripii și reduce viteza de coborâre. Pilotul ajunge la sol cu viteză mică. Scopul nu este ridicarea aripii sau creșterea vitezei.",
+   "long": "Flare-ul este manevra de aterizare prin care pilotul trage comenzile ferm, pentru a ridica corpul și a reduce viteza de coborâre și de înaintare.",
    "answers": [
     {
      "text": "Să crească viteza de înaintare pentru o aterizare mai lină",
      "correct": false,
      "short": "",
-     "long": "Flare-ul reduce viteza.",
+     "long": "Flare-ul reduce viteza de înaintare, nu o crește.",
      "warn": ""
     },
     {
      "text": "să permită o corectare ușoară a direcției în timpul aterizării",
      "correct": false,
      "short": "",
-     "long": "Corecția direcției este alt aspect.",
+     "long": "Corectarea direcției nu este scopul principal al flare-ului.",
      "warn": ""
     },
     {
      "text": "Să facă corpul să se balanseze înainte, reducând viteza de coborâre și de înaintare",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Flare-ul reduce viteza de coborâre și de înaintare.",
      "warn": ""
     },
     {
      "text": "Să ridice aripa pentru o coborâre mai rapidă",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Aripa nu se ridică pentru coborâre mai rapidă. Flare-ul încetinește coborârea.",
      "warn": ""
     }
    ]
@@ -762,34 +762,34 @@
    "number": "#22",
    "text": "466: Cum se decoleaza cu vânt de spate cu viteza mai mare de 20 km/h?",
    "short": "Nu este recomandată decolarea cu vânt de spate peste 20 km/h, iar la această viteză este puțin probabil să poți decola.",
-   "long": "Cu vânt de spate, viteza față de sol este mare, deci aripa nu poate fi decolată în siguranță. Distanța necesară crește și riscul de accident crește. Decolarea trebuie amânată sau mutată pe o direcție cu vânt de față.",
+   "long": "Decolarea cu vânt de spate, la peste 20 km/h, nu este recomandată, deoarece viteza la sol crește, iar distanța de decolare devine foarte mare.",
    "answers": [
     {
      "text": "se accelerează motorul pe loc în turație maximă după care se ridică brusc aripa și se decolează cât mai repede posibil",
      "correct": false,
      "short": "Se accelerează motorul pe loc în turație maximă, după care se ridică brusc aripa și se decolează cât mai repede posibil.",
-     "long": "Este periculos.",
+     "long": "Accelerarea pe loc și ridicarea bruscă a aripii sunt periculoase.",
      "warn": ""
     },
     {
      "text": "nu este recomandată decolarea cu vânt de spate, iar la aceasta viteză este puțin probabil să putem decola",
      "correct": true,
      "short": "Nu este recomandată decolarea cu vânt de spate, iar la această viteză este puțin probabil să putem decola.",
-     "long": "",
+     "long": "Corect. Decolarea cu vânt de spate peste 20 km/h nu este recomandată.",
      "warn": ""
     },
     {
      "text": "se aleargă cu viteza mare și cu aripa frânată pentru a micșora distanța de decolare",
      "correct": false,
      "short": "Se aleargă cu viteză mare și cu aripa frânată pentru a micșora distanța de decolare.",
-     "long": "Frânarea nu scurtează decolarea.",
+     "long": "Alergarea cu frânele trase nu scurtează distanța, ci o alterează.",
      "warn": ""
     },
     {
      "text": "ne aruncăm cât mai repede în seletă pentru a alerga cât mai puțin",
      "correct": false,
      "short": "",
-     "long": "Este periculos.",
+     "long": "Aruncarea în seletă nu este procedura de decolare.",
      "warn": ""
     }
    ]
@@ -798,34 +798,34 @@
    "number": "#23",
    "text": "514: Cum trebuie să abordezi decolarea în condiții de vânt slab sau inexistent?",
    "short": "În vânt slab sau inexistent, menții suspantele tensionate și alergi pentru a câștiga viteză.",
-   "long": "Fără vânt, aripa trebuie gonflată cu alergare. Suspantele tensionate și alergarea progresivă permit aripii să se umfle și să decoleze. Motorul la putere maximă sau parașuta de rezervă nu sunt soluțiile.",
+   "long": "Fără vânt, aripa trebuie umflată și stabilizată prin alergare, cu suspantele tensionate, pentru a câștiga viteza necesară decolării.",
    "answers": [
     {
      "text": "Să folosești motorul la putere maximă",
      "correct": false,
      "short": "",
-     "long": "Nu este soluția.",
+     "long": "Motorul la putere maximă nu este procedura. Pilotul trebuie să alerge cu aripa.",
      "warn": ""
     },
     {
      "text": "Să decolezi dintr-un punct înalt",
      "correct": false,
      "short": "",
-     "long": "Nu este soluția.",
+     "long": "Decolarea dintr-un punct înalt nu este regula în vânt slab.",
      "warn": ""
     },
     {
      "text": "Să folosești parașuta de rezervă",
      "correct": false,
      "short": "",
-     "long": "Nu este soluția.",
+     "long": "Parașuta de rezervă nu este procedura de decolare.",
      "warn": ""
     },
     {
      "text": "Să menții suspantele tensionate și să alergi pentru a câștiga viteză",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Suspantele tensionate și alergarea dau viteza necesară.",
      "warn": ""
     }
    ]
@@ -834,34 +834,34 @@
    "number": "#24",
    "text": "573: Care este un semn comun al oboselii pe care un pilot trebuie să-l recunoască?",
    "short": "Un semn comun al oboselii este senzația de somnolență sau lipsa de concentrare.",
-   "long": "Oboseala se manifestă prin somnolență, dificultăți de concentrare, reacții lente și greșeli. Pilotul care observă aceste semne trebuie să amâne zborul.",
+   "long": "Oboseala se recunoaște prin somnolență și lipsă de concentrare, semne care cer amânarea zborului.",
    "answers": [
     {
      "text": "Senzație de somnolență sau lipsă de concentrare",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Somnolența și lipsa concentrării sunt semne ale oboselii.",
      "warn": ""
     },
     {
      "text": "Creșterea clarității mentale",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Claritatea mentală scade la oboseală, nu crește.",
      "warn": ""
     },
     {
      "text": "Creșterea energiei și a vigilenței",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Energia și vigilența scad la oboseală.",
      "warn": ""
     },
     {
      "text": "Reducerea frecvenței cardiace",
      "correct": false,
      "short": "",
-     "long": "Nu este semnul principal.",
+     "long": "Frecvența cardiacă nu scade ca semn al oboselii în acest sens.",
      "warn": ""
     }
    ]
@@ -870,34 +870,34 @@
    "number": "#25",
    "text": "560: Ce metodă este considerată cea mai puțin dezirabilă pentru a porni un motor nesecurizat?",
    "short": "Cea mai puțin dezirabilă metodă de pornire a unui motor nesecurizat este să îl pornești stând în fața lui.",
-   "long": "Dacă motorul pornește brusc, elicea poate lovi pilotul din față. Pornirea se face din spate, cu suportul fix sau cu un asistent care ține aparatul. Stând în fața motorului, riscul de lovire este maxim.",
+   "long": "Pornirea motorului singur, stând în fața elicei, este cea mai periculoasă metodă, deoarece elicea poate lovi pilotul sau poate pierde controlul.",
    "answers": [
     {
      "text": "Să pornești motorul pe spatele tău",
      "correct": false,
      "short": "",
-     "long": "Este metoda corectă, de regulă.",
+     "long": "Pornirea pe spate este procedura corectă, mai puțin periculoasă.",
      "warn": ""
     },
     {
      "text": "Să pornești motorul singur, stând în fața lui",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Pornirea singur, în fața elicei, este cea mai puțin dezirabilă.",
      "warn": ""
     },
     {
      "text": "Să pornești motorul cu ajutorul unui asistent",
      "correct": false,
      "short": "",
-     "long": "Este o metodă mai sigură.",
+     "long": "Pornirea cu asistent este mai sigură.",
      "warn": ""
     },
     {
      "text": "Să pornești motorul pe un suport fix",
      "correct": false,
      "short": "",
-     "long": "Este o metodă mai sigură.",
+     "long": "Pornirea pe un suport fix este procedură mai sigură.",
      "warn": ""
     }
    ]
@@ -942,34 +942,34 @@
    "number": "#27",
    "text": "481: Când este o problemă oprirea motorului în zbor:",
    "short": "Oprirea motorului în zbor este o problemă doar atunci când nu mai poți ajunge la un loc unde poți ateriza în siguranță.",
-   "long": "Motorul oprit nu este automat o urgență: aripa poate planează până la un loc sigur. Problema devine critică dacă nu poți ajunge la un loc de aterizare în siguranță.",
+   "long": "Oprirea motorului în zbor devine problemă doar când nu se poate ajunge la un loc sigur de aterizare.",
    "answers": [
     {
      "text": "niciodată, atunci când zburăm cu parașuta de rezervă",
      "correct": false,
      "short": "",
-     "long": "Parașuta nu înlocuiește aterizarea controlată.",
+     "long": "Parașuta de rezervă nu înlocuiește nevoia de loc sigur.",
      "warn": ""
     },
     {
      "text": "cateodată, dacă zburăm cu pasager",
      "correct": false,
      "short": "",
-     "long": "Pasagerul nu schimbă natura problemei.",
+     "long": "Pasagerul nu schimbă regula. Problema este lipsa locului sigur de aterizare.",
      "warn": ""
     },
     {
      "text": "doar atunci când nu mai putem ajunge la un loc unde putem ateriza în siguranță",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Problema apare când nu se poate ajunge la un loc sigur.",
      "warn": ""
     },
     {
      "text": "niciodată, dacă anunțăm oprirea acestuia",
      "correct": false,
      "short": "",
-     "long": "Anunțarea nu elimină problema.",
+     "long": "Anunțarea nu face oprirea nepericuloasă.",
      "warn": ""
     }
    ]
@@ -978,34 +978,34 @@
    "number": "#28",
    "text": "566: De ce este important să respecți intervalul de greutate recomandat pentru o aripă de parapantă?",
    "short": "Respectarea intervalului de greutate recomandat pentru aripă asigură performanța optimă și siguranța în zbor.",
-   "long": "Fiecare aripă are un interval de greutate pentru care este omologată. În afara lui, performanța și siguranța sunt afectate. Amenzile, aspectul și costurile de întreținere nu sunt motivul principal.",
+   "long": "Intervalul de greutate recomandat este cel pentru care aripa a fost omologată. Respectându-l, aripa își păstrează performanța și siguranța în zbor.",
    "answers": [
     {
      "text": "Pentru a evita amenzile legale",
      "correct": false,
      "short": "",
-     "long": "Nu este motivul principal.",
+     "long": "Amenzile nu sunt motivul principal al intervalului de greutate.",
      "warn": ""
     },
     {
      "text": "Pentru a îmbunătăți aspectul estetic al echipamentului",
      "correct": false,
      "short": "",
-     "long": "Nu este motivul.",
+     "long": "Aspectul estetic nu este motivul intervalului.",
      "warn": ""
     },
     {
      "text": "Pentru a reduce costurile de întreținere",
      "correct": false,
      "short": "",
-     "long": "Nu este motivul principal.",
+     "long": "Costurile de întreținere nu sunt motivul principal.",
      "warn": ""
     },
     {
      "text": "Pentru a asigura performanța optimă și siguranța în zbor",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Intervalul asigură performanța și siguranța.",
      "warn": ""
     }
    ]
@@ -1014,34 +1014,34 @@
    "number": "#29",
    "text": "557: Care sunt semnele care indică prezența turbulențelor mecanice?",
    "short": "Turbulențele mecanice sunt indicate de norii de praf, de devierea fumului și de modificările bruște ale vântului.",
-   "long": "Turbulența mecanică apare la obstacole, relief sau clădiri. Ea se vede prin praf, prin fumul care se deviază și prin rafale. Zgomotul constant, norii de furtună la distanță și creșterea constantă a vântului nu sunt indicatorii.",
+   "long": "Turbulența mecanică apare la obstacole și relief, și se vede prin praf, fum sau frunze care se mișcă haotic, deviate de curenții de aer din jurul obstacolelor.",
    "answers": [
     {
      "text": "Zgomot constant și lin",
      "correct": false,
      "short": "",
-     "long": "Nu este indicatorul.",
+     "long": "Zgomotul constant și lin nu indică turbulență.",
      "warn": ""
     },
     {
      "text": "Prezența norilor de furtună la distanță",
      "correct": false,
      "short": "",
-     "long": "Nu este indicatorul turbulenței mecanice.",
+     "long": "Norii de furtună la distanță sunt semn de turbulență termică, nu mecanică.",
      "warn": ""
     },
     {
      "text": "O creștere constantă a vitezei vântului",
      "correct": false,
      "short": "",
-     "long": "Nu este indicatorul.",
+     "long": "O creștere constantă a vitezei vântului nu este semnul turbulenței mecanice.",
      "warn": ""
     },
     {
      "text": "Turbulențele mecanice sunt indicate de prezența norilor de praf, devierea fumului și modificările bruște ale vântului",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Praful, fumul sau frunzele deviate indică turbulența mecanică.",
      "warn": ""
     }
    ]
@@ -1050,34 +1050,34 @@
    "number": "#30",
    "text": "492: Pornirea motorului se poate efectua:",
    "short": "Pornirea motorului se poate face în spatele pilotului, în aer liber, cu elicea liberă.",
-   "long": "Pornirea se face cu motorul sprijinit, în spatele pilotului, în aer liber, fără obstacole, cu elicea liberă și fără persoane în zona elicei. Pietrișul și orice suprafață nu sunt condițiile corecte.",
+   "long": "Motorul se pornește cu pilotul în spatele paramotorului, în aer liber, cu elicea liberă (nemontată pe sarcină), pentru siguranță.",
    "answers": [
     {
      "text": "în spatele pilotului, în aer liber având elicea liberă",
      "correct": true,
      "short": "În spatele pilotului, în aer liber, având elicea liberă.",
-     "long": "",
+     "long": "Corect. Pornirea în spatele pilotului, în aer liber, cu elicea liberă.",
      "warn": ""
     },
     {
      "text": "sprijinit de corp cu minim 2 puncte de sprijin",
      "correct": false,
      "short": "Sprijinit de corp, cu minim 2 puncte de sprijin.",
-     "long": "Nu este varianta corectă pentru pornire.",
+     "long": "Sprijinirea pe corp nu este procedura corectă de pornire.",
      "warn": ""
     },
     {
      "text": "pe suprafeţe cu pietriş",
      "correct": false,
      "short": "Pe suprafețe cu pietriș.",
-     "long": "Pietrișul poate fi aruncat în elice.",
+     "long": "Suprafața cu pietriș poate arunca obiecte în elice.",
      "warn": ""
     },
     {
      "text": "pe orice suprafaţă",
      "correct": false,
      "short": "Pe orice suprafață.",
-     "long": "Suprafața trebuie să fie stabilă.",
+     "long": "Pornirea pe orice suprafață nu este sigură. Se alege suprafața potrivită.",
      "warn": ""
     }
    ]
@@ -1122,34 +1122,34 @@
    "number": "#32",
    "text": "536: Ce este un stall și cum poate fi provocat?",
    "short": "Un stall apare când unghiul de atac crește atât de mult încât fluxul de aer de pe aripă se separă, provocat de frânare excesivă sau de rafale de vânt.",
-   "long": "La stall, aripa își pierde portanța deoarece aerul nu mai curge lipit de profil. Frânarea excesivă și rafalele pot provoca stallul. Nu este un fenomen rar sau o deformare.",
+   "long": "Stall-ul apare când unghiul de atac crește atât de mult încât curgerea aerului pe aripă se desprinde și aripa își pierde portanța.",
    "answers": [
     {
      "text": "Un stall apare când unghiul de atac crește atât de mult încât fluxul de aer de pe aripă se separă, provocat de frânare excesivă sau rafale de vânt",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Stall-ul apare când unghiul de atac este prea mare și curgerea se desprinde.",
      "warn": ""
     },
     {
      "text": "O închidere a aripii provocată de o manevră bruscă",
      "correct": false,
      "short": "",
-     "long": "Este alt fenomen.",
+     "long": "Închiderea aripii este alt fenomen, nu stall-ul.",
      "warn": ""
     },
     {
      "text": "Un fenomen rar care apare numai în condiții de zbor extrem",
      "correct": false,
      "short": "",
-     "long": "Nu este definiția.",
+     "long": "Stall-ul nu este un fenomen rar. Apare în condiții normale dacă unghiul de atac este prea mare.",
      "warn": ""
     },
     {
      "text": "O deformare a aripii provocată de utilizarea incorectă a frânelor",
      "correct": false,
      "short": "",
-     "long": "Este alt fenomen.",
+     "long": "Deformarea frontală este alt fenomen, nu stall-ul.",
      "warn": ""
     }
    ]
@@ -1158,34 +1158,34 @@
    "number": "#33",
    "text": "525: Cum trebuie să abordezi aterizarea în condiții de vânt ușor?",
    "short": "În vânt ușor, folosești trimmerele în setarea lentă și aplici o presiune ușoară pe frâne la aterizare.",
-   "long": "Setarea lentă a trimmerelor și frânarea ușoară asigură o aterizare controlată, cu viteză mică. Cele două variante identice descriu aceeași procedură. Sărirea din scaun și virajele strânse nu sunt metode corecte.",
+   "long": "La vânt ușor, aterizarea se face cu trimmerele în setarea lentă și cu o presiune ușoară pe frâne, pentru a controla viteza și coborârea.",
    "answers": [
     {
      "text": "Să folosești trimmerele la setarea lentă și să aplici o presiune ușoară pe frâne",
      "correct": false,
      "short": "",
-     "long": "Are același text ca varianta B, deci nu este varianta corectă.",
+     "long": "Varianta este identică cu B. Textul este corect, dar în această formă nu deosebește nimic de B.",
      "warn": ""
     },
     {
      "text": "Să folosești trimmerele la setarea lentă și să aplici o presiune ușoară pe frâne",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă; varianta A are același text.",
+     "long": "Corect. Trimmerele în setare lentă și presiune ușoară pe frâne controlează aterizarea. Varianta A are același text și este la fel de corectă.",
      "warn": ""
     },
     {
      "text": "Să sari din scaun înainte de aterizare",
      "correct": false,
      "short": "",
-     "long": "Este periculos.",
+     "long": "Săritura din scaun nu este procedura de aterizare.",
      "warn": ""
     },
     {
      "text": "Să faci viraje strânse pentru a pierde altitudine",
      "correct": false,
      "short": "",
-     "long": "Nu este procedura corectă în vânt ușor.",
+     "long": "Virajele strânse pentru a pierde altitudine sunt manevre de urgență, nu procedura de aterizare la vânt ușor.",
      "warn": ""
     }
    ]
@@ -1194,34 +1194,34 @@
    "number": "#34",
    "text": "489: Pilotarea cu ajutorul chingilor spate:",
    "short": "Pilotarea cu ajutorul chingilor spate permite redresarea în cazul ruperii unei comenzi.",
-   "long": "Chingile spate pot ține aripa direcționată când o comandă se rupe sau se desprinde. Ele permit controlul de rezervă. Nu permit coborâre rapidă și nu se folosesc prin tragerea de câțiva centimetri.",
+   "long": "Pilotarea cu chingile din spate (prin tragere) permite redresarea aripii după ruperea unei comenzi, deoarece chingile din spate pot înlocui funcția comenzii rupte.",
    "answers": [
     {
      "text": "permite redresarea în cazul ruperii unei comenzi",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Chingile din spate permit redresarea după ruperea unei comenzi.",
      "warn": ""
     },
     {
      "text": "permite coborârea rapidă",
      "correct": false,
      "short": "",
-     "long": "Nu este scopul.",
+     "long": "Coborârea rapidă se face altfel, prin spirală sau alte manevre.",
      "warn": ""
     },
     {
      "text": "se face cu o chingă spate şi comanda opusă",
      "correct": false,
      "short": "Se face cu o chingă spate și comanda opusă.",
-     "long": "Nu este procedura.",
+     "long": "Chingile nu se folosesc cu comanda opusă în această procedură.",
      "warn": ""
     },
     {
      "text": "trebuie să se facă prin tragerea lor cu câţiva cm",
      "correct": false,
      "short": "Trebuie să se facă prin tragerea lor cu câțiva cm.",
-     "long": "Nu este procedura.",
+     "long": "Chingile nu se trag cu câțiva centimetri ca procedură generală.",
      "warn": ""
     }
    ]
@@ -1230,34 +1230,34 @@
    "number": "#35",
    "text": "500: În zbor, o aeronoavă ajunge în dreapta dv. pe o rută convergentă:",
    "short": "Dacă o aeronavă vine în dreapta ta pe o rută convergentă, tu trebuie să cedezi prioritatea.",
-   "long": "La rute convergente, aeronava care are cealaltă aeronavă în dreapta cedează. Dacă vine în dreapta ta, cedezi. Paramotorul nu are prioritate doar pentru că este mai lent.",
+   "long": "Pe o rută convergentă, aeronava care are cealaltă aeronavă în dreapta sa trebuie să cedeze prioritatea (RACR-RA, pct. 2.3).",
    "answers": [
     {
      "text": "dvs. aveţi prioritate",
      "correct": false,
      "short": "Dvs. aveți prioritate.",
-     "long": "Nu este regula dacă vine din dreapta.",
+     "long": "Pilotul nu are prioritate când cealaltă aeronavă este în dreapta sa.",
      "warn": ""
     },
     {
      "text": "prioritatea depinde de tipul de aeronavă",
      "correct": false,
      "short": "",
-     "long": "Regula este dreapta, nu tipul.",
+     "long": "Prioritatea nu depinde de tipul aeronavei în această regulă.",
      "warn": ""
     },
     {
      "text": "dvs. trebuie să cedaţi prioritatea",
      "correct": true,
      "short": "Dvs. trebuie să cedați prioritatea.",
-     "long": "",
+     "long": "Corect. Pilotul cedează prioritatea celei din dreapta (RACR-RA, pct. 2.3).",
      "warn": ""
     },
     {
      "text": "paramotorul, fiind cea mai inceată aeronava, are intotdeauna prioritate",
      "correct": false,
      "short": "Paramotorul, fiind cea mai lentă aeronavă, are întotdeauna prioritate.",
-     "long": "Viteza nu dă prioritate.",
+     "long": "Paramotorul nu are întotdeauna prioritate, chiar dacă zboară lent.",
      "warn": ""
     }
    ]
@@ -1266,34 +1266,34 @@
    "number": "#36",
    "text": "561: Ce este recomandat să faci cu motorul după ce a rulat la relanti pentru câteva minute?",
    "short": "După ce motorul a rulat la relanti câteva minute, îl accelerezi la 50% putere pentru aproximativ 10 secunde, pentru a curăța motorul.",
-   "long": "Turația mică poate depune reziduuri, iar accelerarea scurtă la regim mediu le elimină. Accelerarea la putere maximă sau oprirea imediată nu sunt recomandate.",
+   "long": "După rularea la relanti, motorul se accelerează scurt la o putere moderată, pentru a curăța bujiile și a evita depunerile.",
    "answers": [
     {
      "text": "Să-l lași să ruleze la ralanti până la decolare",
      "correct": false,
      "short": "Să-l lași să ruleze la relanti până la decolare.",
-     "long": "Reziduurile se acumulează.",
+     "long": "Rularea prelungită la relanti depune reziduuri și nu curăță motorul.",
      "warn": ""
     },
     {
      "text": "Să-l accelerezi la putere maximă",
      "correct": false,
      "short": "",
-     "long": "Este periculos.",
+     "long": "Accelerarea la putere maximă poate supraîncălzi motorul la sol.",
      "warn": ""
     },
     {
      "text": "Să-l accelerezi la 50% putere pentru aproximativ 10 secunde pentru a curăța motorul",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Accelerarea scurtă la putere moderată curăță motorul.",
      "warn": ""
     },
     {
      "text": "Să-l oprești imediat",
      "correct": false,
      "short": "",
-     "long": "Nu este procedura.",
+     "long": "Oprirea imediată nu este procedura după relanti prelungit.",
      "warn": ""
     }
    ]
