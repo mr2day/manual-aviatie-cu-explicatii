@@ -2526,34 +2526,34 @@
    "number": "#71",
    "text": "289: Ce este vântul de gradient?",
    "short": "Vântul de gradient bate paralel cu izobarele curbate, influențat de forța Coriolis și de gradientul de presiune.",
-   "long": "Vântul de gradient apare când izobarele sunt curbate, de exemplu în jurul unui ciclon sau anticiclon. Este o generalizare a vântului geostrofic, pentru izobare curbate. Nu este un curent termic sau un vânt de munte.",
+   "long": "Vântul de gradient bate paralel cu izobarele curbate, în echilibru între forța gradientului de presiune, forța Coriolis și forța centrifugă. Este vântul de la altitudinea la care frecarea cu solul nu mai contează mult.",
    "answers": [
     {
      "text": "vântul de gradient este un vânt care bate în direcția în care scade presiunea atmosferică",
      "correct": false,
      "short": "",
-     "long": "Vântul nu bate direct în direcția presiunii scăzute.",
+     "long": "Vântul nu bate direct spre presiunea scăzută. Bate paralel cu izobarele, deviat de Coriolis.",
      "warn": ""
     },
     {
      "text": "vântul de gradient este un curent de aer care se formează datorită încălzirii solare",
      "correct": false,
      "short": "",
-     "long": "Acesta descrie un vânt termic.",
+     "long": "Curentul de aer cauzat de încălzirea solară este vântul termic sau local, nu vântul de gradient.",
      "warn": ""
     },
     {
      "text": "vântul de gradient este un vânt care bate paralel cu izobarele curbate, influențat de forța Coriolis și de gradientul de presiune",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Vântul de gradient bate paralel cu izobarele curbate, sub influența forței Coriolis.",
      "warn": ""
     },
     {
      "text": "vântul de gradient este un tip de vânt care apare doar în zone montane",
      "correct": false,
      "short": "",
-     "long": "Nu este limitat la munte.",
+     "long": "Vântul de gradient nu este specific zonelor montane. Apare la orice nivel de presiune cu izobare curbate.",
      "warn": ""
     }
    ]
@@ -2598,34 +2598,34 @@
    "number": "#73",
    "text": "267: Un vânt calm şi laminar, de 10 km/h suflă la altitudine deasupra zonei de aterizare:",
    "short": "Viteza vântului la sol depinde de topografia terenului, chiar dacă vântul de la altitudine este calm și laminar.",
-   "long": "Relieful, obstacolele și rugozitatea solului modifică vântul la sol. Un vânt de 10 km/h în altitudine poate fi diferit la sol. Varianta ține cont de aceste efecte.",
+   "long": "Vântul la sol este mai slab decât cel de altitudine și depinde de rugozitatea și relieful terenului, de obstacole și de pante. Deci nu poate fi egal cu cel de la altitudine.",
    "answers": [
     {
      "text": "viteza vântului la sol depinde de topografia terenului",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Vântul la sol depinde de topografie, prin frecare și obstacole.",
      "warn": ""
     },
     {
      "text": "vântul la sol va fi de 10km/h",
      "correct": false,
      "short": "Vântul la sol va fi de 10 km/h.",
-     "long": "Relieful modifică vântul la sol.",
+     "long": "Vântul la sol nu este egal cu cel de la altitudine. Frecarea cu solul îl încetinește.",
      "warn": ""
     },
     {
      "text": "vântul la sol va fi 0, ținânâd cont de gradient",
      "correct": false,
      "short": "Vântul la sol va fi 0, ținând cont de gradient.",
-     "long": "Vântul la sol nu este, de obicei, zero.",
+     "long": "Vântul la sol nu este zero, chiar dacă există gradient. Frecarea îl reduce, dar nu îl anulează.",
      "warn": ""
     },
     {
      "text": "vântul la sol va fi foarte slab",
      "correct": false,
      "short": "",
-     "long": "Depinde de teren, nu este valoare fixă.",
+     "long": "Vântul foarte slab este posibil, dar răspunsul corect este dependența de topografie, care poate reduce sau crește vântul.",
      "warn": ""
     }
    ]
@@ -2634,34 +2634,34 @@
    "number": "#74",
    "text": "259: Care este influența vântului asupra asupra motoparapantei în zbor:",
    "short": "Vântul modifică viteza motoparapantei față de sol.",
-   "long": "Vântul se adaugă vitezei aeronavei față de aer. Viteza față de sol este suma vectorială. Vântul din față încetinește față de sol, cel din spate o accelerează. Nu imprimă automat un viraj sau colapsează aripa.",
+   "long": "Vântul modifică viteza motoparapantei față de sol: cu vânt din față viteza față de sol scade, cu vânt din spate crește. Aerul din jur se mișcă, iar aeronava se deplasează odată cu el.",
    "answers": [
     {
      "text": "imprimarea unei tendințe de viraj",
      "correct": false,
      "short": "",
-     "long": "Vântul nu imprimă automat virajul.",
+     "long": "Vântul nu imprimă tendința de viraj. Virajul este dat de comenzi și de pilot.",
      "warn": ""
     },
     {
      "text": "imprimarea unei descendențe direct proporțională cu viteza vântului",
      "correct": false,
      "short": "Imprimarea unei descendențe direct proporționale cu viteza vântului.",
-     "long": "Vântul nu produce descendență proporțională.",
+     "long": "Descendența depinde de aer și de motoparapantă, nu direct de viteza vântului.",
      "warn": ""
     },
     {
      "text": "colapsarea asimetrică a voalurii atunci când este din lateral",
      "correct": false,
      "short": "",
-     "long": "Colapsul poate apărea, dar nu este efectul general al vântului.",
+     "long": "Colapsul asimetric este deformare a voalului, nu efectul direct al vântului lateral.",
      "warn": ""
     },
     {
      "text": "modifica viteza motoparapantei faţă de sol",
      "correct": true,
      "short": "Modifică viteza motoparapantei față de sol.",
-     "long": "",
+     "long": "Corect. Vântul modifică viteza motoparapantei față de sol.",
      "warn": ""
     }
    ]
@@ -2670,34 +2670,34 @@
    "number": "#75",
    "text": "216: De ce este importantă consultarea hărților satelitare ce includ imagini radar meteo?",
    "short": "Hărțile satelitare și imaginile radar meteo ajută să observi mișcarea fronturilor și să îți planifici zborul în siguranță.",
-   "long": "Imaginile satelitare și radar arată nori, precipitații și evoluția fronturilor. Consultarea lor este utilă mai ales la zborurile de distanță, indiferent de oră. Nu sunt informații irelevante pentru piloți.",
+   "long": "Hărțile satelitare și radar arată mișcarea norilor, a precipitațiilor și a fronturilor. Pe baza lor pilotul își planifică zborul și evită zonele periculoase.",
    "answers": [
     {
      "text": "putem oferi aceste informații turnului de control",
      "correct": false,
      "short": "",
-     "long": "Nu este scopul principal.",
+     "long": "Turnul de control nu are nevoie de aceste hărți de la pilot. Ele sunt pentru planificarea zborului.",
      "warn": ""
     },
     {
      "text": "ne ajută să observăm mișcarea fronturilor atmosferice și ne ajută să ne planificăm zborul în siguranță, evaluând evoluția acestora",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Hărțile arată fronturile și permit planificarea zborului în siguranță.",
      "warn": ""
     },
     {
      "text": "dacă zburăm dimineața și seara, nu este necesară consultarea acestora",
      "correct": false,
      "short": "",
-     "long": "Consultarea rămâne utilă.",
+     "long": "Zborul de dimineață sau de seară nu scoate consultarea din planificare. Meteo se consultă înainte de orice zbor.",
      "warn": ""
     },
     {
      "text": "sunt informații nerelevante piloților de parapantă cu motor",
      "correct": false,
      "short": "Sunt informații nerelevante pilotului de parapantă cu motor.",
-     "long": "Sunt relevante.",
+     "long": "Informațiile radar sunt utile și pilotului de motoparapantă cu motor.",
      "warn": ""
     }
    ]
@@ -2706,34 +2706,34 @@
    "number": "#76",
    "text": "263: Inversiunea termică este:",
    "short": "Inversiunea termică este o creștere a temperaturii cu înălțimea.",
-   "long": "În mod normal temperatura scade cu altitudinea. La inversiune, un strat de aer este mai cald deasupra celui de jos, deci temperatura crește cu înălțimea. Inversiunea blochează convecția și poate reține ceața și poluarea.",
+   "long": "Inversiunea termică este stratul în care temperatura crește cu altitudinea, în loc să scadă. Aerul cald stă peste cel rece, iar convecția se oprește.",
    "answers": [
     {
      "text": "o descreştere a presiunii cu înălţimea",
      "correct": false,
      "short": "O descreștere a presiunii cu înălțimea.",
-     "long": "Aceasta este variația normală a presiunii.",
+     "long": "Scăderea presiunii cu altitudinea este comportamentul normal, nu inversiunea.",
      "warn": ""
     },
     {
      "text": "o descreştere a temperaturii cu înălţimea",
      "correct": false,
      "short": "O descreștere a temperaturii cu înălțimea.",
-     "long": "Aceasta este variația normală a temperaturii.",
+     "long": "Scăderea temperaturii cu altitudinea este gradientul normal, nu inversiunea.",
      "warn": ""
     },
     {
      "text": "o creştere a temperaturii cu înălţimea",
      "correct": true,
      "short": "O creștere a temperaturii cu înălțimea.",
-     "long": "Este definiția inversiunii.",
+     "long": "Corect. Inversiunea este creșterea temperaturii cu altitudinea.",
      "warn": ""
     },
     {
      "text": "o menținere a temperaturii cu înălțimea",
      "correct": false,
      "short": "",
-     "long": "Aceasta este o izotermie, nu inversiunea.",
+     "long": "Temperatura constantă cu altitudinea este izotermie, nu inversiune.",
      "warn": ""
     }
    ]
@@ -2742,34 +2742,34 @@
    "number": "#77",
    "text": "280: Care sunt mărimile care caracterizează o masă de aer?",
    "short": "Masa de aer este caracterizată de temperatură (°C) și umiditatea specifică (g/kg).",
-   "long": "Caracteristicile unei mase de aer sunt temperatura și umiditatea, care definesc comportamentul ei. Presiunea și densitatea descriu starea aerului, dar nu sunt definitorii pentru masa de aer ca atare.",
+   "long": "O masă de aer se caracterizează prin temperatură și umiditate (de exemplu umiditatea specifică, în g/kg). Acestea arată originea și proprietățile maselor de aer.",
    "answers": [
     {
      "text": "temperatura (°C) și umiditatea specifică (g/kg)",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Temperatura și umiditatea specifică caracterizează masa de aer.",
      "warn": ""
     },
     {
      "text": "presiunea (mb) și densitatea (g/m³)",
      "correct": false,
      "short": "",
-     "long": "Descriu starea aerului, nu caracterizează masa.",
+     "long": "Presiunea și densitatea descriu starea aerului, dar nu sunt cele care caracterizează masa de aer în sens meteorologic.",
      "warn": ""
     },
     {
      "text": "gradul de turbulență și transparența (km)",
      "correct": false,
      "short": "",
-     "long": "Sunt efecte, nu caracteristicile masei.",
+     "long": "Turbulența și transparența sunt efecte, nu mărimile care caracterizează masa.",
      "warn": ""
     },
     {
      "text": "presiunea (mb) și densitatea (g/m³)",
      "correct": false,
      "short": "",
-     "long": "Varianta este dublată și nu este cea corectă.",
+     "long": "Presiunea și densitatea nu sunt suficiente pentru a caracteriza o masă de aer; lipsesc temperatura și umiditatea.",
      "warn": ""
     }
    ]
@@ -2778,34 +2778,34 @@
    "number": "#78",
    "text": "321: Care sunt condițiile meteorologice necesare pentru formarea unei furtuni?",
    "short": "Pentru formarea unei furtuni sunt necesare umiditate mare, factori declanșatori ai ascendențelor și instabilitate atmosferică.",
-   "long": "Furtuna are nevoie de vapori de apă, de un impuls care să ridice aerul (front, relief, încălzire) și de un strat instabil în care aerul continuă să urce. Lipsa unuia dintre acești factori împiedică formarea furtunii.",
+   "long": "Pentru o furtună trebuie: umiditate mare, un factor care declanșează ascendențe (încălzire, front, relief) și instabilitate atmosferică, care lasă aerul să urce mult.",
    "answers": [
     {
      "text": "umiditate mare, factori declanșatori pentru ascendențe și instabilitate atmosferică",
      "correct": true,
      "short": "",
-     "long": "Sunt cele trei condiții necesare.",
+     "long": "Corect. Umiditate mare, declanșare de ascendență și instabilitate.",
      "warn": ""
     },
     {
      "text": "umiditate mică, temperaturi ridicate și nori cumulus",
      "correct": false,
      "short": "",
-     "long": "Umiditatea mică nu favorizează furtuna.",
+     "long": "Umiditatea mică nu favorizează furtuna. Nu sunt necesare temperaturi ridicate, iar norii cumulus simpli nu sunt suficienți.",
      "warn": ""
     },
     {
      "text": "factori declanșatori pentru ascendențe, instabilitate atmosferică și nebulozitate",
      "correct": false,
      "short": "",
-     "long": "Nebulozitatea nu este condiție separată corectă.",
+     "long": "Nebulozitatea nu este condiția de bază. Furtuna cere umiditate mare, declanșare și instabilitate.",
      "warn": ""
     },
     {
      "text": "umiditate mică, temperaturi mici și stabilitate atmosferică",
      "correct": false,
      "short": "",
-     "long": "Stabilitatea și umiditatea mică exclud furtuna.",
+     "long": "Umiditatea mică și stabilitatea nu favorizează furtuna.",
      "warn": ""
     }
    ]
@@ -2814,34 +2814,34 @@
    "number": "#79",
    "text": "313: Treapta barică, de la nivelul mării până la 5000 ft., scade cu?",
    "short": "Între nivelul mării și 5000 ft, treapta barică este de aproximativ 1 hPa la fiecare 30 ft.",
-   "long": "Corect: regula pilotului este 1 hPa la aproximativ 30 ft în straturile joase, adică 1 hPa la aproximativ 8–9 m. Varianta este cea corectă, spre deosebire de întrebarea 35, unde varianta corectă are o eroare.",
+   "long": "Între nivelul mării și 5000 ft, presiunea scade cu circa 1 hPa (mb) la fiecare 30 ft în straturile joase, adică aproximativ 8–9 m.",
    "answers": [
     {
      "text": "1 milibar pentru fiecare 1000 ft.",
      "correct": false,
      "short": "",
-     "long": "Scăderea este mult mai mare la 1000 ft.",
+     "long": "1 mb la 1000 ft este mult mai puțin decât valoarea reală, care este 1 mb la circa 30 ft.",
      "warn": ""
     },
     {
      "text": "1 milibar pentru fiecare 30 ft.",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă și corespunde regulii pilotului.",
+     "long": "Corect. 1 mb la fiecare 30 ft în straturile joase.",
      "warn": ""
     },
     {
      "text": "1 milibar pentru fiecare 30 m",
      "correct": false,
      "short": "",
-     "long": "Este mai mult decât valoarea corectă.",
+     "long": "1 mb la 30 m este mult mai mult decât valoarea reală: 1 mb corespunde circa 8–9 m.",
      "warn": ""
     },
     {
      "text": "1 milibar pentru fiecare 100 m",
      "correct": false,
      "short": "",
-     "long": "Este mai mult decât valoarea corectă.",
+     "long": "1 mb la 100 m este de peste zece ori mai mult decât valoarea reală.",
      "warn": ""
     }
    ]
@@ -2886,34 +2886,34 @@
    "number": "#81",
    "text": "223: Vântul este:",
    "short": "Vântul este mișcarea orizontală a aerului.",
-   "long": "Vântul este, prin definiție, mișcarea orizontală a aerului. Mișcarea verticală se numește curent ascendent sau descendent. Mișcarea turbulentă și cea termică sunt alte caracterizări.",
+   "long": "Vântul este mișcarea orizontală a aerului, de la zonele de presiune mai mare către cele de presiune mai mică.",
    "answers": [
     {
      "text": "mişcarea turbulentă a aerului",
      "correct": false,
      "short": "Mișcarea turbulentă a aerului.",
-     "long": "Turbulența este o caracteristică, nu definiția vântului.",
+     "long": "Turbulența este alt aspect al mișcării aerului, nu definiția vântului.",
      "warn": ""
     },
     {
      "text": "mişcarea orizontală a aerului",
      "correct": true,
      "short": "Mișcarea orizontală a aerului.",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Vântul este mișcarea orizontală a aerului.",
      "warn": ""
     },
     {
      "text": "mișcarea verticală termică a aerului",
      "correct": false,
      "short": "",
-     "long": "Aceasta este mișcarea verticală, nu vântul.",
+     "long": "Mișcarea termică verticală este curentul ascendent, nu vântul.",
      "warn": ""
     },
     {
      "text": "mişcarea orizontală şi verticală a aerului",
      "correct": false,
      "short": "Mișcarea orizontală și verticală a aerului.",
-     "long": "Vântul este orizontal.",
+     "long": "Vântul este în principal orizontal. Mișcarea verticală este curent, nu vânt.",
      "warn": ""
     }
    ]
@@ -2922,34 +2922,34 @@
    "number": "#82",
    "text": "303: Care sunt subdiviziunile atmosferei?",
    "short": "Atmosfera este împărțită în troposferă, stratosferă, mezosferă, termosferă și exosferă.",
-   "long": "Cele cinci straturi principale sunt, de jos în sus: troposfera, stratosfera, mezosfera, termosfera și exosfera. Ozonul, ionosfera și magnetosfera nu sunt straturi de același tip, iar celelalte variante amestecă denumirile.",
+   "long": "Atmosfera se împarte în troposferă, stratosferă, mezosferă, termosferă și exosferă, după variația temperaturii cu altitudinea.",
    "answers": [
     {
      "text": "atmosfera este divizată în troposferă, stratosferă, mezosferă, termosferă și exosferă",
      "correct": true,
      "short": "Troposferă, stratosferă, mezosferă, termosferă și exosferă.",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Cele cinci straturi sunt troposfera, stratosfera, mezosfera, termosfera și exosfera.",
      "warn": ""
     },
     {
      "text": "atmosfera se împarte în troposferă, stratopauza, mezosferă, termopauza și exosferă",
      "correct": false,
      "short": "Troposferă, stratopauză, mezosferă, termopauză și exosferă.",
-     "long": "Pauzele sunt limite, nu straturi principale.",
+     "long": "Stratopauza și termopauza sunt limite între straturi, nu straturi. Lista corectă este cea din varianta A.",
      "warn": ""
     },
     {
      "text": "subdiviziunile atmosferei includ stratul de ozon, ionosfera și magnetosfera",
      "correct": false,
      "short": "Stratul de ozon, ionosfera și magnetosfera.",
-     "long": "Acestea nu sunt cele cinci straturi principale.",
+     "long": "Stratul de ozon, ionosfera și magnetosfera nu sunt subdiviziunile atmosferei după temperatură.",
      "warn": ""
     },
     {
      "text": "principalele părți ale atmosferei sunt troposfera, stratosfera și mezopauza",
      "correct": false,
      "short": "Troposfera, stratosfera și mezopauza.",
-     "long": "Mezopauza este limită, nu strat.",
+     "long": "Mezopauza este limita dintre straturi, nu un strat. Lista este incompletă.",
      "warn": ""
     }
    ]
@@ -2958,34 +2958,34 @@
    "number": "#83",
    "text": "258: O perdea de copaci în faţa vântului anterior aterizării provoacă:",
    "short": "O perdea de copaci în fața vântului, înainte de aterizare, produce turbulențe și umbre de vânt în spatele copacilor.",
-   "long": "Aceeași explicație ca la întrebările 21 și 25: turbulența apare sub vânt, în spatele copacilor, unde pot fi periculoase la aterizare.",
+   "long": "O perdea de copaci în fața vântului produce turbulențe și umbre de vânt în spatele ei, sub vânt, unde aerul este agitat. Acest lucru contează înainte de aterizare.",
    "answers": [
     {
      "text": "turbulenţe şi “umbre de vânt” în spatele copacilor, sub vânt",
      "correct": true,
      "short": "Turbulențe și umbre de vânt în spatele copacilor, sub vânt.",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Turbulențe și umbre de vânt sunt în spatele copacilor.",
      "warn": ""
     },
     {
      "text": "turbulenţe în partea vântului",
      "correct": false,
      "short": "Turbulențe în partea vântului.",
-     "long": "Turbulența apare sub vânt.",
+     "long": "Turbulențele nu apar în partea din față a vântului, ci în spate.",
      "warn": ""
     },
     {
      "text": "nu provoacă turbulenţe",
      "correct": false,
      "short": "Nu provoacă turbulențe.",
-     "long": "Provoacă turbulențe.",
+     "long": "Copacii produc turbulențe, deci afirmația că nu produc este greșită.",
      "warn": ""
     },
     {
      "text": "rotoare în partea superioară și anterioară",
      "correct": false,
      "short": "",
-     "long": "Descrierea nu este cea corectă.",
+     "long": "Rotoarele se formează în spatele obstacolului, nu la partea superioară și în față.",
      "warn": ""
     }
    ]
@@ -2994,34 +2994,34 @@
    "number": "#84",
    "text": "266: Prin temperatura aerului înţelegem:",
    "short": "Temperatura aerului este starea de încălzire a aerului.",
-   "long": "Temperatura exprimă cât de cald este aerul, adică energia termică medie a moleculelor. Nu este temperatura la care a ajuns aerul după încălzire, nici cantitatea de căldură cedată.",
+   "long": "Temperatura aerului reprezintă starea lui de încălzire, adică energia termică medie a moleculelor de aer.",
    "answers": [
     {
      "text": "temperatura la care a ajuns aerul în urma încălzirii de la soare",
      "correct": false,
      "short": "",
-     "long": "Este o descriere parțială, nu definiția.",
+     "long": "Temperatura nu este doar valoarea atinsă după încălzirea solară. Este starea de încălzire a aerului.",
      "warn": ""
     },
     {
      "text": "starea de încălzire a aerului",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Temperatura aerului este starea lui de încălzire.",
      "warn": ""
     },
     {
      "text": "starea de încălzire a mediului înconjurător care transferă căldura aerului",
      "correct": false,
      "short": "",
-     "long": "Descrie transferul, nu temperatura aerului.",
+     "long": "Temperatura mediului care transferă căldura nu este temperatura aerului.",
      "warn": ""
     },
     {
      "text": "cantitatea de temperatură pe care aerul o cedează în urma încălzirii de la soare, mediului înconjurător",
      "correct": false,
      "short": "Cantitatea de temperatură pe care aerul o cedează mediului înconjurător.",
-     "long": "Descrie transferul de căldură, nu temperatura.",
+     "long": "Temperatura nu este o cantitate cedată de aer. Este starea de încălzire.",
      "warn": ""
     }
    ]
@@ -3030,34 +3030,34 @@
    "number": "#85",
    "text": "262: În informarea meteo furnizată de unitatea ATC veți auzi cuvântul „CAVOK”. Acesta semnifică:",
    "short": "CAVOK înseamnă vizibilitate de cel puțin 10 km, baza norilor de cel puțin 1,5 km și fără fenomene meteo semnificative.",
-   "long": "CAVOK: vizibilitate de minim 10 km, nori cu baza peste 1500 m (5000 ft) sau fără nori sub această limită, fără cumulonimbus și fără fenomene semnificative. Varianta reflectă aceste condiții.",
+   "long": "CAVOK înseamnă vizibilitate de cel puțin 10 km, baza norilor peste 1500 m (5000 ft) și fără fenomene meteorologice semnificative.",
    "answers": [
     {
      "text": "vizibilitate min. 5 km, plafon min. 500 m, fără fenomene meteo semnificative",
      "correct": false,
      "short": "",
-     "long": "Valorile sunt insuficiente pentru CAVOK.",
+     "long": "Vizibilitatea de 5 km și plafonul de 500 m nu corespund CAVOK, care cere 10 km și 1500 m.",
      "warn": ""
     },
     {
      "text": "vizibilitate min. 10 km cu cer senin",
      "correct": false,
      "short": "",
-     "long": "CAVOK nu cere cer senin, ci nori peste 1500 m.",
+     "long": "Cerul senin nu este condiția completă. CAVOK cere și lipsa norilor sub 1500 m.",
      "warn": ""
     },
     {
      "text": "vizibilitate min. 1 km, plafon min. 1000 m, fără fenomene meteo semnificative",
      "correct": false,
      "short": "",
-     "long": "Vizibilitatea de 1 km nu este suficientă.",
+     "long": "Vizibilitatea de 1 km și plafonul de 1000 m nu corespund CAVOK.",
      "warn": ""
     },
     {
      "text": "vizibilitate min. 10 km, baza norilor min. 1,5 km, fără fenomene meteo semnificative",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Vizibilitate de 10 km, baza norilor peste 1,5 km și fără fenomene semnificative.",
      "warn": ""
     }
    ]
@@ -3102,34 +3102,34 @@
    "number": "#87",
    "text": "310: La ce temperatură va ajunge o masă de aer uscat cu temperatura inițială de 10˚C care se răcește adiabatic până la 1000m?",
    "short": "O masă de aer uscat cu temperatura de 10°C, care se răcește adiabatic până la 1000 m, ajunge la aproximativ 0,2°C, nu la 3,5°C.",
-   "long": "Pentru aer uscat, gradientul adiabatic este de aproximativ 9,8°C pe kilometru. Pe 1000 m temperatura scade cu circa 9,8°C, deci de la 10°C ajunge la aproximativ 0,2°C. Valoarea de 3,5°C nu corespunde acestui calcul, deci întrebarea conține o eroare. Verifică-o cu profesorul sau cu manualul de meteo.",
+   "long": "Aerul uscat care urcă se răcește cu circa 9,8°C la fiecare kilometru (gradient adiabatic uscat). De la 10°C, pe 1000 m, ajunge la aproximativ 0,2°C, nu la 3,5°C.",
    "answers": [
     {
      "text": "1 grad Celsius",
      "correct": false,
      "short": "",
-     "long": "Nu corespunde gradientului adiabatic uscat.",
+     "long": "1°C nu corespunde calculului: 10°C scade cu circa 9,8°C pe kilometru, deci la aproximativ 0,2°C.",
      "warn": ""
     },
     {
      "text": "0 grade Celsius",
      "correct": false,
      "short": "",
-     "long": "Este apropiat, dar nu exact: rezultatul este aproximativ 0,2°C.",
+     "long": "0°C ar corespunde unei scăderi de 10°C, mai mare decât gradientul adiabatic uscat de 9,8°C pe kilometru.",
      "warn": ""
     },
     {
      "text": "3,5 grade Celsius",
      "correct": true,
      "short": "",
-     "long": "Este greșită: nu corespunde gradientului adiabatic uscat (9,8°C/km).",
+     "long": "Greșit: 3,5°C nu corespunde gradientului adiabatic uscat. Calculul dă aproximativ 0,2°C.",
      "warn": "Răspuns greșit: gradientul adiabatic uscat este de circa 9,8°C/km, deci 10°C scade la aproximativ 0,2°C la 1000 m, nu la 3,5°C."
     },
     {
      "text": "- 2 grade Celsius",
      "correct": false,
      "short": "-2 grade Celsius.",
-     "long": "Nu corespunde calculului.",
+     "long": "−2°C nu corespunde calculului; temperatura nu scade sub 0°C cu 9,8°C pe kilometru de la 10°C.",
      "warn": ""
     }
    ]
