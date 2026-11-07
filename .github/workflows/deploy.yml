@@ -33,4 +33,4 @@ jobs:
           gcloud storage rsync . gs://manual-paramotor-ro-web \
             --recursive \
             --delete-unmatched-destination-objects \
-            --exclude='(^|/)(.git|.github|tools|data|components)(/|$)|.md$|(^|/).gitignore$'
+            --exclude='(^|/)(\.git|\.github|tools|data|components)(/|$)|\.md$|(^|/)\.gitignore$'
