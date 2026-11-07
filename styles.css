@@ -848,7 +848,7 @@ details.question-more .more-body {
 
 .menu-current { font-family: var(--font-head); font-size: 0.9rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; opacity: 0.95; }
 .menu-current:empty { display: none; }
-.menu-current::before { content: ""; display: inline-block; width: 0.42em; height: 0.42em; border-radius: 50%; background: currentColor; margin: 0 0.6em 0.12em 0.3em; vertical-align: middle; }
+.menu-current::before { content: ""; display: inline-block; width: 0.42em; height: 0.42em; border-radius: 50%; background: currentColor; margin: 0 0.5em 0.12em 0.5em; vertical-align: middle; }
 
 .menu-bar { display: none; }
 @media (max-width: 900px) {
