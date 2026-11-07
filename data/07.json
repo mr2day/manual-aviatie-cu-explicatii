@@ -1482,34 +1482,34 @@
    "number": "#42",
    "text": "1082: Ce rol joacă așteptarea în activitatea de pilotaj?",
    "short": "Așteptarea în pilotaj utilizează experiența anterioară și structurile informaționale pentru reglarea comportamentului.",
-   "long": "Pilotul anticipează evenimentele pe baza experienței și a informațiilor din memorie. Această anticipare reglează acțiunile și reduce timpul de reacție. Ea nu crește stresul și nu înlocuiește instrumentele.",
+   "long": "Pilotul folosește experiența anterioară și structurile de informații din memorie pentru a anticipa situațiile și a regla comportamentul în zbor.",
    "answers": [
     {
      "text": "Crește nivelul de stres și anxietate",
      "correct": false,
      "short": "",
-     "long": "Nu este rolul așteptării.",
+     "long": "Așteptarea corectă nu crește stresul. Experiența anterioară îl reduce.",
      "warn": ""
     },
     {
      "text": "Reduce necesitatea de a folosi instrumentele de bord",
      "correct": false,
      "short": "",
-     "long": "Nu este rolul așteptării.",
+     "long": "Instrumentele de bord rămân necesare. Experiența ajută la anticipare, nu le înlocuiește.",
      "warn": ""
     },
     {
      "text": "Îmbunătățește viteza de reacție la stimuli noi",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "Viteza de reacție la stimuli noi nu este rolul așteptării.",
      "warn": ""
     },
     {
      "text": "Utilizează experiența anterioară și structurile informaționale pentru reglarea comportamentului de pilotaj",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Experiența și structurile informaționale reglează comportamentul.",
      "warn": ""
     }
    ]
@@ -1518,34 +1518,34 @@
    "number": "#43",
    "text": "989: Ce factori pot pune în pericol siguranța unui zbor?",
    "short": "Graba la decolare fără efectuarea verificărilor aeronavei poate pune în pericol siguranța zborului.",
-   "long": "Verificările înainte de decolare descoperă defectele. Grabă înseamnă că defectele pot fi trecute cu vederea. Zborul pe vânt laminar sau la înălțime nu sunt factorii de pericol principali.",
+   "long": "Graba la decolare fără verificarea aeronavei poate duce la defecte nedescoperite în zbor, deci pune în pericol zborul.",
    "answers": [
     {
      "text": "graba la decolare fără efectuarea verificărilor aeronavei",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Graba fără verificări pune zborul în pericol.",
      "warn": ""
     },
     {
      "text": "zborul pe vânt laminar",
      "correct": false,
      "short": "",
-     "long": "Nu este factorul de pericol.",
+     "long": "Zborul pe vânt laminar este condiții favorabile, nu factor de pericol.",
      "warn": ""
     },
     {
      "text": "neatenţia pilotului în zbor la observarea spaţiului aerian",
      "correct": false,
      "short": "Neatenția pilotului în zbor la observarea spațiului aerian.",
-     "long": "Este un factor, dar nu varianta corectă.",
+     "long": "Neatenția pilotului este un factor de pericol, dar în enunț este formulată ca observare, nu ca factor principal de pericol.",
      "warn": ""
     },
     {
      "text": "zborul la înălțime",
      "correct": false,
      "short": "",
-     "long": "Nu este factorul principal.",
+     "long": "Zborul la înălțime nu este factor de pericol în sine.",
      "warn": ""
     }
    ]
@@ -1554,34 +1554,34 @@
    "number": "#44",
    "text": "1016: Am ajuns la terenul de zbor iar condițiile nu sunt tocmai potrivite pentru zborul în siguranță:",
    "short": "Dacă condițiile nu sunt potrivite, analizezi condiția meteo, aștepți o îmbunătățire care se menține cel puțin 15 minute și decolezi doar dacă prognoza și vremea arată bine.",
-   "long": "Condițiile la teren se verifică, iar decizia de decolare se ia pe baza meteo actual și a prognozei. Presiunea colegilor sau a spectatorilor nu este un motiv de zbor.",
+   "long": "Când condițiile nu sunt potrivite, se analizează meteo și se așteaptă îmbunătățirea, apoi se decide zborul pe baza condițiilor reale.",
    "answers": [
     {
      "text": "analizăm condiția meteo și asteptam să se îmbunătățească și să rămână așa cel puțin 15 minute, după care putem decola dacă prognoza și vremea în teren arată bine pentru zbor",
      "correct": true,
      "short": "Analizăm condiția meteo și așteptăm să se îmbunătățească și să rămână așa cel puțin 15 minute, după care putem decola dacă prognoza și vremea în teren arată bine pentru zbor.",
-     "long": "",
+     "long": "Corect. Se analizează meteo și se așteaptă îmbunătățirea condițiilor.",
      "warn": ""
     },
     {
      "text": "decolăm în caz că avem o aripă sigură de școală sau de începători",
      "correct": false,
      "short": "",
-     "long": "Aripa nu rezolvă condițiile nesigure.",
+     "long": "Decolarea cu aripă de școală în condiții nepotrivite nu este decizia sigură.",
      "warn": ""
     },
     {
      "text": "decolăm pentru că colegii noștrii așteaptă o demonstrație de zbor",
      "correct": false,
      "short": "Decolăm pentru că colegii noștri așteaptă o demonstrație de zbor.",
-     "long": "Presiunea nu este motiv de zbor.",
+     "long": "Presiunea colegilor nu este motiv de zbor.",
      "warn": ""
     },
     {
      "text": "renunțăm la zbor pentru următoarea perioadă încât vremea rea înseamnă ghinion",
      "correct": false,
      "short": "Renunțăm la zbor pentru următoarea perioadă, încât vremea rea înseamnă ghinion.",
-     "long": "Ghinionul nu este evaluare de zbor.",
+     "long": "Renunțarea pe termen lung pentru că vremea este rea nu este decizia corectă. Se analizează condițiile.",
      "warn": ""
     }
    ]
@@ -1590,34 +1590,34 @@
    "number": "#45",
    "text": "1004: Ce anume poate compromite un zbor?",
    "short": "Graba la decolare fără efectuarea verificărilor aeronavei poate compromite un zbor.",
-   "long": "Aceeași explicație ca la întrebarea 43: verificările înainte de zbor sunt obligatorii, iar graba le poate omite.",
+   "long": "Graba la decolare fără verificări poate compromite zborul, deoarece defectele nu sunt descoperite la timp.",
    "answers": [
     {
      "text": "zborul pe vânt laminar",
      "correct": false,
      "short": "",
-     "long": "Nu este factorul principal.",
+     "long": "Zborul pe vânt laminar nu compromite zborul.",
      "warn": ""
     },
     {
      "text": "spectatorii din momentul decolării",
      "correct": false,
      "short": "",
-     "long": "Nu este factorul principal.",
+     "long": "Spectatorii nu compromit zborul în mod direct.",
      "warn": ""
     },
     {
      "text": "graba la decolare fără efectuarea verificărilor aeronavei",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Graba fără verificări compromite zborul.",
      "warn": ""
     },
     {
      "text": "neatenţia pilotului în zbor la observarea spaţiului aerian",
      "correct": false,
      "short": "Neatenția pilotului în zbor la observarea spațiului aerian.",
-     "long": "Este un factor, dar nu varianta corectă.",
+     "long": "Neatenția este un risc, dar în această formulare răspunsul principal este graba fără verificări.",
      "warn": ""
     }
    ]
@@ -1626,34 +1626,34 @@
    "number": "#46",
    "text": "1075: Care este efectul schimbării altitudinii asupra urechii medii?",
    "short": "Schimbarea altitudinii creează o diferență de presiune între urechea medie și exterior, care poate provoca disconfort și durere.",
-   "long": "Când urci sau cobori, presiunea din exterior se schimbă, iar urechea medie trebuie să se egalizeze prin trompa lui Eustache. Dacă nu se egalizează, apare durerea. Egalizarea se face prin deglutiție sau manevra Valsalva.",
+   "long": "La schimbarea altitudinii, presiunea din urechea medie nu se egalizează imediat cu cea exterioară, ceea ce produce disconfort sau durere.",
    "answers": [
     {
      "text": "Îmbunătățește auzul datorită reducerii presiunii",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul.",
+     "long": "Reducerea presiunii nu îmbunătățește auzul. Creează diferență de presiune.",
      "warn": ""
     },
     {
      "text": "Nu are niciun efect asupra urechii medii",
      "correct": false,
      "short": "",
-     "long": "Are efect.",
+     "long": "Schimbarea altitudinii are efect asupra urechii medii, deci afirmația este greșită.",
      "warn": ""
     },
     {
      "text": "Creează o diferență de presiune care poate provoca disconfort și durere",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Diferența de presiune produce disconfort și durere.",
      "warn": ""
     },
     {
      "text": "Provoacă o creștere a cerumenului în canalul auditiv",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul.",
+     "long": "Cerumenul nu este efectul schimbării altitudinii.",
      "warn": ""
     }
    ]
@@ -1662,34 +1662,34 @@
    "number": "#47",
    "text": "1094: Cum pot afecta problemele domestice performanța unui pilot?",
    "short": "Problemele domestice pot duce la insomnii, oboseală cronică și operațiuni de zbor periculoase.",
-   "long": "Problemele personale afectează somnul și concentrarea. Pilotul obosit sau stresat are riscuri mai mari. Problemele personale nu îmbunătățesc performanța.",
+   "long": "Problemele domestice produc stres și oboseală, care duc la insomnii și reduc atenția, deci pot face zborul periculos.",
    "answers": [
     {
      "text": "Pot duce la insomnii, oboseală cronică și operațiuni de zbor periculoase",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Problemele domestice pot duce la insomnii, oboseală și zbor periculos.",
      "warn": ""
     },
     {
      "text": "Crește motivația și performanța în zbor",
      "correct": false,
      "short": "Cresc motivația și performanța în zbor.",
-     "long": "Efectul este opus.",
+     "long": "Problemele nu cresc motivația și performanța. Le scad.",
      "warn": ""
     },
     {
      "text": "Îmbunătățesc capacitatea de adaptare la condițiile de zbor",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Problemele nu îmbunătățesc adaptarea. O scad.",
      "warn": ""
     },
     {
      "text": "Nu au niciun efect asupra performanței în zbor",
      "correct": false,
      "short": "",
-     "long": "Au efect.",
+     "long": "Problemele au efect asupra performanței în zbor.",
      "warn": ""
     }
    ]
@@ -1698,34 +1698,34 @@
    "number": "#48",
    "text": "993: Factorii care pot dăuna organismului uman în zbor, intervin:",
    "short": "Factorii care pot dăuna organismului uman în zbor intervin la înălțimi mari de zbor.",
-   "long": "La altitudine, scăderea presiunii și a oxigenului pot produce hipoxie și alte probleme. Zgomotul, decolarea și temperatura pot afecta, dar altitudinea mare este principalul factor.",
+   "long": "La altitudini mari apar factorii de risc pentru organism: hipoxia, presiunea scăzută și frigul.",
    "answers": [
     {
      "text": "când echipajul nu este protejat împotriva zgomotului şi trepidaţiilor aeronavei",
      "correct": false,
      "short": "Când echipajul nu este protejat împotriva zgomotului și trepidațiilor aeronavei.",
-     "long": "Zgomotul afectează, dar nu este varianta principală.",
+     "long": "Zgomotul și trepidațiile sunt disconfort, dar factorul principal la altitudine este lipsa oxigenului.",
      "warn": ""
     },
     {
      "text": "în procedura de decolare",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta principală.",
+     "long": "Procedura de decolare nu este factorul principal de risc pentru organism.",
      "warn": ""
     },
     {
      "text": "când decolăm la temperaturi peste 35 grade",
      "correct": false,
      "short": "Când decolăm la temperaturi peste 35 de grade.",
-     "long": "Căldura afectează, dar nu este varianta principală.",
+     "long": "Temperatura de peste 35 de grade nu este factorul principal de risc în zbor. Riscul principal este altitudinea.",
      "warn": ""
     },
     {
      "text": "la înălţimi mari de zbor",
      "correct": true,
      "short": "La înălțimi mari de zbor.",
-     "long": "",
+     "long": "Corect. La altitudini mari apar riscurile pentru organism.",
      "warn": ""
     }
    ]
@@ -1734,34 +1734,34 @@
    "number": "#49",
    "text": "1009: Valul roșu poate apărea la:",
    "short": "Vederea roșie poate apărea la accelerații gravitaționale pozitive, dar accelerațiile peste 10 G sunt discutabile.",
-   "long": "Vederea roșie (red-out) apare la accelerații pozitive, când sângele se mută spre picioare și ochii se congestionează. Apare la valori mai mici decât 10 G. Varianta cu accelerații peste 10 G este discutabilă; verifică sursa înainte să o reții.",
+   "long": "Vederea roșie (red-out) apare la accelerații pozitive, mult sub 10 G. Valoarea de 10 G este mult peste pragul vederii roșii.",
    "answers": [
     {
      "text": "accelerații gravitaționale negative",
      "correct": false,
      "short": "",
-     "long": "Vederea roșie apare la accelerații pozitive.",
+     "long": "Accelerațiile negative produc vederea neagră sau roșie a capului în jos, nu vederea roșie în sensul întrebării.",
      "warn": ""
     },
     {
      "text": "accelerații gravitaționale pozitive",
      "correct": false,
      "short": "",
-     "long": "Este varianta corectă: vederea roșie apare la accelerații gravitaționale pozitive.",
+     "long": "Accelerațiile pozitive produc vederea roșie, dar la valori mult mai mici decât 10 G.",
      "warn": ""
     },
     {
      "text": "forțe laterale când virăm",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "Forțele laterale nu produc vederea roșie.",
      "warn": ""
     },
     {
      "text": "accelerații gravitaționale peste 10G",
      "correct": true,
      "short": "Accelerații gravitaționale peste 10 G.",
-     "long": "Vederea roșie (red-out) apare de regulă la câteva G pozitivi, mult sub 10 G. Valoarea de 10 G este mult peste pragul la care apare vederea roșie, deci nu poate fi răspunsul corect.",
+     "long": "Varianta este greșită: vederea roșie apare la câteva G pozitivi, nu la peste 10 G.",
      "warn": "Vederea roșie apare la accelerații gravitaționale pozitive, în general mult sub 10 G (de la câteva G în sus). Valoarea de 10 G este extremă și nu este pragul."
     }
    ]
@@ -1770,34 +1770,34 @@
    "number": "#50",
    "text": "1024: Cum poate fi prevenită hipoxia la altitudini mari?",
    "short": "Hipoxia la altitudini mari se previne folosind o mască de oxigen.",
-   "long": "Masca de oxigen furnizează aer bogat în oxigen la altitudine. Încălzirea cabinei, respirația mai rapidă și alimentele nu rezolvă lipsa de oxigen.",
+   "long": "La altitudini mari, oxigenul din aer scade. Masca de oxigen furnizează oxigenul suplimentar și previne hipoxia.",
    "answers": [
     {
      "text": "Folosind o mască de oxigen",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Masca de oxigen previne hipoxia.",
      "warn": ""
     },
     {
      "text": "Încălzind cabina",
      "correct": false,
      "short": "",
-     "long": "Nu rezolvă lipsa de oxigen.",
+     "long": "Încălzirea cabinei nu aduce oxigen suplimentar.",
      "warn": ""
     },
     {
      "text": "Creșterea frecvenței respiratorii",
      "correct": false,
      "short": "",
-     "long": "Hiperventilația poate agrava problema.",
+     "long": "Respirația mai rapidă poate duce la hiperventilație, nu la prevenirea hipoxiei.",
      "warn": ""
     },
     {
      "text": "Consumând alimente bogate în oxigen",
      "correct": false,
      "short": "",
-     "long": "Alimentele nu furnizează oxigen.",
+     "long": "Alimentele nu aduc oxigen în organism.",
      "warn": ""
     }
    ]
@@ -1806,34 +1806,34 @@
    "number": "#51",
    "text": "999: Unul dintre factorii principali care contribuie la răul de mişcare este:",
    "short": "Răul de mișcare apare din cauza neconcordanței dintre percepția vizuală și reacția senzorilor vestibulari.",
-   "long": "Aceeași explicație ca la întrebarea 22: când informațiile din ochi și din urechea internă nu se potrivesc, apare răul de mișcare.",
+   "long": "Răul de mișcare apare când informația vizuală nu coincide cu cea a aparatului vestibular, deci creierul primește semnale contradictorii.",
    "answers": [
     {
      "text": "înclinarea rapidă într-un viraj",
      "correct": false,
      "short": "",
-     "long": "Poate provoca, dar nu este varianta principală.",
+     "long": "Înclinarea rapidă poate declanșa simptomele, dar cauza de bază este neconcordanța senzorială.",
      "warn": ""
     },
     {
      "text": "neconcordanța dintre percepţia vizuală și reacţia senzorilor vestibulari",
      "correct": true,
      "short": "Neconcordanța dintre percepția vizuală și reacția senzorilor vestibulari.",
-     "long": "",
+     "long": "Corect. Neconcordanța dintre vedere și vestibular cauzează răul de mișcare.",
      "warn": ""
     },
     {
      "text": "efectuarea de manevre cu factor de sarcină mare",
      "correct": false,
      "short": "",
-     "long": "Poate provoca, dar nu este varianta principală.",
+     "long": "Manevrele cu factor mare de sarcină pot contribui, dar cauza principală este neconcordanța senzorială.",
      "warn": ""
     },
     {
      "text": "angajarea aeronavei",
      "correct": false,
      "short": "",
-     "long": "Nu este factorul principal.",
+     "long": "Angajarea aeronavei nu este cauza principală a răului de mișcare.",
      "warn": ""
     }
    ]
@@ -1842,34 +1842,34 @@
    "number": "#52",
    "text": "1019: Ce măsuri se iau pentru a preveni apariția barotraumei?",
    "short": "Pentru a preveni barotrauma se fac deglutiții repetate, mestecat și căscat.",
-   "long": "Aceste acțiuni deschid trompa lui Eustache și egalizează presiunea din urechea medie. Zborul cu gura deschisă, analgezicele și mișcările capului nu previn barotrauma.",
+   "long": "Barotrauma urechii se previne prin egalizarea presiunii: deglutiții repetate, mestecat și căscat, care deschid trompa lui Eustachio.",
    "answers": [
     {
      "text": "deglutiții repetate, masticare și căscat",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Deglutițiile, mestecatul și căscatul egalizează presiunea.",
      "warn": ""
     },
     {
      "text": "veți zbura cu gura deschisă",
      "correct": false,
      "short": "",
-     "long": "Nu este metoda.",
+     "long": "Zborul cu gura deschisă nu egalizează presiunea și nu previne barotrauma.",
      "warn": ""
     },
     {
      "text": "veți înghiți un analgezic",
      "correct": false,
      "short": "",
-     "long": "Analgezicul nu previne barotrauma.",
+     "long": "Analgezicul nu previne barotrauma, ci doar ameliorează durerea.",
      "warn": ""
     },
     {
      "text": "veți efectua mișcări laterale ale capului",
      "correct": false,
      "short": "",
-     "long": "Nu este metoda.",
+     "long": "Mișcările laterale ale capului nu egalizează presiunea.",
      "warn": ""
     }
    ]
@@ -1878,34 +1878,34 @@
    "number": "#53",
    "text": "1042: Ce trebuie făcut în cazul unei persoane rănite în urma unei aterizări forțate, care prezintă dificultăți respiratorii?",
    "short": "Dacă o persoană rănită are dificultăți respiratorii, asiguri căile respiratorii libere și administrezi respirații artificiale dacă este necesar.",
-   "long": "Căile respiratorii trebuie să fie libere. Dacă persoana nu respiră suficient, se acordă respirații artificiale, conform pașilor de resuscitare. Apa, masajul pieptului și poziția șezândă nu sunt măsurile corecte.",
+   "long": "Persoana cu dificultăți respiratorii are nevoie, mai întâi, de căi respiratorii libere și de respirație asistată, deoarece hipoxia pune viața în pericol.",
    "answers": [
     {
      "text": "Administrați apă pentru a calma persoana",
      "correct": false,
      "short": "",
-     "long": "Nu este măsura corectă.",
+     "long": "Apa nu tratează dificultățile respiratorii. Este un pas de ajutor, dar nu primul.",
      "warn": ""
     },
     {
      "text": "Masați pieptul pentru a stimula respirația",
      "correct": false,
      "short": "",
-     "long": "Nu este măsura corectă.",
+     "long": "Masajul pieptului nu stimulează respirația. Este procedură de resuscitare, aplicată după verificarea respirației și pulsului.",
      "warn": ""
     },
     {
      "text": "Așezați persoana în poziție șezândă",
      "correct": false,
      "short": "",
-     "long": "Nu este măsura corectă pentru o persoană cu dificultăți respiratorii.",
+     "long": "Poziția șezândă poate îngreuna respirația la unele leziuni. Prioritatea sunt căile respiratorii.",
      "warn": ""
     },
     {
      "text": "Asigurați-vă că căile respiratorii sunt libere și administrați respirații artificiale dacă este necesar",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Căile respiratorii se asigură libere și se administrează respirație asistată.",
      "warn": ""
     }
    ]
@@ -1914,34 +1914,34 @@
    "number": "#54",
    "text": "1003: Prima regulă a unui pilot bun este:",
    "short": "Prima regulă a unui pilot bun este să știe când să renunțe la decolare.",
-   "long": "Pilotul bun își evaluează condițiile și renunță când riscul este prea mare, indiferent de presiunea din jur. Zborul pe orice condiție meteo sau mult zbor nu sunt criteriile unui pilot bun.",
+   "long": "Un pilot bun știe când să nu zboare: renunțarea la zbor, când condițiile nu sunt sigure, este primul criteriu de siguranță.",
    "answers": [
     {
      "text": "să zboare pe orice condiţie meteo",
      "correct": false,
      "short": "Să zboare pe orice condiție meteo.",
-     "long": "Este periculos.",
+     "long": "Zborul pe orice condiție meteo nu este regula unui pilot bun.",
      "warn": ""
     },
     {
      "text": "să dovedească oricând abilități de pilotaj foarte bune",
      "correct": false,
      "short": "",
-     "long": "Abilitatea nu înlocuiește judecata.",
+     "long": "Abilitățile foarte bune nu sunt suficiente pentru siguranță. Decizia contează mai mult.",
      "warn": ""
     },
     {
      "text": "să ştie când să renunţe să decoleze",
      "correct": true,
      "short": "Să știe când să renunțe să decoleze.",
-     "long": "",
+     "long": "Corect. Un pilot bun știe când să renunțe.",
      "warn": ""
     },
     {
      "text": "să zboare cât mai mult",
      "correct": false,
      "short": "",
-     "long": "Nu este criteriul principal.",
+     "long": "Zborul mult nu face un pilot bun.",
      "warn": ""
     }
    ]
@@ -1950,34 +1950,34 @@
    "number": "#55",
    "text": "1056: Ce funcție a organismului suferă cel mai mult din cauza scăderii presiunii atmosferice?",
    "short": "Funcția respiratorie suferă cel mai mult din cauza scăderii presiunii atmosferice.",
-   "long": "La altitudine, oxigenul din aer are o presiune mai mică, deci plămânii preiau mai greu oxigenul. Funcția respiratorie este cea mai afectată, urmată de funcția circulatorie.",
+   "long": "La scăderea presiunii atmosferice, oxigenul din aer scade, iar sistemul respirator este cel care suferă cel mai mult, deoarece trebuie să asigure oxigenul organismului.",
    "answers": [
     {
      "text": "funcția digestivă",
      "correct": false,
      "short": "",
-     "long": "Nu este cea mai afectată.",
+     "long": "Sistemul digestiv nu este cel mai afectat de scăderea presiunii.",
      "warn": ""
     },
     {
      "text": "funcția auditivă",
      "correct": false,
      "short": "",
-     "long": "Este afectată, dar nu cel mai mult.",
+     "long": "Auzul poate fi afectat prin diferența de presiune din urechea medie, dar efectul cel mai mare este respirator.",
      "warn": ""
     },
     {
      "text": "funcția respiratorie",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Funcția respiratorie este cea mai afectată de scăderea presiunii.",
      "warn": ""
     },
     {
      "text": "funcția olfactivă",
      "correct": false,
      "short": "",
-     "long": "Nu este cea mai afectată.",
+     "long": "Olfactul nu este cel mai afectat de scăderea presiunii.",
      "warn": ""
     }
    ]
@@ -1986,34 +1986,34 @@
    "number": "#56",
    "text": "1076: Ce este presbiacuzia?",
    "short": "Presbiacuzia este o pierdere naturală a auzului odată cu înaintarea în vârstă, mai ales la frecvențele înalte.",
-   "long": "Presbiacuzia apare treptat, odată cu vârsta, prin uzura structurilor din urechea internă. De regulă afectează mai întâi frecvențele înalte. Nu este acumulare de cerumen, infecție sau leziune temporară.",
+   "long": "Presbiacuzia este pierderea naturală a auzului odată cu vârsta, mai ales la frecvențele înalte.",
    "answers": [
     {
      "text": "O acumulare de cerumen în canalul auditiv",
      "correct": false,
      "short": "",
-     "long": "Este alt fenomen.",
+     "long": "Cerumenul este alt fenomen, nu presbiacuzia.",
      "warn": ""
     },
     {
      "text": "O infecție a urechii medii care afectează auzul",
      "correct": false,
      "short": "",
-     "long": "Este alt fenomen.",
+     "long": "Infecția urechii medii este otita, nu presbiacuzia.",
      "warn": ""
     },
     {
      "text": "O pierdere naturală a auzului odată cu înaintarea în vârstă, mai ales la frecvențele înalte",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Presbiacuzia este pierderea auzului cu vârsta.",
      "warn": ""
     },
     {
      "text": "O leziune temporară cauzată de zgomote puternice",
      "correct": false,
      "short": "",
-     "long": "Este alt fenomen.",
+     "long": "Leziunea temporară cauzată de zgomot este altă afecțiune.",
      "warn": ""
     }
    ]
@@ -2022,34 +2022,34 @@
    "number": "#57",
    "text": "1031: Cum se manifestă decompresia rapidă asupra corpului uman?",
    "short": "Decompresia rapidă produce scăderea bruscă a presiunii barometrice și tulburări ale organelor cavitare.",
-   "long": "Când presiunea scade brusc, gazele din organele cavitare (urechea medie, sinusurile, intestinul) se dilată, provocând durere și disconfort. Efectul nu este creșterea temperaturii sau îmbunătățirea circulației.",
+   "long": "Decompresia rapidă scade presiunea, iar gazele din cavitățile corpului (urechi, sinusuri, intestin) se dilată, ceea ce produce durere și tulburări.",
    "answers": [
     {
      "text": "Creșterea bruscă a temperaturii corporale",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul.",
+     "long": "Temperatura corpului nu crește prin decompresie rapidă.",
      "warn": ""
     },
     {
      "text": "Creșterea oxigenării creierului",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul.",
+     "long": "Oxigenarea creierului scade, nu crește, la altitudine.",
      "warn": ""
     },
     {
      "text": "Scăderea presiunii barometrice și tulburări ale organelor cavitare",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Scăderea presiunii și tulburările organelor cavitare.",
      "warn": ""
     },
     {
      "text": "Îmbunătățirea circulației sanguine",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul.",
+     "long": "Circulația nu se îmbunătățește prin decompresie rapidă.",
      "warn": ""
     }
    ]
@@ -2058,34 +2058,34 @@
    "number": "#58",
    "text": "1080: Cum contribuie aparatul vestibular la menținerea echilibrului?",
    "short": "Aparatul vestibular detectează poziția și accelerarea corpului, transmițând semnale electrice către creier.",
-   "long": "Canalele semicirculare și otolitele din urechea internă detectează rotația și accelerarea liniară. Semnalele ajung la creier, care menține echilibrul. Filtrarea zgomotelor și producerea sunetelor sunt funcții ale altor structuri.",
+   "long": "Aparatul vestibular detectează poziția și accelerarea corpului și trimite semnale nervoase către creier, care menține echilibrul.",
    "answers": [
     {
      "text": "Filtrează zgomotele de fundal pentru o mai bună concentrare",
      "correct": false,
      "short": "",
-     "long": "Nu este funcția aparatului vestibular.",
+     "long": "Filtrarea zgomotelor nu este rolul aparatului vestibular.",
      "warn": ""
     },
     {
      "text": "Reglează temperatura în urechea internă",
      "correct": false,
      "short": "",
-     "long": "Nu este funcția.",
+     "long": "Temperatura urechii interne nu este reglată de aparatul vestibular.",
      "warn": ""
     },
     {
      "text": "Detectează poziția și accelerarea corpului, transmițând semnale electrice către creier",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Detectează poziția și accelerarea și transmite semnale către creier.",
      "warn": ""
     },
     {
      "text": "Produce sunete pentru a ajuta la orientare",
      "correct": false,
      "short": "",
-     "long": "Nu este funcția.",
+     "long": "Aparatul vestibular nu produce sunete.",
      "warn": ""
     }
    ]
@@ -2094,34 +2094,34 @@
    "number": "#59",
    "text": "1040: Ce trebuie făcut dacă o persoană este inconștientă, dar respiră?",
    "short": "Dacă o persoană este inconștientă, dar respiră, o plasezi în poziția de siguranță, pe o parte.",
-   "long": "Poziția laterală de siguranță ține căile respiratorii libere, deoarece limba și secrețiile nu blochează respirația. Respirațiile artificiale și compresiunile se fac doar dacă persoana nu respiră.",
+   "long": "Persoana inconștientă care respiră se așază în poziție laterală de siguranță, pentru a menține căile respiratorii libere.",
    "answers": [
     {
      "text": "Plasarea persoanei în poziția de siguranță (lateral)",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Poziția laterală de siguranță păstrează căile respiratorii libere.",
      "warn": ""
     },
     {
      "text": "Administrarea respirațiilor artificiale",
      "correct": false,
      "short": "",
-     "long": "Nu se face dacă persoana respiră.",
+     "long": "Respirația artificială nu se face la persoana care respiră.",
      "warn": ""
     },
     {
      "text": "Administrarea de apă pentru a hidrata persoana",
      "correct": false,
      "short": "",
-     "long": "Nu se dă apă unei persoane inconștiente.",
+     "long": "Apa nu se administrează persoanei inconștiente.",
      "warn": ""
     },
     {
      "text": "Începerea compresiunilor toracice",
      "correct": false,
      "short": "",
-     "long": "Nu se face dacă persoana respiră.",
+     "long": "Compresiunile nu se fac la persoana care respiră.",
      "warn": ""
     }
    ]
@@ -2130,34 +2130,34 @@
    "number": "#60",
    "text": "1005: Cum trebuie așezată o persoană rănită care prezintă leziuni ale coloanei vertebrale?",
    "short": "O persoană cu leziuni ale coloanei vertebrale nu trebuie mișcată până la sosirea salvării.",
-   "long": "Mișcarea greșită poate agrava leziunea măduvei spinării. Se imobilizează persoana în poziția în care se află, dacă nu există pericol, și se cheamă ajutorul.",
+   "long": "La lezarea coloanei vertebrale, victima nu se mișcă până la sosirea salvării, pentru a evita afectarea măduvei spinării.",
    "answers": [
     {
      "text": "în poziție laterală",
      "correct": false,
      "short": "",
-     "long": "Mișcarea poate agrava leziunea.",
+     "long": "Poziția laterală poate agrava leziunea coloanei. Persoana nu se mișcă.",
      "warn": ""
     },
     {
      "text": "orizontal, cu fața în sus",
      "correct": false,
      "short": "",
-     "long": "Mișcarea poate agrava leziunea.",
+     "long": "Poziția orizontală cu fața în sus nu este permisă înainte de sosirea salvării, dacă se mișcă.",
      "warn": ""
     },
     {
      "text": "în situația aceasta nu trebuie să fie mișcat până la sosirea salvării",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Victima nu se mișcă până la sosirea salvării.",
      "warn": ""
     },
     {
      "text": "în poziție șezândă",
      "correct": false,
      "short": "",
-     "long": "Mișcarea poate agrava leziunea.",
+     "long": "Poziția șezândă poate agrava leziunea coloanei vertebrale.",
      "warn": ""
     }
    ]
@@ -2166,34 +2166,34 @@
    "number": "#61",
    "text": "982: Care este direcţia predominantă în care trebuie să ne orientăm privirea astfel încât o aeronavă să poată fi pilotată (controlată) cât mai bine în condiţii de siguranţă?",
    "short": "Privirea trebuie orientată predominant spre față, observând permanent spațiul aerian.",
-   "long": "Pilotul trebuie să vadă ce are în față și să observe permanent spațiul aerian. Din când în când verifică spatele și lateralele, dar nu își ține privirea spre exteriorul sau interiorul virajului.",
+   "long": "Pentru a controla aeronava în siguranță, privirea se îndreaptă predominant înainte, cu observarea permanentă a spațiului aerian.",
    "answers": [
     {
      "text": "predominant către faţă obsevând în permanenţă spaţiul aerian",
      "correct": true,
      "short": "Predominant către față, observând în permanență spațiul aerian.",
-     "long": "",
+     "long": "Corect. Privirea predominant înainte, cu observarea spațiului.",
      "warn": ""
     },
     {
      "text": "în timpul virajului către exteriorul acestuia",
      "correct": false,
      "short": "",
-     "long": "Nu este direcția predominantă.",
+     "long": "Privirea spre exteriorul virajului nu este direcția predominantă.",
      "warn": ""
     },
     {
      "text": "din când în când către spate pentru a ne asigura că nu ne lovește o aeronavă din spate",
      "correct": false,
      "short": "Din când în când către spate, pentru a ne asigura că nu ne lovește o aeronavă din spate.",
-     "long": "Este o verificare, dar nu direcția predominantă.",
+     "long": "Verificarea din când în când a spatelui este utilă, dar nu este direcția predominantă.",
      "warn": ""
     },
     {
      "text": "în timpul virajului către interiorul acestuia",
      "correct": false,
      "short": "",
-     "long": "Nu este direcția predominantă.",
+     "long": "Privirea spre interiorul virajului nu este direcția predominantă.",
      "warn": ""
     }
    ]
@@ -2202,34 +2202,34 @@
    "number": "#62",
    "text": "1053: Care sistem al corpului este responsabil pentru distribuția oxigenului în întreg organismul?",
    "short": "Sistemul circulator distribuie oxigenul în tot organismul.",
-   "long": "Sângele, prin inimă și vase, transportă oxigenul de la plămâni la toate țesuturile. Sistemul respirator preia oxigenul din aer, dar nu îl distribuie. Sistemul oxidant și cel nervos au alte funcții.",
+   "long": "Sistemul circulator (inima și vasele de sânge) distribuie oxigenul în tot organismul, prin sânge.",
    "answers": [
     {
      "text": "sistemul circulator",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Sistemul circulator distribuie oxigenul.",
      "warn": ""
     },
     {
      "text": "sistemul respirator",
      "correct": false,
      "short": "",
-     "long": "Preia oxigenul, dar nu îl distribuie.",
+     "long": "Sistemul respirator preia oxigenul din aer, dar nu îl distribuie în tot corpul.",
      "warn": ""
     },
     {
      "text": "sistemul oxidant",
      "correct": false,
      "short": "",
-     "long": "Nu este sistemul de distribuție.",
+     "long": "Sistemul oxidant nu este un sistem al organismului responsabil pentru distribuție.",
      "warn": ""
     },
     {
      "text": "sistemul nervos",
      "correct": false,
      "short": "",
-     "long": "Coordonează, dar nu distribuie oxigenul.",
+     "long": "Sistemul nervos coordonează, dar nu transportă oxigenul.",
      "warn": ""
     }
    ]
@@ -2238,34 +2238,34 @@
    "number": "#63",
    "text": "1087: Ce factori pot influența negativ starea mentală a unui pilot?",
    "short": "Medicamentele, drogurile, stresul și problemele personale pot influența negativ starea mentală a pilotului.",
-   "long": "Aceeași explicație ca la întrebarea 9: medicația și drogurile alterează judecata, iar stresul și problemele reduc concentrarea.",
+   "long": "Medicamentele, drogurile, stresul și problemele personale afectează starea mentală a pilotului, deci sunt factori negativi.",
    "answers": [
     {
      "text": "Consumul moderat de alcool și fumatul ocazional",
      "correct": false,
      "short": "",
-     "long": "Pot influența, dar nu sunt varianta principală.",
+     "long": "Consumul de alcool și fumatul afectează negativ starea mentală, deci nu sunt factori pozitivi.",
      "warn": ""
     },
     {
      "text": "Exercițiile fizice intense și somnul suficient",
      "correct": false,
      "short": "",
-     "long": "Sunt factori pozitivi.",
+     "long": "Exercițiile intense și somnul suficient nu sunt factori negativi.",
      "warn": ""
     },
     {
      "text": "Medicamentele, drogurile, stresul și problemele personale",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Medicamentele, drogurile, stresul și problemele personale sunt factori negativi.",
      "warn": ""
     },
     {
      "text": "Odihna regulată și alimentația echilibrată",
      "correct": false,
      "short": "",
-     "long": "Sunt factori pozitivi.",
+     "long": "Odihna și alimentația echilibrată sunt factori pozitivi.",
      "warn": ""
     }
    ]
@@ -2274,34 +2274,34 @@
    "number": "#64",
    "text": "1013: Unul din colegii e zbor a aterizat de urgență și nu dă semne de mișcare:",
    "short": "Dacă un coleg a aterizat de urgență și nu dă semne de mișcare, faci o analiză rapidă și, dacă poți ateriza în siguranță lângă el, o faci, apoi anunți autoritățile și acorzi primul ajutor.",
-   "long": "Siguranța ta este prioritară. Nu ateriza în condiții nesigure, nu continua să zbori deasupra fără rost. Dacă poți ajuta în siguranță, ajută, anunță organele competente și acordă primul ajutor.",
+   "long": "Dacă un coleg a aterizat de urgență și nu dă semne de mișcare, se analizează rapid locul și meteo, iar dacă se poate ateriza în siguranță, se ajută. Siguranța pilotului nu se sacrifică.",
    "answers": [
     {
      "text": "faceți o analiză rapidă a locației/ condiției meteo și în cazul în care puteți ateriza în siguranța lângă el efectuați manevra în condiții de siguranță, apoi anuntați organele competente și acordați primul ajutor",
      "correct": true,
      "short": "Faceți o analiză rapidă a locației/condiției meteo și, dacă puteți ateriza în siguranță lângă el, efectuați manevra, apoi anunțați organele competente și acordați primul ajutor.",
-     "long": "",
+     "long": "Corect. Se analizează rapid situația și se aterizează doar dacă este sigur.",
      "warn": ""
     },
     {
      "text": "aterizați de urgență lângă el să-l ajutați, indiferent de riscurile aferente locației/ condiției meteo",
      "correct": false,
      "short": "Aterizați de urgență lângă el, indiferent de riscurile locației/condiției meteo.",
-     "long": "Este periculos.",
+     "long": "Aterizarea în condiții riscante fără analiză crește pericolul pentru ambii piloți.",
      "warn": ""
     },
     {
      "text": "vă continuati zborul pentru ca fiecare pilot e responsabil pentru siguranța proprie",
      "correct": false,
      "short": "Vă continuați zborul, pentru că fiecare pilot e responsabil pentru siguranța proprie.",
-     "long": "Nu este procedura corectă.",
+     "long": "Continuarea zborului fără ajutor nu este solidaritatea cerută. Se analizează posibilitatea de ajutor.",
      "warn": ""
     },
     {
      "text": "continuați să zburați deasupra lui astfel atrăgând atenția celor de pe sol",
      "correct": false,
      "short": "Continuați să zburați deasupra lui, atrăgând atenția celor de pe sol.",
-     "long": "Nu este procedura corectă.",
+     "long": "Zborul deasupra colegului nu este ajutor și nu semnalizează corect situația.",
      "warn": ""
     }
    ]
@@ -2310,34 +2310,34 @@
    "number": "#65",
    "text": "1008: Odată cu creșterea înălțimii gazele din corpul pilotului:",
    "short": "Odată cu creșterea înălțimii, gazele din corpul pilotului cresc în volum.",
-   "long": "Presiunea scade cu altitudinea, deci gazele din organele cavitare se dilată. Din acest motiv apar disconfortul din urechi și din sinusuri, iar zborul cu sinusurile înfundate este riscant.",
+   "long": "Odată cu creșterea altitudinii, presiunea scade, iar gazele din corp se dilată, cresc în volum.",
    "answers": [
     {
      "text": "rămân constante în volum",
      "correct": false,
      "short": "",
-     "long": "Nu rămân constante.",
+     "long": "Volumul gazelor nu rămâne constant când presiunea scade.",
      "warn": ""
     },
     {
      "text": "scad în volum",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Gazele nu scad în volum la altitudine. Scăderea presiunii le dilată.",
      "warn": ""
     },
     {
      "text": "cresc în volum",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Gazele cresc în volum.",
      "warn": ""
     },
     {
      "text": "sunt absorbite de intestine",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul.",
+     "long": "Gazele nu sunt absorbite de intestine în acest proces.",
      "warn": ""
     }
    ]
@@ -2346,34 +2346,34 @@
    "number": "#66",
    "text": "1081: Ce este percepția cognitivă?",
    "short": "Percepția cognitivă este perceperea activă a materialului de studiat prin simțuri, ajutată de cunoștințele și experiența anterioară.",
-   "long": "Percepția cognitivă înseamnă că pilotul interpretează ce vede și aude, pe baza experienței și a cunoștințelor. Ea nu este doar memorare, nici o măsurare a performanțelor.",
+   "long": "Percepția cognitivă este procesul prin care creierul interpretează informațiile senzoriale, folosind cunoștințele și experiența.",
    "answers": [
     {
      "text": "Procesul de memorare a informațiilor noi",
      "correct": false,
      "short": "",
-     "long": "Memorarea este un proces diferit.",
+     "long": "Memorarea este un proces distinct de percepție.",
      "warn": ""
     },
     {
      "text": "Perceperea activă a materialului de studiat prin simțuri, ajutată de cunoștințele și experiența anterioară",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Percepția este procesarea activă a informațiilor prin simțuri, cu ajutorul cunoștințelor.",
      "warn": ""
     },
     {
      "text": "Capacitatea de a rezolva probleme complexe rapid",
      "correct": false,
      "short": "",
-     "long": "Este un alt concept.",
+     "long": "Rezolvarea problemelor este gândirea, nu percepția.",
      "warn": ""
     },
     {
      "text": "Evaluarea performanțelor cognitive",
      "correct": false,
      "short": "",
-     "long": "Este un alt concept.",
+     "long": "Evaluarea performanței nu este percepția cognitivă.",
      "warn": ""
     }
    ]
@@ -2382,34 +2382,34 @@
    "number": "#67",
    "text": "1018: Sunteți la o petrecere, ați consumat băuturi alcoolice, iar prietenii vă propun să le demonstrați abilitatile dvs. de pilot:",
    "short": "Dacă ai consumat alcool, renunți la zbor, pentru că este strict interzis să zbori sub influența alcoolului.",
-   "long": "Alcoolul afectează grav judecata, reacțiile și percepția. Chiar și cantități mici pot fi periculoase. Zborul acrobatic, zborul scurt sau zborul aproape de sol sub influența alcoolului sunt complet interzise.",
+   "long": "Alcoolul interzice zborul. Pilotul renunță la zbor, indiferent de presiunea prietenilor.",
    "answers": [
     {
      "text": "efectuați un zbor acrobatic deoarece aveți exces de curaj",
      "correct": false,
      "short": "Efectuați un zbor acrobatic, deoarece aveți exces de curaj.",
-     "long": "Este periculos și interzis.",
+     "long": "Zborul acrobatic sub influența alcoolului este interzis și periculos.",
      "warn": ""
     },
     {
      "text": "renuntați la zbor încât este strict interzis a zbura sub influența alcoolului",
      "correct": true,
      "short": "Renunțați la zbor, încât este strict interzis a zbura sub influența alcoolului.",
-     "long": "",
+     "long": "Corect. Zborul sub influența alcoolului este interzis.",
      "warn": ""
     },
     {
      "text": "efectuați un zbor scurt prin care să impresionați",
      "correct": false,
      "short": "",
-     "long": "Este interzis.",
+     "long": "Zborul scurt pentru a impresiona este interzis sub influența alcoolului.",
      "warn": ""
     },
     {
      "text": "zburați aproape de sol, pentru cazul în care ametiți să puteți decola rapid",
      "correct": false,
      "short": "Zburați aproape de sol, pentru cazul în care ameți să puteți decola rapid.",
-     "long": "Este interzis și periculos.",
+     "long": "Zborul aproape de sol după alcool este interzis și periculos.",
      "warn": ""
     }
    ]
@@ -2418,34 +2418,34 @@
    "number": "#68",
    "text": "1023: Ce procent de azot se găsește în atmosferă?",
    "short": "Azotul reprezintă 78,09% din atmosferă, nu 78,9%.",
-   "long": "Valoarea de 78,9% are o eroare de cifră: azotul reprezintă 78,09% din atmosferă. Reține valoarea 78,09%, nu 78,9%.",
+   "long": "Azotul din aerul uscat reprezintă 78,09% din volum. Cifra 78,9% din variantă este o eroare de cifră.",
    "answers": [
     {
      "text": "20,95%",
      "correct": false,
      "short": "",
-     "long": "Este procentul oxigenului.",
+     "long": "20,95% este procentul de oxigen, nu de azot.",
      "warn": ""
     },
     {
      "text": "78,9%",
      "correct": true,
      "short": "",
-     "long": "Are o eroare de cifră: valoarea corectă este 78,09%.",
+     "long": "78,9% nu este procentul corect. Azotul este 78,09%.",
      "warn": "Valoarea corectă a azotului în atmosferă este 78,09%, nu 78,9%."
     },
     {
      "text": "0,93%",
      "correct": false,
      "short": "",
-     "long": "Este procentul argonului.",
+     "long": "0,93% este procentul de argon, nu de azot.",
      "warn": ""
     },
     {
      "text": "0,03%",
      "correct": false,
      "short": "",
-     "long": "Este procentul dioxidului de carbon.",
+     "long": "0,03% este procentul de dioxid de carbon, nu de azot.",
      "warn": ""
     }
    ]
@@ -2490,34 +2490,34 @@
    "number": "#70",
    "text": "1060: Ce reprezintă conștientizarea situațională pentru un pilot?",
    "short": "Conștientizarea situațională înseamnă să ai o imagine de ansamblu asupra aspectelor care au loc în cabină și în jurul aeronavei.",
-   "long": "Pilotul trebuie să știe permanent ce se întâmplă: poziția, vremea, traficul, starea aeronavei și a motorului. Această imagine de ansamblu permite decizii corecte.",
+   "long": "Conștientizarea situațională înseamnă perceperea corectă a mediului, înțelegerea a ceea ce se petrece și anticiparea evoluției situației.",
    "answers": [
     {
      "text": "Abilitatea pilotului de a transmite informații în mod clar",
      "correct": false,
      "short": "",
-     "long": "Este comunicare, nu conștientizare.",
+     "long": "Transmiterea clară a informațiilor este comunicarea, nu conștientizarea situațională.",
      "warn": ""
     },
     {
      "text": "Abilitatea pilotului de a rămâne calm în situații critice",
      "correct": false,
      "short": "",
-     "long": "Este un alt aspect.",
+     "long": "Calmul în situații critice este important, dar nu definește conștientizarea situațională.",
      "warn": ""
     },
     {
      "text": "Abilitatea pilotului de a avea o imagine de ansamblu asupra aspectelor care au loc în cabină și în jurul aeronavei",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Conștientizarea situațională este imaginea de ansamblu asupra a ceea ce se petrece.",
      "warn": ""
     },
     {
      "text": "Abilitatea pilotului de a respecta procedurile standard",
      "correct": false,
      "short": "",
-     "long": "Este un alt aspect.",
+     "long": "Respectarea procedurilor este important, dar nu definește conștientizarea situațională.",
      "warn": ""
     }
    ]
@@ -2526,34 +2526,34 @@
    "number": "#71",
    "text": "1041: Cum trebuie tratată o persoană cu hipotermie moderată?",
    "short": "O persoană cu hipotermie moderată se încălzește treptat și primește lichide calde.",
-   "long": "Hipotermia se tratează prin încălzire lentă, cu îmbrăcăminte uscată și lichide calde, nu cu alcool sau cu apă fierbinte. Compresele reci și scufundarea în apă fierbinte sunt periculoase.",
+   "long": "La hipotermie moderată, încălzirea se face treptat, iar persoana primește lichide calde, care ajută la reechilibrare fără șoc.",
    "answers": [
     {
      "text": "Aplicarea de comprese reci pe corp",
      "correct": false,
      "short": "",
-     "long": "Agravează hipotermia.",
+     "long": "Compresele reci agravează hipotermia.",
      "warn": ""
     },
     {
      "text": "Scufundarea persoanei în apă fierbinte",
      "correct": false,
      "short": "",
-     "long": "Încălzirea bruscă este periculoasă.",
+     "long": "Apa fierbinte poate provoca arsuri și șoc. Încălzirea trebuie treptată.",
      "warn": ""
     },
     {
      "text": "Administrarea de alcool pentru a încălzi corpul",
      "correct": false,
      "short": "",
-     "long": "Alcoolul dilată vasele și accelerează pierderea de căldură.",
+     "long": "Alcoolul dilată vasele și accelerează pierderea de căldură, deci agravează hipotermia.",
      "warn": ""
     },
     {
      "text": "Încălzirea treptată a persoanei și oferirea de lichide calde",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Încălzire treptată și lichide calde.",
      "warn": ""
     }
    ]
@@ -2562,34 +2562,34 @@
    "number": "#72",
    "text": "1067: Cum afectează o răceală capacitatea de zbor a unui pilot?",
    "short": "O răceală poate afecta presiunea în urechi și sinusuri, făcând zborul inconfortabil și periculos.",
-   "long": "Mucoasele inflamate blochează trompa lui Eustache și sinusurile, deci egalizarea presiunii devine dificilă. Pot apărea durere, barotrauma și deficiențe de auz. De aceea zborul cu răceală este de evitat.",
+   "long": "Răceala produce congestie la nivelul urechii medii și al sinusurilor, ceea ce face egalizarea presiunii dificilă și zborul inconfortabil, cu risc de barotraumă.",
    "answers": [
     {
      "text": "Răceala poate afecta presiunea în urechi și sinusuri, făcând zborul inconfortabil și periculos",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Răceala afectează presiunea în urechi și sinusuri.",
      "warn": ""
     },
     {
      "text": "Răceala nu afectează în niciun fel capacitatea de zbor a unui pilot",
      "correct": false,
      "short": "",
-     "long": "Afectează.",
+     "long": "Răceala afectează zborul, prin presiunea în urechi și sinusuri.",
      "warn": ""
     },
     {
      "text": "Răceala face ca pilotul să fie mai alert și concentrat",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Răceala nu face pilotul mai alert. Îi scade concentrarea și confortul.",
      "warn": ""
     },
     {
      "text": "Răceala îmbunătățește reflexele și timpul de reacție",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Răceala nu îmbunătățește reflexele. O afectează.",
      "warn": ""
     }
    ]
@@ -2598,34 +2598,34 @@
    "number": "#73",
    "text": "1038: Cum trebuie tratată o entorsă la gleznă?",
    "short": "O entorsă la gleznă se tratează cu gheață pe zona afectată.",
-   "long": "Gheața reduce umflătura și durerea în primele ore. Masajul puternic, încălzirea și exercițiile imediate agravează leziunea. Se recomandă repaus, gheață, compresie și ridicare a membrului.",
+   "long": "La entorsă, gheața aplicată în primele ore reduce umflătura și durerea. Piciorul se ridică și se odihnește.",
    "answers": [
     {
      "text": "Aplicarea de gheață pe zona afectată",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Gheața reduce umflătura și durerea.",
      "warn": ""
     },
     {
      "text": "Masarea puternică a gleznei",
      "correct": false,
      "short": "",
-     "long": "Agravează leziunea.",
+     "long": "Masajul puternic agravează leziunea și umflătura.",
      "warn": ""
     },
     {
      "text": "Încălzirea zonei afectate",
      "correct": false,
      "short": "",
-     "long": "Crește umflătura în primele ore.",
+     "long": "Căldura crește umflătura în primele ore, deci este greșită.",
      "warn": ""
     },
     {
      "text": "Exerciții fizice imediate pentru glezna afectată",
      "correct": false,
      "short": "",
-     "long": "Agravează leziunea.",
+     "long": "Exercițiile imediate agravează entorsa.",
      "warn": ""
     }
    ]
@@ -2634,34 +2634,34 @@
    "number": "#74",
    "text": "1062: Ce măsuri de prim ajutor se iau în cazul victimelor cu traumatisme ale coloanei vertebrale, dacă funcțiile vitale ale acestuia sunt asigurate?",
    "short": "Dacă funcțiile vitale sunt asigurate, la traumatism al coloanei vertebrale nu mișcăm accidentatul până la sosirea serviciilor de urgență.",
-   "long": "Mișcarea unei persoane cu leziune a coloanei poate produce paralizie. Dacă nu există alt pericol, persoana rămâne nemișcată, se monitorizează funcțiile vitale și se cheamă ajutorul.",
+   "long": "La traumatism al coloanei, dacă nu există alt pericol, persoana nu se mișcă, pentru a evita afectarea măduvei spinării.",
    "answers": [
     {
      "text": "Se transportă imediat victima la spital, cu orice mijloc de transport aflat la îndemână",
      "correct": false,
      "short": "",
-     "long": "Transportul neadecvat poate agrava leziunea.",
+     "long": "Transportul imediat cu orice mijloc poate agrava leziunea coloanei.",
      "warn": ""
     },
     {
      "text": "Dacă nu există un alt pericol, nu se mișcă accidentatul din poziția în care se află până la sosirea serviciilor de urgență",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Persoana nu se mișcă dacă nu există alt pericol.",
      "warn": ""
     },
     {
      "text": "Se transportă imediat victima la spital așezată pe o targă improvizată",
      "correct": false,
      "short": "Se transportă imediat victima la spital, așezată pe o targă improvizată.",
-     "long": "Transportul neatent poate agrava leziunea.",
+     "long": "Transportul pe targă improvizată fără protecție poate agrava leziunea.",
      "warn": ""
     },
     {
      "text": "Se informează victima despre efectele ce pot rămâne pe viitor în urma traumatismului",
      "correct": false,
      "short": "Se informează victima despre efectele ce pot rămâne pe viitor.",
-     "long": "Nu este măsura de prim ajutor.",
+     "long": "Informarea victimei nu este măsura de prim ajutor.",
      "warn": ""
     }
    ]
@@ -2670,34 +2670,34 @@
    "number": "#75",
    "text": "980: Zborul în ceață este interzis pentru că:",
    "short": "Zborul în ceață este interzis, pentru că dispare orientarea.",
-   "long": "În ceață nu se mai văd repere și orizontul, deci pilotul își pierde orientarea spațială. Riscul de dezorientare și de coliziune cu relieful este foarte mare. Umiditatea sau murdărirea parbrizului nu sunt motivele principale.",
+   "long": "În ceață se pierde orientarea, deoarece nu se mai văd repere, iar zborul devine periculos.",
    "answers": [
     {
      "text": "dispare orientarea",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. În ceață dispare orientarea.",
      "warn": ""
     },
     {
      "text": "se poate opri motorul din cauza umidității",
      "correct": false,
      "short": "",
-     "long": "Nu este motivul principal.",
+     "long": "Umiditatea nu oprește motorul în mod normal ca efect principal al ceții.",
      "warn": ""
     },
     {
      "text": "se murdăreşte parbrizul şi scade vizibilitatea",
      "correct": false,
      "short": "Se murdărește parbrizul și scade vizibilitatea.",
-     "long": "Nu este motivul principal.",
+     "long": "Parbrizul nu este piesa principală la paramotor. Problema este lipsa reperelor.",
      "warn": ""
     },
     {
      "text": "umiditatea îngreunează respirația",
      "correct": false,
      "short": "",
-     "long": "Nu este motivul principal.",
+     "long": "Umiditatea nu împiedică respirația în mod direct la zbor.",
      "warn": ""
     }
    ]
@@ -2706,34 +2706,34 @@
    "number": "#76",
    "text": "986: Peste ce înălţime poate aparea hipoxia (boala de înălţime)?",
    "short": "Hipoxia, sau boala de altitudine, poate apărea de la 3000 m.",
-   "long": "La altitudini de peste 3000 m, presiunea oxigenului scade suficient cât să apară simptome. Varianta corectă indică 3000 m. Efectul depinde și de condiția fizică a pilotului.",
+   "long": "Hipoxia (boala de altitudine) poate apărea de la circa 3000 m, unde oxigenul din aer este mai puțin disponibil.",
    "answers": [
     {
      "text": "5000m",
      "correct": false,
      "short": "5000 m.",
-     "long": "Simptomele pot apărea mai devreme.",
+     "long": "5000 m este o altitudine la care hipoxia este sigur prezentă, dar întrebarea cere pragul de la care apare.",
      "warn": ""
     },
     {
      "text": "1000m",
      "correct": false,
      "short": "1000 m.",
-     "long": "Este prea jos pentru simptome, în general.",
+     "long": "1000 m este prea jos pentru hipoxie semnificativă.",
      "warn": ""
     },
     {
      "text": "3000m",
      "correct": true,
      "short": "3000 m.",
-     "long": "",
+     "long": "Corect. Hipoxia poate apărea de la circa 3000 m.",
      "warn": ""
     },
     {
      "text": "6000m",
      "correct": false,
      "short": "6000 m.",
-     "long": "Simptomele apar mai devreme.",
+     "long": "6000 m este mult peste pragul de la care apare hipoxia.",
      "warn": ""
     }
    ]
@@ -2742,34 +2742,34 @@
    "number": "#77",
    "text": "1033: Cum trebuie așezată o persoană rănită care prezintă leziuni ale coloanei vertebrale?",
    "short": "O persoană cu leziuni ale coloanei vertebrale nu trebuie mișcată până la sosirea salvării.",
-   "long": "Aceeași explicație ca la întrebarea 60: mișcarea poate agrava leziunea măduvei, deci persoana rămâne nemișcată.",
+   "long": "La lezarea coloanei vertebrale, victima nu se mișcă până la sosirea salvării, pentru a evita afectarea măduvei spinării.",
    "answers": [
     {
      "text": "În situația aceasta nu trebuie să fie mișcată până la sosirea salvării",
      "correct": true,
      "short": "În poziție șezândă.",
-     "long": "Mișcarea poate agrava leziunea.",
+     "long": "Corect. Victima nu se mișcă până la sosirea salvării.",
      "warn": ""
     },
     {
      "text": "În poziție șezândă",
      "correct": false,
      "short": "Orizontal, cu fața în sus.",
-     "long": "Mișcarea poate agrava leziunea.",
+     "long": "Poziția șezândă poate agrava leziunea.",
      "warn": ""
     },
     {
      "text": "Orizontal, cu fața în sus",
      "correct": false,
      "short": "În poziție laterală.",
-     "long": "Mișcarea poate agrava leziunea.",
+     "long": "Poziția orizontală cu fața în sus implică mișcarea victimei, deci este greșită.",
      "warn": ""
     },
     {
      "text": "În poziție laterală",
      "correct": false,
      "short": "În situația aceasta nu trebuie să fie mișcată până la sosirea salvării.",
-     "long": "Este varianta corectă.",
+     "long": "Poziția laterală poate agrava leziunea coloanei.",
      "warn": ""
     }
    ]
@@ -2778,34 +2778,34 @@
    "number": "#78",
    "text": "990: Prima regulă a unui pilot bun este:",
    "short": "Prima regulă a unui pilot bun este să știe când condiția fizică, psihică și meteo pot pune în pericol siguranța zborului și să nu forțeze decolarea.",
-   "long": "Pilotul bun își evaluează starea și condițiile și renunță când riscul este prea mare. Zborul pe orice condiție meteo, zborul acrobatic sau zborul mult nu sunt criteriile.",
+   "long": "Un pilot bun știe când condiția fizică, psihică sau meteo îi poate pune în pericol siguranța și renunță atunci.",
    "answers": [
     {
      "text": "să zboare cât mai mult",
      "correct": false,
      "short": "",
-     "long": "Nu este criteriul principal.",
+     "long": "Zborul cât mai mult nu face un pilot bun.",
      "warn": ""
     },
     {
      "text": "să zboare pe orice condiţie meteo",
      "correct": false,
      "short": "Să zboare pe orice condiție meteo.",
-     "long": "Este periculos.",
+     "long": "Zborul pe orice condiție meteo nu este regula unui pilot bun.",
      "warn": ""
     },
     {
      "text": "să facă zbor acrobatic",
      "correct": false,
      "short": "",
-     "long": "Nu este criteriul.",
+     "long": "Zborul acrobatic nu este regula unui pilot bun.",
      "warn": ""
     },
     {
      "text": "să ştie când condiția fizică, psihică și conditiile meteo pot pune în pericol siguranța zborului și să nu forteze decolarea",
      "correct": true,
      "short": "Să știe când condiția fizică, psihică și condițiile meteo pot pune în pericol siguranța zborului și să nu forțeze decolarea.",
-     "long": "",
+     "long": "Corect. Un pilot bun știe când poate fi pusă în pericol siguranța.",
      "warn": ""
     }
    ]
@@ -2814,34 +2814,34 @@
    "number": "#79",
    "text": "995: Vălul negru apare la:",
    "short": "Vălul negru apare la accelerații gravitaționale pozitive.",
-   "long": "La accelerații pozitive, sângele se mută spre picioare, iar creierul primește mai puțin oxigen. Vederea se întunecă treptat, de la periferie spre centru, și poate apărea pierderea cunoștinței. Accelerațiile negative produc alt efect.",
+   "long": "Vălul negru (greyout) apare la accelerații pozitive, când sângele se mută spre picioare și ochii rămân fără aport suficient.",
    "answers": [
     {
      "text": "acceleraţii gravitaţionale pozitive",
      "correct": true,
      "short": "Accelerații gravitaționale pozitive.",
-     "long": "",
+     "long": "Corect. Vălul negru apare la accelerații pozitive.",
      "warn": ""
     },
     {
      "text": "acceleraţii gravitaţionale peste -2 G",
      "correct": false,
      "short": "Accelerații gravitaționale peste -2 G.",
-     "long": "Accelerațiile negative produc alt efect.",
+     "long": "Accelerațiile de peste −2 G nu produc vălul negru în sensul întrebării.",
      "warn": ""
     },
     {
      "text": "acceleraţii gravitaţionale negative",
      "correct": false,
      "short": "Accelerații gravitaționale negative.",
-     "long": "Accelerațiile negative produc alt efect.",
+     "long": "Accelerațiile negative produc altă situație, nu vălul negru.",
      "warn": ""
     },
     {
      "text": "accelerații gravitaționale peste 10 G",
      "correct": false,
      "short": "",
-     "long": "Valoarea nu este cea descrisă.",
+     "long": "Peste 10 G este pragul extrem, nu cel al vălului negru.",
      "warn": ""
     }
    ]
@@ -2850,34 +2850,34 @@
    "number": "#80",
    "text": "988: Zborul la temperaturi în jur de zero grade Celsius si la temperaturi negative cu aeronave ce au cabina deschisă este periculos deoarece:",
    "short": "Zborul cu cabina deschisă la temperaturi în jur de zero grade sau negative este periculos, pentru că curentul de aer răcește continuu corpul pilotului.",
-   "long": "Vântul din cabina deschisă răcește corpul constant, ceea ce scade atenția și poate duce la hipotermie. Efortul și comenzile nu sunt efectele principale.",
+   "long": "În cabina deschisă, curentul de aer răcește continuu corpul pilotului, ceea ce duce la hipotermie și scade atenția.",
    "answers": [
     {
      "text": "efortul pilotării aeronavei este mai mare",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul principal.",
+     "long": "Efortul de pilotaj nu este motivul principal al pericolului.",
      "warn": ""
     },
     {
      "text": "curentul de aer răceşte continuu temperatura corpului pilotului",
      "correct": true,
      "short": "Curentul de aer răcește continuu temperatura corpului pilotului.",
-     "long": "",
+     "long": "Corect. Curentul de aer răcește continuu corpul.",
      "warn": ""
     },
     {
      "text": "există tendinţa de bruscare a aeronavei",
      "correct": false,
      "short": "Există tendința de bruscare a aeronavei.",
-     "long": "Nu este efectul principal.",
+     "long": "Bruscarea aeronavei nu este motivul principal al pericolului.",
      "warn": ""
     },
     {
      "text": "nu este recomandat",
      "correct": false,
      "short": "",
-     "long": "Este un răspuns general, nu explicația.",
+     "long": "Afirmația că nu este recomandat este concluzia, dar motivul este răcirea continuă a corpului.",
      "warn": ""
     }
    ]
