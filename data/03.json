@@ -1086,34 +1086,34 @@
    "number": "#31",
    "text": "168: Valabilitatea aptitudinii medicale începe de la data semnării şi parafării fişei de către medicul şef şi este de:",
    "short": "Valabilitatea aptitudinii medicale depinde de vârstă: 60 de luni sub 30 de ani, 24 de luni între 30 și 50 de ani, 12 luni peste 50 de ani.",
-   "long": "Certificatul medical este valabil mai puțin cu cât crește vârsta, deoarece riscurile medicale cresc. Varianta corectă afirmă că valabilitatea scade cu vârsta. Limitele concrete trebuie verificate în reglementarea medicală actuală.",
+   "long": "Certificatul medical de clasa 2 este valabil în funcție de vârsta titularului (Regulamentul (UE) 2019/27, MED.A.045 lit. a pct. 3): 60 de luni până la 40 de ani, 24 de luni între 40 și 50 de ani și 12 luni peste 50 de ani. Riscul medical crește cu vârsta, deci valabilitatea scade.",
    "answers": [
     {
      "text": "36 de luni indiferent de vârstă",
      "correct": false,
      "short": "36 de luni, indiferent de vârstă.",
-     "long": "Nu este varianta corectă.",
+     "long": "Nu. Valabilitatea nu este aceeași la toate vârstele. MED.A.045 leagă perioada de vârsta titularului, deci 36 de luni fixe nu corespund regulamentului.",
      "warn": ""
     },
     {
      "text": "60 de luni pentru persoanele cu vârsta mai mică de 30 de ani, 24 de luni pentru persoanele cu vârsta cuprinsă între 30 de ani şi 50 de ani, 12 de luni pentru persoanele cu vârsta mai mare de 50 de ani",
      "correct": true,
      "short": "60 de luni pentru sub 30 de ani, 24 de luni între 30 și 50 de ani, 12 luni peste 50 de ani.",
-     "long": "Riscul medical crește cu vârsta, deci valabilitatea certificatului medical trebuie să scadă odată cu vârsta. Varianta B este singura care arată această scădere (mai puțin de 30 de ani, între 30 și 50, peste 50). Variantele A, C și D dau aceeași perioadă indiferent de vârstă, deci nu pot fi corecte în logica aptitudinii medicale. Cifrele exacte (60, 24, 12 luni) nu le-am găsit în sursele consultate; verifică-le în PAC-MED.",
-     "warn": ""
+     "long": "Structura este corectă: trei perioade care scad cu vârsta (60, 24, 12 luni). Pragurile de vârstă sunt însă 40 și 50 de ani (MED.A.045 lit. a pct. 3), nu 30 și 50.",
+     "warn": "Pragul de 30 de ani din această variantă nu corespunde regulamentului. MED.A.045 lit. a pct. 3 (Regulamentul (UE) 2019/27) stabilește: 60 de luni până la 40 de ani, 24 de luni între 40 și 50 de ani, 12 luni peste 50 de ani."
     },
     {
      "text": "1 an indiferent de vârstă",
      "correct": false,
      "short": "1 an, indiferent de vârstă.",
-     "long": "Nu este varianta corectă.",
+     "long": "Nu. Un an fix, indiferent de vârstă, nu corespunde MED.A.045, care leagă valabilitatea de vârstă.",
      "warn": ""
     },
     {
      "text": "24 de luni indiferent de vârstă",
      "correct": false,
      "short": "24 de luni, indiferent de vârstă.",
-     "long": "Nu este varianta corectă.",
+     "long": "Nu. 24 de luni fixe, indiferent de vârstă, nu corespund MED.A.045. Valabilitatea de 24 de luni există doar pentru grupa 40–50 de ani.",
      "warn": ""
     }
    ]
