@@ -1128,7 +1128,7 @@
      "text": "stabilitatea redusă la viteze mici",
      "correct": true,
      "short": "",
-     "long": "Este dezavantajul indicat în bancă, deși depinde de model.",
+     "long": "Este dezavantajul indicat, deși depinde de model.",
      "warn": ""
     },
     {
@@ -1374,7 +1374,7 @@
    "number": "#39",
    "text": "236: La înclinarea parapantei spre stânga:",
    "short": "La înclinarea parapantei spre stânga, colțul stâng coboară și colțul drept se ridică.",
-   "long": "Când un colț al aripii coboară, acel colț primește mai puțin aer și se ridică, iar colțul opus se ridică prin acțiunea frânei. În descrierea din bancă, la înclinarea spre stânga, colțul stâng coboară, iar cel drept se ridică, adică aripa se rotește în sensul înclinării.",
+   "long": "Când un colț al aripii coboară, acel colț primește mai puțin aer și se ridică, iar colțul opus se ridică prin acțiunea frânei. În descrierea, la înclinarea spre stânga, colțul stâng coboară, iar cel drept se ridică, adică aripa se rotește în sensul înclinării.",
    "answers": [
     {
      "text": "colțul stâng coboară şi cel drept rămâne orizontal",
@@ -1401,7 +1401,7 @@
      "text": "colțul stâng coboară şi cel drept se ridică",
      "correct": true,
      "short": "Colțul stâng coboară și cel drept se ridică.",
-     "long": "Este descrierea din bancă, corectă pentru înclinarea spre stânga.",
+     "long": "Este descrierea, corectă pentru înclinarea spre stânga.",
      "warn": ""
     }
    ]
@@ -1545,7 +1545,7 @@
      "text": "ţinem cont de puterea motorului raportat la greutatea lui",
      "correct": false,
      "short": "Ținem cont de puterea motorului raportată la greutatea lui.",
-     "long": "Este important, dar nu criteriul principal din bancă.",
+     "long": "Este important, dar nu criteriul principal.",
      "warn": ""
     }
    ]
@@ -1574,7 +1574,7 @@
      "text": "aplică frânele pentru a opri mișcarea nedorită și a stabiliza aripa",
      "correct": true,
      "short": "",
-     "long": "Este răspunsul din bancă; frânele trebuie folosite cu grijă, după procedura de recuperare.",
+     "long": "Este răspunsul; frânele trebuie folosite cu grijă, după procedura de recuperare.",
      "warn": ""
     },
     {
@@ -2238,7 +2238,7 @@
    "number": "#63",
    "text": "248: Un motor cu puterea de 40 kW are:",
    "short": "Un motor de 40 kW are aproximativ 54,4 CP, cea mai apropiată variantă din listă fiind 54,8 CP.",
-   "long": "1 kW este aproximativ 1,36 CP. Deci 40 kW × 1,36 ≈ 54,4 CP. Valoarea din bancă, 54,8 CP, este cea mai apropiată dintre variantele date, deci rămâne răspunsul corect în context.",
+   "long": "1 kW este aproximativ 1,36 CP. Deci 40 kW × 1,36 ≈ 54,4 CP. Valoarea, 54,8 CP, este cea mai apropiată dintre variantele date, deci rămâne răspunsul corect în context.",
    "answers": [
     {
      "text": "65 C.P.",
@@ -2532,7 +2532,7 @@
      "text": "în rezervor să se afle cel putin 5 litri de combustibil",
      "correct": false,
      "short": "În rezervor să se afle cel puțin 5 litri de combustibil.",
-     "long": "Cantitatea nu este criteriul de siguranță din bancă.",
+     "long": "Cantitatea nu este criteriul de siguranță.",
      "warn": ""
     },
     {
@@ -2733,7 +2733,7 @@
      "text": "stabilitatea la viteze mari",
      "correct": false,
      "short": "",
-     "long": "Stabilitatea nu este avantajul principal din bancă.",
+     "long": "Stabilitatea nu este avantajul principal.",
      "warn": ""
     }
    ]
@@ -2892,7 +2892,7 @@
      "text": "folosind un sistem de scripeți, bandă de măsurare și o greutate de 18 kg",
      "correct": true,
      "short": "",
-     "long": "Este metoda din bancă; greutatea exactă trebuie verificată în manualul aripii.",
+     "long": "Este metoda; greutatea exactă trebuie verificată în manualul aripii.",
      "warn": ""
     },
     {
@@ -3273,7 +3273,7 @@
      "text": "necesită mai multă întreținere",
      "correct": false,
      "short": "",
-     "long": "Întreținerea nu este dezavantajul principal din bancă.",
+     "long": "Întreținerea nu este dezavantajul principal.",
      "warn": ""
     }
    ]
@@ -3396,7 +3396,7 @@
      "text": "pentru a preveni scurgerile de combustibil",
      "correct": false,
      "short": "",
-     "long": "Scurgerile sunt un motiv, dar nu cel principal din bancă.",
+     "long": "Scurgerile sunt un motiv, dar nu cel principal.",
      "warn": ""
     },
     {

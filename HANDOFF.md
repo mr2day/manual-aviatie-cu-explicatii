@@ -4,13 +4,13 @@ Document pentru un alt agent care preia proiectul. Limba interfeței și a conț
 
 ## 1. Ce este proiectul
 
-Un manual static, fără server, pentru elevii care pregătesc examenul teoretic de paramotor. Conținutul vine din simulatorul de examen (WordPress, skytransylvania.ro): 9 capitole, 830 de întrebări cu variantele și răspunsul marcat din bancă. Pe lângă bancă, fiecare întrebare are:
+Un manual static, fără server, pentru elevii care pregătesc examenul teoretic de paramotor. Conținutul vine din simulatorul de examen (WordPress, skytransylvania.ro): 9 capitole, 830 de întrebări cu variantele și răspunsul marcat. Fiecare întrebare are în plus:
 - o descriere scurtă, vizibilă;
 - o explicație detaliată, colapsibilă;
 - pentru fiecare variantă: o descriere scurtă și o explicație colapsibilă;
-- uneori un avertisment (`warn`) care spune că răspunsul marcat din bancă este greșit și dă răspunsul corect.
+- uneori un avertisment (`warn`) care spune că răspunsul marcat este greșit și dă răspunsul corect.
 
-**Regula de bază:** marcajul verde rămâne pe răspunsul din bancă, pentru că elevul trebuie să bifeze la examen varianta din bancă. Greșelile se semnalează doar prin avertisment, niciodată prin mutarea marcajului.
+**Regula de bază:** marcajul verde rămâne pe răspunsul, pentru că elevul trebuie să bifeze la examen varianta. Greșelile se semnalează doar prin avertisment, niciodată prin mutarea marcajului.
 
 ## 2. Structura repo-ului
 
@@ -50,28 +50,28 @@ regulament-ulm.html     textul RACR-CCO ULM (Ediția 1/2007), cu cuprins
     "short": "descrierea scurtă vizibilă",
     "long": "explicația detaliată (paragrafe separate prin linie goală)",
     "answers": [
-      { "text": "varianta din bancă", "correct": true,
+      { "text": "varianta", "correct": true,
         "short": "descriere scurtă (goală dacă e identică cu textul)",
         "long": "explicație colapsibilă",
-        "warn": "avertisment opțional: explicația corectă, când banca greșește" }
+        "warn": "avertisment opțional: explicația corectă, când răspunsul marcat este greșit" }
     ] } ] }
 ```
 
-- `text` poate începe cu codul din bancă (de ex. `"698: Care este..."`). Aplicația afișează întrebările cu un badge cu numărul din capitol și nu afișează codul.
-- Exact o variantă are `correct: true` (marcajul din bancă). Asta este verificat la generare.
+- `text` poate începe cu codul (de ex. `"698: Care este..."`). Aplicația afișează întrebările cu un badge cu numărul din capitol și nu afișează codul.
+- Exact o variantă are `correct: true` (marcajul). Asta este verificat la generare.
 - Numărul de întrebări per capitol: 01=101, 02=104, 03=105, 04=87, 05=94, 06=101, 07=119, 08=117, 09=103.
 
 ## 5. Ce s-a făcut (rezumat)
 
 1. Curățarea paginilor WordPress (Yoast, WooCommerce, Elementor, analitice) și eliminarea oricărei încărcări externe.
 2. Explicații pentru toate cele 830 de întrebări, cu descrieri scurte și explicații colapsibile. Explicațiile sunt scrise din cunoștințe proprii și din câteva căutări pe net (vezi secțiunea 7).
-3. Avertismente (12 în total) pentru răspunsurile greșite din bancă, pe paginile 03, 04, 06, 07, 08, 09. Exemple:
+3. Avertismente (12 în total) pentru răspunsurile greșite, pe paginile 03, 04, 06, 07, 08, 09. Exemple:
    - 04: presiunea standard (întrebarea 35), unitatea densității (37), răcirea adiabatică 3,5°C în loc de ~0,2°C (87);
    - 06: textul incomplet (6), raționamentul despre aerul umed (70);
    - 07: azotul 78,9% în loc de 78,09% (68), vederea roșie (49);
    - 08: contradicție cu pagina 05 despre zborul cu vântul (65), formularea „în formă de Z” (117);
    - 09: rezistența la unghi mare de atac (41).
-   - 03: motoparapanta avansată are MTOM 300 kg (un loc) și 450 kg (două locuri), conform RACR-CCO ULM, anexa 1, pct. 1.2.3.1. Banca marchează 250 kg (întrebarea 66) și 400 kg (întrebarea 18). Avertismentele sunt în `data/03.json`.
+   - 03: motoparapanta avansată are MTOM 300 kg (un loc) și 450 kg (două locuri), conform RACR-CCO ULM, anexa 1, pct. 1.2.3.1. Varianta marcată indică 250 kg (întrebarea 66) și 400 kg (întrebarea 18). Avertismentele sunt în `data/03.json`.
 4. Clasele spațiului aerian explicate în 16 întrebări (A, C, G). Pentru clasa C, limita de FL105 din AIP ENR 1.4 (ediția 2023) trebuie verificată pe aisro.ro.
 5. Site-ul ca o singură pagină (`single-html-build`), cu date din JSON, navigare cu hash, meniu lateral cu capitolul selectat evidențiat, linkuri secundare, antet.
 6. Temă întunecată și paletă inspirate din paramotorartisan.com: albastru #004F7A, text #505454/#D7DADA, fundal #1A1E1E, Rajdhani pentru titluri, DM Sans pentru text. Fonturile sunt locale (fonts/).
@@ -81,7 +81,7 @@ regulament-ulm.html     textul RACR-CCO ULM (Ediția 1/2007), cu cuprins
 
 ## 6. Decizii luate de utilizator (de respectat)
 
-- Marcajul verde rămâne pe varianta din bancă. Greșelile se marchează doar cu avertisment.
+- Marcajul verde rămâne pe varianta. Greșelile se marchează doar cu avertisment.
 - Textul regulamentului RACR-CCO ULM poate fi folosit și reformatat, fără restricții.
 - Fonturile se descarcă local, nu se încarcă din Google Fonts.
 - Utilizatorul spune că este afiliat cu Paramotor Artisan. Antetul conține numele lor doar ca text, cu sloganul care precizează că este un manual de pregătire. **Nu s-a copiat logo-ul lor** (nu există imagine, doar text) și nu s-a copiat structura paginii lor.

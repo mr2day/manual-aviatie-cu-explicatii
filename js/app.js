@@ -54,7 +54,7 @@
       var section = el('section', 'question');
       var h2 = el('h2', 'question-title');
       h2.appendChild(el('span', 'question-number', String(index + 1)));
-      // Codul din bancă (ex. "698: ") nu se mai afișează
+      // Codul (ex. "698: ") nu se mai afișează
       h2.appendChild(document.createTextNode(q.text.replace(/^\d+:\s*/, '')));
       section.appendChild(h2);
       section.appendChild(el('p', 'question-short', q.short));

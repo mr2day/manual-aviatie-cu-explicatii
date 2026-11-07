@@ -19,7 +19,7 @@
      "text": "poate face manevrele mai dificile și mai puțin precise",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -55,7 +55,7 @@
      "text": "greutatea pilotului influențează capacitatea de ascensiune în termici",
      "correct": false,
      "short": "Greutatea pilotului trebuie să fie compatibilă cu greutatea maximă admisă a aripii pentru a asigura stabilitatea și manevrabilitatea.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -91,7 +91,7 @@
      "text": "crește viteza de zbor, dar poate reduce stabilitatea",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -134,7 +134,7 @@
      "text": "greutatea mai mare necesită o distanță de decolare mai lungă",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -150,7 +150,7 @@
    "number": "#5",
    "text": "867: Cum influențează greutatea totală a echipamentului stabilitatea în zbor?",
    "short": "O greutate totală mai mare poate face zborul mai stabil.",
-   "long": "Cu o greutate mai mare, aripa este mai stabilă la turbulență și mai greu de desfășurat de vânt, deci reacțiile sunt mai puțin bruște. Varianta marcată în bancă reflectă acest efect. Greutatea prea mare depășește limitele omologării.",
+   "long": "Cu o greutate mai mare, aripa este mai stabilă la turbulență și mai greu de desfășurat de vânt, deci reacțiile sunt mai puțin bruște. Varianta marcată reflectă acest efect. Greutatea prea mare depășește limitele omologării.",
    "answers": [
     {
      "text": "greutatea totală nu influențează stabilitatea",
@@ -163,14 +163,14 @@
      "text": "greutatea totală mai mare poate reduce stabilitatea",
      "correct": false,
      "short": "",
-     "long": "Varianta contrazice regula din bancă, care marchează stabilitatea crescută.",
+     "long": "Varianta contrazice regula, care marchează stabilitatea crescută.",
      "warn": ""
     },
     {
      "text": "greutatea totală mai mare poate face zborul mai stabil",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -185,14 +185,14 @@
   {
    "number": "#6",
    "text": "804: Întreţinerea ULM ului se face:",
-   "short": "Varianta marcată în bancă este un text incomplet; răspunsul logic este că întreținerea se face înainte de fiecare zbor.",
-   "long": "Întrebarea din bancă are o eroare: varianta marcată ca fiind corectă repetă enunțul, fără să indice o opțiune. Răspunsul rezonabil, conform practicii de întreținere, este că verificarea se face înainte de fiecare zbor. Retine principiul, nu formularea din bancă.",
+   "short": "Varianta marcată este un text incomplet; răspunsul logic este că întreținerea se face înainte de fiecare zbor.",
+   "long": "Întrebarea are o eroare: varianta marcată ca fiind corectă repetă enunțul, fără să indice o opțiune. Răspunsul rezonabil, conform practicii de întreținere, este că verificarea se face înainte de fiecare zbor. Retine principiul, nu formularea.",
    "answers": [
     {
      "text": "Întreţinerea ULM ului se face:",
      "correct": true,
-     "short": "Întreținerea ULM-ului se face: (text incomplet din bancă).",
-     "long": "Varianta marcată în bancă este incompletă și nu poate fi evaluată; reține principiul din răspunsul logic.",
+     "short": "Întreținerea ULM-ului se face: (text incomplet).",
+     "long": "Varianta marcată este incompletă și nu poate fi evaluată; reține principiul din răspunsul logic.",
      "warn": "Textul marcat este incomplet și nu poate fi evaluat. Răspunsul corect este: întreținerea se face înainte de fiecare zbor."
     },
     {
@@ -242,7 +242,7 @@
      "text": "distribuie uniform greutatea pilotului și echipamentului",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -258,13 +258,13 @@
    "number": "#8",
    "text": "813: Ocolirea aerodromurilor în zbor VFR se execută obligatoriu la distanţe de cel puţin:",
    "short": "Ocolirea aerodromurilor în zbor VFR se face la cel puțin 10 km în sectoarele de decolare și aterizare.",
-   "long": "Zborul VFR trebuie să evite zonele de trafic aerodromului, în special sectoarele de decolare și aterizare, pentru a nu intra în conflict cu aeronavele care aterizează sau decolează. Distanța de 10 km este cea marcată în bancă; verifică-o în reglementarea aplicabilă.",
+   "long": "Zborul VFR trebuie să evite zonele de trafic aerodromului, în special sectoarele de decolare și aterizare, pentru a nu intra în conflict cu aeronavele care aterizează sau decolează. Distanța de 10 km este cea marcată; verifică-o în reglementarea aplicabilă.",
    "answers": [
     {
      "text": "10 km în sectoarele de decolare şi aterizare ale zonelor acestora",
      "correct": true,
      "short": "10 km în sectoarele de decolare și aterizare ale zonelor acestora.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -321,7 +321,7 @@
      "text": "umiditatea ridicată poate reduce eficiența combustibilului prin modificarea amestecului aer-combustibil",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -357,7 +357,7 @@
      "text": "reduce puterea motorului și portanța aripii",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -372,7 +372,7 @@
      "text": "anulați zborul și încercați să degresați/ spalați seleta cu detergenți ce nu afectează materialele din care este construită seleta, încât benzina poate afecta drastic rezistența și integritatea acesteia",
      "correct": true,
      "short": "Anulați zborul și încercați să degresați/spălați seleta cu detergenți care nu afectează materialele.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -429,7 +429,7 @@
      "text": "ca să reducem viteza la sol şi astfel să reducem distanta de decolare",
      "correct": true,
      "short": "Ca să reducem viteza la sol și astfel să reducem distanța de decolare.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -451,7 +451,7 @@
      "text": "RACR-RA",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -480,7 +480,7 @@
      "text": "un centru de greutate prea în față poate face zborul instabil",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -523,7 +523,7 @@
      "text": "cel puțin atunci când se efectuează zboruri în spațiu controlat ATC",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -552,7 +552,7 @@
      "text": "ajustați direcția de aterizare pentru a compensa vântul lateral",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -582,7 +582,7 @@
    "number": "#17",
    "text": "810: Care este ordinea de prioritate la aterizare:",
    "short": "Ordinea de prioritate la aterizare este paraşuta, apoi planorul, apoi motoparapanta.",
-   "long": "Prioritatea la aterizare se stabilește după manevrabilitatea și viteza fiecărei categorii. Parașutistul are prioritate, apoi planorul, iar motoparapanta cedează. Ordinea din bancă este cea marcată.",
+   "long": "Prioritatea la aterizare se stabilește după manevrabilitatea și viteza fiecărei categorii. Parașutistul are prioritate, apoi planorul, iar motoparapanta cedează. Ordinea este cea marcată.",
    "answers": [
     {
      "text": "parașuta, motoparapanta, planor",
@@ -595,7 +595,7 @@
      "text": "paraşuta, planor, motoparapanta",
      "correct": true,
      "short": "Parașuta, planor, motoparapanta.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -638,7 +638,7 @@
      "text": "să aveți o altitudine suficient de mare pentru a evita rotoarele în caz de vânt puternic",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -674,7 +674,7 @@
      "text": "aterizați imediat pentru a verifica și repara motorul",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -710,7 +710,7 @@
      "text": "aripa își pierde portanța și începe să coboare brusc",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -739,7 +739,7 @@
      "text": "renunțați la decolare și efectuați reparația rupturii și o inspecție amănunțită a întregii voaluri",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -789,7 +789,7 @@
      "text": "vântul de față reduce distanța de decolare necesară",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -818,7 +818,7 @@
      "text": "motorul poate pierde putere și se poate opri",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -861,7 +861,7 @@
      "text": "împachetați aripa cu grijă și utilizați huse de protecție",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -897,7 +897,7 @@
      "text": "răsăritul soarelui până la apus luate din AIP după ora aerodromului unde vă desfăşuraţi activitatea de zbor",
      "correct": true,
      "short": "Răsăritul soarelui până la apus, luate din AIP după ora aerodromului unde vă desfășurați activitatea de zbor.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -912,7 +912,7 @@
      "text": "în condiții de turbulență puternică",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -955,7 +955,7 @@
      "text": "direcția și intensitatea vântului, funcționarea motorului și aripa",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -991,7 +991,7 @@
      "text": "anulați decolarea și efectuați o inspecție complexă în căutarea și remedierea defectului",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1027,7 +1027,7 @@
      "text": "vă continuați zborul prudent asigurându-vă că nu eliberați mânerul de comandă din mână pe tot parcursul zborului până la aterizare",
      "correct": true,
      "short": "Vă continuați zborul prudent, asigurându-vă că nu eliberați mânerul de comandă pe tot parcursul zborului până la aterizare.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1056,7 +1056,7 @@
      "text": "motorul poate pierde putere și eficiență",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1106,7 +1106,7 @@
      "text": "aterizați imediat și verificați motorul",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1128,7 +1128,7 @@
      "text": "a vă seta stația pe frecvența solicitată",
      "correct": false,
      "short": "",
-     "long": "Este un pas, nu obligația principală din bancă.",
+     "long": "Este un pas, nu obligația principală.",
      "warn": ""
     },
     {
@@ -1149,7 +1149,7 @@
      "text": "a vă informa asupra cerințelor, limitărilor și restricțiilor aplicabile publicate",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -1171,7 +1171,7 @@
      "text": "la altitudini mai mari, densitatea aerului scade, ceea ce poate reduce portanța",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1200,7 +1200,7 @@
      "text": "capacitatea de portanță scade la altitudini mai mari",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1236,7 +1236,7 @@
      "text": "regulile de zbor la vedere",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1279,7 +1279,7 @@
      "text": "aterizați imediat și verificați motorul pentru a identifica cauza vibrațiilor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1329,7 +1329,7 @@
      "text": "reduce viteza de zbor prin creșterea rezistenței aerodinamice",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -1351,7 +1351,7 @@
      "text": "poate reduce stabilitatea și manevrabilitatea aripii",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1380,7 +1380,7 @@
      "text": "reguli de zbor VFR",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1423,7 +1423,7 @@
      "text": "în cazul în care nu puteți ateriza imediat puneți comenzile în capse/ magneți și căutați să asigurați/ conectați cârligul deconectat încât acesta poate ajunge la elice și poate provoca daune",
      "correct": true,
      "short": "În cazul în care nu puteți ateriza imediat, puneți comenzile în capse/magneți și căutați să asigurați/conectați cârligul deconectat, încât acesta poate ajunge la elice și poate provoca daune.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1446,7 +1446,7 @@
    "number": "#41",
    "text": "795: Odată cu creșterea altitudinii viteza de stall va:",
    "short": "Odată cu creșterea altitudinii, viteza de stall crește.",
-   "long": "Viteza de stall indicată (IAS) rămâne aproximativ aceeași, dar viteza reală (TAS) crește la altitudine, din cauza aerului rarefiat. Pentru pilot, viteza de stall pe care o citește pe instrument nu se schimbă mult, dar viteza reală necesară creste. Banca marchează creșterea.",
+   "long": "Viteza de stall indicată (IAS) rămâne aproximativ aceeași, dar viteza reală (TAS) crește la altitudine, din cauza aerului rarefiat. Pentru pilot, viteza de stall pe care o citește pe instrument nu se schimbă mult, dar viteza reală necesară creste. Varianta marcată indică creșterea.",
    "answers": [
     {
      "text": "rămâne neschimbată",
@@ -1459,7 +1459,7 @@
      "text": "crește",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă, în sensul vitezei reale.",
+     "long": "Este varianta marcată, în sensul vitezei reale.",
      "warn": ""
     },
     {
@@ -1495,7 +1495,7 @@
      "text": "ajustarea trimului poate modifica unghiul de atac al aripii",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1524,7 +1524,7 @@
      "text": "viteza verticală de urcare sau de coborâre",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1567,7 +1567,7 @@
      "text": "scădea",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1603,7 +1603,7 @@
      "text": "aripa poate începe să oscileze și să devină instabilă",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1646,7 +1646,7 @@
      "text": "motorul poate funcționa mai eficient datorită aerului mai dens",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1689,7 +1689,7 @@
      "text": "trebuie să alergăm mai tare pentru a decola",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -1704,7 +1704,7 @@
      "text": "cresteti puterea motorului",
      "correct": true,
      "short": "Creșteți puterea motorului.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1761,7 +1761,7 @@
      "text": "o densitate scăzută a aerului poate reduce puterea motorului și portanța aripii",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -1797,7 +1797,7 @@
      "text": "scade performanța motorului",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -1812,7 +1812,7 @@
      "text": "poate provoca vibrații excesive și deteriorarea motorului",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1848,7 +1848,7 @@
      "text": "greutatea mai mare poate reduce viteza de urcare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1884,7 +1884,7 @@
      "text": "da, punctul de acroșare trebuie reglat pentru greutate specifică a pilotului deoarece influențează în mod direct unghiul elicei față de vântul relativ",
      "correct": true,
      "short": "Da, punctul de acroșare trebuie reglat pentru greutatea specifică a pilotului, deoarece influențează în mod direct unghiul elicei față de vântul relativ.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1941,7 +1941,7 @@
      "text": "mai slabă ca de obicei",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -1970,7 +1970,7 @@
      "text": "pentru a asigura că elicea este bine fixată și nu are fisuri sau alte daune",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1999,7 +1999,7 @@
      "text": "aterizați imediat și inspectați aripa pentru a identifica problema",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2035,7 +2035,7 @@
      "text": "poziția corectă asigură o decolare lină și eficientă",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2071,7 +2071,7 @@
      "text": "încheiați activitatea de zbor și efectuați înlocuirea supantelor",
      "correct": true,
      "short": "Încheiați activitatea de zbor și efectuați înlocuirea suspantelor.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2121,7 +2121,7 @@
      "text": "vântul de față reduce distanța de aterizare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -2143,7 +2143,7 @@
      "text": "motorul poate pierde din putere și eficiență",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2166,7 +2166,7 @@
    "number": "#61",
    "text": "808: Ce efect are un vânt de coadă asupra timpului de urcare la o înălţime dată:",
    "short": "Un vânt de coadă nu modifică timpul de urcare la o înălțime dată, față de aer.",
-   "long": "Viteza de urcare față de aer nu depinde de vântul de coadă, deci timpul de urcare până la o altitudine rămâne același. Vântul modifică doar traiectul față de sol. Banca marchează varianta că timpul nu se modifică.",
+   "long": "Viteza de urcare față de aer nu depinde de vântul de coadă, deci timpul de urcare până la o altitudine rămâne același. Vântul modifică doar traiectul față de sol. Varianta marcată indică varianta că timpul nu se modifică.",
    "answers": [
     {
      "text": "timpul de urcare se măreşte",
@@ -2193,7 +2193,7 @@
      "text": "timpul de urcare nu se modifică",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -2222,7 +2222,7 @@
      "text": "nu este permis",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2251,7 +2251,7 @@
      "text": "verificați aripa și echipamentul pentru a identifica cauza",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2280,7 +2280,7 @@
      "text": "un unghi de atac mai mare poate crește portanța, dar și rezistența aerodinamică",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2316,7 +2316,7 @@
      "text": "anulați decolarea și verificați suspantele și aripa",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2346,13 +2346,13 @@
    "number": "#66",
    "text": "803: Pentru cât timp putem păstra un amestec ulei-benzină:",
    "short": "Un amestec ulei-benzină se poate păstra cel mult 15 zile.",
-   "long": "Uleiul se separă și benzina se degradează, deci amestecul trebuie preparat proaspăt. Banca marchează 15 zile. Sursele consultate recomandă amestecarea în cantități mici și utilizarea într-un interval scurt, de ordinul a două săptămâni.",
+   "long": "Uleiul se separă și benzina se degradează, deci amestecul trebuie preparat proaspăt. Varianta marcată indică 15 zile. Sursele consultate recomandă amestecarea în cantități mici și utilizarea într-un interval scurt, de ordinul a două săptămâni.",
    "answers": [
     {
      "text": "15 zile",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă, apropiată de recomandările consultate.",
+     "long": "Este varianta marcată, apropiată de recomandările consultate.",
      "warn": ""
     },
     {
@@ -2395,7 +2395,7 @@
      "text": "crește",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2438,7 +2438,7 @@
      "text": "anulați zborul și reparați/înlocuii elicea",
      "correct": true,
      "short": "Anulați zborul și reparați/înlocuiți elicea.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2481,7 +2481,7 @@
      "text": "interzisă zborului",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -2490,7 +2490,7 @@
    "number": "#70",
    "text": "858: Ce efect are umiditatea asupra capacității de ridicare a aripii?",
    "short": "Umiditatea reduce capacitatea de ridicare a aripii, din cauza aerului mai dens.",
-   "long": "Varianta marcată în bancă are un raționament greșit: aerul umed este mai puțin dens decât aerul uscat, deoarece vaporii de apă sunt mai ușori decât azotul și oxigenul. Umiditatea afectează mai ales motorul, nu densitatea în sensul descris. Tratează varianta din bancă cu atenție și verifică sursa.",
+   "long": "Varianta marcată are un raționament greșit: aerul umed este mai puțin dens decât aerul uscat, deoarece vaporii de apă sunt mai ușori decât azotul și oxigenul. Umiditatea afectează mai ales motorul, nu densitatea în sensul descris. Tratează varianta cu atenție și verifică sursa.",
    "answers": [
     {
      "text": "crește capacitatea de ridicare din cauza aerului mai ușor",
@@ -2517,7 +2517,7 @@
      "text": "reduce capacitatea de ridicare din cauza aerului mai dens",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă, dar raționamentul este greșit: aerul umed este mai puțin dens.",
+     "long": "Este varianta marcată, dar raționamentul este greșit: aerul umed este mai puțin dens.",
      "warn": "Raționament greșit: aerul umed este mai puțin dens decât aerul uscat, deoarece vaporii de apă sunt mai ușori decât azotul și oxigenul. Umiditatea nu reduce portanța prin densitate mai mare."
     }
    ]
@@ -2546,7 +2546,7 @@
      "text": "motorul poate pierde din putere și eficiență",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2582,7 +2582,7 @@
      "text": "efectuați o inspecție completă a aripii, motorului și suspantelor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2618,7 +2618,7 @@
      "text": "poate reduce portanța și eficiența aripii",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2634,7 +2634,7 @@
    "number": "#74",
    "text": "879: Cum influențează umiditatea scăzută consumul de combustibil?",
    "short": "Umiditatea scăzută poate crește consumul de combustibil, prin modificarea amestecului aer-combustibil.",
-   "long": "Răspunsul marcat în bancă este discutabil. În general, umiditatea modifică amestecul, iar efectul ei asupra consumului depinde de motor și de setări. Verifică sursa și manualul motorului înainte să reții această relație.",
+   "long": "Răspunsul marcat este discutabil. În general, umiditatea modifică amestecul, iar efectul ei asupra consumului depinde de motor și de setări. Verifică sursa și manualul motorului înainte să reții această relație.",
    "answers": [
     {
      "text": "umiditatea nu influențează consumul de combustibil",
@@ -2661,7 +2661,7 @@
      "text": "umiditatea scăzută poate crește consumul de combustibil prin modificarea amestecului aer-combustibil",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă; verifică sursa.",
+     "long": "Este varianta marcată; verifică sursa.",
      "warn": ""
     }
    ]
@@ -2690,7 +2690,7 @@
      "text": "aterizați cât mai curând posibil pentru a inspecta și repara sistemul",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2726,7 +2726,7 @@
      "text": "vântul relativ",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2762,7 +2762,7 @@
      "text": "mai mare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2778,7 +2778,7 @@
    "number": "#78",
    "text": "849: Ce efect are altitudinea asupra consumului de combustibil în timpul zborului?",
    "short": "Altitudinea crește consumul de combustibil, din cauza aerului mai rarefiat.",
-   "long": "Răspunsul marcat în bancă este discutabil. La altitudine, motorul pierde putere, iar consumul depinde de regimul setat și de amestec. Verifică sursa și manualul motorului înainte să reții această relație.",
+   "long": "Răspunsul marcat este discutabil. La altitudine, motorul pierde putere, iar consumul depinde de regimul setat și de amestec. Verifică sursa și manualul motorului înainte să reții această relație.",
    "answers": [
     {
      "text": "crește consumul de combustibil doar la altitudini extrem de mari",
@@ -2805,7 +2805,7 @@
      "text": "crește consumul de combustibil din cauza aerului mai rarefiat",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă; verifică sursa.",
+     "long": "Este varianta marcată; verifică sursa.",
      "warn": ""
     }
    ]
@@ -2814,13 +2814,13 @@
    "number": "#79",
    "text": "882: Cum influențează densitatea aerului stabilitatea aripii în timpul zborului?",
    "short": "O densitate mai mare a aerului poate crește stabilitatea aripii.",
-   "long": "Aerul mai dens produce mai multă portanță și forțe mai mari pe aripă, ceea ce poate crește stabilitatea față de rafale. Banca marchează această relație. Efectul este moderat și depinde de condiții.",
+   "long": "Aerul mai dens produce mai multă portanță și forțe mai mari pe aripă, ceea ce poate crește stabilitatea față de rafale. Varianta marcată indică această relație. Efectul este moderat și depinde de condiții.",
    "answers": [
     {
      "text": "o densitate mai mare a aerului poate crește stabilitatea aripii",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2863,7 +2863,7 @@
      "text": "răsăritul soarelui până la apus luate din AIP după ora aerodromului unde vă desfăşuraţi activitatea de zbor",
      "correct": true,
      "short": "Răsăritul soarelui până la apus, luate din AIP după ora aerodromului unde vă desfășurați activitatea de zbor.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2899,7 +2899,7 @@
      "text": "oferă o soluție de siguranță în cazul unei defecțiuni",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2935,7 +2935,7 @@
      "text": "opriți imediat zborul și reparați fisura înainte de a continua",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2964,7 +2964,7 @@
      "text": "ca să reducem viteza la sol şi astfel să reducem distanta de decolare",
      "correct": true,
      "short": "Ca să reducem viteza la sol și astfel să reducem distanța de decolare.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -3021,7 +3021,7 @@
      "text": "unghiul de planare va creşte şi distanţa de planare va descreşte",
      "correct": true,
      "short": "Unghiul de planare va crește și distanța de planare va descrește.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -3050,7 +3050,7 @@
      "text": "o elice murdară poate reduce eficiența motorului prin creșterea rezistenței aerodinamice",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -3093,7 +3093,7 @@
      "text": "vântul de faţă reduce distanţa",
      "correct": true,
      "short": "Vântul de față reduce distanța.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -3129,7 +3129,7 @@
      "text": "direcția și intensitatea vântului, starea terenului și echipamentul",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -3158,7 +3158,7 @@
      "text": "modifică unghiul de incidenţă",
      "correct": true,
      "short": "Modifică unghiul de incidență.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -3194,7 +3194,7 @@
      "text": "modifică viteza de zbor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -3237,7 +3237,7 @@
      "text": "perpendiculară pe direcţia de zbor",
      "correct": true,
      "short": "Perpendiculară pe direcția de zbor.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -3273,7 +3273,7 @@
      "text": "identificarea și remedierea oricăror probleme ale echipamentului înainte de zbor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -3295,7 +3295,7 @@
      "text": "în manualul de exploatare şi întreţinere (documentaţia tehnică a aeronavei)",
      "correct": true,
      "short": "În manualul de exploatare și întreținere (documentația tehnică a aeronavei).",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -3345,7 +3345,7 @@
      "text": "opriți imediat zborul și înlocuiți cablul deteriorat",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -3381,7 +3381,7 @@
      "text": "un unghi de atac mai mare poate crește viteza de ascensiune, dar și rezistența aerodinamică",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -3410,7 +3410,7 @@
      "text": "continua zborul până la cel mai apropiat aerodrom şi după aterizare informează telefonic organul de trafic",
      "correct": true,
      "short": "Continuă zborul până la cel mai apropiat aerodrom și după aterizare informează telefonic organul de trafic.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -3439,7 +3439,7 @@
      "text": "poate face zborul instabil și dificil de controlat",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -3468,7 +3468,7 @@
      "text": "curenții ascendenți pot prelungi durata zborului prin furnizarea de lift suplimentar",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -3525,7 +3525,7 @@
      "text": "prin sistemul de speed și prin trimere",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -3540,7 +3540,7 @@
      "text": "anulați decolarea și verificați aripa și echipamentul",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -3597,7 +3597,7 @@
      "text": "aterizați cât mai curând posibil și verificați motorul și sistemul de alimentare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -3619,7 +3619,7 @@
      "text": "direcția și intensitatea vântului",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {

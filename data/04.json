@@ -42,13 +42,13 @@
    "number": "#2",
    "text": "225: Temperatura la sol este de 20 de grade, care este temperatura probabilă la înălțimea de 2000 m?",
    "short": "Dacă temperatura la sol este de 20°C, la 2000 m temperatura probabilă este de aproximativ 8°C.",
-   "long": "În atmosfera standard, temperatura scade cu aproximativ 6,5°C la fiecare 1000 m. Pe 2000 m scade cu aproximativ 13°C, deci de la 20°C ajungem la aproximativ 7°C. Valoarea din bancă (8°C) este o estimare apropiată, fiindcă gradientul real variază.",
+   "long": "În atmosfera standard, temperatura scade cu aproximativ 6,5°C la fiecare 1000 m. Pe 2000 m scade cu aproximativ 13°C, deci de la 20°C ajungem la aproximativ 7°C. Valoarea (8°C) este o estimare apropiată, fiindcă gradientul real variază.",
    "answers": [
     {
      "text": "8 grd. C",
      "correct": true,
      "short": "8°C.",
-     "long": "Este valoarea din bancă, o estimare apropiată de gradientul mediu.",
+     "long": "Este valoarea, o estimare apropiată de gradientul mediu.",
      "warn": ""
     },
     {
@@ -113,14 +113,14 @@
   {
    "number": "#4",
    "text": "297: Care sunt valorile treptei barice?",
-   "short": "Toate valorile din bancă pentru treapta barică sunt corecte.",
+   "short": "Toate valorile pentru treapta barică sunt corecte.",
    "long": "Treapta barică este distanța verticală la care presiunea scade cu 1 hPa (mb). La nivelul mării este de aproximativ 8,4 m, iar cu altitudinea crește, deci la altitudini mari sunt necesari mai mulți metri pentru aceeași scădere. Cele trei variante descriu aceste valori în funcție de altitudine.",
    "answers": [
     {
      "text": "toate sunt corecte",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă, în acord cu variația treptei barice cu altitudinea.",
+     "long": "Este varianta marcată, în acord cu variația treptei barice cu altitudinea.",
      "warn": ""
     },
     {
@@ -379,7 +379,7 @@
      "text": "amplitudinea termică descrie variația temperaturii pe parcursul a 24 de ore",
      "correct": true,
      "short": "Variația temperaturii pe parcursul a 24 de ore.",
-     "long": "Este descrierea corectă, din bancă.",
+     "long": "Este descrierea corectă.",
      "warn": ""
     },
     {
@@ -393,7 +393,7 @@
      "text": "amplitudinea termică este diferența dintre temperatura maximă și cea minimă într-un anumit loc",
      "correct": false,
      "short": "Diferența dintre temperatura maximă și cea minimă într-un anumit loc.",
-     "long": "Este definiția corectă, fiind echivalentă cu varianta din bancă.",
+     "long": "Este definiția corectă, fiind echivalentă cu varianta.",
      "warn": ""
     }
    ]
@@ -761,8 +761,8 @@
   {
    "number": "#22",
    "text": "272: Pe panta următoare, veţi găsi cei mai buni curenți ascendenţi de dinamică:",
-   "short": "Cei mai buni curenți ascendenți dinamici se găsesc pe panta 1, conform figurii din bancă.",
-   "long": "Curenții dinamici apar pe pantele expuse vântului, unde aerul este forțat să urce. Alegerea pantei depinde de direcția vântului față de versant. Verifică figura din bancă, deoarece varianta marcată depinde de desen.",
+   "short": "Cei mai buni curenți ascendenți dinamici se găsesc pe panta 1, conform figurii.",
+   "long": "Curenții dinamici apar pe pantele expuse vântului, unde aerul este forțat să urce. Alegerea pantei depinde de direcția vântului față de versant. Verifică figura, deoarece varianta marcată depinde de desen.",
    "answers": [
     {
      "text": "în 1 si 2",
@@ -775,7 +775,7 @@
      "text": "în 1 si 2",
      "correct": false,
      "short": "În 1.",
-     "long": "Varianta marcată în bancă; depinde de figură.",
+     "long": "Varianta marcată; depinde de figură.",
      "warn": ""
     },
     {
@@ -789,7 +789,7 @@
      "text": "în 2",
      "correct": false,
      "short": "În 1 și 2.",
-     "long": "Varianta este dublată în bancă și nu este cea marcată.",
+     "long": "Varianta este dublată și nu este cea marcată.",
      "warn": ""
     }
    ]
@@ -1014,7 +1014,7 @@
    "number": "#29",
    "text": "273: Veţi întâlni turbulenţe ce pot fi periculoase în cazul în care zburaţi prea aproape de relief",
    "short": "Turbulențe periculoase apar când zbori prea aproape de relief, în zonele 3 și 4 din figură.",
-   "long": "Turbulențele puternice apar în zonele aflate sub vânt și în apropierea reliefului accidentat. Zonele indicate în figura din bancă sunt 3 și 4. Verifică figura pentru poziția exactă.",
+   "long": "Turbulențele puternice apar în zonele aflate sub vânt și în apropierea reliefului accidentat. Zonele indicate în figura sunt 3 și 4. Verifică figura pentru poziția exactă.",
    "answers": [
     {
      "text": "în 1",
@@ -1027,7 +1027,7 @@
      "text": "în 3 şi 4",
      "correct": true,
      "short": "În 3 și 4.",
-     "long": "Varianta marcată în bancă; depinde de figură.",
+     "long": "Varianta marcată; depinde de figură.",
      "warn": ""
     },
     {
@@ -1070,7 +1070,7 @@
      "text": "zburăm cu con de siguranță care ne permite să aterizăm în caz de urgență într-o zonă anterioară munților sau după ei",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1092,7 +1092,7 @@
      "text": "vânt catabatic",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1122,7 +1122,7 @@
    "number": "#32",
    "text": "290: Conform legii lui Buys Ballot, dacă deriva este spre dreapta, ne îndreptăm înspre o zonă cu presiune:",
    "short": "Conform legii lui Buys Ballot, dacă deriva este spre dreapta, ne îndreptăm spre o zonă cu presiune scăzută.",
-   "long": "Legea lui Buys Ballot (emisfera nordică): stând cu vântul în spate, presiunea scăzută se află în stânga. Banca marchează presiunea scăzută ca zonă spre care se îndreaptă deriva spre dreapta, în conformitate cu această regulă.",
+   "long": "Legea lui Buys Ballot (emisfera nordică): stând cu vântul în spate, presiunea scăzută se află în stânga. Varianta marcată indică presiunea scăzută ca zonă spre care se îndreaptă deriva spre dreapta, în conformitate cu această regulă.",
    "answers": [
     {
      "text": "constantă",
@@ -1142,7 +1142,7 @@
      "text": "scazută",
      "correct": true,
      "short": "Scăzută.",
-     "long": "Varianta marcată în bancă.",
+     "long": "Varianta marcată.",
      "warn": ""
     },
     {
@@ -1230,20 +1230,20 @@
    "number": "#35",
    "text": "307: Atmosfera standard internațională definește o scădere a presiunii atmosferice pe măsură ce înălțimea crește. Pentru piloții de aviație generală, aceasta este de aproximativ:",
    "short": "La nivelul mării, presiunea standard este 1013 hPa, iar presiunea scade cu aproximativ 1 hPa pe fiecare 30 ft (aproximativ 8 m) în straturile joase.",
-   "long": "Varianta din bancă, „1015 hPa scăzând cu 30 hPa la 100 ft”, este greșită: 30 hPa pe 100 ft ar însemna o scădere de sute de hPa pe câțiva metri. Regula pilotului este 1 hPa la aproximativ 30 ft, iar presiunea standard la nivelul mării este 1013,25 hPa. Întrebarea din bancă conține o eroare.",
+   "long": "Varianta, „1015 hPa scăzând cu 30 hPa la 100 ft”, este greșită: 30 hPa pe 100 ft ar însemna o scădere de sute de hPa pe câțiva metri. Regula pilotului este 1 hPa la aproximativ 30 ft, iar presiunea standard la nivelul mării este 1013,25 hPa. Întrebarea conține o eroare.",
    "answers": [
     {
      "text": "1013 hPa MSL scăzând cu 1hPa pe 30 ft",
      "correct": false,
      "short": "1013 hPa MSL, scăzând cu 1 hPa pe 30 ft.",
-     "long": "Aceasta se apropie de regula corectă, dar nu este varianta marcată în bancă.",
+     "long": "Aceasta se apropie de regula corectă, dar nu este varianta marcată.",
      "warn": ""
     },
     {
      "text": "1015 hPa MSL scăzând cu 30 hPa per 100 ft",
      "correct": true,
      "short": "1015 hPa MSL, scăzând cu 30 hPa pe 100 ft.",
-     "long": "Varianta marcată în bancă, dar greșită: scăderea de 30 hPa pe 100 ft este imposibilă.",
+     "long": "Varianta marcată, dar greșită: scăderea de 30 hPa pe 100 ft este imposibilă.",
      "warn": "Răspunsul marcat este greșit: presiunea standard la nivelul mării este 1013,25 hPa, iar în straturile joase presiunea scade cu aproximativ 1 hPa la fiecare 30 ft (circa 8–9 m). Scăderea de 30 hPa la 100 ft nu are sens."
     },
     {
@@ -1302,13 +1302,13 @@
    "number": "#37",
    "text": "301: Care este densitatea atmosferei ISA?",
    "short": "Densitatea atmosferei ISA la nivelul mării este de 1,225 kg/m³, adică 1225 g/m³.",
-   "long": "Varianta din bancă, 1,225 g/m³, are o eroare de unitate: valoarea corectă este 1,225 kg/m³ (adică 1225 g/m³, cum apare la întrebarea 61). Răspunsul marcat din bancă are deci unitatea greșită. Reține valoarea 1,225 kg/m³.",
+   "long": "Varianta, 1,225 g/m³, are o eroare de unitate: valoarea corectă este 1,225 kg/m³ (adică 1225 g/m³, cum apare la întrebarea 61). Răspunsul marcat are deci unitatea greșită. Reține valoarea 1,225 kg/m³.",
    "answers": [
     {
      "text": "densitatea atmosferei ISA la nivelul mării este de 1.225 g/m³",
      "correct": true,
      "short": "Densitatea atmosferei ISA la nivelul mării este de 1,225 g/m³.",
-     "long": "Varianta marcată în bancă, dar cu unitate greșită (valoarea corectă este 1,225 kg/m³).",
+     "long": "Varianta marcată, dar cu unitate greșită (valoarea corectă este 1,225 kg/m³).",
      "warn": "Unitatea este greșită: densitatea aerului ISA la nivelul mării este 1,225 kg/m³, adică 1225 g/m³. Varianta cu 1,225 g/m³ are unitatea greșită."
     },
     {
@@ -1410,7 +1410,7 @@
    "number": "#40",
    "text": "278: Frontul rece de ordinul 2 este?",
    "short": "Frontul rece de ordinul 2 este frontul în care, de-a lungul părții superioare a suprafeței sale, se observă descendența aerului cald.",
-   "long": "Frontul rece de ordinul II (cu aer cald în ascensiune pe suprafața frontală) are aer cald care coboară pe partea superioară a frontului. Banca marchează această descriere. Pentru detalii consultă un manual de meteorologie.",
+   "long": "Frontul rece de ordinul II (cu aer cald în ascensiune pe suprafața frontală) are aer cald care coboară pe partea superioară a frontului. Varianta marcată indică această descriere. Pentru detalii consultă un manual de meteorologie.",
    "answers": [
     {
      "text": "frontul rece de ordinul II este frontul caracterizat prin nebulozitatea și precipitațiile de lungă durată",
@@ -1437,7 +1437,7 @@
      "text": "frontul rece de ordinul II este frontul în care de-a lungul părții superioare a suprafeței acestuia se observă descendența aerului cald",
      "correct": true,
      "short": "Frontul în care de-a lungul părții superioare a suprafeței se observă descendența aerului cald.",
-     "long": "Varianta marcată în bancă.",
+     "long": "Varianta marcată.",
      "warn": ""
     }
    ]
@@ -1553,8 +1553,8 @@
   {
    "number": "#44",
    "text": "275: Indicaţi zonele cu “umbre de vânt”:",
-   "short": "Zonele cu umbre de vânt sunt marcate cu d în figura din bancă.",
-   "long": "Umbrele de vânt apar în spatele obstacolelor, pe partea de sub vânt. Figura din bancă arată zonele, iar varianta marcată este d. Verifică figura pentru a vedea cum se aplică.",
+   "short": "Zonele cu umbre de vânt sunt marcate cu d în figura.",
+   "long": "Umbrele de vânt apar în spatele obstacolelor, pe partea de sub vânt. Figura arată zonele, iar varianta marcată este d. Verifică figura pentru a vedea cum se aplică.",
    "answers": [
     {
      "text": "b",
@@ -1574,7 +1574,7 @@
      "text": "d",
      "correct": true,
      "short": "",
-     "long": "Varianta marcată în bancă; depinde de figură.",
+     "long": "Varianta marcată; depinde de figură.",
      "warn": ""
     },
     {
@@ -1734,7 +1734,7 @@
    "number": "#49",
    "text": "220: Este ora 13 într-o zi de vară caldă cu cer senin. Cum abordăm zborul cu parapanta cu motor în acestă situație:",
    "short": "La ora 13, într-o zi de vară cu cer senin, zborul cu paramotorul nu este interzis, dar nu este recomandat, din cauza termicelor care pot închide aripa.",
-   "long": "În această situație, termicele puternice pot închide aripa și pot duce la pierderea controlului. Zborul nu este interzis, dar cere atenție sporită și o înțelegere a comportamentului aripii în termice. Varianta din bancă reflectă această abordare.",
+   "long": "În această situație, termicele puternice pot închide aripa și pot duce la pierderea controlului. Zborul nu este interzis, dar cere atenție sporită și o înțelegere a comportamentului aripii în termice. Varianta reflectă această abordare.",
    "answers": [
     {
      "text": "decolăm, dar nu ne ridicăm la înălțime mare și nu traversăm munți",
@@ -1754,7 +1754,7 @@
      "text": "acest zbor nu este interzis, însă nu este recomandat, trebuie acordată atenție sporită controlului parapantei încât curenții ascendenți termici pot cauza închideri necontrolate ale aripii",
      "correct": true,
      "short": "Acest zbor nu este interzis, însă nu este recomandat; trebuie acordată atenție sporită controlului aripii, pentru că termicele pot cauza închideri necontrolate.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1790,7 +1790,7 @@
      "text": "vijeliile sunt asociate cu fronturile reci de ordinul II",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1819,7 +1819,7 @@
      "text": "norii sunt împărțiți în stratus, cirrus și cumulus pe baza formei lor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -1884,7 +1884,7 @@
      "text": "vijeliile sunt însoțite de un salt brusc al presiunii și de intensificarea vântului",
      "correct": true,
      "short": "",
-     "long": "Este caracteristica marcată în bancă.",
+     "long": "Este caracteristica marcată.",
      "warn": ""
     },
     {
@@ -1914,13 +1914,13 @@
    "number": "#54",
    "text": "261: În cursul zborului, un fenomen orajos poate fi evitat prin:",
    "short": "Norii de tip CB se ocolesc la o distanță de minim 10 km, iar pentru furtunile puternice se mărește distanța la minim 37 km.",
-   "long": "Distanțele sunt cele din bancă și sunt orientative. Cumulonimbusul produce turbulență, grindină, fulgere și rafale. Evitarea lui trebuie făcută cu distanță sigură și verificarea prognozei înainte de zbor. Verifică valorile din procedurile aplicabile.",
+   "long": "Distanțele sunt orientative. Cumulonimbusul produce turbulență, grindină, fulgere și rafale. Evitarea lui trebuie făcută cu distanță sigură și verificarea prognozei înainte de zbor. Verifică valorile din procedurile aplicabile.",
    "answers": [
     {
      "text": "ocolirea norilor de tip CB la o distanță de minim 10 km și minim 37 km pentru orajele puternice",
      "correct": true,
      "short": "",
-     "long": "Varianta marcată în bancă; verifică valorile din procedurile aplicabile.",
+     "long": "Varianta marcată; verifică valorile din procedurile aplicabile.",
      "warn": ""
     },
     {
@@ -1956,7 +1956,7 @@
      "text": "vântul catabatic",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2373,7 +2373,7 @@
      "text": "este un vânt ascendent ce apare dimineața",
      "correct": false,
      "short": "Un vânt ascendent care apare dimineața.",
-     "long": "Varianta este dublată în bancă și descrie anabaticul.",
+     "long": "Varianta este dublată și descrie anabaticul.",
      "warn": ""
     }
    ]
@@ -2381,8 +2381,8 @@
   {
    "number": "#67",
    "text": "252: Zburaţi pe vânt laminar de aproximativ 15km/h, efectuaţi un viraj de 360º cu înclinare şi viteză constante. Care este traiectoria dvs. faţă de sol?",
-   "short": "Pe vânt laminar de 15 km/h, un viraj de 360° la viteză și înclinare constante lasă o traiectorie față de sol în formă de buclă, descrisă de figura c din bancă.",
-   "long": "Vântul deplasează aeronava în timpul virajului, deci traiectoria față de sol nu este un cerc perfect, ci o buclă sau o curbă deplasată în direcția vântului. Figura c din bancă ilustrează această traiectorie. Verifică desenul pentru a vedea diferența față de a și b.",
+   "short": "Pe vânt laminar de 15 km/h, un viraj de 360° la viteză și înclinare constante lasă o traiectorie față de sol în formă de buclă, descrisă de figura c.",
+   "long": "Vântul deplasează aeronava în timpul virajului, deci traiectoria față de sol nu este un cerc perfect, ci o buclă sau o curbă deplasată în direcția vântului. Figura c ilustrează această traiectorie. Verifică desenul pentru a vedea diferența față de a și b.",
    "answers": [
     {
      "text": "b",
@@ -2402,7 +2402,7 @@
      "text": "c",
      "correct": true,
      "short": "",
-     "long": "Varianta marcată în bancă; depinde de figură.",
+     "long": "Varianta marcată; depinde de figură.",
      "warn": ""
     },
     {
@@ -2474,7 +2474,7 @@
      "text": "schimbări bruște ale capului compas, ratei de viraj, turației motorului și temperaturii ambientale",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2490,13 +2490,13 @@
    "number": "#70",
    "text": "277: Frontul rece de ordinul 1 este?",
    "short": "Frontul rece de ordinul I este frontul în care, de-a lungul întregii suprafețe frontale, se observă ascensiunea aerului cald.",
-   "long": "La frontul rece de ordinul I, aerul cald este împins în sus pe toată suprafața frontului. Este un front cu nori cumuliformi și precipitații intense, dar descrierea din bancă se referă la ascensiunea aerului cald pe toată suprafața.",
+   "long": "La frontul rece de ordinul I, aerul cald este împins în sus pe toată suprafața frontului. Este un front cu nori cumuliformi și precipitații intense, dar descrierea se referă la ascensiunea aerului cald pe toată suprafața.",
    "answers": [
     {
      "text": "frontul rece de ordinul I este frontul în care de-a lungul întregii suprafețe frontale a acestuia se observă ascensiunea aerului cald",
      "correct": true,
      "short": "Frontul în care de-a lungul întregii suprafețe frontale se observă ascensiunea aerului cald.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2589,7 +2589,7 @@
      "text": "în umbra vântului sub nivelul crestei versantului stâng",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -2598,13 +2598,13 @@
    "number": "#73",
    "text": "267: Un vânt calm şi laminar, de 10 km/h suflă la altitudine deasupra zonei de aterizare:",
    "short": "Viteza vântului la sol depinde de topografia terenului, chiar dacă vântul de la altitudine este calm și laminar.",
-   "long": "Relieful, obstacolele și rugozitatea solului modifică vântul la sol. Un vânt de 10 km/h în altitudine poate fi diferit la sol. Varianta din bancă ține cont de aceste efecte.",
+   "long": "Relieful, obstacolele și rugozitatea solului modifică vântul la sol. Un vânt de 10 km/h în altitudine poate fi diferit la sol. Varianta ține cont de aceste efecte.",
    "answers": [
     {
      "text": "viteza vântului la sol depinde de topografia terenului",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2661,7 +2661,7 @@
      "text": "modifica viteza motoparapantei faţă de sol",
      "correct": true,
      "short": "Modifică viteza motoparapantei față de sol.",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -2683,7 +2683,7 @@
      "text": "ne ajută să observăm mișcarea fronturilor atmosferice și ne ajută să ne planificăm zborul în siguranță, evaluând evoluția acestora",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2748,7 +2748,7 @@
      "text": "temperatura (°C) și umiditatea specifică (g/kg)",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -2814,7 +2814,7 @@
    "number": "#79",
    "text": "313: Treapta barică, de la nivelul mării până la 5000 ft., scade cu?",
    "short": "Între nivelul mării și 5000 ft, treapta barică este de aproximativ 1 hPa la fiecare 30 ft.",
-   "long": "Corect: regula pilotului este 1 hPa la aproximativ 30 ft în straturile joase, adică 1 hPa la aproximativ 8–9 m. Varianta din bancă este cea corectă, spre deosebire de întrebarea 35, unde banca are o eroare.",
+   "long": "Corect: regula pilotului este 1 hPa la aproximativ 30 ft în straturile joase, adică 1 hPa la aproximativ 8–9 m. Varianta este cea corectă, spre deosebire de întrebarea 35, unde varianta marcată are o eroare.",
    "answers": [
     {
      "text": "1 milibar pentru fiecare 1000 ft.",
@@ -2827,7 +2827,7 @@
      "text": "1 milibar pentru fiecare 30 ft.",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă și corespunde regulii pilotului.",
+     "long": "Este varianta marcată și corespunde regulii pilotului.",
      "warn": ""
     },
     {
@@ -2849,8 +2849,8 @@
   {
    "number": "#80",
    "text": "276: Veţi întâlni turbulenţe ce pot fi periculoase în caz de zbor aproape de relief:",
-   "short": "Turbulențe periculoase apar zburând aproape de relief în zonele 1, 2 și 3 din figura din bancă.",
-   "long": "Turbulența apare în toate zonele sub vânt și lângă relieful accidentat. Banca marchează zonele 1, 2 și 3. Verifică figura pentru poziționarea exactă.",
+   "short": "Turbulențe periculoase apar zburând aproape de relief în zonele 1, 2 și 3 din figura.",
+   "long": "Turbulența apare în toate zonele sub vânt și lângă relieful accidentat. Varianta marcată indică zonele 1, 2 și 3. Verifică figura pentru poziționarea exactă.",
    "answers": [
     {
      "text": "în 1 şi 2",
@@ -2870,7 +2870,7 @@
      "text": "în 1, 2 şi 3",
      "correct": true,
      "short": "În 1, 2 și 3.",
-     "long": "Varianta marcată în bancă; depinde de figură.",
+     "long": "Varianta marcată; depinde de figură.",
      "warn": ""
     },
     {
@@ -3007,7 +3007,7 @@
      "text": "starea de încălzire a aerului",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     },
     {
@@ -3030,7 +3030,7 @@
    "number": "#85",
    "text": "262: În informarea meteo furnizată de unitatea ATC veți auzi cuvântul „CAVOK”. Acesta semnifică:",
    "short": "CAVOK înseamnă vizibilitate de cel puțin 10 km, baza norilor de cel puțin 1,5 km și fără fenomene meteo semnificative.",
-   "long": "CAVOK: vizibilitate de minim 10 km, nori cu baza peste 1500 m (5000 ft) sau fără nori sub această limită, fără cumulonimbus și fără fenomene semnificative. Varianta din bancă reflectă aceste condiții.",
+   "long": "CAVOK: vizibilitate de minim 10 km, nori cu baza peste 1500 m (5000 ft) sau fără nori sub această limită, fără cumulonimbus și fără fenomene semnificative. Varianta reflectă aceste condiții.",
    "answers": [
     {
      "text": "vizibilitate min. 5 km, plafon min. 500 m, fără fenomene meteo semnificative",
@@ -3057,7 +3057,7 @@
      "text": "vizibilitate min. 10 km, baza norilor min. 1,5 km, fără fenomene meteo semnificative",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată în bancă.",
+     "long": "Este varianta marcată.",
      "warn": ""
     }
    ]
@@ -3065,8 +3065,8 @@
   {
    "number": "#86",
    "text": "274: Veţi întâlni turbulenţe ce pot fi periculoase în caz de zbor la mică altitudine sau aterizare:",
-   "short": "Turbulențe periculoase apar la zbor la altitudine mică sau la aterizare în zonele 3 și 4 din figura din bancă.",
-   "long": "La altitudine mică și la aterizare, turbulența de sub vânt și de la relief este cea mai periculoasă. Banca marchează zonele 3 și 4. Verifică figura.",
+   "short": "Turbulențe periculoase apar la zbor la altitudine mică sau la aterizare în zonele 3 și 4 din figura.",
+   "long": "La altitudine mică și la aterizare, turbulența de sub vânt și de la relief este cea mai periculoasă. Varianta marcată indică zonele 3 și 4. Verifică figura.",
    "answers": [
     {
      "text": "în 1",
@@ -3079,7 +3079,7 @@
      "text": "în 3 şi 4",
      "correct": true,
      "short": "În 3 și 4.",
-     "long": "Varianta marcată în bancă; depinde de figură.",
+     "long": "Varianta marcată; depinde de figură.",
      "warn": ""
     },
     {
@@ -3102,7 +3102,7 @@
    "number": "#87",
    "text": "310: La ce temperatură va ajunge o masă de aer uscat cu temperatura inițială de 10˚C care se răcește adiabatic până la 1000m?",
    "short": "O masă de aer uscat cu temperatura de 10°C, care se răcește adiabatic până la 1000 m, ajunge la aproximativ 0,2°C, nu la 3,5°C.",
-   "long": "Pentru aer uscat, gradientul adiabatic este de aproximativ 9,8°C pe kilometru. Pe 1000 m temperatura scade cu circa 9,8°C, deci de la 10°C ajunge la aproximativ 0,2°C. Varianta marcată în bancă (3,5°C) nu corespunde acestui calcul, deci întrebarea conține o eroare. Verifică-o cu profesorul sau cu manualul de meteo.",
+   "long": "Pentru aer uscat, gradientul adiabatic este de aproximativ 9,8°C pe kilometru. Pe 1000 m temperatura scade cu circa 9,8°C, deci de la 10°C ajunge la aproximativ 0,2°C. Varianta marcată (3,5°C) nu corespunde acestui calcul, deci întrebarea conține o eroare. Verifică-o cu profesorul sau cu manualul de meteo.",
    "answers": [
     {
      "text": "1 grad Celsius",
@@ -3122,7 +3122,7 @@
      "text": "3,5 grade Celsius",
      "correct": true,
      "short": "",
-     "long": "Varianta marcată în bancă, dar nu corespunde gradientului adiabatic uscat (9,8°C/km).",
+     "long": "Varianta marcată, dar nu corespunde gradientului adiabatic uscat (9,8°C/km).",
      "warn": "Răspuns greșit: gradientul adiabatic uscat este de circa 9,8°C/km, deci 10°C scade la aproximativ 0,2°C la 1000 m, nu la 3,5°C."
     },
     {
