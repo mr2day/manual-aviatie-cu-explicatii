@@ -63,7 +63,7 @@
     var label = el('div', 'topics-label', 'Documente');
     nav.appendChild(label);
     [["RACR-LPAN ULM – licențiere ULM","docs/html/racr-lpan-ulm.html"],["Codul aerian 2020","docs/html/codul-aerian-2020.html"],["HG 1.234/2021 – căutare și salvare","docs/html/hg-1234-2021-cautare-salvare.html"],["Anexele 1–6 (2007)","docs/html/anexele-1-6-2007.html"],["Reg. (UE) 2019/27 – medical","docs/html/reg-ue-2019-27-med.html"],["AIP ENR 1.4","docs/html/aip-enr-1-4.html"],["OMTIC 910/2020 – anexe","docs/html/omtic-910-2020-anexe.html"],["PAC-MED 2025","docs/html/pac-med-2025.html"],["RACR-CCO AUN","docs/html/racr-cco-aun.html"],["RACR-CCO ULM","docs/html/racr-cco-ulm.html"],["RACR-RA ediția 2","docs/html/racr-ra-ed2.html"]].forEach(function (d) {
-      var a = el('a', 'topic', d[0]);
+      var a = el('a', 'doc-link', d[0]);
       a.href = d[1];
       a.target = '_blank';
       a.rel = 'noopener';

@@ -699,3 +699,16 @@ details.question-more .more-body {
   text-transform: uppercase;
   color: var(--accent);
 }
+
+.doc-link {
+  display: block;
+  padding: 4px 2px;
+  color: var(--accent);
+  font-size: 0.9rem;
+  line-height: 1.35;
+  text-decoration: none;
+}
+
+.doc-link:hover {
+  text-decoration: underline;
+}
