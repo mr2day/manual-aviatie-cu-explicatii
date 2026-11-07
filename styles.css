@@ -1,16 +1,17 @@
 @import url("fonts/fonts.css");
 :root {
-  --page: #f9f7f5;
+  --page: #1a1e1e;
   --band: #004f7a;
   --red: #004f7a;
-  --card: #ffffff;
-  --border: #dedede;
-  --text: #505454;
-  --heading: #1a1e1e;
+  --card: #232f35;
+  --border: #3a4a52;
+  --text: #d7dada;
+  --heading: #f9f7f5;
   --toggle: #004f7a;
   --accent: #65a4e6;
-  --correct: #2e7d32;
-  --correct-bg: rgba(46, 125, 50, 0.1);
+  --alert: #cf0000;
+  --correct: #81c784;
+  --correct-bg: rgba(46, 125, 50, 0.25);
   --font-body: "DM Sans", "Segoe UI", Roboto, Arial, sans-serif;
   --font-head: "Rajdhani", "Segoe UI", Arial, sans-serif;
 }
@@ -219,7 +220,7 @@ body {
 }
 
 .answer.correct .letter {
-  background: var(--correct);
+  background: #2e7d32;
 }
 
 /* Small screens */
@@ -374,8 +375,8 @@ details.more .more-body p:last-child {
   margin: 0.5rem 0 0;
   padding: 0.6rem 0.8rem;
   border-left: 4px solid #d97706;
-  background: #fff7ed;
-  color: #7c2d12;
+  background: rgba(217, 119, 6, 0.14);
+  color: #ffd9a8;
   font-size: 0.92rem;
   line-height: 1.5;
 }
@@ -497,3 +498,9 @@ details.more .more-body p:last-child {
 .question { border-radius: 4px; border-bottom: none; box-shadow: 0 1px 3px rgba(26, 30, 30, 0.08); }
 .question-title { font-weight: 700; letter-spacing: 0.5px; }
 .doc-card, .doc-hero, .doc-item, .tile { border-radius: 4px; }
+
+/* Linkuri în bara laterală, pe fond întunecat */
+.sidebar-link a {
+  color: var(--accent);
+  text-decoration: underline;
+}
