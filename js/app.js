@@ -65,7 +65,6 @@
         fig.loading = 'lazy';
         section.appendChild(fig);
       }
-      section.appendChild(more('Explicație detaliată', q.long));
 
       var ol = el('ol', 'answers');
       q.answers.forEach(function (a, k) {
@@ -90,6 +89,7 @@
         ol.appendChild(li);
       });
       section.appendChild(ol);
+      section.appendChild(more('Explicație detaliată', q.long, 'question-more'));
       main.appendChild(section);
     });
     window.scrollTo(0, 0);
