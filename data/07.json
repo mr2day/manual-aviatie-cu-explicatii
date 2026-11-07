@@ -6,34 +6,34 @@
    "number": "#1",
    "text": "1078: Ce metode pot fi folosite pentru a echilibra presiunea dintre urechea medie și atmosfera exterioară în timpul zborului?",
    "short": "Pentru a egaliza presiunea din urechea medie cu cea exterioară se folosesc deglutiția, mestecatul unei gume sau manevra Valsalva.",
-   "long": "În zbor, presiunea din exterior se schimbă, iar trompa lui Eustache trebuie să egalizeze presiunea din urechea medie. Deglutiția, mestecatul și manevra Valsalva (a sufla ușor cu nasul închis și gura închisă) ajută la deschiderea trompei. Comprese, băi calde sau aparate de încălzire nu produc acest efect.",
+   "long": "Presiunea din urechea medie se egalizează cu cea exterioară prin trompa lui Eustachio. Deglutiția, mestecatul unei gume sau manevra Valsalva (a expira cu nasul închis) deschid trompa și egalizează presiunea.",
    "answers": [
     {
      "text": "Scufundarea urechii în apă caldă",
      "correct": false,
      "short": "",
-     "long": "Nu egalizează presiunea.",
+     "long": "Scufundarea urechii în apă caldă nu egalizează presiunea din urechea medie.",
      "warn": ""
     },
     {
      "text": "Aplicarea de comprese reci pe ureche",
      "correct": false,
      "short": "",
-     "long": "Nu egalizează presiunea.",
+     "long": "Compresele reci nu egalizează presiunea din urechea medie.",
      "warn": ""
     },
     {
      "text": "Folosirea unor dispozitive de încălzire a aerului",
      "correct": false,
      "short": "",
-     "long": "Nu egalizează presiunea.",
+     "long": "Dispozitivele de încălzire a aerului nu egalizează presiunea din urechea medie.",
      "warn": ""
     },
     {
      "text": "Deglutiția, mestecarea unei gume de mestecat sau metoda Valsalva",
      "correct": true,
      "short": "",
-     "long": "Sunt metodele corecte.",
+     "long": "Corect. Deglutiția, guma de mestecat și Valsalva egalizează presiunea.",
      "warn": ""
     }
    ]
@@ -42,34 +42,34 @@
    "number": "#2",
    "text": "1029: Cum poate fi contracarat efectul presiunii asupra timpanului în timpul zborului?",
    "short": "Efectul presiunii asupra timpanului se contracarează prin deglutiție și mestecarea unei gume.",
-   "long": "Deglutiția și mestecatul deschid trompa lui Eustache și permit egalizarea presiunii. Oprirea respirației, consumul de lichide sau aparatul de respirat nu sunt metodele corecte pentru timpan.",
+   "long": "Diferența de presiune apasă pe timpan. Deglutiția și mestecatul deschid trompa lui Eustachio și egalizează presiunea de o parte și de alta a timpanului.",
    "answers": [
     {
      "text": "Prin deglutiție și mestecarea unei gume",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Deglutiția și mestecatul egalizează presiunea.",
      "warn": ""
     },
     {
      "text": "Prin oprirea respirației temporar",
      "correct": false,
      "short": "",
-     "long": "Este periculos și nu egalizează presiunea.",
+     "long": "Oprirea respirației poate face presiunea mai dificilă. Egalizarea se face prin deglutiție.",
      "warn": ""
     },
     {
      "text": "Prin consumul de lichide",
      "correct": false,
      "short": "",
-     "long": "Nu este metoda principală.",
+     "long": "Consumul de lichide nu egalizează presiunea direct. Deglutiția o face.",
      "warn": ""
     },
     {
      "text": "Prin folosirea unui aparat de respirat",
      "correct": false,
      "short": "",
-     "long": "Nu este metoda pentru timpan.",
+     "long": "Aparatul de respirat nu egalizează presiunea din urechea medie în zbor.",
      "warn": ""
     }
    ]
@@ -78,34 +78,34 @@
    "number": "#3",
    "text": "1077: Cum afectează zgomotul capacitatea de concentrare a unui pilot?",
    "short": "Zgomotul reduce capacitatea de concentrare a pilotului și interferează cu comunicarea.",
-   "long": "Zgomotul puternic și constant obosește, distrage atenția și face mai greu de înțeles mesajele radio. În aviație este important să folosești căști antifonice sau de zbor. Zgomotul nu îmbunătățește vigilența.",
+   "long": "Zgomotul continuu și intens obosește, distrage atenția și îngreunează comunicarea radio, deci reduce capacitatea de concentrare.",
    "answers": [
     {
      "text": "Reduce capacitatea de concentrare și interferează cu comunicarea",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Zgomotul reduce concentrarea și îngreunează comunicarea.",
      "warn": ""
     },
     {
      "text": "Nu are niciun efect asupra concentrării",
      "correct": false,
      "short": "",
-     "long": "Are efect.",
+     "long": "Zgomotul are efect asupra concentrării, deci afirmația este greșită.",
      "warn": ""
     },
     {
      "text": "Îmbunătățește vigilența și timpul de reacție",
      "correct": false,
      "short": "",
-     "long": "Zgomotul nu îmbunătățește vigilența.",
+     "long": "Zgomotul nu îmbunătățește vigilența. Îi scade.",
      "warn": ""
     },
     {
      "text": "Crește capacitatea de memorare pe termen scurt",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul principal.",
+     "long": "Zgomotul nu crește memorarea. Distrage atenția.",
      "warn": ""
     }
    ]
@@ -114,34 +114,34 @@
    "number": "#4",
    "text": "1095: Care sunt efectele stresului fizic asupra organismului?",
    "short": "Stresul fizic face creierul să se pregătească rapid de acțiune, prin eliberarea adrenalinei.",
-   "long": "În situații de stres, organismul eliberează adrenalină, crește ritmul cardiac și respirația, iar corpul se pregătește de acțiune rapidă. Efectul este util pe termen scurt, dar poate obosi pe termen lung.",
+   "long": "Stresul declanșează un răspuns de luptă sau fugă: organismul eliberează adrenalină, crește pulsul și pregătește mușchii pentru acțiune rapidă.",
    "answers": [
     {
      "text": "Creșterea nivelului de energie și a capacității de concentrare",
      "correct": false,
      "short": "",
-     "long": "Pe termen lung, stresul reduce concentrarea.",
+     "long": "Stresul nu crește energia și concentrarea pe termen lung, ci le perturbă.",
      "warn": ""
     },
     {
      "text": "Îmbunătățirea memoriei și a timpului de reacție",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul principal.",
+     "long": "Stresul afectează memoria și timpul de reacție, nu le îmbunătățește.",
      "warn": ""
     },
     {
      "text": "Reducerea nivelului de stres și anxietate",
      "correct": false,
      "short": "",
-     "long": "Stresul crește anxietatea.",
+     "long": "Stresul nu reduce stresul. Dimpotrivă, îl declanșează.",
      "warn": ""
     },
     {
      "text": "Creierul se pregătește rapid de acțiune, eliberând adrenalina",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Organismul eliberează adrenalină și se pregătește rapid de acțiune.",
      "warn": ""
     }
    ]
@@ -150,34 +150,34 @@
    "number": "#5",
    "text": "1065: Ce simț este cel mai puternic și joacă un rol crucial în orientarea spațială?",
    "short": "Vederea este cel mai important simț în orientarea spațială.",
-   "long": "Majoritatea informațiilor despre poziția aeronavei și a orizontului vin pe cale vizuală. Simțul echilibrului ajută, dar vederea oferă informația principală. Gustul și mirosul nu au rol în orientare.",
+   "long": "Vederea este simțul principal pentru orientare: pilotul vede orizontul, solul și alte aeronave, ceea ce îi permite să mențină poziția și asieta.",
    "answers": [
     {
      "text": "Simțul auditiv",
      "correct": false,
      "short": "",
-     "long": "Contribuie, dar nu este cel mai important.",
+     "long": "Auzul ajută, dar nu este simțul principal al orientării spațiale.",
      "warn": ""
     },
     {
      "text": "Simțul gustativ",
      "correct": false,
      "short": "",
-     "long": "Nu are rol în orientare.",
+     "long": "Gustul nu joacă rol în orientarea spațială.",
      "warn": ""
     },
     {
      "text": "Simțul olfactiv",
      "correct": false,
      "short": "",
-     "long": "Nu are rol în orientare.",
+     "long": "Mirosul nu este simțul principal al orientării spațiale.",
      "warn": ""
     },
     {
      "text": "Vederea",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Vederea este simțul principal al orientării.",
      "warn": ""
     }
    ]
@@ -186,34 +186,34 @@
    "number": "#6",
    "text": "1048: Unde se verifică dacă victima unui accident are puls?",
    "short": "Pulsul se verifică lângă măr lui Adam, în spațiul dintre trahee și mușchii gâtului.",
-   "long": "Pulsul carotidian se simte în zona laterală a gâtului, lângă măr lui Adam, unde trece artera carotidă. Încheietura mâinii este locul pulsului radial, iar tâmplele și zona inimii nu sunt locul standard de verificare.",
+   "long": "Pulsul carotidian se simte lângă mărul lui Adam, în spațiul dintre trahee și mușchii gâtului.",
    "answers": [
     {
      "text": "În zona tâmplelor",
      "correct": false,
      "short": "",
-     "long": "Nu este locul standard de verificare.",
+     "long": "Pulsul nu se verifică în zona tâmplelor în mod standard pentru primul ajutor.",
      "warn": ""
     },
     {
      "text": "În zona inimii",
      "correct": false,
      "short": "",
-     "long": "Nu este locul standard de verificare.",
+     "long": "Inima nu este locul de palpare a pulsului. Se palpează pe arterele gâtului sau ale încheieturii.",
      "warn": ""
     },
     {
      "text": "Lângă mărul lui Adam, în spațiul dintre trahee și mușchii gâtului",
      "correct": true,
      "short": "Lângă măr lui Adam, în spațiul dintre trahee și mușchii gâtului.",
-     "long": "Este locul corect pentru pulsul carotidian.",
+     "long": "Corect. Pulsul carotidian se verifică lângă mărul lui Adam.",
      "warn": ""
     },
     {
      "text": "La încheietura mâinii",
      "correct": false,
      "short": "",
-     "long": "Este locul pulsului radial, nu varianta corectă.",
+     "long": "Pulsul la încheietura mâinii este pulsul radial, util în multe situații, dar primul loc de verificare în urgență este pulsul carotidian.",
      "warn": ""
     }
    ]
@@ -222,34 +222,34 @@
    "number": "#7",
    "text": "1007: Ce organ îndeplinește funcția de menținere a echilibrului corpului?",
    "short": "Aparatul vestibular menține echilibrul corpului.",
-   "long": "Aparatul vestibular se află în urechea internă și detectează poziția capului și accelerațiile. El transmite informația către creier. Urechile, creierul și ochiul contribuie la echilibru, dar organul specific este aparatul vestibular.",
+   "long": "Aparatul vestibular din urechea internă detectează poziția și mișcarea capului și menține echilibrul corpului.",
    "answers": [
     {
      "text": "urechile",
      "correct": false,
      "short": "",
-     "long": "Urechea conține aparatul vestibular, dar varianta corectă este aparatul.",
+     "long": "Urechile conțin aparatul vestibular, dar organul propriu-zis al echilibrului este aparatul vestibular.",
      "warn": ""
     },
     {
      "text": "aparatul vestibular",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Aparatul vestibular menține echilibrul.",
      "warn": ""
     },
     {
      "text": "creierul",
      "correct": false,
      "short": "",
-     "long": "Creierul prelucrează, dar nu este organul care detectează.",
+     "long": "Creierul prelucrează informația de echilibru, dar organul care o produce este aparatul vestibular.",
      "warn": ""
     },
     {
      "text": "ochiul",
      "correct": false,
      "short": "",
-     "long": "Ochiul ajută, dar nu este organul de echilibru.",
+     "long": "Ochiul ajută la echilibru prin vedere, dar nu este organul echilibrului.",
      "warn": ""
     }
    ]
@@ -258,34 +258,34 @@
    "number": "#8",
    "text": "1044: Unde are loc degajarea căilor respiratorii ale victimei unui accident de aviație?",
    "short": "Degajarea căilor respiratorii ale victimei se face la locul accidentului, cât mai urgent.",
-   "long": "Dacă victima nu respiră sau respiră greu, trebuie să îi libereze căile respiratorii imediat, pe loc. Așteptarea spitalului sau a ambulanței întârzie ajutorul. Sediul operatorului nu este loc de acordare a ajutorului.",
+   "long": "Căile respiratorii se degajă imediat la locul accidentului, pentru că oxigenarea depinde de liberul trecere a aerului.",
    "answers": [
     {
      "text": "La spital, cu instrumente specializate",
      "correct": false,
      "short": "",
-     "long": "Trebuie făcut imediat, nu la spital.",
+     "long": "Degajarea la spital nu este primul pas. Ea se face la locul accidentului, cât mai urgent.",
      "warn": ""
     },
     {
      "text": "În ambulanță, de către personalul specializat",
      "correct": false,
      "short": "",
-     "long": "Întârzie ajutorul.",
+     "long": "În ambulanță este tardiv. Degajarea se face imediat.",
      "warn": ""
     },
     {
      "text": "La locul producerii accidentului, cât mai urgent",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Degajarea se face imediat, la locul accidentului.",
      "warn": ""
     },
     {
      "text": "La sediul operatorului aeronavei, unde victima rămâne până la sosirea autorităților competente pentru investigarea accidentului",
      "correct": false,
      "short": "La sediul operatorului aeronavei.",
-     "long": "Nu este locul corect.",
+     "long": "La sediul operatorului victima nu este tratată. Ajutorul se dă imediat.",
      "warn": ""
     }
    ]
@@ -294,34 +294,34 @@
    "number": "#9",
    "text": "1097: Ce factori pot influența negativ starea mentală a unui pilot?",
    "short": "Medicația, drogurile, stresul și problemele personale pot influența negativ starea mentală a pilotului.",
-   "long": "Medicamentele pot afecta vigilența, drogurile alterează judecata, iar stresul și problemele personale reduc concentrarea. Alimentația echilibrată, odihna și exercițiile moderate au efect pozitiv.",
+   "long": "Medicația, drogurile, stresul și problemele personale afectează atenția, judecata și reacțiile pilotului, deci sunt factori negativi.",
    "answers": [
     {
      "text": "Consumul moderat de alcool și cafea",
      "correct": false,
      "short": "",
-     "long": "Acestea pot influența, dar nu sunt varianta principală.",
+     "long": "Consumul moderat de alcool și cafea nu este factorul negativ descris, dar alcoolul afectează zborul. Varianta nu este cea completă.",
      "warn": ""
     },
     {
      "text": "Odihna regulată și alimentația echilibrată",
      "correct": false,
      "short": "",
-     "long": "Acestea sunt factori pozitivi.",
+     "long": "Odihna și alimentația sunt factori pozitivi.",
      "warn": ""
     },
     {
      "text": "Exercițiile fizice intense și somnul suficient",
      "correct": false,
      "short": "",
-     "long": "Somnul este pozitiv.",
+     "long": "Exercițiile intense și somnul suficient nu sunt factori negativi, somnul este pozitiv.",
      "warn": ""
     },
     {
      "text": "Medicația, drogurile, stresul și problemele personale",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Medicația, drogurile, stresul și problemele personale afectează negativ starea mentală.",
      "warn": ""
     }
    ]
@@ -330,34 +330,34 @@
    "number": "#10",
    "text": "1011: Am aterizat de 20 de minute pentru o pauză de hidratare și vrem să decolăm din nou:",
    "short": "După o pauză de 20 de minute, decolezi normal, după ce efectuezi inspecția echipamentului.",
-   "long": "Înainte de fiecare decolare se verifică echipamentul, chiar dacă a funcționat la zborul anterior. Condițiile se pot schimba, iar pilotul trebuie să confirme că totul este în regulă. Regula de o oră nu există în varianta descrisă.",
+   "long": "După o pauză la sol, echipamentul se verifică din nou înainte de decolare, pentru că se poate schimba între zboruri.",
    "answers": [
     {
      "text": "decolăm imediat fără a verifica echipamentul încât acum 20 de minute a funcționat perfect",
      "correct": false,
      "short": "Decolăm imediat fără a verifica echipamentul, încât acum 20 de minute a funcționat perfect.",
-     "long": "Verificarea este obligatorie.",
+     "long": "Decolarea fără verificare nu este permisă. Echipamentul se verifică după pauză.",
      "warn": ""
     },
     {
      "text": "nu putem decola încât trebuie să așteptăm să se răsească motorul pentru a-l încălzi din nou",
      "correct": false,
      "short": "Nu putem decola, încât trebuie să așteptăm să se răcească motorul pentru a-l încălzi din nou.",
-     "long": "Nu este regula.",
+     "long": "Motorul nu trebuie să aștepte răsăritul. Nu este regula.",
      "warn": ""
     },
     {
      "text": ". decolăm normal, după ce efectuăm inspecția echipamentului",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Se decolează normal, după inspecția echipamentului.",
      "warn": ""
     },
     {
      "text": "legislația impune minim o oră între aterizare și următoarea decolare",
      "correct": false,
      "short": "",
-     "long": "Nu este regula din legislație.",
+     "long": "Această variantă nu descrie procedura. Procedura cere verificarea echipamentului înainte de decolare, nu o pauză fixă.",
      "warn": ""
     }
    ]
@@ -366,34 +366,34 @@
    "number": "#11",
    "text": "1030: Ce rol are hemoglobina în sânge?",
    "short": "Hemoglobina transportă oxigenul de la plămâni la țesuturi.",
-   "long": "Hemoglobina din globulele roșii leagă oxigenul în plămâni și îl eliberează în țesuturi. Ea nu controlează glicemia, nu reglează temperatura și nu produce globule albe.",
+   "long": "Hemoglobina din globulele roșii leagă oxigenul la plămâni și îl transportă la țesuturi.",
    "answers": [
     {
      "text": "Controlează nivelul zahărului din sânge",
      "correct": false,
      "short": "",
-     "long": "Aceasta este insulina.",
+     "long": "Controlul glicemiei nu este rolul hemoglobinei.",
      "warn": ""
     },
     {
      "text": "Reglează temperatura corpului",
      "correct": false,
      "short": "",
-     "long": "Nu este rolul ei.",
+     "long": "Temperatura corpului nu este reglată de hemoglobină.",
      "warn": ""
     },
     {
      "text": "Transportă oxigenul de la plămâni la țesuturi",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Hemoglobina transportă oxigenul.",
      "warn": ""
     },
     {
      "text": "Produce globule albe",
      "correct": false,
      "short": "",
-     "long": "Globulele albe sunt produse în măduva osoasă, nu de hemoglobină.",
+     "long": "Globulele albe se produc în măduva osoasă, nu de hemoglobină.",
      "warn": ""
     }
    ]
@@ -402,34 +402,34 @@
    "number": "#12",
    "text": "1017: Zburăm la 3000m și brusc ne ia o stare de anxietate și hiperventilație:",
    "short": "Dacă apare anxietate și hiperventilație la 3000 m, te calmezi și începi o coborâre lentă până la o altitudine cu oxigen suficient.",
-   "long": "Hiperventilația scade nivelul de dioxid de carbon din sânge și produce senzație de sufocare. Pilotul trebuie să respire lent, să se calmeze și să coboare treptat, unde aerul conține suficient oxigen. Coborârea rapidă, spiralarea sau aruncarea parașutei sunt periculoase.",
+   "long": "Hiperventilația și anxietatea în zbor pot fi calmate prin respirație lentă și coborâre treptată la o altitudine cu oxigen suficient. Calmul este prioritar.",
    "answers": [
     {
      "text": "ne continuăm zborul sperând că o să ne revenim repede",
      "correct": false,
      "short": "",
-     "long": "Este periculos.",
+     "long": "Continuarea zborului în această stare nu este sigură. Pilotul trebuie să coboare.",
      "warn": ""
     },
     {
      "text": "coborâm cât de repede se poate, cu orice risc prin manevra de spiralare încat forțele G ajută la oxigenarea sângelui",
      "correct": false,
      "short": "Coborâm cât de repede se poate, cu orice risc, prin spiralare.",
-     "long": "Coborârea rapidă cu riscuri nu este procedura.",
+     "long": "Coborârea prin spiralare rapidă, cu orice risc, este periculoasă și nu rezolvă hiperventilația.",
      "warn": ""
     },
     {
      "text": "aruncăm parașuta de rezervă",
      "correct": false,
      "short": "",
-     "long": "Nu este procedura.",
+     "long": "Parașuta de rezervă nu se aruncă din cauza hiperventilației.",
      "warn": ""
     },
     {
      "text": "ne pastrăm calmul și începem o coborâre lentă până la o altitudine un nivelul de oxigen suficient să ne revenim",
      "correct": true,
      "short": "Ne păstrăm calmul și începem o coborâre lentă până la o altitudine cu nivel de oxigen suficient să ne revenim.",
-     "long": "",
+     "long": "Corect. Pilotul își păstrează calmul și coboară lent, până la o altitudine cu oxigen suficient.",
      "warn": ""
     }
    ]
@@ -438,34 +438,34 @@
    "number": "#13",
    "text": "1021: Ce este hipoxia?",
    "short": "Hipoxia este lipsa de oxigen datorată creșterii altitudinii.",
-   "long": "La altitudine, presiunea parțială a oxigenului scade, deci țesuturile primesc mai puțin oxigen. Pilotul poate avea simptome de hipoxie. Hipertensiunea, glicemia sau temperatura sunt alte noțiuni.",
+   "long": "Hipoxia este lipsa de oxigen în țesuturi, care apare la altitudine mare, unde aerul are mai puțin oxigen pe volum.",
    "answers": [
     {
      "text": "Creșterea presiunii arteriale datorată creșterii înălțimii",
      "correct": false,
      "short": "",
-     "long": "Este alt fenomen.",
+     "long": "Creșterea tensiunii arteriale nu definește hipoxia.",
      "warn": ""
     },
     {
      "text": "Creșterea nivelului glicemiei din sânge",
      "correct": false,
      "short": "",
-     "long": "Este alt fenomen.",
+     "long": "Glicemia nu definește hipoxia.",
      "warn": ""
     },
     {
      "text": "Lipsa de oxigen datorată creșterii altitudinii",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Hipoxia este lipsa de oxigen cauzată de altitudine.",
      "warn": ""
     },
     {
      "text": "Lipsa de oxigen datorată scăderii temperaturii exterioare",
      "correct": false,
      "short": "",
-     "long": "Nu este definiția hipoxiei.",
+     "long": "Temperatura exterioară nu definește hipoxia. Altitudinea și oxigenul sunt factorii.",
      "warn": ""
     }
    ]
@@ -474,34 +474,34 @@
    "number": "#14",
    "text": "1027: Ce simptome pot apărea în cazul hiperventilației?",
    "short": "Hiperventilația poate produce senzație de sufocare și anxietate.",
-   "long": "Respirația prea rapidă scade dioxidul de carbon din sânge, ceea ce produce amețeală, furnicături, senzație de sufocare și anxietate. Pilotul trebuie să respire lent și să se calmeze.",
+   "long": "Hiperventilația, respirația prea rapidă și profundă, scade dioxidul de carbon din sânge și produce senzație de sufocare, amețeală și anxietate.",
    "answers": [
     {
      "text": "Pierderea mirosului",
      "correct": false,
      "short": "",
-     "long": "Nu este simptomul principal.",
+     "long": "Pierderea mirosului nu este simptomul hiperventilației.",
      "warn": ""
     },
     {
      "text": "Dureri abdominale",
      "correct": false,
      "short": "",
-     "long": "Nu este simptomul principal.",
+     "long": "Durerile abdominale nu sunt simptomul tipic al hiperventilației.",
      "warn": ""
     },
     {
      "text": "Senzație de sufocare și anxietate",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Hiperventilația produce senzație de sufocare și anxietate.",
      "warn": ""
     },
     {
      "text": "Creșterea temperaturii corpului",
      "correct": false,
      "short": "",
-     "long": "Nu este simptomul principal.",
+     "long": "Temperatura corpului nu crește prin hiperventilație.",
      "warn": ""
     }
    ]
@@ -510,34 +510,34 @@
    "number": "#15",
    "text": "1064: Ce este iluzia optică autocinetică?",
    "short": "Iluzia optică autocinetică este impresia de deplasare a unui punct sau obiect izolat și imobil.",
-   "long": "Într-un câmp vizual fără repere, un punct luminos izolat pare că se mișcă. Este o iluzie a ochiului, care se produce mai ales noaptea. Pentru a o evita, pilotul se orientează după repere multiple.",
+   "long": "Iluzia optică autocinetică: un punct luminos izolat, într-un câmp întunecat, pare să se miște, deși este fix.",
    "answers": [
     {
      "text": "Iluzia că obiectele imobile par că se mișcă în mod circular",
      "correct": false,
      "short": "",
-     "long": "Nu este definiția iluziei autocinetice.",
+     "long": "Mișcarea circulară a obiectelor fixe nu este iluzia autocinetică.",
      "warn": ""
     },
     {
      "text": "Impresia de deplasare a unui punct sau obiect izolat și imobil",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Un punct izolat și imobil pare să se miște.",
      "warn": ""
     },
     {
      "text": "Percepția incorectă a altitudinii în timpul zborului de noapte",
      "correct": false,
      "short": "",
-     "long": "Este un alt tip de iluzie.",
+     "long": "Percepția altitudinii la noapte este altă iluzie.",
      "warn": ""
     },
     {
      "text": "Iluzia că aeronava se mișcă mai rapid decât în realitate",
      "correct": false,
      "short": "",
-     "long": "Nu este definiția iluziei autocinetice.",
+     "long": "Iluzia că aeronava se mișcă mai repede este altă iluzie.",
      "warn": ""
     }
    ]
@@ -546,34 +546,34 @@
    "number": "#16",
    "text": "1035: Care este primul pas în resuscitarea cardio-pulmonară (RCP)?",
    "short": "Primul pas în resuscitarea cardio-pulmonară este verificarea siguranței mediului înconjurător.",
-   "long": "Înainte de a acorda ajutor, pilotul verifică dacă locul este sigur, pentru a nu deveni și el victimă. Apoi verifică starea victimei și cheamă ajutor. Compresiunile și respirațiile vin după.",
+   "long": "Înainte de orice intervenție, se verifică siguranța locului, pentru ca salvatorul să nu devină și el victimă.",
    "answers": [
     {
      "text": "Aplicarea compresiunilor toracice",
      "correct": false,
      "short": "",
-     "long": "Vine după verificarea siguranței.",
+     "long": "Compresiunile nu sunt primul pas. Mai întâi se verifică siguranța.",
      "warn": ""
     },
     {
      "text": "Administrarea respirațiilor artificiale",
      "correct": false,
      "short": "",
-     "long": "Vine după verificarea siguranței.",
+     "long": "Respirațiile artificiale nu sunt primul pas.",
      "warn": ""
     },
     {
      "text": "Verificarea pulsului",
      "correct": false,
      "short": "",
-     "long": "Vine după verificarea siguranței.",
+     "long": "Pulsul se verifică după verificarea siguranței.",
      "warn": ""
     },
     {
      "text": "Verificarea siguranței mediului înconjurător",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Primul pas este verificarea siguranței mediului.",
      "warn": ""
     }
    ]
@@ -582,34 +582,34 @@
    "number": "#17",
    "text": "994: Înainte de zbor este obligatoriu:",
    "short": "Înainte de zbor este obligatoriu un timp de odihnă regulamentar.",
-   "long": "Pilotul trebuie să fie odihnit înainte de zbor, pentru a avea atenția și reacțiile normale. Timpul de odihnă este stabilit prin reglementare. Mâneca de vânt și pregătirea fizică nu sunt cerințele principale.",
+   "long": "Înainte de zbor este obligatoriu un timp de odihnă regulamentar, pentru atenție și reacție bune.",
    "answers": [
     {
      "text": "un timp de odihnă regulamentar",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Odihna regulamentară este obligatorie.",
      "warn": ""
     },
     {
      "text": "să punem mâneca de vânt",
      "correct": false,
      "short": "",
-     "long": "Este o verificare, nu cerința.",
+     "long": "Mâneca de vânt este un echipament de aerodrom, nu o obligație înainte de zbor.",
      "warn": ""
     },
     {
      "text": "nu este cazul la acest tip de aeronavă – parapanta cu motor",
      "correct": false,
      "short": "Nu este cazul la acest tip de aeronavă, parapanta cu motor.",
-     "long": "Odihna este necesară și pentru motoparapantă.",
+     "long": "Odihna se cere pentru orice aeronavă, inclusiv motoparapanta cu motor.",
      "warn": ""
     },
     {
      "text": "program de pregătire fizică",
      "correct": false,
      "short": "",
-     "long": "Nu este cerința obligatorie.",
+     "long": "Pregătirea fizică nu este obligația generală înainte de zbor.",
      "warn": ""
     }
    ]
@@ -618,34 +618,34 @@
    "number": "#18",
    "text": "1046: Ce tehnică trebuie să folosească un pilot pentru a scana eficient spațiul aerian în care zboară şi a observa traficul aerian din apropiere?",
    "short": "Pentru a scana eficient spațiul aerian, pilotul focalizează privirea pe diferite segmente ale cerului pentru intervale scurte de timp.",
-   "long": "Ochiul percepe clar doar zona centrală. De aceea pilotul își fixează privirea scurt pe fiecare sector, apoi trece la următorul, repetând ciclic. Așa vede traficul la distanță. Doar TCAS sau vederea periferică nu sunt suficiente.",
+   "long": "Pentru a observa traficul, pilotul focalizează privirea pe segmente ale cerului câteva secunde, apoi trece la următorul, pentru a acoperi tot spațiul.",
    "answers": [
     {
      "text": "Se concentrează pe mişcările observate de vederea periferică",
      "correct": false,
      "short": "Se concentrează pe mișcările observate de vederea periferică.",
-     "long": "Vederea periferică ajută, dar nu este tehnica principală.",
+     "long": "Vederea periferică detectează mișcarea, dar scanarea eficientă cere focalizare pe segmente.",
      "warn": ""
     },
     {
      "text": "Îşi mută rapid privirea între bordul aeronavei și diverse segmente ale cerului",
      "correct": false,
      "short": "Își mută rapid privirea între bordul aeronavei și diverse segmente ale cerului.",
-     "long": "Trebuie să petreacă mai mult timp pe cer.",
+     "long": "Mutarea rapidă a privirii între bord și cer nu acoperă bine spațiul.",
      "warn": ""
     },
     {
      "text": "Focalizează privirea pe diferite segmente ale cerului pentru intervale scurte de timp",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Focalizarea scurtă pe segmente acoperă spațiul.",
      "warn": ""
     },
     {
      "text": "Se bazează pe sistemul de evitare al coliziunilor TCAS",
      "correct": false,
      "short": "",
-     "long": "Nu este suficient, mai ales pentru motoparapantă.",
+     "long": "TCAS nu înlocuiește observarea. Pilotul trebuie să scaneze el însuși.",
      "warn": ""
     }
    ]
@@ -654,34 +654,34 @@
    "number": "#19",
    "text": "1063: Care sunt factorii care pot produce tulburări de vedere în timpul zborului?",
    "short": "Scăderea presiunii cu altitudinea, hiperventilația, oboseala fizică și nervoasă pot produce tulburări de vedere.",
-   "long": "La altitudine, oxigenul scade și vederea se alterează. Hiperventilația, oboseala și stresul afectează percepția. Temperatura corpului, umiditatea și CO2 în cabină nu sunt cauzele principale.",
+   "long": "Scăderea presiunii cu altitudinea, hiperventilația, oboseala și alți factori pot produce tulburări de vedere, deoarece reduc oxigenul și controlul muscular.",
    "answers": [
     {
      "text": "Creșterea temperaturii corpului și scăderea umidității",
      "correct": false,
      "short": "",
-     "long": "Nu sunt cauzele principale.",
+     "long": "Temperatura corpului și umiditatea nu sunt factorii principali ai tulburărilor de vedere.",
      "warn": ""
     },
     {
      "text": "Scăderea presiunii odată cu creșterea altitudinii, hiperventilația, oboseala fizică și nervoasă",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Altitudinea, hiperventilația și oboseala produc tulburări de vedere.",
      "warn": ""
     },
     {
      "text": "Consumul de lichide în exces și lipsa somnului",
      "correct": false,
      "short": "",
-     "long": "Lipsa somnului poate influența, dar varianta corectă este cea cu altitudinea.",
+     "long": "Consumul de lichide și lipsa somnului pot influența, dar răspunsul complet cuprinde altitudinea și hiperventilația.",
      "warn": ""
     },
     {
      "text": "Creșterea nivelului de dioxid de carbon în cabină",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "Dioxidul de carbon în cabină nu este factorul principal al tulburărilor de vedere în paramotor.",
      "warn": ""
     }
    ]
@@ -690,34 +690,34 @@
    "number": "#20",
    "text": "1058: Referitor la eroarea umană, ce variantă poate duce la situații periculoase?",
    "short": "Tendința de a vedea ceea ce ne așteptăm să vedem poate duce la situații periculoase.",
-   "long": "Aceasta este o eroare de percepție: creierul completează imaginea cu ceea ce se așteaptă. Pentru a o evita, pilotul verifică multiplu, folosește liste de verificare și rămâne conștient de situație.",
+   "long": "Tendința de a vedea ceea ce ne așteptăm să vedem (prejudecata de confirmare) duce la erori periculoase, pentru că pilotul nu mai observă ce este de fapt în fața lui.",
    "answers": [
     {
      "text": "Conștientizarea permanentă a situației în care ne aflăm",
      "correct": false,
      "short": "",
-     "long": "Este un factor de siguranță.",
+     "long": "Conștientizarea situației reduce eroarea, nu o provoacă.",
      "warn": ""
     },
     {
      "text": "Tendința de a vedea ceea ce ne așteptăm să vedem",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Vedem ce ne așteptăm să vedem, ceea ce duce la erori.",
      "warn": ""
     },
     {
      "text": "Verificare multiplă a acțiunilor pe care le facem",
      "correct": false,
      "short": "",
-     "long": "Este un factor de siguranță.",
+     "long": "Verificarea multiplă reduce eroarea, nu o provoacă.",
      "warn": ""
     },
     {
      "text": "Utilizarea corectă a listelor de verificare (Checklist)",
      "correct": false,
      "short": "",
-     "long": "Este un factor de siguranță.",
+     "long": "Listele de verificare reduc erorile, nu le provoacă.",
      "warn": ""
     }
    ]
@@ -726,34 +726,34 @@
    "number": "#21",
    "text": "1049: Care este prima măsură pe care o luați în cazul accidentării unei persoane pe aerodrom?",
    "short": "Prima măsură în cazul accidentării unei persoane pe aerodrom este acordarea primului ajutor până la sosirea cadrelor medicale.",
-   "long": "Ajutorul imediat salvează vieți. Pilotul verifică siguranța, apoi acordă primul ajutor și cheamă serviciile de urgență. Transportul imediat poate agrava rănile, iar informarea autorităților vine după.",
+   "long": "Primul ajutor se acordă imediat, pe loc, până la sosirea echipei medicale. Mutarea accidentatului fără necesitate poate agrava leziunile.",
    "answers": [
     {
      "text": "Transportul imediat până la prima localitate și anunțarea accidentului la 112",
      "correct": false,
      "short": "",
-     "long": "Transportul poate agrava rănile.",
+     "long": "Transportul imediat fără evaluare poate agrava leziunile. Ajutorul se acordă înainte.",
      "warn": ""
     },
     {
      "text": "Depunerea unei informări despre accident către autoritățile competente",
      "correct": false,
      "short": "",
-     "long": "Este după ajutorul imediat.",
+     "long": "Informarea autorităților este necesară, dar nu este prima măsură pentru persoana rănită.",
      "warn": ""
     },
     {
      "text": "Transportul la cel mai apropiat spital",
      "correct": false,
      "short": "",
-     "long": "Transportul trebuie făcut de personal calificat.",
+     "long": "Transportul la spital nu este primul pas. Ajutorul se acordă mai întâi.",
      "warn": ""
     },
     {
      "text": "Acordarea primului ajutor până la sosirea cadrelor medicale",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Primul ajutor se acordă pe loc, până la sosirea echipei medicale.",
      "warn": ""
     }
    ]
@@ -762,34 +762,34 @@
    "number": "#22",
    "text": "992: Unul dintre factorii principali care contribuie la răul de mişcare este:",
    "short": "Unul dintre factorii principali ai răului de mișcare este neconcordanța dintre percepția vizuală și reacția senzorilor vestibulari.",
-   "long": "Când ochii văd o mișcare pe care urechea internă nu o simte (sau invers), creierul primește semnale contradictorii, iar apare rău de mișcare. Trebuie evitate manevrele bruște și privitul în interiorul cabinei.",
+   "long": "Răul de mișcare apare când informațiile vizuale și cele ale aparatului vestibular nu coincid, deci creierul primește semnale contradictorii.",
    "answers": [
     {
      "text": "neconcordanta dintre percepţia vizuală și reacţia senzorilor vestibulari",
      "correct": true,
      "short": "Neconcordanța dintre percepția vizuală și reacția senzorilor vestibulari.",
-     "long": "",
+     "long": "Corect. Neconcordanța dintre vedere și vestibular provoacă răul de mișcare.",
      "warn": ""
     },
     {
      "text": "angajarea avionului",
      "correct": false,
      "short": "",
-     "long": "Nu este factorul principal.",
+     "long": "Angajarea aeronavei nu este factorul principal al răului de mișcare.",
      "warn": ""
     },
     {
      "text": "efectuarea de manevre cu factor de sarcină mare",
      "correct": false,
      "short": "",
-     "long": "Poate provoca rău de mișcare, dar nu este varianta principală.",
+     "long": "Manevrele cu factor mare de sarcină pot contribui, dar cauza principală este neconcordanța senzorială.",
      "warn": ""
     },
     {
      "text": "înclinarea rapidă într-un viraj",
      "correct": false,
      "short": "",
-     "long": "Poate provoca, dar nu este varianta principală.",
+     "long": "Înclinarea rapidă poate declanșa simptomele, dar cauza de bază este neconcordanța senzorială.",
      "warn": ""
     }
    ]
@@ -798,34 +798,34 @@
    "number": "#23",
    "text": "1093: Ce tehnici pot ajuta la managementul stresului departe de cabina de pilotaj?",
    "short": "Pentru managementul stresului în afara cabinei se folosesc exerciții fizice regulate, tehnici de relaxare și consiliere.",
-   "long": "Activitatea fizică, relaxarea și sprijinul profesional reduc stresul. Alcoolul, medicamentele și izolarea socială îl agravează.",
+   "long": "Exercițiile fizice regulate, relaxarea și consilierea ajută la reducerea stresului, în afara zborului, fără să afecteze siguranța.",
    "answers": [
     {
      "text": "Exerciții fizice regulate, tehnici de relaxare, consiliere",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Exercițiile, relaxarea și consilierea reduc stresul.",
      "warn": ""
     },
     {
      "text": "Creșterea timpului petrecut la locul de muncă",
      "correct": false,
      "short": "",
-     "long": "Crește stresul.",
+     "long": "Mai mult timp la muncă poate crește stresul.",
      "warn": ""
     },
     {
      "text": "Consumul de alcool și medicamente",
      "correct": false,
      "short": "",
-     "long": "Nu sunt soluții sănătoase.",
+     "long": "Alcoolul și medicamentele nu reduc stresul în siguranță și pot afecta zborul.",
      "warn": ""
     },
     {
      "text": "Izolarea socială și evitarea activităților recreative",
      "correct": false,
      "short": "",
-     "long": "Crește stresul.",
+     "long": "Izolarea socială și evitarea activităților cresc stresul.",
      "warn": ""
     }
    ]
@@ -834,34 +834,34 @@
    "number": "#24",
    "text": "1025: Ce efect are decompresia rapidă asupra urechii medii?",
    "short": "Decompresia rapidă a urechii medii provoacă dureri ale urechii.",
-   "long": "Când presiunea scade rapid, presiunea din urechea medie rămâne mai mare pentru o clipă, ceea ce provoacă durere. Egalizarea prin deglutiție atenuează problema. Efectul este de obicei temporar.",
+   "long": "La decompresie rapidă, presiunea din urechea medie nu se egalizează la timp, iar diferența de presiune provoacă durere.",
    "answers": [
     {
      "text": "Reduce capacitatea auditivă permanent",
      "correct": false,
      "short": "",
-     "long": "Efectul este de obicei temporar.",
+     "long": "Decompresia rapidă nu reduce auzul permanent în mod normal. Efectul principal este durerea.",
      "warn": ""
     },
     {
      "text": "Îmbunătățește echilibrul",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul.",
+     "long": "Echilibrul nu se îmbunătățește prin decompresie rapidă.",
      "warn": ""
     },
     {
      "text": "Provoacă dureri ale urechii",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Decompresia rapidă provoacă dureri ale urechii.",
      "warn": ""
     },
     {
      "text": "Încetinește respirația",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul.",
+     "long": "Respirația nu încetinește prin decompresie rapidă.",
      "warn": ""
     }
    ]
@@ -870,34 +870,34 @@
    "number": "#25",
    "text": "991: În timpul zborului la temperaturi negative:",
    "short": "În zborul la temperaturi negative este interzis consumul de alcool.",
-   "long": "Alcoolul dilată vasele și dă senzație falsă de căldură, dar scade temperatura corpului și afectează judecata. În zbor, alcoolul este interzis, indiferent de temperatură.",
+   "long": "Alcoolul reduce atenția, judecata și reacția, iar frigul face efectele mai periculoase. Consumul este interzis în timpul zborului.",
    "answers": [
     {
      "text": "se zboare maxim 15 minute",
      "correct": false,
      "short": "Se zboară maxim 15 minute.",
-     "long": "Nu este regula.",
+     "long": "Limita de 15 minute nu este regula. Zborul pe frig nu permite alcool.",
      "warn": ""
     },
     {
      "text": "se pot consuma cantităţi mici de băuturi alcoolice pentru încălzire",
      "correct": false,
      "short": "Se pot consuma cantități mici de băuturi alcoolice pentru încălzire.",
-     "long": "Alcoolul nu încălzește și este interzis.",
+     "long": "Alcoolul nu încălzește corpul. Dimpotrivă, dă o senzație falsă de căldură și reduce atenția.",
      "warn": ""
     },
     {
      "text": "este interzis consumul de alcool",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Consumul de alcool este interzis în zbor.",
      "warn": ""
     },
     {
      "text": "se poate consuma alcool de până la maxim 0,8 mg/l",
      "correct": false,
      "short": "",
-     "long": "Nu este regula pentru zbor.",
+     "long": "Nu există o limită de alcool admisă în zbor în această formulare.",
      "warn": ""
     }
    ]
@@ -906,34 +906,34 @@
    "number": "#26",
    "text": "1051: Lipsa unei cantități suficiente de oxigen în corp poartă denumirea de:",
    "short": "Lipsa unei cantități suficiente de oxigen în corp se numește hipoxie.",
-   "long": "Hipoxia este lipsa de oxigen la nivel celular, cu cauze precum altitudinea sau probleme respiratorii. Hipoglicemia este lipsa de zahăr, hiperventilația este respirația excesivă, iar ipohondria este o tulburare psihică.",
+   "long": "Hipoxia este lipsa de oxigen în organism, care afectează creierul și capacitățile pilotului.",
    "answers": [
     {
      "text": "Hipoglicemie",
      "correct": false,
      "short": "",
-     "long": "Este lipsa de zahăr din sânge.",
+     "long": "Hipoglicemia este scăderea zahărului din sânge, nu lipsa oxigenului.",
      "warn": ""
     },
     {
      "text": "Hipoxie",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Hipoxia este lipsa de oxigen.",
      "warn": ""
     },
     {
      "text": "Ipohondrie",
      "correct": false,
      "short": "",
-     "long": "Este o tulburare psihică.",
+     "long": "Ipohondria este o tulburare psihică, nu lipsa de oxigen.",
      "warn": ""
     },
     {
      "text": "Hiperventilație",
      "correct": false,
      "short": "",
-     "long": "Este respirația excesivă.",
+     "long": "Hiperventilația este respirația excesivă, nu lipsa de oxigen.",
      "warn": ""
     }
    ]
@@ -942,34 +942,34 @@
    "number": "#27",
    "text": "1086: Care este limita principală a sistemului central de decizie?",
    "short": "Limita principală a sistemului central de decizie este evaluarea unui singur lucru la un moment dat, deciziile fiind luate secvențial.",
-   "long": "Creierul procesează conștient o singură sarcină complexă la un moment dat. De aceea în situații de urgență trebuie prioritizate acțiunile, iar procedurile și listele de verificare ajută.",
+   "long": "Creierul uman procesează în mod conștient o singură sarcină complexă la un moment dat, deci deciziile complexe trebuie luate secvențial, pe rând.",
    "answers": [
     {
      "text": "Evaluarea unui singur lucru la un moment dat, deciziile fiind luate secvențial",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Creierul evaluează un lucru la un moment dat.",
      "warn": ""
     },
     {
      "text": "Capacitatea de a lua decizii simultane în situații complexe",
      "correct": false,
      "short": "",
-     "long": "Este opusul limitei.",
+     "long": "Creierul nu ia decizii complexe simultan. Aceasta este limita.",
      "warn": ""
     },
     {
      "text": "Necesitatea unei revizuiri constante a deciziilor anterioare",
      "correct": false,
      "short": "",
-     "long": "Nu este limita principală.",
+     "long": "Revizuirea constantă este o strategie, nu limita sistemului de decizie.",
      "warn": ""
     },
     {
      "text": "Dependința de feedback extern pentru toate deciziile",
      "correct": false,
      "short": "Dependența de feedback extern pentru toate deciziile.",
-     "long": "Nu este limita principală.",
+     "long": "Dependența de feedback extern nu este limita principală.",
      "warn": ""
     }
    ]
@@ -978,34 +978,34 @@
    "number": "#28",
    "text": "1092: Care sunt manifestările comportamentale ale stresului?",
    "short": "Manifestările comportamentale ale stresului sunt nerăbdarea, iritabilitatea, incapacitatea de concentrare și pesimismul.",
-   "long": "Stresul se vede și în comportament: pilotul devine nerăbdător, iritabil, uită lucruri, are dificultăți de concentrare și privește totul negativ. Îmbunătățirea comunicării sau creșterea motivației nu sunt manifestări ale stresului.",
+   "long": "Stresul se vede în comportament prin nerăbdare, iritabilitate, dificultate de concentrare și pesimism.",
    "answers": [
     {
      "text": "Creșterea stării de bine și a motivației",
      "correct": false,
      "short": "",
-     "long": "Nu sunt manifestări ale stresului.",
+     "long": "Stresul nu crește starea de bine și motivația. Le scade.",
      "warn": ""
     },
     {
      "text": "Creșterea apetitului alimentar",
      "correct": false,
      "short": "",
-     "long": "Poate apărea, dar nu este varianta corectă.",
+     "long": "Apetitul poate varia, dar răspunsul tipic este iritabilitatea, nerăbdarea și lipsa concentrării.",
      "warn": ""
     },
     {
      "text": "Nerăbdare, iritabilitate, incapacitate de concentrare, pesimism",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Nerăbdarea, iritabilitatea, lipsa concentrării și pesimismul sunt manifestări ale stresului.",
      "warn": ""
     },
     {
      "text": "Îmbunătățirea abilităților de comunicare",
      "correct": false,
      "short": "",
-     "long": "Nu este manifestare a stresului.",
+     "long": "Stresul nu îmbunătățește comunicarea. O afectează.",
      "warn": ""
     }
    ]
@@ -1014,34 +1014,34 @@
    "number": "#29",
    "text": "1039: Ce trebuie făcut în cazul unei fracturi deschise?",
    "short": "În caz de fractură deschisă se imobilizează zona afectată și se acoperă rana cu un bandaj steril.",
-   "long": "Fractura deschisă are os vizibil sau rană care comunică cu osul. Riscul de infecție este mare, deci rana se acoperă steril, iar membrul se imobilizează fără să se încerce realinierea. Garoul se folosește doar pentru hemoragii grave.",
+   "long": "La fractura deschisă, osul iese prin rană. Zona se imobilizează, iar rana se acoperă cu un bandaj steril, pentru a limita infecția și mișcarea.",
    "answers": [
     {
      "text": "Aplicarea de gheață direct pe osul expus",
      "correct": false,
      "short": "",
-     "long": "Nu se aplică gheață direct pe os.",
+     "long": "Gheața direct pe osul expus este periculoasă și contaminează rana.",
      "warn": ""
     },
     {
      "text": "Încercarea de a realinia osul fracturat",
      "correct": false,
      "short": "",
-     "long": "Nu se realiniază în teren.",
+     "long": "Realinierea osului poate agrava leziunea. Se evită.",
      "warn": ""
     },
     {
      "text": "Imobilizarea zonei afectate și acoperirea rănii cu un bandaj steril",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Zona se imobilizează și rana se acoperă steril.",
      "warn": ""
     },
     {
      "text": "Folosirea unui garou pentru a opri sângerarea",
      "correct": false,
      "short": "",
-     "long": "Garoul este pentru hemoragii grave, cu măsură.",
+     "long": "Garoul se folosește doar în hemoragii grave, nu pentru fractură deschisă în această formă.",
      "warn": ""
     }
    ]
@@ -1050,34 +1050,34 @@
    "number": "#30",
    "text": "1010: Am ratat deja 3 decolari, temperatura exterioară este ridicată și colegii noștrii sunt deja în aer:",
    "short": "Dacă ai ratat deja trei decolări, la temperatură ridicată, faci o pauză de repaus și hidratare și încerci din nou după ce te odihnești.",
-   "long": "Oboseala și căldura scad atenția și performanța. Pilotul nu trebuie să forțeze decolarea. Pauza, hidratarea și odihna sunt pașii corecți. Renunțarea la parașuta de rezervă este periculoasă.",
+   "long": "După trei decolări ratate, în condiții de căldură, pilotul oboseste și se poate deshidrata. Se ia o pauză de odihnă și hidratare, apoi se încearcă din nou.",
    "answers": [
     {
      "text": "încercăm să decolăm până reușim",
      "correct": false,
      "short": "",
-     "long": "Forțarea decolării este periculoasă.",
+     "long": "Încercarea până reușești, fără pauză, duce la epuizare și la decizii greșite.",
      "warn": ""
     },
     {
      "text": "luăm o pauză de repaus, hidratare și încercăm din nou după ce ne odihnim",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Pauza de odihnă și hidratare, apoi încercarea din nou.",
      "warn": ""
     },
     {
      "text": "încercăm să decolăm până reușim",
      "correct": false,
      "short": "",
-     "long": "Varianta este dublată și periculoasă.",
+     "long": "Aceeași greșeală ca la varianta A: se încearcă fără pauză.",
      "warn": ""
     },
     {
      "text": "renunțăm la parașuta de rezervă și alte accesorii pentru a avea un paramotor cât mai ușor, întrucât suntem deja obosiți",
      "correct": false,
      "short": "Renunțăm la parașuta de rezervă pentru a avea un paramotor mai ușor.",
-     "long": "Este periculos.",
+     "long": "Renunțarea la parașuta de rezervă este periculoasă și nu rezolvă problema decolării.",
      "warn": ""
     }
    ]
@@ -1086,34 +1086,34 @@
    "number": "#31",
    "text": "1061: Cum pot fi recunoscute fracturile de membre la victimele unui accident?",
    "short": "Fracturile de membre se recunosc după mișcarea sau poziția nefirească a membrului.",
-   "long": "O fractură se vede de obicei prin deformarea membrului, mișcarea în locuri în care nu ar trebui să existe articulație, durere și umflătură. Culoarea roșie și elasticitatea nu sunt semnele principale, iar fracturile lasă semne vizibile.",
+   "long": "Fractura se recunoaște prin poziția sau mișcarea nefirească a membrului, care nu corespunde axului normal al osului.",
    "answers": [
     {
      "text": "Prin elasticitatea exagerată a membrului fracturat",
      "correct": false,
      "short": "",
-     "long": "Nu este semnul corect.",
+     "long": "Elasticitatea exagerată nu este semnul fracturii. Semnul este mișcarea nefirească.",
      "warn": ""
     },
     {
      "text": "Prin culoarea roșie a zonei fracturate",
      "correct": false,
      "short": "",
-     "long": "Roșeața poate apărea, dar nu este semnul principal.",
+     "long": "Culoarea roșie nu este semnul specific al fracturii.",
      "warn": ""
     },
     {
      "text": "Prin mișcarea/poziția nefirească a membrului fracturat",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Poziția și mișcarea nefirească arată fractura.",
      "warn": ""
     },
     {
      "text": "O fractură a membrului nu lasă semne vizibile",
      "correct": false,
      "short": "",
-     "long": "Fracturile lasă, de regulă, semne vizibile.",
+     "long": "Fractura poate lăsa semne vizibile sau deformare, deci afirmația este greșită.",
      "warn": ""
     }
    ]
@@ -1122,34 +1122,34 @@
    "number": "#32",
    "text": "1020: Ce procent de oxigen conține atmosfera la nivelul solului?",
    "short": "Atmosfera de la nivelul solului conține 21% oxigen.",
-   "long": "Aerul uscat conține aproximativ 21% oxigen, 78% azot și restul gaze în cantități mici. Procentul de oxigen rămâne aproximativ constant, dar presiunea scade cu altitudinea.",
+   "long": "Aerul de la nivelul solului conține circa 21% oxigen, restul fiind în mare parte azot.",
    "answers": [
     {
      "text": "10%",
      "correct": false,
      "short": "",
-     "long": "Este mult sub valoarea reală.",
+     "long": "10% nu corespunde conținutului de oxigen al aerului.",
      "warn": ""
     },
     {
      "text": "15%",
      "correct": false,
      "short": "",
-     "long": "Este sub valoarea reală.",
+     "long": "15% nu corespunde conținutului de oxigen al aerului.",
      "warn": ""
     },
     {
      "text": "21%",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Aerul conține circa 21% oxigen.",
      "warn": ""
     },
     {
      "text": "25%",
      "correct": false,
      "short": "",
-     "long": "Este peste valoarea reală.",
+     "long": "25% nu corespunde conținutului de oxigen al aerului.",
      "warn": ""
     }
    ]
@@ -1158,34 +1158,34 @@
    "number": "#33",
    "text": "1043: Cum se acordă primul ajutor unei persoane care prezintă o hemoragie internă în urma unui impact dur în timpul zborului?",
    "short": "În caz de hemoragie internă, menții persoana calmă și nemișcată și suni imediat la serviciile de urgență.",
-   "long": "Hemoragia internă nu se vede, deci nu se poate trata direct. Persoana se ține nemișcată, se monitorizează respirația și pulsul, și se cheamă ajutorul. Masarea zonei sau administrarea de lichide pot agrava situația.",
+   "long": "Hemoragia internă nu se vede. Persoana se menține calmă și nemișcată, pentru a nu agrava sângerarea, iar serviciile de urgență se sună imediat.",
    "answers": [
     {
      "text": "Aplicați presiune direct pe zona afectată",
      "correct": false,
      "short": "",
-     "long": "Nu se aplică presiune pe hemoragia internă.",
+     "long": "Presiunea directă nu se poate aplica pe o hemoragie internă, care nu este vizibilă.",
      "warn": ""
     },
     {
      "text": "Mențineți persoana calmă și nemișcată, și sunați imediat la serviciile de urgență",
      "correct": true,
      "short": "Mențineți persoana calmă și nemișcată și sunați imediat la serviciile de urgență.",
-     "long": "",
+     "long": "Corect. Persoana rămâne calmă și nemișcată, iar serviciile de urgență se sună.",
      "warn": ""
     },
     {
      "text": "Încercați să masați zona pentru a reduce sângerarea",
      "correct": false,
      "short": "",
-     "long": "Masajul poate agrava situația.",
+     "long": "Masajul zonei poate agrava hemoragia internă.",
      "warn": ""
     },
     {
      "text": "Administrați apă și lichide pentru a rehidrata persoana",
      "correct": false,
      "short": "",
-     "long": "Nu este recomandat cu hemoragie internă.",
+     "long": "Lichidele nu sunt primul ajutor pentru hemoragie internă.",
      "warn": ""
     }
    ]
@@ -1194,34 +1194,34 @@
    "number": "#34",
    "text": "981: Firele reţelelor de transport al curentului electric (sau de orice altă natură) se observă în general mult mai greu dacă zburăm:",
    "short": "Firele liniilor electrice se observă mai greu când zbori deasupra lor, având ca fundal solul.",
-   "long": "Firele sunt subțiri și se confundă cu solul când sunt privite de sus. Când le privești din față sau de sub ele pe fundalul cerului, sunt mai vizibile. Varianta corectă indică varianta de deasupra cu fundalul solului; verifică și regulile de altitudine.",
+   "long": "Firele electrice sunt subțiri și se confundă cu solul când sunt privite de sus, deoarece fundalul este solul.",
    "answers": [
     {
      "text": "la acelaşi nivel cu ele, plasându-le chiar pe orizont",
      "correct": false,
      "short": "La același nivel cu ele, plasându-le chiar pe orizont.",
-     "long": "Este o situație periculoasă, dar nu este varianta corectă.",
+     "long": "Firele sunt greu de văzut și pe orizont, dar varianta cea mai clară este zborul deasupra cu solul ca fundal.",
      "warn": ""
     },
     {
      "text": "deasupra lor având ca fundal solul",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Firele se văd greu când sunt privite de sus, cu solul ca fundal.",
      "warn": ""
     },
     {
      "text": "dacă le traversăm în diagonală",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "Traversarea în diagonală nu este situația cea mai grea de văzut.",
      "warn": ""
     },
     {
      "text": "se observă mai bine de sub nivelul lor dar un astfel de zbor nu este permis întrucât înălţimea minimă de siguranţă este de 150 m (cu excepţia etapelor de decolare şi aterizare)",
      "correct": false,
      "short": "Se observă mai bine de sub nivelul lor, dar un astfel de zbor nu este permis.",
-     "long": "Zborul sub fire are reguli, dar varianta corectă este cea de deasupra.",
+     "long": "Zborul de sub fire nu este interzis ca regulă generală. Firele se văd mai bine de sub ele, pe cer.",
      "warn": ""
     }
    ]
@@ -1230,34 +1230,34 @@
    "number": "#35",
    "text": "1096: Care este importanța dezvoltării conștientizării situaționale în aviație?",
    "short": "Conștientizarea situațională reduce posibilitatea accidentelor din activități riscante necunoscute.",
-   "long": "Conștientizarea situațională înseamnă să știi permanent ce se întâmplă în jur și în aeronavă, pentru a anticipa riscurile. Ea reduce șansa ca un pericol să rămână neobservat.",
+   "long": "Conștientizarea situațională înseamnă cunoașterea permanentă a mediului și a riscurilor, ceea ce reduce accidentele provocate de activități riscante necunoscute.",
    "answers": [
     {
      "text": "Îmbunătățește doar abilitățile fizice ale pilotului",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul principal.",
+     "long": "Conștientizarea situațională nu se limitează la abilitățile fizice.",
      "warn": ""
     },
     {
      "text": "Reduce posibilitatea unor accidente datorate activităților riscante necunoscute",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Reduce accidentele datorate riscurilor necunoscute.",
      "warn": ""
     },
     {
      "text": "Scade capacitatea de adaptare la condiții noi de zbor",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Conștientizarea situațională crește adaptarea, nu o scade.",
      "warn": ""
     },
     {
      "text": "Crește riscul de eroare în timpul manevrelor complexe",
      "correct": false,
      "short": "",
-     "long": "Efectul este opus.",
+     "long": "Conștientizarea reduce eroarea, nu o crește.",
      "warn": ""
     }
    ]
@@ -1266,34 +1266,34 @@
    "number": "#36",
    "text": "1036: Cu toate că un pilot deține un certificat medical valabil, cine decide dacă acesta este apt pentru un zbor?",
    "short": "Cu toate că pilotul are certificat medical valabil, el decide dacă este apt pentru zbor.",
-   "long": "Certificatul medical confirmă că pilotul este apt din punct de vedere medical, dar pilotul trebuie să judece, în fiecare zi, dacă este în stare să zboare: somn, stres, boală sau medicamente. Decizia finală este a pilotului.",
+   "long": "Pilotul decide dacă este apt pentru zbor, pe baza autoevaluării (starea de sănătate, oboseală, alcool, medicație), chiar dacă are certificat medical valabil.",
    "answers": [
     {
      "text": "Operatorul aerian pentru care lucrează",
      "correct": false,
      "short": "",
-     "long": "Operatorul nu decide aptitudinea de zbor zilnică.",
+     "long": "Operatorul nu decide aptitudinea pilotului pentru zbor în această situație.",
      "warn": ""
     },
     {
      "text": "A.A.C.R.",
      "correct": false,
      "short": "",
-     "long": "Autoritatea emite certificatul, dar nu decide zilnic.",
+     "long": "AACR emite certificatul, dar nu decide aptitudinea pentru fiecare zbor.",
      "warn": ""
     },
     {
      "text": "Un examinator medical",
      "correct": false,
      "short": "",
-     "long": "Examinatorul emite certificatul, nu decide zborul zilnic.",
+     "long": "Examinatorul medical emite certificatul, dar nu decide aptitudinea pentru zborul concret.",
      "warn": ""
     },
     {
      "text": "Pilotul",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Pilotul decide, pe baza autoevaluării, dacă este apt să zboare.",
      "warn": ""
     }
    ]
@@ -1302,34 +1302,34 @@
    "number": "#37",
    "text": "1014: Zburați în grup iar unul din piloți începe să zboare acrobatic, efectuând manevre periculoase aproape de sol:",
    "short": "Dacă un coleg zboară acrobatic periculos aproape de sol, îți continui zborul în ritmul și după nivelul tău de pilotaj.",
-   "long": "Fiecare pilot își alege zborul după experiența și condițiile sale. Imitarea manevrelor periculoase sau încercarea de a-l opri în zbor sunt riscante. Informarea autorităților se face separat, dacă este cazul.",
+   "long": "Zborul în grup cu un pilot care face acrobații periculoase nu trebuie imitat. Fiecare pilot zboară în limita propriei pregătiri și a regulilor.",
    "answers": [
     {
      "text": "vă continuați zborul în ritmul și după nivelul propriu de pilotaj",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Pilotul zboară în ritmul și nivelul propriu de pilotaj.",
      "warn": ""
     },
     {
      "text": "încercati să zburati acrobatic deasemenea, încât sunt spectatori la sol și doriți să impresionați",
      "correct": false,
      "short": "Încercați să zburați acrobatic de asemenea, încât sunt spectatori la sol și doriți să impresionați.",
-     "long": "Este periculos.",
+     "long": "Imitarea acrobațiilor periculoase nu este corectă, nici pentru spectatori.",
      "warn": ""
     },
     {
      "text": ". încercați să va apropiați de el, efectuând semnale cum că este periculos ceea ce face",
      "correct": false,
      "short": "Încercați să vă apropiați de el, efectuând semnale că este periculos ceea ce face.",
-     "long": "Apropierea poate fi periculoasă.",
+     "long": "Apropierea de pilotul acrobat nu este sigură și nu este semnalizarea corectă.",
      "warn": ""
     },
     {
      "text": "anuntați organele competente despre încalcarea regulilor de zbor",
      "correct": false,
      "short": "Anunțați organele competente despre încălcarea regulilor de zbor.",
-     "long": "Nu este prima acțiune.",
+     "long": "Anunțarea autorităților poate fi corectă, dar răspunsul principal este zborul în limita propriei pregătiri.",
      "warn": ""
     }
    ]
@@ -1338,34 +1338,34 @@
    "number": "#38",
    "text": "1006: Vârsta maximă permisă pentru zborul cu motoparapanta este:",
    "short": "Vârsta pentru zborul cu motoparapanta nu este limitată, dacă există aptitudine medicală.",
-   "long": "Limita de vârstă nu există, atât timp cât pilotul are aptitudine medicală valabilă. Aptitudinea se verifică prin certificatul medical, nu prin vârsta în sine.",
+   "long": "Nu există o limită de vârstă pentru zborul cu motoparapanta, atâta timp cât pilotul are aptitudine medicală valabilă.",
    "answers": [
     {
      "text": "este nelimitată dacă există aptitudine medicală",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Nu există limită de vârstă dacă există aptitudine medicală.",
      "warn": ""
     },
     {
      "text": "40 de ani",
      "correct": false,
      "short": "",
-     "long": "Nu este limita.",
+     "long": "40 de ani nu este o limită de vârstă pentru motoparapantă, cu aptitudine medicală valabilă.",
      "warn": ""
     },
     {
      "text": "80 de ani",
      "correct": false,
      "short": "",
-     "long": "Nu este limita.",
+     "long": "80 de ani nu este o limită. Aptitudinea medicală decide.",
      "warn": ""
     },
     {
      "text": "60 de ani",
      "correct": false,
      "short": "",
-     "long": "Nu este limita.",
+     "long": "60 de ani nu este o limită. Aptitudinea medicală decide.",
      "warn": ""
     }
    ]
@@ -1374,34 +1374,34 @@
    "number": "#39",
    "text": "987: Stresul acumulat în urma unor evenimente negative poate fi o premisă de accident?",
    "short": "Stresul acumulat în urma unor evenimente negative poate fi o premisă de accident.",
-   "long": "Stresul și problemele personale reduc concentrarea și reacția, deci cresc riscul de eroare. Pilotul trebuie să recunoască starea și să amâne zborul dacă este nevoie.",
+   "long": "Stresul acumulat după evenimente negative (pierderi, probleme personale) afectează atenția și judecata, deci poate fi premisă de accident.",
    "answers": [
     {
      "text": "numai la zborul în atmosferă turbulentă",
      "correct": false,
      "short": "",
-     "long": "Stresul influențează în orice zbor.",
+     "long": "Stresul afectează pilotul și în zbor calm, nu doar în turbulență.",
      "warn": ""
     },
     {
      "text": "se poate zbura doar cu medicație antistres",
      "correct": false,
      "short": "",
-     "long": "Medicația nu rezolvă problema.",
+     "long": "Medicația antistres nu este soluția. Stresul trebuie gestionat, iar medicația afectează și ea zborul.",
      "warn": ""
     },
     {
      "text": "da",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Stresul acumulat poate fi premisă de accident.",
      "warn": ""
     },
     {
      "text": "nu",
      "correct": false,
      "short": "",
-     "long": "Stresul poate fi o premisă de accident.",
+     "long": "Stresul poate fi premisă de accident, deci răspunsul negativ este greșit.",
      "warn": ""
     }
    ]
@@ -1410,34 +1410,34 @@
    "number": "#40",
    "text": "1001: Înainte de zbor este obligatoriu:",
    "short": "Înainte de zbor este obligatoriu un timp de odihnă corespunzător.",
-   "long": "Oboseala afectează atenția și reacțiile. Pilotul trebuie să fie odihnit înainte de fiecare zbor. O masă bogată, pregătirea fizică intensă sau lipsa cerințelor nu sunt cerințele principale.",
+   "long": "Înainte de zbor este necesar un timp de odihnă corespunzător, pentru ca pilotul să aibă atenție și reacții bune.",
    "answers": [
     {
      "text": "o masă bogată pentru a asigura energia necesară",
      "correct": false,
      "short": "",
-     "long": "Nu este cerința principală.",
+     "long": "O masă bogată înainte de zbor nu este obligatorie și poate afecta confortul.",
      "warn": ""
     },
     {
      "text": "nu este cazul la acest tip de aeronavă",
      "correct": false,
      "short": "",
-     "long": "Odihna este necesară și la motoparapantă.",
+     "long": "Odihna este obligatorie și pentru paramotor, nu doar pentru alte aeronave.",
      "warn": ""
     },
     {
      "text": "program de pregătire fizică",
      "correct": false,
      "short": "",
-     "long": "Nu este cerința principală.",
+     "long": "Pregătirea fizică nu este obligatorie înainte de fiecare zbor.",
      "warn": ""
     },
     {
      "text": "un timp de odihnă corespunzător",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Odihna corespunzătoare este obligatorie.",
      "warn": ""
     }
    ]
