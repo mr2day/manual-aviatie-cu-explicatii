@@ -176,6 +176,20 @@
   }
 
 
+  // Meniu pe mobil: butonul Meniu deschide bara laterală; alegerea unui link o închide.
+  var menuToggle = document.getElementById('menu-toggle');
+  var sidebar = document.getElementById('sidebar');
+  var backdrop = document.getElementById('menu-backdrop');
+  function setMenu(open) {
+    sidebar.classList.toggle('open', open);
+    backdrop.hidden = !open;
+    menuToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+  }
+  menuToggle.addEventListener('click', function () { setMenu(!sidebar.classList.contains('open')); });
+  backdrop.addEventListener('click', function () { setMenu(false); });
+  sidebar.addEventListener('click', function (e) { if (e.target.closest('a')) setMenu(false); });
+  setMenu(false);
+
   window.addEventListener('hashchange', route);
   route();
 })();
