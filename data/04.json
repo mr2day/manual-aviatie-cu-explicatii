@@ -120,7 +120,7 @@
      "text": "toate sunt corecte",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată, în acord cu variația treptei barice cu altitudinea.",
+     "long": "Este varianta corectă, în acord cu variația treptei barice cu altitudinea.",
      "warn": ""
     },
     {
@@ -321,7 +321,7 @@
      "text": "front oclus",
      "correct": false,
      "short": "",
-     "long": "Frontul oclus poate avea precipitații, dar nu este varianta marcată.",
+     "long": "Frontul oclus poate avea precipitații, dar nu este varianta corectă.",
      "warn": ""
     }
    ]
@@ -674,7 +674,7 @@
      "text": "argonul constituie circa 0.93% din volumul gazelor din aerul uscat",
      "correct": false,
      "short": "Argonul constituie circa 0,93% din volumul gazelor din aerul uscat.",
-     "long": "Este o valoare corectă, dar nu este răspunsul marcat, deoarece întrebarea privește azotul.",
+     "long": "Este o valoare corectă, dar nu este răspunsul corect, deoarece întrebarea privește azotul.",
      "warn": ""
     },
     {
@@ -696,7 +696,7 @@
      "text": "ceața de advecție se produce prin răcirea aerului cald în contact direct cu o suprafață rece",
      "correct": false,
      "short": "Se produce prin răcirea aerului cald în contact direct cu o suprafață rece.",
-     "long": "Aceasta este o formulare apropiată, dar varianta marcată este cea cu deplasarea masei de aer.",
+     "long": "Aceasta este o formulare apropiată, dar varianta corectă este cea cu deplasarea masei de aer.",
      "warn": ""
     },
     {
@@ -762,34 +762,34 @@
    "number": "#22",
    "text": "272: Pe panta următoare, veţi găsi cei mai buni curenți ascendenţi de dinamică:",
    "short": "Cei mai buni curenți ascendenți dinamici se găsesc pe panta 1, conform figurii.",
-   "long": "Curenții dinamici apar pe pantele expuse vântului, unde aerul este forțat să urce. Alegerea pantei depinde de direcția vântului față de versant. Verifică figura, deoarece varianta marcată depinde de desen.",
+   "long": "Curenții dinamici apar pe pantele expuse vântului, unde aerul este forțat să urce. Alegerea pantei depinde de direcția vântului față de versant. Verifică figura, deoarece varianta corectă depinde de desen.",
    "answers": [
     {
      "text": "în 1 si 2",
      "correct": false,
      "short": "În 1 și 2.",
-     "long": "Varianta nu este cea marcată.",
+     "long": "Varianta nu este cea corectă.",
      "warn": ""
     },
     {
      "text": "în 1 si 2",
      "correct": false,
      "short": "În 1.",
-     "long": "Varianta marcată; depinde de figură.",
+     "long": "Nu este varianta corectă; depinde de figură.",
      "warn": ""
     },
     {
      "text": "în 1",
      "correct": true,
      "short": "În 2.",
-     "long": "Varianta nu este cea marcată.",
+     "long": "Varianta nu este cea corectă.",
      "warn": ""
     },
     {
      "text": "în 2",
      "correct": false,
      "short": "În 1 și 2.",
-     "long": "Varianta este dublată și nu este cea marcată.",
+     "long": "Varianta este dublată și nu este cea corectă.",
      "warn": ""
     }
    ]
@@ -1020,28 +1020,28 @@
      "text": "în 1",
      "correct": false,
      "short": "",
-     "long": "Varianta nu este cea marcată.",
+     "long": "Varianta nu este cea corectă.",
      "warn": ""
     },
     {
      "text": "în 3 şi 4",
      "correct": true,
      "short": "În 3 și 4.",
-     "long": "Varianta marcată; depinde de figură.",
+     "long": "Depinde de figură.",
      "warn": ""
     },
     {
      "text": "în 1, 2 si 3",
      "correct": false,
      "short": "În 1, 2 și 3.",
-     "long": "Varianta nu este cea marcată.",
+     "long": "Varianta nu este cea corectă.",
      "warn": ""
     },
     {
      "text": "în 1 şi 2",
      "correct": false,
      "short": "În 1 și 2.",
-     "long": "Varianta nu este cea marcată.",
+     "long": "Varianta nu este cea corectă.",
      "warn": ""
     }
    ]
@@ -1063,14 +1063,14 @@
      "text": "nu zburăm în direcția respectivă",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta marcată; se poate zbura cu planificare.",
+     "long": "Nu este varianta corectă; se poate zbura cu planificare.",
      "warn": ""
     },
     {
      "text": "zburăm cu con de siguranță care ne permite să aterizăm în caz de urgență într-o zonă anterioară munților sau după ei",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1092,7 +1092,7 @@
      "text": "vânt catabatic",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1122,7 +1122,7 @@
    "number": "#32",
    "text": "290: Conform legii lui Buys Ballot, dacă deriva este spre dreapta, ne îndreptăm înspre o zonă cu presiune:",
    "short": "Conform legii lui Buys Ballot, dacă deriva este spre dreapta, ne îndreptăm spre o zonă cu presiune scăzută.",
-   "long": "Legea lui Buys Ballot (emisfera nordică): stând cu vântul în spate, presiunea scăzută se află în stânga. Varianta marcată indică presiunea scăzută ca zonă spre care se îndreaptă deriva spre dreapta, în conformitate cu această regulă.",
+   "long": "Legea lui Buys Ballot (emisfera nordică): stând cu vântul în spate, presiunea scăzută se află în stânga. Varianta corectă indică presiunea scăzută ca zonă spre care se îndreaptă deriva spre dreapta, în conformitate cu această regulă.",
    "answers": [
     {
      "text": "constantă",
@@ -1142,7 +1142,7 @@
      "text": "scazută",
      "correct": true,
      "short": "Scăzută.",
-     "long": "Varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1194,7 +1194,7 @@
    "number": "#34",
    "text": "309: Care este viteza aproximativă a unui vânt de 20 de noduri, exprimată în m/s?",
    "short": "Un vânt de 20 de noduri este aproximativ 10 m/s.",
-   "long": "1 nod este 0,514 m/s, deci 20 de noduri înseamnă aproximativ 10,3 m/s. Varianta marcată este 10 m/s. Verifică conversia când planifici un zbor.",
+   "long": "1 nod este 0,514 m/s, deci 20 de noduri înseamnă aproximativ 10,3 m/s. Varianta corectă este 10 m/s. Verifică conversia când planifici un zbor.",
    "answers": [
     {
      "text": "10 m/s",
@@ -1236,15 +1236,15 @@
      "text": "1013 hPa MSL scăzând cu 1hPa pe 30 ft",
      "correct": false,
      "short": "1013 hPa MSL, scăzând cu 1 hPa pe 30 ft.",
-     "long": "Aceasta se apropie de regula corectă, dar nu este varianta marcată.",
+     "long": "Aceasta este regula corectă: 1013 hPa la nivelul mării, cu scădere de 1 hPa la aproximativ 30 ft.",
      "warn": ""
     },
     {
      "text": "1015 hPa MSL scăzând cu 30 hPa per 100 ft",
      "correct": true,
      "short": "1015 hPa MSL, scăzând cu 30 hPa pe 100 ft.",
-     "long": "Varianta marcată, dar greșită: scăderea de 30 hPa pe 100 ft este imposibilă.",
-     "warn": "Răspunsul marcat este greșit: presiunea standard la nivelul mării este 1013,25 hPa, iar în straturile joase presiunea scade cu aproximativ 1 hPa la fiecare 30 ft (circa 8–9 m). Scăderea de 30 hPa la 100 ft nu are sens."
+     "long": "Este greșită: scăderea de 30 hPa pe 100 ft este imposibilă.",
+     "warn": "Acest răspuns este greșit: presiunea standard la nivelul mării este 1013,25 hPa, iar în straturile joase presiunea scade cu aproximativ 1 hPa la fiecare 30 ft (circa 8–9 m). Scăderea de 30 hPa la 100 ft nu are sens."
     },
     {
      "text": "1015 hPa MSL scăzând cu 1 hPa pe 30 ft",
@@ -1302,13 +1302,13 @@
    "number": "#37",
    "text": "301: Care este densitatea atmosferei ISA?",
    "short": "Densitatea atmosferei ISA la nivelul mării este de 1,225 kg/m³, adică 1225 g/m³.",
-   "long": "Varianta, 1,225 g/m³, are o eroare de unitate: valoarea corectă este 1,225 kg/m³ (adică 1225 g/m³, cum apare la întrebarea 61). Răspunsul marcat are deci unitatea greșită. Reține valoarea 1,225 kg/m³.",
+   "long": "Varianta cu 1,225 g/m³ are o eroare de unitate: valoarea corectă este 1,225 kg/m³ (adică 1225 g/m³, cum apare la întrebarea 61). Reține valoarea 1,225 kg/m³.",
    "answers": [
     {
      "text": "densitatea atmosferei ISA la nivelul mării este de 1.225 g/m³",
      "correct": true,
      "short": "Densitatea atmosferei ISA la nivelul mării este de 1,225 g/m³.",
-     "long": "Varianta marcată, dar cu unitate greșită (valoarea corectă este 1,225 kg/m³).",
+     "long": "Are unitatea greșită; valoarea corectă este 1,225 kg/m³.",
      "warn": "Unitatea este greșită: densitatea aerului ISA la nivelul mării este 1,225 kg/m³, adică 1225 g/m³. Varianta cu 1,225 g/m³ are unitatea greșită."
     },
     {
@@ -1410,7 +1410,7 @@
    "number": "#40",
    "text": "278: Frontul rece de ordinul 2 este?",
    "short": "Frontul rece de ordinul 2 este frontul în care, de-a lungul părții superioare a suprafeței sale, se observă descendența aerului cald.",
-   "long": "Frontul rece de ordinul II (cu aer cald în ascensiune pe suprafața frontală) are aer cald care coboară pe partea superioară a frontului. Varianta marcată indică această descriere. Pentru detalii consultă un manual de meteorologie.",
+   "long": "Frontul rece de ordinul II (cu aer cald în ascensiune pe suprafața frontală) are aer cald care coboară pe partea superioară a frontului. Varianta corectă indică această descriere. Pentru detalii consultă un manual de meteorologie.",
    "answers": [
     {
      "text": "frontul rece de ordinul II este frontul caracterizat prin nebulozitatea și precipitațiile de lungă durată",
@@ -1437,7 +1437,7 @@
      "text": "frontul rece de ordinul II este frontul în care de-a lungul părții superioare a suprafeței acestuia se observă descendența aerului cald",
      "correct": true,
      "short": "Frontul în care de-a lungul părții superioare a suprafeței se observă descendența aerului cald.",
-     "long": "Varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1554,34 +1554,34 @@
    "number": "#44",
    "text": "275: Indicaţi zonele cu “umbre de vânt”:",
    "short": "Zonele cu umbre de vânt sunt marcate cu d în figura.",
-   "long": "Umbrele de vânt apar în spatele obstacolelor, pe partea de sub vânt. Figura arată zonele, iar varianta marcată este d. Verifică figura pentru a vedea cum se aplică.",
+   "long": "Umbrele de vânt apar în spatele obstacolelor, pe partea de sub vânt. Figura arată zonele, iar varianta corectă este d. Verifică figura pentru a vedea cum se aplică.",
    "answers": [
     {
      "text": "b",
      "correct": false,
      "short": "",
-     "long": "Varianta nu este cea marcată.",
+     "long": "Varianta nu este cea corectă.",
      "warn": ""
     },
     {
      "text": "a",
      "correct": false,
      "short": "",
-     "long": "Varianta nu este cea marcată.",
+     "long": "Varianta nu este cea corectă.",
      "warn": ""
     },
     {
      "text": "d",
      "correct": true,
      "short": "",
-     "long": "Varianta marcată; depinde de figură.",
+     "long": "Depinde de figură.",
      "warn": ""
     },
     {
      "text": "b și c",
      "correct": false,
      "short": "",
-     "long": "Varianta nu este cea marcată.",
+     "long": "Varianta nu este cea corectă.",
      "warn": ""
     }
    ]
@@ -1754,7 +1754,7 @@
      "text": "acest zbor nu este interzis, însă nu este recomandat, trebuie acordată atenție sporită controlului parapantei încât curenții ascendenți termici pot cauza închideri necontrolate ale aripii",
      "correct": true,
      "short": "Acest zbor nu este interzis, însă nu este recomandat; trebuie acordată atenție sporită controlului aripii, pentru că termicele pot cauza închideri necontrolate.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1790,7 +1790,7 @@
      "text": "vijeliile sunt asociate cu fronturile reci de ordinul II",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1819,7 +1819,7 @@
      "text": "norii sunt împărțiți în stratus, cirrus și cumulus pe baza formei lor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1878,27 +1878,27 @@
    "number": "#53",
    "text": "214: Care sunt caracteristicile unei vijelii?",
    "short": "Vijeliile sunt însoțite de un salt brusc al presiunii și de intensificarea vântului.",
-   "long": "Vijelia este o rafală puternică, produsă de frontul rece sau de un nor cumulonimbus. Se manifestă printr-un salt brusc de presiune, un vânt care se intensifică și o schimbare bruscă de direcție. Scăderile bruște de temperatură sau precipitațiile prelungite nu sunt caracteristicile marcate.",
+   "long": "Vijelia este o rafală puternică, produsă de frontul rece sau de un nor cumulonimbus. Se manifestă printr-un salt brusc de presiune, un vânt care se intensifică și o schimbare bruscă de direcție. Scăderile bruște de temperatură sau precipitațiile prelungite nu sunt caracteristicile corecte.",
    "answers": [
     {
      "text": "vijeliile sunt însoțite de un salt brusc al presiunii și de intensificarea vântului",
      "correct": true,
      "short": "",
-     "long": "Este caracteristica marcată.",
+     "long": "",
      "warn": ""
     },
     {
      "text": "caracteristicile unei vijelii includ scăderi bruște și semnificative de temperatură",
      "correct": false,
      "short": "",
-     "long": "Nu este caracteristica marcată.",
+     "long": "Nu este caracteristica corectă.",
      "warn": ""
     },
     {
      "text": "vijeliile se manifestă prin creșterea bruscă a umidității relative",
      "correct": false,
      "short": "",
-     "long": "Nu este caracteristica marcată.",
+     "long": "Nu este caracteristica corectă.",
      "warn": ""
     },
     {
@@ -1920,7 +1920,7 @@
      "text": "ocolirea norilor de tip CB la o distanță de minim 10 km și minim 37 km pentru orajele puternice",
      "correct": true,
      "short": "",
-     "long": "Varianta marcată; verifică valorile din procedurile aplicabile.",
+     "long": "Verifică valorile din procedurile aplicabile.",
      "warn": ""
     },
     {
@@ -1956,7 +1956,7 @@
      "text": "vântul catabatic",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1977,7 +1977,7 @@
      "text": "vântul de munte",
      "correct": false,
      "short": "",
-     "long": "Termenul este prea general; varianta marcată este catabaticul.",
+     "long": "Termenul este prea general; varianta corectă este catabaticul.",
      "warn": ""
     }
    ]
@@ -2388,7 +2388,7 @@
      "text": "b",
      "correct": false,
      "short": "",
-     "long": "Varianta nu este cea marcată.",
+     "long": "Varianta nu este cea corectă.",
      "warn": ""
     },
     {
@@ -2402,14 +2402,14 @@
      "text": "c",
      "correct": true,
      "short": "",
-     "long": "Varianta marcată; depinde de figură.",
+     "long": "Depinde de figură.",
      "warn": ""
     },
     {
      "text": "a",
      "correct": false,
      "short": "",
-     "long": "Varianta nu este cea marcată.",
+     "long": "Varianta nu este cea corectă.",
      "warn": ""
     }
    ]
@@ -2460,7 +2460,7 @@
      "text": "schimbări bruște ale altitudinii și vitezei orizontale și verticale",
      "correct": false,
      "short": "",
-     "long": "Este o descriere apropiată, dar varianta marcată este cea cu capul compas și turația.",
+     "long": "Este o descriere apropiată, dar varianta corectă este cea cu capul compas și turația.",
      "warn": ""
     },
     {
@@ -2474,7 +2474,7 @@
      "text": "schimbări bruște ale capului compas, ratei de viraj, turației motorului și temperaturii ambientale",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2496,7 +2496,7 @@
      "text": "frontul rece de ordinul I este frontul în care de-a lungul întregii suprafețe frontale a acestuia se observă ascensiunea aerului cald",
      "correct": true,
      "short": "Frontul în care de-a lungul întregii suprafețe frontale se observă ascensiunea aerului cald.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2589,7 +2589,7 @@
      "text": "în umbra vântului sub nivelul crestei versantului stâng",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2604,7 +2604,7 @@
      "text": "viteza vântului la sol depinde de topografia terenului",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2661,7 +2661,7 @@
      "text": "modifica viteza motoparapantei faţă de sol",
      "correct": true,
      "short": "Modifică viteza motoparapantei față de sol.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2683,7 +2683,7 @@
      "text": "ne ajută să observăm mișcarea fronturilor atmosferice și ne ajută să ne planificăm zborul în siguranță, evaluând evoluția acestora",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2748,7 +2748,7 @@
      "text": "temperatura (°C) și umiditatea specifică (g/kg)",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2769,7 +2769,7 @@
      "text": "presiunea (mb) și densitatea (g/m³)",
      "correct": false,
      "short": "",
-     "long": "Varianta este dublată și nu este cea marcată.",
+     "long": "Varianta este dublată și nu este cea corectă.",
      "warn": ""
     }
    ]
@@ -2798,7 +2798,7 @@
      "text": "factori declanșatori pentru ascendențe, instabilitate atmosferică și nebulozitate",
      "correct": false,
      "short": "",
-     "long": "Nebulozitatea nu este condiție separată marcată.",
+     "long": "Nebulozitatea nu este condiție separată corectă.",
      "warn": ""
     },
     {
@@ -2814,7 +2814,7 @@
    "number": "#79",
    "text": "313: Treapta barică, de la nivelul mării până la 5000 ft., scade cu?",
    "short": "Între nivelul mării și 5000 ft, treapta barică este de aproximativ 1 hPa la fiecare 30 ft.",
-   "long": "Corect: regula pilotului este 1 hPa la aproximativ 30 ft în straturile joase, adică 1 hPa la aproximativ 8–9 m. Varianta este cea corectă, spre deosebire de întrebarea 35, unde varianta marcată are o eroare.",
+   "long": "Corect: regula pilotului este 1 hPa la aproximativ 30 ft în straturile joase, adică 1 hPa la aproximativ 8–9 m. Varianta este cea corectă, spre deosebire de întrebarea 35, unde varianta corectă are o eroare.",
    "answers": [
     {
      "text": "1 milibar pentru fiecare 1000 ft.",
@@ -2827,7 +2827,7 @@
      "text": "1 milibar pentru fiecare 30 ft.",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată și corespunde regulii pilotului.",
+     "long": "Este varianta corectă și corespunde regulii pilotului.",
      "warn": ""
     },
     {
@@ -2850,34 +2850,34 @@
    "number": "#80",
    "text": "276: Veţi întâlni turbulenţe ce pot fi periculoase în caz de zbor aproape de relief:",
    "short": "Turbulențe periculoase apar zburând aproape de relief în zonele 1, 2 și 3 din figura.",
-   "long": "Turbulența apare în toate zonele sub vânt și lângă relieful accidentat. Varianta marcată indică zonele 1, 2 și 3. Verifică figura pentru poziționarea exactă.",
+   "long": "Turbulența apare în toate zonele sub vânt și lângă relieful accidentat. Varianta corectă indică zonele 1, 2 și 3. Verifică figura pentru poziționarea exactă.",
    "answers": [
     {
      "text": "în 1 şi 2",
      "correct": false,
      "short": "În 1 și 2.",
-     "long": "Varianta nu este cea marcată.",
+     "long": "Varianta nu este cea corectă.",
      "warn": ""
     },
     {
      "text": "doar în 2",
      "correct": false,
      "short": "",
-     "long": "Varianta nu este cea marcată.",
+     "long": "Varianta nu este cea corectă.",
      "warn": ""
     },
     {
      "text": "în 1, 2 şi 3",
      "correct": true,
      "short": "În 1, 2 și 3.",
-     "long": "Varianta marcată; depinde de figură.",
+     "long": "Depinde de figură.",
      "warn": ""
     },
     {
      "text": "doar în 1",
      "correct": false,
      "short": "",
-     "long": "Varianta nu este cea marcată.",
+     "long": "Varianta nu este cea corectă.",
      "warn": ""
     }
    ]
@@ -3007,7 +3007,7 @@
      "text": "starea de încălzire a aerului",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3057,7 +3057,7 @@
      "text": "vizibilitate min. 10 km, baza norilor min. 1,5 km, fără fenomene meteo semnificative",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -3066,34 +3066,34 @@
    "number": "#86",
    "text": "274: Veţi întâlni turbulenţe ce pot fi periculoase în caz de zbor la mică altitudine sau aterizare:",
    "short": "Turbulențe periculoase apar la zbor la altitudine mică sau la aterizare în zonele 3 și 4 din figura.",
-   "long": "La altitudine mică și la aterizare, turbulența de sub vânt și de la relief este cea mai periculoasă. Varianta marcată indică zonele 3 și 4. Verifică figura.",
+   "long": "La altitudine mică și la aterizare, turbulența de sub vânt și de la relief este cea mai periculoasă. Varianta corectă indică zonele 3 și 4. Verifică figura.",
    "answers": [
     {
      "text": "în 1",
      "correct": false,
      "short": "",
-     "long": "Varianta nu este cea marcată.",
+     "long": "Varianta nu este cea corectă.",
      "warn": ""
     },
     {
      "text": "în 3 şi 4",
      "correct": true,
      "short": "În 3 și 4.",
-     "long": "Varianta marcată; depinde de figură.",
+     "long": "Depinde de figură.",
      "warn": ""
     },
     {
      "text": "în 1 şi 2",
      "correct": false,
      "short": "În 1 și 2.",
-     "long": "Varianta nu este cea marcată.",
+     "long": "Varianta nu este cea corectă.",
      "warn": ""
     },
     {
      "text": "în 2 şi 3",
      "correct": false,
      "short": "În 2 și 3.",
-     "long": "Varianta nu este cea marcată.",
+     "long": "Varianta nu este cea corectă.",
      "warn": ""
     }
    ]
@@ -3102,7 +3102,7 @@
    "number": "#87",
    "text": "310: La ce temperatură va ajunge o masă de aer uscat cu temperatura inițială de 10˚C care se răcește adiabatic până la 1000m?",
    "short": "O masă de aer uscat cu temperatura de 10°C, care se răcește adiabatic până la 1000 m, ajunge la aproximativ 0,2°C, nu la 3,5°C.",
-   "long": "Pentru aer uscat, gradientul adiabatic este de aproximativ 9,8°C pe kilometru. Pe 1000 m temperatura scade cu circa 9,8°C, deci de la 10°C ajunge la aproximativ 0,2°C. Varianta marcată (3,5°C) nu corespunde acestui calcul, deci întrebarea conține o eroare. Verifică-o cu profesorul sau cu manualul de meteo.",
+   "long": "Pentru aer uscat, gradientul adiabatic este de aproximativ 9,8°C pe kilometru. Pe 1000 m temperatura scade cu circa 9,8°C, deci de la 10°C ajunge la aproximativ 0,2°C. Valoarea de 3,5°C nu corespunde acestui calcul, deci întrebarea conține o eroare. Verifică-o cu profesorul sau cu manualul de meteo.",
    "answers": [
     {
      "text": "1 grad Celsius",
@@ -3122,7 +3122,7 @@
      "text": "3,5 grade Celsius",
      "correct": true,
      "short": "",
-     "long": "Varianta marcată, dar nu corespunde gradientului adiabatic uscat (9,8°C/km).",
+     "long": "Este greșită: nu corespunde gradientului adiabatic uscat (9,8°C/km).",
      "warn": "Răspuns greșit: gradientul adiabatic uscat este de circa 9,8°C/km, deci 10°C scade la aproximativ 0,2°C la 1000 m, nu la 3,5°C."
     },
     {

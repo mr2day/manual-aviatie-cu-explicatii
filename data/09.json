@@ -19,7 +19,7 @@
      "text": "poate duce la un stall",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -48,7 +48,7 @@
      "text": "adevărat",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -91,7 +91,7 @@
      "text": "scade portanța și necesită ajustarea puterii",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -134,7 +134,7 @@
      "text": "aripa intră în stall și pierde rapid altitudine",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -163,7 +163,7 @@
      "text": "30 km/h",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată: 60 − 30 = 30.",
+     "long": "Este varianta corectă: 60 − 30 = 30.",
      "warn": ""
     },
     {
@@ -213,7 +213,7 @@
      "text": "să ajustezi trimmerele și să folosești frânele pentru a stabiliza",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -249,7 +249,7 @@
      "text": "se pilotează cu chinga",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -264,7 +264,7 @@
      "text": "forța portanței contracarează greutatea parapantei și menține altitudinea constantă, permițând un zbor stabil",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -307,7 +307,7 @@
      "text": "cu atât creşte viteza de înfundare",
      "correct": false,
      "short": "Cu atât crește viteza de înfundare.",
-     "long": "Viteza de înfundare crește, dar varianta marcată este înclinația.",
+     "long": "Viteza de înfundare crește, dar varianta corectă este înclinația.",
      "warn": ""
     },
     {
@@ -321,7 +321,7 @@
      "text": "cu atât creşte înclinaţia",
      "correct": true,
      "short": "Cu atât crește înclinația.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -336,7 +336,7 @@
      "text": "scade portanța și necesită ajustarea puterii",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -386,7 +386,7 @@
      "text": "mai mare pe extrados decât pe intrados",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -408,7 +408,7 @@
      "text": "scade portanța și stabilitatea în viraje strânse",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -444,7 +444,7 @@
      "text": "să crești puterea motorului și să stabilizezi aripa folosind frânele",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -494,7 +494,7 @@
      "text": "raza de viraj scade",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -537,7 +537,7 @@
      "text": "viteza de zbor si unghiul de incidență",
      "correct": true,
      "short": "Viteza de zbor și unghiul de incidență.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -573,7 +573,7 @@
      "text": "acționează în direcția opusă tracțiunii, reducând viteza de zbor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -602,7 +602,7 @@
      "text": "unghiul de atac mai mare crește portanța, dar poate duce la un stall dacă este prea mare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -631,7 +631,7 @@
      "text": ". stratul de aer din imediata vecinătate a aeronavei în care viteza creşte de la zero la viteza de zbor",
      "correct": true,
      "short": "Stratul de aer din imediata vecinătate a aeronavei în care viteza crește de la zero la viteza de zbor.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -681,7 +681,7 @@
      "text": "greutatea, forța portanta, forța de tracțiune și forța de frecare",
      "correct": true,
      "short": "Greutatea, forța portantă, forța de tracțiune și forța de frecare.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -696,7 +696,7 @@
      "text": "pe capetele aripii",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -746,14 +746,14 @@
      "text": "crește viteza de zbor",
      "correct": false,
      "short": "",
-     "long": "Crește viteza, dar varianta marcată este riscul.",
+     "long": "Crește viteza, dar varianta corectă este riscul.",
      "warn": ""
     },
     {
      "text": "crește riscul de instabilitate și necesită atenție sporită",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -789,7 +789,7 @@
      "text": "pot provoca pierderea portanței și instabilitate temporară",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -804,7 +804,7 @@
      "text": "greutatea pilotului, condițiile medii de zbor și nivelul de confort dorit",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -861,7 +861,7 @@
      "text": "scade portanța și necesită ajustarea puterii",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -883,7 +883,7 @@
      "text": "prin repetarea exercițiilor de sol, învățarea tehnicii corecte de alergare și practică sub supravegherea atentă a instructorului",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -912,7 +912,7 @@
      "text": "permite zborul la viteze mai mari cu un consum redus de combustibil",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -942,7 +942,7 @@
    "number": "#27",
    "text": "600: Pentru a păstra altitudinea în timpul unui viraj accentuat ce trebuie să facem?",
    "short": "Pentru a păstra altitudinea în timpul unui viraj accentuat, pui accelerația pe tempomat (motorul la putere mai mare).",
-   "long": "În viraj accentuat, portanța verticală scade, deci trebuie compensată prin putere suplimentară. Varianta marcată formulează această compensare ca accelerație menținută, adică putere mai mare. Decelerarea sau frânarea maximă nu păstrează altitudinea.",
+   "long": "În viraj accentuat, portanța verticală scade, deci trebuie compensată prin putere suplimentară. Varianta corectă formulează această compensare ca accelerație menținută, adică putere mai mare. Decelerarea sau frânarea maximă nu păstrează altitudinea.",
    "answers": [
     {
      "text": "decelerăm",
@@ -955,14 +955,14 @@
      "text": "punem accelerația pe tempomat",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată: putere suplimentară pentru a compensa.",
+     "long": "Este varianta corectă: putere suplimentară pentru a compensa.",
      "warn": ""
     },
     {
      "text": "accelerăm",
      "correct": false,
      "short": "",
-     "long": "Accelerarea fără ajustare poate fi insuficientă; varianta marcată este menținerea puterii.",
+     "long": "Accelerarea fără ajustare poate fi insuficientă; varianta corectă este menținerea puterii.",
      "warn": ""
     },
     {
@@ -984,7 +984,7 @@
      "text": "scade viteza de zbor față de sol",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1034,7 +1034,7 @@
      "text": "reduc stabilitatea și cresc riscul de pierdere a controlului",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1050,7 +1050,7 @@
    "number": "#30",
    "text": "601: Ce se întâmplă dacă în aer frânăm aripa și accelerăm maxim, iar aripa rămâne excesiv în spatele nostru:",
    "short": "Dacă frânezi aripa și accelerezi maxim, iar aripa rămâne excesiv în spatele tău, aripa se angajează.",
-   "long": "Când aripa rămâne în spate, nu mai este aliniată cu pilotul și nu se poate ridica deasupra. Varianta marcată indică termenul „se angajează” pentru această situație. Ascendența constantă, front stall-ul și închiderea asimetrică nu sunt descrierea corectă.",
+   "long": "Când aripa rămâne în spate, nu mai este aliniată cu pilotul și nu se poate ridica deasupra. Varianta corectă indică termenul „se angajează” pentru această situație. Ascendența constantă, front stall-ul și închiderea asimetrică nu sunt descrierea corectă.",
    "answers": [
     {
      "text": "vom avea ascendența constantă și o bună rată de urcare",
@@ -1070,7 +1070,7 @@
      "text": "aripa se angajează",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1099,7 +1099,7 @@
      "text": "Aruncăm imediat parașuta de rezervă",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1142,7 +1142,7 @@
      "text": "caracteristicile de zbor ale parapantei",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1171,7 +1171,7 @@
      "text": "elicea devine mai puțin eficientă",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1221,7 +1221,7 @@
      "text": "depresiune",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1243,7 +1243,7 @@
      "text": "paralel cu direcția de zbor și înainte, în direcția mișcării",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1293,7 +1293,7 @@
      "text": "motoparapanta va urca",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1302,13 +1302,13 @@
    "number": "#37",
    "text": "598: La majoritatea aripilor de generație nouă, în cazul zborului cu trimmer deshis și speed apăsat este recomandată folosirea intensă a frânelor:",
    "short": "La aripile noi, cu trimmer deschis și speed apăsat, nu se recomandă folosirea intensă a frânelor.",
-   "long": "Speed-ul apăsat și trimmerele deschise reduc unghiul de atac, iar aripa este mai sensibilă. Frânarea intensă poate duce la stall sau la colaps. Varianta marcată indică răspunsul negativ.",
+   "long": "Speed-ul apăsat și trimmerele deschise reduc unghiul de atac, iar aripa este mai sensibilă. Frânarea intensă poate duce la stall sau la colaps. Varianta corectă indică răspunsul negativ.",
    "answers": [
     {
      "text": "nu",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1351,7 +1351,7 @@
      "text": "comenzile se țin cu o singură mână și cu cealaltă mână ne ajutăm să intrăm in seletă sau punem comenzile în magnet sau capse și cu mâinile ne ajutăm să intrăm in seletă",
      "correct": true,
      "short": "Comenzile se țin cu o singură mână și cu cealaltă mână ne ajutăm să intrăm în seletă sau punem comenzile în magnet sau capse și cu mâinile ne ajutăm să intrăm în seletă.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1365,7 +1365,7 @@
      "text": "nu dăm drumul la comenzi",
      "correct": false,
      "short": "",
-     "long": "Nu este explicația completă; varianta marcată include și fixarea comenzilor.",
+     "long": "Nu este explicația completă; varianta corectă include și fixarea comenzilor.",
      "warn": ""
     }
    ]
@@ -1394,7 +1394,7 @@
      "text": "în direcția opusă accelerației, afectând stabilitatea și controlul",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1416,7 +1416,7 @@
      "text": "aripa intră în stall",
      "correct": false,
      "short": "",
-     "long": "Poate fi o consecință, dar varianta marcată este forța G și pierderea controlului.",
+     "long": "Poate fi o consecință, dar varianta corectă este forța G și pierderea controlului.",
      "warn": ""
     },
     {
@@ -1430,7 +1430,7 @@
      "text": "crește forța G și poate duce la pierderea controlului",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1446,20 +1446,20 @@
    "number": "#41",
    "text": "611: La viteză constantă creşterea unghiului de incidenţă al unui profil va avea drept rezultat:",
    "short": "La viteză constantă, creșterea unghiului de incidență, conform băncii, duce la diminuarea rezistenței la înaintare.",
-   "long": "Varianta marcată este greșită din punct de vedere fizic: creșterea unghiului de incidență crește portanța și, de regulă, rezistența indusă. Rezistența scade când unghiul scade. Reține că răspunsul trebuie verificat.",
+   "long": "Varianta A este greșită din punct de vedere fizic: creșterea unghiului de incidență crește portanța și, de regulă, rezistența indusă. Rezistența scade când unghiul scade.",
    "answers": [
     {
      "text": "o diminuare a rezistenţei la înaintare",
      "correct": true,
      "short": "O diminuare a rezistenței la înaintare.",
-     "long": "Varianta marcată, dar greșită: incidența mai mare crește rezistența.",
+     "long": "Este greșită: incidența mai mare crește rezistența.",
      "warn": "Greșit: creșterea unghiului de incidență crește portanța și rezistența. Rezistența scade când unghiul scade, nu când crește."
     },
     {
      "text": "o creştere a portanţei, apoi o diminuare brutală a acesteia odată cu atingerea incidenţei de angajare (critice)",
      "correct": false,
      "short": "O creștere a portanței, apoi o diminuare bruscă a acesteia odată cu atingerea incidenței de angajare (critice).",
-     "long": "Descrie corect stallul, dar nu este varianta marcată.",
+     "long": "Descrie corect stallul, dar nu răspunde la întrebarea despre rezistență.",
      "warn": ""
     },
     {
@@ -1502,7 +1502,7 @@
      "text": "acționează vertical în jos, contracarând portanța și afectând altitudinea de zbor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1545,7 +1545,7 @@
      "text": "oprim imediat motorul și aterizăm",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1567,7 +1567,7 @@
      "text": "sunt mai instabile și necesită o manevrare mai precisă",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1590,7 +1590,7 @@
    "number": "#45",
    "text": "674: Cum afectează unghiul de incidență stabilitatea și controlul unei parapante în diverse condiții de zbor?",
    "short": "Un unghi de incidență mai mare poate îmbunătăți stabilitatea la altitudini mari, dar crește rezistența aerodinamică și consumul de energie.",
-   "long": "Răspunsul marcat descrie compromisul: incidența mai mare aduce portanță și, uneori, stabilitate, dar rezistența și consumul cresc. Verifică sursa, pentru că efectul asupra stabilității depinde de profil.",
+   "long": "Răspunsul corect descrie compromisul: incidența mai mare aduce portanță și, uneori, stabilitate, dar rezistența și consumul cresc. Verifică sursa, pentru că efectul asupra stabilității depinde de profil.",
    "answers": [
     {
      "text": "un unghi de incidență ajustabil nu are un impact semnificativ asupra performanței generale a parapantei, fiind mai important pentru zborurile acrobatice",
@@ -1610,14 +1610,14 @@
      "text": "un unghi de incidență mai mare poate îmbunătăți stabilitatea la altitudini mari, dar poate duce la o creștere a rezistenței aerodinamice și a consumului de energie",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată; verifică sursa pentru stabilitate.",
+     "long": "Verifică sursa pentru stabilitate.",
      "warn": ""
     },
     {
      "text": "un unghi de incidență mai mare permite o viteză de zbor mai mare, dar poate reduce stabilitatea în condiții de vânt variabil",
      "correct": false,
      "short": "",
-     "long": "Descrierea este apropiată, dar varianta marcată este cealaltă.",
+     "long": "Descrierea este apropiată, dar varianta corectă este cealaltă.",
      "warn": ""
     }
    ]
@@ -1653,7 +1653,7 @@
      "text": "acționează radial în afară de centrul virajului, crescând presiunea pe aripa exterioară",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1682,7 +1682,7 @@
      "text": "stabilitate ridicată și manevrabilitate redusă pentru a preveni erorile de control",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1718,7 +1718,7 @@
      "text": "să crești puterea motorului și să stabilizezi aripa",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1740,7 +1740,7 @@
      "text": "raportul dintre greutatea totală în zbor și suprafața portantă",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1797,7 +1797,7 @@
      "text": "stau pe loc",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1833,7 +1833,7 @@
      "text": "crește portanța, scade viteza",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1862,7 +1862,7 @@
      "text": "permite economisirea combustibilului și crește autonomia totală",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1905,7 +1905,7 @@
      "text": "aripa poate intra în stall și pierde altitudine rapid",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1927,7 +1927,7 @@
      "text": "pentru că oferă o stabilitate mai bună la viteze mari și reduc riscul de colaps",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1970,7 +1970,7 @@
      "text": "perpendicular pe direcția de zbor și contrar greutății",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1999,7 +1999,7 @@
      "text": "datorită diferenței de presiune dintre partea superioară și inferioară a aripii cauzată de profilul curbat",
      "correct": true,
      "short": "Datorită diferenței de presiune dintre partea superioară și inferioară a aripii, cauzată de profilul curbat.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2042,7 +2042,7 @@
      "text": "cresc riscul de turbulențe și necesită atenție sporită",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2078,7 +2078,7 @@
      "text": "forța de tracțiune acționează paralel cu direcția de zbor și contribuie la înaintarea parapantei, influențând viteza și stabilitatea",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2107,7 +2107,7 @@
      "text": "vei mări puterea motorului și vei elibera ușor frânele",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2136,7 +2136,7 @@
      "text": "trimmer și accelerator",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2150,7 +2150,7 @@
      "text": "putere la motor",
      "correct": false,
      "short": "",
-     "long": "Este parțial, dar varianta marcată include trimmerul și acceleratorul.",
+     "long": "Este parțial, dar varianta corectă include trimmerul și acceleratorul.",
      "warn": ""
     },
     {
@@ -2179,7 +2179,7 @@
      "text": "o aripă poziționată incorect poate provoca umflarea asimetrică, ducând la o decolare instabilă și potențial periculoasă",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2229,7 +2229,7 @@
      "text": "este distanța parcursă într-o direcție pe care putem să neîintoarcem la locul de decolare",
      "correct": false,
      "short": "Este un con imaginar, motoparapanta reprezentând vârful lui, în care zburăm, astfel încât în orice moment în care motorul se oprește putem găsi pe suprafața bazei lui un teren suficient de mare în care să putem ateriza în siguranță.",
-     "long": "Este varianta marcată.",
+     "long": "Este varianta corectă.",
      "warn": ""
     }
    ]
@@ -2251,7 +2251,7 @@
      "text": "permite o urcare rapidă, dar reduce autonomia totală de zbor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2294,7 +2294,7 @@
      "text": "permite o urcare eficientă",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2323,7 +2323,7 @@
      "text": "unghiul format între coarda profilului aripii şi vântul relativ",
      "correct": true,
      "short": "Unghiul format între coarda profilului aripii și vântul relativ.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2373,7 +2373,7 @@
      "text": "să faci manevre rapide și complexe",
      "correct": false,
      "short": "Să eviți manevrele avansate și să te concentrezi pe controlul de bază.",
-     "long": "Este varianta marcată.",
+     "long": "Este varianta corectă.",
      "warn": ""
     }
    ]
@@ -2395,7 +2395,7 @@
      "text": "perpendicular pe suprafața aripii și în toate direcțiile, în funcție de curgerea aerului",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2424,7 +2424,7 @@
      "text": "verificarea echipamentului, poziționarea corectă a aripii, evaluarea direcției și vitezei vântului și aplicarea tehnicii corecte de alergare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2481,7 +2481,7 @@
      "text": "scade portanța și tracțiunea, necesită ajustarea amestecului de combustibil",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2496,7 +2496,7 @@
      "text": "eliberarea ușor și simultan pentru a păstra direcția și pentru a evita descendența bruscă",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2539,7 +2539,7 @@
      "text": "vertical în jos, contrar forței portanței",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2562,20 +2562,20 @@
    "number": "#72",
    "text": "637: Inspecția aripilor utilizate intens trebuie făcută:",
    "short": "Inspecția aripilor utilizate intens trebuie făcută după o încărcare bruscă, cum ar fi snap-ul în timpul gonflajului sau lovirea brutală a bordului de atac de sol.",
-   "long": "Încărcările bruște pot deteriora țesătura și suspantele fără să se vadă imediat. De aceea, după un incident de acest fel se face o inspecție. Inspecția periodică se face și ea, conform manualului, dar varianta marcată este cea legată de încărcări bruște.",
+   "long": "Încărcările bruște pot deteriora țesătura și suspantele fără să se vadă imediat. De aceea, după un incident de acest fel se face o inspecție. Inspecția periodică se face și ea, conform manualului, dar varianta corectă este cea legată de încărcări bruște.",
    "answers": [
     {
      "text": "o dată pe an",
      "correct": false,
      "short": "",
-     "long": "Este un interval periodic, nu varianta marcată.",
+     "long": "Este un interval periodic, nu varianta corectă.",
      "warn": ""
     },
     {
      "text": "după o încărcare bruscă, cum ar fi „snap-ul” în timpul gonflajului sau cand lovește brutal bordul de atac solul",
      "correct": true,
      "short": "După o încărcare bruscă, cum ar fi snap-ul în timpul gonflajului sau când lovește brutal bordul de atac solul.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2598,13 +2598,13 @@
    "number": "#73",
    "text": "619: Centrul de presiune este:",
    "short": "Centrul de presiune este mobil sau fix, în funcție de tipul profilului aerodinamic.",
-   "long": "Centrul de presiune este punctul în care se consideră concentrată portanța. La unele profile el se mișcă cu unghiul de atac, la altele rămâne aproape fix. Varianta marcată indică această formulare.",
+   "long": "Centrul de presiune este punctul în care se consideră concentrată portanța. La unele profile el se mișcă cu unghiul de atac, la altele rămâne aproape fix. Varianta corectă indică această formulare.",
    "answers": [
     {
      "text": "variabil",
      "correct": false,
      "short": "",
-     "long": "Este parțial corect, dar varianta marcată este formularea completă.",
+     "long": "Este parțial corect, dar varianta corectă este formularea completă.",
      "warn": ""
     },
     {
@@ -2625,7 +2625,7 @@
      "text": "mobil sau fix functie de tipul profilului aerodinamic",
      "correct": true,
      "short": "Mobil sau fix, în funcție de tipul profilului aerodinamic.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2654,7 +2654,7 @@
      "text": "vei reduce puterea motorului și vei stabiliza aripa folosind frânele",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2690,7 +2690,7 @@
      "text": "crește riscul de stall din cauza unghiului de atac prea mare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2719,7 +2719,7 @@
      "text": "aripile stabile și ușor de controlat permit învățarea treptată și reduc riscul de accidente",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2755,7 +2755,7 @@
      "text": "zborul cu atenție deosebită și în condiții atmosferice calme, încât există posibilitate mare de colaps",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2784,7 +2784,7 @@
      "text": "să reduci puterea motorului și să folosești frânele pentru a stabiliza",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2820,7 +2820,7 @@
      "text": "gravitaţia, portanţa, rezistenţa la înaintare, tracţiunea",
      "correct": false,
      "short": "Gravitația, portanța, rezistența la înaintare, tracțiunea.",
-     "long": "Este apropiată, dar varianta marcată folosește termenul de propulsie.",
+     "long": "Este apropiată, dar varianta corectă folosește termenul de propulsie.",
      "warn": ""
     },
     {
@@ -2834,7 +2834,7 @@
      "text": "greutatea, propulsia, rezistenţa la înaintare, portanţa",
      "correct": true,
      "short": "Greutatea, propulsia, rezistența la înaintare, portanța.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2870,7 +2870,7 @@
      "text": "material durabil cu rezistență ridicată la uzură și o structură ușoară pentru manevrabilitate",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2906,7 +2906,7 @@
      "text": "acționează oblic față de direcția de zbor, combinând portanța și rezistența aerodinamică",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2949,7 +2949,7 @@
      "text": "cresterea de putere şi scaderea greutatii",
      "correct": true,
      "short": "Cresterea de putere și scăderea greutății.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2964,7 +2964,7 @@
      "text": "pentru că nu generează suficientă portanță la unghiuri de atac mici",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3000,14 +3000,14 @@
      "text": "după fiecare zbor",
      "correct": false,
      "short": "",
-     "long": "Verificarea după zbor este utilă, dar varianta marcată este înaintea fiecărui zbor.",
+     "long": "Verificarea după zbor este utilă, dar varianta corectă este înaintea fiecărui zbor.",
      "warn": ""
     },
     {
      "text": "înaintea fiecărui zbor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3021,7 +3021,7 @@
      "text": "înaintea decolării",
      "correct": false,
      "short": "",
-     "long": "Este parte din verificarea preflight, dar varianta marcată este înaintea fiecărui zbor.",
+     "long": "Este parte din verificarea preflight, dar varianta corectă este înaintea fiecărui zbor.",
      "warn": ""
     }
    ]
@@ -3057,7 +3057,7 @@
      "text": "o formă cu curbură moderată optimizează portanța și minimizează rezistența aerodinamică",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -3093,7 +3093,7 @@
      "text": "cu mâinile sus pentru a avea energia necesara filării",
      "correct": true,
      "short": "Cu mâinile sus pentru a avea energia necesară filării.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -3129,7 +3129,7 @@
      "text": "crește rezistența aerodinamică și reduce stabilitatea în turbulențe",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -3151,7 +3151,7 @@
      "text": "cu vânt de față vom avea viteza de 0 km/h fața de sol",
      "correct": true,
      "short": "Cu vânt de față vom avea viteza de 0 km/h față de sol.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3201,7 +3201,7 @@
      "text": "să reduci puterea motorului și să stabilizezi aripa folosind frânele",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -3223,7 +3223,7 @@
      "text": "aripa atinge viteza maximă, dar devine mai sensibilă la manevre bruște",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3266,7 +3266,7 @@
      "text": "să fie setate pentru decolare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3309,7 +3309,7 @@
      "text": "virăm la dreapta",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -3338,14 +3338,14 @@
      "text": "depinde de unghiul elicei",
      "correct": false,
      "short": "",
-     "long": "Este un factor, dar nu varianta marcată.",
+     "long": "Este un factor, dar nu varianta corectă.",
      "warn": ""
     },
     {
      "text": "în sensul cuplului motor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -3360,7 +3360,7 @@
      "text": "profilul cu o curbură mai pronunțată produce mai multă portanță, dar și mai multă rezistență aerodinamică",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3396,7 +3396,7 @@
      "text": "crește consumul de combustibil și riscul de supraîncălzire a motorului",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3432,7 +3432,7 @@
      "text": "vei reduce puterea motorului și vei folosi frânele pentru a stabiliza aripa",
      "correct": false,
      "short": "",
-     "long": "Este parțial corect, dar varianta marcată include închiderea trimmerelor.",
+     "long": "Este parțial corect, dar varianta corectă include închiderea trimmerelor.",
      "warn": ""
     },
     {
@@ -3453,7 +3453,7 @@
      "text": "vei închide trimmerele și vei folosi frânele pentru stabilizare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -3489,7 +3489,7 @@
      "text": "vizualizare câmp de aterizare aflat în conul de siguranță, încercare repornire motor, stabilire direcția vântului",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -3518,7 +3518,7 @@
      "text": "cu speed-ul neapăsat și trimerul în pozitie standard (închis)",
      "correct": true,
      "short": "Cu speed-ul neapăsat și trimmerul în poziție standard (închis).",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3540,7 +3540,7 @@
      "text": "se opreste motorul si se renunta la decolare",
      "correct": true,
      "short": "Se oprește motorul și se renunță la decolare.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3597,7 +3597,7 @@
      "text": "ajustarea frânelor pentru a menține aripa centrată, utilizarea unui unghi de atac adecvat, și menținerea unei alergări constante",
      "correct": true,
      "short": "Ajustarea frânelor pentru a menține aripa centrată, utilizarea unui unghi de atac adecvat și menținerea unei alergări constante.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -3619,7 +3619,7 @@
      "text": "în jos și înapoi, reducând viteza și crescând portanța",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3669,7 +3669,7 @@
      "text": "să eviți manevrele bruște și să folosești tip steering pentru viraje",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -3705,7 +3705,7 @@
      "text": "să reducă imediat puterea motorului, să verifice poziția aripii și să repete procedura de umflare cu atenție sporită",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]

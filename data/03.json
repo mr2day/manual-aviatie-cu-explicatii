@@ -6,20 +6,20 @@
    "number": "#1",
    "text": "325: Ce drepturi au piloții străini de motoparapantă pentru a zbura în România?",
    "short": "Piloții străini de motoparapantă pot zbura în România doar în anumite zone desemnate.",
-   "long": "Accesul piloților străini depinde de recunoașterea licenței și de respectarea regulilor locale. Varianta marcată indică varianta cu zonele desemnate. Condițiile exacte (recunoașterea licenței, zonele, eventualele autorizări) trebuie verificate în reglementarea actuală (RACR-LPAN ULM și legislația aeronautică), deoarece aceste cerințe pot fi modificate.",
+   "long": "Accesul piloților străini depinde de recunoașterea licenței și de respectarea regulilor locale. Varianta corectă este cea cu zonele desemnate. Condițiile exacte (recunoașterea licenței, zonele, eventualele autorizări) trebuie verificate în reglementarea actuală (RACR-LPAN ULM și legislația aeronautică), deoarece aceste cerințe pot fi modificate.",
    "answers": [
     {
      "text": "pot zbura numai sub supravegherea unui pilot român",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
      "text": "pot zbura doar în anumite zone desemnate",
      "correct": true,
      "short": "",
-     "long": "Varianta marcată; verifică reglementarea actuală.",
+     "long": "Verifică reglementarea actuală.",
      "warn": ""
     },
     {
@@ -77,35 +77,35 @@
   {
    "number": "#3",
    "text": "335: Care este înălțimea maximă la care poate zbura o motoparapantă în spațiul aerian controlat?",
-   "short": "Varianta marcată indică 3000 de metri ca înălțime maximă a motoparapantei în spațiul aerian controlat.",
+   "short": "Varianta corectă indică 3000 de metri ca înălțime maximă a motoparapantei în spațiul aerian controlat.",
    "long": "Limitele de altitudine pentru ULM în spațiul controlat sunt stabilite prin reglementarea aeronautică și prin autorizațiile de zbor. Valoarea este 3000 m, dar nu am confirmat-o în textul oficial consultat, deci trebuie verificată în RACR-LPAN ULM și în AIP România înainte de zbor.",
    "answers": [
     {
      "text": "1500 de metri",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "3000 de metri",
      "correct": true,
      "short": "",
-     "long": "Valoarea marcată; verifică textul oficial.",
+     "long": "Verifică textul oficial.",
      "warn": ""
     },
     {
      "text": "2000 de metri",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "4000 de metri",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     }
    ]
@@ -113,35 +113,35 @@
   {
    "number": "#4",
    "text": "323: Care este înălțimea maximă la care poate zbura o motoparapantă în spațiul aerian G?",
-   "short": "Varianta marcată indică 3000 de metri ca înălțime maximă a motoparapantei în spațiul aerian G.",
+   "short": "Varianta corectă indică 3000 de metri ca înălțime maximă a motoparapantei în spațiul aerian G.",
    "long": "Spațiul aerian G este necontrolat. Limitele depind de condițiile VMC și de reglementarea aplicabilă. Valoarea este 3000 m, dar nu am găsit confirmarea ei în sursele consultate, deci verifică-o înainte să o reții.",
    "answers": [
     {
      "text": "3000 de metri",
      "correct": true,
      "short": "",
-     "long": "Valoarea marcată; verifică textul oficial.",
+     "long": "Verifică textul oficial.",
      "warn": ""
     },
     {
      "text": "2000 de metri",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "4000 de metri",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "1500 de metri",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     }
    ]
@@ -163,7 +163,7 @@
      "text": "RACR - LPAN ULM",
      "correct": true,
      "short": "",
-     "long": "Este licența marcată pentru personalul navigant ULM.",
+     "long": "Este licența corectă pentru personalul navigant ULM.",
      "warn": ""
     },
     {
@@ -235,7 +235,7 @@
      "text": "certificatul de recunoaștere emis de autoritatea de certificare",
      "correct": true,
      "short": "",
-     "long": "Este documentul marcat pentru recunoaștere.",
+     "long": "",
      "warn": ""
     },
     {
@@ -257,35 +257,35 @@
   {
    "number": "#8",
    "text": "175: Care sunt, conform reglementării RACR – RA Regulile aerului, condiţiile de vizibilitate şi plafon în care o aeronavă poate decola sau ateriza de pe/pe un aerodrom situat într-o zonă de control sau să intre în zona de trafic de aerodrom sau în procedura de trafic?",
-   "short": "Pentru decolare sau aterizare pe aerodromul din zona de control sau în zona de trafic, varianta marcată indică plafon de 450 m și vizibilitate la sol de 5 km.",
+   "short": "Pentru decolare sau aterizare pe aerodromul din zona de control sau în zona de trafic, varianta corectă indică plafon de 450 m și vizibilitate la sol de 5 km.",
    "long": "Condițiile minime de plafon și vizibilitate pentru decolare și aterizare în zona de control sunt stabilite prin RACR-RA (Regulile aerului). Valorile sunt 450 m și 5 km. Nu le-am confirmat în textul oficial, deci verifică-le înainte de utilizare.",
    "answers": [
     {
      "text": "plafon la 1000 m, vizibilitate la sol 10 km",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
      "text": "plafon la 1500 m, vizibilitate la sol 10 km",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
      "text": "plafon la 1500 m, vizibilitate la sol 5 km",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
      "text": "plafon la 450 m, vizibilitate la sol 5 km",
      "correct": true,
      "short": "",
-     "long": "Varianta marcată; verifică textul oficial.",
+     "long": "Verifică textul oficial.",
      "warn": ""
     }
    ]
@@ -307,21 +307,21 @@
      "text": "aibă o lăţime minima de 50 m, lungime minimă de 500 m, să nu fie obstacolate la mai puţin de 200 m faţa de praguri pe directive",
      "correct": false,
      "short": "Să fie cosite sau betonate.",
-     "long": "Nu este condiția marcată.",
+     "long": "Nu este condiția corectă.",
      "warn": ""
     },
     {
      "text": "să fie cosite sau betonate",
      "correct": false,
      "short": "Să obțină acordul proprietarului sau al administratorului, să fie în afara zonelor dens populate, la cel puțin 150 m de o locuință, iar dimensiunile să permită decolarea și aterizarea în siguranță.",
-     "long": "Varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
      "text": "fie autorizate de primărie",
      "correct": false,
      "short": "Să fie autorizate de primărie.",
-     "long": "Nu este condiția marcată.",
+     "long": "Nu este condiția corectă.",
      "warn": ""
     }
    ]
@@ -372,7 +372,7 @@
      "text": "pot fi reținute la sol până la stingerea debitelor sau constituirea unor garanții suficiente",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -415,7 +415,7 @@
      "text": "Ministerul Transporturilor",
      "correct": true,
      "short": "",
-     "long": "Este autoritatea marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -451,14 +451,14 @@
      "text": "pilotul instructor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
      "text": "operatorul aerian",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
@@ -487,7 +487,7 @@
      "text": "să obțină autorizație de la AACR",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -552,7 +552,7 @@
      "text": "zborurile VFR se vor putea desfășura numai prin coordonarea acestora cu cele ale aeronavelor de transport aerian public",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -609,7 +609,7 @@
      "text": "la sfârșitul fiecărei zile de zbor se va înscrie activitatea de zbor a aeronavei",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -617,35 +617,35 @@
   {
    "number": "#18",
    "text": "393: Care este masa maximă la decolare pentru o motoparapantă cu două locuri conform Anexei 1 – OMTCT 630, consolidat 2023?",
-   "short": "Varianta marcată indică 400 kg ca masă maximă la decolare pentru o motoparapantă cu două locuri.",
+   "short": "Masa maximă la decolare pentru o motoparapantă avansată cu două locuri, conform RACR-CCO ULM, anexa 1, este de 450 kg.",
    "long": "Masa maximă la decolare este stabilită prin reglementarea aeronavelor ultraușoare. Valoarea este 400 kg, dar în sursele consultate nu am găsit confirmarea cifrei pentru motoparapantă. Verifică-o în anexa actuală a OMTCT 630 sau în RACR-LPAN ULM.",
    "answers": [
     {
      "text": "250 kg",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată pentru două locuri.",
+     "long": "Nu este valoarea corectă pentru două locuri.",
      "warn": ""
     },
     {
      "text": "400 kg",
      "correct": true,
      "short": "",
-     "long": "Valoarea marcată; verifică textul oficial.",
+     "long": "Nu este valoarea corectă; verifică anexa 1 din RACR-CCO ULM, pct. 1.2.3.1.",
      "warn": "Conform RACR-CCO ULM, anexa 1, pct. 1.2.3.1, motoparapanta avansată cu două locuri are masa maximă la decolare de 450 kg, nu 400 kg."
     },
     {
      "text": "300 kg",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "350 kg",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     }
    ]
@@ -762,34 +762,34 @@
    "number": "#22",
    "text": "368: Ce constituie o contravenție conform Codului Aerian?",
    "short": "Constituie contravenție, conform Codului Aerian, lipsa de la bordul aeronavei a documentelor obligatorii.",
-   "long": "Codul Aerian impune ca documentele obligatorii (de înmatriculare, licența, certificatul medical, autorizația de zbor etc.) să fie la bord. Lipsa lor este contravenție. Întârzierea la decolare sau neinformarea pasagerilor nu sunt cele marcate.",
+   "long": "Codul Aerian impune ca documentele obligatorii (de înmatriculare, licența, certificatul medical, autorizația de zbor etc.) să fie la bord. Lipsa lor este contravenție. Întârzierea la decolare sau neinformarea pasagerilor nu sunt cele corecte.",
    "answers": [
     {
      "text": "neinformarea pasagerilor despre condițiile de zbor",
      "correct": false,
      "short": "",
-     "long": "Nu este contravenția marcată.",
+     "long": "Nu este contravenția corectă.",
      "warn": ""
     },
     {
      "text": "lipsa de la bordul aeronavei a documentelor obligatorii",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
      "text": "întârzierea la decolare",
      "correct": false,
      "short": "",
-     "long": "Nu este contravenția marcată.",
+     "long": "Nu este contravenția corectă.",
      "warn": ""
     },
     {
      "text": "nerespectarea orarului de zbor",
      "correct": false,
      "short": "",
-     "long": "Nu este contravenția marcată.",
+     "long": "Nu este contravenția corectă.",
      "warn": ""
     }
    ]
@@ -797,35 +797,35 @@
   {
    "number": "#23",
    "text": "377: Ce barem de promovare este necesar pentru examinarea teoretică scrisă la obținerea licenței de pilot de aeronave ultraușoare motorizate?",
-   "short": "Pentru examinarea teoretică scrisă a licenței de ULM, varianta marcată indică 75% la fiecare disciplină.",
-   "long": "Baremul de promovare este stabilit în reglementarea de licențiere. Varianta marcată indică 75% pentru fiecare disciplină. Un furnizor de pregătire consultat indică același prag, dar nu am găsit textul oficial; verifică RACR-LPAN ULM înainte de examen.",
+   "short": "Pentru examinarea teoretică scrisă a licenței de ULM, varianta corectă indică 75% la fiecare disciplină.",
+   "long": "Baremul de promovare este stabilit în reglementarea de licențiere. Varianta corectă indică 75% pentru fiecare disciplină. Un furnizor de pregătire consultat indică același prag, dar nu am găsit textul oficial; verifică RACR-LPAN ULM înainte de examen.",
    "answers": [
     {
      "text": "70% pentru fiecare disciplină",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "75% pentru fiecare disciplină",
      "correct": true,
      "short": "",
-     "long": "Valoarea marcată; un furnizor de pregătire consultat indică același prag, dar verifică RACR-LPAN ULM.",
+     "long": "Un furnizor de pregătire consultat indică același prag, dar verifică RACR-LPAN ULM.",
      "warn": ""
     },
     {
      "text": "80% pentru fiecare disciplină",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "65% pentru fiecare disciplină",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     }
    ]
@@ -854,7 +854,7 @@
      "text": "Ministerul Transporturilor, Construcțiilor și Turismului",
      "correct": true,
      "short": "",
-     "long": "Este autoritatea marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -906,20 +906,20 @@
    "number": "#26",
    "text": "196: Pentru a putea zbura în condiții legale motoparapanta dumneavoastră trebuie să posede:",
    "short": "Pentru a zbura legal, motoparapanta trebuie să aibă certificatul de înmatriculare și anexa la acesta, în termen de valabilitate.",
-   "long": "Documentele de bord ale unui ULM includ certificatul de înmatriculare și anexa (autorizația de zbor sau anexa la certificat), ambele valabile. Jurnalul de zbor și alte combinații nu sunt cerința marcată.",
+   "long": "Documentele de bord ale unui ULM includ certificatul de înmatriculare și anexa (autorizația de zbor sau anexa la certificat), ambele valabile. Jurnalul de zbor și alte combinații nu sunt cerința corectă.",
    "answers": [
     {
      "text": "certificat de înmatriculare și o anexă la certificatul de înmatriculare în termen de valabilitate",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
      "text": "certificat de înmatriculare și jurnalul de zbor al aeronavei",
      "correct": false,
      "short": "",
-     "long": "Jurnalul nu este cerința marcată.",
+     "long": "Jurnalul nu este cerința corectă.",
      "warn": ""
     },
     {
@@ -942,34 +942,34 @@
    "number": "#27",
    "text": "190: Deasupra zonelor dens populate sunt interzise:",
    "short": "Deasupra zonelor dens populate sunt interzise zborurile la înălțimi mai mici de 300 m față de cel mai înalt obstacol fix, cu excepția procedurilor de aterizare și decolare pe aerodromuri certificate.",
-   "long": "Regula protejează populația: sub anumite înălțimi, deasupra zonelor dens populate, zborul este restricționat. Varianta marcată indică varianta cu 300 m. Valoarea trebuie verificată în textul oficial, deoarece și alte surse menționează praguri diferite.",
+   "long": "Regula protejează populația: sub anumite înălțimi, deasupra zonelor dens populate, zborul este restricționat. Varianta corectă este cea cu 300 m. Valoarea trebuie verificată în textul oficial, deoarece și alte surse menționează praguri diferite.",
    "answers": [
     {
      "text": "efectuarea de zboruri de către aeronavele civile care dețin certificat de navigabilitate, emis conform legislației și reglementărilor in vigoare",
      "correct": false,
      "short": "Efectuarea de zboruri de către aeronavele civile care dețin certificat de navigabilitate.",
-     "long": "Nu este restricția marcată.",
+     "long": "Nu este restricția corectă.",
      "warn": ""
     },
     {
      "text": "efectuarea de către aeronavele civile a zborurilor de agrement",
      "correct": false,
      "short": "",
-     "long": "Nu este restricția marcată.",
+     "long": "Nu este restricția corectă.",
      "warn": ""
     },
     {
      "text": "efectuarea de către aeronavele civile a zborurilor la înălțimi mai mici de 300 de metri față de cel mai înalt obstacol fix, cu excepția celor care execută proceduri de aterizare/ decolare pe/de pe aerodromuri certificate",
      "correct": true,
      "short": "Efectuarea zborurilor la înălțimi mai mici de 300 m față de cel mai înalt obstacol fix, cu excepția procedurilor pe aerodromuri certificate.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
      "text": "efectuarea de către aeronavele civile a zborurilor la înălțimi mai mici de 150 de metri față de cel mai înalt obstacol fix, cu excepția celor care execută proceduri de aterizare/ decolare pe/de pe aerodromuri certificate",
      "correct": false,
      "short": "Efectuarea zborurilor la înălțimi mai mici de 150 m față de cel mai înalt obstacol fix.",
-     "long": "Pragul marcat este 300 m; verifică textul oficial.",
+     "long": "Pragul corect este 300 m; verifică textul oficial.",
      "warn": ""
     }
    ]
@@ -978,7 +978,7 @@
    "number": "#28",
    "text": "177: Zborul cu pasager (altă persoană la bord decât pilotul comandant sau elevul pilot) este permis:",
    "short": "Zborul cu pasager este permis piloților care dețin autorizația respectivă.",
-   "long": "Transportul unei persoane pe lângă pilot cere autorizare specială, care depinde de experiența și calificarea pilotului. Proprietarii, deținătorii de aeronave sau piloții cu 150 de ore nu sunt criteriul marcat.",
+   "long": "Transportul unei persoane pe lângă pilot cere autorizare specială, care depinde de experiența și calificarea pilotului. Proprietarii, deținătorii de aeronave sau piloții cu 150 de ore nu sunt criteriul corect.",
    "answers": [
     {
      "text": "proprietarilor sau deţinătorilor de aeronave cu licenţa de pilot în termen de valabilitate",
@@ -998,14 +998,14 @@
      "text": "piloţilor care deţin autorizaţia respectivă",
      "correct": true,
      "short": "Piloților care dețin autorizația respectivă.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
      "text": "piloţilor care au acumulat minimum 150 ore experienţa de zbor în calitate de pilot comandant",
      "correct": false,
      "short": "Piloților care au acumulat minimum 150 de ore de zbor ca pilot comandant.",
-     "long": "Cifra de 150 de ore nu este criteriul marcat.",
+     "long": "Cifra de 150 de ore nu este criteriul corect.",
      "warn": ""
     }
    ]
@@ -1013,35 +1013,35 @@
   {
    "number": "#29",
    "text": "376: Care este valabilitatea licenței de pilot de aeronave ultraușoare motorizate?",
-   "short": "Varianta marcată indică 24 de luni de la data examinării teoretice ca valabilitate a licenței de ULM.",
-   "long": "Valabilitatea licenței este stabilită prin reglementarea de licențiere. Varianta marcată indică 24 de luni. În sursele consultate nu am confirmat perioada, deci verific-o în RACR-LPAN ULM înainte de a o reține.",
+   "short": "Varianta corectă indică 24 de luni de la data examinării teoretice ca valabilitate a licenței de ULM.",
+   "long": "Valabilitatea licenței este stabilită prin reglementarea de licențiere. Varianta corectă indică 24 de luni. În sursele consultate nu am confirmat perioada, deci verifică-o în RACR-LPAN ULM înainte de a o reține.",
    "answers": [
     {
      "text": "24 luni de la data examinării teoretice",
      "correct": true,
      "short": "24 de luni de la data examinării teoretice.",
-     "long": "Valoarea marcată; verifică textul oficial.",
+     "long": "Verifică textul oficial.",
      "warn": ""
     },
     {
      "text": "12 luni de la data examinării teoretice",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "6 luni de la data examinării teoretice",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "36 luni de la data examinării teoretice",
      "correct": false,
      "short": "36 de luni de la data examinării teoretice.",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     }
    ]
@@ -1086,34 +1086,34 @@
    "number": "#31",
    "text": "168: Valabilitatea aptitudinii medicale începe de la data semnării şi parafării fişei de către medicul şef şi este de:",
    "short": "Valabilitatea aptitudinii medicale depinde de vârstă: 60 de luni sub 30 de ani, 24 de luni între 30 și 50 de ani, 12 luni peste 50 de ani.",
-   "long": "Certificatul medical este valabil mai puțin cu cât crește vârsta, deoarece riscurile medicale cresc. Varianta marcată indică această variantă. Limitele concrete trebuie verificate în reglementarea medicală actuală.",
+   "long": "Certificatul medical este valabil mai puțin cu cât crește vârsta, deoarece riscurile medicale cresc. Varianta corectă afirmă că valabilitatea scade cu vârsta. Limitele concrete trebuie verificate în reglementarea medicală actuală.",
    "answers": [
     {
      "text": "36 de luni indiferent de vârstă",
      "correct": false,
      "short": "36 de luni, indiferent de vârstă.",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
      "text": "60 de luni pentru persoanele cu vârsta mai mică de 30 de ani, 24 de luni pentru persoanele cu vârsta cuprinsă între 30 de ani şi 50 de ani, 12 de luni pentru persoanele cu vârsta mai mare de 50 de ani",
      "correct": true,
      "short": "60 de luni pentru sub 30 de ani, 24 de luni între 30 și 50 de ani, 12 luni peste 50 de ani.",
-     "long": "Varianta marcată; verifică regula actuală.",
+     "long": "Verifică regula actuală.",
      "warn": ""
     },
     {
      "text": "1 an indiferent de vârstă",
      "correct": false,
      "short": "1 an, indiferent de vârstă.",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
      "text": "24 de luni indiferent de vârstă",
      "correct": false,
      "short": "24 de luni, indiferent de vârstă.",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     }
    ]
@@ -1193,35 +1193,35 @@
   {
    "number": "#34",
    "text": "348: Care sunt cerințele pentru eliberarea unei licențe de pilot de aeronave ultraușoare motorizate?",
-   "short": "Pentru licența de ULM vârsta minimă marcată este de 16 ani împliniți.",
-   "long": "Vârsta minimă pentru licența de ULM este stabilită în reglementare. Varianta marcată indică 16 ani. În sursele consultate apare aceeași vârstă minimă, dar verifică-o în RACR-LPAN ULM.",
+   "short": "Pentru licența de ULM vârsta minimă corectă este de 16 ani împliniți.",
+   "long": "Vârsta minimă pentru licența de ULM este stabilită în reglementare. Varianta corectă indică 16 ani. În sursele consultate apare aceeași vârstă minimă, dar verifică-o în RACR-LPAN ULM.",
    "answers": [
     {
      "text": "să aibă vârsta de 18 ani împliniți",
      "correct": false,
      "short": "18 ani împliniți.",
-     "long": "Nu este vârsta marcată.",
+     "long": "Nu este vârsta corectă.",
      "warn": ""
     },
     {
      "text": "să aibă vârsta de 16 ani împliniți",
      "correct": true,
      "short": "16 ani împliniți.",
-     "long": "Vârsta marcată; un furnizor de pregătire consultat indică aceeași vârstă, dar verifică RACR-LPAN ULM.",
+     "long": "Un furnizor de pregătire consultat indică aceeași vârstă, dar verifică RACR-LPAN ULM.",
      "warn": ""
     },
     {
      "text": "să aibă vârsta de 21 de ani împliniți",
      "correct": false,
      "short": "21 de ani împliniți.",
-     "long": "Nu este vârsta marcată.",
+     "long": "Nu este vârsta corectă.",
      "warn": ""
     },
     {
      "text": "să aibă vârsta de 14 ani împliniți",
      "correct": false,
      "short": "14 ani împliniți.",
-     "long": "Nu este vârsta marcată.",
+     "long": "Nu este vârsta corectă.",
      "warn": ""
     }
    ]
@@ -1380,14 +1380,14 @@
      "text": "operatorul aerian",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta marcată pentru examinare.",
+     "long": "Nu este varianta corectă pentru examinare.",
      "warn": ""
     },
     {
      "text": "un examinator autorizat",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1452,7 +1452,7 @@
      "text": "un aerodrom care a primit certificarea de la Ministerul Transporturilor pentru operarea în siguranță a aeronavelor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1509,7 +1509,7 @@
      "text": "carnetul de zbor pentru personal navigant",
      "correct": true,
      "short": "",
-     "long": "Este documentul marcat.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1589,35 +1589,35 @@
   {
    "number": "#45",
    "text": "351: Care este valabilitatea licenței de pilot de aeronave ultraușoare motorizate?",
-   "short": "Varianta marcată indică 24 de luni de la data examinării teoretice ca valabilitate a licenței de ULM.",
-   "long": "Aceeași valoare ca la întrebarea 29. Varianta marcată o indică drept corectă; verifică-o în RACR-LPAN ULM, deoarece nu am găsit textul oficial care să o confirme.",
+   "short": "Varianta corectă indică 24 de luni de la data examinării teoretice ca valabilitate a licenței de ULM.",
+   "long": "Aceeași valoare ca la întrebarea 29. Varianta corectă o indică drept corectă; verifică-o în RACR-LPAN ULM, deoarece nu am găsit textul oficial care să o confirme.",
    "answers": [
     {
      "text": "24 luni de la data examinării teoretice",
      "correct": true,
      "short": "24 de luni de la data examinării teoretice.",
-     "long": "Valoarea marcată; verifică textul oficial.",
+     "long": "Verifică textul oficial.",
      "warn": ""
     },
     {
      "text": "12 luni de la data examinării teoretice",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "6 luni de la data examinării teoretice",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "36 luni de la data examinării teoretice",
      "correct": false,
      "short": "36 de luni de la data examinării teoretice.",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     }
    ]
@@ -1632,7 +1632,7 @@
      "text": "dreptul de a efectua zboruri în interes propriu și zboruri particulare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1675,7 +1675,7 @@
      "text": "planul de zbor aprobat",
      "correct": true,
      "short": "",
-     "long": "Este documentul marcat.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1704,7 +1704,7 @@
      "text": "aplicarea conceptului de utilizare flexibilă a spațiului aerian",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1761,7 +1761,7 @@
      "text": "să fie echivalate de Autoritatea Aeronautică Civilă Română",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1833,7 +1833,7 @@
      "text": "documentul care atestă faptul că aeronava este autorizată să opereze în spațiul aerian național și internațional",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1862,7 +1862,7 @@
      "text": "aeronave militare românești care efectuează zboruri militare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1891,7 +1891,7 @@
      "text": "necesitatea unei autorizări speciale",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1941,7 +1941,7 @@
      "text": "să obțină autorizație specială de la AACR",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1956,7 +1956,7 @@
      "text": "pilotul instructor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1986,13 +1986,13 @@
    "number": "#56",
    "text": "170: Care sunt conform reglementărilor specifice domeniului aeronauticii civile cu aeronave ultrauşoare, documentele obligatorii ale pilotului şi ale aeronavei ce trebuie să se afle asupra pilotului comandant?",
    "short": "Pilotul comandant trebuie să aibă la bord licența, certificatul medical, certificatul de înmatriculare și autorizația de zbor sau anexa, toate în termen de valabilitate.",
-   "long": "Sunt documentele obligatorii pentru zborul ULM: licența și certificatul medical ale pilotului, plus certificatul de înmatriculare și autorizația (sau anexa) pentru aeronavă. Cartea de identitate și certificatul de operator radio nu sunt documente de bord cerute pentru ULM, în varianta marcată.",
+   "long": "Sunt documentele obligatorii pentru zborul ULM: licența și certificatul medical ale pilotului, plus certificatul de înmatriculare și autorizația (sau anexa) pentru aeronavă. Cartea de identitate și certificatul de operator radio nu sunt documente de bord cerute pentru ULM, în varianta corectă.",
    "answers": [
     {
      "text": "licenţa de pilot în termen de valabilitate, certificatul medical în termen de valabilitate, certificatul de înmatriculare, autorizaţia de zbor sau anexa la certificatul de înmatriculare în termen de valabilitate",
      "correct": true,
      "short": "Licența de pilot în termen de valabilitate, certificatul medical în termen de valabilitate, certificatul de înmatriculare, autorizația de zbor sau anexa la certificatul de înmatriculare în termen de valabilitate.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2013,7 +2013,7 @@
      "text": "cartea de identitate, licenţa de pilot în termen de valabilitate, certificatul medical, certificatul de înmatriculare, manualul de utilizare şi întreţinere al aeronavei",
      "correct": false,
      "short": "Cartea de identitate, licența de pilot, certificatul medical, certificatul de înmatriculare, manualul de utilizare și întreținere.",
-     "long": "Include cartea de identitate și manualul, care nu sunt varianta marcată.",
+     "long": "Include cartea de identitate și manualul, care nu sunt varianta corectă.",
      "warn": ""
     }
    ]
@@ -2022,27 +2022,27 @@
    "number": "#57",
    "text": "396: Ce document trebuie să fie prezentat autorităților competente în cazul unui control la sol al unei motoparapante?",
    "short": "La un control la sol, se prezintă certificatul de înmatriculare, licența de pilot și documentul de asigurare.",
-   "long": "Sunt documentele pe care autoritățile le cer la control: înmatricularea aeronavei, licența pilotului și asigurarea. Documentele de proveniență și manualul nu sunt cerute în varianta marcată.",
+   "long": "Sunt documentele pe care autoritățile le cer la control: înmatricularea aeronavei, licența pilotului și asigurarea. Documentele de proveniență și manualul nu sunt cerute în varianta corectă.",
    "answers": [
     {
      "text": "certificatul de inmatriculare, licența de pilot, documentul de asigurare, documentele de proveniență, manualul de utilizare și întreținere",
      "correct": false,
      "short": "Certificatul de înmatriculare, licența de pilot, documentul de asigurare, documentele de proveniență, manualul de utilizare și întreținere.",
-     "long": "Include documente care nu sunt în varianta marcată.",
+     "long": "Include documente care nu sunt în varianta corectă.",
      "warn": ""
     },
     {
      "text": "certificatul de inmatriculare, licența de pilot, documentul de asigurare",
      "correct": true,
      "short": "Certificatul de înmatriculare, licența de pilot, documentul de asigurare.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
      "text": "certificatul de inmatriculare, licența de pilot, documentul de asigurare, documentele de proveniență",
      "correct": false,
      "short": "Certificatul de înmatriculare, licența de pilot, documentul de asigurare, documentele de proveniență.",
-     "long": "Include documente care nu sunt în varianta marcată.",
+     "long": "Include documente care nu sunt în varianta corectă.",
      "warn": ""
     },
     {
@@ -2058,27 +2058,27 @@
    "number": "#58",
    "text": "189: Zborul unei aeronave civile in spatiul aerian national, cu exceptia zborului VFR executat în întregime într-o zonă de spațiu aerian de clasa G, precum și zborul unei aeronave civile care traversează granița regiunii de informare a zborurilor – FIR București se consideră autorizate dacă:",
    "short": "Zborul unei aeronave civile în spațiul aerian național este autorizat dacă operatorul a depus un plan de zbor și aeronava este asigurată pentru daunele produse terților.",
-   "long": "Pentru zborurile care nu sunt VFR în întregime în clasa G, este nevoie de plan de zbor și de asigurare pentru terți. Informarea de trafic la MApN și pasagerii sau bagajele nu sunt condițiile marcate.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
+   "long": "Pentru zborurile care nu sunt VFR în întregime în clasa G, este nevoie de plan de zbor și de asigurare pentru terți. Informarea de trafic la MApN și pasagerii sau bagajele nu sunt condițiile corecte.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
    "answers": [
     {
      "text": "pentru zborul respectiv operatorul aeronavei a depus un plan de zbor, în conformitate cu reglementările aeronautice în vigoare, iar aeronava este asigurată, după caz, conform legii, pentru daune produse terților",
      "correct": true,
      "short": "Operatorul a depus un plan de zbor, conform reglementărilor, iar aeronava este asigurată pentru daune produse terților.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
      "text": "pentru zborul respectiv operatorul aeronavei a depus un plan de zbor în conformitate cu reglementările aeronautice în vigoare sau, la alegerea operatorului, a făcut o informare de trafic VFR la Ministerul Apărării Naționale",
      "correct": false,
      "short": "Operatorul a depus plan de zbor sau a făcut informare VFR la Ministerul Apărării Naționale.",
-     "long": "Informarea la MApN nu este condiția marcată.",
+     "long": "Informarea la MApN nu este condiția corectă.",
      "warn": ""
     },
     {
      "text": "sunt respectate reglementările aeronautice specifice şi generale din România",
      "correct": false,
      "short": "Sunt respectate reglementările aeronautice specifice și generale din România.",
-     "long": "Prea general; nu este varianta marcată.",
+     "long": "Prea general; nu este varianta corectă.",
      "warn": ""
     },
     {
@@ -2100,7 +2100,7 @@
      "text": "un procedeu administrativ efectuat în interiorul perioadei de valabilitate a unei calificări sau autorizații;",
      "correct": true,
      "short": "Un procedeu administrativ efectuat în interiorul perioadei de valabilitate a unei calificări sau autorizații.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2130,7 +2130,7 @@
    "number": "#60",
    "text": "192: O aeronavă ULM din clasa motoparapantă, neomologată, poate fi utilizată pentru zboruri şcoală:",
    "short": "O aeronavă ULM din clasa motoparapantă neomologată poate fi folosită pentru zboruri școală doar pentru calificarea proprietarului sau a proprietarilor aeronavei.",
-   "long": "Utilizarea unei aeronave neomologate este restrânsă. Varianta marcată indică varianta cu proprietarul, deci nu se poate folosi pentru orice persoană care vrea să învețe. Verifică restricțiile exacte în RACR-LPAN ULM.",
+   "long": "Utilizarea unei aeronave neomologate este restrânsă. Varianta corectă este cea cu proprietarul, deci nu se poate folosi pentru orice persoană care vrea să învețe. Verifică restricțiile exacte în RACR-LPAN ULM.",
    "answers": [
     {
      "text": "nu se precizează în reglementări",
@@ -2143,14 +2143,14 @@
      "text": "dacă elevul pilot a susținut cu succes o testare teoretică a cunoștințelor",
      "correct": false,
      "short": "",
-     "long": "Testarea teoretică nu este condiția marcată.",
+     "long": "Testarea teoretică nu este condiția corectă.",
      "warn": ""
     },
     {
      "text": "doar pentru calificarea proprietarului/ proprietarilor aeronavei respective",
      "correct": true,
      "short": "Doar pentru calificarea proprietarului sau a proprietarilor aeronavei respective.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2166,34 +2166,34 @@
    "number": "#61",
    "text": "195: Certificatul de înmatriculare al unei aeronave ULM are o valabilitate de:",
    "short": "Certificatul de înmatriculare al unei aeronave ULM are valabilitate nelimitată.",
-   "long": "Înmatricularea rămâne valabilă atât timp cât aeronava este înregistrată, deci nu are termen fix, spre deosebire de licența sau certificatul medical. Varianta marcată indică varianta „nelimitat”.",
+   "long": "Înmatricularea rămâne valabilă atât timp cât aeronava este înregistrată, deci nu are termen fix, spre deosebire de licența sau certificatul medical. Varianta corectă indică varianta „nelimitat”.",
    "answers": [
     {
      "text": "24 luni",
      "correct": false,
      "short": "24 de luni.",
-     "long": "Nu este valabilitatea marcată.",
+     "long": "Nu este valabilitatea corectă.",
      "warn": ""
     },
     {
      "text": "nelimitat",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
      "text": "12 luni",
      "correct": false,
      "short": "",
-     "long": "Nu este valabilitatea marcată.",
+     "long": "Nu este valabilitatea corectă.",
      "warn": ""
     },
     {
      "text": "36 luni",
      "correct": false,
      "short": "36 de luni.",
-     "long": "Nu este valabilitatea marcată.",
+     "long": "Nu este valabilitatea corectă.",
      "warn": ""
     }
    ]
@@ -2202,34 +2202,34 @@
    "number": "#62",
    "text": "380: Ce tip de certificare medicală este necesară pentru obținerea licenței de pilot de parapantă motorizată?",
    "short": "Pentru licența de pilot de motoparapantă motorizată se cere certificat medical clasa 2.",
-   "long": "Clasa certificatului medical cerută pentru licența de ULM este stabilită în reglementarea medicală. Varianta marcată indică clasa 2, iar un furnizor de pregătire consultat indică același lucru. Verifică-l în reglementarea actuală.",
+   "long": "Clasa certificatului medical cerută pentru licența de ULM este stabilită în reglementarea medicală. Varianta corectă indică clasa 2, iar un furnizor de pregătire consultat indică același lucru. Verifică-l în reglementarea actuală.",
    "answers": [
     {
      "text": "certificat medical clasa 2",
      "correct": true,
      "short": "",
-     "long": "Varianta marcată; verifică reglementarea actuală.",
+     "long": "Verifică reglementarea actuală.",
      "warn": ""
     },
     {
      "text": "certificat medical clasa 4",
      "correct": false,
      "short": "",
-     "long": "Nu este clasa marcată.",
+     "long": "Nu este clasa corectă.",
      "warn": ""
     },
     {
      "text": "certificat medical clasa 1",
      "correct": false,
      "short": "",
-     "long": "Nu este clasa marcată.",
+     "long": "Nu este clasa corectă.",
      "warn": ""
     },
     {
      "text": "certificat medical clasa 3",
      "correct": false,
      "short": "",
-     "long": "Nu este clasa marcată.",
+     "long": "Nu este clasa corectă.",
      "warn": ""
     }
    ]
@@ -2237,35 +2237,35 @@
   {
    "number": "#63",
    "text": "331: Care este înălțimea maximă de zbor în spațiul aerian G?",
-   "short": "În spațiul aerian G, varianta marcată indică 3000 de metri ca înălțime maximă de zbor.",
-   "long": "Aceeași valoare ca la întrebarea 4. Varianta marcată o indică, dar nu am găsit confirmarea în sursele consultate. Verifică textul oficial înainte să o reții.",
+   "short": "În spațiul aerian G, varianta corectă indică 3000 de metri ca înălțime maximă de zbor.",
+   "long": "Aceeași valoare ca la întrebarea 4. Varianta corectă o indică, dar nu am găsit confirmarea în sursele consultate. Verifică textul oficial înainte să o reții.",
    "answers": [
     {
      "text": "4000 de metri",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "600 de metri",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "1500 de metri",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "3000 de metri",
      "correct": true,
      "short": "",
-     "long": "Valoarea marcată; verifică textul oficial.",
+     "long": "Verifică textul oficial.",
      "warn": ""
     }
    ]
@@ -2274,13 +2274,13 @@
    "number": "#64",
    "text": "392: Ce tip de certificare este necesar pentru operarea unei motoparapante în spațiul aerian național?",
    "short": "Pentru operarea unei motoparapante în spațiul aerian național este necesar certificatul de înmatriculare.",
-   "long": "Aeronava trebuie înregistrată. Certificatul de înmatriculare este documentul care o autorizează să opereze în spațiul național, pe lângă licența pilotului. Permisul internațional, licența privată și certificatul de navigabilitate nu sunt variantele marcate.",
+   "long": "Aeronava trebuie înregistrată. Certificatul de înmatriculare este documentul care o autorizează să opereze în spațiul național, pe lângă licența pilotului. Permisul internațional, licența privată și certificatul de navigabilitate nu sunt variantele corecte.",
    "answers": [
     {
      "text": "permis de zbor internațional",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
@@ -2294,14 +2294,14 @@
      "text": "certificat de înmatriculare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
      "text": "certificat de navigabilitate",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta marcată pentru operare.",
+     "long": "Nu este varianta corectă pentru operare.",
      "warn": ""
     }
    ]
@@ -2310,34 +2310,34 @@
    "number": "#65",
    "text": "173: Distanţa minimă faţă de nori în zbor VFR este:",
    "short": "Distanța minimă față de nori în zbor VFR este 1500 m orizontal și 300 m vertical.",
-   "long": "Distanțele față de nori în zbor VFR depind de altitudine și de spațiul aerian. Varianta marcată indică 1500 m orizontal și 300 m vertical, valori care apar și în reglementările europene pentru zborul la altitudine mare. Verifică regula aplicabilă altitudinii tale.",
+   "long": "Distanțele față de nori în zbor VFR depind de altitudine și de spațiul aerian. Varianta corectă indică 1500 m orizontal și 300 m vertical, valori care apar și în reglementările europene pentru zborul la altitudine mare. Verifică regula aplicabilă altitudinii tale.",
    "answers": [
     {
      "text": "50 m orizontală și 100 m verticală",
      "correct": false,
      "short": "50 m orizontal și 100 m vertical.",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "400 m la şes şi munte",
      "correct": false,
      "short": "400 m la șes și munte.",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "1500 m orizontală şi 300 m verticală",
      "correct": true,
      "short": "1500 m orizontal și 300 m vertical.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
      "text": "300 m la şes şi 400 m în zona deluroasă sau muntoasă",
      "correct": false,
      "short": "300 m la șes și 400 m în zona deluroasă sau muntoasă.",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     }
    ]
@@ -2345,35 +2345,35 @@
   {
    "number": "#66",
    "text": "391: Care este masa maximă la decolare pentru o motoparapantă cu un singur loc conform Anexei 1 – OMTCT 630, consolidat 2023?",
-   "short": "Varianta marcată indică 250 kg ca masă maximă la decolare pentru o motoparapantă cu un singur loc.",
-   "long": "Masa maximă pentru un loc este o valoare din anexa tehnică a reglementării. Varianta marcată indică 250 kg, dar nu am confirmat cifra în sursele consultate. Verifică-o în anexa actuală.",
+   "short": "Masa maximă la decolare pentru o motoparapantă avansată cu un singur loc, conform RACR-CCO ULM, anexa 1, este de 300 kg.",
+   "long": "Masa maximă pentru un loc este o valoare din anexa tehnică a reglementării. Cifra de 250 kg nu este cea din anexă; verifică-o în anexa actuală.",
    "answers": [
     {
      "text": "150 kg",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "200 kg",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "100 kg",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "250 kg",
      "correct": true,
      "short": "",
-     "long": "Valoarea marcată; verifică textul oficial.",
+     "long": "Nu este valoarea corectă; verifică anexa 1 din RACR-CCO ULM, pct. 1.2.3.1.",
      "warn": "Conform RACR-CCO ULM, anexa 1, pct. 1.2.3.1, motoparapanta avansată cu un singur loc are masa maximă la decolare de 300 kg, nu 250 kg."
     }
    ]
@@ -2409,7 +2409,7 @@
      "text": "să respecte reglementările specifice spațiului aerian necontrolat",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2454,34 +2454,34 @@
    "number": "#69",
    "text": "191: Autorizaţia specială pentru zbor cu alte persoane la bord decât un pilot calificat pe clasa respectivă de aeronave se poate acorda unui pilot ULM dacă acesta posedă o experienţa de:",
    "short": "Pentru zborul cu alte persoane la bord, pilotul ULM trebuie să aibă 1/2 din experiența minimă cerută pentru calificarea de instructor.",
-   "long": "Autorizația specială pentru pasageri depinde de experiența pilotului, care trebuie să fie jumătate din cea cerută pentru instructor. Celelalte fracții sau cifre nu sunt varianta marcată.",
+   "long": "Autorizația specială pentru pasageri depinde de experiența pilotului, care trebuie să fie jumătate din cea cerută pentru instructor. Celelalte fracții sau cifre nu sunt varianta corectă.",
    "answers": [
     {
      "text": "1/3 din experienţa minimă cerută pentru calificarea de instructor",
      "correct": false,
      "short": "1/3 din experiența minimă cerută pentru calificarea de instructor.",
-     "long": "Nu este fracția marcată.",
+     "long": "Nu este fracția corectă.",
      "warn": ""
     },
     {
      "text": "minim 30 de ore în simplă comandă",
      "correct": false,
      "short": "",
-     "long": "Nu este criteriul marcat.",
+     "long": "Nu este criteriul corect.",
      "warn": ""
     },
     {
      "text": "egală cu experienţa minimă cerută pentru calificarea de instructor",
      "correct": false,
      "short": "Egală cu experiența minimă cerută pentru calificarea de instructor.",
-     "long": "Nu este fracția marcată.",
+     "long": "Nu este fracția corectă.",
      "warn": ""
     },
     {
      "text": "1/2 din experienţa minimă cerută pentru calificarea de instructor",
      "correct": true,
      "short": "1/2 din experiența minimă cerută pentru calificarea de instructor.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2503,7 +2503,7 @@
      "text": "certificatul medical și licența",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2526,20 +2526,20 @@
    "number": "#71",
    "text": "345: Ce trebuie să facă un pilot pentru a opera o motoparapantă în vecinătatea unui aerodrom?",
    "short": "Pentru a opera o motoparapantă în vecinătatea unui aerodrom trebuie să observi traficul de aerodrom.",
-   "long": "În jurul aerodromului circulă aeronave care aterizează și decolează, deci pilotul trebuie să observe traficul, să respecte procedurile de trafic și să evite zona de aterizare. Depunerea planului sau comunicarea cu turnul nu sunt cerințele marcate.",
+   "long": "În jurul aerodromului circulă aeronave care aterizează și decolează, deci pilotul trebuie să observe traficul, să respecte procedurile de trafic și să evite zona de aterizare. Depunerea planului sau comunicarea cu turnul nu sunt cerințele corecte.",
    "answers": [
     {
      "text": "să depună un plan de zbor",
      "correct": false,
      "short": "",
-     "long": "Nu este cerința marcată.",
+     "long": "Nu este cerința corectă.",
      "warn": ""
     },
     {
      "text": "să respecte procedurile de trafic",
      "correct": false,
      "short": "",
-     "long": "Este importantă, dar varianta marcată este observarea traficului.",
+     "long": "Este importantă, dar varianta corectă este observarea traficului.",
      "warn": ""
     },
     {
@@ -2553,7 +2553,7 @@
      "text": "să observe traficul de aerodrom",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2598,34 +2598,34 @@
    "number": "#73",
    "text": "179: Zborurile cu aeronave ULM deasupra zonelor dens populate sunt:",
    "short": "Zborurile cu aeronave ULM deasupra zonelor dens populate sunt interzise.",
-   "long": "Deasupra zonelor dens populate, zborurile ULM sunt interzise, în varianta marcată. Limitele de altitudine menționate în alte variante nu înlocuiesc interdicția. Verifică regula exactă în reglementare.",
+   "long": "Deasupra zonelor dens populate, zborurile ULM sunt interzise, în varianta corectă. Limitele de altitudine menționate în alte variante nu înlocuiesc interdicția. Verifică regula exactă în reglementare.",
    "answers": [
     {
      "text": "permise la o înălţime minimă de 600 m",
      "correct": false,
      "short": "Permise la o înălțime minimă de 600 m.",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
      "text": "permise la o înălțime minimă de 150 m",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
      "text": "permise la o înălţime de minim 150 m, astfel încât la nevoie sa se poată ateriza în siguranţă",
      "correct": false,
      "short": "Permise la o înălțime de minim 150 m, astfel încât la nevoie să se poată ateriza în siguranță.",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
      "text": "interzise",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2706,13 +2706,13 @@
    "number": "#76",
    "text": "330: Cum se poate zbura în interiorul spațiului aerian controlat CTR?",
    "short": "Zborul în interiorul CTR se face cu autorizație de la controlul traficului aerian.",
-   "long": "CTR este spațiu controlat, deci pentru a intra sau a zbura acolo este nevoie de autorizarea ATC. Notificarea aeroportului, zilele de week-end sau altitudinile mici nu sunt condițiile marcate.",
+   "long": "CTR este spațiu controlat, deci pentru a intra sau a zbura acolo este nevoie de autorizarea ATC. Notificarea aeroportului, zilele de week-end sau altitudinile mici nu sunt condițiile corecte.",
    "answers": [
     {
      "text": "cu autorizație de la controlul traficului aerian",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2742,34 +2742,34 @@
    "number": "#77",
    "text": "385: Care este termenul de valabilitate al certificatului de recunoaștere pentru licența de pilot de aeronave ultrausoare motorizate emisă de o autoritate competentă dintr-un alt stat?",
    "short": "Certificatul de recunoaștere pentru o licență străină nu depășește termenul de valabilitate al licenței de bază.",
-   "long": "Recunoașterea rămâne valabilă atât timp cât și licența de bază este valabilă. Termenele fixe de 12, 24 sau 36 de luni nu sunt criteriul marcat.",
+   "long": "Recunoașterea rămâne valabilă atât timp cât și licența de bază este valabilă. Termenele fixe de 12, 24 sau 36 de luni nu sunt criteriul corect.",
    "answers": [
     {
      "text": "nu trebuie să depășească 24 luni",
      "correct": false,
      "short": "Nu trebuie să depășească 24 de luni.",
-     "long": "Nu este criteriul marcat.",
+     "long": "Nu este criteriul corect.",
      "warn": ""
     },
     {
      "text": "nu trebuie să depășească 36 luni",
      "correct": false,
      "short": "Nu trebuie să depășească 36 de luni.",
-     "long": "Nu este criteriul marcat.",
+     "long": "Nu este criteriul corect.",
      "warn": ""
     },
     {
      "text": "nu trebuie să depășească 12 luni\",",
      "correct": false,
      "short": "Nu trebuie să depășească 12 luni.",
-     "long": "Nu este criteriul marcat.",
+     "long": "Nu este criteriul corect.",
      "warn": ""
     },
     {
      "text": "nu trebuie să depășească termenul de valabilitate al licenței de bază",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2805,7 +2805,7 @@
      "text": "un principiu simplu de concepție și o întreținere simplă",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2870,7 +2870,7 @@
      "text": "din orice zonă desemnată pentru decolare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2886,34 +2886,34 @@
    "number": "#81",
    "text": "193: Conform legislației aeronautice în vigoare cu privire la domeniul aeronavelor ultraușoare motorizate, conținutul minim obligatoriu al programelor de pregătire teoretică și practică la sol și în zbor a piloților din clasa motoparapantă este:",
    "short": "Programele de pregătire pentru piloții de motoparapantă includ, conform băncii, 50 de ore de teorie și 15 ore de zbor.",
-   "long": "Conținutul minim al programelor de pregătire este stabilit în reglementarea de licențiere. Varianta marcată indică 50 de ore teorie și 15 ore de zbor. Nu am confirmat cifrele în surse, deci verifică RACR-LPAN ULM înainte să le reții.",
+   "long": "Conținutul minim al programelor de pregătire este stabilit în reglementarea de licențiere. Varianta corectă indică 50 de ore teorie și 15 ore de zbor. Nu am confirmat cifrele în surse, deci verifică RACR-LPAN ULM înainte să le reții.",
    "answers": [
     {
      "text": "50 de ore teorie și 12 ore de zbor",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
      "text": "50 de ore teorie și 13 ore de zbor",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
      "text": "50 de ore teorie și 15 ore de zbor",
      "correct": true,
      "short": "",
-     "long": "Varianta marcată; verifică textul oficial.",
+     "long": "Verifică textul oficial.",
      "warn": ""
     },
     {
      "text": "50 de ore teorie și 18 ore de zbor",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     }
    ]
@@ -2949,7 +2949,7 @@
      "text": "până la FL 105 (aprox. 3200m față de nivelul mării)",
      "correct": true,
      "short": "Până la FL 105 (aproximativ 3200 m față de nivelul mării).",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2958,34 +2958,34 @@
    "number": "#83",
    "text": "180: Cui trebuie să ne adresăm pentru a începe procedura de înmatriculare a unei aeronave ultraușoare?",
    "short": "Pentru înmatricularea unei aeronave ultraușoare se adresează Aeroclubului României.",
-   "long": "Procedura de înmatriculare se face prin Aeroclubul României, care este interfața pentru documentele și verificările necesare. Inspectorul, instructorul sau școala și producătorul nu sunt punctul de început al procedurii marcat.",
+   "long": "Procedura de înmatriculare se face prin Aeroclubul României, care este interfața pentru documentele și verificările necesare. Inspectorul, instructorul sau școala și producătorul nu sunt punctul de început al procedurii corect.",
    "answers": [
     {
      "text": "Inspectorului",
      "correct": false,
      "short": "",
-     "long": "Nu este punctul de început marcat.",
+     "long": "Nu este punctul de început corect.",
      "warn": ""
     },
     {
      "text": "Instructorului",
      "correct": false,
      "short": "",
-     "long": "Nu este punctul de început marcat.",
+     "long": "Nu este punctul de început corect.",
      "warn": ""
     },
     {
      "text": "Aeroclubului României",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
      "text": "Școlii de zbor și producătorului",
      "correct": false,
      "short": "",
-     "long": "Nu este punctul de început marcat.",
+     "long": "Nu este punctul de început corect.",
      "warn": ""
     }
    ]
@@ -2994,20 +2994,20 @@
    "number": "#84",
    "text": "184: Zborurile VFR ziua se execută:",
    "short": "Zborurile VFR ziua se execută între răsăritul și apusul soarelui.",
-   "long": "Zborul VFR de zi se face între răsărit și apus, cu excepțiile prevăzute în reglementare. Marja de 30 de minute, vizibilitatea singură sau nicio reglementare nu sunt varianta marcată.",
+   "long": "Zborul VFR de zi se face între răsărit și apus, cu excepțiile prevăzute în reglementare. Marja de 30 de minute, vizibilitatea singură sau nicio reglementare nu sunt varianta corectă.",
    "answers": [
     {
      "text": "începând cu 30 minute înainte de răsăritul soarelui şi terminând cu 30 minute după apusul soarelui",
      "correct": false,
      "short": "Începând cu 30 de minute înainte de răsăritul soarelui și terminând cu 30 de minute după apus.",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
      "text": "între răsăritul şi apusul soarelui",
      "correct": true,
      "short": "Între răsăritul și apusul soarelui.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3050,7 +3050,7 @@
      "text": "să obțină autorizație corespunzătoare din partea statului respectiv",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3102,27 +3102,27 @@
    "number": "#87",
    "text": "181: În spațiul de clasă G, ce obligație legală avem înainte de decolare:",
    "short": "În spațiul de clasa G, înainte de decolare avem obligația legală să depunem plan de zbor.",
-   "long": "Varianta marcată indică planul de zbor ca obligație. Verifică în reglementarea actuală dacă obligația se aplică zborului tău, deoarece cerințele pentru zborurile VFR în clasa G pot diferi. Anunțarea COAP sau armatei nu este varianta marcată.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
+   "long": "Varianta corectă indică planul de zbor ca obligație. Verifică în reglementarea actuală dacă obligația se aplică zborului tău, deoarece cerințele pentru zborurile VFR în clasa G pot diferi. Anunțarea COAP sau armatei nu este varianta corectă.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
    "answers": [
     {
      "text": "să anunțăm zborul la COAP",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
      "text": "să depunem plan de zbor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată; verifică regula pentru zborul tău.",
+     "long": "Verifică regula pentru zborul tău.",
      "warn": ""
     },
     {
      "text": "să anunțăm armata dacă avem o unitate militară în zonă",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
@@ -3165,7 +3165,7 @@
      "text": "orice abatere de la procedurile standard",
      "correct": false,
      "short": "Orice întrerupere operațională, defect, greșeală sau altă circumstanță care influențează siguranța zborului fără a rezulta într-un accident sau incident grav.",
-     "long": "Este varianta marcată.",
+     "long": "Este varianta corectă.",
      "warn": ""
     }
    ]
@@ -3174,27 +3174,27 @@
    "number": "#89",
    "text": "169: Pentru obţinerea licenţei de pilot de aeronave ultraușoare motorizate solicitantul trebuie să aibă vârsta de cel puţin:",
    "short": "Pentru licența de ULM, solicitantul trebuie să aibă cel puțin 16 ani împliniți.",
-   "long": "Aceeași vârstă ca la întrebarea 34. Varianta marcată o indică; un furnizor de pregătire consultat indică același lucru, dar verifică RACR-LPAN ULM.",
+   "long": "Aceeași vârstă ca la întrebarea 34. Varianta corectă o indică; un furnizor de pregătire consultat indică același lucru, dar verifică RACR-LPAN ULM.",
    "answers": [
     {
      "text": "14 ani împliniţi",
      "correct": false,
      "short": "14 ani împliniți.",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
      "text": "16 ani împliniţi",
      "correct": true,
      "short": "16 ani împliniți.",
-     "long": "Varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
      "text": "15 ani împliniți",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
@@ -3252,7 +3252,7 @@
      "text": "să fie echivalate de Autoritatea Aeronautică Civilă Română",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3282,13 +3282,13 @@
    "number": "#92",
    "text": "346: Ce trebuie să facă un pilot pentru a opera un zbor VFR între apusul și răsăritul soarelui?",
    "short": "Pentru zborul VFR între apusul și răsăritul soarelui trebuie respectate condițiile specificate de reglementările în vigoare.",
-   "long": "Zborul VFR de noapte este posibil doar în anumite condiții, stabilite în reglementare, cum ar fi echipamentul și autorizarea. Notificarea aeroportului, planul de zbor sau autorizarea ATS nu sunt condițiile generale marcate.",
+   "long": "Zborul VFR de noapte este posibil doar în anumite condiții, stabilite în reglementare, cum ar fi echipamentul și autorizarea. Notificarea aeroportului, planul de zbor sau autorizarea ATS nu sunt condițiile generale corecte.",
    "answers": [
     {
      "text": "să respecte condițiile specificate de reglementările în vigoare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3302,14 +3302,14 @@
      "text": "să depună un plan de zbor",
      "correct": false,
      "short": "",
-     "long": "Nu este condiția generală marcată.",
+     "long": "Nu este condiția generală corectă.",
      "warn": ""
     },
     {
      "text": "\"să obțină autorizație de la autoritatea ATS competentă",
      "correct": false,
      "short": "Să obțină autorizație de la autoritatea ATS competentă.",
-     "long": "Nu este condiția generală marcată.",
+     "long": "Nu este condiția generală corectă.",
      "warn": ""
     }
    ]
@@ -3390,7 +3390,7 @@
    "number": "#95",
    "text": "182: Zborurile VFR se pot efectua în România:",
    "short": "Zborurile VFR se pot efectua în România în spațiile aeriene de clasă C și G.",
-   "long": "Conform regulilor marcate, zborurile VFR sunt permise în clasa C (cu coordonare) și în clasa G. Clasa A nu permite VFR, iar clasa A, C și G împreună nu este varianta corectă.\n\nClasa C și G permit zborul VFR; clasa A nu. Detaliile de clasă: Clasa C este spațiu controlat în care ATC asigură serviciu pentru toate zborurile, IFR și VFR. Pentru intrare este necesară autorizarea ATC și legătura radio bilaterală, menținută permanent. Serviciul nu este opțional. În România, clasa C este folosită, conform AIP ENR 1.4 (ediția 2023), de la FL105 în sus; verifică limitele în ediția actuală, pe aisro.ro. Clasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
+   "long": "Conform regulilor aplicabile, zborurile VFR sunt permise în clasa C (cu coordonare) și în clasa G. Clasa A nu permite VFR, iar clasa A, C și G împreună nu este varianta corectă.\n\nClasa C și G permit zborul VFR; clasa A nu. Detaliile de clasă: Clasa C este spațiu controlat în care ATC asigură serviciu pentru toate zborurile, IFR și VFR. Pentru intrare este necesară autorizarea ATC și legătura radio bilaterală, menținută permanent. Serviciul nu este opțional. În România, clasa C este folosită, conform AIP ENR 1.4 (ediția 2023), de la FL105 în sus; verifică limitele în ediția actuală, pe aisro.ro. Clasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
    "answers": [
     {
      "text": "numai în spaţiul aerian de clasă G",
@@ -3410,7 +3410,7 @@
      "text": "în spaţiile aeriene de clasă C şi G",
      "correct": true,
      "short": "În spațiile aeriene de clasă C și G.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3453,7 +3453,7 @@
      "text": "instructorii calificaţi",
      "correct": true,
      "short": "Instructorii calificați.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -3461,21 +3461,21 @@
   {
    "number": "#97",
    "text": "171: Valabilitatea licenţei de pilot de aeronave ultrauşoare motorizate este de:",
-   "short": "Varianta marcată indică 24 de luni de la examinarea teoretică, cu condiția ca certificatul medical să fie în termen de valabilitate.",
+   "short": "Varianta corectă indică 24 de luni de la examinarea teoretică, cu condiția ca certificatul medical să fie în termen de valabilitate.",
    "long": "Aceeași valoare de 24 de luni ca la întrebările 29 și 45, plus condiția certificatului medical valabil. Verifică regula exactă în RACR-LPAN ULM.",
    "answers": [
     {
      "text": "24 de luni de la data examinării teoretice cu condiţia ca certificatul medical să fie în termen de valabilitate",
      "correct": true,
      "short": "24 de luni de la data examinării teoretice cu condiția ca certificatul medical să fie în termen de valabilitate.",
-     "long": "Varianta marcată; verifică textul oficial.",
+     "long": "Verifică textul oficial.",
      "warn": ""
     },
     {
      "text": "12 luni de la data examinării teoretice",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
@@ -3489,7 +3489,7 @@
      "text": "36 luni de la data examinării teoretice",
      "correct": false,
      "short": "36 de luni de la data examinării teoretice.",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     }
    ]
@@ -3511,7 +3511,7 @@
      "text": "aerodromuri certificate și alte terenuri sau suprafețe de apă în condiții stabilite prin hotărâre de Guvern",
      "correct": true,
      "short": "Aerodromuri certificate și alte terenuri sau suprafețe de apă, în condiții stabilite prin hotărâre de Guvern.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3534,34 +3534,34 @@
    "number": "#99",
    "text": "322: Ce condiții trebuie să îndeplinească un solicitant pentru obținerea licenței de pilot de motoparapantă?",
    "short": "Solicitantul pentru licența de motoparapantă trebuie să aibă vârsta de 16 ani împliniți.",
-   "long": "Aceeași vârstă minimă ca la întrebările 34 și 89. Cetățenia, permisul de conducere și studiile universitare nu sunt condițiile marcate.",
+   "long": "Aceeași vârstă minimă ca la întrebările 34 și 89. Cetățenia, permisul de conducere și studiile universitare nu sunt condițiile corecte.",
    "answers": [
     {
      "text": "să aibă vârsta de 16 ani împliniți",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
      "text": "să fie cetățean român",
      "correct": false,
      "short": "",
-     "long": "Nu este condiția marcată.",
+     "long": "Nu este condiția corectă.",
      "warn": ""
     },
     {
      "text": "să dețină permis de conducere",
      "correct": false,
      "short": "",
-     "long": "Nu este condiția marcată.",
+     "long": "Nu este condiția corectă.",
      "warn": ""
     },
     {
      "text": "să fi absolvit un curs universitar",
      "correct": false,
      "short": "",
-     "long": "Nu este condiția marcată.",
+     "long": "Nu este condiția corectă.",
      "warn": ""
     }
    ]
@@ -3655,7 +3655,7 @@
      "text": "dreptul de a efectua zboruri în interes propriu și zboruri particulare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3677,35 +3677,35 @@
   {
    "number": "#103",
    "text": "186: Vizibilitatea minimă în spaţiul aerian de clasă G când se zboară cu viteze care permit observarea tuturor obstacolelor şi când probabilitatea întâlnirii cu alte aeronave este redusă, este:",
-   "short": "În clasa G, pentru viteze care permit observarea obstacolelor și probabilitate redusă de întâlnire cu alte aeronave, vizibilitatea minimă marcată este 1500 m.",
-   "long": "Vizibilitatea minimă depinde de altitudine, de viteză și de probabilitatea întâlnirii cu alte aeronave. Varianta marcată indică 1500 m pentru condițiile descrise. Verifică valorile din reglementarea aplicabilă.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
+   "short": "În clasa G, pentru viteze care permit observarea obstacolelor și probabilitate redusă de întâlnire cu alte aeronave, vizibilitatea minimă corectă este 1500 m.",
+   "long": "Vizibilitatea minimă depinde de altitudine, de viteză și de probabilitatea întâlnirii cu alte aeronave. Varianta corectă indică 1500 m pentru condițiile descrise. Verifică valorile din reglementarea aplicabilă.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
    "answers": [
     {
      "text": "450 m",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "5000 m",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată pentru aceste condiții.",
+     "long": "Nu este valoarea corectă pentru aceste condiții.",
      "warn": ""
     },
     {
      "text": "300 m",
      "correct": false,
      "short": "",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "1500 m",
      "correct": true,
      "short": "",
-     "long": "Valoarea marcată; verifică reglementarea.",
+     "long": "Verifică reglementarea.",
      "warn": ""
     }
    ]
@@ -3750,34 +3750,34 @@
    "number": "#105",
    "text": "187: Pentru a evita efectul turbulenţei de siaj, eşalonarea la plecare în cazul aeronavelor uşoare sau medii care pleacă după o aeronavă grea va fi de minim:",
    "short": "Pentru a evita turbulența de siaj, eșalonarea la plecare după o aeronavă grea este de minim 2 minute.",
-   "long": "Turbulența de siaj de la o aeronavă grea poate fi periculoasă pentru una ușoară. Eșalonarea minimă marcată este de 2 minute. Verifică cifra în procedurile de trafic aplicabile.",
+   "long": "Turbulența de siaj de la o aeronavă grea poate fi periculoasă pentru una ușoară. Eșalonarea minimă corectă este de 2 minute. Verifică cifra în procedurile de trafic aplicabile.",
    "answers": [
     {
      "text": "10 min",
      "correct": false,
      "short": "10 minute.",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "7 min",
      "correct": false,
      "short": "7 minute.",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "2 min",
      "correct": true,
      "short": "2 minute.",
-     "long": "Valoarea marcată; verifică procedurile.",
+     "long": "Verifică procedurile.",
      "warn": ""
     },
     {
      "text": "5 min",
      "correct": false,
      "short": "5 minute.",
-     "long": "Nu este valoarea marcată.",
+     "long": "Nu este valoarea corectă.",
      "warn": ""
     }
    ]

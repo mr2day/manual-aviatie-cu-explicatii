@@ -213,7 +213,7 @@
      "text": "da, pentru că în caz de urgență putem fi recuperați mai ușor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -285,7 +285,7 @@
      "text": "VNV",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată, cea mai apropiată de 285°.",
+     "long": "Este varianta corectă, cea mai apropiată de 285°.",
      "warn": ""
     }
    ]
@@ -588,7 +588,7 @@
      "text": "Să se înceapă zborul împotriva vântului",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -660,7 +660,7 @@
      "text": "cale ferată",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -991,7 +991,7 @@
      "text": "abatere magnetică",
      "correct": false,
      "short": "",
-     "long": "Este un termen apropiat, dar varianta marcată este declinația.",
+     "long": "Este un termen apropiat, dar varianta corectă este declinația.",
      "warn": ""
     },
     {
@@ -1200,7 +1200,7 @@
      "text": "310º",
      "correct": true,
      "short": "310°.",
-     "long": "Varianta marcată; depinde de figură.",
+     "long": "Depinde de figură.",
      "warn": ""
     },
     {
@@ -1315,7 +1315,7 @@
      "text": "modificăm traiectul de zbor la o distanță care ne permite să evităm efectele acestui tip de nor, 10 km respectiv minim 37 km pentru orajele puternice",
      "correct": true,
      "short": "Modificăm traiectul la o distanță care ne permite să evităm efectele acestui tip de nor, 10 km, respectiv minim 37 km pentru orajele puternice.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1365,7 +1365,7 @@
      "text": "diferența între azimutul geografic și azimutul magnetic",
      "correct": false,
      "short": "",
-     "long": "Este apropiată, dar varianta marcată este formularea cu nordul geografic și magnetic.",
+     "long": "Este apropiată, dar varianta corectă este formularea cu nordul geografic și magnetic.",
      "warn": ""
     }
    ]
@@ -1394,7 +1394,7 @@
      "text": "viteza reală prin aer în comparație cu viteza resimțită de pilot",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată, cu definiția corectă a TAS.",
+     "long": "Este varianta corectă, cu definiția corectă a TAS.",
      "warn": ""
     },
     {
@@ -1531,7 +1531,7 @@
      "text": "depinde de tăria vântului",
      "correct": false,
      "short": "",
-     "long": "Este corect că depinde, dar varianta marcată este „da”.",
+     "long": "Este corect că depinde, dar varianta corectă este „da”.",
      "warn": ""
     },
     {
@@ -1596,7 +1596,7 @@
      "text": "depinde atât de latitudine cât și de longitudine",
      "correct": true,
      "short": "Depinde atât de latitudine, cât și de longitudine.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1689,7 +1689,7 @@
      "text": "Să schimbați altitudinea pentru o viteză mai bună la sol",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1704,7 +1704,7 @@
      "text": "Verificarea condițiilor meteo",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1747,7 +1747,7 @@
      "text": "Să folosiți drumuri și alte repere proeminente",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1884,7 +1884,7 @@
      "text": "căutăm o zonă cu vizibilitate care să ne permită trecerea sub plafon, chiar dacă asta presupune să zburăm mai mult și mai departe decât ne-am propus",
      "correct": true,
      "short": "Căutăm o zonă cu vizibilitate care să ne permită trecerea sub plafon, chiar dacă asta presupune să zburăm mai mult.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1977,7 +1977,7 @@
      "text": "unghiul format între NM (Nordul magnetic) şi vectorul vânt (la aterizare)",
      "correct": true,
      "short": "Unghiul format între NM (nordul magnetic) și vectorul vânt, la aterizare.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1992,14 +1992,14 @@
      "text": "pentru a vizualiza un traseu în 3D înainte de a zbura",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
      "text": "pentru a găsi puncte de referință geografice",
      "correct": false,
      "short": "",
-     "long": "Este util, dar varianta marcată este vizualizarea 3D.",
+     "long": "Este util, dar varianta corectă este vizualizarea 3D.",
      "warn": ""
     },
     {
@@ -2150,7 +2150,7 @@
      "text": "Pentru a furniza poziția exactă și viteza la sol",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2179,7 +2179,7 @@
      "text": "Poziția actuală, viteza la sol și altitudinea",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2222,7 +2222,7 @@
      "text": "utilizarea unei hărți și a reperelor vizuale pentru a menține o traiectorie",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2346,7 +2346,7 @@
    "number": "#66",
    "text": "890: Avem în traseul nostru un vârf de peste 2500m, putem zbura peste acesta?",
    "short": "Nu există reglementări care să interzică zborul peste un vârf de peste 2500 m, cu condiția să respecți limitele de altitudine aplicabile.",
-   "long": "Varianta marcată indică varianta că nu există reglementări care să interzică zborul peste vârful de peste 2500 m. Totuși trebuie respectate limitele de altitudine și regulile de planificare, iar zborul peste munți trebuie făcut cu atenție. Verifică reglementarea actuală.",
+   "long": "Varianta corectă afirmă că nu există reglementări care să interzică zborul peste vârful de peste 2500 m. Totuși trebuie respectate limitele de altitudine și regulile de planificare, iar zborul peste munți trebuie făcut cu atenție. Verifică reglementarea actuală.",
    "answers": [
     {
      "text": "nu, la altitudinea respectiva pilotul își poate pierde cunoștința",
@@ -2373,7 +2373,7 @@
      "text": "da, nu există reglementări care să interzică acest zbor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2388,7 +2388,7 @@
      "text": "traiect",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2409,7 +2409,7 @@
      "text": "traiectorie",
      "correct": false,
      "short": "",
-     "long": "Este un termen general, dar varianta marcată este traiectul.",
+     "long": "Este un termen general, dar varianta corectă este traiectul.",
      "warn": ""
     }
    ]
@@ -2460,7 +2460,7 @@
      "text": "corecție de 10 grade spre dreapta",
      "correct": true,
      "short": "Corecție de 10° spre dreapta.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2496,7 +2496,7 @@
      "text": "Efectuând un viraj lent de 360 de grade și notând cea mai mică viteză la sol",
      "correct": true,
      "short": "Efectuând un viraj lent de 360° și notând cea mai mică viteză la sol.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2526,7 +2526,7 @@
    "number": "#71",
    "text": "964: Care este unghiul dintre nordul geografic și nordul magnetic dacă busola indică 15 grade est?",
    "short": "Unghiul dintre nordul geografic și nordul magnetic, dacă busola indică 15° est, este 15° est.",
-   "long": "Declinația magnetică este unghiul dintre nordul geografic și cel magnetic. Varianta marcată indică 15° est, care este valoarea din enunț. Verifică declinația reală pe harta zonei, deoarece depinde de loc și de an.",
+   "long": "Declinația magnetică este unghiul dintre nordul geografic și cel magnetic. Varianta corectă indică 15° est, care este valoarea din enunț. Verifică declinația reală pe harta zonei, deoarece depinde de loc și de an.",
    "answers": [
     {
      "text": "15 grade vest",
@@ -2546,7 +2546,7 @@
      "text": "15 grade est",
      "correct": true,
      "short": "15° est.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2611,7 +2611,7 @@
      "text": "compasul indică o direcție de deplasare catre Est, iar soarele apune la Vest, afirmația este falsă",
      "correct": true,
      "short": "Compasul indică o direcție de deplasare către est, iar soarele apune la vest, afirmația este falsă.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2647,7 +2647,7 @@
      "text": "toate variantele sunt greșite",
      "correct": false,
      "short": "",
-     "long": "Varianta marcată este corectă.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
@@ -2661,7 +2661,7 @@
      "text": "ocolim vârfurile peste 3200m și zburăm cât mai aproape de locurile de aterizare și căile de acces pentru recuperare în caz de urgență",
      "correct": true,
      "short": "Ocolim vârfurile peste 3200 m și zburăm cât mai aproape de locurile de aterizare și căile de acces pentru recuperare în caz de urgență.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2706,7 +2706,7 @@
    "number": "#76",
    "text": "961: Care este declinația magnetică dacă zbori spre nord și busola indică 10 grade spre est?",
    "short": "Dacă zbori spre nord și busola indică 10° est, declinația magnetică este 10° est.",
-   "long": "Varianta marcată indică 10° est. Declinația este diferența dintre nordul geografic și nordul magnetic. Verifică valoarea reală pe harta zonei.",
+   "long": "Varianta corectă indică 10° est. Declinația este diferența dintre nordul geografic și nordul magnetic. Verifică valoarea reală pe harta zonei.",
    "answers": [
     {
      "text": "0 grade",
@@ -2733,7 +2733,7 @@
      "text": "10 grade est",
      "correct": true,
      "short": "10° est.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2877,7 +2877,7 @@
      "text": "poate fi cauzată de fum, ceață, ploaie",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -3057,7 +3057,7 @@
      "text": "Este interzis să zburăm la aceasta înălțime cu exceptie de procedura de aterizare si decolare",
      "correct": true,
      "short": "Este interzis să zburăm la această înălțime, cu excepția procedurii de aterizare și decolare.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -3194,7 +3194,7 @@
      "text": "deviază direcția de zbor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3252,7 +3252,7 @@
      "text": "o metodă de navigație folosită de piloții de avioane pentru a determina cursul și locația",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3324,7 +3324,7 @@
      "text": "Pentru a verifica nivelul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Viteza la sol ajută, dar varianta marcată este calculul timpului.",
+     "long": "Viteza la sol ajută, dar varianta corectă este calculul timpului.",
      "warn": ""
     },
     {
@@ -3338,7 +3338,7 @@
      "text": "Pentru a calcula timpul necesar pentru a ajunge la destinație",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3360,7 +3360,7 @@
      "text": "zborul pe o traiectorie dorită deasupra solului și sosirea la destinație la un timp estimat",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {

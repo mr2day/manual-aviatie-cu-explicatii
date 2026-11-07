@@ -33,7 +33,7 @@
      "text": "legătura manetei de accelerație cu comanda carburatorului să permită revenirea la poziția de relanti",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -48,7 +48,7 @@
      "text": "Să informezi pe cineva despre zbor și să iei un telefon mobil sau un dispozitiv de localizare prin satelit",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -98,7 +98,7 @@
      "text": "Să reduci viteza și să corectezi direcția",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -134,7 +134,7 @@
      "text": "ne alegem un loc de decolare în siguranță și cât mai departe de mulțime, iar după decolare ne îndepărtăm de locul de decolare pentru a le permite și celorlalți decolarea în siguranță",
      "correct": true,
      "short": "Ne alegem un loc de decolare în siguranță și cât mai departe de mulțime, iar după decolare ne îndepărtăm de locul de decolare.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -156,7 +156,7 @@
      "text": "Poate provoca o înclinare violentă și o întoarcere în afundare spre partea închisă",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -192,7 +192,7 @@
      "text": "da, pentru a fi comparată cu masa maximă specificată în manualul de utilizare şi întreţinere",
      "correct": true,
      "short": "Da, pentru a fi comparată cu masa maximă specificată în manualul de utilizare și întreținere.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -228,7 +228,7 @@
      "text": "Să te asiguri că zona de pe sol este liberă de obiecte care ar putea fi aspirate în elice",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -264,7 +264,7 @@
      "text": "Pentru a reduce riscul de accident",
      "correct": false,
      "short": "",
-     "long": "Este un efect general, dar varianta marcată este decolarea din locuri înguste.",
+     "long": "Este un efect general, dar varianta corectă este decolarea din locuri înguste.",
      "warn": ""
     },
     {
@@ -278,7 +278,7 @@
      "text": "Pentru a putea decola din locuri înguste fără a rata decolarea",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -307,7 +307,7 @@
      "text": "spre stânga",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -336,7 +336,7 @@
      "text": "Scade timpul de reacție și precizia, crescând riscul de accidente",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -366,7 +366,7 @@
    "number": "#11",
    "text": "468: Zburam la 3m deasupra unui lac într-o seară liniștită la apus; vom evita:",
    "short": "Zburând la 3 m deasupra unui lac seara, evităm să zburăm sub 150 m față de sol sau apă, deoarece este interzis.",
-   "long": "Zborul la altitudine foarte mică deasupra apei este restricționat. Varianta marcată indică înălțimea de 150 m ca limită pentru acest caz. Apusul și combustibilul sunt alți factori, dar nu regula principală.",
+   "long": "Zborul la altitudine foarte mică deasupra apei este restricționat. Varianta corectă indică înălțimea de 150 m ca limită pentru acest caz. Apusul și combustibilul sunt alți factori, dar nu regula principală.",
    "answers": [
     {
      "text": "Să zburăm cu putin combustibil la bord pentru a avea aparatul cât mai usor",
@@ -393,7 +393,7 @@
      "text": "Să zburam la o inaltime mai mica de 150 m fata de sol/ apa, deoarece este interzis",
      "correct": true,
      "short": "Să zburăm la o înălțime mai mică de 150 m față de sol/apă, deoarece este interzis.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -415,7 +415,7 @@
      "text": "Dezlegarea chingilor de la picioare, piept și rezervă",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -465,7 +465,7 @@
      "text": "O manevră extremă unde pilotul trage destul de mult de frâne pentru a deforma aripa, recuperată prin eliberarea graduală și uniformă a frânelor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -480,7 +480,7 @@
      "text": "Aeronava motorizată trebuie să cedeze trecerea aeronavei nemotorizate",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -523,7 +523,7 @@
      "text": "trebuie asigurată viteza de planare, iar direcția de aterizare este înainte",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -552,7 +552,7 @@
      "text": "Dimineața și seara",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -602,7 +602,7 @@
      "text": "Asigurarea că se află într-un spațiu aerian legal",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -631,7 +631,7 @@
      "text": "nu există restricții speciale în acest caz",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -667,7 +667,7 @@
      "text": "Eliberezi accelerația și tragi puțin frânele să nu te depășească când își revine",
      "correct": true,
      "short": "Eliberezi accelerația și tragi puțin frânele, să nu te depășească când își revine.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -710,7 +710,7 @@
      "text": "Este greu de estimat înălțimea peste apă",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -746,7 +746,7 @@
      "text": "Să facă corpul să se balanseze înainte, reducând viteza de coborâre și de înaintare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -775,7 +775,7 @@
      "text": "nu este recomandată decolarea cu vânt de spate, iar la aceasta viteză este puțin probabil să putem decola",
      "correct": true,
      "short": "Nu este recomandată decolarea cu vânt de spate, iar la această viteză este puțin probabil să putem decola.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -825,7 +825,7 @@
      "text": "Să menții suspantele tensionate și să alergi pentru a câștiga viteză",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -840,7 +840,7 @@
      "text": "Senzație de somnolență sau lipsă de concentrare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -883,7 +883,7 @@
      "text": "Să pornești motorul singur, stând în fața lui",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -906,7 +906,7 @@
    "number": "#26",
    "text": "497: Sunteți în luna iunie și doriți să efectuați un zbor cu motoparapanta. Dacă doriți să decolați la ora 18:00 local la ce oră cel mai târziu UTC trebuie să depuneți planul de zbor?",
    "short": "Dacă vrei să decolezi la 18:00 ora locală, în iunie, planul de zbor se depune cel mai târziu la 14:00 UTC.",
-   "long": "În iunie, România folosește ora de vară (UTC+3), deci 18:00 local înseamnă 15:00 UTC. Varianta marcată indică depunerea cu o oră înainte, la 14:00 UTC. Verifică regula de depunere a planului în reglementarea actuală.",
+   "long": "În iunie, România folosește ora de vară (UTC+3), deci 18:00 local înseamnă 15:00 UTC. Varianta corectă indică depunerea cu o oră înainte, la 14:00 UTC. Verifică regula de depunere a planului în reglementarea actuală.",
    "answers": [
     {
      "text": "la ora 15:00 UTC",
@@ -919,14 +919,14 @@
      "text": "la ora 13:00 UTC",
      "correct": false,
      "short": "",
-     "long": "Este cu o oră înainte de termenul marcat.",
+     "long": "Este cu o oră înainte de termenul corect.",
      "warn": ""
     },
     {
      "text": "la ora 14:00 UTC",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -962,7 +962,7 @@
      "text": "doar atunci când nu mai putem ajunge la un loc unde putem ateriza în siguranță",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1005,7 +1005,7 @@
      "text": "Pentru a asigura performanța optimă și siguranța în zbor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1041,7 +1041,7 @@
      "text": "Turbulențele mecanice sunt indicate de prezența norilor de praf, devierea fumului și modificările bruște ale vântului",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1056,7 +1056,7 @@
      "text": "în spatele pilotului, în aer liber având elicea liberă",
      "correct": true,
      "short": "În spatele pilotului, în aer liber, având elicea liberă.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1085,8 +1085,8 @@
   {
    "number": "#31",
    "text": "486: Care este înălțimea maximă până la care puteți zbura la verticala unui aerodrom situat la cota de 1300 m și în spațiu aerian de clasa G?",
-   "short": "Dacă zbori la verticala unui aerodrom situat la 1300 m, în spațiu de clasa G, varianta marcată indică înălțimea maximă de 1900 m.",
-   "long": "Limitele de înălțime în spațiul G sunt raportate la aerodrom sau la altitudinea terenului, conform regulilor. Varianta marcată indică 1900 m, adică 1300 m (aerodrom) plus 600 m. Verifică valoarea din reglementarea aplicabilă, deoarece limitele pot fi exprimate diferit.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
+   "short": "Dacă zbori la verticala unui aerodrom situat la 1300 m, în spațiu de clasa G, varianta corectă indică înălțimea maximă de 1900 m.",
+   "long": "Limitele de înălțime în spațiul G sunt raportate la aerodrom sau la altitudinea terenului, conform regulilor. Varianta corectă indică 1900 m, adică 1300 m (aerodrom) plus 600 m. Verifică valoarea din reglementarea aplicabilă, deoarece limitele pot fi exprimate diferit.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
    "answers": [
     {
      "text": "150m",
@@ -1106,14 +1106,14 @@
      "text": "1900m",
      "correct": true,
      "short": "1900 m.",
-     "long": "Este varianta marcată; verifică regula aplicabilă.",
+     "long": "Verifică regula aplicabilă.",
      "warn": ""
     },
     {
      "text": "1500m",
      "correct": false,
      "short": "1500 m.",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     }
    ]
@@ -1128,7 +1128,7 @@
      "text": "Un stall apare când unghiul de atac crește atât de mult încât fluxul de aer de pe aripă se separă, provocat de frânare excesivă sau rafale de vânt",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1164,14 +1164,14 @@
      "text": "Să folosești trimmerele la setarea lentă și să aplici o presiune ușoară pe frâne",
      "correct": false,
      "short": "",
-     "long": "Este varianta marcată (duplicatul).",
+     "long": "Are același text ca varianta B, deci nu este varianta corectă.",
      "warn": ""
     },
     {
      "text": "Să folosești trimmerele la setarea lentă și să aplici o presiune ușoară pe frâne",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată, identică cu prima.",
+     "long": "Este varianta corectă; varianta A are același text.",
      "warn": ""
     },
     {
@@ -1200,7 +1200,7 @@
      "text": "permite redresarea în cazul ruperii unei comenzi",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1250,7 +1250,7 @@
      "text": "dvs. trebuie să cedaţi prioritatea",
      "correct": true,
      "short": "Dvs. trebuie să cedați prioritatea.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1286,7 +1286,7 @@
      "text": "Să-l accelerezi la 50% putere pentru aproximativ 10 secunde pentru a curăța motorul",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1322,7 +1322,7 @@
      "text": "cu alergare accelerată progresiv",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1365,7 +1365,7 @@
      "text": "\"Kill, Look, Pull, Clear, and Throw\" (Oprește motorul, privește, trage, asigură și aruncă)",
      "correct": true,
      "short": "Oprește motorul, privește, trage, asigură și aruncă.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1387,7 +1387,7 @@
      "text": "Să eviți utilizarea frânelor extrem și să planifici coborârea urmărind conturul obstacolelor",
      "correct": true,
      "short": "Să eviți utilizarea frânelor extreme și să planifici coborârea urmărind conturul obstacolelor.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1423,7 +1423,7 @@
      "text": "cu ajutorul ultimului rând de suspante(D)",
      "correct": true,
      "short": "Cu ajutorul ultimului rând de suspante (D).",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1473,7 +1473,7 @@
      "text": "ne uităm în direcția în care vrem să facem virajul, ne asigurăm, după care executăm manevra",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1488,7 +1488,7 @@
      "text": "Devine mai dinamică și mai reactivă și are o rată de urcare mai scăzută și reacționează mai violent în cazul unui colaps",
      "correct": true,
      "short": "Devine mai dinamică și mai reactivă, are o rată de urcare mai scăzută și reacționează mai violent în cazul unui colaps.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1524,7 +1524,7 @@
      "text": "se ocoleşte, se evită zona periculoasă şi se îndreaptă către zone mai sigure şi se aterizează pe aerodromul cel mai apropiat",
      "correct": true,
      "short": "Se ocolește, se evită zona periculoasă, se îndreaptă către zone mai sigure și se aterizează pe aerodromul cel mai apropiat.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1567,7 +1567,7 @@
      "text": "Să reduci imediat puterea și frânele și să te pregătești să atenuezi balansul",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1617,7 +1617,7 @@
      "text": "un viraj la dreapta",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1632,7 +1632,7 @@
      "text": "se aterizează cu chingile desfăcute și cu viteza cât mai mică",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1675,7 +1675,7 @@
      "text": "este interzis să efectuăm proceduri care nu sunt în manulul de operare al aeronavei",
      "correct": true,
      "short": "Este interzis să efectuăm proceduri care nu sunt în manualul de operare al aeronavei.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1704,7 +1704,7 @@
      "text": "Să verifici direcția vântului și să alegi un loc sigur pentru aterizare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1761,7 +1761,7 @@
      "text": "Poți fi învăluit în aripă și căderea poate fi violentă",
      "correct": true,
      "short": "Poți fi învăluit în aripă, iar căderea poate fi violentă.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1790,7 +1790,7 @@
      "text": "Să iei o gură mare de aer și să ieși imediat din echipament",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1806,7 +1806,7 @@
    "number": "#51",
    "text": "474: Doriţi sa zburaţi VFR în spaţiul aerian de clasă G, din punctul A în punctul B la şes. Vizibilitatea este peste 8 km, plafon la 400 m. Cum procedaţi?",
    "short": "Dacă vizibilitatea este peste 8 km, dar plafonul este la 400 m, în spațiul G nu zbori.",
-   "long": "Varianta marcată indică varianta de a nu zbura în aceste condiții. Pentru zborul VFR, condițiile minime de vizibilitate și de distanță față de nori trebuie respectate. Verifică valorile exacte din reglementare, pentru că plafonul de 400 m poate fi sub limita cerută.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
+   "long": "Varianta corectă recomandă să nu zbori în aceste condiții. Pentru zborul VFR, condițiile minime de vizibilitate și de distanță față de nori trebuie respectate. Verifică valorile exacte din reglementare, pentru că plafonul de 400 m poate fi sub limita cerută.",
    "answers": [
     {
      "text": "informați ATC despre condițiile de vizibilitate și cereți aprobare pentru a decola",
@@ -1833,7 +1833,7 @@
      "text": "nu zburaţi",
      "correct": true,
      "short": "Nu zburați.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1862,7 +1862,7 @@
      "text": "Necesitatea menținerii unei opțiuni de aterizare de urgență",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1878,7 +1878,7 @@
    "number": "#53",
    "text": "508: În cazul în care vântul este mai slab de 10 km/h, cum este recomandat să aterizezi în apă?",
    "short": "Dacă vântul este mai slab de 10 km/h și vrei să aterizezi în apă, aterizezi cu vânt din spate, astfel încât aripa să intre în apă cu marginea de atac.",
-   "long": "Cu vânt slab, aripa poate cădea peste pilot dacă aterizează cu vânt din față. Vântul din spate face ca marginea de atac să intre primul în apă, iar aripa se așază mai ușor. Varianta marcată indică această variantă.",
+   "long": "Cu vânt slab, aripa poate cădea peste pilot dacă aterizează cu vânt din față. Vântul din spate face ca marginea de atac să intre primul în apă, iar aripa se așază mai ușor. Varianta corectă indică această variantă.",
    "answers": [
     {
      "text": "Aterizare în picaj",
@@ -1898,7 +1898,7 @@
      "text": "Aterizare cu vânt din spate, astfel încât aripa să intre în apă cu marginea de atac",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1927,7 +1927,7 @@
      "text": "se realizează prin întreţinerea regulată a aeronavei şi prin pregătirea şi verificarea sistematică a acesteia",
      "correct": true,
      "short": "Se realizează prin întreținerea regulată a aeronavei și prin pregătirea și verificarea sistematică a acesteia.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -1977,7 +1977,7 @@
      "text": "Pe spate, echipat cel puțin cu cască",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -1986,27 +1986,27 @@
    "number": "#56",
    "text": "498: . Nu ați reușit să decolați în maxim 30 de minute față de ora decolării din planul de zbor depus. În acest caz, aveți obligația să:",
    "short": "Dacă nu reușești să decolezi în maximum 30 de minute față de ora din planul de zbor, ceri un DELAY la briefing.",
-   "long": "Întârzierea față de planul depus trebuie comunicată prin procedura de ajustare a planului, de regulă cerând un DELAY. Informarea COAP sau depunerea altui plan nu sunt pașii corecți. Varianta marcată indică DELAY-ul.",
+   "long": "Întârzierea față de planul depus trebuie comunicată prin procedura de ajustare a planului, de regulă cerând un DELAY. Informarea COAP sau depunerea altui plan nu sunt pașii corecți. Varianta corectă indică DELAY-ul.",
    "answers": [
     {
      "text": "cereți un DELAY la briefing",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
      "text": "informați COAP despre întârziere",
      "correct": false,
      "short": "",
-     "long": "Nu este pasul marcat.",
+     "long": "Nu este pasul corect.",
      "warn": ""
     },
     {
      "text": "depuneți un alt plan de zbor",
      "correct": false,
      "short": "",
-     "long": "Nu este pasul marcat.",
+     "long": "Nu este pasul corect.",
      "warn": ""
     },
     {
@@ -2035,7 +2035,7 @@
      "text": "Verifici direcția vântului și alegi un loc sigur pentru aterizare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2071,7 +2071,7 @@
      "text": "Crește probabilitatea de eșec structural",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2121,7 +2121,7 @@
      "text": "Folosești steaguri, fum, copaci și alte vegetații pentru a detecta schimbările vântului",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2130,7 +2130,7 @@
    "number": "#60",
    "text": "541: Ce este o spirală asimetrică?",
    "short": "O spirală asimetrică este o spirală care se îndreaptă ușor în fiecare revoluție și este mai sigură decât o spirală obișnuită.",
-   "long": "Varianta marcată descrie spirala asimetrică ca o spirală care se îndreaptă treptat. Verifică definiția în manualul de pregătire, pentru că termenul poate fi folosit diferit. Spirala cu frânare intensă sau cea care duce la închidere frontală sunt alte situații.",
+   "long": "Varianta corectă descrie spirala asimetrică ca o spirală care se îndreaptă treptat. Verifică definiția în manualul de pregătire, pentru că termenul poate fi folosit diferit. Spirala cu frânare intensă sau cea care duce la închidere frontală sunt alte situații.",
    "answers": [
     {
      "text": "O spirală care necesită o utilizare intensă a frânelor",
@@ -2150,7 +2150,7 @@
      "text": "O spirală care se îndreaptă ușor în fiecare revoluție și este mai sigură decât o spirală obișnuită",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2179,14 +2179,14 @@
      "text": "zburam cu trimerele inchise pentru a avea o aripa stabila si usor manevrabila",
      "correct": false,
      "short": "Zburăm cu trimmerele închise pentru a avea o aripă stabilă și ușor manevrabilă.",
-     "long": "Nu este varianta marcată.",
+     "long": "Nu este varianta corectă.",
      "warn": ""
     },
     {
      "text": "încercăm să ne întoarcem din drum pe același traseu pentru ca e probabil cel mai sigur",
      "correct": true,
      "short": "Încercăm să ne întoarcem din drum pe același traseu, pentru că e probabil cel mai sigur.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2222,7 +2222,7 @@
      "text": "Către aer curat, departe de virajele aripii sau alte obstacole",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2251,7 +2251,7 @@
      "text": "Fără speedbar, trimmere neutre și presiune ușoară pe frâne",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2294,7 +2294,7 @@
      "text": "un viraj la dreapta",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2310,7 +2310,7 @@
    "number": "#65",
    "text": "574: Care este principalul avantaj al planificării zborului în direcția vântului la începutul unui zbor cross country?",
    "short": "Planificarea zborului în direcția vântului la început permite o întoarcere rapidă dacă decizi să te întorci devreme, iar combustibilul se planifică mai ușor.",
-   "long": "Varianta marcată indică varianta că zborul începe în direcția vântului. Alte surse recomandă de regulă să începi cu vântul de față, astfel încât, dacă te întorci, să ai vânt de spate. Logica și sfatul obișnuit sunt opuse; verifică sursa ta.",
+   "long": "Alte surse recomandă de regulă să începi cu vântul de față, astfel încât, dacă te întorci, să ai vânt de spate. Varianta D pornește de la ideea opusă; verifică sursa ta.",
    "answers": [
     {
      "text": "Permite o viteză mai mare de urcare",
@@ -2337,8 +2337,8 @@
      "text": "Permite o întoarcere rapidă dacă decizi să te întorci devreme, iar planificarea combustibilului este mai ușoară",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată; sfatul obișnuit este diferit, verifică sursa.",
-     "warn": "Sfatul uzual este să începi zborul cu vântul de față, ca la întoarcere să ai vânt de spate. Varianta marcată contrazice acest principiu; vezi și întrebarea 17 din pagina 05, unde varianta marcată indică același principiu ca fiind corect."
+     "long": "Este discutabilă; sfatul obișnuit este diferit, verifică sursa.",
+     "warn": "Sfatul uzual este să începi zborul cu vântul de față, ca la întoarcere să ai vânt de spate. Varianta D contrazice acest principiu; vezi și întrebarea 17 din pagina 05, unde răspunsul corect indică același principiu."
     }
    ]
   },
@@ -2373,7 +2373,7 @@
      "text": "Pentru a te asigura că accelerația revine la relanti",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2402,7 +2402,7 @@
      "text": "Pot fi fatale pentru un pilot începător",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2424,7 +2424,7 @@
      "text": "Reduci presiunea pe frâne și puterea pentru a lăsa aripa să zboare din nou",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2460,14 +2460,14 @@
      "text": "Încerci să găsești un râu sau o cale ferată pentru a le urma",
      "correct": false,
      "short": "",
-     "long": "Este util, dar varianta marcată este urcarea și reperele.",
+     "long": "Este util, dar varianta corectă este urcarea și reperele.",
      "warn": ""
     },
     {
      "text": "Te urci mai sus pentru a obține o perspectivă mai bună și folosești drumuri și alte repere importante pentru orientare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2510,7 +2510,7 @@
      "text": "Evită startul A în condiții de vânt puternic",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2539,7 +2539,7 @@
      "text": "oprirea motorului este obligatorie în astfel de situaţii",
      "correct": true,
      "short": "Oprirea motorului este obligatorie în astfel de situații.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2568,7 +2568,7 @@
      "text": "Pentru a te concentra pe flare și a evita aterizarea în derivă",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2625,7 +2625,7 @@
      "text": "Pentru a preveni problemele legale și a păstra relațiile bune cu proprietarii terenurilor",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2647,7 +2647,7 @@
      "text": "Reduci imediat puterea și frânele și te pregătești să atenuezi balansul",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2676,7 +2676,7 @@
      "text": "Pentru a evalua mai bine înălțimea, vântul, condițiile terenului și obstacolele",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2719,7 +2719,7 @@
      "text": "Să practici amortizarea oscilațiilor la altitudine mare și să eviți corectarea acestora sub aproximativ 20 metri",
      "correct": true,
      "short": "Să practici amortizarea oscilațiilor la altitudine mare și să eviți corectarea acestora sub aproximativ 20 m.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2748,7 +2748,7 @@
      "text": "Să continui să urci și să aterizezi în 5 minute",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2798,7 +2798,7 @@
      "text": "Pentru a reduce viteza la sol",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2841,7 +2841,7 @@
      "text": "dacă nu puteţi evita zona creşteţi înălţimea de zbor pentru a vă asigura în caz de pană de motor",
      "correct": true,
      "short": "Dacă nu puteți evita zona, creșteți înălțimea de zbor pentru a vă asigura în caz de pană de motor.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2856,7 +2856,7 @@
      "text": "Termicele puternice pot cauza turbulențe severe, crescând riscul de colapsuri",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -2877,7 +2877,7 @@
      "text": "Termicele slabe asigură un zbor lin și stabil",
      "correct": false,
      "short": "",
-     "long": "Este adevărat, dar varianta marcată este cea despre termicele puternice.",
+     "long": "Este adevărat, dar varianta corectă este cea despre termicele puternice.",
      "warn": ""
     }
    ]
@@ -2913,7 +2913,7 @@
      "text": "ne vom alege un loc sigur de aterizare și vom opri motorul dacă putem ateriza în siguranță",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2949,7 +2949,7 @@
      "text": "Menții traiectoria și altitudinea actuală, pregătindu-te să iei măsuri de evitare dacă este necesar",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -2978,7 +2978,7 @@
      "text": "Încerci să găsești linia stabilo și tragi de ea cu forță",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3007,7 +3007,7 @@
      "text": "Reduci presiunea pe frâne și puterea pentru a lăsa aripa să zboare din nou",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3057,7 +3057,7 @@
      "text": "Greutatea totală: tu, motorul cu combustibil și aripa, gata de decolare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -3086,7 +3086,7 @@
      "text": "Nu trage imediat de frâne, ci corectează cu grijă pentru a preveni o spirală",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3122,7 +3122,7 @@
      "text": "Aripa se deformează și începe să cadă vertical în jos, cu o rată de coborâre de peste 2000 FPM (10 m/s)",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3144,7 +3144,7 @@
      "text": "Prin turbulențe sau manevre greșite",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3194,7 +3194,7 @@
      "text": "dreapta",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3223,7 +3223,7 @@
      "text": "liber la elice?",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3259,7 +3259,7 @@
      "text": "În caz de spirale dezvoltate, pierdere iminentă a controlului sau coliziuni în aer",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3288,7 +3288,7 @@
      "text": "Să încălzești motorul",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3324,7 +3324,7 @@
      "text": "de sub aripă",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3374,7 +3374,7 @@
      "text": "Tragi frânele în jos până când mâinile sunt blocate sub coapse",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3417,7 +3417,7 @@
      "text": "viraţi dreapta la orizontală",
      "correct": true,
      "short": "Virați dreapta la orizontală.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -3432,7 +3432,7 @@
      "text": "Pe un suport fix, pe spatele pilotului sau în fața unui obiect care îl poate ține în loc la turație maximă",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3468,7 +3468,7 @@
      "text": "Să tensionezi ușor suspantele fără strica profilul aripii",
      "correct": true,
      "short": "Să tensionezi ușor suspantele fără să strici profilul aripii.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3511,7 +3511,7 @@
      "text": "Să te aliniezi cu vântul pe final și să faci corecții ușoare, evitând comenzile sub 10 metri",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3561,7 +3561,7 @@
      "text": "toate variantele sunt corecte",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -3590,7 +3590,7 @@
      "text": "Să încerci să aterizezi într-un loc fără rotor și cu panta redusă",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3626,7 +3626,7 @@
      "text": "Să începi imediat să tai suspentele cu cuțitul",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3655,7 +3655,7 @@
      "text": "Să ai mâinile aproape de poziția complet ridicată (fără frâne) înainte de a începe flare-ul",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3705,7 +3705,7 @@
      "text": "Ambele aeronave trebuie să vireze spre dreapta",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -3720,7 +3720,7 @@
      "text": "dimineața și seara",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3763,7 +3763,7 @@
      "text": "O rafală de vânt descendentă",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3786,7 +3786,7 @@
    "number": "#106",
    "text": "483: Startul B, adica gonflajul făcut cu fața la aripă, se recomandă:",
    "short": "Startul B, adică gonflajul cu fața la aripă, se recomandă când viteza vântului este de aproximativ 10 km/h.",
-   "long": "Startul B se folosește când vântul este suficient pentru a umfla aripa, dar nu permite startul A. Pentru vânt zero sau pentru începători, procedura este diferită. Varianta marcată indică 10 km/h.",
+   "long": "Startul B se folosește când vântul este suficient pentru a umfla aripa, dar nu permite startul A. Pentru vânt zero sau pentru începători, procedura este diferită. Varianta corectă indică 10 km/h.",
    "answers": [
     {
      "text": "niciodată",
@@ -3813,7 +3813,7 @@
      "text": "atunci cand viteza vântului este de aproximativ 10 km/h",
      "correct": true,
      "short": "Atunci când viteza vântului este de aproximativ 10 km/h.",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -3828,7 +3828,7 @@
      "text": "Parașute dirijabile (Rogallo) și parașute rotunde; cele dirijabile oferă o rată de coborâre îmbunătățită și posibilitatea de a evita obstacolele",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3871,14 +3871,14 @@
      "text": "Un sac de aripă simplu în cazul în care motorul se oprește și uneltele de bază",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
      "text": "O lanternă mare și un radio de urgență",
      "correct": false,
      "short": "",
-     "long": "Este util, dar nu varianta marcată.",
+     "long": "Este util, dar nu varianta corectă.",
      "warn": ""
     },
     {
@@ -3900,7 +3900,7 @@
      "text": "spre stânga",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -3950,14 +3950,14 @@
      "text": "Devine mai dinamică, răspunde mai rapid la comenzile de control și are o viteză mai mare de înfundare",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
      "text": "Devine mai puțin rezistentă la colapsuri",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta marcată; discutabil.",
+     "long": "Nu este varianta corectă; discutabil.",
      "warn": ""
     }
    ]
@@ -3972,7 +3972,7 @@
      "text": "Reduci complet puterea și frânele și te pregătești să atenuezi balansul",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -4015,7 +4015,7 @@
      "text": "Pentru a avea o vedere mai bună asupra peisajului",
      "correct": false,
      "short": "Pentru a evita majoritatea obstacolelor create de oameni și a scana pentru turnuri înalte.",
-     "long": "Este varianta marcată.",
+     "long": "Este varianta corectă.",
      "warn": ""
     },
     {
@@ -4058,7 +4058,7 @@
      "text": "Prin utilizarea corectă a accelerației și evitarea frânării excesive în timpul zborului accelerat",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -4101,7 +4101,7 @@
      "text": "Asigură că toate echipamentele sunt în stare optimă și reduc riscul de accidente",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     }
    ]
@@ -4130,7 +4130,7 @@
      "text": "gonflaj, control vizual al aripii, accelerare, desprindere",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -4146,13 +4146,13 @@
    "number": "#116",
    "text": "538: Care este riscul principal al unei închideri frontale?",
    "short": "Riscul principal al unei închideri frontale este o rată de coborâre care poate atinge până la 1000 FPM (5 m/s).",
-   "long": "În închiderea frontală, aripa coboară rapid. Varianta marcată indică 1000 FPM (aproximativ 5 m/s) ca valoare a ratei de coborâre. Pilotul poate pierde controlul sau aripa poate intra în spirală, dar valoarea vizează coborârea.",
+   "long": "În închiderea frontală, aripa coboară rapid. Varianta corectă indică 1000 FPM (aproximativ 5 m/s) ca valoare a ratei de coborâre. Pilotul poate pierde controlul sau aripa poate intra în spirală, dar valoarea vizează coborârea.",
    "answers": [
     {
      "text": "Pilotul poate pierde complet controlul aripii",
      "correct": false,
      "short": "",
-     "long": "Poate fi un risc, dar varianta marcată este rata de coborâre.",
+     "long": "Poate fi un risc, dar varianta corectă este rata de coborâre.",
      "warn": ""
     },
     {
@@ -4166,7 +4166,7 @@
      "text": "Rata de coborâre poate atinge până la 1000 FPM (5 m/s)",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată.",
+     "long": "",
      "warn": ""
     },
     {
@@ -4182,13 +4182,13 @@
    "number": "#117",
    "text": "567: Ce trebuie să faci imediat după ce ai decis să arunci parașuta de salvare?",
    "short": "Când ai decis să arunci parașuta de salvare, oprești motorul, privești mânerul și tragi de el cu o mișcare puternică.",
-   "long": "Procedura de aruncare începe cu oprirea motorului, apoi privirea spre mâner și tragerea ferm. Continuarea zborului, frânarea sau așteptarea deschiderii automate nu sunt corecte. Varianta marcată descrie mișcarea ca „în formă de Z”, o formulare pe care o verifici cu manualul echipamentului.",
+   "long": "Procedura de aruncare începe cu oprirea motorului, apoi privirea spre mâner și tragerea ferm. Continuarea zborului, frânarea sau așteptarea deschiderii automate nu sunt corecte. Varianta A descrie mișcarea ca „în formă de Z”, o formulare pe care o verifici cu manualul echipamentului.",
    "answers": [
     {
      "text": "Oprește motorul, privește mânerul parașutei și trage de el cu o mișcare puternică în formă de „Z”",
      "correct": true,
      "short": "",
-     "long": "Este varianta marcată; verifică formularea mișcării în manualul parașutei.",
+     "long": "Este greșită: formularea „în formă de Z” nu este procedura standard. Verifică formularea mișcării în manualul parașutei.",
      "warn": "Formularea „în formă de Z” nu este procedura standard. Procedura este: oprești motorul, privești mânerul și trage ferm; verifică mișcarea exactă în manualul parașutei."
     },
     {
