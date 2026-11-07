@@ -4,7 +4,7 @@ Document pentru un alt agent care preia proiectul. Limba interfeței și a conț
 
 ## 1. Ce este proiectul
 
-Un manual static, fără server, pentru elevii care pregătesc examenul teoretic de paramotor. Conținutul vine din simulatorul de examen (WordPress, skytransylvania.ro): 9 capitole, 830 de întrebări cu variantele și răspunsul marcat. Fiecare întrebare are în plus:
+Un manual static, fără server, pentru elevii care pregătesc examenul teoretic de paramotor. Conținutul: 9 capitole, 830 de întrebări cu variantele și răspunsul marcat. Fiecare întrebare are în plus:
 - o descriere scurtă, vizibilă;
 - o explicație detaliată, colapsibilă;
 - pentru fiecare variantă: o descriere scurtă și o explicație colapsibilă;
@@ -63,7 +63,7 @@ regulament-ulm.html     textul RACR-CCO ULM (Ediția 1/2007), cu cuprins
 
 ## 5. Ce s-a făcut (rezumat)
 
-1. Curățarea paginilor WordPress (Yoast, WooCommerce, Elementor, analitice) și eliminarea oricărei încărcări externe.
+1. Curățarea paginilor (plugine, analitice) și eliminarea oricărei încărcări externe.
 2. Explicații pentru toate cele 830 de întrebări, cu descrieri scurte și explicații colapsibile. Explicațiile sunt scrise din cunoștințe proprii și din câteva căutări pe net (vezi secțiunea 7).
 3. Avertismente (12 în total) pentru răspunsurile greșite, pe paginile 03, 04, 06, 07, 08, 09. Exemple:
    - 04: presiunea standard (întrebarea 35), unitatea densității (37), răcirea adiabatică 3,5°C în loc de ~0,2°C (87);
