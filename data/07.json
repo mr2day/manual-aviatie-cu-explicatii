@@ -1445,21 +1445,21 @@
   {
    "number": "#41",
    "text": "984: Activitatea de zbor se poate face dacă de la consumul de alcool au trecut minim:",
-   "short": "Activitatea de zbor se poate face după minim 12 ore de la consumul de alcool.",
-   "long": "Alcoolul influențează judecata și reacțiile mult după ce efectul se simte subiectiv. Regula este de 12 ore. Verifică regula actuală din reglementare, deoarece intervalul poate fi diferit.",
+   "short": "Conform PAC-MED 2025, intervalul de bază între consumul de alcool și îndatoririle de zbor este de 8 ore, iar după cantitatea consumată se recomandă o abținere mai lungă.",
+   "long": "Alcoolul influențează judecata și reacțiile mult după ce efectul se simte subiectiv. PAC-MED 2025 arată că alcoolul nu trebuie consumat cu mai puțin de 8 ore înainte de îndatoririle legate de zbor. Chiar și după 8 ore, alcoolemia poate fi peste limită, deci se recomandă abținerea mai mult, în funcție de cantitate. Limita legală în sânge este 0,80 g/l alcool pur (Codul aerian, art. 126 alin. 2).",
    "answers": [
     {
      "text": "6 ore",
      "correct": false,
      "short": "",
-     "long": "Este prea puțin pentru varianta corectă.",
+     "long": "6 ore este sub intervalul de bază de 8 ore din PAC-MED 2025.",
      "warn": ""
     },
     {
      "text": "8 ore",
      "correct": false,
      "short": "",
-     "long": "Este prea puțin pentru varianta corectă.",
+     "long": "8 ore este intervalul de bază din PAC-MED 2025, dar acesta este minim: după cantitatea consumată se recomandă o abținere mai lungă.",
      "warn": ""
     },
     {
@@ -1467,7 +1467,7 @@
      "correct": true,
      "short": "",
      "long": "",
-     "warn": ""
+     "warn": "PAC-MED 2025 dă 8 ore ca interval de bază între consumul de alcool și îndatoririle de zbor. Cifra de 12 ore nu este minimul din document; este o abținere mai lungă, pe care documentul o recomandă în funcție de cantitate."
     },
     {
      "text": "14 ore",
@@ -2454,7 +2454,7 @@
    "number": "#69",
    "text": "983: Pentru a putea zbura în siguranță, reglementarile impun:",
    "short": "Pentru a zbura în siguranță, reglementările impun 8 ore de somn.",
-   "long": "Odihna suficientă este esențială pentru atenție și reacție. Reglementările indică un necesar de somn, iar varianta corectă indică 8 ore. Verifică valoarea din reglementarea actuală.",
+   "long": "Odihna suficientă este necesară pentru atenție și reacție. Lipsa de somn reduce atenția și timpul de reacție, iar pilotul trebuie să fie odihnit înainte de zbor.",
    "answers": [
     {
      "text": "6 ore de somn",
@@ -2481,8 +2481,8 @@
      "text": "8 ore de somn",
      "correct": true,
      "short": "",
-     "long": "Oboseala și lipsa de somn reduc atenția și timpul de reacție, deci pilotul trebuie să aibă odihnă suficientă. Cifra de 8 ore nu am confirmat-o în sursele consultate; verifică-o în reglementarea aplicabilă.",
-     "warn": ""
+     "long": "Oboseala și lipsa de somn reduc atenția și timpul de reacție, deci pilotul trebuie să aibă odihnă suficientă. Pentru adulți, 8 ore de somn este recomandarea generală de referință.",
+     "warn": "Documentele din manual nu dau o cifră obligatorie de somn. 8 ore este recomandarea generală pentru adulți, iar odihna suficientă este regula de bază pentru zbor."
     }
    ]
   },

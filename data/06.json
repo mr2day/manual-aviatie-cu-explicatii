@@ -258,14 +258,14 @@
    "number": "#8",
    "text": "813: Ocolirea aerodromurilor în zbor VFR se execută obligatoriu la distanţe de cel puţin:",
    "short": "Ocolirea aerodromurilor în zbor VFR se face la cel puțin 10 km în sectoarele de decolare și aterizare.",
-   "long": "Zborul VFR trebuie să evite zonele de trafic aerodromului, în special sectoarele de decolare și aterizare, pentru a nu intra în conflict cu aeronavele care aterizează sau decolează. Distanța de 10 km este cea corectă; verifică-o în reglementarea aplicabilă.",
+   "long": "Zborul VFR trebuie să evite zonele de trafic aerodromului, în special sectoarele de decolare și aterizare, pentru a nu intra în conflict cu aeronavele care aterizează sau decolează. Varianta corectă indică 10 km în aceste sectoare.",
    "answers": [
     {
      "text": "10 km în sectoarele de decolare şi aterizare ale zonelor acestora",
      "correct": true,
      "short": "10 km în sectoarele de decolare și aterizare ale zonelor acestora.",
      "long": "",
-     "warn": ""
+     "warn": "Cifra de 10 km nu apare în regulamentele din manual. Regula de bază este evitarea sectoarelor de decolare și aterizare, cu distanță suficientă pentru a nu intra în conflict cu traficul aerodromului."
     },
     {
      "text": "15 km în sectoarele de decolare şi aterizare ale zonelor acestora",
@@ -2346,13 +2346,13 @@
    "number": "#66",
    "text": "803: Pentru cât timp putem păstra un amestec ulei-benzină:",
    "short": "Un amestec ulei-benzină se poate păstra cel mult 15 zile.",
-   "long": "Uleiul se separă și benzina se degradează, deci amestecul trebuie preparat proaspăt. Varianta corectă indică 15 zile. Sursele consultate recomandă amestecarea în cantități mici și utilizarea într-un interval scurt, de ordinul a două săptămâni.",
+   "long": "Uleiul se separă din benzină, iar benzina se degradează în timp, deci amestecul își pierde calitățile. Varianta corectă indică 15 zile. În practica paramotoristă se recomandă prepararea în cantități mici și folosirea într-un interval de ordinul a două săptămâni.",
    "answers": [
     {
      "text": "15 zile",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă, apropiată de recomandările consultate.",
+     "long": "Este varianta corectă: amestecul ulei–benzină se folosește în cel mult 15 zile, dacă este păstrat corect.",
      "warn": ""
     },
     {

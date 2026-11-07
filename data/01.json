@@ -1122,34 +1122,34 @@
    "number": "#32",
    "text": "697: Valabilitatea certificatului general de operator radiotelefonist este de:",
    "short": "Certificatul general de operator radiotelefonist are valabilitate de 5 ani.",
-   "long": "Certificatul general de operator radiotelefonist este eliberat de ANCOM, iar valabilitatea lui nu este confirmată de documentele din acest manual. Celelalte perioade nu sunt cele ale certificatului general.",
+   "long": "Decizia ANCOM nr. 543/2017, art. 22 alin. (1), stabilește că durata de valabilitate a certificatului de operator radio este de 5 ani. Perioadele de 1, 2 sau 3 ani nu corespund acestei decizii.",
    "answers": [
     {
      "text": "2 ani",
      "correct": false,
      "short": "",
-     "long": "Perioada nu corespunde reglementării actuale.",
+     "long": "2 ani nu corespund art. 22 alin. (1) din Decizia ANCOM nr. 543/2017, care stabilește 5 ani.",
      "warn": ""
     },
     {
      "text": "5 ani",
      "correct": true,
      "short": "",
-     "long": "Este valabilitatea certificatului conform reglementării ANCOM.",
+     "long": "Corect. Decizia ANCOM nr. 543/2017, art. 22 alin. (1), stabilește 5 ani ca durată de valabilitate a certificatului de operator.",
      "warn": ""
     },
     {
      "text": "1 an",
      "correct": false,
      "short": "",
-     "long": "Perioada este prea scurtă pentru reglementarea actuală.",
+     "long": "1 an este o perioadă prea scurtă: art. 22 alin. (1) din Decizia ANCOM nr. 543/2017 stabilește 5 ani.",
      "warn": ""
     },
     {
      "text": "3 ani",
      "correct": false,
      "short": "",
-     "long": "Perioada nu corespunde reglementării actuale.",
+     "long": "3 ani nu corespund art. 22 alin. (1) din Decizia ANCOM nr. 543/2017, care stabilește 5 ani.",
      "warn": ""
     }
    ]
@@ -2886,7 +2886,7 @@
    "number": "#81",
    "text": "716: În ce reglementare se află regulile de radiotelefonie specifice pentru aviaţie?",
    "short": "Regulile de radiotelefonie pentru aviație se află în Regulamentul stațiilor de telecomunicații.",
-   "long": "Regulamentul stațiilor de telecomunicații stabilește regulile de funcționare a stațiilor radio, inclusiv cele aeronautice. Codul Aerian și regulamentele de circulație aeriană reglementează zborul, nu stațiile radio.",
+   "long": "Procedurile de radiotelefonie și frazeologia aviatică sunt stabilite în Anexa 10 volumul II a OACI și aplicate în România. Regulamentul stațiilor de telecomunicații stabilește regulile de funcționare a stațiilor radio, inclusiv a celor aeronautice. Codul aerian și RACR-RA reglementează zborul și circulația aeriană, nu funcționarea stațiilor radio.",
    "answers": [
     {
      "text": "Regulile Aerului",
@@ -2900,7 +2900,7 @@
      "correct": true,
      "short": "Regulamentul stațiilor de telecomunicații.",
      "long": "Conține regulile de funcționare a stațiilor radio.",
-     "warn": ""
+     "warn": "Regulamentul stațiilor de telecomunicații reglementează funcționarea stațiilor radio. Procedurile de radiotelefonie aeronautică și frazeologia sunt în Anexa 10 volumul II a OACI."
     },
     {
      "text": "în codul Aerian",
@@ -3318,7 +3318,7 @@
    "number": "#93",
    "text": "703: Ați solicitat TWR condițiile meteo pentru aterizare și nu ați primit niciun răspuns. Cum procedați în continuare?",
    "short": "Dacă turnul nu răspunde la cererea de condiții meteo, aștepți puțin și reîncerci cererea.",
-   "long": "Nu presupui condițiile meteo și nu aterizezi pe baza unei estimări. Așteptați scurt, apoi repetați cererea. Consultarea imaginilor satelitare nu înlocuiește informația oficială, iar continuarea aterizării fără date este periculoasă.",
+   "long": "Nu presupui condițiile meteo și nu aterizezi pe baza unei estimări. Repeți cererea după o scurtă așteptare. Imaginile satelitare nu înlocuiesc informația meteo oficială, iar aterizarea fără date este periculoasă.",
    "answers": [
     {
      "text": "continuați procedura de aterizare chiar dacă turnul de control nu a răspuns solicitării",
@@ -3345,8 +3345,8 @@
      "text": "așteptați 10 secunde după care solicitați din nou turnului de control condiția meteo",
      "correct": true,
      "short": "Așteptați 10 secunde și solicitați din nou condiția meteo turnului.",
-     "long": "Este procedura corectă: așteptați scurt și reîncercați.",
-     "warn": ""
+     "long": "Procedura corectă este reluarea cererii după o scurtă așteptare. Pauza de 10 secunde nu este o cifră stabilită de reglementări; esențial este că informația meteo oficială se obține înainte de aterizare.",
+     "warn": "Pauza de 10 secunde nu este o cifră stabilită de reglementări. Procedura este să aștepți puțin și să repeți cererea, iar aterizarea fără informația meteo oficială nu se face."
     }
    ]
   },

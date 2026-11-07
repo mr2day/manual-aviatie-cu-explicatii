@@ -42,7 +42,7 @@
    "number": "#2",
    "text": "373: Ce reprezintă VMC?",
    "short": "VMC înseamnă condițiile meteorologice pentru zboruri la vedere.",
-   "long": "VMC (visual meteorological conditions) sunt condițiile meteo în care zborul la vedere este permis. Sunt exprimate prin vizibilitate, distanță față de nori și plafon, și trebuie să fie egale sau mai mari decât minimele din RACR-RA, Tabelul 3-1. Zborul VFR (la vedere) se execută în VMC.",
+   "long": "VMC (visual meteorological conditions) sunt condițiile meteo în care zborul la vedere este permis. Minimele sunt cele din RACR-RA, Tabelul 3-1 (RACR-RA 3.090): peste 3050 m AMSL, vizibilitate 8 km și 1500 m orizontal, 300 m vertical față de nori; sub 3050 m și peste cea mai mare dintre 900 m AMSL sau 300 m deasupra terenului, vizibilitate 5 km și aceleași distanțe față de nori; sub această altitudine în clasele F și G, vizibilitate 5 km, cu zborul în afara norilor și cu solul vizibil. Zborul VFR se execută în VMC.",
    "answers": [
     {
      "text": "condițiile de zbor pe timp de noapte",
@@ -69,7 +69,7 @@
      "text": "condițiile meteorologice pentru zboruri la vedere",
      "correct": true,
      "short": "",
-     "long": "Corect. VMC sunt condițiile meteorologice în care pilotul vede la vedere: vizibilitatea, distanța față de nori și plafonul sunt cel puțin cele din RACR-RA, Tabelul 3-1 (definiția 23 și RACR-RA 3.090).",
+     "long": "Corect. VMC sunt condițiile meteorologice în care pilotul zboară la vedere: vizibilitatea și distanța față de nori trebuie să fie cel puțin cele din Tabelul 3-1 (RACR-RA 3.090). De exemplu, sub 3050 m, vizibilitatea minimă este de 5 km, iar distanța față de nori de 1500 m orizontal și 300 m vertical.",
      "warn": ""
     }
    ]
@@ -77,35 +77,35 @@
   {
    "number": "#3",
    "text": "335: Care este înălțimea maximă la care poate zbura o motoparapantă în spațiul aerian controlat?",
-   "short": "Varianta corectă indică 3000 de metri ca înălțime maximă a motoparapantei în spațiul aerian controlat.",
-   "long": "Limitele de altitudine pentru zborul ULM sunt stabilite prin reglementările aeronautice. Regulamentele consultate (RACR-RA, RACR-LPAN ULM, Codul aerian) nu conțin cifra de 3000 m ca înălțime maximă pentru motoparapantă în spațiul controlat. În zona de control de aerodrom, zborul VFR la decolare și aterizare are condiții date de RACR-RA 4.020, iar excepția este autorizarea ATC.",
+   "short": "În spațiul controlat, zborul VFR se face cu autorizare ATC, iar altitudinea se stabilește prin această autorizare.",
+   "long": "Pentru zborul VFR în zona de control de aerodrom, RACR-RA 4.020 cere autorizare ATC. RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc o înălțime maximă numerică pentru motoparapantă în spațiul controlat, deci cifra de 3000 m nu are temei în ele. Altitudinea de zbor în zona de control este cea stabilită prin autorizarea ATC.",
    "answers": [
     {
      "text": "1500 de metri",
      "correct": false,
      "short": "",
-     "long": "1500 m nu este cifra din regulamentele consultate pentru înălțimea maximă a motoparapantei în spațiul controlat. Pentru zborul VFR în zona de control, RACR-RA 4.020 cere autorizare ATC, iar limita de altitudine se stabilește prin aceasta.",
+     "long": "1500 m nu este o înălțime maximă stabilită de regulamente pentru motoparapantă. În Tabelul 3-1 (RACR-RA 3.090), 1500 m este distanța orizontală minimă față de nori, nu o altitudine.",
      "warn": ""
     },
     {
      "text": "3000 de metri",
      "correct": true,
      "short": "",
-     "long": "3000 m nu apare în regulamentele consultate ca înălțime maximă pentru motoparapantă. Răspunsul marcat este tratat în avertisment.",
-     "warn": "Regulamentele consultate (RACR-RA, RACR-LPAN ULM, Codul aerian) nu conțin cifra de 3000 m ca înălțime maximă pentru motoparapantă în spațiul controlat. Răspunsul marcat nu este susținut de documentele din manual."
+     "long": "Această variantă este greșită: RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc 3000 m ca înălțime maximă pentru motoparapantă în spațiul controlat.",
+     "warn": "RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc 3000 m ca înălțime maximă pentru motoparapantă în spațiul controlat. În zona de control, altitudinea se stabilește prin autorizarea ATC (RACR-RA 4.020)."
     },
     {
      "text": "2000 de metri",
      "correct": false,
      "short": "",
-     "long": "2000 m nu apare în regulamentele consultate ca înălțime maximă pentru motoparapantă în spațiul controlat.",
+     "long": "2000 m nu este o înălțime maximă stabilită de regulamentele RACR-RA, RACR-LPAN ULM sau Codul aerian pentru motoparapantă în spațiul controlat.",
      "warn": ""
     },
     {
      "text": "4000 de metri",
      "correct": false,
      "short": "",
-     "long": "4000 m nu apare în regulamentele consultate ca înălțime maximă pentru motoparapantă în spațiul controlat.",
+     "long": "4000 m nu este o înălțime maximă stabilită de regulamentele RACR-RA, RACR-LPAN ULM sau Codul aerian pentru motoparapantă în spațiul controlat.",
      "warn": ""
     }
    ]
@@ -113,35 +113,35 @@
   {
    "number": "#4",
    "text": "323: Care este înălțimea maximă la care poate zbura o motoparapantă în spațiul aerian G?",
-   "short": "Varianta corectă indică 3000 de metri ca înălțime maximă a motoparapantei în spațiul aerian G.",
-   "long": "Spațiul aerian de clasă G este necontrolat. În clasa G, zborul VFR este permis fără autorizare ATC, dar vizibilitatea și distanța față de nori trebuie să respecte RACR-RA, Tabelul 3-1: sub 900 m AMSL sau sub 300 m deasupra terenului, vizibilitatea minimă este de 5 km. Regulamentele consultate nu conțin cifra de 3000 m ca înălțime maximă în clasa G.",
+   "short": "În clasa G nu există o înălțime maximă de 3000 de metri stabilită de regulament pentru motoparapantă.",
+   "long": "Spațiul aerian de clasă G este necontrolat. Zborul VFR nu cere autorizare ATC, dar vizibilitatea și distanța față de nori trebuie să respecte Tabelul 3-1 din RACR-RA: sub 900 m AMSL sau sub 300 m deasupra terenului, vizibilitatea minimă este de 5 km, iar distanța față de nori de 1500 m orizontal și 300 m vertical. RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc o înălțime maximă de 3000 m pentru motoparapantă în clasa G.",
    "answers": [
     {
      "text": "3000 de metri",
      "correct": true,
      "short": "",
-     "long": "Regulamentele consultate nu conțin cifra de 3000 m ca înălțime maximă în clasa G. Răspunsul marcat este tratat în avertisment.",
-     "warn": "Regulamentele consultate (RACR-RA, RACR-LPAN ULM, Codul aerian) nu conțin cifra de 3000 m ca înălțime maximă pentru motoparapantă în clasa G. Răspunsul marcat nu este susținut de documentele din manual."
+     "long": "Această variantă este greșită: regulamentele nu stabilesc o înălțime maximă numerică de 3000 m pentru motoparapantă în clasa G.",
+     "warn": "RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc 3000 m ca înălțime maximă pentru motoparapantă în clasa G. În clasa G, zborul VFR respectă vizibilitatea și distanța față de nori din Tabelul 3-1 (RACR-RA 3.090)."
     },
     {
      "text": "2000 de metri",
      "correct": false,
      "short": "",
-     "long": "2000 m nu apare în regulamentele consultate ca înălțime maximă în clasa G.",
+     "long": "2000 m nu este o înălțime maximă stabilită de regulamente pentru motoparapantă în clasa G.",
      "warn": ""
     },
     {
      "text": "4000 de metri",
      "correct": false,
      "short": "",
-     "long": "4000 m nu apare în regulamentele consultate ca înălțime maximă în clasa G.",
+     "long": "4000 m nu este o înălțime maximă stabilită de regulamente pentru motoparapantă în clasa G.",
      "warn": ""
     },
     {
      "text": "1500 de metri",
      "correct": false,
      "short": "",
-     "long": "1500 m nu apare în regulamentele consultate ca înălțime maximă în clasa G. Cifra de 1500 m apare în RACR-RA ca distanță orizontală față de nori, nu ca înălțime.",
+     "long": "1500 m este distanța orizontală față de nori din Tabelul 3-1 (RACR-RA 3.090), nu o înălțime maximă de zbor în clasa G.",
      "warn": ""
     }
    ]
@@ -618,7 +618,7 @@
    "number": "#18",
    "text": "393: Care este masa maximă la decolare pentru o motoparapantă cu două locuri conform Anexei 1 – OMTCT 630, consolidat 2023?",
    "short": "Masa maximă la decolare pentru o motoparapantă avansată cu două locuri, conform RACR-CCO ULM, anexa 1, este de 450 kg.",
-   "long": "Masa maximă la decolare este stabilită prin reglementarea aeronavelor ultraușoare. Valoarea este 400 kg, dar în sursele consultate nu am găsit confirmarea cifrei pentru motoparapantă. Verifică-o în anexa actuală a OMTCT 630 sau în RACR-LPAN ULM.",
+   "long": "RACR-CCO ULM, anexa 1, pct. 1.2.3.1, stabilește masa maximă la decolare pentru motoparapantă: 300 kg pentru un loc și 450 kg pentru două locuri. Motoparapanta avansată cu două locuri are deci 450 kg.",
    "answers": [
     {
      "text": "250 kg",
@@ -798,7 +798,7 @@
    "number": "#23",
    "text": "377: Ce barem de promovare este necesar pentru examinarea teoretică scrisă la obținerea licenței de pilot de aeronave ultraușoare motorizate?",
    "short": "Pentru examinarea teoretică scrisă a licenței de ULM, varianta corectă indică 75% la fiecare disciplină.",
-   "long": "Baremul de promovare este stabilit în reglementarea de licențiere. Varianta corectă indică 75% pentru fiecare disciplină. Un furnizor de pregătire consultat indică același prag, dar nu am găsit textul oficial; verifică RACR-LPAN ULM înainte de examen.",
+   "long": "Pentru examinarea teoretică la licența de ULM, RACR-LPAN ULM.2045 cere 75% la fiecare disciplină. Varianta cu 75% este cea corectă; celelalte praguri nu sunt cele din regulament.",
    "answers": [
     {
      "text": "70% pentru fiecare disciplină",
@@ -811,7 +811,7 @@
      "text": "75% pentru fiecare disciplină",
      "correct": true,
      "short": "",
-     "long": "Anexa 2 din RACR-LPAN ULM cere, pentru examinarea teoretică, un prag de 75% la fiecare disciplină. Ce am citit este un document de pregătire care reproduce regula, nu textul oficial în vigoare, deci merită confirmată ediția actuală.",
+     "long": "Pragul de 75% la fiecare disciplină este cel din RACR-LPAN ULM.2045 pentru examinarea teoretică la licența de ULM.",
      "warn": ""
     },
     {
@@ -942,7 +942,7 @@
    "number": "#27",
    "text": "190: Deasupra zonelor dens populate sunt interzise:",
    "short": "Deasupra zonelor dens populate sunt interzise zborurile la înălțimi mai mici de 300 m față de cel mai înalt obstacol fix, cu excepția procedurilor de aterizare și decolare pe aerodromuri certificate.",
-   "long": "Regula protejează populația: sub anumite înălțimi, deasupra zonelor dens populate, zborul este restricționat. Varianta corectă este cea cu 300 m. Valoarea trebuie verificată în textul oficial, deoarece și alte surse menționează praguri diferite.",
+   "long": "Codul aerian, art. 15 alin. 2, restricționează zborul deasupra zonelor dens populate: nu se zboară la mai puțin de 300 m față de obstacolele din raza de 600 m, cu excepția procedurilor de aterizare și decolare pe aerodromuri certificate.",
    "answers": [
     {
      "text": "efectuarea de zboruri de către aeronavele civile care dețin certificat de navigabilitate, emis conform legislației și reglementărilor in vigoare",
@@ -1014,13 +1014,13 @@
    "number": "#29",
    "text": "376: Care este valabilitatea licenței de pilot de aeronave ultraușoare motorizate?",
    "short": "Varianta corectă indică 24 de luni de la data examinării teoretice ca valabilitate a licenței de ULM.",
-   "long": "Valabilitatea licenței este stabilită prin reglementarea de licențiere. Varianta corectă indică 24 de luni. În sursele consultate nu am confirmat perioada, deci verifică-o în RACR-LPAN ULM înainte de a o reține.",
+   "long": "Valabilitatea licenței de ULM este de 24 de luni de la data examinării teoretice (RACR-LPAN ULM.2025).",
    "answers": [
     {
      "text": "24 luni de la data examinării teoretice",
      "correct": true,
      "short": "24 de luni de la data examinării teoretice.",
-     "long": "Valabilitatea licenței de ULM este de 24 de luni de la data examinării teoretice, conform RACR-LPAN ULM. Celelalte perioade (6, 12, 36 de luni) nu sunt cele din regulament, deși nu am confirmat fiecare variantă pe text oficial.",
+     "long": "Valabilitatea licenței de ULM este de 24 de luni de la data examinării teoretice (RACR-LPAN ULM.2025). Celelalte perioade nu corespund regulamentului.",
      "warn": ""
     },
     {
@@ -1194,7 +1194,7 @@
    "number": "#34",
    "text": "348: Care sunt cerințele pentru eliberarea unei licențe de pilot de aeronave ultraușoare motorizate?",
    "short": "Pentru licența de ULM vârsta minimă corectă este de 16 ani împliniți.",
-   "long": "Vârsta minimă pentru licența de ULM este stabilită în reglementare. Varianta corectă indică 16 ani. În sursele consultate apare aceeași vârstă minimă, dar verifică-o în RACR-LPAN ULM.",
+   "long": "Vârsta minimă pentru licența de ULM este de 16 ani împliniți (RACR-LPAN ULM.2040 lit. a).",
    "answers": [
     {
      "text": "să aibă vârsta de 18 ani împliniți",
@@ -1207,7 +1207,7 @@
      "text": "să aibă vârsta de 16 ani împliniți",
      "correct": true,
      "short": "16 ani împliniți.",
-     "long": "RACR-LPAN ULM cere vârsta minimă de 16 ani împliniți pentru licența de ULM, conform sursei consultate. Alte variante (14, 18, 21 de ani) corespund altor condiții din regulament, de exemplu pentru instructori, nu licenței de bază. Verifică ediția actuală a RACR-LPAN ULM, pentru că sursele consultate sunt din 2007 și 2020.",
+     "long": "RACR-LPAN ULM.2040 lit. a cere 16 ani împliniți pentru licența de ULM. Celelalte cifre nu sunt cerința pentru licența de bază.",
      "warn": ""
     },
     {
@@ -2058,13 +2058,13 @@
    "number": "#58",
    "text": "189: Zborul unei aeronave civile in spatiul aerian national, cu exceptia zborului VFR executat în întregime într-o zonă de spațiu aerian de clasa G, precum și zborul unei aeronave civile care traversează granița regiunii de informare a zborurilor – FIR București se consideră autorizate dacă:",
    "short": "Zborul unei aeronave civile în spațiul aerian național este autorizat dacă operatorul a depus un plan de zbor și aeronava este asigurată pentru daunele produse terților.",
-   "long": "Pentru zborurile care nu sunt VFR în întregime în clasa G, este nevoie de plan de zbor și de asigurare pentru terți. Informarea de trafic la MApN și pasagerii sau bagajele nu sunt condițiile corecte.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
+   "long": "Pentru zborurile care nu sunt VFR în întregime în clasa G, este nevoie de plan de zbor, în cazurile din RACR-RA 3.030 pct. 1.2, și de asigurare de răspundere civilă față de terți, în termen de valabilitate (RACR-LPAN AUN, ediția 2/2026). Informarea de trafic la Ministerul Apărării Naționale și pasagerii sau bagajele nu sunt condițiile corecte.",
    "answers": [
     {
      "text": "pentru zborul respectiv operatorul aeronavei a depus un plan de zbor, în conformitate cu reglementările aeronautice în vigoare, iar aeronava este asigurată, după caz, conform legii, pentru daune produse terților",
      "correct": true,
      "short": "Operatorul a depus un plan de zbor, conform reglementărilor, iar aeronava este asigurată pentru daune produse terților.",
-     "long": "Planul de zbor este cerut doar în cazurile din RACR-RA 3.030 pct. 1.2. Cerința de asigurare a aeronavei nu este în documentele din repo, deci partea de asigurare nu este explicată aici.",
+     "long": "Corect. Planul de zbor este cerut în cazurile din RACR-RA 3.030 pct. 1.2, iar asigurarea de răspundere civilă față de terți este cerința legată de aeronavă. Cele două condiții se aplică împreună zborului respectiv.",
      "warn": ""
     },
     {
@@ -2202,7 +2202,7 @@
    "number": "#62",
    "text": "380: Ce tip de certificare medicală este necesară pentru obținerea licenței de pilot de parapantă motorizată?",
    "short": "Pentru licența de pilot de motoparapantă motorizată se cere certificat medical clasa 2.",
-   "long": "Clasa certificatului medical cerută pentru licența de ULM este stabilită în reglementarea medicală. Varianta corectă indică clasa 2, iar un furnizor de pregătire consultat indică același lucru. Verifică-l în reglementarea actuală.",
+   "long": "Pentru licența de ULM, procedura AACR (PAC-MED) cere certificatul medical de clasa 2. Clasa 2 este cea care acoperă cerința pentru pilotul de motoparapantă motorizată, iar celelalte clase nu sunt cerute pentru această licență.",
    "answers": [
     {
      "text": "certificat medical clasa 2",
@@ -2237,36 +2237,36 @@
   {
    "number": "#63",
    "text": "331: Care este înălțimea maximă de zbor în spațiul aerian G?",
-   "short": "În spațiul aerian G, varianta corectă indică 3000 de metri ca înălțime maximă de zbor.",
-   "long": "În clasa G, spațiul este necontrolat. RACR-RA, Tabelul 3-1, cere 5 km vizibilitate sub 900 m AMSL sau 300 m deasupra terenului. Regulamentele consultate nu conțin cifra de 3000 m ca înălțime maximă în clasa G.",
+   "short": "În clasa G, zborul VFR respectă vizibilitatea și distanța față de nori din Tabelul 3-1: 5 km vizibilitate sub 900 m AMSL sau 300 m deasupra terenului.",
+   "long": "În clasa G, spațiul este necontrolat. RACR-RA, Tabelul 3-1, cere 5 km vizibilitate sub 900 m AMSL sau 300 m deasupra terenului și 1500 m orizontal, 300 m vertical față de nori. RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc o înălțime maximă de 3000 m pentru motoparapantă în clasa G.",
    "answers": [
     {
      "text": "4000 de metri",
      "correct": false,
      "short": "",
-     "long": "4000 m nu apare în regulamentele consultate ca înălțime maximă în clasa G.",
+     "long": "4000 m nu este o înălțime maximă stabilită de regulamente pentru motoparapantă în clasa G.",
      "warn": ""
     },
     {
      "text": "600 de metri",
      "correct": false,
      "short": "",
-     "long": "600 m nu apare în regulamentele consultate ca înălțime maximă în clasa G.",
+     "long": "600 m nu este o înălțime maximă stabilită de regulamente pentru motoparapantă în clasa G.",
      "warn": ""
     },
     {
      "text": "1500 de metri",
      "correct": false,
      "short": "",
-     "long": "1500 m nu apare în regulamentele consultate ca înălțime maximă în clasa G. Cifra apare în RACR-RA ca distanță orizontală față de nori.",
+     "long": "1500 m este distanța orizontală față de nori din Tabelul 3-1 (RACR-RA 3.090), nu o înălțime maximă de zbor în clasa G.",
      "warn": ""
     },
     {
      "text": "3000 de metri",
      "correct": true,
      "short": "",
-     "long": "Cifra de 3000 m nu apare în regulamentele consultate ca înălțime maximă în clasa G. Vezi avertismentul.",
-     "warn": "Regulamentele consultate (RACR-RA, RACR-LPAN ULM, Codul aerian) nu conțin cifra de 3000 m ca înălțime maximă în clasa G. Răspunsul marcat nu este susținut de documentele din manual."
+     "long": "Această variantă este greșită: RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc 3000 m ca înălțime maximă de zbor pentru motoparapantă în clasa G.",
+     "warn": "RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc 3000 m ca înălțime maximă pentru motoparapantă în clasa G. În clasa G, zborul VFR respectă vizibilitatea și distanța față de nori din Tabelul 3-1 (RACR-RA 3.090)."
     }
    ]
   },
@@ -2316,14 +2316,14 @@
      "text": "50 m orizontală și 100 m verticală",
      "correct": false,
      "short": "50 m orizontal și 100 m vertical.",
-     "long": "50 m orizontal și 100 m vertical nu corespund Tabelului 3-1 din RACR-RA.",
+     "long": "50 m orizontal și 100 m vertical sunt mult sub minimul din Tabelul 3-1 (RACR-RA 3.090), care cere 1500 m orizontal și 300 m vertical față de nori în spațiul sub 3050 m.",
      "warn": ""
     },
     {
      "text": "400 m la şes şi munte",
      "correct": false,
      "short": "400 m la șes și munte.",
-     "long": "400 m nu este distanța din Tabelul 3-1 pentru zborul VFR, care cere 1500 m orizontal și 300 m vertical.",
+     "long": "400 m nu este distanța din Tabelul 3-1 pentru zborul VFR. Tabelul cere 1500 m orizontal și 300 m vertical față de nori, în spațiul sub 3050 m.",
      "warn": ""
     },
     {
@@ -2337,7 +2337,7 @@
      "text": "300 m la şes şi 400 m în zona deluroasă sau muntoasă",
      "correct": false,
      "short": "300 m la șes și 400 m în zona deluroasă sau muntoasă.",
-     "long": "300 m și 400 m nu corespund Tabelului 3-1 din RACR-RA.",
+     "long": "300 m și 400 m nu corespund Tabelului 3-1. Distanța minimă față de nori este de 1500 m orizontal și 300 m vertical, în spațiul sub 3050 m, la orice relief.",
      "warn": ""
     }
    ]
@@ -2346,7 +2346,7 @@
    "number": "#66",
    "text": "391: Care este masa maximă la decolare pentru o motoparapantă cu un singur loc conform Anexei 1 – OMTCT 630, consolidat 2023?",
    "short": "Masa maximă la decolare pentru o motoparapantă avansată cu un singur loc, conform RACR-CCO ULM, anexa 1, este de 300 kg.",
-   "long": "Masa maximă pentru un loc este o valoare din anexa tehnică a reglementării. Cifra de 250 kg nu este cea din anexă; verifică-o în anexa actuală.",
+   "long": "Masa maximă la decolare pentru motoparapanta cu un singur loc este 300 kg (RACR-CCO ULM, anexa 1, pct. 1.2.3.1). Cifra de 250 kg nu apare în acest punct.",
    "answers": [
     {
      "text": "150 kg",
@@ -2885,8 +2885,8 @@
   {
    "number": "#81",
    "text": "193: Conform legislației aeronautice în vigoare cu privire la domeniul aeronavelor ultraușoare motorizate, conținutul minim obligatoriu al programelor de pregătire teoretică și practică la sol și în zbor a piloților din clasa motoparapantă este:",
-   "short": "Programele de pregătire pentru piloții de motoparapantă includ, conform băncii, 50 de ore de teorie și 15 ore de zbor.",
-   "long": "Conținutul minim al programelor de pregătire este stabilit în reglementarea de licențiere. Varianta corectă indică 50 de ore teorie și 15 ore de zbor. Nu am confirmat cifrele în surse, deci verifică RACR-LPAN ULM înainte să le reții.",
+   "short": "Programele de pregătire pentru piloții de motoparapantă includ 50 de ore de teorie și 15 ore de zbor.",
+   "long": "RACR-LPAN ULM (anexa 2) cere un curs teoretic de minimum 50 de ore, sub supravegherea unui instructor. RACR-LPAN ULM.2060 lit. a pct. i cere minimum 15 ore de zbor pentru parapantă cu motor, deci varianta cu 50 de ore teorie și 15 ore de zbor este cea corectă.",
    "answers": [
     {
      "text": "50 de ore teorie și 12 ore de zbor",
@@ -2906,7 +2906,7 @@
      "text": "50 de ore teorie și 15 ore de zbor",
      "correct": true,
      "short": "",
-     "long": "RACR-LPAN ULM (anexa 2) cere un curs teoretic de cel puțin 50 de ore, sub supravegherea unui instructor. Cifra de 15 ore de zbor nu am confirmat-o în sursele consultate; verifică-o în anexa 2 din RACR-LPAN ULM.",
+     "long": "Corect. RACR-LPAN ULM (anexa 2) cere un curs teoretic de minimum 50 de ore, iar RACR-LPAN ULM.2060 lit. a pct. i cere minimum 15 ore de zbor pentru parapanta cu motor.",
      "warn": ""
     },
     {
@@ -3462,7 +3462,7 @@
    "number": "#97",
    "text": "171: Valabilitatea licenţei de pilot de aeronave ultrauşoare motorizate este de:",
    "short": "Varianta corectă indică 24 de luni de la examinarea teoretică, cu condiția ca certificatul medical să fie în termen de valabilitate.",
-   "long": "Aceeași valoare de 24 de luni ca la întrebările 29 și 45, plus condiția certificatului medical valabil. Verifică regula exactă în RACR-LPAN ULM.",
+   "long": "Licența de ULM are valabilitate de 24 de luni de la examinarea teoretică (RACR-LPAN ULM.2025), iar certificatul medical trebuie să fie în termen de valabilitate.",
    "answers": [
     {
      "text": "24 de luni de la data examinării teoretice cu condiţia ca certificatul medical să fie în termen de valabilitate",
@@ -3750,7 +3750,7 @@
    "number": "#105",
    "text": "187: Pentru a evita efectul turbulenţei de siaj, eşalonarea la plecare în cazul aeronavelor uşoare sau medii care pleacă după o aeronavă grea va fi de minim:",
    "short": "Pentru a evita turbulența de siaj, eșalonarea la plecare după o aeronavă grea este de minim 2 minute.",
-   "long": "Turbulența de siaj de la o aeronavă grea poate fi periculoasă pentru una ușoară. Eșalonarea minimă corectă este de 2 minute. Verifică cifra în procedurile de trafic aplicabile.",
+   "long": "Turbulența de siaj de la o aeronavă grea poate fi periculoasă pentru una ușoară. La plecare, eșalonarea minimă după o aeronavă grea, în cazul aeronavelor ușoare, este de 2 minute, conform separării pentru turbulența de siaj din ICAO Doc 4444 (intervalele de decolare).",
    "answers": [
     {
      "text": "10 min",
@@ -3770,7 +3770,7 @@
      "text": "2 min",
      "correct": true,
      "short": "2 minute.",
-     "long": "Turbulența de siaj de la o aeronavă grea poate fi periculoasă pentru una ușoară, de aceea la plecare se respectă o eșalonare minimă. Cifra de 2 minute nu am confirmat-o în sursele consultate; verifică-o în procedurile de trafic aplicabile.",
+     "long": "Corect. Pentru plecarea unei aeronave ușoare după una grea, eșalonarea minimă de turbulență de siaj este de 2 minute (ICAO Doc 4444, intervalele de decolare). Turbulența de siaj de la aeronava grea poate fi periculoasă pentru cea ușoară.",
      "warn": ""
     },
     {

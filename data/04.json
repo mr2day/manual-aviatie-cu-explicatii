@@ -1920,8 +1920,8 @@
      "text": "ocolirea norilor de tip CB la o distanță de minim 10 km și minim 37 km pentru orajele puternice",
      "correct": true,
      "short": "",
-     "long": "Corect în esență: CB se ocolesc la distanță mare. Valorile de 10 km și 37 km nu sunt confirmate de documentele din repo.",
-     "warn": ""
+     "long": "Ocolirea norilor CB la distanță mare este regula de bază, pentru că aceștia produc turbulență, grindină și rafale. Cifrele de 10 km și 37 km din această variantă nu sunt stabilite de regulamentele din manual.",
+     "warn": "Cifrele de 10 km și 37 km nu apar în regulamentele din manual. Regula este ocolirea CB la distanță mare, fără trecere pe sub ei sau printre ei."
     },
     {
      "text": "trecerea pe sub nor la o înălțime de maxim 100 m peste cel mai înalt obstacol",

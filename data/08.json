@@ -906,7 +906,7 @@
    "number": "#26",
    "text": "497: Sunteți în luna iunie și doriți să efectuați un zbor cu motoparapanta. Dacă doriți să decolați la ora 18:00 local la ce oră cel mai târziu UTC trebuie să depuneți planul de zbor?",
    "short": "Dacă vrei să decolezi la 18:00 ora locală, în iunie, planul de zbor se depune cel mai târziu la 14:00 UTC.",
-   "long": "În iunie, România folosește ora de vară (UTC+3), deci 18:00 local înseamnă 15:00 UTC. Varianta corectă indică depunerea cu o oră înainte, la 14:00 UTC. Verifică regula de depunere a planului în reglementarea actuală.",
+   "long": "În iunie, România folosește ora de vară (UTC+3), deci 18:00 local înseamnă 15:00 UTC. Conform RACR-RA 3.030 pct. 1.4, planul de zbor pentru un zbor cu serviciu ATC sau consultativ se depune cu cel puțin 60 de minute înainte de plecare, deci cel târziu la 14:00 UTC.",
    "answers": [
     {
      "text": "la ora 15:00 UTC",
@@ -1086,7 +1086,7 @@
    "number": "#31",
    "text": "486: Care este înălțimea maximă până la care puteți zbura la verticala unui aerodrom situat la cota de 1300 m și în spațiu aerian de clasa G?",
    "short": "Dacă zbori la verticala unui aerodrom situat la 1300 m, în spațiu de clasa G, varianta corectă indică înălțimea maximă de 1900 m.",
-   "long": "Limitele de înălțime în spațiul G sunt raportate la aerodrom sau la altitudinea terenului, conform regulilor. Varianta corectă indică 1900 m, adică 1300 m (aerodrom) plus 600 m. Verifică valoarea din reglementarea aplicabilă, deoarece limitele pot fi exprimate diferit.\n\nClasa G este spațiu necontrolat: zborul VFR și IFR este permis, nu este obligatorie autorizarea ATC, iar serviciul furnizat este doar de informare a zborurilor. Din acest motiv comunicarea radio nu este obligatorie, dar este recomandată.",
+   "long": "În clasa G, limitele de înălțime VFR nu sunt date ca suma dintre cota aerodromului și 600 m. Cifra de 600 m este altitudinea minimă IFR deasupra terenurilor înalte (RACR-RA, niveluri minime), nu o limită VFR în clasa G.",
    "answers": [
     {
      "text": "150m",
@@ -1106,8 +1106,8 @@
      "text": "1900m",
      "correct": true,
      "short": "1900 m.",
-     "long": "Limitele de înălțime în spațiul G se raportează de obicei la sol: 1300 m (cota aerodromului) plus înălțimea maximă de deasupra terenului dă 1900 m dacă înălțimea maximă este de 600 m. Cifra de 600 m nu am confirmat-o în sursele consultate; verifică-o în RACR-RA.",
-     "warn": ""
+     "long": "1900 m reprezintă 1300 m (cota aerodromului) plus 600 m. Această sumă nu are temei în regulamentele din manual pentru zborul VFR în clasa G.",
+     "warn": "Cifra de 600 m este altitudinea minimă IFR deasupra terenurilor înalte (RACR-RA, niveluri minime), nu o limită VFR în clasa G. Pentru zborul VFR în clasa G, regula este minimele de vizibilitate și distanța față de nori din Tabelul 3-1."
     },
     {
      "text": "1500m",
@@ -4182,14 +4182,14 @@
    "number": "#117",
    "text": "567: Ce trebuie să faci imediat după ce ai decis să arunci parașuta de salvare?",
    "short": "Când ai decis să arunci parașuta de salvare, oprești motorul, privești mânerul și tragi de el cu o mișcare puternică.",
-   "long": "Procedura de aruncare începe cu oprirea motorului, apoi privirea spre mâner și tragerea ferm. Continuarea zborului, frânarea sau așteptarea deschiderii automate nu sunt corecte. Varianta A descrie mișcarea ca „în formă de Z”, o formulare pe care o verifici cu manualul echipamentului.",
+   "long": "Procedura de aruncare începe cu oprirea motorului, apoi privirea spre mâner și tragerea ferm din mâner. Continuarea zborului, frânarea sau așteptarea deschiderii automate nu sunt corecte.",
    "answers": [
     {
      "text": "Oprește motorul, privește mânerul parașutei și trage de el cu o mișcare puternică în formă de „Z”",
      "correct": true,
      "short": "",
-     "long": "Este greșită: formularea „în formă de Z” nu este procedura standard. Verifică formularea mișcării în manualul parașutei.",
-     "warn": "Formularea „în formă de Z” nu este procedura standard. Procedura este: oprești motorul, privești mânerul și trage ferm; verifică mișcarea exactă în manualul parașutei."
+     "long": "Greșită: formularea „în formă de Z” nu este procedura standard. Procedura începe cu oprirea motorului, privirea spre mâner și tragerea ferm, dintr-o mișcare clară.",
+     "warn": "Formularea „în formă de Z” nu este procedura standard. Procedura este: oprești motorul, privești mânerul și tragi ferm dintr-o mișcare clară."
     },
     {
      "text": "Continuă să zbori și trage de frâne",

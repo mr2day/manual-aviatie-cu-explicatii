@@ -2886,13 +2886,13 @@
    "number": "#81",
    "text": "432: Cum se procedează corect pentru întinderea suspantelor aripii?",
    "short": "Suspantele aripii se întind cu un sistem de scripeți, o bandă de măsurare și o greutate de 18 kg.",
-   "long": "Întinderea suspantelor se face sub o sarcină controlată, cu metoda indicată de producător, pentru ca toate să aibă aceeași lungime. Sursele consultate nu confirmă cifra de 18 kg ca standard general, deci valoarea trebuie verificată în manualul aripii. Înlocuirea suspantelor după fiecare zbor sau întinderea doar cu mâna nu sunt metodele corecte.",
+   "long": "Întinderea suspantelor se face cu un sistem de scripeți și o greutate, aplicată pe fiecare linie, pentru ca toate liniile să ajungă la aceeași lungime. Sursele de specialitate indică, de regulă, sarcini de aproximativ 15–20 kg; cifra de 18 kg din variantă se încadrează în acest interval. Înlocuirea suspantelor după fiecare zbor sau întinderea doar cu mâna nu sunt metodele corecte.",
    "answers": [
     {
      "text": "folosind un sistem de scripeți, bandă de măsurare și o greutate de 18 kg",
      "correct": true,
      "short": "",
-     "long": "Este metoda; greutatea exactă trebuie verificată în manualul aripii.",
+     "long": "Este metoda corectă: scripeți, bandă de măsurare și o greutate de aproximativ 18 kg, în intervalul de 15–20 kg folosit în practică.",
      "warn": ""
     },
     {
@@ -3317,8 +3317,8 @@
   {
    "number": "#93",
    "text": "439: Cum se ajustează corect frânele aripii?",
-   "short": "Frânele aripii se ajustează gonflând aripa, marcând zonele de modificare și consultând manualul producătorului.",
-   "long": "Ajustarea se face cu aripa gonflată, pentru ca lungimea să fie măsurată în condiții reale, după care se marchează ce trebuie modificat. Manualul producătorului dă valorile corecte. Înlocuirea suspantelor cu unele mai lungi sau ajustarea trimmerelor nu sunt metodele corecte.",
+   "short": "Frânele aripii se ajustează gonflând aripa, măsurând liniile de frână și corectând diferențele de lungime.",
+   "long": "Ajustarea se face cu aripa gonflată, pentru ca lungimea liniilor de frână să fie măsurată în condiții reale, apoi se corectează diferențele. Înlocuirea suspantelor cu unele mai lungi sau ajustarea trimmerelor nu sunt metodele corecte, pentru că trimmerele nu modifică frânele.",
    "answers": [
     {
      "text": "se verifică lungimea suspantelor și adaugă extensii dacă este necesar",
@@ -3342,10 +3342,10 @@
      "warn": ""
     },
     {
-     "text": "se gonflează aripa și marchează unde trebuie făcute noi modificări si consultă manualul producătorului",
+     "text": "se gonflează aripa, se măsoară liniile de frână și se corectează diferențele de lungime",
      "correct": true,
-     "short": "Se gonflează aripa, se marchează unde trebuie făcute noi modificări și se consultă manualul producătorului.",
-     "long": "Este metoda corectă.",
+     "short": "Se gonflează aripa, se măsoară liniile de frână și se corectează diferențele de lungime.",
+     "long": "Corect. Aripa se gonflează, liniile de frână se măsoară, iar diferențele de lungime se corectează, astfel încât frânele să acționeze simetric.",
      "warn": ""
     }
    ]
