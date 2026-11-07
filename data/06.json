@@ -2454,34 +2454,34 @@
    "number": "#69",
    "text": "796: Prin plasarea centrajului în afara limitelor admise aeronava este:",
    "short": "Dacă centrajul este în afara limitelor admise, aeronava este interzisă zborului.",
-   "long": "Centrajul în afara limitelor înseamnă că aeronava nu poate fi controlată în siguranță. Regula este că nu se zboară până la corectarea centrajului.",
+   "long": "Centrajul (poziția centrului de greutate) trebuie să rămână în limitele stabilite de constructor. În afara lor aeronava nu este admisă la zbor, deoarece stabilitatea și comenzile nu mai sunt garantate.",
    "answers": [
     {
      "text": "fără performanțe notabile",
      "correct": false,
      "short": "",
-     "long": "Performanțele se degradează.",
+     "long": "Centrajul în afara limitelor are efecte mari asupra performanței și stabilității, deci nu este fără performanțe notabile.",
      "warn": ""
     },
     {
      "text": "grea în comenzi",
      "correct": false,
      "short": "",
-     "long": "Este un efect, dar varianta corectă este interdicția.",
+     "long": "Comenzile devin grele, dar efectul principal este că zborul nu mai este admis.",
      "warn": ""
     },
     {
      "text": "instabilă în zbor",
      "correct": false,
      "short": "",
-     "long": "Este un efect, dar varianta corectă este interdicția.",
+     "long": "Instabilitatea este un efect, dar răspunsul complet este că aeronava nu este admisă la zbor.",
      "warn": ""
     },
     {
      "text": "interzisă zborului",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Centrajul în afara limitelor face aeronava neadmisă la zbor.",
      "warn": ""
     }
    ]
@@ -2490,34 +2490,34 @@
    "number": "#70",
    "text": "858: Ce efect are umiditatea asupra capacității de ridicare a aripii?",
    "short": "Umiditatea reduce capacitatea de ridicare a aripii, din cauza aerului mai dens.",
-   "long": "Varianta D are un raționament greșit: aerul umed este mai puțin dens decât aerul uscat, deoarece vaporii de apă sunt mai ușori decât azotul și oxigenul. Umiditatea afectează mai ales motorul, nu densitatea în sensul descris. Tratează varianta cu atenție și verifică sursa.",
+   "long": "Umiditatea ridicată face aerul mai puțin dens, deci portanța scade. Aerul uscat și mai dens ar da portanță mai mare.",
    "answers": [
     {
      "text": "crește capacitatea de ridicare din cauza aerului mai ușor",
      "correct": false,
      "short": "",
-     "long": "Ideea de aer mai ușor este corectă, dar concluzia de creștere a portanței este discutabilă.",
+     "long": "Aerul umed nu este mai ușor decât cel uscat, în sens fizic. Umiditatea ridicată reduce densitatea, iar portanța scade.",
      "warn": ""
     },
     {
      "text": "nu influențează capacitatea de ridicare",
      "correct": false,
      "short": "",
-     "long": "Influențează, dar mai puțin decât altitudinea și temperatura.",
+     "long": "Umiditatea influențează capacitatea de ridicare, prin densitate.",
      "warn": ""
     },
     {
      "text": "afectează doar stabilitatea aripii, nu și capacitatea de ridicare",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "Umiditatea influențează și capacitatea de ridicare, nu doar stabilitatea.",
      "warn": ""
     },
     {
      "text": "reduce capacitatea de ridicare din cauza aerului mai dens",
      "correct": true,
      "short": "",
-     "long": "Este greșită: aerul umed este mai puțin dens, deci nu reduce portanța prin densitate mai mare.",
+     "long": "Concluzia (portanța scade) este corectă, dar motivul din variantă este greșit: aerul umed este mai puțin dens, nu mai dens.",
      "warn": "Raționament greșit: aerul umed este mai puțin dens decât aerul uscat, deoarece vaporii de apă sunt mai ușori decât azotul și oxigenul. Umiditatea nu reduce portanța prin densitate mai mare."
     }
    ]
@@ -2526,34 +2526,34 @@
    "number": "#71",
    "text": "827: Cum poate influența performanța zborului un motor murdar sau neîntreținut?",
    "short": "Un motor murdar sau neîntreținut pierde din putere și eficiență.",
-   "long": "Murdăria și depunerile din carburator, din chiulasă sau de pe bujie afectează amestecul și răcirea. Motorul pierde putere și consumă mai mult. Întreținerea periodică previne aceste probleme.",
+   "long": "Un motor murdar sau neîntreținut se încălzește mai greu, are frecări mai mari și amestecul se dozează greșit, deci pierde putere și eficiență.",
    "answers": [
     {
      "text": "motorul va funcționa mai silențios",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul principal.",
+     "long": "Un motor murdar nu funcționează mai silențios. Efectul principal este pe putere.",
      "warn": ""
     },
     {
      "text": "motorul va consuma mai puțin combustibil",
      "correct": false,
      "short": "",
-     "long": "Consumă, de regulă, mai mult.",
+     "long": "Motorul murdar consumă mai mult, nu mai puțin, din cauza eficienței scăzute.",
      "warn": ""
     },
     {
      "text": "motorul poate pierde din putere și eficiență",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Motorul neîntreținut pierde putere și eficiență.",
      "warn": ""
     },
     {
      "text": "motorul va genera mai puțină căldură",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul corect.",
+     "long": "Motorul neîntreținut nu generează mai puțină căldură. Frecările și amestecul greșit cresc uzura și căldura.",
      "warn": ""
     }
    ]
@@ -2562,34 +2562,34 @@
    "number": "#72",
    "text": "859: Ce trebuie să faceți înainte de a începe orice zbor pentru a asigura siguranța echipamentului?",
    "short": "Înainte de orice zbor efectuezi o inspecție completă a aripii, motorului și suspantelor.",
-   "long": "Inspecția preflight acoperă aripa, motorul, suspantele, seleta și combustibilul. Nivelul combustibilului sau ochelarii nu sunt inspecția completă.",
+   "long": "Înainte de orice zbor se face inspecția completă: aripa, motorul și suspantele, pentru a detecta defecte care pot pune în pericol zborul.",
    "answers": [
     {
      "text": "verificați doar nivelul combustibilului din rezervor",
      "correct": false,
      "short": "",
-     "long": "Verificarea este incompletă.",
+     "long": "Combustibilul este o verificare, dar nu este inspecția completă a echipamentului.",
      "warn": ""
     },
     {
      "text": "ajustați doar hamul pentru confort",
      "correct": false,
      "short": "",
-     "long": "Verificarea este incompletă.",
+     "long": "Hamul se ajustează, dar nu este inspecția echipamentului pentru siguranță.",
      "warn": ""
     },
     {
      "text": "efectuați o inspecție completă a aripii, motorului și suspantelor",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Inspecția completă a aripii, motorului și suspantelor este necesară înainte de zbor.",
      "warn": ""
     },
     {
      "text": "asigurați-vă că aveți ochelari de protecție",
      "correct": false,
      "short": "",
-     "long": "Ochelarii nu sunt inspecția de siguranță.",
+     "long": "Ochelarii de protecție sunt utili, dar nu asigură siguranța echipamentului.",
      "warn": ""
     }
    ]
@@ -2598,34 +2598,34 @@
    "number": "#73",
    "text": "848: Cum poate influența o aripă murdară performanța zborului?",
    "short": "O aripă murdară poate reduce portanța și eficiența aripii.",
-   "long": "Murdăria și insectele modifică profilul de la bordul de atac, deci aripa produce mai puțină portanță și are mai multă rezistență. Eficiența scade, mai ales la viteză mică.",
+   "long": "Murdăria de pe aripă modifică profilul și suprafața, deci reduce portanța și crește rezistența. Eficiența aripii scade.",
    "answers": [
     {
      "text": "influențează capacitatea de reacție la comenzi",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul principal.",
+     "long": "Reacția la comenzi nu este efectul principal al murdăriei.",
      "warn": ""
     },
     {
      "text": "poate altera echilibrul dinamic al aripii în timpul zborului",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul principal.",
+     "long": "Echilibrul dinamic nu este efectul principal al murdăriei.",
      "warn": ""
     },
     {
      "text": "poate reduce portanța și eficiența aripii",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Murdăria reduce portanța și eficiența.",
      "warn": ""
     },
     {
      "text": "murdăria poate modifica fluxul laminar al aerului pe suprafața aripii",
      "correct": false,
      "short": "",
-     "long": "Este un efect real, dar varianta corectă este reducerea portanței.",
+     "long": "Murdăria modifică fluxul de aer, dar răspunsul complet este reducerea portanței și a eficienței.",
      "warn": ""
     }
    ]
@@ -2634,34 +2634,34 @@
    "number": "#74",
    "text": "879: Cum influențează umiditatea scăzută consumul de combustibil?",
    "short": "Umiditatea scăzută poate crește consumul de combustibil, prin modificarea amestecului aer-combustibil.",
-   "long": "Răspunsul corect este discutabil. În general, umiditatea modifică amestecul, iar efectul ei asupra consumului depinde de motor și de setări. Verifică sursa și manualul motorului înainte să reții această relație.",
+   "long": "Umiditatea scăzută modifică amestecul aer–combustibil. Efectul asupra consumului depinde de motor și de reglaje, deci poate crește consumul.",
    "answers": [
     {
      "text": "umiditatea nu influențează consumul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Influențează, cel puțin indirect.",
+     "long": "Umiditatea influențează amestecul, deci afirmația că nu influențează este greșită.",
      "warn": ""
     },
     {
      "text": "umiditatea scăzută poate îmbunătăți eficiența combustibilului",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "Umiditatea scăzută nu îmbunătățește eficiența combustibilului în mod general.",
      "warn": ""
     },
     {
      "text": "umiditatea scăzută reduce consumul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "Nu există o regulă generală că umiditatea scăzută reduce consumul. Efectul depinde de motor și de reglaje.",
      "warn": ""
     },
     {
      "text": "umiditatea scăzută poate crește consumul de combustibil prin modificarea amestecului aer-combustibil",
      "correct": true,
      "short": "",
-     "long": "Umiditatea schimbă densitatea și conținutul de oxigen al aerului, deci modifică amestecul. Efectul asupra consumului depinde de motor și de reglaje. Nu am găsit o sursă care să confirme direcția efectului, deci varianta nu este demonstrată.",
+     "long": "Corect. Umiditatea scăzută poate modifica amestecul și crește consumul.",
      "warn": ""
     }
    ]
@@ -2670,34 +2670,34 @@
    "number": "#75",
    "text": "862: Ce trebuie să faceți dacă observați o problemă la sistemul de suspensie în timpul zborului?",
    "short": "Dacă observi o problemă la sistemul de suspensie în zbor, aterizezi cât mai curând pentru a inspecta și repara.",
-   "long": "Suspantele și chingile preiau sarcina. O problemă la ele poate duce la pierderea controlului. Trebuie aterizat, nu ajustat în zbor, nici ignorat.",
+   "long": "Problema la suspensie poate duce la ruperea unei suspante sau la pierderea controlului. Se aterizează cât mai curând și se inspectează sistemul.",
    "answers": [
     {
      "text": "încercați să ajustați suspantele în timpul zborului",
      "correct": false,
      "short": "",
-     "long": "Ajustarea în zbor nu este sigură.",
+     "long": "Reglarea suspantelor în zbor este periculoasă și nu rezolvă defectul.",
      "warn": ""
     },
     {
      "text": "ignorați problema dacă zborul este stabil",
      "correct": false,
      "short": "",
-     "long": "Problema trebuie rezolvată.",
+     "long": "Ignorarea problemei poate duce la pierderea suspantei, chiar dacă zborul pare stabil.",
      "warn": ""
     },
     {
      "text": "aterizați cât mai curând posibil pentru a inspecta și repara sistemul",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Se aterizează și se inspectează sistemul.",
      "warn": ""
     },
     {
      "text": "continuați zborul și verificați problema ulterior",
      "correct": false,
      "short": "",
-     "long": "Este periculos.",
+     "long": "Continuarea zborului cu problema neclarificată este riscantă.",
      "warn": ""
     }
    ]
@@ -2706,34 +2706,34 @@
    "number": "#76",
    "text": "824: În cazul motoparapantelor, viteza indicată de angajare se măsoară în raport cu:",
    "short": "Viteza indicată de angajare se măsoară în raport cu vântul relativ.",
-   "long": "Viteza indicată (IAS) este măsurată față de aerul din jurul aripii, adică vântul relativ, nu față de sol. Vântul de la sol influențează viteza la sol, nu cea indicată.",
+   "long": "Viteza indicată de angajare (la care aripa începe să se umfle și să zboare) se măsoară față de vântul relativ, adică față de masa de aer care trece prin aripă.",
    "answers": [
     {
      "text": "direcția și intensitatea vântului",
      "correct": false,
      "short": "",
-     "long": "Vântul influențează viteza la sol, nu definiția.",
+     "long": "Direcția și intensitatea vântului influențează viteza la sol, nu viteza indicată de angajare.",
      "warn": ""
     },
     {
      "text": "solul",
      "correct": false,
      "short": "",
-     "long": "Viteza față de sol este viteza la sol, nu cea indicată.",
+     "long": "Solul nu este referința vitezei indicate, care se măsoară față de aer.",
      "warn": ""
     },
     {
      "text": "vântul relativ",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Viteza indicată se măsoară față de vântul relativ.",
      "warn": ""
     },
     {
      "text": "înălțimea",
      "correct": false,
      "short": "",
-     "long": "Nu este referința.",
+     "long": "Înălțimea nu este referința vitezei indicate.",
      "warn": ""
     }
    ]
@@ -2742,34 +2742,34 @@
    "number": "#77",
    "text": "825: Dacă densitatea atmosferică este scăzută atunci distanța pe care va trebui să o parcurgeți pentru a decola va fi:",
    "short": "Dacă densitatea atmosferică este scăzută, distanța de decolare este mai mare.",
-   "long": "Aerul rarefiat produce mai puțină portanță la aceeași viteză. Pilotul trebuie să atingă o viteză mai mare față de sol, deci distanța de decolare crește.",
+   "long": "La densitate scăzută portanța scade, deci aripa are nevoie de mai multă viteză la sol pentru a decola, iar distanța de decolare crește.",
    "answers": [
     {
      "text": "aceeași",
      "correct": false,
      "short": "",
-     "long": "Distanța crește.",
+     "long": "Distanța nu rămâne aceeași, pentru că portanța scade.",
      "warn": ""
     },
     {
      "text": "mai mică",
      "correct": false,
      "short": "",
-     "long": "Distanța crește.",
+     "long": "Distanța nu scade la densitate scăzută. Crește.",
      "warn": ""
     },
     {
      "text": "mai mare",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Distanța de decolare crește.",
      "warn": ""
     },
     {
      "text": "nu va fi afectată",
      "correct": false,
      "short": "",
-     "long": "Este afectată.",
+     "long": "Densitatea influențează distanța de decolare.",
      "warn": ""
     }
    ]
@@ -2778,34 +2778,34 @@
    "number": "#78",
    "text": "849: Ce efect are altitudinea asupra consumului de combustibil în timpul zborului?",
    "short": "Altitudinea crește consumul de combustibil, din cauza aerului mai rarefiat.",
-   "long": "Răspunsul corect este discutabil. La altitudine, motorul pierde putere, iar consumul depinde de regimul setat și de amestec. Verifică sursa și manualul motorului înainte să reții această relație.",
+   "long": "La altitudine aerul este mai rarefiat. Motorul cu carburator dozează combustibilul după aer; cu regim setat, consumul pe oră scade, dar puterea scade și ea. Efectul asupra consumului depinde de regim.",
    "answers": [
     {
      "text": "crește consumul de combustibil doar la altitudini extrem de mari",
      "correct": false,
      "short": "",
-     "long": "Nu este formularea corectă.",
+     "long": "Consumul nu crește doar la altitudini extreme. Efectul depinde de regim și de dozare.",
      "warn": ""
     },
     {
      "text": "nu influențează consumul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Influențează, prin regim și amestec.",
+     "long": "Altitudinea influențează consumul prin dozarea aerului, deci afirmația este greșită.",
      "warn": ""
     },
     {
      "text": "scade consumul de combustibil datorită aerului mai rarefiat",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "Scăderea consumului este efectul dozării cu aer rarefiat, la regim setat.",
      "warn": ""
     },
     {
      "text": "crește consumul de combustibil din cauza aerului mai rarefiat",
      "correct": true,
      "short": "",
-     "long": "La altitudine aerul este mai rarefiat. Un carburator dozează combustibilul după cantitatea de aer, deci la aceeași setare consumul pe oră scade, dar puterea scade și ea. Afirmația că altitudinea crește consumul din cauza aerului rarefiat nu este explicată de această logică.",
+     "long": "Afirmația că altitudinea crește consumul din cauza aerului rarefiat nu este efectul general. Formularea variantei este discutabilă.",
      "warn": ""
     }
    ]
@@ -2814,34 +2814,34 @@
    "number": "#79",
    "text": "882: Cum influențează densitatea aerului stabilitatea aripii în timpul zborului?",
    "short": "O densitate mai mare a aerului poate crește stabilitatea aripii.",
-   "long": "Aerul mai dens produce mai multă portanță și forțe mai mari pe aripă, ceea ce poate crește stabilitatea față de rafale. Varianta corectă indică această relație. Efectul este moderat și depinde de condiții.",
+   "long": "La densitate mai mare aerul oferă mai multă portanță și forțe mai mari pe aripă, deci aripa este mai stabilă la rafale.",
    "answers": [
     {
      "text": "o densitate mai mare a aerului poate crește stabilitatea aripii",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Densitatea mai mare crește stabilitatea.",
      "warn": ""
     },
     {
      "text": "o densitate mai mică a aerului poate crește stabilitatea aripii",
      "correct": false,
      "short": "",
-     "long": "Este opusul efectului descris.",
+     "long": "Densitatea mai mică reduce stabilitatea, nu o crește.",
      "warn": ""
     },
     {
      "text": "o densitate mai mare a aerului poate reduce stabilitatea aripii",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "Densitatea mai mare crește stabilitatea, nu o reduce.",
      "warn": ""
     },
     {
      "text": "densitatea aerului nu influențează stabilitatea aripii",
      "correct": false,
      "short": "",
-     "long": "Influențează.",
+     "long": "Densitatea influențează stabilitatea.",
      "warn": ""
     }
    ]
@@ -2850,34 +2850,34 @@
    "number": "#80",
    "text": "818: În România zborul VFR în zona de aerodrom se admite de la:",
    "short": "În România, zborul VFR în zona aerodromului se admite de la răsărit până la apus, cu orele din AIP după ora aerodromului.",
-   "long": "Aceeași regulă ca la întrebarea 25: referința este ora locală a aerodromului, iar intervalul este de la răsărit la apus, conform AIP.",
+   "long": "Zborul VFR în zona aerodromului este admis între răsărit și apus, cu orele din AIP raportate la ora locală a aerodromului unde se desfășoară zborul.",
    "answers": [
     {
      "text": "răsăritul soarelui până la apus orele fiind luate din AIP după ora Bucureşti",
      "correct": false,
      "short": "Răsăritul soarelui până la apus, orele fiind luate din AIP după ora Bucureștiului.",
-     "long": "Referința este ora aerodromului.",
+     "long": "Ora Bucureștiului nu este referința. Se folosește ora aerodromului.",
      "warn": ""
     },
     {
      "text": "răsăritul soarelui până la apus luate din AIP după ora aerodromului unde vă desfăşuraţi activitatea de zbor",
      "correct": true,
      "short": "Răsăritul soarelui până la apus, luate din AIP după ora aerodromului unde vă desfășurați activitatea de zbor.",
-     "long": "",
+     "long": "Corect. Răsăritul și apusul din AIP, cu ora aerodromului.",
      "warn": ""
     },
     {
      "text": "30 min după răsărit până la 30 min înainte de apus după ora Bucureşti",
      "correct": false,
      "short": "30 min după răsărit până la 30 min înainte de apus, după ora Bucureștiului.",
-     "long": "Intervalul este greșit.",
+     "long": "Perioada de 30 de minute nu este regula. Se folosesc orele din AIP.",
      "warn": ""
     },
     {
      "text": "răsăritul soarelui până la apus luate din AIP după ora dată de GPS",
      "correct": false,
      "short": "Răsăritul soarelui până la apus, luate din AIP după ora dată de GPS.",
-     "long": "GPS-ul nu este referința.",
+     "long": "Ora dată de GPS nu este referința. Se folosește ora locală a aerodromului.",
      "warn": ""
     }
    ]
@@ -2886,34 +2886,34 @@
    "number": "#81",
    "text": "839: Care este rolul parașutei de rezervă?",
    "short": "Parașuta de rezervă oferă o soluție de siguranță în cazul unei defecțiuni.",
-   "long": "Parașuta de rezervă este echipamentul de salvare în caz de defecțiune gravă a aripii sau a sistemului. Ea nu crește portanța, nu optimizează greutatea și nu oferă control suplimentar.",
+   "long": "Parașuta de rezervă este soluția de siguranță dacă zborul nu mai poate fi continuat sau controlat după o defecțiune.",
    "answers": [
     {
      "text": "asigură o ridicare suplimentară în condiții de vânt slab",
      "correct": false,
      "short": "",
-     "long": "Nu este rolul ei.",
+     "long": "Parașuta de rezervă nu asigură ridicare suplimentară în vânt slab.",
      "warn": ""
     },
     {
      "text": "oferă o soluție de siguranță în cazul unei defecțiuni",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Parașuta de rezervă este soluția de siguranță la defecțiune.",
      "warn": ""
     },
     {
      "text": "optimizează distribuția greutății în timpul manevrelor complexe",
      "correct": false,
      "short": "",
-     "long": "Nu este rolul ei.",
+     "long": "Distribuția greutății nu este rolul parașutei de rezervă.",
      "warn": ""
     },
     {
      "text": "permite controlul suplimentar în condiții de zbor turbulente",
      "correct": false,
      "short": "",
-     "long": "Nu este rolul ei.",
+     "long": "Parașuta de rezervă nu oferă controlul în zbor turbulent. Este pentru siguranța la urgență.",
      "warn": ""
     }
    ]
@@ -2922,34 +2922,34 @@
    "number": "#82",
    "text": "836: Ce măsuri trebuie să luați dacă observați o fisură mică în rezervorul de combustibil?",
    "short": "Dacă observi o fisură mică în rezervorul de combustibil, oprești imediat zborul și repari fisura înainte de a continua.",
-   "long": "O fisură în rezervor poate duce la scurgeri de combustibil, deci risc de incendiu. Zborul se oprește și fisura se repară înainte de a reporni. Etanșantele temporare și reducerea turației nu sunt soluții sigure.",
+   "long": "O fisură în rezervor poate permite scurgerea combustibilului, cu risc de incendiu. Zborul se oprește și fisura se repară înainte de a continua.",
    "answers": [
     {
      "text": "verificați periodic rezervorul pentru a monitoriza extinderea fisurii",
      "correct": false,
      "short": "",
-     "long": "Este periculos să zbori cu fisură.",
+     "long": "Monitorizarea periodică nu este suficientă cu o fisură în rezervor. Riscul de incendiu cere oprirea zborului.",
      "warn": ""
     },
     {
      "text": "opriți imediat zborul și reparați fisura înainte de a continua",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Zborul se oprește și fisura se repară înainte de a continua.",
      "warn": ""
     },
     {
      "text": "utilizați un agent de etanșare temporar pentru a preveni scurgerile",
      "correct": false,
      "short": "",
-     "long": "Nu este soluție sigură.",
+     "long": "Etanșarea temporară nu este soluție sigură pentru rezervor în zbor.",
      "warn": ""
     },
     {
      "text": "reduceți turația motorului pentru a minimiza scurgerile",
      "correct": false,
      "short": "",
-     "long": "Nu rezolvă problema.",
+     "long": "Reducerea turației nu oprește scurgerea combustibilului.",
      "warn": ""
     }
    ]
@@ -2958,34 +2958,34 @@
    "number": "#83",
    "text": "820: Care este motivul principal pentru care se caută a se decola cu vânt de faţă?",
    "short": "Vântul de față se folosește la decolare pentru a reduce viteza la sol și distanța de decolare.",
-   "long": "Aceeași explicație ca la întrebarea 12: cu vânt din față, viteza la sol necesară decolării este mai mică, deci distanța scade.",
+   "long": "Vântul de față face aripa să zboare cu viteză mai mare față de sol la același IAS. Viteza la sol este mai mică, deci decolarea se face pe o distanță mai scurtă.",
    "answers": [
     {
      "text": "ca să reducem viteza la sol şi astfel să reducem distanta de decolare",
      "correct": true,
      "short": "Ca să reducem viteza la sol și astfel să reducem distanța de decolare.",
-     "long": "",
+     "long": "Corect. Viteza la sol mai mică reduce distanța de decolare.",
      "warn": ""
     },
     {
      "text": "ca să reducem viteza indicată şi astfel să reducem distanţa de decolare",
      "correct": false,
      "short": "Ca să reducem viteza indicată și astfel să reducem distanța de decolare.",
-     "long": "Viteza indicată nu este motivul principal.",
+     "long": "Viteza indicată nu se reduce cu vântul de față. Se reduce viteza la sol.",
      "warn": ""
     },
     {
      "text": "ca să reducem IAS",
      "correct": false,
      "short": "",
-     "long": "Nu este motivul principal.",
+     "long": "IAS nu se reduce prin vânt de față.",
      "warn": ""
     },
     {
      "text": "ca să reducem viteza de angajare",
      "correct": false,
      "short": "",
-     "long": "Nu este motivul principal.",
+     "long": "Viteza de angajare este aceeași față de aer. Vântul de față face ca solul să se miște mai puțin.",
      "warn": ""
     }
    ]
@@ -2994,34 +2994,34 @@
    "number": "#84",
    "text": "819: Care este efectul vântului de faţa asupra unghiului de planare şi asupra distanţei de planare?",
    "short": "Cu vânt de față, unghiul de planare crește și distanța de planare scade.",
-   "long": "Vântul de față reduce viteza față de sol, deci aeronava coboară mai abrupt, iar distanța parcursă pe sol la planare scade. Pilotul trebuie să țină cont de aceasta la aterizare.",
+   "long": "Cu vânt de față, viteza față de sol scade, dar viteza față de aer rămâne. Unghiul de planare crește (aterizarea pare mai abruptă), iar distanța de planare scade.",
    "answers": [
     {
      "text": "unghiul de planare va rămâne la fel şi distanţa de planare la fel",
      "correct": false,
      "short": "Unghiul de planare va rămâne la fel și distanța de planare la fel.",
-     "long": "Se modifică.",
+     "long": "Unghiul și distanța de planare se modifică cu vântul.",
      "warn": ""
     },
     {
      "text": "unghiul de planare va creşte şi distanţa de planare va creşte",
      "correct": false,
      "short": "Unghiul de planare va crește și distanța de planare va crește.",
-     "long": "Distanța scade.",
+     "long": "Distanța de planare nu crește cu vântul de față. Scade.",
      "warn": ""
     },
     {
      "text": "unghiul de planare va scădea şi distanţa de planare va descreşte",
      "correct": false,
      "short": "Unghiul de planare va scădea și distanța de planare va descrește.",
-     "long": "Unghiul crește.",
+     "long": "Unghiul de planare nu scade cu vântul de față. Crește.",
      "warn": ""
     },
     {
      "text": "unghiul de planare va creşte şi distanţa de planare va descreşte",
      "correct": true,
      "short": "Unghiul de planare va crește și distanța de planare va descrește.",
-     "long": "",
+     "long": "Corect. Unghiul crește, distanța scade.",
      "warn": ""
     }
    ]
@@ -3030,34 +3030,34 @@
    "number": "#85",
    "text": "876: Cum poate influența o elice murdară eficiența motorului?",
    "short": "O elice murdară poate reduce eficiența motorului, prin creșterea rezistenței aerodinamice.",
-   "long": "Murdăria de pe pale modifică profilul și crește rezistența. Elicea produce mai puțin tracțiune, deci motorul pierde din eficiență. Curățarea periodică previne problema.",
+   "long": "Elicea murdară sau cu depuneri are o formă aerodinamică alterată, deci rezistența crește și eficiența scade.",
    "answers": [
     {
      "text": "o elice murdară îmbunătățește eficiența motorului",
      "correct": false,
      "short": "",
-     "long": "Nu este adevărat.",
+     "long": "O elice murdară nu îmbunătățește eficiența.",
      "warn": ""
     },
     {
      "text": "o elice murdară nu influențează eficiența motorului",
      "correct": false,
      "short": "",
-     "long": "Influențează.",
+     "long": "Elicea murdară influențează eficiența, deci afirmația este greșită.",
      "warn": ""
     },
     {
      "text": "o elice murdară poate reduce eficiența motorului prin creșterea rezistenței aerodinamice",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Murdăria crește rezistența și scade eficiența.",
      "warn": ""
     },
     {
      "text": "o elice murdară poate crește consumul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Este un efect posibil, dar varianta corectă este reducerea eficienței.",
+     "long": "Consumul crește ca efect al eficienței scăzute, dar răspunsul complet este scăderea eficienței prin rezistență.",
      "warn": ""
     }
    ]
@@ -3066,34 +3066,34 @@
    "number": "#86",
    "text": "816: Vântul influenţează distanţa de aterizare astfel:",
    "short": "Vântul de față reduce distanța de aterizare.",
-   "long": "Aceeași explicație ca la întrebarea 59: cu vânt de față, viteza față de sol la aterizare este mai mică, deci distanța scade.",
+   "long": "Vântul de față reduce viteza la sol la aterizare, deci și distanța de rulare și de oprire.",
    "answers": [
     {
      "text": "vântul de spate mărește portanța",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul corect.",
+     "long": "Vântul de spate nu mărește portanța în mod util la aterizare; mărește distanța.",
      "warn": ""
     },
     {
      "text": "vântul de faţă măreşte distanţa",
      "correct": false,
      "short": "Vântul de față mărește distanța.",
-     "long": "Este opusul efectului.",
+     "long": "Vântul de față nu mărește distanța, ci o reduce.",
      "warn": ""
     },
     {
      "text": "vântul de spate reduce distanţa",
      "correct": false,
      "short": "Vântul de spate reduce distanța.",
-     "long": "Vântul de spate mărește distanța.",
+     "long": "Vântul de spate nu reduce distanța, ci o mărește.",
      "warn": ""
     },
     {
      "text": "vântul de faţă reduce distanţa",
      "correct": true,
      "short": "Vântul de față reduce distanța.",
-     "long": "",
+     "long": "Corect. Vântul de față reduce distanța de aterizare.",
      "warn": ""
     }
    ]
@@ -3102,34 +3102,34 @@
    "number": "#87",
    "text": "883: Ce trebuie să verificați înainte de a începe procedura de aterizare?",
    "short": "Înainte de aterizare verifici direcția și intensitatea vântului, starea terenului și echipamentul.",
-   "long": "Aterizarea cere evaluarea vântului, a terenului (obstacole, pante, denivelări) și a echipamentului. Nivelul combustibilului sau frânele sunt verificări separate.",
+   "long": "Înainte de aterizare se verifică direcția și intensitatea vântului, starea terenului (obstacole, denivelări) și echipamentul.",
    "answers": [
     {
      "text": "nivelul combustibilului",
      "correct": false,
      "short": "",
-     "long": "Este o verificare separată.",
+     "long": "Nivelul combustibilului nu este verificarea principală înainte de aterizare.",
      "warn": ""
     },
     {
      "text": "alinierea aripii cu direcția vântului",
      "correct": false,
      "short": "",
-     "long": "Este parțial corectă, dar varianta corectă este cea completă.",
+     "long": "Alinierea aripii nu este verificarea completă înainte de aterizare.",
      "warn": ""
     },
     {
      "text": "funcționarea sistemului de frânare",
      "correct": false,
      "short": "",
-     "long": "Este o verificare separată.",
+     "long": "Frânarea este o verificare, dar nu singura.",
      "warn": ""
     },
     {
      "text": "direcția și intensitatea vântului, starea terenului și echipamentul",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Vântul, terenul și echipamentul se verifică înainte de aterizare.",
      "warn": ""
     }
    ]
@@ -3138,34 +3138,34 @@
    "number": "#88",
    "text": "802: Sistemul accelerator al aripii acționează în felul următor:",
    "short": "Sistemul accelerator al aripii modifică unghiul de incidență.",
-   "long": "Speed bar-ul scurtează liniile inferioare, schimbă geometria aripii și scade unghiul de incidență, deci aripa zboară mai repede. Nu este folosit la decolare și nu lungește chingile.",
+   "long": "Accelerația (speed system) modifică unghiul de incidență al aripii, prin scurtarea suspantelor din față, deci aripa zboară mai repede.",
    "answers": [
     {
      "text": "poate fi folosit la decolare",
      "correct": false,
      "short": "",
-     "long": "Nu este recomandat la decolare.",
+     "long": "Sistemul speed nu se folosește la decolare, ci în zbor.",
      "warn": ""
     },
     {
      "text": "modifică lungimea chingilor spate",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul corect.",
+     "long": "Sistemul speed nu modifică lungimea chingilor din spate, ci pe cele din față.",
      "warn": ""
     },
     {
      "text": "modifică unghiul de incidenţă",
      "correct": true,
      "short": "Modifică unghiul de incidență.",
-     "long": "",
+     "long": "Corect. Speed system-ul modifică unghiul de incidență.",
      "warn": ""
     },
     {
      "text": "creste stabilitatea aripii",
      "correct": false,
      "short": "Crește stabilitatea aripii.",
-     "long": "Scade stabilitatea.",
+     "long": "Speed system-ul scade stabilitatea, nu o crește.",
      "warn": ""
     }
    ]
@@ -3174,34 +3174,34 @@
    "number": "#89",
    "text": "828: Care este efectul principal al utilizării trimului în timpul zborului?",
    "short": "Efectul principal al utilizării trimului în zbor este modificarea vitezei de zbor.",
-   "long": "Trimul schimbă unghiul de atac și viteza. El nu este pentru comunicarea radio, iar reducerea consumului sau creșterea stabilității nu sunt efectele principale.",
+   "long": "Trimmerele modifică profilul aripii pe marginea de fugă, deci modifică viteza de zbor, fără a crește stabilitatea.",
    "answers": [
     {
      "text": "îmbunătățește comunicarea radio",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul trimului.",
+     "long": "Trimmerele nu îmbunătățesc comunicarea radio.",
      "warn": ""
     },
     {
      "text": "reduce consumul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul principal.",
+     "long": "Trimmerele nu reduc consumul. Modifică viteza.",
      "warn": ""
     },
     {
      "text": "modifică viteza de zbor",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Trimmerele modifică viteza de zbor.",
      "warn": ""
     },
     {
      "text": "crește stabilitatea aripii",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul principal.",
+     "long": "Trimmerele deschise scad stabilitatea, nu o cresc.",
      "warn": ""
     }
    ]
@@ -3210,34 +3210,34 @@
    "number": "#90",
    "text": "801: Portanţa este o forţă:",
    "short": "Portanța este o forță perpendiculară pe direcția de zbor.",
-   "long": "Portanța acționează perpendicular pe direcția de deplasare a aeronavei, în sus. Rezistența aerodinamică este paralelă cu direcția de zbor, dar în sens opus.",
+   "long": "Portanța este perpendiculară pe direcția de zbor, în sus. Rezistența este paralelă cu zborul, în sens opus.",
    "answers": [
     {
      "text": "paralelă cu direcţia de zbor",
      "correct": false,
      "short": "Paralelă cu direcția de zbor.",
-     "long": "Aceasta este rezistența sau tracțiunea.",
+     "long": "Forța paralelă cu zborul este rezistența, nu portanța.",
      "warn": ""
     },
     {
      "text": "de acelaşi sens cu direcţia de zbor",
      "correct": false,
      "short": "De același sens cu direcția de zbor.",
-     "long": "Aceasta este tracțiunea.",
+     "long": "Forța de același sens cu zborul este tracțiunea motorului, nu portanța.",
      "warn": ""
     },
     {
      "text": "opusa directiei de zbor",
      "correct": false,
      "short": "Opusă direcției de zbor.",
-     "long": "Aceasta este rezistența.",
+     "long": "Forța opusă zborului este rezistența, nu portanța.",
      "warn": ""
     },
     {
      "text": "perpendiculară pe direcţia de zbor",
      "correct": true,
      "short": "Perpendiculară pe direcția de zbor.",
-     "long": "",
+     "long": "Corect. Portanța este perpendiculară pe direcția de zbor.",
      "warn": ""
     }
    ]
@@ -3246,34 +3246,34 @@
    "number": "#91",
    "text": "866: Care este rolul unei inspecții complete înainte de zbor?",
    "short": "Rolul unei inspecții complete înainte de zbor este identificarea și remedierea oricăror probleme ale echipamentului.",
-   "long": "Inspecția completă verifică aripa, motorul, suspantele, seleta și combustibilul, pentru a detecta defecte înainte de zbor. Verificarea doar a unui element sau a confortului nu este suficientă.",
+   "long": "Inspecția completă înainte de zbor identifică și remediază problemele echipamentului, înainte ca ele să devină accidente.",
    "answers": [
     {
      "text": "verificarea doar a nivelului de combustibil",
      "correct": false,
      "short": "",
-     "long": "Verificarea este incompletă.",
+     "long": "Combustibilul este o parte, dar inspecția completă include echipamentul.",
      "warn": ""
     },
     {
      "text": "asigurarea că aripa este curată",
      "correct": false,
      "short": "",
-     "long": "Curățenia nu este scopul principal.",
+     "long": "Curățenia aripii nu este scopul principal al inspecției.",
      "warn": ""
     },
     {
      "text": "ajustarea hamului pentru confort",
      "correct": false,
      "short": "",
-     "long": "Nu este scopul inspecției.",
+     "long": "Hamul se ajustează, dar nu este scopul principal al inspecției.",
      "warn": ""
     },
     {
      "text": "identificarea și remedierea oricăror probleme ale echipamentului înainte de zbor",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Inspecția completă identifică și remediază problemele.",
      "warn": ""
     }
    ]
@@ -3282,34 +3282,34 @@
    "number": "#92",
    "text": "805: În ce document găsiţi informaţii despre limitările de viteză?",
    "short": "Informații despre limitările de viteză se găsesc în manualul de exploatare și întreținere (documentația tehnică a aeronavei).",
-   "long": "Manualul aeronavei conține limitele de viteză, de greutate, de vânt și de altitudine. Contractul de asigurare, documentele de admisibilitate la zbor și site-ul aeroclubului nu sunt sursa tehnică principală.",
+   "long": "Limitările de viteză ale aeronavei sunt în manualul de exploatare și întreținere, parte a documentației tehnice a aeronavei.",
    "answers": [
     {
      "text": "în contractul de asigurare",
      "correct": false,
      "short": "",
-     "long": "Nu conține limitele tehnice.",
+     "long": "Contractul de asigurare nu conține limitările tehnice ale aeronavei.",
      "warn": ""
     },
     {
      "text": "în manualul de exploatare şi întreţinere (documentaţia tehnică a aeronavei)",
      "correct": true,
      "short": "În manualul de exploatare și întreținere (documentația tehnică a aeronavei).",
-     "long": "",
+     "long": "Corect. Manualul de exploatare și întreținere conține limitările.",
      "warn": ""
     },
     {
      "text": "în documentele de admisibilitate la zbor ale aeronavei",
      "correct": false,
      "short": "",
-     "long": "Acestea confirmă admisibilitatea, nu limitele tehnice.",
+     "long": "Documentele de admisibilitate la zbor atestă conformitatea, nu limitările de viteză ca sursă principală.",
      "warn": ""
     },
     {
      "text": "pe site-ul Aeroclubului Romaniei",
      "correct": false,
      "short": "Pe site-ul Aeroclubului României.",
-     "long": "Nu este sursa tehnică principală.",
+     "long": "Site-ul Aeroclubului nu este sursa tehnică a limitărilor aeronavei.",
      "warn": ""
     }
    ]
@@ -3318,34 +3318,34 @@
    "number": "#93",
    "text": "843: Ce trebuie să faceți dacă observați că un cablu de control este deteriorat?",
    "short": "Dacă observi că un cablu de control este deteriorat, oprești imediat zborul și înlocuiești cablul.",
-   "long": "Un cablu de comandă deteriorat poate ceda în zbor și poate duce la pierderea controlului. Zborul se oprește și cablul se înlocuiește înainte de următorul zbor.",
+   "long": "Un cablu de control deteriorat compromite controlul aripii. Zborul se oprește imediat și cablul se înlocuiește.",
    "answers": [
     {
      "text": "verificați toate cablurile de control pentru a identifica eventuale defecțiuni similare",
      "correct": false,
      "short": "",
-     "long": "Verificarea este utilă, dar după oprirea zborului.",
+     "long": "Verificarea celorlalte cabluri este bună după oprirea zborului, dar nu este primul pas în zbor.",
      "warn": ""
     },
     {
      "text": "evaluați gradul de uzură și decideți în funcție de gravitate",
      "correct": false,
      "short": "",
-     "long": "Un cablu deteriorat nu se evaluează în zbor.",
+     "long": "Evaluarea gradului de uzură în zbor nu este sigură. Zborul se oprește.",
      "warn": ""
     },
     {
      "text": "reduceți utilizarea comenzii respective pentru a preveni deteriorarea suplimentară",
      "correct": false,
      "short": "",
-     "long": "Nu este procedura sigură.",
+     "long": "Reducerea utilizării nu rezolvă controlul compromis. Zborul se oprește.",
      "warn": ""
     },
     {
      "text": "opriți imediat zborul și înlocuiți cablul deteriorat",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Zborul se oprește și cablul se înlocuiește.",
      "warn": ""
     }
    ]
@@ -3354,34 +3354,34 @@
    "number": "#94",
    "text": "877: Cum afectează unghiul de atac al aripii viteza de ascensiune?",
    "short": "Un unghi de atac mai mare poate crește viteza de ascensiune, dar și rezistența aerodinamică.",
-   "long": "Un unghi de atac mai mare crește portanța și, deci, rata de urcare, dar crește și rezistența. Trebuie menținut în limitele sigure, pentru a evita stallul.",
+   "long": "Un unghi de atac mai mare crește portanța și deci viteza de urcare, dar crește și rezistența, ceea ce limitează urcarea.",
    "answers": [
     {
      "text": "un unghi de atac mai mic reduce viteza de ascensiune",
      "correct": false,
      "short": "",
-     "long": "Efectul este mai complex, dar varianta corectă este cea cu unghiul mai mare.",
+     "long": "Un unghi de atac mai mic reduce portanța, deci și urcarea, dar nu este varianta completă a efectului.",
      "warn": ""
     },
     {
      "text": "unghiul de atac nu influențează viteza de ascensiune",
      "correct": false,
      "short": "",
-     "long": "Influențează.",
+     "long": "Unghiul de atac influențează viteza de urcare, deci afirmația este greșită.",
      "warn": ""
     },
     {
      "text": "unghiul de atac constant optimizează consumul de combustibil",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul corect.",
+     "long": "Unghiul constant nu optimizează consumul; el influențează urcarea prin portanță și rezistență.",
      "warn": ""
     },
     {
      "text": "un unghi de atac mai mare poate crește viteza de ascensiune, dar și rezistența aerodinamică",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Unghiul de atac mai mare crește urcarea, dar și rezistența.",
      "warn": ""
     }
    ]
@@ -3390,34 +3390,34 @@
    "number": "#95",
    "text": "811: La pierderea legăturii radio într-un spaţiu controlat pilotul va:",
    "short": "La pierderea legăturii radio într-un spațiu controlat, continui zborul până la cel mai apropiat aerodrom și, după aterizare, informezi telefonic organul de trafic.",
-   "long": "Procedura de pierdere a comunicațiilor în spațiu controlat cere continuarea zborului spre aerodromul cel mai apropiat și informarea organului de trafic după aterizare. Aterizarea de urgență sau întoarcerea nu sunt procedurile standard.",
+   "long": "La pierderea legăturii radio într-un spațiu controlat, pilotul continuă zborul conform procedurii, merge la cel mai apropiat aerodrom și informează după aterizare.",
    "answers": [
     {
      "text": "semnalizează în orice mod pierderea legăturii radio",
      "correct": false,
      "short": "",
-     "long": "Semnalizarea trebuie făcută conform procedurii.",
+     "long": "Pilotul semnalizează pierderea legăturii prin transponder (7600) și procedura standard, nu în orice mod.",
      "warn": ""
     },
     {
      "text": "aterizează de urgenţă pe cel mai apropiat teren",
      "correct": false,
      "short": "Aterizează de urgență pe cel mai apropiat teren.",
-     "long": "Nu este procedura standard.",
+     "long": "Aterizarea de urgență nu este necesară dacă se poate ajunge la un aerodrom.",
      "warn": ""
     },
     {
      "text": "continua zborul până la cel mai apropiat aerodrom şi după aterizare informează telefonic organul de trafic",
      "correct": true,
      "short": "Continuă zborul până la cel mai apropiat aerodrom și după aterizare informează telefonic organul de trafic.",
-     "long": "",
+     "long": "Corect în esență: continuă zborul spre cel mai apropiat aerodrom și informează după aterizare.",
      "warn": ""
     },
     {
      "text": "se întoarce de urgenţă la aerodromul de plecare",
      "correct": false,
      "short": "Se întoarce de urgență la aerodromul de plecare.",
-     "long": "Nu este procedura standard.",
+     "long": "Întoarcerea la plecare nu este procedura standard, dacă se poate ajunge la aerodromul cel mai apropiat.",
      "warn": ""
     }
    ]
@@ -3426,34 +3426,34 @@
    "number": "#96",
    "text": "844: Cum afectează un centru de greutate setat necorespunzător performanța zborului?",
    "short": "Un centru de greutate setat greșit poate face zborul instabil și dificil de controlat.",
-   "long": "Aceeași explicație ca la întrebarea 1 și 14: centrul de greutate determină stabilitatea și comportamentul la comenzi. Setarea greșită face zborul greu de controlat.",
+   "long": "Un centru de greutate prea în față sau prea în spate face zborul instabil și greu de controlat.",
    "answers": [
     {
      "text": "centrul de greutate poate influența unghiul de atac al aripii",
      "correct": false,
      "short": "",
-     "long": "Este un efect real, dar varianta corectă este instabilitatea.",
+     "long": "Centrul de greutate influențează unghiul de atac, dar efectul principal este instabilitatea.",
      "warn": ""
     },
     {
      "text": "poate face zborul instabil și dificil de controlat",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Un centru de greutate greșit face zborul instabil.",
      "warn": ""
     },
     {
      "text": "poate provoca oscilații nedorite în timpul manevrelor",
      "correct": false,
      "short": "",
-     "long": "Efect posibil, dar nu varianta principală.",
+     "long": "Oscilațiile pot apărea, dar efectul principal este instabilitatea și greutatea controlului.",
      "warn": ""
     },
     {
      "text": "poate genera vibrații excesive și disconfort pentru pilot",
      "correct": false,
      "short": "",
-     "long": "Nu este efectul principal.",
+     "long": "Vibrațiile nu sunt efectul principal al centrului de greutate greșit.",
      "warn": ""
     }
    ]
@@ -3462,34 +3462,34 @@
    "number": "#97",
    "text": "874: Cum influențează curenții ascendenți performanțele de zbor în timpul unui zbor de durată?",
    "short": "Curenții ascendenți pot prelungi durata zborului, prin furnizarea de portanță suplimentară.",
-   "long": "Într-un curent ascendent, aeronava câștigă altitudine fără să consume combustibil, ceea ce prelungește zborul. Curenții ascendenți nu reduc durata și nu afectează negativ stabilitatea, dacă sunt folosiți corect.",
+   "long": "Curenții ascendenți dau portanță suplimentară, deci pilotul poate zbura mai mult fără pierdere de altitudine.",
    "answers": [
     {
      "text": "curenții ascendenți pot prelungi durata zborului prin furnizarea de lift suplimentar",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Curenții ascendenți prelungesc zborul prin portanță suplimentară.",
      "warn": ""
     },
     {
      "text": "curenții ascendenți pot afecta negativ stabilitatea aripii",
      "correct": false,
      "short": "",
-     "long": "Pot afecta, dar nu este varianta principală.",
+     "long": "Curenții ascendenți nu afectează negativ stabilitatea în mod general, ci o pot influența prin turbulență.",
      "warn": ""
     },
     {
      "text": "curenții ascendenți nu influențează durata zborului",
      "correct": false,
      "short": "",
-     "long": "Influențează.",
+     "long": "Curenții ascendenți influențează durata zborului, deci afirmația este greșită.",
      "warn": ""
     },
     {
      "text": "curenții ascendenți reduc durata zborului",
      "correct": false,
      "short": "",
-     "long": "Opusul efectului.",
+     "long": "Curenții ascendenți nu reduc durata zborului, ci o pot prelungi.",
      "warn": ""
     }
    ]
@@ -3498,34 +3498,34 @@
    "number": "#98",
    "text": "822: Modificarea unghiului de incidență la o motoparapantă se poate face prin:",
    "short": "Unghiul de incidență se modifică prin sistemul de speed și prin trimere.",
-   "long": "Speed bar-ul și trimerele schimbă geometria aripii și unghiul de incidență. Frânarea și decelerarea motorului nu modifică geometria aripii în același mod.",
+   "long": "Unghiul de incidență se modifică cu sistemul speed (bara de accelerație) și cu trimmerele, care schimbă forma marginii de fugă.",
    "answers": [
     {
      "text": "nu este posibil",
      "correct": false,
      "short": "",
-     "long": "Este posibil.",
+     "long": "Modificarea este posibilă, prin speed și trimmere.",
      "warn": ""
     },
     {
      "text": "prin frânare puternică",
      "correct": false,
      "short": "",
-     "long": "Frânarea modifică alt parametru.",
+     "long": "Frânarea puternică nu modifică unghiul de incidență în mod controlat. Reduce viteza.",
      "warn": ""
     },
     {
      "text": "prin decelerarea motorului până la relanti",
      "correct": false,
      "short": "",
-     "long": "Nu modifică geometria aripii.",
+     "long": "Decelerarea motorului nu modifică unghiul de incidență al aripii.",
      "warn": ""
     },
     {
      "text": "prin sistemul de speed și prin trimere",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Sistemul speed și trimmerele modifică unghiul de incidență.",
      "warn": ""
     }
    ]
@@ -3534,34 +3534,34 @@
    "number": "#99",
    "text": "838: Ce ar trebui să faceți dacă observați că aripa nu se umflă corect în timpul decolării?",
    "short": "Dacă aripa nu se umflă corect în timpul decolării, anulezi decolarea și verifici aripa și echipamentul.",
-   "long": "Aripa care nu se umflă corect poate avea suspante încurcate, o deformare sau o problemă de echipament. Decolarea cu aripa în această stare este periculoasă.",
+   "long": "Aripa care nu se umflă corect la decolare nu zboară stabil. Decolarea se anulează și se verifică aripa și echipamentul.",
    "answers": [
     {
      "text": "anulați decolarea și verificați aripa și echipamentul",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Decolarea se anulează și se verifică aripa și echipamentul.",
      "warn": ""
     },
     {
      "text": "verificați configurația suspantelor și corectați eventualele încurcături",
      "correct": false,
      "short": "",
-     "long": "Este util, dar nu înainte de anularea decolării.",
+     "long": "Verificarea suspantelor este parte a inspecției, dar nu este răspunsul complet.",
      "warn": ""
     },
     {
      "text": "ajustați poziția de decolare și încercați din nou",
      "correct": false,
      "short": "",
-     "long": "Nu rezolvă problema.",
+     "long": "Ajustarea poziției de decolare nu rezolvă o aripă care nu se umflă.",
      "warn": ""
     },
     {
      "text": "evaluați direcția vântului și repetați procedura",
      "correct": false,
      "short": "",
-     "long": "Nu rezolvă problema.",
+     "long": "Direcția vântului este de verificat, dar nu rezolvă problema aripii.",
      "warn": ""
     }
    ]
@@ -3570,34 +3570,34 @@
    "number": "#100",
    "text": "845: Ce trebuie să faceți dacă observați un consum anormal de combustibil în timpul zborului?",
    "short": "Dacă observi un consum anormal de combustibil în zbor, aterizezi cât mai curând și verifici motorul și sistemul de alimentare.",
-   "long": "Consumul anormal poate indica o scurgere, un amestec greșit sau un defect al motorului. Trebuie aterizat și verificată cauza. Monitorizarea sau ajustarea amestecului în zbor nu rezolvă problema.",
+   "long": "Consumul anormal indică o scurgere, un amestec greșit sau un defect al motorului. Se aterizează, iar motorul și sistemul de alimentare se verifică.",
    "answers": [
     {
      "text": "analizați istoricul de mentenanță pentru a identifica posibile cauze",
      "correct": false,
      "short": "",
-     "long": "Este util, dar după aterizare.",
+     "long": "Istoricul de mentenanță este util după aterizare, dar măsura imediată este aterizarea.",
      "warn": ""
     },
     {
      "text": "ajustați amestecul aer-combustibil pentru a optimiza consumul",
      "correct": false,
      "short": "",
-     "long": "Nu rezolvă defectul.",
+     "long": "Ajustarea amestecului în zbor nu rezolvă problema.",
      "warn": ""
     },
     {
      "text": "monitorizați constant nivelul combustibilului și calculați rata de consum",
      "correct": false,
      "short": "",
-     "long": "Nu rezolvă problema.",
+     "long": "Monitorizarea nu este suficientă când consumul este anormal. Aterizarea este măsura corectă.",
      "warn": ""
     },
     {
      "text": "aterizați cât mai curând posibil și verificați motorul și sistemul de alimentare",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Aterizarea și verificarea motorului și a alimentării.",
      "warn": ""
     }
    ]
@@ -3606,34 +3606,34 @@
    "number": "#101",
    "text": "834: Ce trebuie să verificați înainte de a începe o decolare în condiții de vânt lateral?",
    "short": "Înainte de decolare în condiții de vânt lateral verifici direcția și intensitatea vântului.",
-   "long": "Vântul lateral influențează traiectul de decolare și capacitatea de a menține aripa aliniată. Verificarea direcției și intensității permite alegerea corectă a direcției de decolare.",
+   "long": "La decolare cu vânt lateral, pilotul verifică direcția și intensitatea vântului, pentru a alege corect direcția și a compensa deriva.",
    "answers": [
     {
      "text": "alinierea aripii cu direcția predominantă a vântului",
      "correct": false,
      "short": "",
-     "long": "Este parțial adevărat, dar varianta completă este verificarea direcției și intensității.",
+     "long": "Alinierea aripii este rezultatul, nu verificarea de bază. Se verifică vântul.",
      "warn": ""
     },
     {
      "text": "direcția și intensitatea vântului",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Direcția și intensitatea vântului se verifică.",
      "warn": ""
     },
     {
      "text": "echilibrul sarcinii pe fiecare parte a parapantei",
      "correct": false,
      "short": "",
-     "long": "Este util, dar nu varianta principală.",
+     "long": "Echilibrul sarcinii este important, dar nu este verificarea principală la vânt lateral.",
      "warn": ""
     },
     {
      "text": "configurația terenului și eventualele obstacole din direcția vântului",
      "correct": false,
      "short": "",
-     "long": "Este util, dar nu varianta principală.",
+     "long": "Terenul și obstacolele sunt de verificat, dar verificarea principală este vântul.",
      "warn": ""
     }
    ]
