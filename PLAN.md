@@ -21,7 +21,7 @@ un avertisment (`warn`) și explicația corectă.
 | Capitol | Întrebări | Stare |
 |---|---|---|
 | 01 Comunicații | 101 | făcut, cu 5 blocate (23, 32, 73, 81, 93): nu pot confirma din surse |
-| 02 Cunoașterea aeronavei / întreținere | 104 | nefăcut |
+| 02 Cunoașterea aeronavei / întreținere | 104 | făcut, cu 3 blocate (44, 81, 93) |
 | 03 Legislație | 105 | 1–105 făcute, cu 4 blocate (20, 58, 90, 105): lipsesc sursele |
 | 04 Meteorologie | 87 | nefăcut |
 | 05 Navigație | 94 | nefăcut |
@@ -52,7 +52,11 @@ un avertisment (`warn`) și explicația corectă.
        certificatului de operator radio, 5 ani nu e în docs), 73 (semnalul vizual de
        urgență), 81 (ce reglementare conține regulile de radiotelefonie), 93 (procedura
        când TWR nu răspunde)
-6. [ ] Capitol 02
+6. [x] Capitol 02 (lotul 1: Q1–35, lotul 2: Q36–70, lotul 3: Q71–104).
+       Blocate: 44 (ce faci la deformarea aripii: procedura exactă nu e în docs),
+       81 (întinderea suspantelor: procedura cu greutate de 18 kg nu e în docs),
+       93 (reglajul frânelor: procedura nu e în docs). Rămân cu textele vechi,
+       slabe, până găsim procedura sau o explicație pe care o pot susține.
 7. [ ] Capitol 04
 8. [ ] Capitol 05
 9. [ ] Capitol 06

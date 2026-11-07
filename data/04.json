@@ -6,34 +6,34 @@
    "number": "#1",
    "text": "228: Ce este vântul foehn?",
    "short": "Vântul foehn este o mișcare de aer care urcă pe un versant, apoi coboară pe partea cealaltă a abruptului, încălzindu-se și uscându-se.",
-   "long": "Aerul umed urcă pe versantul expus vântului, se răcește și lasă precipitații. Pe partea opusă coboară, iar prin comprimare se încălzește și devine uscat. Acesta este efectul de foehn, cunoscut ca vânt descendent cald și uscat pe versantul adăpostit.",
+   "long": "Vântul foehn este un vânt cald și uscat care apare pe versantul protejat (sub vânt) al unui munte. Aerul urcă pe versantul expus, se răcește, cade precipitații, apoi coboară pe versantul sub vânt și se încălzește prin compresie, devenind uscat.",
    "answers": [
     {
      "text": "este o mișcare de aer orizontală de-a lungul văilor",
      "correct": false,
      "short": "O mișcare de aer orizontală de-a lungul văilor.",
-     "long": "Aceasta descrie vântul de vale, nu foehnul.",
+     "long": "Mișcarea orizontală de-a lungul văilor este vântul de vale sau curentul canalizat, nu foehnul.",
      "warn": ""
     },
     {
      "text": "este o mișcare de aer ce coboară seara de pe crestele montane înalte",
      "correct": false,
      "short": "O mișcare de aer care coboară seara de pe crestele înalte.",
-     "long": "Aceasta descrie vântul catabatic, nu foehnul.",
+     "long": "Coborârea seara de pe crestele înalte este vântul catabatic, nu foehnul.",
      "warn": ""
     },
     {
      "text": "este o mișcare de aer ascendentă de-a lungul unui versant, după care își continuă mișcarea descensional, în partea cealaltă a abruptului",
      "correct": true,
      "short": "O mișcare de aer ascendentă de-a lungul unui versant, după care își continuă mișcarea descendent, în partea cealaltă a abruptului.",
-     "long": "Este descrierea corectă a foehnului.",
+     "long": "Corect. Aerul urcă pe un versant, își continuă mișcarea descendentă pe partea cealaltă și se încălzește, adică foehnul.",
      "warn": ""
     },
     {
      "text": "este o mișcare termică ce apare în văile înguste",
      "correct": false,
      "short": "O mișcare termică ce apare în văile înguste.",
-     "long": "Aceasta descrie un vânt termic local, nu foehnul.",
+     "long": "Mișcarea termică din văile înguste este alt fenomen, nu foehnul.",
      "warn": ""
     }
    ]
@@ -42,34 +42,34 @@
    "number": "#2",
    "text": "225: Temperatura la sol este de 20 de grade, care este temperatura probabilă la înălțimea de 2000 m?",
    "short": "Dacă temperatura la sol este de 20°C, la 2000 m temperatura probabilă este de aproximativ 8°C.",
-   "long": "În atmosfera standard, temperatura scade cu aproximativ 6,5°C la fiecare 1000 m. Pe 2000 m scade cu aproximativ 13°C, deci de la 20°C ajungem la aproximativ 7°C. Valoarea (8°C) este o estimare apropiată, fiindcă gradientul real variază.",
+   "long": "Temperatura scade cu circa 6,5°C la fiecare 1000 m în atmosfera standard. Pe 2000 m scade cu 13°C: de la 20°C ajungem la aproximativ 7–8°C.",
    "answers": [
     {
      "text": "8 grd. C",
      "correct": true,
      "short": "8°C.",
-     "long": "Este valoarea, o estimare apropiată de gradientul mediu.",
+     "long": "Corect. 20°C − 13°C = 7°C, valoarea 8°C este o estimare apropiată, fiindcă gradientul real variază.",
      "warn": ""
     },
     {
      "text": "25 grd. C",
      "correct": false,
      "short": "25°C.",
-     "long": "Temperatura scade cu altitudinea, nu crește.",
+     "long": "Temperatura crește, nu scade, cu altitudinea în troposferă.",
      "warn": ""
     },
     {
      "text": "20 grd. C",
      "correct": false,
      "short": "20°C.",
-     "long": "Temperatura nu rămâne constantă cu altitudinea.",
+     "long": "Temperatura rămâne la 20°C numai la sol. La 2000 m scade cu circa 13°C.",
      "warn": ""
     },
     {
      "text": "18 grd. C",
      "correct": false,
      "short": "18°C.",
-     "long": "Scăderea este mai mare decât 2°C pe 2000 m.",
+     "long": "18°C ar corespunde unei scăderi de doar 2°C, mult sub gradientul mediu de 6,5°C/1000 m.",
      "warn": ""
     }
    ]
@@ -78,34 +78,34 @@
    "number": "#3",
    "text": "284: Ce este nebulozitatea?",
    "short": "Nebulozitatea este gradul de acoperire a cerului cu nori, măsurat în optanți.",
-   "long": "Cerul se împarte mental în opt părți (octanți). Nebulozitatea indică câți octanți sunt acoperiți de nori. Nu măsoară viteza norilor, temperatura lor sau cantitatea de vapori.",
+   "long": "Nebulozitatea este gradul de acoperire a cerului cu nori, estimat în octanți (sferturi de cer, opt părți). Cerul senin are 0 octanți, cerul complet acoperit are 8.",
    "answers": [
     {
      "text": "gradul de acoperire al cerului cu nori, măsurat în octanți",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Nebulozitatea este acoperirea cerului cu nori, în octanți.",
      "warn": ""
     },
     {
      "text": "viteza cu care se deplasează norii",
      "correct": false,
      "short": "",
-     "long": "Aceasta nu este nebulozitatea.",
+     "long": "Viteza norilor este viteza de deplasare, nu nebulozitatea.",
      "warn": ""
     },
     {
      "text": "temperatura medie a norilor",
      "correct": false,
      "short": "",
-     "long": "Aceasta nu este nebulozitatea.",
+     "long": "Temperatura norilor nu definește nebulozitatea.",
      "warn": ""
     },
     {
      "text": "cantitatea de vapori de apă prezentă în atmosferă",
      "correct": false,
      "short": "",
-     "long": "Aceasta este umiditatea.",
+     "long": "Cantitatea de vapori de apă este umiditatea, nu nebulozitatea.",
      "warn": ""
     }
    ]
@@ -114,34 +114,34 @@
    "number": "#4",
    "text": "297: Care sunt valorile treptei barice?",
    "short": "Toate valorile pentru treapta barică sunt corecte.",
-   "long": "Treapta barică este distanța verticală la care presiunea scade cu 1 hPa (mb). La nivelul mării este de aproximativ 8,4 m, iar cu altitudinea crește, deci la altitudini mari sunt necesari mai mulți metri pentru aceeași scădere. Cele trei variante descriu aceste valori în funcție de altitudine.",
+   "long": "Treapta barică este variația de altitudine necesară pentru o scădere de 1 hPa. La nivelul mării este de circa 8 m, iar la altitudine mare crește: la 5500 m este circa 16 m, iar la 11 000 m circa 32 m. Toate variantele descriu corect aceste valori.",
    "answers": [
     {
      "text": "toate sunt corecte",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă, în acord cu variația treptei barice cu altitudinea.",
+     "long": "Corect. Cele trei valori sunt corecte: 8,4 m la nivelul mării, 32 m la 11 000 m, 16 m la 5500 m.",
      "warn": ""
     },
     {
      "text": "la nivelul mării, treapta barică este de aproximativ 8.4 metri pentru o variație a presiunii de 1 mb",
      "correct": false,
      "short": "La nivelul mării, treapta barică este de aproximativ 8,4 m pentru o variație a presiunii de 1 mb.",
-     "long": "Valoare corectă ca ordin de mărime.",
+     "long": "La nivelul mării treapta barică este de circa 8,4 m pentru 1 hPa. Valoarea este corectă.",
      "warn": ""
     },
     {
      "text": "la 11000 metri, este necesară o creștere de 32 metri pentru ca presiunea să scadă cu 1 mb",
      "correct": false,
      "short": "La 11 000 m, este necesară o creștere de 32 m pentru ca presiunea să scadă cu 1 mb.",
-     "long": "Valoare plauzibilă, în ordinul corect.",
+     "long": "La 11 000 m treapta barică este de circa 32 m pentru 1 hPa. Valoarea este corectă.",
      "warn": ""
     },
     {
      "text": "la 5500 metri, treapta barică necesită 16 metri pentru o scădere a presiunii de 1 mb",
      "correct": false,
      "short": "La 5500 m, treapta barică necesită 16 m pentru o scădere a presiunii de 1 mb.",
-     "long": "Valoare plauzibilă, în ordinul corect.",
+     "long": "La 5500 m treapta barică este de circa 16 m pentru 1 hPa. Valoarea este corectă.",
      "warn": ""
     }
    ]
@@ -150,34 +150,34 @@
    "number": "#5",
    "text": "282: Cum se formează ceața de radiație?",
    "short": "Ceața de radiație se formează prin condensarea vaporilor de apă când aerul se răcește noaptea, pe cer senin.",
-   "long": "Pe timp senin, solul se răcește prin radiație noaptea, răcind și aerul de deasupra. Când temperatura ajunge la punctul de rouă, vaporii condensează în ceață, de obicei în văi și pe terenuri joase. Cerul senin favorizează pierderea de căldură.",
+   "long": "Ceața de radiație se formează noaptea, pe cer senin și fără vânt. Solul se răcește prin radiație, iar aerul din strat se răcește sub punctul de rouă și vaporii condensează.",
    "answers": [
     {
      "text": "pe versanții munților în timpul nopții din cauza răcirii rapide a aerului",
      "correct": false,
      "short": "",
-     "long": "Ceața de radiație se formează mai ales pe terenuri joase și în văi.",
+     "long": "Ceața pe versanți este de obicei ceață de pantă sau nori, nu ceața de radiație care se formează pe sol plat.",
      "warn": ""
     },
     {
      "text": "în timpul verii, în zonele cu umiditate ridicată și temperaturi ridicate",
      "correct": false,
      "short": "",
-     "long": "Temperaturile ridicate nu favorizează ceața de radiație.",
+     "long": "Ceața de radiație nu se formează vara, în umiditate ridicată și temperaturi ridicate. Ea cere răcire.",
      "warn": ""
     },
     {
      "text": "din condensarea vaporilor de apă din aer în prezența unor temperaturi scăzute și a unui cer senin",
      "correct": true,
      "short": "",
-     "long": "Este descrierea corectă.",
+     "long": "Corect. Răcirea prin radiație pe cer senin, cu temperaturi scăzute, duce la condensarea vaporilor.",
      "warn": ""
     },
     {
      "text": "în zonele urbane poluate, ca urmare a condensării vaporilor de apă pe particulele poluante",
      "correct": false,
      "short": "",
-     "long": "Aceasta descrie ceața urbană, nu cea de radiație.",
+     "long": "Ceața urbană poluată este un tip separat, nu ceața de radiație.",
      "warn": ""
     }
    ]
@@ -186,34 +186,34 @@
    "number": "#6",
    "text": "222: Cu care tip de nori sunt asociate furtunile?",
    "short": "Furtunile sunt asociate cu norii de tip cumulonimbus.",
-   "long": "Cumulonimbus (CB) este norul vertical, mare, cu ascendențe puternice și descendențe, care produce fulgere, averse și rafale. Norii cirrus sunt înalți și subțiri, cumulus sunt norii de vreme bună, iar altocumulus sunt de altitudine medie.",
+   "long": "Furtunile și grindina se asociază cu norii cumulonimbus, care au dezvoltare verticală mare și curenți ascendenți puternici.",
    "answers": [
     {
      "text": "nori de tip Cumulonimbus",
      "correct": true,
      "short": "",
-     "long": "Este norul asociat furtunilor.",
+     "long": "Corect. Furtunile sunt asociate cu cumulonimbus.",
      "warn": ""
     },
     {
      "text": "nori de tip Cirus",
      "correct": false,
      "short": "Nori de tip cirrus.",
-     "long": "Sunt nori înalți, subțiri, de vreme relativ bună.",
+     "long": "Cirrus sunt nori înalți, fibroși, fără furtuni.",
      "warn": ""
     },
     {
      "text": "nori de tip Cumulus",
      "correct": false,
      "short": "",
-     "long": "Sunt norii de vreme bună, de dezvoltare verticală limitată.",
+     "long": "Cumulus sunt nori de vreme frumoasă, fără furtuni, dacă rămân mici. Furtunile sunt cumulonimbus.",
      "warn": ""
     },
     {
      "text": "nori de tip Altocumulus",
      "correct": false,
      "short": "",
-     "long": "Sunt nori de altitudine medie, fără furtuni.",
+     "long": "Altocumulus sunt nori de nivel mijlociu, fără furtuni.",
      "warn": ""
     }
    ]
@@ -222,34 +222,34 @@
    "number": "#7",
    "text": "286: Vântul anabatic poate fi întâlnit:",
    "short": "Vântul anabatic apare pe versanții munților în timpul zilei, când soarele încălzește pantele.",
-   "long": "Pantele însorite se încălzesc, aerul din apropiere se încălzește și urcă pe versant. Acesta este vântul anabatic, opusul vântului catabatic, care coboară noaptea. Briza de mare este un fenomen de coastă, nu se referă la munții în sine.",
+   "long": "Vântul anabatic urcă pe versanții muntelui în timpul zilei, când soarele încălzește pantele și aerul de lângă ele devine mai ușor.",
    "answers": [
     {
      "text": "doar în zonele polare, ca urmare a contrastului mare de temperatură",
      "correct": false,
      "short": "",
-     "long": "Nu este specific zonelor polare.",
+     "long": "Vântul anabatic nu este limitat la zonele polare.",
      "warn": ""
     },
     {
      "text": "în zonele de coastă, formând brize de mare",
      "correct": false,
      "short": "",
-     "long": "Este brizele de coastă, un fenomen diferit.",
+     "long": "Brizele de mare sunt un fenomen de coastă, dar vântul anabatic este cel de pe versanții muntelui.",
      "warn": ""
     },
     {
      "text": "în zonele deșertice, unde este generat de încălzirea rapidă a suprafeței",
      "correct": false,
      "short": "",
-     "long": "Nu este descrierea anabaticului.",
+     "long": "Vântul anabatic nu este tipic deșerturilor, ci al versanților de munte.",
      "warn": ""
     },
     {
      "text": "pe versanții munților în timpul zilei, când soarele încălzește pantele",
      "correct": true,
      "short": "",
-     "long": "Este descrierea corectă.",
+     "long": "Corect. Vântul anabatic urcă pe versanții muntelui ziua, când soarele îi încălzește.",
      "warn": ""
     }
    ]
@@ -258,34 +258,34 @@
    "number": "#8",
    "text": "279: Când se utilizează CAVOK?",
    "short": "CAVOK se utilizează când vizibilitatea orizontală este de 10 km sau mai mare.",
-   "long": "CAVOK (Ceiling And Visibility OK) înseamnă vizibilitate de cel puțin 10 km, fără nori sub 1500 m (5000 ft) sau sub altitudinea minimă de sector, fără cumulonimbus și fără fenomene meteo semnificative. Este un cod prescurtat pentru condiții bune.",
+   "long": "CAVOK (ceiling and visibility OK) se folosește când vizibilitatea este de cel puțin 10 km, nu există nori sub 1500 m și nu sunt fenomene meteo importante.",
    "answers": [
     {
      "text": "CAVOK se utilizează când există nori Cumulonimbus sub 1500 m",
      "correct": false,
      "short": "Când există nori cumulonimbus sub 1500 m.",
-     "long": "Cumulonimbusul exclude CAVOK.",
+     "long": "CAVOK nu se folosește la nori cumulonimbus sub 1500 m. Cumulonimbusul exclude CAVOK.",
      "warn": ""
     },
     {
      "text": "CAVOK se utilizează când vizibilitatea orizontală este sub 10 km",
      "correct": false,
      "short": "Când vizibilitatea orizontală este sub 10 km.",
-     "long": "Vizibilitatea trebuie să fie de cel puțin 10 km.",
+     "long": "Vizibilitatea sub 10 km exclude CAVOK.",
      "warn": ""
     },
     {
      "text": "CAVOK se utilizează când fenomenele meteorologice sunt instabile",
      "correct": false,
      "short": "Când fenomenele meteorologice sunt instabile.",
-     "long": "Fenomenele instabile exclud CAVOK.",
+     "long": "Fenomenele instabile exclud CAVOK, dar criteriul precis este vizibilitatea de 10 km și lipsa norilor sub 1500 m.",
      "warn": ""
     },
     {
      "text": "CAVOK se utilizează când vizibilitatea orizontală este 10 km sau mai mult",
      "correct": true,
      "short": "Când vizibilitatea orizontală este 10 km sau mai mult.",
-     "long": "Este definiția corectă (împreună cu celelalte condiții).",
+     "long": "Corect. CAVOK este folosit când vizibilitatea este de 10 km sau mai mult.",
      "warn": ""
     }
    ]
@@ -294,34 +294,34 @@
    "number": "#9",
    "text": "320: Care dintre urmatoarele fenomene pot duce la o activitate orajoasă?",
    "short": "Frontul rece poate produce activitate orajoasă.",
-   "long": "Frontul rece împinge aer cald în sus, rapid și abrupt, ceea ce poate forma nori cumulonimbus și furtuni. Frontul cald produce nori stratiformi și precipitații mai uniforme, frontul oclus combină caracteristicile celor două, iar șaua barică are vreme în general calmă.",
+   "long": "Frontul rece împinge aer cald în sus, rapid și instabil, cu nori cumulonimbus, averse și activitate orajoasă.",
    "answers": [
     {
      "text": "front cald",
      "correct": false,
      "short": "",
-     "long": "Frontul cald dă de obicei precipitații mai uniforme, fără activitate orajoasă intensă.",
+     "long": "Frontul cald produce nori stratiformi și ploaie continuă, mai rar activitate orajoasă intensă.",
      "warn": ""
     },
     {
      "text": "front rece",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Frontul rece produce activitate orajoasă.",
      "warn": ""
     },
     {
      "text": "șaua barică",
      "correct": false,
      "short": "",
-     "long": "Șaua are de obicei vreme calmă.",
+     "long": "Șaua barică are vreme calmă și instabilitate redusă, nu activitate orajoasă tipică.",
      "warn": ""
     },
     {
      "text": "front oclus",
      "correct": false,
      "short": "",
-     "long": "Frontul oclus poate avea precipitații, dar nu este varianta corectă.",
+     "long": "Frontul oclus combină caracteristici ale frontului cald și rece, dar activitatea orajoasă este tipică frontului rece.",
      "warn": ""
     }
    ]
@@ -330,34 +330,34 @@
    "number": "#10",
    "text": "281: Unde se produce ceața frontală?",
    "short": "Ceața frontală apare la trecerea fronturilor, într-o zonă îngustă de-a lungul frontului, în masa de aer rece.",
-   "long": "Când aerul cald și umed se ridică peste aerul rece din fața sau de-a lungul frontului, răcirea și umiditatea formează ceață sau nori joși. Este un fenomen legat de front, nu de apă, poluare sau relief.",
+   "long": "Ceața frontală apare la trecerea fronturilor, într-o zonă îngustă de-a lungul frontului, unde aerul cald și umed întâlnește aerul rece.",
    "answers": [
     {
      "text": "pe suprafețele de apă, cum ar fi lacuri și râuri, din cauza diferențelor de temperatură dintre apă și aer",
      "correct": false,
      "short": "",
-     "long": "Aceasta descrie alt tip de ceață.",
+     "long": "Ceața deasupra apelor este ceața de evaporare sau de advecție, nu ceața frontală.",
      "warn": ""
     },
     {
      "text": "în zonele urbane datorită poluării și a variațiilor mari de temperatură între zi și noapte",
      "correct": false,
      "short": "",
-     "long": "Aceasta descrie ceața urbană.",
+     "long": "Ceața urbană datorată poluării nu este ceața frontală.",
      "warn": ""
     },
     {
      "text": "la trecerea fronturilor sau în regiunile cu cea mai mare activitate ciclonică, într-o zonă îngustă de-a lungul frontului, în masa de aer rece separată de front",
      "correct": true,
      "short": "",
-     "long": "Este descrierea corectă.",
+     "long": "Corect. Ceața frontală se formează la fronturi, într-o zonă îngustă.",
      "warn": ""
     },
     {
      "text": "doar în zonele montane, unde condițiile de temperatură și umiditate favorizează formarea ceții",
      "correct": false,
      "short": "",
-     "long": "Ceața frontală nu este limitată la munți.",
+     "long": "Ceața montană nu este ceața frontală; apare pe relief, nu la fronturi.",
      "warn": ""
     }
    ]
@@ -366,34 +366,34 @@
    "number": "#11",
    "text": "294: Ce este amplitudinea termică?",
    "short": "Amplitudinea termică este diferența dintre temperatura maximă și cea minimă dintr-un loc, pe parcursul a 24 de ore.",
-   "long": "Amplitudinea termică zilnică arată cât de mult variază temperatura în decursul unei zile. Este mare în deșert și mică pe mare. Nu este media anuală sau variația anotimpurilor.",
+   "long": "Amplitudinea termică este diferența dintre temperatura maximă și cea minimă dintr-un anumit loc, de obicei într-o zi.",
    "answers": [
     {
      "text": "amplitudinea termică reprezintă variația temperaturii medii anuale",
      "correct": false,
      "short": "Variația temperaturii medii anuale.",
-     "long": "Aceasta nu este amplitudinea termică.",
+     "long": "Variația temperaturii medii anuale nu este amplitudinea termică zilnică.",
      "warn": ""
     },
     {
      "text": "amplitudinea termică descrie variația temperaturii pe parcursul a 24 de ore",
      "correct": true,
      "short": "Variația temperaturii pe parcursul a 24 de ore.",
-     "long": "Este descrierea corectă.",
+     "long": "Corect. Amplitudinea descrie variația temperaturii pe parcursul a 24 de ore.",
      "warn": ""
     },
     {
      "text": "amplitudinea termică măsoară schimbările de temperatură pe durata anotimpurilor",
      "correct": false,
      "short": "Schimbările de temperatură pe durata anotimpurilor.",
-     "long": "Aceasta nu este amplitudinea termică zilnică.",
+     "long": "Schimbările pe durata anotimpurilor nu sunt amplitudinea termică zilnică.",
      "warn": ""
     },
     {
      "text": "amplitudinea termică este diferența dintre temperatura maximă și cea minimă într-un anumit loc",
      "correct": false,
      "short": "Diferența dintre temperatura maximă și cea minimă într-un anumit loc.",
-     "long": "Este definiția corectă, fiind echivalentă cu varianta.",
+     "long": "Este definiția corectă: diferența dintre temperatura maximă și cea minimă dintr-un loc, de regulă într-o zi. Varianta B spune același lucru.",
      "warn": ""
     }
    ]
@@ -402,34 +402,34 @@
    "number": "#12",
    "text": "306: Ce caracteristici are o masă de aer instabilă?",
    "short": "Într-o masă de aer instabilă apar turbulențe, vizibilitate bună și nori cumuliformi.",
-   "long": "În aerul instabil, ascendențele sunt puternice și dezvoltă nori verticali, cumuliformi. Vizibilitatea rămâne bună, dar turbulența este intensă. Nori stratiformi și nimbostratus apar în aer stabil, cu vizibilitate redusă.",
+   "long": "Aerul instabil se ridică ușor, formează turbulență, nori cumuliformi și de regulă vizibilitate bună între averse.",
    "answers": [
     {
      "text": "turbulenţe, vizibilitate bună şi nori Cumuliformi",
      "correct": true,
      "short": "Turbulențe, vizibilitate bună și nori cumuliformi.",
-     "long": "Este descrierea corectă a aerului instabil.",
+     "long": "Corect. Turbulență, vizibilitate bună și nori cumuliformi caracterizează aerul instabil.",
      "warn": ""
     },
     {
      "text": "turbulenţe şi vizibilitate slabă",
      "correct": false,
      "short": "Turbulențe și vizibilitate slabă.",
-     "long": "Vizibilitatea slabă este mai tipică aerului stabil.",
+     "long": "Vizibilitatea slabă este caracteristica aerului stabil, nu a celui instabil.",
      "warn": ""
     },
     {
      "text": "nori Stratiformi",
      "correct": false,
      "short": "",
-     "long": "Sunt tipici aerului stabil.",
+     "long": "Norii stratiformi sunt caracteristici ai aerului stabil.",
      "warn": ""
     },
     {
      "text": "nori Nimbostratus",
      "correct": false,
      "short": "",
-     "long": "Sunt tipici aerului stabil, cu precipitații continue.",
+     "long": "Nimbostratus sunt nori de aer stabil, cu precipitații continue.",
      "warn": ""
     }
    ]
@@ -438,34 +438,34 @@
    "number": "#13",
    "text": "256: Vântul laminar este:",
    "short": "Vântul laminar este vântul care își păstrează direcția și intensitatea.",
-   "long": "Vântul laminar curge în straturi paralele, fără turbulență. Este vântul ideal pentru zbor, deoarece este previzibil. Vântul care variază din cauza obstacolelor sau al convecției este altceva.",
+   "long": "Vântul laminar păstrează direcția și intensitatea, deoarece nu este perturbat de obstacole sau de convecție.",
    "answers": [
     {
      "text": "vântul care ia naştere prin convecţia aerului",
      "correct": false,
      "short": "Vântul care ia naștere prin convecția aerului.",
-     "long": "Acesta este vântul convectiv, cu turbulență.",
+     "long": "Vântul născut prin convecție este cel turbulent, nu cel laminar.",
      "warn": ""
     },
     {
      "text": "vântul care îşi păstrează direcţia şi intensitatea",
      "correct": true,
      "short": "Vântul care își păstrează direcția și intensitatea.",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Vântul laminar își păstrează direcția și intensitatea.",
      "warn": ""
     },
     {
      "text": "vântul format în urma diferențelor de temperatură diurnă și nocturnă ale uscatului respectiv a apelor",
      "correct": false,
      "short": "Vântul format în urma diferențelor de temperatură diurnă și nocturnă.",
-     "long": "Acesta este vântul termic local.",
+     "long": "Vântul format din diferența de temperatură uscat–apă este brizele, nu vântul laminar.",
      "warn": ""
     },
     {
      "text": "vântul care suferă variaţii datorită obstacolelor",
      "correct": false,
      "short": "Vântul care suferă variații datorită obstacolelor.",
-     "long": "Acesta este vântul turbulent.",
+     "long": "Vântul care suferă variații din obstacole este turbulent, nu laminar.",
      "warn": ""
     }
    ]
@@ -474,34 +474,34 @@
    "number": "#14",
    "text": "288: Fohn-ul este:",
    "short": "Foehn-ul este vântul descendent, cald și uscat, care apare pe versantul adăpostit al unui munte.",
-   "long": "Aerul urcă pe versantul expus, pierde umiditatea prin precipitații, apoi coboară pe versantul adăpostit, unde se încălzește prin comprimare. Rezultatul este un vânt cald și uscat, descendent.",
+   "long": "Foehnul este vântul descendent și încălzit care apare pe versantul sub vânt al unui munte, după ce aerul și-a pierdut umezeala pe versantul expus.",
    "answers": [
     {
      "text": "vântul descendent care apare pe versantul protejat al unui munte",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Foehnul este vântul descendent de pe versantul protejat.",
      "warn": ""
     },
     {
      "text": "un tip de vânt care aduce precipitații abundente și scăderea temperaturii",
      "correct": false,
      "short": "",
-     "long": "Foehn-ul aduce precipitații pe versantul expus, dar nu scăderea temperaturii pe cel adăpostit.",
+     "long": "Foehnul aduce precipitații pe versantul expus, dar pe versantul sub vânt este uscat și cald.",
      "warn": ""
     },
     {
      "text": "un vânt cald și uscat care se formează în zonele de câmpie",
      "correct": false,
      "short": "",
-     "long": "Foehn-ul se formează pe versanții munților.",
+     "long": "Foehnul apare pe relief, nu în zonele de câmpie.",
      "warn": ""
     },
     {
      "text": "un vânt care suflă doar în anumite regiuni montane și este caracterizat de temperaturi joase",
      "correct": false,
      "short": "",
-     "long": "Foehn-ul este cald, nu rece.",
+     "long": "Foehnul este cald, nu rece.",
      "warn": ""
     }
    ]
@@ -510,34 +510,34 @@
    "number": "#15",
    "text": "255: Nivelul de condensare reprezintă:",
    "short": "Nivelul de condensare este înălțimea la care umiditatea relativă devine 100%.",
-   "long": "Când aerul umed se ridică, se răcește. La nivelul de condensare, aerul ajunge la saturație, iar vaporii de apă încep să condenseze și să formeze baza norului. Este înălțimea la care apare baza norilor de convecție.",
+   "long": "Nivelul de condensare este înălțimea la care aerul ascendent ajunge la saturație (umiditate relativă 100%) și începe să se formeze nori.",
    "answers": [
     {
      "text": "înălţimea până la care urcă aerul uscat",
      "correct": false,
      "short": "Înălțimea până la care urcă aerul uscat.",
-     "long": "Aerul uscat nu condensează; nivelul se referă la aerul umed.",
+     "long": "Aerul uscat nu atinge nivelul de condensare, fiindcă nu se satură.",
      "warn": ""
     },
     {
      "text": "înălţimea corespunzătoare vârfului norilor",
      "correct": false,
      "short": "Înălțimea corespunzătoare vârfului norilor.",
-     "long": "Acesta este vârful norului, nu nivelul de condensare.",
+     "long": "Vârful norilor nu este nivelul de condensare, ci baza lor.",
      "warn": ""
     },
     {
      "text": "înălțimea la care vaporii de apă devin cristale de gheață",
      "correct": false,
      "short": "",
-     "long": "Aceasta este descrierea altui fenomen.",
+     "long": "Trecerea vaporilor în cristale de gheață este alt proces, nu nivelul de condensare.",
      "warn": ""
     },
     {
      "text": "înălţimea la care umiditatea relativă devine 100%",
      "correct": true,
      "short": "Înălțimea la care umiditatea relativă devine 100%.",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Nivelul de condensare este înălțimea la care umiditatea relativă ajunge la 100%.",
      "warn": ""
     }
    ]
@@ -546,34 +546,34 @@
    "number": "#16",
    "text": "217: În planificarea unui zbor de distanță la altitudini mari trebuie să ținem cont de:",
    "short": "La un zbor de distanță, la altitudini mari, trebuie să luăm în calcul vântul la sol și în altitudine, fenomenele locale, imaginile din satelit, prognoza și restricțiile zilei.",
-   "long": "Planificarea presupune analiza completă a condițiilor: vânt la diferite niveluri, efecte locale (vânt catabatic, de vale, curenți termici și dinamici), imagini satelitare și prognoza. Varianta care le cuprinde pe toate este corectă.",
+   "long": "La zborul de distanță la altitudine trebuie luate în calcul vântul la sol și în altitudine, precum și fenomenele locale (vânt catabatic, vânt de vale, curenți ascendenți), care pot schimba drumul și siguranța.",
    "answers": [
     {
      "text": "nu este recomandat piloților de parapantă cu motor",
      "correct": false,
      "short": "",
-     "long": "Nu este o regulă general valabilă.",
+     "long": "Zborul cu motoparapanta nu este interzis de regulă. Planificarea corectă este cerința.",
      "warn": ""
     },
     {
      "text": "dacă zborul este peste munți, este interzis",
      "correct": false,
      "short": "",
-     "long": "Zborul peste munți nu este interzis, dar cere planificare.",
+     "long": "Zborul peste munți nu este interzis ca regulă. Trebuie planificat cu atenție la vânt și la relief.",
      "warn": ""
     },
     {
      "text": "viteza vântului la sol, viteza vântului la înăltime, fenomene locale (vânt catabatic, vânt de vale, curenți ascendenți termici și dinamici), imagini din satelit, prognoza zilei și restricțiile zilnice",
      "correct": true,
      "short": "Viteza vântului la sol, la înălțime, fenomene locale, imagini din satelit, prognoza zilei și restricțiile zilnice.",
-     "long": "Este varianta corectă, care cuprinde toate elementele de planificare.",
+     "long": "Corect. Planificarea ia în considerare vântul la sol și în altitudine și fenomenele locale.",
      "warn": ""
     },
     {
      "text": "trebuie să avem o parapantă EN C cu performanțe adecvate acestui tip de zbor",
      "correct": false,
      "short": "",
-     "long": "Alegerea aripii este separată de analiza condițiilor.",
+     "long": "Clasa de parapantă nu este criteriul principal al planificării. Contează condițiile meteo și relieful.",
      "warn": ""
     }
    ]
@@ -582,34 +582,34 @@
    "number": "#17",
    "text": "292: Ce este umiditatea relativă?",
    "short": "Umiditatea relativă este raportul dintre umiditatea absolută și umiditatea absolută maximă la aceeași temperatură.",
-   "long": "Umiditatea relativă arată cât de aproape este aerul de saturație. Aerul cald poate reține mai mult vapor, deci aceeași cantitate de vapor are umiditate relativă mai mică la temperatură mai mare. Este procentul de saturație, exprimat în procente.",
+   "long": "Umiditatea relativă este raportul dintre cantitatea efectivă de vapori de apă din aer și cantitatea maximă pe care aerul o poate conține la aceeași temperatură, exprimat în procente.",
    "answers": [
     {
      "text": "umiditatea relativă indică nivelul de confort uman în raport cu umiditatea aerului",
      "correct": false,
      "short": "Nivelul de confort uman în raport cu umiditatea aerului.",
-     "long": "Confortul este o consecință, nu definiția.",
+     "long": "Umiditatea relativă nu este un indicator de confort, ci o mărime fizică.",
      "warn": ""
     },
     {
      "text": "umiditatea relativă reprezintă cantitatea de apă din aer raportată la temperatura actuală",
      "correct": false,
      "short": "Cantitatea de apă din aer raportată la temperatura actuală.",
-     "long": "Cantitatea de apă este umiditatea absolută.",
+     "long": "Cantitatea de apă raportată la temperatura actuală nu este definiția umidității relative. Lipsește raportul cu saturația.",
      "warn": ""
     },
     {
      "text": "umiditatea relativă măsoară procentul de saturație a aerului cu vapori de apă",
      "correct": false,
      "short": "Procentul de saturație a aerului cu vapori de apă.",
-     "long": "Este apropiat de definiție, dar varianta completă este cea cu raportul.",
+     "long": "Este aproape corect: umiditatea relativă este un procent din saturație. Varianta D o exprimă complet, ca raport dintre umiditatea absolută și umiditatea absolută maximă la aceeași temperatură.",
      "warn": ""
     },
     {
      "text": "umiditatea relativă este raportul dintre umiditatea absolută și umiditatea absolută maximă la aceeași temperatură",
      "correct": true,
      "short": "Raportul dintre umiditatea absolută și umiditatea absolută maximă la aceeași temperatură.",
-     "long": "Este definiția corectă.",
+     "long": "Raportul dintre umiditatea absolută și umiditatea absolută maximă este formularea corectă: umiditatea relativă este raportul dintre cele două mărimi, la aceeași temperatură.",
      "warn": ""
     }
    ]
@@ -618,34 +618,34 @@
    "number": "#18",
    "text": "257: Efectul Venturi se manifestă prin:",
    "short": "Efectul Venturi se manifestă prin accelerarea vântului atunci când văile se îngustează.",
-   "long": "Când aerul trece printr-o zonă mai îngustă, viteza crește, pentru că același volum trebuie să treacă prin secțiune mai mică. Acesta este efectul Venturi, folosit și în exemplul văilor înguste, unde vântul devine mai puternic.",
+   "long": "Efectul Venturi: când valea se îngustează, același debit de aer trece printr-o secțiune mai mică și vântul se accelerează.",
    "answers": [
     {
      "text": "accelerarea vântului atunci când văile se îngustează",
      "correct": true,
      "short": "",
-     "long": "Este efectul corect.",
+     "long": "Corect. Vântul se accelerează când valea se îngustează.",
      "warn": ""
     },
     {
      "text": "o întrerupere a vântului la nivelul inferior al văii",
      "correct": false,
      "short": "",
-     "long": "Aceasta nu este efectul Venturi.",
+     "long": "Întreruperea vântului nu este efectul Venturi, ci un efect de adăpost.",
      "warn": ""
     },
     {
      "text": "este o mișcare de aer ascendentă de-a lungul unui versant, după care își continuă mișcarea descensional, în partea cealaltă a abruptului",
      "correct": false,
      "short": "O mișcare de aer ascendentă de-a lungul unui versant, după care își continuă mișcarea descendent.",
-     "long": "Aceasta este descrierea foehnului.",
+     "long": "Descrierea este a vântului de pantă cu mișcare ascendentă și descendentă, nu a efectului Venturi.",
      "warn": ""
     },
     {
      "text": "dezorganizarea fileurilor de aer atunci când văile se restrâng",
      "correct": false,
      "short": "",
-     "long": "Restrângerea accelerează vântul, nu îl dezorganizează ca efect principal.",
+     "long": "Dezorganizarea curenților este efectul turbulent, nu accelerarea prin Venturi.",
      "warn": ""
     }
    ]
@@ -654,34 +654,34 @@
    "number": "#19",
    "text": "304: Care este procentul volumetric al gazelor în atmosferă?",
    "short": "Azotul constituie 78,09% din volumul gazelor din aerul uscat.",
-   "long": "Aerul uscat este format din azot (78,09%), oxigen (20,95%), argon (0,93%) și alte gaze în cantități mici. Oxigenul nu este 30%, argonul nu este 0,93% din alt total, iar azotul nu este 50%.",
+   "long": "În aerul uscat, azotul reprezintă 78,09% din volum, oxigenul 20,95%, argonul 0,93%.",
    "answers": [
     {
      "text": "procentul volumetric al azotului în aerul uscat este de aproximativ 50%",
      "correct": false,
      "short": "",
-     "long": "Azotul are aproximativ 78%.",
+     "long": "Azotul nu reprezintă 50%, ci 78,09% din volum.",
      "warn": ""
     },
     {
      "text": "oxigenul reprezintă aproximativ 30% din volumul gazelor din aerul uscat",
      "correct": false,
      "short": "",
-     "long": "Oxigenul are aproximativ 21%.",
+     "long": "Oxigenul nu reprezintă 30%, ci 20,95% din volumul gazelor din aerul uscat.",
      "warn": ""
     },
     {
      "text": "argonul constituie circa 0.93% din volumul gazelor din aerul uscat",
      "correct": false,
      "short": "Argonul constituie circa 0,93% din volumul gazelor din aerul uscat.",
-     "long": "Este o valoare corectă, dar nu este răspunsul corect, deoarece întrebarea privește azotul.",
+     "long": "Argonul este circa 0,93%, dar varianta nu este cea cerută, fiindcă întrebarea cere azotul.",
      "warn": ""
     },
     {
      "text": "azotul constituie 78.09% din volumul gazelor din aerul uscat",
      "correct": true,
      "short": "Azotul constituie 78,09% din volumul gazelor din aerul uscat.",
-     "long": "Este valoarea corectă.",
+     "long": "Corect. Azotul este 78,09% din volumul gazelor din aerul uscat.",
      "warn": ""
     }
    ]
@@ -690,34 +690,34 @@
    "number": "#20",
    "text": "215: Ceața de advecție se formează?",
    "short": "Ceața de advecție apare când o masă de aer cald și umed se deplasează peste o suprafață rece.",
-   "long": "Aerul cald și umed, adus de vânt pe o suprafață mai rece (sol sau apă), se răcește până la punctul de rouă și formează ceață. Este diferită de ceața de radiație, care se formează local, noaptea, pe cer senin.",
+   "long": "Ceața de advecție apare când o masă de aer cald și umed se deplasează peste o suprafață rece, care îl răcește sub punctul de rouă.",
    "answers": [
     {
      "text": "ceața de advecție se produce prin răcirea aerului cald în contact direct cu o suprafață rece",
      "correct": false,
      "short": "Se produce prin răcirea aerului cald în contact direct cu o suprafață rece.",
-     "long": "Aceasta este o formulare apropiată, dar varianta corectă este cea cu deplasarea masei de aer.",
+     "long": "Răcirea aerului cald la contactul cu suprafața rece este mecanismul, dar definiția corectă include deplasarea masei de aer.",
      "warn": ""
     },
     {
      "text": "ceața de advecție se dezvoltă în condiții de umiditate scăzută și temperaturi ridicate",
      "correct": false,
      "short": "Se dezvoltă în condiții de umiditate scăzută și temperaturi ridicate.",
-     "long": "Umiditatea scăzută nu formează ceață.",
+     "long": "Umiditatea scăzută și temperaturile ridicate nu produc ceața de advecție.",
      "warn": ""
     },
     {
      "text": "ceața de advecție apare la deplasarea unei mase de aer cald și umed peste o suprafață rece a pământului sau a apei",
      "correct": true,
      "short": "Apare la deplasarea unei mase de aer cald și umed peste o suprafață rece a pământului sau a apei.",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Masa de aer cald și umed se deplasează peste o suprafață rece.",
      "warn": ""
     },
     {
      "text": "ceața de advecție se formează prin ridicarea aerului cald peste aerul rece la nivelul solului",
      "correct": false,
      "short": "Se formează prin ridicarea aerului cald peste aerul rece la nivelul solului.",
-     "long": "Aceasta descrie alt proces.",
+     "long": "Ridicarea aerului cald peste cel rece produce alt fenomen (fronturi, nori), nu ceața de advecție.",
      "warn": ""
     }
    ]
@@ -726,34 +726,34 @@
    "number": "#21",
    "text": "226: O perdea de copaci în faţa vântului provoacă:",
    "short": "O perdea de copaci în fața vântului produce turbulențe și umbre de vânt în spatele copacilor.",
-   "long": "Copacii frânează aerul din față, dar în spatele lor apar vârtejuri și turbulențe, numite umbre de vânt, care pot fi periculoase la aterizare. Turbulența apare în special sub vânt, nu în partea din față.",
+   "long": "Vântul trece peste copaci și se formează turbulențe și umbre de vânt în spatele lor, sub vânt, unde aerul este agitat și nu curge laminar.",
    "answers": [
     {
      "text": "nu provoacă turbulenţe",
      "correct": false,
      "short": "Nu provoacă turbulențe.",
-     "long": "Provoacă turbulențe.",
+     "long": "Copacii produc turbulențe. Nu este adevărat că nu provoacă.",
      "warn": ""
     },
     {
      "text": "creșteri în intensitate ale mișcării masei de aer",
      "correct": false,
      "short": "",
-     "long": "Vântul este frânat, nu accelerat.",
+     "long": "Vântul nu crește în intensitate din cauza copacilor. Se reduce și se turbulează.",
      "warn": ""
     },
     {
      "text": "turbulenţe în partea vântului",
      "correct": false,
      "short": "Turbulențe în partea vântului.",
-     "long": "Turbulența apare mai ales sub vânt.",
+     "long": "Turbulențele se formează în spatele perdelei, sub vânt, nu în fața ei.",
      "warn": ""
     },
     {
      "text": "turbulenţe şi “umbre de vânt” în spatele copacilor, sub vânt",
      "correct": true,
      "short": "Turbulențe și umbre de vânt în spatele copacilor, sub vânt.",
-     "long": "Este descrierea corectă.",
+     "long": "Corect. Turbulențe și umbre de vânt apar în spatele copacilor, sub vânt.",
      "warn": ""
     }
    ]
@@ -798,34 +798,34 @@
    "number": "#23",
    "text": "315: Cantitatea de vapori de apă pe care aerul o poate reține depinde de:",
    "short": "Cantitatea de vapori de apă pe care aerul o poate reține depinde de temperatura aerului.",
-   "long": "Aerul cald poate reține mult mai mult vapor decât aerul rece. De aceea, când aerul se răcește, vaporii în exces condensează. Temperatura punctului de rouă și sursa apei sunt mărimi diferite.",
+   "long": "Cantitatea maximă de vapori de apă pe care aerul o poate reține crește cu temperatura aerului. De aceea aerul cald poate conține mai multă umiditate.",
    "answers": [
     {
      "text": "temperatura punctului de rouă",
      "correct": false,
      "short": "",
-     "long": "Punctul de rouă este o consecință a umidității, nu factorul care determină capacitatea.",
+     "long": "Temperatura punctului de rouă arată când aerul se saturează, nu cât poate reține aerul.",
      "warn": ""
     },
     {
      "text": "temperatura aerului",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Capacitatea de a reține vapori depinde de temperatura aerului.",
      "warn": ""
     },
     {
      "text": "sursa din care se evaporă apa",
      "correct": false,
      "short": "",
-     "long": "Sursa nu determină capacitatea de reținere.",
+     "long": "Sursa apei nu determină capacitatea aerului de a reține vapori.",
      "warn": ""
     },
     {
      "text": "stabilitatea aerului",
      "correct": false,
      "short": "",
-     "long": "Stabilitatea nu determină capacitatea de reținere.",
+     "long": "Stabilitatea aerului nu determină cât vapor poate reține.",
      "warn": ""
     }
    ]
@@ -834,34 +834,34 @@
    "number": "#24",
    "text": "314: Vântul care suflă spre vârful unui obstacol orografic, pe timp de zi, datorită încălzirii regiunilor joase ale acestuia, se numește:",
    "short": "Vântul care suflă spre vârful unui obstacol pe timp de zi, datorită încălzirii versantului, se numește vânt anabatic.",
-   "long": "Ziua, versantul se încălzește și aerul din apropiere urcă. Acesta este vântul anabatic. Vântul catabatic este opusul, care coboară noaptea. Vântul de contrapantă și cel geostrofic sunt alte concepte.",
+   "long": "Vântul anabatic urcă pe versanții muntelui ziua, când aerul de lângă pantă se încălzește.",
    "answers": [
     {
      "text": "vânt catabatic",
      "correct": false,
      "short": "",
-     "long": "Coboară de pe versant, noaptea.",
+     "long": "Vântul catabatic coboară pe pante, noaptea.",
      "warn": ""
     },
     {
      "text": "vânt de contrapantă",
      "correct": false,
      "short": "",
-     "long": "Nu este denumirea vântului descris.",
+     "long": "Vântul de contrapantă nu este denumirea vântului care urcă pe versant ziua.",
      "warn": ""
     },
     {
      "text": "vânt anabatic",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Vântul anabatic urcă spre vârf ziua, din încălzire.",
      "warn": ""
     },
     {
      "text": "vânt geostrofic",
      "correct": false,
      "short": "",
-     "long": "Este vântul paralel cu izobarele, la altitudine.",
+     "long": "Vântul geostrofic este vântul din regiunile libere, paralel cu izobarele, nu cel de pe munte.",
      "warn": ""
     }
    ]
@@ -870,34 +870,34 @@
    "number": "#25",
    "text": "268: O perdea de copaci în faţa vântului provoacă:",
    "short": "O perdea de copaci în fața vântului produce turbulențe și umbre de vânt în spatele copacilor.",
-   "long": "Aceeași explicație ca la întrebarea 21: turbulențele apar sub vânt, în spatele copacilor, nu în față.",
+   "long": "Perdeaua de copaci produce turbulențe și umbre de vânt în spatele ei, sub vânt, unde aerul este agitat.",
    "answers": [
     {
      "text": "turbulențele sunt neglijabile, deoarece frunzele copacilor atenuează viteza vântului",
      "correct": false,
      "short": "Turbulențele sunt neglijabile, deoarece frunzele atenuează viteza vântului.",
-     "long": "Turbulența este semnificativă.",
+     "long": "Turbulențele nu sunt neglijabile. Frunzele nu atenuează suficient, iar în spate se formează turbulență.",
      "warn": ""
     },
     {
      "text": "turbulenţe şi “umbre de vânt” în spatele copacilor, sub vânt",
      "correct": true,
      "short": "Turbulențe și umbre de vânt în spatele copacilor, sub vânt.",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Turbulențe și umbre de vânt sunt în spatele copacilor, sub vânt.",
      "warn": ""
     },
     {
      "text": "turbulenţe în partea vântului",
      "correct": false,
      "short": "Turbulențe în partea vântului.",
-     "long": "Turbulența apare sub vânt.",
+     "long": "Turbulențele nu se produc în partea din față a vântului.",
      "warn": ""
     },
     {
      "text": "nu provoacă turbulenţe",
      "correct": false,
      "short": "Nu provoacă turbulențe.",
-     "long": "Provoacă turbulențe.",
+     "long": "Copacii produc turbulențe, deci afirmația că nu provoacă este greșită.",
      "warn": ""
     }
    ]
@@ -906,34 +906,34 @@
    "number": "#26",
    "text": "270: Puteţi întâlni turbulenţa de forfecare:",
    "short": "Turbulența de forfecare apare când două mase de aer au direcții și caracteristici diferite.",
-   "long": "Forfecarea (wind shear) este schimbarea bruscă a vitezei sau direcției vântului pe o distanță scurtă. Apare la limita dintre două mase de aer diferite. Lățirea izobarelor, inversiunea sau decolarea altei aeronave nu sunt cauzele principale.",
+   "long": "Forfecarea vântului (wind shear) apare la limita dintre două mase de aer cu direcții și viteze diferite. Pe acest strat aeronava poate fi împinsă brusc.",
    "answers": [
     {
      "text": "într-o zonă în care izobarele se lărgesc",
      "correct": false,
      "short": "",
-     "long": "Lărgirea izobarelor înseamnă vânt slab, nu forfecare.",
+     "long": "Izobarele care se lărgesc indică vânt mai slab, nu forfecare.",
      "warn": ""
     },
     {
      "text": "când apare un strat de inversiune",
      "correct": false,
      "short": "",
-     "long": "Inversiunea poate contribui, dar nu definește forfecarea.",
+     "long": "Inversiunea poate fi asociată cu forfecare, dar definiția corectă este limita dintre două mase de aer diferite.",
      "warn": ""
     },
     {
      "text": "atunci când o altă aeronavă mai mare decolează înaintea Dvs.",
      "correct": false,
      "short": "",
-     "long": "Acesta este turbulența de siaj, nu forfecarea.",
+     "long": "Turbulența de siaj de la o aeronavă mare este alt fenomen.",
      "warn": ""
     },
     {
      "text": "când două mase de aer au direcţii şi caracteristici diferite",
      "correct": true,
      "short": "Când două mase de aer au direcții și caracteristici diferite.",
-     "long": "Este varianta corectă.",
+     "long": "Corect. Forfecarea apare când două mase de aer au direcții și caracteristici diferite.",
      "warn": ""
     }
    ]
@@ -942,34 +942,34 @@
    "number": "#27",
    "text": "293: Ce este umiditatea absolută?",
    "short": "Umiditatea absolută este cantitatea de vapori de apă pe unitatea de volum de aer.",
-   "long": "Umiditatea absolută se exprimă în g/m³ și arată câți grame de vapori sunt într-un metru cub de aer. Nu este procentul de apă din aer, nici raportul dintre apă și aer.",
+   "long": "Umiditatea absolută este cantitatea de vapori de apă dintr-un volum dat de aer, exprimată de regulă în g/m³.",
    "answers": [
     {
      "text": "umiditatea absolută măsoară umiditatea relativă a aerului la o temperatură constantă",
      "correct": false,
      "short": "",
-     "long": "Aceasta este umiditatea relativă.",
+     "long": "Umiditatea absolută nu este umiditatea relativă măsurată la temperatură constantă.",
      "warn": ""
     },
     {
      "text": "umiditatea absolută reprezintă raportul dintre cantitatea de apă și aer la o temperatură dată",
      "correct": false,
      "short": "",
-     "long": "Este o formulare apropiată, dar varianta corectă este cantitatea pe unitatea de volum.",
+     "long": "Raportul dintre apă și aer nu este umiditatea absolută. Se exprimă ca masă de vapori pe volum.",
      "warn": ""
     },
     {
      "text": "umiditatea absolută este cantitatea de vapori de apă pe unitatea de volum de aer",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Umiditatea absolută este cantitatea de vapori pe unitatea de volum.",
      "warn": ""
     },
     {
      "text": "umiditatea absolută indică procentul de apă din compoziția totală a aerului",
      "correct": false,
      "short": "",
-     "long": "Acesta nu este definiția umidității absolute.",
+     "long": "Procentul de apă din compoziția totală este alt fel de exprimare, nu umiditatea absolută.",
      "warn": ""
     }
    ]
@@ -978,34 +978,34 @@
    "number": "#28",
    "text": "253: Frontul atmosferic este:",
    "short": "Frontul atmosferic este zona de contact între două mase de aer cu caracter termic diferit.",
-   "long": "La front se întâlnesc două mase de aer diferite ca temperatură și umiditate. Frontul este limita dintre ele, iar la trecerea lui apar schimbări de vreme. Nu este doar o linie de nori sau limita dintre ploaie și vreme bună.",
+   "long": "Frontul este zona de separare între două mase de aer diferite din punct de vedere al temperaturii și umidității.",
    "answers": [
     {
      "text": "o formațiune de nori care indică trecerea de la un front cald la unul rece",
      "correct": false,
      "short": "",
-     "long": "Frontul nu este doar o formațiune de nori.",
+     "long": "Norii sunt efectul frontului, nu frontul însuși.",
      "warn": ""
     },
     {
      "text": "zona de demarcaţie între ploaie şi timp frumos",
      "correct": false,
      "short": "Zona de demarcație între ploaie și timp frumos.",
-     "long": "Aceasta este o descriere parțială, nu definiția.",
+     "long": "Demarcația dintre ploaie și timp frumos este o descriere parțială, nu definiția frontului.",
      "warn": ""
     },
     {
      "text": "linia de nori care apare când se răceşte vremea",
      "correct": false,
      "short": "Linia de nori care apare când se răcește vremea.",
-     "long": "Frontul nu este definit doar de nori.",
+     "long": "Linia de nori nu definește frontul. Frontul este limita dintre mase de aer.",
      "warn": ""
     },
     {
      "text": "zona de contact între două mase de aer cu caracter termic diferit",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Frontul este zona de contact dintre două mase de aer cu caracter termic diferit.",
      "warn": ""
     }
    ]
@@ -1050,34 +1050,34 @@
    "number": "#30",
    "text": "219: Avem în față un relief muntos cu spații puține de aterizare:",
    "short": "În fața unui relief muntos cu puține spații de aterizare zburăm cu un con de siguranță, care permite aterizarea într-o zonă înainte sau după munți.",
-   "long": "Conul de siguranță este zona din care pilotul poate ajunge la un loc de aterizare în caz de urgență. În relief muntos, trebuie păstrat un con de siguranță, nu zboruri la altitudine mică prin văi sau în direcția respectivă.",
+   "long": "În relief muntos, cu puține locuri de aterizare, pilotul zboară cu un con de siguranță, adică cu zone de aterizare posibile în față sau în spatele muntelui, la o distanță ce permite planarea.",
    "answers": [
     {
      "text": "zburăm peste munți cu atentie și înălțime mică, să putem ateriza rapid în caz că se intensifică vântul",
      "correct": false,
      "short": "Zburăm peste munți cu atenție și înălțime mică, să putem ateriza rapid în caz că se intensifică vântul.",
-     "long": "Zborul la altitudine mică peste munți este periculos.",
+     "long": "Zborul la înălțime mică peste munți este periculos, mai ales când vântul se intensifică.",
      "warn": ""
     },
     {
      "text": "nu zburăm în direcția respectivă",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă; se poate zbura cu planificare.",
+     "long": "Evitarea direcției este o opțiune, dar nu este singura. Zborul cu con de siguranță permite planificarea.",
      "warn": ""
     },
     {
      "text": "zburăm cu con de siguranță care ne permite să aterizăm în caz de urgență într-o zonă anterioară munților sau după ei",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Conul de siguranță asigură zone de aterizare pentru urgență.",
      "warn": ""
     },
     {
      "text": "zburăm prin văi la înalțime mică",
      "correct": false,
      "short": "Zburăm prin văi la înălțime mică.",
-     "long": "Zborul prin văi la înălțime mică este periculos.",
+     "long": "Zborul prin văi la înălțime mică este periculos, din cauza turbulenței și a vântului canalizat.",
      "warn": ""
     }
    ]
@@ -1086,34 +1086,34 @@
    "number": "#31",
    "text": "260: Vântul de vale produs în zonele de munte se mai numește:",
    "short": "Vântul de vale produs în zonele de munte se mai numește vânt catabatic.",
-   "long": "Noaptea, aerul de pe versanți se răcește și coboară spre vale. Acest vânt descendent se numește catabatic. Briza și vântul anabatic au sensul opus sau sunt fenomene diferite.",
+   "long": "Vântul de vale este vântul catabatic, care coboară pe pante și pe văi noaptea, rece și greu.",
    "answers": [
     {
      "text": "vânt catabatic",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Vântul de vale, care coboară de pe pante, se numește catabatic.",
      "warn": ""
     },
     {
      "text": "briză",
      "correct": false,
      "short": "",
-     "long": "Briza este un fenomen de coastă sau de lac, nu vântul de munte.",
+     "long": "Briza este un fenomen de coastă sau de vale, dar vântul de coborâre se numește catabatic.",
      "warn": ""
     },
     {
      "text": "undă orografică",
      "correct": false,
      "short": "",
-     "long": "Este un fenomen de undă la munte, nu vântul de vale.",
+     "long": "Unda orografică este alt fenomen, de după munte, nu vântul de vale.",
      "warn": ""
     },
     {
      "text": "vânt anabatic",
      "correct": false,
      "short": "",
-     "long": "Anabaticul urcă pe versant, pe timp de zi.",
+     "long": "Vântul anabatic urcă, nu coboară. Vântul de vale este catabatic.",
      "warn": ""
     }
    ]
@@ -1122,34 +1122,34 @@
    "number": "#32",
    "text": "290: Conform legii lui Buys Ballot, dacă deriva este spre dreapta, ne îndreptăm înspre o zonă cu presiune:",
    "short": "Conform legii lui Buys Ballot, dacă deriva este spre dreapta, ne îndreptăm spre o zonă cu presiune scăzută.",
-   "long": "Legea lui Buys Ballot (emisfera nordică): stând cu vântul în spate, presiunea scăzută se află în stânga. Varianta corectă indică presiunea scăzută ca zonă spre care se îndreaptă deriva spre dreapta, în conformitate cu această regulă.",
+   "long": "Legea lui Buys Ballot: în emisfera nordică, cu vântul în spate, presiunea scăzută este în stânga. Dacă deriva este spre dreapta, ne îndreptăm spre presiune scăzută.",
    "answers": [
     {
      "text": "constantă",
      "correct": false,
      "short": "",
-     "long": "Presiunea constantă nu definește direcția de deriva.",
+     "long": "Presiunea constantă nu este indicată de deriva spre dreapta.",
      "warn": ""
     },
     {
      "text": "înaltă",
      "correct": false,
      "short": "",
-     "long": "Presiunea înaltă este în partea opusă, conform legii.",
+     "long": "Presiunea înaltă este în dreapta dacă vântul e în spate, deci deriva spre dreapta indică presiune scăzută.",
      "warn": ""
     },
     {
      "text": "scazută",
      "correct": true,
      "short": "Scăzută.",
-     "long": "",
+     "long": "Corect. Deriva spre dreapta indică presiune scăzută (legea lui Buys Ballot).",
      "warn": ""
     },
     {
      "text": "variabilă",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta definită de lege.",
+     "long": "Presiunea variabilă nu este indicată de deriva spre dreapta.",
      "warn": ""
     }
    ]
@@ -1158,34 +1158,34 @@
    "number": "#33",
    "text": "264: Ce reprezintă înălţimea bazei (plafonul) norului?",
    "short": "Înălțimea bazei norului (plafonul) este distanța de la suprafața solului până la baza norului.",
-   "long": "Plafonul este înălțimea cea mai joasă la care norii acoperă mai mult de jumătate din cer. Este important pentru zbor, deoarece limitează altitudinea și vizibilitatea. Vârful norului este altă mărime.",
+   "long": "Înălțimea bazei norului (plafonul) este distanța de la sol până la baza norului cea mai de jos.",
    "answers": [
     {
      "text": "distanţa de la suprafaţa solului până la baza norului",
      "correct": true,
      "short": "Distanța de la suprafața solului până la baza norului.",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Plafonul este distanța de la sol până la baza norului.",
      "warn": ""
     },
     {
      "text": "distanța de la motoparapantă și până la baza norului",
      "correct": false,
      "short": "",
-     "long": "Plafonul se măsoară de la sol, nu de la aeronavă.",
+     "long": "Distanța de la motoparapantă până la bază nu este plafonul, care se măsoară de la sol.",
      "warn": ""
     },
     {
      "text": "distanţa de la baza la vârful norului",
      "correct": false,
      "short": "Distanța de la baza la vârful norului.",
-     "long": "Aceasta este grosimea norului.",
+     "long": "Grosimea norului, de la bază la vârf, nu este plafonul.",
      "warn": ""
     },
     {
      "text": "partea cea mai înaltă a norului",
      "correct": false,
      "short": "",
-     "long": "Aceasta este vârful norului.",
+     "long": "Partea cea mai înaltă a norului nu este plafonul.",
      "warn": ""
     }
    ]
@@ -1194,34 +1194,34 @@
    "number": "#34",
    "text": "309: Care este viteza aproximativă a unui vânt de 20 de noduri, exprimată în m/s?",
    "short": "Un vânt de 20 de noduri este aproximativ 10 m/s.",
-   "long": "1 nod este 0,514 m/s, deci 20 de noduri înseamnă aproximativ 10,3 m/s. Varianta corectă este 10 m/s. Verifică conversia când planifici un zbor.",
+   "long": "Un nod este 0,514 m/s. Pentru 20 de noduri: 20 × 0,514 = 10,3 m/s, adică aproximativ 10 m/s.",
    "answers": [
     {
      "text": "10 m/s",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă, aproximativ.",
+     "long": "Corect. 20 noduri ≈ 10 m/s.",
      "warn": ""
     },
     {
      "text": "15 m/s",
      "correct": false,
      "short": "",
-     "long": "Este prea mult pentru 20 de noduri.",
+     "long": "15 m/s ar fi circa 29 noduri, nu 20.",
      "warn": ""
     },
     {
      "text": "12 m/s",
      "correct": false,
      "short": "",
-     "long": "Este puțin peste valoarea corectă.",
+     "long": "12 m/s ar fi circa 23 noduri, nu 20.",
      "warn": ""
     },
     {
      "text": "20 m/s",
      "correct": false,
      "short": "",
-     "long": "Ar fi 20 m/s, adică aproximativ 39 de noduri.",
+     "long": "20 m/s ar fi circa 39 noduri, nu 20.",
      "warn": ""
     }
    ]
@@ -1266,34 +1266,34 @@
    "number": "#36",
    "text": "302: Care sunt proprietățile atmosferei ISA?",
    "short": "În atmosfera standard internațională (ISA), presiunea la nivelul mării este 1013,25 mb, iar temperatura este +15°C.",
-   "long": "ISA este o atmosferă de referință, cu valori standard: presiune 1013,25 hPa, temperatură 15°C la nivelul mării, scădere de temperatură cu altitudinea și densitate de 1,225 kg/m³ la nivelul mării. Celelalte variante contrazic aceste valori.",
+   "long": "Atmosfera standard internațională (ISA) are presiunea la nivelul mării de 1013,25 hPa (mb) și temperatura de 15°C la sol.",
    "answers": [
     {
      "text": "în atmosfera ISA, presiunea la nivelul mării este de 1013.25 mb și temperatura este de +15°C",
      "correct": true,
      "short": "Umiditatea în atmosfera ISA crește proporțional cu altitudinea.",
-     "long": "Umiditatea nu crește cu altitudinea în ISA.",
+     "long": "Corect. ISA: 1013,25 hPa și +15°C la nivelul mării.",
      "warn": ""
     },
     {
      "text": "umiditatea în atmosfera ISA crește proporțional cu altitudinea",
      "correct": false,
      "short": "În atmosfera ISA, presiunea la nivelul mării este de 1013,25 mb, iar temperatura este de +15°C.",
-     "long": "Este varianta corectă.",
+     "long": "În ISA umiditatea nu crește cu altitudinea. Atmosfera standard nu descrie umiditatea reală.",
      "warn": ""
     },
     {
      "text": "temperatura atmosferei ISA rămâne constantă de la nivelul mării până la 11 km altitudine",
      "correct": false,
      "short": "Temperatura în ISA rămâne constantă de la nivelul mării până la 11 km.",
-     "long": "În ISA temperatura scade cu altitudinea.",
+     "long": "În ISA temperatura scade cu altitudinea (6,5°C/1000 m) până la tropopauză, nu rămâne constantă până la 11 km.",
      "warn": ""
     },
     {
      "text": "atmosfera ISA are o densitate constantă la toate altitudinile",
      "correct": false,
      "short": "",
-     "long": "Densitatea scade cu altitudinea.",
+     "long": "În ISA densitatea scade cu altitudinea. Nu este constantă.",
      "warn": ""
     }
    ]
