@@ -776,7 +776,7 @@
      "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
-     "long": "Corect. Decolarea cu vânt de spate peste 20 km/h nu este recomandată.",
+     "long": "## Cum se formează\nVântul de spate suflă din spatele pilotului, deci viteza aeronavei față de sol este mai mare decât viteza față de aer.\n\n## De ce este periculos\nAripa are nevoie de viteza față de aer pentru portanță, nu de viteza față de sol. La decolare cu vânt de spate, pilotul are nevoie de o distanță mai mare față de sol pentru a ajunge la viteza de zbor, iar panta de urcare față de sol scade. Pe un teren cu obstacole sau pe o pantă în sus, aceasta poate face decolarea imposibilă.",
      "warn": ""
     },
     {
@@ -2858,7 +2858,7 @@
      "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
-     "long": "Corect. Termicele puternice cresc turbulența și riscul de colaps.",
+     "long": "## Cum se formează\nÎncălzirea solului ziua produce termice: coloane de aer cald care urcă. Termicele puternice au curenți ascendenți intenși la mijloc și curenți descendenți la margini.\n\n## De ce este periculos\nTrecerea bruscă dintr-un curent ascendent într-unul descendent poate duce la turbulență severă. La ieșirea dintr-un termic puternic, aripa poate primi o rafală de curent descendent și poate intra în colaps frontal sau asimetric.",
      "warn": ""
     },
     {
