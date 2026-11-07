@@ -392,7 +392,7 @@
     {
      "text": "44,72 km/h (aplicăm teorema lui Pitagora pentru a calcula viteza rezultantă)",
      "correct": true,
-     "short": "44,72 km/h.",
+     "short": "",
      "long": "Corect. Vectorii sunt perpendiculari, deci viteza rezultantă este √(40² + 20²) ≈ 44,72 km/h.",
      "warn": ""
     }
@@ -1206,7 +1206,7 @@
     {
      "text": "0º",
      "correct": false,
-     "short": "0°.",
+     "short": "",
      "long": "Nordul este 0°, nu este direcția spre B.",
      "warn": ""
     },
@@ -1328,7 +1328,7 @@
     {
      "text": "modificăm traiectul asftel încât să zburăm peste nor chiar înălțimea acestuia depășește 3200m",
      "correct": false,
-     "short": "Modificăm traiectul astfel încât să zburăm peste nor, chiar dacă înălțimea acestuia depășește 3200 m.",
+     "short": "",
      "long": "Zborul peste nor este periculos, deoarece cumulonimbusul se întinde pe înălțimi mari și are curenți puternici.",
      "warn": ""
     }
@@ -1890,7 +1890,7 @@
     {
      "text": "ne întoarceam pe traseul de pe care am venit",
      "correct": false,
-     "short": "Ne întoarcem pe traseul de pe care am venit.",
+     "short": "",
      "long": "Întoarcerea pe traseu nu rezolvă plafonul, dacă vremea s-a acoperit și pe acolo.",
      "warn": ""
     },
@@ -2516,7 +2516,7 @@
     {
      "text": "Întreținând o viteză constantă la sol",
      "correct": false,
-     "short": "Menținând o viteză constantă la sol.",
+     "short": "",
      "long": "Viteza constantă la sol nu permite estimarea vântului.",
      "warn": ""
     }
@@ -2538,7 +2538,7 @@
     {
      "text": "0 grade",
      "correct": false,
-     "short": "0°.",
+     "short": "",
      "long": "0° nu este corect: busola indică o diferență de 15°.",
      "warn": ""
     },
@@ -2711,7 +2711,7 @@
     {
      "text": "0 grade",
      "correct": false,
-     "short": "0°.",
+     "short": "",
      "long": "0° nu corespunde: busola arată 10° diferență.",
      "warn": ""
     },
@@ -3056,7 +3056,7 @@
     {
      "text": "Este interzis să zburăm la aceasta înălțime cu exceptie de procedura de aterizare si decolare",
      "correct": true,
-     "short": "Este interzis să zburăm la această înălțime, cu excepția procedurii de aterizare și decolare.",
+     "short": "",
      "long": "Corect. Zborul la această înălțime este interzis, cu excepția decolării și aterizării.",
      "warn": ""
     }
@@ -3157,7 +3157,7 @@
     {
      "text": "educe viteza la sol la 30 km/h",
      "correct": true,
-     "short": "Reduce viteza la sol la 30 km/h.",
+     "short": "",
      "long": "Corect. 40 − 10 = 30 km/h.",
      "warn": ""
     },

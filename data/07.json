@@ -875,7 +875,7 @@
     {
      "text": "se zboare maxim 15 minute",
      "correct": false,
-     "short": "Se zboară maxim 15 minute.",
+     "short": "",
      "long": "Limita de 15 minute nu este regula. Zborul pe frig nu permite alcool.",
      "warn": ""
     },
@@ -1674,7 +1674,7 @@
     {
      "text": "Crește motivația și performanța în zbor",
      "correct": false,
-     "short": "Cresc motivația și performanța în zbor.",
+     "short": "",
      "long": "Problemele nu cresc motivația și performanța. Le scad.",
      "warn": ""
     },
@@ -2711,28 +2711,28 @@
     {
      "text": "5000m",
      "correct": false,
-     "short": "5000 m.",
+     "short": "",
      "long": "5000 m este o altitudine la care hipoxia este sigur prezentă, dar întrebarea cere pragul de la care apare.",
      "warn": ""
     },
     {
      "text": "1000m",
      "correct": false,
-     "short": "1000 m.",
+     "short": "",
      "long": "1000 m este prea jos pentru hipoxie semnificativă.",
      "warn": ""
     },
     {
      "text": "3000m",
      "correct": true,
-     "short": "3000 m.",
+     "short": "",
      "long": "Corect. Hipoxia poate apărea de la circa 3000 m.",
      "warn": ""
     },
     {
      "text": "6000m",
      "correct": false,
-     "short": "6000 m.",
+     "short": "",
      "long": "6000 m este mult peste pragul de la care apare hipoxia.",
      "warn": ""
     }
@@ -2747,28 +2747,28 @@
     {
      "text": "În situația aceasta nu trebuie să fie mișcată până la sosirea salvării",
      "correct": true,
-     "short": "În poziție șezândă.",
+     "short": "",
      "long": "Corect. Victima nu se mișcă până la sosirea salvării.",
      "warn": ""
     },
     {
      "text": "În poziție șezândă",
      "correct": false,
-     "short": "Orizontal, cu fața în sus.",
+     "short": "",
      "long": "Poziția șezândă poate agrava leziunea.",
      "warn": ""
     },
     {
      "text": "Orizontal, cu fața în sus",
      "correct": false,
-     "short": "În poziție laterală.",
+     "short": "",
      "long": "Poziția orizontală cu fața în sus implică mișcarea victimei, deci este greșită.",
      "warn": ""
     },
     {
      "text": "În poziție laterală",
      "correct": false,
-     "short": "În situația aceasta nu trebuie să fie mișcată până la sosirea salvării.",
+     "short": "",
      "long": "Poziția laterală poate agrava leziunea coloanei.",
      "warn": ""
     }
@@ -2891,14 +2891,14 @@
     {
      "text": "Prin antrenamente repetitive și simulări ale scenariilor de zbor",
      "correct": true,
-     "short": "Prin consumul de suplimente nutritive.",
+     "short": "",
      "long": "Corect. Antrenamentul repetat și scenariile îmbunătățesc anticiparea.",
      "warn": ""
     },
     {
      "text": "Prin consumul de suplimente nutritive",
      "correct": false,
-     "short": "Prin antrenamente repetitive și simulări ale scenariilor de zbor.",
+     "short": "",
      "long": "Suplimentele nu îmbunătățesc direct anticiparea.",
      "warn": ""
     },
@@ -3107,21 +3107,21 @@
     {
      "text": "Transformă reacțiile pilotului în automatism și reduce efortul analitic și decizional",
      "correct": true,
-     "short": "Scade nivelul de încredere în abilitățile proprii.",
+     "short": "",
      "long": "Corect. Antrenamentul repetat transformă reacțiile în automatism.",
      "warn": ""
     },
     {
      "text": "Scade nivelul de încredere în abilitățile proprii",
      "correct": false,
-     "short": "Crește timpul necesar pentru reacții în situații de urgență.",
+     "short": "",
      "long": "Antrenamentul crește încrederea, nu o scade.",
      "warn": ""
     },
     {
      "text": "Crește timpul necesar pentru reacții în situații de urgență",
      "correct": false,
-     "short": "Transformă reacțiile pilotului în automatism și reduce efortul analitic și decizional.",
+     "short": "",
      "long": "Antrenamentul scurtează timpul de reacție, nu îl crește.",
      "warn": ""
     },
@@ -3575,7 +3575,7 @@
     {
      "text": "Pierderea senzitivității cililor din cochlee",
      "correct": true,
-     "short": "Pierderea senzitivității celulelor ciliate din cohlee.",
+     "short": "",
      "long": "Corect. Zgomotul distruge celulele ciliate din cohlee.",
      "warn": ""
     },
@@ -3935,28 +3935,28 @@
     {
      "text": "Intârzierea reflexelor, reducerea capacității de decizie și creșterea oboselii",
      "correct": true,
-     "short": "Creșterea vigilenței și a clarității mentale.",
+     "short": "",
      "long": "Corect. Încetinesc reflexele, afectează decizia și cresc oboseala.",
      "warn": ""
     },
     {
      "text": "Creșterea vigilenței și a clarității mentale",
      "correct": false,
-     "short": "Îmbunătățirea capacității de concentrare și a timpului de reacție.",
+     "short": "",
      "long": "Drogurile nu cresc vigilența. O scad.",
      "warn": ""
     },
     {
      "text": "Îmbunătățirea capacității de concentrare și a timpului de reacție",
      "correct": false,
-     "short": "Reducerea stresului și a anxietății în timpul zborului.",
+     "short": "",
      "long": "Drogurile nu îmbunătățesc concentrarea și timpul de reacție.",
      "warn": ""
     },
     {
      "text": "Reducerea stresului și a anxietății în timpul zborului",
      "correct": false,
-     "short": "Întârzierea reflexelor, reducerea capacității de decizie și creșterea oboselii.",
+     "short": "",
      "long": "Drogurile nu reduc stresul în zbor în mod sigur.",
      "warn": ""
     }

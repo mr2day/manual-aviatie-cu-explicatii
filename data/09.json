@@ -313,7 +313,7 @@
     {
      "text": "cu atât se diminueză înclinaţia",
      "correct": false,
-     "short": "Cu atât se diminuează înclinația.",
+     "short": "",
      "long": "Înclinația nu scade cu raza mai mică. Crește.",
      "warn": ""
     },
@@ -2048,7 +2048,7 @@
     {
      "text": "crește media de viteză",
      "correct": false,
-     "short": "Cresc media de viteză.",
+     "short": "",
      "long": "Media vitezei nu crește prin termice puternice ca efect principal.",
      "warn": ""
     }
@@ -2207,28 +2207,28 @@
     {
      "text": "este un con imaginar, motorparapanta reprezentand vârful lui, în care zburăm, astfel încât în orice moment în care motorul se oprește putem găsi pe suprafața bazei lui un teren/ terenuri suficient de mari în care să putem ateriza îin siguranță",
      "correct": true,
-     "short": "Este zona în care putem zbura fără restricții.",
+     "short": "",
      "long": "Corect. Este un con imaginar, cu vârful în pilot, în care se poate ajunge la teren.",
      "warn": ""
     },
     {
      "text": "este zona în care putem zbura fără restricții",
      "correct": false,
-     "short": "Este zona rezervată în planul de zbor în care avem activitatea.",
+     "short": "",
      "long": "Conul nu este zona fără restricții.",
      "warn": ""
     },
     {
      "text": "este zona rezervată în planul de zbor în care avem activitatea",
      "correct": false,
-     "short": "Este distanța parcursă într-o direcție pe care putem să ne întoarcem la locul de decolare.",
+     "short": "",
      "long": "Conul nu este zona din planul de zbor.",
      "warn": ""
     },
     {
      "text": "este distanța parcursă într-o direcție pe care putem să neîintoarcem la locul de decolare",
      "correct": false,
-     "short": "Este un con imaginar, motoparapanta reprezentând vârful lui, în care zburăm, astfel încât în orice moment în care motorul se oprește putem găsi pe suprafața bazei lui un teren suficient de mare în care să putem ateriza în siguranță.",
+     "short": "",
      "long": "Conul nu este distanța parcursă pe o direcție.",
      "warn": ""
     }
@@ -2351,28 +2351,28 @@
     {
      "text": "să eviți manevrele avansate și să te concentrezi pe controlul de bază",
      "correct": true,
-     "short": "Să zbori la altitudini mari pentru mai multă siguranță.",
+     "short": "",
      "long": "Corect. Controlul de bază și evitarea manevrelor avansate.",
      "warn": ""
     },
     {
      "text": "să zbori la altitudini mari pentru mai multă siguranță",
      "correct": false,
-     "short": "Să folosești trimmerele pentru a atinge viteza maximă.",
+     "short": "",
      "long": "Altitudinea mare nu este mai sigură pentru un începător în mod general.",
      "warn": ""
     },
     {
      "text": "să folosești trimmerele pentru a atinge viteza maximă",
      "correct": false,
-     "short": "Să faci manevre rapide și complexe.",
+     "short": "",
      "long": "Trimmerele la viteza maximă cresc riscul pentru începători.",
      "warn": ""
     },
     {
      "text": "să faci manevre rapide și complexe",
      "correct": false,
-     "short": "Să eviți manevrele avansate și să te concentrezi pe controlul de bază.",
+     "short": "",
      "long": "Manevrele rapide și complexe sunt periculoase pentru începători.",
      "warn": ""
     }
@@ -3503,7 +3503,7 @@
     {
      "text": "cu speed-ul apăsat si trimerul deschis",
      "correct": false,
-     "short": "Cu speed-ul apăsat și trimmerul deschis.",
+     "short": "",
      "long": "Cu speed-ul apăsat și trimmerul deschis unghiul este mai mic.",
      "warn": ""
     },
@@ -3524,7 +3524,7 @@
     {
      "text": "cu trimerul deschis",
      "correct": false,
-     "short": "Cu trimmerul deschis.",
+     "short": "",
      "long": "Trimmerul deschis reduce unghiul de incidență.",
      "warn": ""
     }

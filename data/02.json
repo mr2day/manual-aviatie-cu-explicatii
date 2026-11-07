@@ -11,21 +11,21 @@
     {
      "text": "omănuși de protecție și ochelari de protecție",
      "correct": false,
-     "short": "Mănuși de protecție și ochelari de protecție.",
+     "short": "",
      "long": "Mănușile și ochelarii protejează operatorul, dar nu sunt scule pentru întreținerea de urgență.",
      "warn": ""
     },
     {
      "text": "obusolă și hartă",
      "correct": false,
-     "short": "Busolă și hartă.",
+     "short": "",
      "long": "Busola și harta sunt pentru navigație, nu pentru întreținerea de urgență.",
      "warn": ""
     },
     {
      "text": "obaterii de rezervă și lanternă",
      "correct": false,
-     "short": "Baterii de rezervă și lanternă.",
+     "short": "",
      "long": "Bateriile și lanterna sunt utile, dar nu sunt scule pentru reparația motorului sau a structurii.",
      "warn": ""
     },
@@ -68,7 +68,7 @@
     {
      "text": "amestecul aer/kerosen care se folosește la motoarele în 2 timpi",
      "correct": false,
-     "short": "Amestecul aer/kerosen folosit la motoarele în doi timpi.",
+     "short": "",
      "long": "Kerosenul nu este carburantul motoarelor paramotorului. Motorul folosește benzină.",
      "warn": ""
     }
@@ -227,7 +227,7 @@
     {
      "text": "amestecul apa/antigel care se foloseşte la motoarele ce se răcesc cu lichid",
      "correct": false,
-     "short": "Amestecul apă/antigel folosit la motoarele răcite cu lichid.",
+     "short": "",
      "long": "Amestecul apă–antigel este lichidul de răcire, nu carburantul.",
      "warn": ""
     },
@@ -1105,7 +1105,7 @@
     {
      "text": "un tip de reparație a aripii",
      "correct": false,
-     "short": "Un tip de reparație a aripii, aplicat la bordul de atac.",
+     "short": "",
      "long": "Pliera concertină nu este o reparație a aripii.",
      "warn": ""
     },
@@ -1811,7 +1811,7 @@
     {
      "text": "modifică lugimea frânelor",
      "correct": false,
-     "short": "Modifică lungimea frânelor.",
+     "short": "",
      "long": "Lungimea frânelor nu este verificarea periodică principală a aripii.",
      "warn": ""
     },
@@ -2243,28 +2243,28 @@
     {
      "text": "65 C.P.",
      "correct": false,
-     "short": "65 CP.",
+     "short": "",
      "long": "65 CP ar fi 48 kW, nu 40 kW.",
      "warn": ""
     },
     {
      "text": "40 C.P",
      "correct": false,
-     "short": "40 CP.",
+     "short": "",
      "long": "40 CP ar fi 29,4 kW, nu 40 kW. Conversia nu este 1 la 1.",
      "warn": ""
     },
     {
      "text": "54,8 C.P.",
      "correct": true,
-     "short": "54,8 CP.",
+     "short": "",
      "long": "Valoarea cea mai apropiată de 40 kW este 54,4 CP. Varianta 54,8 este o rotunjire ușor greșită.",
      "warn": "40 kW nu este exact 54,8 CP. Conversia este 1 kW = 1,3596 CP, deci 40 kW = 54,4 CP."
     },
     {
      "text": "50 C.P.",
      "correct": false,
-     "short": "50 CP.",
+     "short": "",
      "long": "50 CP ar fi 36,8 kW, nu 40 kW.",
      "warn": ""
     }
@@ -2279,21 +2279,21 @@
     {
      "text": "tendinţa aeronavei de a se înclina în partea opusă mişcării de rotaţie a elicei",
      "correct": true,
-     "short": "Menținerea aripii la orizontală.",
+     "short": "",
      "long": "Corect. Cuplul reactiv înclină aeronava în sens opus rotației elicei.",
      "warn": ""
     },
     {
      "text": "menţinerea aripii la orizontală",
      "correct": false,
-     "short": "Producerea de vibrații specifice.",
+     "short": "",
      "long": "Menținerea aripii la orizontală nu este efectul cuplului reactiv.",
      "warn": ""
     },
     {
      "text": "producerea de vibrații specifice",
      "correct": false,
-     "short": "Tendința aeronavei de a se înclina în partea opusă mișcării de rotație a elicei.",
+     "short": "",
      "long": "Vibrațiile nu sunt efectul cuplului reactiv.",
      "warn": ""
     },
@@ -2840,7 +2840,7 @@
     {
      "text": "pentru a reduce costurile de producți",
      "correct": false,
-     "short": "Pentru a reduce costurile de producție.",
+     "short": "",
      "long": "Costurile de producție nu sunt motivul aspectului redus.",
      "warn": ""
     }
@@ -3056,7 +3056,7 @@
     {
      "text": "multiplică turaţia ce se transmite elicei",
      "correct": false,
-     "short": "Multiplică turația transmisă elicei.",
+     "short": "",
      "long": "Reductorul nu multiplică turația, ci o micșorează.",
      "warn": ""
     }
@@ -3085,7 +3085,7 @@
     {
      "text": "temperatura chiuloasei este prea mică ceeea ce conduce la o omogenitate termică slabă a motorului",
      "correct": false,
-     "short": "Temperatura chiulasei este prea mică, ceea ce conduce la o omogenitate termică slabă.",
+     "short": "",
      "long": "Temperatura chiulasei este mai mare, nu mai mică, în lipsa lubrifierii.",
      "warn": ""
     },

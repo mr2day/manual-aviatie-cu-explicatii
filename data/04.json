@@ -47,28 +47,28 @@
     {
      "text": "8 grd. C",
      "correct": true,
-     "short": "8°C.",
+     "short": "",
      "long": "Corect. 20°C − 13°C = 7°C, valoarea 8°C este o estimare apropiată, fiindcă gradientul real variază.",
      "warn": ""
     },
     {
      "text": "25 grd. C",
      "correct": false,
-     "short": "25°C.",
+     "short": "",
      "long": "Temperatura crește, nu scade, cu altitudinea în troposferă.",
      "warn": ""
     },
     {
      "text": "20 grd. C",
      "correct": false,
-     "short": "20°C.",
+     "short": "",
      "long": "Temperatura rămâne la 20°C numai la sol. La 2000 m scade cu circa 13°C.",
      "warn": ""
     },
     {
      "text": "18 grd. C",
      "correct": false,
-     "short": "18°C.",
+     "short": "",
      "long": "18°C ar corespunde unei scăderi de doar 2°C, mult sub gradientul mediu de 6,5°C/1000 m.",
      "warn": ""
     }
@@ -198,7 +198,7 @@
     {
      "text": "nori de tip Cirus",
      "correct": false,
-     "short": "Nori de tip cirrus.",
+     "short": "",
      "long": "Cirrus sunt nori înalți, fibroși, fără furtuni.",
      "warn": ""
     },
@@ -767,28 +767,28 @@
     {
      "text": "în 1 si 2",
      "correct": false,
-     "short": "În 1 și 2.",
+     "short": "",
      "long": "Varianta nu este cea corectă.",
      "warn": ""
     },
     {
      "text": "în 1 si 2",
      "correct": false,
-     "short": "În 1.",
+     "short": "",
      "long": "Nu este varianta corectă; depinde de figură.",
      "warn": ""
     },
     {
      "text": "în 1",
      "correct": true,
-     "short": "În 2.",
+     "short": "",
      "long": "Varianta nu este cea corectă.",
      "warn": ""
     },
     {
      "text": "în 2",
      "correct": false,
-     "short": "În 1 și 2.",
+     "short": "",
      "long": "Varianta este dublată și nu este cea corectă.",
      "warn": ""
     }
@@ -1026,21 +1026,21 @@
     {
      "text": "în 3 şi 4",
      "correct": true,
-     "short": "În 3 și 4.",
+     "short": "",
      "long": "Depinde de figură.",
      "warn": ""
     },
     {
      "text": "în 1, 2 si 3",
      "correct": false,
-     "short": "În 1, 2 și 3.",
+     "short": "",
      "long": "Varianta nu este cea corectă.",
      "warn": ""
     },
     {
      "text": "în 1 şi 2",
      "correct": false,
-     "short": "În 1 și 2.",
+     "short": "",
      "long": "Varianta nu este cea corectă.",
      "warn": ""
     }
@@ -1271,14 +1271,14 @@
     {
      "text": "în atmosfera ISA, presiunea la nivelul mării este de 1013.25 mb și temperatura este de +15°C",
      "correct": true,
-     "short": "Umiditatea în atmosfera ISA crește proporțional cu altitudinea.",
+     "short": "",
      "long": "Corect. ISA: 1013,25 hPa și +15°C la nivelul mării.",
      "warn": ""
     },
     {
      "text": "umiditatea în atmosfera ISA crește proporțional cu altitudinea",
      "correct": false,
-     "short": "În atmosfera ISA, presiunea la nivelul mării este de 1013,25 mb, iar temperatura este de +15°C.",
+     "short": "",
      "long": "În ISA umiditatea nu crește cu altitudinea. Atmosfera standard nu descrie umiditatea reală.",
      "warn": ""
     },
@@ -1415,7 +1415,7 @@
     {
      "text": "frontul rece de ordinul II este frontul caracterizat prin nebulozitatea și precipitațiile de lungă durată",
      "correct": false,
-     "short": "Frontul caracterizat prin nebulozitate și precipitații de lungă durată.",
+     "short": "",
      "long": "Nebulozitatea și precipitațiile de lungă durată sunt caracteristici ale frontului cald, nu ale frontului rece de ordinul II.",
      "warn": ""
     },
@@ -1487,7 +1487,7 @@
     {
      "text": "o zonă de intalnire a unor mase de aer ce riscă să provoace turbulenţe puternice",
      "correct": true,
-     "short": "O zonă de întâlnire a unor mase de aer care poate provoca turbulențe puternice.",
+     "short": "",
      "long": "Corect. Zona de forfecare este locul de întâlnire a maselor de aer, cu risc de turbulență.",
      "warn": ""
     },
@@ -1501,7 +1501,7 @@
     {
      "text": "o zonă în interiorul căreia violenţa turbulenţelor este atât de mare încât riscă să provoace ruperea suspantelor",
      "correct": false,
-     "short": "O zonă în care violența turbulențelor riscă să rupă suspantele.",
+     "short": "",
      "long": "Riscul de rupere a suspantelor apare în turbulențe extreme, dar definiția zonei de forfecare este întâlnirea maselor de aer.",
      "warn": ""
     },
@@ -1746,7 +1746,7 @@
     {
      "text": "nu decolăm deoarece este interzis zborul cu parapanta cu motor în situația prezentată",
      "correct": false,
-     "short": "Nu decolăm, deoarece este interzis zborul cu paramotorul cu motor în această situație.",
+     "short": "",
      "long": "Zborul nu este interzis, în general. Este nerecomandat, cu atenție sporită.",
      "warn": ""
     },
@@ -2185,14 +2185,14 @@
     {
      "text": "1225g/m2",
      "correct": false,
-     "short": "1225 g/m².",
+     "short": "",
      "long": "1225 g/m² are unitate de suprafață, nu de densitate.",
      "warn": ""
     },
     {
      "text": "1225g/m3",
      "correct": true,
-     "short": "1225 g/m³.",
+     "short": "",
      "long": "Corect. 1225 g/m³ este densitatea ISA la nivelul mării.",
      "warn": ""
     }
@@ -2855,7 +2855,7 @@
     {
      "text": "în 1 şi 2",
      "correct": false,
-     "short": "În 1 și 2.",
+     "short": "",
      "long": "Varianta nu este cea corectă.",
      "warn": ""
     },
@@ -2869,7 +2869,7 @@
     {
      "text": "în 1, 2 şi 3",
      "correct": true,
-     "short": "În 1, 2 și 3.",
+     "short": "",
      "long": "Depinde de figură.",
      "warn": ""
     },
@@ -3078,21 +3078,21 @@
     {
      "text": "în 3 şi 4",
      "correct": true,
-     "short": "În 3 și 4.",
+     "short": "",
      "long": "Depinde de figură.",
      "warn": ""
     },
     {
      "text": "în 1 şi 2",
      "correct": false,
-     "short": "În 1 și 2.",
+     "short": "",
      "long": "Varianta nu este cea corectă.",
      "warn": ""
     },
     {
      "text": "în 2 şi 3",
      "correct": false,
-     "short": "În 2 și 3.",
+     "short": "",
      "long": "Varianta nu este cea corectă.",
      "warn": ""
     }

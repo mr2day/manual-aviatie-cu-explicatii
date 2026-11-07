@@ -299,21 +299,21 @@
     {
      "text": "să obţină acordul proprietarului terenului sau al administratorului şi să fie amplasate în afara zonelor dens populate, la o distanță nu mai mică de 150 m de o locuință, iar dimensiunile terenului să permită decolarea/ aterizarea în condiții de siguranță",
      "correct": true,
-     "short": "Să aibă o lățime minimă de 50 m, lungime minimă de 500 m și să nu fie obstacolate la mai puțin de 200 m față de praguri.",
+     "short": "",
      "long": "Corect. Acestea sunt condițiile cumulative din Codul aerian, art. 14 alin. 2: acordul proprietarului sau administratorului, amplasarea în afara zonelor dens populate, distanța de cel puțin 150 m față de clădiri de locuit, medicale sau de învățământ, și dimensiuni care permit zborul în siguranță.",
      "warn": ""
     },
     {
      "text": "aibă o lăţime minima de 50 m, lungime minimă de 500 m, să nu fie obstacolate la mai puţin de 200 m faţa de praguri pe directive",
      "correct": false,
-     "short": "Să fie cosite sau betonate.",
+     "short": "",
      "long": "Lățimea de 50 m, lungimea de 500 m și distanța de 200 m față de praguri sunt dimensiuni de aerodrom, nu condiții pentru teren neautorizat. Codul aerian cere doar ca dimensiunile să permită zborul în siguranță.",
      "warn": ""
     },
     {
      "text": "să fie cosite sau betonate",
      "correct": false,
-     "short": "Să obțină acordul proprietarului sau al administratorului, să fie în afara zonelor dens populate, la cel puțin 150 m de o locuință, iar dimensiunile să permită decolarea și aterizarea în siguranță.",
+     "short": "",
      "long": "Cosirea sau betonarea nu este cerința din Codul aerian. Terenul trebuie să permită zborul în condiții de siguranță, indiferent de suprafață.",
      "warn": ""
     },
@@ -2048,7 +2048,7 @@
     {
      "text": "documentul de asigurare",
      "correct": false,
-     "short": "Doar documentul de asigurare.",
+     "short": "",
      "long": "Asigurarea nu este singurul document cerut. Se cer și certificatul de identificare și licența.",
      "warn": ""
     }
@@ -2315,7 +2315,7 @@
     {
      "text": "50 m orizontală și 100 m verticală",
      "correct": false,
-     "short": "50 m orizontal și 100 m vertical.",
+     "short": "",
      "long": "50 m orizontal și 100 m vertical sunt mult sub minimul din Tabelul 3-1 (RACR-RA 3.090), care cere 1500 m orizontal și 300 m vertical față de nori în spațiul sub 3050 m.",
      "warn": ""
     },
@@ -2329,7 +2329,7 @@
     {
      "text": "1500 m orizontală şi 300 m verticală",
      "correct": true,
-     "short": "1500 m orizontal și 300 m vertical.",
+     "short": "",
      "long": "Corect. Tabelul 3-1 din RACR-RA cere 1500 m orizontal și 300 m vertical față de nori, în spațiul sub 3050 m.",
      "warn": ""
     },
@@ -2948,7 +2948,7 @@
     {
      "text": "până la FL 105 (aprox. 3200m față de nivelul mării)",
      "correct": true,
-     "short": "Până la FL 105 (aproximativ 3200 m față de nivelul mării).",
+     "short": "",
      "long": "Corect. Clasa G este spațiul nedesemnat altfel, iar clasa C începe deasupra FL105 (AIP ENR 1.4).",
      "warn": ""
     }
@@ -3143,28 +3143,28 @@
     {
      "text": "orice întrerupere operațională, defect, greșeală sau altă circumstanță care influențează siguranța zborului fără a rezulta într-un accident sau incident grav",
      "correct": true,
-     "short": "Orice incident care implică o aeronavă comercială.",
+     "short": "",
      "long": "Corect. Evenimentul include orice întrerupere, defect, greșeală sau altă circumstanță care afectează siguranța, fără să fie neapărat accident.",
      "warn": ""
     },
     {
      "text": "orice incident care implică o aeronavă comercială",
      "correct": false,
-     "short": "Orice problemă tehnică raportată de echipaj.",
+     "short": "",
      "long": "Nu orice incident la o aeronavă comercială este eveniment în sensul definiției: definiția este mai largă și include și aeronavele ULM.",
      "warn": ""
     },
     {
      "text": "orice problemă tehnică raportată de echipaj",
      "correct": false,
-     "short": "Orice abatere de la procedurile standard.",
+     "short": "",
      "long": "Nu orice problemă tehnică raportată de echipaj este eveniment: trebuie să afecteze siguranța zborului.",
      "warn": ""
     },
     {
      "text": "orice abatere de la procedurile standard",
      "correct": false,
-     "short": "Orice întrerupere operațională, defect, greșeală sau altă circumstanță care influențează siguranța zborului fără a rezulta într-un accident sau incident grav.",
+     "short": "",
      "long": "Nu orice abatere de la procedurile standard este eveniment: trebuie să afecteze siguranța zborului.",
      "warn": ""
     }
@@ -3611,28 +3611,28 @@
     {
      "text": "eveniment imprevizibil și inevitabil care generează imposibilitatea temporară de a respecta cerințele autorizării acordate",
      "correct": true,
-     "short": "Echipamentele de mare putere utilizate pentru controlul traficului aerian.",
+     "short": "",
      "long": "Corect. Forța majoră este evenimentul imprevizibil și inevitabil care face imposibilă temporar executarea cerințelor (Codul aerian, definiția 27).",
      "warn": ""
     },
     {
      "text": "echipamentele de mare putere utilizate pentru controlul traficului aerian",
      "correct": false,
-     "short": "Regulile stricte impuse de autoritățile aviatice.",
+     "short": "",
      "long": "Echipamentele de control nu definesc forța majoră. Este un eveniment (Codul aerian, definiția 27).",
      "warn": ""
     },
     {
      "text": "regulile stricte impuse de autoritățile aviatice",
      "correct": false,
-     "short": "Forța de muncă angajată în aeroporturi.",
+     "short": "",
      "long": "Regulile stricte nu sunt forța majoră. Forța majoră este un eveniment extern (Codul aerian, definiția 27).",
      "warn": ""
     },
     {
      "text": "forța de muncă angajată în aeroporturi",
      "correct": false,
-     "short": "Eveniment imprevizibil și inevitabil care generează imposibilitatea temporară de a respecta cerințele autorizării acordate.",
+     "short": "",
      "long": "Forța de muncă nu definește forța majoră (Codul aerian, definiția 27).",
      "warn": ""
     }
@@ -3755,28 +3755,28 @@
     {
      "text": "10 min",
      "correct": false,
-     "short": "10 minute.",
+     "short": "",
      "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "7 min",
      "correct": false,
-     "short": "7 minute.",
+     "short": "",
      "long": "Nu este valoarea corectă.",
      "warn": ""
     },
     {
      "text": "2 min",
      "correct": true,
-     "short": "2 minute.",
+     "short": "",
      "long": "Corect. Pentru plecarea unei aeronave ușoare după una grea, eșalonarea minimă de turbulență de siaj este de 2 minute (ICAO Doc 4444, intervalele de decolare). Turbulența de siaj de la aeronava grea poate fi periculoasă pentru cea ușoară.",
      "warn": ""
     },
     {
      "text": "5 min",
      "correct": false,
-     "short": "5 minute.",
+     "short": "",
      "long": "Nu este valoarea corectă.",
      "warn": ""
     }

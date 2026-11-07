@@ -47,14 +47,14 @@
     {
      "text": "greutatea pilotului trebuie să fie compatibilă cu greutatea maximă admisă a aripii pentru a asigura stabilitatea și manevrabilitatea",
      "correct": true,
-     "short": "Greutatea pilotului influențează capacitatea de ascensiune în termici.",
+     "short": "",
      "long": "Corect. Greutatea trebuie să fie compatibilă cu limita aripii.",
      "warn": ""
     },
     {
      "text": "greutatea pilotului influențează capacitatea de ascensiune în termici",
      "correct": false,
-     "short": "Greutatea pilotului trebuie să fie compatibilă cu greutatea maximă admisă a aripii pentru a asigura stabilitatea și manevrabilitatea.",
+     "short": "",
      "long": "Capacitatea de ascensiune în termici depinde de condiții și de performanța aripii, nu direct de greutatea pilotului ca în această formulare.",
      "warn": ""
     },
@@ -191,7 +191,7 @@
     {
      "text": "Întreţinerea ULM ului se face:",
      "correct": true,
-     "short": "Întreținerea ULM-ului se face: (text incomplet).",
+     "short": "",
      "long": "Textul este incomplet și nu poate fi evaluat; reține principiul din răspunsul logic.",
      "warn": "Textul este incomplet și nu poate fi evaluat. Răspunsul corect este: întreținerea se face înainte de fiecare zbor."
     },
@@ -1112,7 +1112,7 @@
     {
      "text": "încercați să reparați motorul în zbo",
      "correct": false,
-     "short": "Încercați să reparați motorul în zbor.",
+     "short": "",
      "long": "Repararea motorului în zbor nu este posibilă în siguranță.",
      "warn": ""
     }
@@ -1206,7 +1206,7 @@
     {
      "text": "ltitudinea nu influențează capacitatea de portanță",
      "correct": false,
-     "short": "Altitudinea nu influențează capacitatea de portanță.",
+     "short": "",
      "long": "Altitudinea influențează portanța, deci afirmația este greșită.",
      "warn": ""
     },

@@ -1091,28 +1091,28 @@
     {
      "text": "150m",
      "correct": false,
-     "short": "150 m.",
+     "short": "",
      "long": "Este o limită pentru alt caz.",
      "warn": ""
     },
     {
      "text": "3000m",
      "correct": false,
-     "short": "3000 m.",
+     "short": "",
      "long": "Depășește limita pentru acest caz.",
      "warn": ""
     },
     {
      "text": "1900m",
      "correct": true,
-     "short": "1900 m.",
+     "short": "",
      "long": "1900 m reprezintă 1300 m (cota aerodromului) plus 600 m. Această sumă nu are temei în regulamentele din manual pentru zborul VFR în clasa G.",
      "warn": "Cifra de 600 m este altitudinea minimă IFR deasupra terenurilor înalte (RACR-RA, niveluri minime), nu o limită VFR în clasa G. Pentru zborul VFR în clasa G, regula este minimele de vizibilitate și distanța față de nori din Tabelul 3-1."
     },
     {
      "text": "1500m",
      "correct": false,
-     "short": "1500 m.",
+     "short": "",
      "long": "Nu este varianta corectă.",
      "warn": ""
     }
@@ -2012,7 +2012,7 @@
     {
      "text": "nu aveți nici o obligație",
      "correct": false,
-     "short": "Nu aveți nicio obligație.",
+     "short": "",
      "long": "Există obligația de a comunica întârzierea.",
      "warn": ""
     }
@@ -3438,7 +3438,7 @@
     {
      "text": "Pe o suprafață plată",
      "correct": false,
-     "short": "Pe o suprafață plană.",
+     "short": "",
      "long": "Suprafața plană nu este suficientă ca fixare.",
      "warn": ""
     },
@@ -4007,14 +4007,14 @@
     {
      "text": "Pentru a evita majoritatea obstacolelor create de oameni și a scana pentru turnuri înalte",
      "correct": true,
-     "short": "Pentru a avea o vedere mai bună asupra peisajului.",
+     "short": "",
      "long": "Nu este motivul principal.",
      "warn": ""
     },
     {
      "text": "Pentru a avea o vedere mai bună asupra peisajului",
      "correct": false,
-     "short": "Pentru a evita majoritatea obstacolelor create de oameni și a scana pentru turnuri înalte.",
+     "short": "",
      "long": "Este varianta corectă.",
      "warn": ""
     },
@@ -4064,7 +4064,7 @@
     {
      "text": "Prin utilizarea rezerva pentru a stabiliza zborul",
      "correct": false,
-     "short": "Prin utilizarea rezervei pentru a stabiliza zborul.",
+     "short": "",
      "long": "Nu este soluția.",
      "warn": ""
     }

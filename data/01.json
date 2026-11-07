@@ -11,28 +11,28 @@
     {
      "text": "CNA",
      "correct": false,
-     "short": "Consiliul Național al Audiovizualului, autoritatea pentru radio și televiziune.",
+     "short": "",
      "long": "CNA (Consiliul Național al Audiovizualului) reglementează conținutul radio și TV. Nu eliberează certificatele de operator aeronautic.",
      "warn": ""
     },
     {
      "text": "SATCOM",
      "correct": false,
-     "short": "SATCOM, nume generic pentru comunicațiile prin satelit.",
+     "short": "",
      "long": "SATCOM este o tehnologie de comunicație prin satelit, nu o instituție care eliberează certificate.",
      "warn": ""
     },
     {
      "text": "CEDAM",
      "correct": false,
-     "short": "CEDAM, care nu are atribuții de certificare a operatorilor radio în aviație.",
+     "short": "",
      "long": "CEDAM nu are atribuții de certificare a operatorilor radio pentru aviație.",
      "warn": ""
     },
     {
      "text": "ANCOM",
      "correct": true,
-     "short": "ANCOM, autoritatea națională de reglementare în comunicații.",
+     "short": "",
      "long": "Corect. ANCOM eliberează certificatul general de operator radiotelefonist și reglementează stațiile radio.",
      "warn": ""
     }
@@ -47,7 +47,7 @@
     {
      "text": "un inspector de zbor",
      "correct": false,
-     "short": "Un inspector de zbor, persoană care verifică aeronavele și pilotii.",
+     "short": "",
      "long": "Inspectorul de zbor verifică aeronava și pregătirea piloților, nu conduce serviciul stațiilor radio.",
      "warn": ""
     },
@@ -61,14 +61,14 @@
     {
      "text": "un mecanic de avion",
      "correct": false,
-     "short": "Un mecanic de avion, specialist în întreținerea aeronavei.",
+     "short": "",
      "long": "Mecanicul de avion răspunde de întreținerea aeronavei, nu de serviciul stației radio.",
      "warn": ""
     },
     {
      "text": "un pilot",
      "correct": false,
-     "short": "Un pilot, indiferent dacă are certificat de operator.",
+     "short": "",
      "long": "Pilotul folosește stația, dar controlul serviciului cere certificatul de operator.",
      "warn": ""
     }
@@ -83,7 +83,7 @@
     {
      "text": "nu este specificat",
      "correct": false,
-     "short": "Nu este specificat, pentru că regula nu există.",
+     "short": "",
      "long": "Distanța este stabilită: legătura se menține până la ieșirea din zona controlată, nu este nespecificată.",
      "warn": ""
     },
@@ -97,7 +97,7 @@
     {
      "text": "până la limita audibilităţii",
      "correct": false,
-     "short": "Până la limita audibilității semnalului radio.",
+     "short": "",
      "long": "Limita audibilității nu este criteriul. Obligația durează până la ieșirea din zona controlată.",
      "warn": ""
     },
@@ -133,7 +133,7 @@
     {
      "text": "detalii despre problema de siguranță și asistența solicitată",
      "correct": true,
-     "short": "Detaliile problemei de siguranță și asistența solicitată.",
+     "short": "",
      "long": "Corect. Mesajul de urgență trebuie să conțină problema de siguranță și asistența cerută.",
      "warn": ""
     },
@@ -155,7 +155,7 @@
     {
      "text": "turnul de control",
      "correct": true,
-     "short": "Turnul de control (TWR).",
+     "short": "",
      "long": "Corect. Autorizarea de decolare se cere turnului de control.",
      "warn": ""
     },
@@ -176,7 +176,7 @@
     {
      "text": "briefing",
      "correct": false,
-     "short": "Briefingul.",
+     "short": "",
      "long": "Briefingul este o pregătire a zborului, nu o autorizare de decolare.",
      "warn": ""
     }
@@ -191,28 +191,28 @@
     {
      "text": "PAN",
      "correct": false,
-     "short": "PAN, care este un mesaj de urgență, nu o fază.",
+     "short": "",
      "long": "PAN este mesajul de urgență, nu o fază. Faza de alarmă este ALERFA.",
      "warn": ""
     },
     {
      "text": "ALERFA",
      "correct": true,
-     "short": "ALERFA, faza de alarmă.",
+     "short": "",
      "long": "Corect. ALERFA este faza de alarmă.",
      "warn": ""
     },
     {
      "text": "DETRESFA",
      "correct": false,
-     "short": "DETRESFA, faza de pericol grav și iminent.",
+     "short": "",
      "long": "DETRESFA este faza de pericol grav și iminent, nu faza de alarmă.",
      "warn": ""
     },
     {
      "text": "INCERFA",
      "correct": false,
-     "short": "INCERFA, faza de incertitudine.",
+     "short": "",
      "long": "INCERFA este faza de incertitudine, prima din cele trei.",
      "warn": ""
     }
@@ -385,7 +385,7 @@
     {
      "text": "nu veți utiliza telefonul mobil în timpul zborului",
      "correct": false,
-     "short": "Nu se folosește telefonul mobil în zbor.",
+     "short": "",
      "long": "Telefonul mobil nu este cauza interferenței produse de motor. Problema este aprinderea motorului.",
      "warn": ""
     },
@@ -443,28 +443,28 @@
     {
      "text": "squak 7600",
      "correct": true,
-     "short": "Squawk 7600.",
+     "short": "",
      "long": "Corect. Codul 7600 semnalează pierderea comunicației radio.",
      "warn": ""
     },
     {
      "text": "squak 7700",
      "correct": false,
-     "short": "Squawk 7700.",
+     "short": "",
      "long": "Codul 7700 semnalează urgență generală, nu pierderea comunicației.",
      "warn": ""
     },
     {
      "text": "squak 7777",
      "correct": false,
-     "short": "Squawk 7777.",
+     "short": "",
      "long": "Codul 7777 nu este cod standard pentru pierderea comunicației.",
      "warn": ""
     },
     {
      "text": "squak 7500",
      "correct": false,
-     "short": "Squawk 7500.",
+     "short": "",
      "long": "Codul 7500 semnalează deturnarea, nu pierderea comunicației.",
      "warn": ""
     }
@@ -479,7 +479,7 @@
     {
      "text": "aterizaţi de urgenţă pe cel mai adecvat teren situate în spaţiu clasa G",
      "correct": false,
-     "short": "Aterizați de urgență pe cel mai potrivit teren din spațiul G.",
+     "short": "",
      "long": "Aterizarea de urgență nu este necesară când stația defectă și spațiul este G, unde radio nu este obligatoriu.",
      "warn": ""
     },
@@ -493,7 +493,7 @@
     {
      "text": "vă continuaţi zborul în spaţiu clasa G",
      "correct": true,
-     "short": "Vă continuați zborul în spațiul clasa G.",
+     "short": "",
      "long": "Corect. În clasa G comunicația radio nu este obligatorie, deci zborul poate continua.",
      "warn": ""
     },
@@ -587,14 +587,14 @@
     {
      "text": "CTR",
      "correct": true,
-     "short": "CTR, zona de control.",
+     "short": "",
      "long": "Corect. Abrevierea zonei de control este CTR.",
      "warn": ""
     },
     {
      "text": "CTA",
      "correct": false,
-     "short": "CTA, aria de control.",
+     "short": "",
      "long": "CTA este zona de control terminal (terminal control area), nu zona de control de aerodrom.",
      "warn": ""
     },
@@ -659,14 +659,14 @@
     {
      "text": "certificat de garanție",
      "correct": false,
-     "short": "Certificatul de garanție.",
+     "short": "",
      "long": "Certificatul de garanție privește aparatul, nu autorizarea stației.",
      "warn": ""
     },
     {
      "text": "carnet de sănătate",
      "correct": false,
-     "short": "Carnetul de sănătate.",
+     "short": "",
      "long": "Carnetul de sănătate nu este document de autorizare a stației.",
      "warn": ""
     },
@@ -680,7 +680,7 @@
     {
      "text": "pașaport",
      "correct": false,
-     "short": "Pașaportul.",
+     "short": "",
      "long": "Pașaportul nu este document al stației radio.",
      "warn": ""
     }
@@ -716,7 +716,7 @@
     {
      "text": "detalii despre problema de siguranță și asistența solicitată",
      "correct": true,
-     "short": "Detaliile problemei de siguranță și asistența solicitată.",
+     "short": "",
      "long": "Corect. Mesajul trebuie să conțină problema de siguranță și asistența cerută.",
      "warn": ""
     }
@@ -1379,28 +1379,28 @@
     {
      "text": "123",
      "correct": false,
-     "short": "123 MHz.",
+     "short": "",
      "long": "123 MHz nu este frecvența de urgență pentru interceptare.",
      "warn": ""
     },
     {
      "text": "125,5",
      "correct": false,
-     "short": "125,5 MHz.",
+     "short": "",
      "long": "125,5 MHz nu este frecvența de urgență pentru interceptare.",
      "warn": ""
     },
     {
      "text": "136,00",
      "correct": false,
-     "short": "136,00 MHz.",
+     "short": "",
      "long": "136 MHz nu este frecvența de urgență pentru interceptare.",
      "warn": ""
     },
     {
      "text": "121,50",
      "correct": true,
-     "short": "121,50 MHz.",
+     "short": "",
      "long": "Corect. 121,5 MHz este frecvența internațională de urgență (121,50), pe care se stabilește legătura la interceptare.",
      "warn": ""
     }
@@ -1451,7 +1451,7 @@
     {
      "text": "aeronavele se bazează pe sistemele de radar de supraveghere secundară (SSR)",
      "correct": false,
-     "short": "Se bazează pe radarul SSR.",
+     "short": "",
      "long": "Radarul SSR nu se folosește de pilot în spațiul necontrolat pentru evitarea coliziunilor. Comunicarea radio este mijlocul de informare.",
      "warn": ""
     },
@@ -1472,7 +1472,7 @@
     {
      "text": "aeronavele utilizează frecvențele de radiocomunicații aeronautice VHF stabilite regional și mențin ascultarea de veghe pe frecvența TIBA",
      "correct": true,
-     "short": "Folosesc frecvențele VHF regionale și țin ascultarea de veghe pe TIBA.",
+     "short": "",
      "long": "Corect. Se folosesc frecvențele VHF regionale și se ține ascultarea de veghe.",
      "warn": ""
     }
@@ -1501,7 +1501,7 @@
     {
      "text": "trebuie să fim întotdeauna pe recepţie când ne aflăm într-o categorie de spaţiu aerian în care legătura radio este obligatorie",
      "correct": false,
-     "short": "Trebuie să fim mereu pe recepție, dar nu se confirmă.",
+     "short": "",
      "long": "Ascultarea permanentă este obligatorie, dar nu înlocuiește confirmarea mesajului.",
      "warn": ""
     },
@@ -1537,7 +1537,7 @@
     {
      "text": "MAY DAY",
      "correct": true,
-     "short": "MAYDAY.",
+     "short": "",
      "long": "Corect. Oprirea motorului cu aterizare forțată este pericol grav și iminent: MAYDAY.",
      "warn": ""
     },
@@ -1559,7 +1559,7 @@
     {
      "text": "am să continui zborul pe direcția din planul de zbor!",
      "correct": false,
-     "short": "Voi continua zborul pe direcția din planul de zbor.",
+     "short": "",
      "long": "Continuarea zborului pe direcția din planul de zbor nu este semnificația lui WILCO.",
      "warn": ""
     },
@@ -1868,7 +1868,7 @@
     {
      "text": "licenţei de pilot şi a CI",
      "correct": false,
-     "short": "Licenței de pilot și a certificatului de identificare.",
+     "short": "",
      "long": "Licența de pilot și CI nu sunt documentul care autorizează operarea stației radio.",
      "warn": ""
     }
@@ -1883,28 +1883,28 @@
     {
      "text": "123,45",
      "correct": false,
-     "short": "123,45 MHz.",
+     "short": "",
      "long": "123,45 MHz nu este frecvența de urgență pentru interceptare.",
      "warn": ""
     },
     {
      "text": "129,4",
      "correct": false,
-     "short": "129,4 MHz.",
+     "short": "",
      "long": "129,4 MHz nu este frecvența de urgență pentru interceptare.",
      "warn": ""
     },
     {
      "text": "121,5",
      "correct": true,
-     "short": "121,5 MHz.",
+     "short": "",
      "long": "Corect. 121,5 MHz este frecvența internațională de urgență.",
      "warn": ""
     },
     {
      "text": "123,5",
      "correct": false,
-     "short": "123,5 MHz.",
+     "short": "",
      "long": "123,5 MHz nu este frecvența de urgență pentru interceptare.",
      "warn": ""
     }
@@ -1969,14 +1969,14 @@
     {
      "text": "Sunt permise toate tipurile de zboruri și se furnizează serviciul de control de apropiere",
      "correct": false,
-     "short": "Sunt permise toate zborurile, iar serviciul este de control de apropiere.",
+     "short": "",
      "long": "În clasa G nu se furnizează control de apropiere (AIP ENR 1.4, clasa G).",
      "warn": ""
     },
     {
      "text": "Sunt permise zborurile IFR și VFR și se furnizează serviciul de informare a zborurilor tuturor zborurilor care solicită acest lucru",
      "correct": true,
-     "short": "Sunt permise zborurile IFR și VFR, iar serviciul este de informare pentru cei care îl cer.",
+     "short": "",
      "long": "Corect. Zborurile IFR și VFR sunt permise, cu serviciu de informare a zborurilor (AIP ENR 1.4, clasa G).",
      "warn": ""
     }
@@ -2171,28 +2171,28 @@
     {
      "text": "comunicări de serviciu",
      "correct": false,
-     "short": "Comunicările de serviciu.",
+     "short": "",
      "long": "Comunicările de serviciu au prioritate sub cele de primejdie.",
      "warn": ""
     },
     {
      "text": "apeluri de primejdie, mesaje de primejdie și trafic de primejdie",
      "correct": true,
-     "short": "Apelurile de primejdie, mesajele de primejdie și traficul de primejdie.",
+     "short": "",
      "long": "Corect. Apelurile și mesajele de primejdie au prioritatea cea mai mare.",
      "warn": ""
     },
     {
      "text": "mesaje guvernamentale",
      "correct": false,
-     "short": "Mesajele guvernamentale.",
+     "short": "",
      "long": "Mesajele guvernamentale nu au prioritatea cea mai mare în serviciul mobil aeronautic.",
      "warn": ""
     },
     {
      "text": "mesaje meteo",
      "correct": false,
-     "short": "Mesajele meteo.",
+     "short": "",
      "long": "Mesajele meteo nu au prioritatea cea mai mare.",
      "warn": ""
     }
@@ -2207,28 +2207,28 @@
     {
      "text": "Aeronava trebuie să schimbe transponderul pe codul 7000 și să continue zborul fără comunicare suplimentară",
      "correct": false,
-     "short": "Schimbați transponderul pe 7000 și continuați zborul fără comunicare.",
+     "short": "",
      "long": "Schimbarea transponderului pe 7000 nu înlocuiește autorizarea ATC. Codul 7000 este doar codul VFR.",
      "warn": ""
     },
     {
      "text": "Aeronava trebuie să stabilească contact radio cu unitatea ATC corespunzătoare și să obțină autorizarea înainte de a intra în spațiul controlat",
      "correct": true,
-     "short": "Stabiliți contact radio cu unitatea ATC și obțineți autorizarea înainte de intrare.",
+     "short": "",
      "long": "Corect. Pilotul stabilește contactul cu ATC și obține autorizarea înainte de intrare.",
      "warn": ""
     },
     {
      "text": "Aeronava trebuie să reducă viteza sub 250 noduri și să monitorizeze frecvența de urgență 121.5 MHz",
      "correct": false,
-     "short": "Reduceți viteza sub 250 noduri și monitorizați 121,5 MHz.",
+     "short": "",
      "long": "Reducerea vitezei și frecvența de urgență nu înlocuiesc autorizarea ATC pentru intrare.",
      "warn": ""
     },
     {
      "text": "Aeronava trebuie să efectueze un raport de poziție și să aștepte instrucțiuni de la ATC",
      "correct": false,
-     "short": "Efectuați un raport de poziție și așteptați instrucțiuni.",
+     "short": "",
      "long": "Raportul de poziție fără autorizare nu este procedura de intrare în spațiul controlat.",
      "warn": ""
     }
@@ -2286,14 +2286,14 @@
     {
      "text": "scoate antena stației și o montați înapoi pentru a reface emisia",
      "correct": false,
-     "short": "Scoateți antena și o montați înapoi.",
+     "short": "",
      "long": "Scoaterea antenei nu este procedura de verificare a stației.",
      "warn": ""
     },
     {
      "text": "cere TWR un control radio utilizând frazeologia dedicată",
      "correct": true,
-     "short": "Cereți TWR un control radio folosind frazeologia dedicată.",
+     "short": "",
      "long": "Corect. Se cere un control radio de la TWR cu frazeologia standard.",
      "warn": ""
     },
@@ -2329,7 +2329,7 @@
     {
      "text": "un zbor VFR autorizat de controlul traficului aerian să se deruleze în condiții meteorologice cu valori inferioare condițiilor VMC",
      "correct": true,
-     "short": "Un zbor VFR autorizat de ATC să zboare sub valorile VMC.",
+     "short": "",
      "long": "Corect. VFR special este autorizat de ATC sub minimele VMC (RACR-RA 2.4.3).",
      "warn": ""
     },
@@ -2660,7 +2660,7 @@
     {
      "text": "115000 MHz la 155000 MHz",
      "correct": false,
-     "short": "115.000 MHz – 155.000 MHz.",
+     "short": "",
      "long": "Banda 115–155 MHz nu este domeniul aviației civile.",
      "warn": ""
     }
@@ -2675,21 +2675,21 @@
     {
      "text": "Aeronava trebuie să seteze transponderul pe codul 7700 și să emită un mesaj de urgență",
      "correct": false,
-     "short": "Setează transponderul pe 7700 și emite un mesaj de urgență.",
+     "short": "",
      "long": "Transponderul pe 7700 și mesajul de urgență nu sunt procedura de intrare fără contact radio. Urgența se declară doar dacă există pericol.",
      "warn": ""
     },
     {
      "text": "Aeronava trebuie să se mențină în spațiul necontrolat și să încerce să restabilească contactul radio",
      "correct": true,
-     "short": "Rămâne în spațiul necontrolat și încearcă să restabilească contactul radio.",
+     "short": "",
      "long": "Corect. Aeronava nu intră fără autorizare și încearcă să restabilească legătura din spațiul necontrolat.",
      "warn": ""
     },
     {
      "text": "Aeronava trebuie să continuie zborul conform planului de zbor depus, utilizând procedurile standard de pierdere a comunicațiilor",
      "correct": false,
-     "short": "Continuă zborul conform planului, folosind procedurile de pierdere a comunicațiilor.",
+     "short": "",
      "long": "Continuarea zborului conform planului de zbor nu înlocuiește autorizarea ATC pentru intrarea în spațiul controlat.",
      "warn": ""
     },
@@ -2747,14 +2747,14 @@
     {
      "text": "MAY DAY",
      "correct": true,
-     "short": "MAYDAY.",
+     "short": "",
      "long": "Corect. Oprirea motorului în zbor este pericol grav și iminent: MAYDAY.",
      "warn": ""
     },
     {
      "text": "veți ateriza de urgență și apoi veți raporta poziția TWR",
      "correct": false,
-     "short": "Voi ateriza de urgență și apoi raportez poziția turnului.",
+     "short": "",
      "long": "Raportul după aterizare nu este mesajul de urgență pentru oprirea motorului în zbor. Mesajul este MAYDAY.",
      "warn": ""
     },
@@ -2855,28 +2855,28 @@
     {
      "text": "7500",
      "correct": false,
-     "short": "zboruri VFR în spațiul necontrolat (clasa G).",
+     "short": "",
      "long": "7500 este codul pentru deturnare.",
      "warn": ""
     },
     {
      "text": "7000",
      "correct": true,
-     "short": "pierderea comunicațiilor radio (cunoscut și ca radio failure sau stare NORDO – No Radio).",
+     "short": "",
      "long": "Corect. 7000 este codul pentru zborurile VFR în spațiul necontrolat, în Europa.",
      "warn": ""
     },
     {
      "text": "7600",
      "correct": false,
-     "short": "semnal de urgență folosit pentru o intervenție ilicită la bord, inclusiv o tentativă de deturnare (hijacking).",
+     "short": "",
      "long": "7600 este codul pentru pierderea comunicațiilor.",
      "warn": ""
     },
     {
      "text": "7700",
      "correct": false,
-     "short": "semnalul universal pentru o situație de urgență generală în aviația civilă (echivalentul digital al unui MAYDAY).",
+     "short": "",
      "long": "7700 este codul pentru urgență generală.",
      "warn": ""
     }
@@ -2963,7 +2963,7 @@
     {
      "text": "să furnizeze informații utile pentru desfășurarea în siguranță și eficientă a zborului",
      "correct": true,
-     "short": "Să furnizeze informații utile pentru un zbor sigur și eficient.",
+     "short": "",
      "long": "Corect. FIS furnizează informații utile pentru siguranța și eficiența zborului.",
      "warn": ""
     },
@@ -3287,7 +3287,7 @@
     {
      "text": "furnizarea de indicații și informații utile pentru desfășurarea în siguranță și eficientă a zborului",
      "correct": true,
-     "short": "Furnizarea de indicații și informații utile pentru un zbor sigur și eficient.",
+     "short": "",
      "long": "Corect. Furnizarea de indicații și informații utile zborului.",
      "warn": ""
     },
