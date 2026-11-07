@@ -755,3 +755,14 @@ details.question-more .more-body {
  padding-left: 1.2rem;
  text-indent: -1.2rem;
 }
+
+.doc-card h3 {
+  margin: 1.2rem 0 0.4rem;
+  font-size: 1rem;
+  color: var(--accent);
+}
+
+.doc-card p.item {
+  padding-left: 1.2rem;
+  text-indent: -1.2rem;
+}

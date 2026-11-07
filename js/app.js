@@ -138,7 +138,7 @@
     var meta = el('p', 'doc-meta');
     meta.innerHTML = d.meta;
     if (d.meta) main.appendChild(meta);
-    var body = el('div', 'doc-body');
+    var body = el('div', 'doc');
     body.innerHTML = d.html;
     main.appendChild(body);
     window.scrollTo(0, 0);
