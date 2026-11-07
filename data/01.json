@@ -1122,7 +1122,7 @@
    "number": "#32",
    "text": "697: Valabilitatea certificatului general de operator radiotelefonist este de:",
    "short": "Certificatul general de operator radiotelefonist are valabilitate de 5 ani.",
-   "long": "Conform Deciziei ANCOM 543/2017, certificatul de operator este valabil 5 ani. Pentru reînnoire trebuie verificate condițiile actuale la ANCOM, deoarece cerințele pot fi actualizate. Celelalte perioade nu corespund reglementării actuale.",
+   "long": "Certificatul general de operator radiotelefonist este eliberat de ANCOM, iar valabilitatea lui nu este confirmată de documentele din acest manual. Celelalte perioade nu sunt cele ale certificatului general.",
    "answers": [
     {
      "text": "2 ani",

@@ -1194,7 +1194,7 @@
    "number": "#34",
    "text": "891: Pentru a merge din punctul A în punctul B, drumul adevărat, din desenul de mai jos, are ca valoare aproximativă:",
    "short": "Din figura, drumul adevărat de la A la B are valoarea aproximativă 310°.",
-   "long": "Drumul adevărat se măsoară de la nordul geografic în sensul acelor de ceasornic, până la direcția spre punctul B. Valoarea este citită din figura. Verifică unghiul pe desen.",
+   "long": "Drumul adevărat este unghiul măsurat în sensul acelor de ceasornic, de la nordul geografic până la direcția dintre punctul A și punctul B. Se măsoară cu raportorul pe hartă, în forma din desenul întrebării.",
    "answers": [
     {
      "text": "310º",

@@ -762,7 +762,7 @@
    "number": "#22",
    "text": "272: Pe panta următoare, veţi găsi cei mai buni curenți ascendenţi de dinamică:",
    "short": "Cei mai buni curenți ascendenți dinamici se găsesc pe panta 1, conform figurii.",
-   "long": "Curenții dinamici apar pe pantele expuse vântului, unde aerul este forțat să urce. Alegerea pantei depinde de direcția vântului față de versant. Verifică figura, deoarece varianta corectă depinde de desen.",
+   "long": "Curenții dinamici se formează pe pantele expuse vântului, unde aerul este forțat să urce pe relief. Pe pantele sub vânt aerul coboară, deci curenții ascendenți sunt pe versantul expus.",
    "answers": [
     {
      "text": "în 1 si 2",
@@ -1014,7 +1014,7 @@
    "number": "#29",
    "text": "273: Veţi întâlni turbulenţe ce pot fi periculoase în cazul în care zburaţi prea aproape de relief",
    "short": "Turbulențe periculoase apar când zbori prea aproape de relief, în zonele 3 și 4 din figură.",
-   "long": "Turbulențele puternice apar în zonele aflate sub vânt și în apropierea reliefului accidentat. Zonele indicate în figura sunt 3 și 4. Verifică figura pentru poziția exactă.",
+   "long": "Turbulențele puternice apar în zonele de sub vânt și lângă relieful accidentat, unde aerul trece peste obstacole și formează rotoare. Zonele exacte sunt cele indicate pe desenul întrebării.",
    "answers": [
     {
      "text": "în 1",
@@ -1554,7 +1554,7 @@
    "number": "#44",
    "text": "275: Indicaţi zonele cu “umbre de vânt”:",
    "short": "Zonele cu umbre de vânt sunt marcate cu d în figura.",
-   "long": "Umbrele de vânt apar în spatele obstacolelor, pe partea de sub vânt. Figura arată zonele, iar varianta corectă este d. Verifică figura pentru a vedea cum se aplică.",
+   "long": "Umbrele de vânt apar în spatele obstacolelor, pe partea de sub vânt, unde aerul este agitat și nu curge uniform. Zona corectă este cea indicată pe desenul întrebării.",
    "answers": [
     {
      "text": "b",
@@ -2850,7 +2850,7 @@
    "number": "#80",
    "text": "276: Veţi întâlni turbulenţe ce pot fi periculoase în caz de zbor aproape de relief:",
    "short": "Turbulențe periculoase apar zburând aproape de relief în zonele 1, 2 și 3 din figura.",
-   "long": "Turbulența apare în toate zonele sub vânt și lângă relieful accidentat. Varianta corectă indică zonele 1, 2 și 3. Verifică figura pentru poziționarea exactă.",
+   "long": "Turbulența apare în zonele de sub vânt și lângă relieful accidentat, unde curentul de aer este perturbat de obstacole. Zonele exacte sunt cele indicate pe desenul întrebării.",
    "answers": [
     {
      "text": "în 1 şi 2",
@@ -3066,7 +3066,7 @@
    "number": "#86",
    "text": "274: Veţi întâlni turbulenţe ce pot fi periculoase în caz de zbor la mică altitudine sau aterizare:",
    "short": "Turbulențe periculoase apar la zbor la altitudine mică sau la aterizare în zonele 3 și 4 din figura.",
-   "long": "La altitudine mică și la aterizare, turbulența de sub vânt și de la relief este cea mai periculoasă. Varianta corectă indică zonele 3 și 4. Verifică figura.",
+   "long": "La altitudine mică și la aterizare, turbulența de sub vânt și de la relief este cea mai periculoasă, pentru că pilotul are puțin timp de reacție. Zonele exacte sunt cele indicate pe desenul întrebării.",
    "answers": [
     {
      "text": "în 1",
