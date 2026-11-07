@@ -366,34 +366,34 @@
    "number": "#11",
    "text": "384: Ce se întâmplă cu aeronavele civile care aterizează în România fără a respecta reglementările?",
    "short": "Aeronavele care aterizează în România fără a respecta reglementările pot fi reținute la sol până la plata datoriilor sau constituirea garanțiilor.",
-   "long": "Autoritățile pot reține aeronava dacă există datorii, sancțiuni sau lipsa unor garanții. Reținerea este temporară și se ridică la plata datoriilor sau la constituirea garanțiilor. Confiscarea definitivă, returnarea automată și distrugerea imediată nu sunt măsurile prevăzute.",
+   "long": "Codul aerian, art. 35, dă administratorului aerodromului dreptul de retenție a aeronavei la sol pentru neplata tarifelor de utilizare a facilităților și serviciilor. Aeronava poate fi reținută până la stingerea datoriilor sau până la constituirea unei garanții. Încălcarea regulilor de zbor sau aterizarea pe un teren neautorizat au alte consecințe: contravenții (art. 126 lit. c).",
    "answers": [
     {
      "text": "pot fi reținute la sol până la stingerea debitelor sau constituirea unor garanții suficiente",
      "correct": true,
      "short": "",
-     "long": "",
-     "warn": ""
+     "long": "Reținerea la sol prevăzută de art. 35 privește datoriile față de aerodrom, nu încălcarea regulilor de zbor. Aterizarea pe un teren neautorizat este contravenție (art. 126 lit. c).",
+     "warn": "Art. 35 din Codul aerian privește reținerea aeronavei la sol pentru neplata tarifelor de aerodrom sau de navigație, nu pentru încălcarea regulilor de zbor. Pentru aterizarea fără respectarea art. 14 alin. 2 Codul aerian prevede contravenție (art. 126 lit. c)."
     },
     {
      "text": "sunt confiscate definitiv de autorități",
      "correct": false,
      "short": "",
-     "long": "Confiscarea definitivă nu este măsura prevăzută.",
+     "long": "Confiscarea definitivă nu este prevăzută de Codul aerian pentru aterizarea fără respectarea regulilor. Sancțiunea este contravenția (art. 126 lit. c).",
      "warn": ""
     },
     {
      "text": "sunt returnate automat la punctul de origine",
      "correct": false,
      "short": "",
-     "long": "Nu este măsura prevăzută.",
+     "long": "Returnarea automată la punctul de origine nu este prevăzută de Codul aerian.",
      "warn": ""
     },
     {
      "text": "sunt distruse imediat",
      "correct": false,
      "short": "",
-     "long": "Nu este măsura prevăzută.",
+     "long": "Distrugerea imediată a aeronavei nu este prevăzută de Codul aerian pentru aterizarea fără respectarea regulilor.",
      "warn": ""
     }
    ]
@@ -402,34 +402,34 @@
    "number": "#12",
    "text": "369: Ce autoritate reglementează funcționarea aerodromurilor civile?",
    "short": "Funcționarea aerodromurilor civile este reglementată de Ministerul Transporturilor.",
-   "long": "Ministerul Transporturilor, Construcțiilor și Turismului (MTCT) reglementează aviația civilă, inclusiv aerodromurile. Administrația locală, Autoritatea Națională de Securitate și Ministerul Apărării au alte atribuții în domeniu.",
+   "long": "Codul aerian dă Ministerului Transporturilor, Infrastructurii și Comunicațiilor atribuțiile privind aerodromurile civile. Autoritatea Aeronautică Civilă Română exercită prin delegare atribuțiile de certificare.",
    "answers": [
     {
      "text": "Administrația locală",
      "correct": false,
      "short": "",
-     "long": "Nu reglementează aerodromurile civile.",
+     "long": "Administrația locală nu reglementează aerodromurile civile. Poate stabili restricții de zbor pe teren (art. 14 alin. 2 lit. d), dar nu funcționarea aerodromului.",
      "warn": ""
     },
     {
      "text": "Ministerul Transporturilor",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Ministerul Transporturilor (numit în Codul aerian Ministerul Transporturilor, Infrastructurii și Comunicațiilor) reglementează și exercită atribuțiile privind aerodromurile civile.",
      "warn": ""
     },
     {
      "text": "Autoritatea Națională de Securitate",
      "correct": false,
      "short": "",
-     "long": "Nu este autoritatea pentru aerodromuri civile.",
+     "long": "Autoritatea Națională de Securitate nu are competența reglementării aerodromurilor civile.",
      "warn": ""
     },
     {
      "text": "Ministerul Apărării Naționale",
      "correct": false,
      "short": "",
-     "long": "Nu reglementează aerodromurile civile.",
+     "long": "Ministerul Apărării Naționale reglementează aerodromurile militare, nu pe cele civile.",
      "warn": ""
     }
    ]
@@ -438,34 +438,34 @@
    "number": "#13",
    "text": "379: Cine eliberează certificatul de pregătire teoretică și practică pentru revalidarea licenței de pilot de aeronave ultraușoare motorizate?",
    "short": "Certificatul de pregătire pentru revalidarea licenței de ULM este eliberat de pilotul instructor.",
-   "long": "Pregătirea pentru revalidare este efectuată de un instructor calificat, care eliberează certificatul de pregătire. Ministerul, operatorul și examinatorul au alte roluri în procesul de licențiere.",
+   "long": "Revalidarea licenței de ULM cere certificat de pregătire teoretică și practică. Acesta este eliberat de pilotul instructor sub supravegherea căruia s-a făcut cursul, într-o formă agreată de autoritatea de certificare (RACR-LPAN ULM.2045 lit. c).",
    "answers": [
     {
      "text": "Ministerul Transporturilor",
      "correct": false,
      "short": "",
-     "long": "Nu eliberează certificatul de pregătire pentru revalidare.",
+     "long": "Ministerul Transporturilor nu eliberează certificatul de pregătire pentru licența de ULM. Ministerul reglementează, dar documentul e eliberat de instructor.",
      "warn": ""
     },
     {
      "text": "pilotul instructor",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Pilotul instructor, sub supravegherea căruia s-a finalizat pregătirea teoretică, eliberează certificatul (RACR-LPAN ULM.2045 lit. c).",
      "warn": ""
     },
     {
      "text": "operatorul aerian",
      "correct": false,
      "short": "",
-     "long": "Nu este varianta corectă.",
+     "long": "Operatorul aerian nu eliberează certificatul de pregătire pentru licența de ULM. Acesta ține de instructor.",
      "warn": ""
     },
     {
      "text": "examinatorul autorizat",
      "correct": false,
      "short": "",
-     "long": "Examinatorul evaluează, dar nu eliberează certificatul de pregătire.",
+     "long": "Examinatorul autorizat evaluează candidatul, dar nu eliberează certificatul de pregătire (RACR-LPAN ULM.2045).",
      "warn": ""
     }
    ]
@@ -474,34 +474,34 @@
    "number": "#14",
    "text": "343: Ce trebuie să facă un pilot pentru a efectua salturi cu parașuta?",
    "short": "Pentru a efectua salturi cu parașuta, pilotul trebuie să obțină autorizație de la AACR.",
-   "long": "Salturile cu parașuta dintr-o aeronavă sunt activitate specială, care cere autorizare. Autoritatea competentă este Autoritatea Aeronautică Civilă Română (AACR). Notificarea turnului sau a aeroportului și planul de zbor nu înlocuiesc autorizația.",
+   "long": "Efectuarea salturilor cu parașuta de personal aeronautic civil este reglementată de Autoritatea Aeronautică Civilă Română, care emite reglementările și documentele de admisibilitate la salt (Codul aerian, atribuțiile AACR, lit. x și z). Salturile se fac cu autorizație.",
    "answers": [
     {
      "text": "să comunice cu turnul de control",
      "correct": false,
      "short": "",
-     "long": "Comunicarea nu înlocuiește autorizația.",
+     "long": "Comunicarea cu turnul nu este condiția pentru salt. Condiția este autorizarea de la autoritatea competentă (Codul aerian, AACR).",
      "warn": ""
     },
     {
      "text": "să obțină autorizație de la AACR",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Salturile cu parașuta sunt autorizate de AACR, care emite reglementările și documentele de admisibilitate la salt (Codul aerian, lit. x și z).",
      "warn": ""
     },
     {
      "text": "să notifice autoritățile aeroportului",
      "correct": false,
      "short": "",
-     "long": "Notificarea nu înlocuiește autorizația.",
+     "long": "Notificarea autorităților aeroportului nu este condiția de bază. Autorizarea o dă AACR.",
      "warn": ""
     },
     {
      "text": "să depună un plan de zbor",
      "correct": false,
      "short": "",
-     "long": "Planul de zbor nu înlocuiește autorizația.",
+     "long": "Planul de zbor nu este documentul de autorizare a saltului. Autorizația este de la AACR.",
      "warn": ""
     }
    ]
@@ -510,34 +510,34 @@
    "number": "#15",
    "text": "364: Ce sunt serviciile de informare a zborurilor?",
    "short": "Serviciile de informare a zborurilor oferă informații despre meteo, starea aerodromurilor și alte elemente care influențează siguranța.",
-   "long": "Serviciul de informare (FIS) nu controlează zborurile, ci oferă informații utile pentru un zbor sigur. Monitorizarea traficului, comunicarea cu turnul și planificarea sunt alte funcții.",
+   "long": "Serviciul de informare a zborurilor (FIS) este un serviciu care dă indicații și informații utile pentru zborul în siguranță și eficient (RACR-RA, definiția 70). Include informații despre meteo, starea aerodromurilor și alte elemente care influențează siguranța.",
    "answers": [
     {
      "text": "servicii de monitorizare a traficului aerian",
      "correct": false,
      "short": "",
-     "long": "Aceasta este funcția de control, nu de informare.",
+     "long": "Monitorizarea traficului este tipică serviciului de control, nu serviciului de informare (RACR-RA, definiția 70-71).",
      "warn": ""
     },
     {
      "text": "servicii care furnizează informații privind condițiile meteorologice, modificările stării aerodromurilor și alte elemente care influențează siguranța zborului",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Serviciul de informare a zborurilor dă informații meteo, despre starea aerodromurilor și alte elemente care influențează siguranța (RACR-RA, definiția 70).",
      "warn": ""
     },
     {
      "text": "servicii care asigură comunicarea între piloți și turnurile de control",
      "correct": false,
      "short": "",
-     "long": "Aceasta nu este definiția serviciului de informare.",
+     "long": "Comunicarea între piloți și turnuri nu definește serviciul de informare. Aceasta ține de serviciul de trafic aerian.",
      "warn": ""
     },
     {
      "text": "servicii de planificare a zborurilor",
      "correct": false,
      "short": "",
-     "long": "Planificarea este altă activitate.",
+     "long": "Planificarea zborurilor nu este serviciul de informare, care furnizează informații în timpul zborului (RACR-RA, definiția 70).",
      "warn": ""
     }
    ]
@@ -546,34 +546,34 @@
    "number": "#16",
    "text": "355: Ce reguli se aplică pentru zborurile VFR în zona de control de aerodrom?",
    "short": "Zborurile VFR în zona de control de aerodrom se coordonează cu zborurile aeronavelor de transport aerian public.",
-   "long": "În zona de control, traficul VFR trebuie integrat cu traficul de transport aerian public, prin coordonarea cu ATC. Zborurile VFR nu sunt interzise în zona de control și nu sunt limitate la noapte. Ele nu sunt scutite de coordonare.",
+   "long": "În zona de control de aerodrom, un zbor VFR trebuie să solicite autorizare ATC și să fie coordonat cu traficul. RACR-RA 2.4.3 prevede că zborul operat într-o zonă de control solicită autorizarea de a opera ca zbor VFR special.",
    "answers": [
     {
      "text": "zborurile VFR se vor putea desfășura numai prin coordonarea acestora cu cele ale aeronavelor de transport aerian public",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Zborul VFR în zona de control este coordonat cu traficul, prin autorizare ATC (RACR-RA 2.4.3 și 4.020).",
      "warn": ""
     },
     {
      "text": "zborurile VFR sunt permise doar pe timp de noapte",
      "correct": false,
      "short": "",
-     "long": "Nu este regula.",
+     "long": "Zborul VFR nu este limitat la noapte. Regula din RACR-RA cere coordonare ATC, nu un interval orar.",
      "warn": ""
     },
     {
      "text": "\"zborurile VFR nu sunt permise în zona de control de aerodrom",
      "correct": false,
      "short": "Zborurile VFR nu sunt permise în zona de control de aerodrom.",
-     "long": "Pot fi permise, cu coordonare.",
+     "long": "Zborul VFR nu este interzis în zona de control. Este permis cu autorizare ATC (RACR-RA 2.4.3).",
      "warn": ""
     },
     {
      "text": "zborurile VFR nu necesită coordonare cu aeronavele de transport aerian public",
      "correct": false,
      "short": "",
-     "long": "Coordonarea este necesară.",
+     "long": "Zborul VFR în zona de control necesită coordonare cu traficul, deci afirmația este contrară RACR-RA 2.4.3.",
      "warn": ""
     }
    ]
@@ -582,34 +582,34 @@
    "number": "#17",
    "text": "194: În livretul aeronavei ULM se vor consemna:",
    "short": "În livretul aeronavei ULM se înscrie, la sfârșitul fiecărei zile de zbor, activitatea de zbor a aeronavei.",
-   "long": "Livretul aeronavei arată istoricul ei: orele de zbor, lucrările efectuate și activitatea zilnică. Numărul de litri de combustibil, orele pilotului și datele proprietarului sunt alte informații, care nu sunt consemnate în această formă.",
+   "long": "Livretul aeronavei ULM este document obligatoriu în care se ține evidența activității de zbor și a lucrărilor de întreținere și reparații (RACR-CCO ULM 1095). Trebuie prezentat inspectorilor la cerere.",
    "answers": [
     {
      "text": "numărul de zboruri efectuate cu aeronava, inclusiv cantitatea de combustibil utilizată",
      "correct": false,
      "short": "Numărul de zboruri efectuate, inclusiv cantitatea de combustibil utilizată.",
-     "long": "Combustibilul nu este informația obligatorie.",
+     "long": "Combustibilul consumat nu este înscris ca obiect al livretului. Livretul ține evidența zborurilor și a întreținerii (RACR-CCO ULM 1095).",
      "warn": ""
     },
     {
      "text": "incidentele de zbor apărute și orele de zbor ale pilotului comandant",
      "correct": false,
      "short": "",
-     "long": "Orele pilotului sunt în carnetul de zbor.",
+     "long": "Orele pilotului comandant sunt în carnetul de zbor al pilotului (RACR-LPAN ULM.4020), nu în livretul aeronavei.",
      "warn": ""
     },
     {
      "text": "numărul de licență și calificarea proprietarului",
      "correct": false,
      "short": "",
-     "long": "Acestea nu se consemnează în livret.",
+     "long": "Licența și calificarea proprietarului nu sunt înscrise în livretul aeronavei.",
      "warn": ""
     },
     {
      "text": "la sfârșitul fiecărei zile de zbor se va înscrie activitatea de zbor a aeronavei",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Livretul aeronavei ține evidența activității de zbor a aeronavei (RACR-CCO ULM 1095).",
      "warn": ""
     }
    ]
@@ -654,34 +654,34 @@
    "number": "#19",
    "text": "356: Care este ordinea de prioritate a aeronavelor la aterizare?",
    "short": "Aeronavele care cer aterizarea peste rând din cauza unei situații speciale la bord au prioritate.",
-   "long": "Prioritatea la aterizare se acordă aeronavelor care au o situație specială, de exemplu urgență sau probleme tehnice grave, pentru a putea ateriza în siguranță. Tipul de motor, marfa sau viteza nu determină prioritatea.",
+   "long": "La aterizare, RACR-RA 2.5 stabilește prioritățile. Aeronava aflată în situație de urgență sau care cere aterizarea urgentă are prioritate față de celelalte aeronave din circuit (RACR-RA 2.5.3).",
    "answers": [
     {
      "text": "aeronavele care solicită aterizarea peste rând datorită unei situații speciale la bord au prioritate",
      "correct": true,
      "short": "Aeronavele care solicită aterizarea peste rând datorită unei situații speciale la bord.",
-     "long": "Este varianta corectă.",
+     "long": "Corect. O aeronavă care cere aterizarea peste rând din cauza unei situații speciale la bord are prioritate (RACR-RA 2.5.3).",
      "warn": ""
     },
     {
      "text": "aeronavele cu motoare cu piston au prioritate",
      "correct": false,
      "short": "Aeronavele cu motoare cu piston.",
-     "long": "Tipul motorului nu dă prioritate.",
+     "long": "Tipul de motor nu determină prioritatea la aterizare (RACR-RA 2.5).",
      "warn": ""
     },
     {
      "text": "aeronavele de transport marfă au prioritate",
      "correct": false,
      "short": "Aeronavele de transport marfă.",
-     "long": "Marfa nu dă prioritate.",
+     "long": "Transportul de marfă nu conferă prioritate la aterizare (RACR-RA 2.5).",
      "warn": ""
     },
     {
      "text": "aeronavele cu viteza mai mare au prioritate",
      "correct": false,
      "short": "Aeronavele cu viteza mai mare.",
-     "long": "Viteza nu dă prioritate.",
+     "long": "Viteza nu determină prioritatea. Regula din RACR-RA 2.5.2 se referă la nivelul de zbor și la aeronava aflată în etapele finale ale apropierii.",
      "warn": ""
     }
    ]
@@ -726,35 +726,35 @@
    "number": "#21",
    "text": "337: Care sunt contravențiile specifice zborului cu motoparapanta?",
    "short": "Contravențiile specifice zborului cu motoparapanta includ decolarea din zone interzise, neanunțarea zborului și zborul fără licență valabilă: toate variantele sunt corecte.",
-   "long": "Fiecare dintre aceste situații încalcă reglementarea: decolarea din zone interzise, neanunțarea zborului planificat și zborul fără licență valabilă. Varianta care le cuprinde pe toate este cea corectă.",
+   "long": "Contravențiile din Codul aerian (art. 126) privesc, printre altele, aterizarea și decolarea de pe teren neautorizat (lit. c) și activitatea fără document de certificare valabil (lit. l). Neanunțarea zborului nu apare în lista contravențiilor din art. 126.",
    "answers": [
     {
      "text": "decolarea din zone interzise",
      "correct": false,
      "short": "",
-     "long": "Este o contravenție, dar nu singura.",
+     "long": "Decolarea de pe un teren neautorizat este contravenție (art. 126 lit. c), dacă nu sunt respectate condițiile art. 14 alin. 2.",
      "warn": ""
     },
     {
      "text": "neanunțarea autorităților de zborul planificat",
      "correct": false,
      "short": "",
-     "long": "Este o contravenție, dar nu singura.",
+     "long": "Neanunțarea zborului planificat nu este enumerată printre contravențiile din art. 126 al Codului aerian.",
      "warn": ""
     },
     {
      "text": "zborul fără licență valabilă",
      "correct": false,
      "short": "",
-     "long": "Este o contravenție, dar nu singura.",
+     "long": "Zborul fără document de certificare valabil este contravenție (art. 126 lit. l).",
      "warn": ""
     },
     {
      "text": "toate variantele sunt corecte",
      "correct": true,
      "short": "",
-     "long": "Este varianta corectă.",
-     "warn": ""
+     "long": "Nu toate variantele sunt contravenții: neanunțarea zborului nu apare în art. 126.",
+     "warn": "Nu toate variantele sunt contravenții. Neanunțarea zborului planificat nu este enumerată în art. 126 din Codul aerian. Contravențiile privesc decolarea de pe teren neautorizat (lit. c) și activitatea fără document de certificare valabil (lit. l)."
     }
    ]
   },
@@ -834,34 +834,34 @@
    "number": "#24",
    "text": "382: Ce autoritate este responsabilă pentru reglementarea și organizarea activităților de căutare și salvare a aeronavelor civile în România?",
    "short": "Căutarea și salvarea aeronavelor civile în România sunt reglementate de Ministerul Transporturilor, Construcțiilor și Turismului.",
-   "long": "MTCT este autoritatea de reglementare a aviației civile, inclusiv a activităților de căutare și salvare, prin structurile sale competente. Ministerul Justiției, Sănătății și Mediului au alte domenii.",
+   "long": "Coordonarea căutării și salvării pentru aeronavele civile în FIR București este stabilită prin HG nr. 1.234/2021. Ministerul Transporturilor și Infrastructurii, prin ROMATSA, asigură serviciul de alarmare și funcționează ca punct de contact, împreună cu Ministerul Afacerilor Interne.",
    "answers": [
     {
      "text": "Ministerul Justiției",
      "correct": false,
      "short": "",
-     "long": "Nu este autoritatea aviației civile.",
+     "long": "Ministerul Justiției nu are atribuții în căutarea și salvarea aeronavelor civile, conform HG nr. 1.234/2021.",
      "warn": ""
     },
     {
      "text": "Ministerul Sănătății",
      "correct": false,
      "short": "",
-     "long": "Nu este autoritatea aviației civile.",
+     "long": "Ministerul Sănătății nu coordonează căutarea și salvarea aeronavelor. Acesta intervine doar prin serviciile medicale, nu ca autoritate responsabilă (HG nr. 1.234/2021).",
      "warn": ""
     },
     {
      "text": "Ministerul Transporturilor, Construcțiilor și Turismului",
      "correct": true,
      "short": "",
-     "long": "",
+     "long": "Corect. Ministerul responsabil cu transporturile coordonează, prin ROMATSA, sistemul de căutare și salvare (HG nr. 1.234/2021). Denumirea din variantă este cea veche a ministerului.",
      "warn": ""
     },
     {
      "text": "Ministerul Mediului",
      "correct": false,
      "short": "",
-     "long": "Nu este autoritatea aviației civile.",
+     "long": "Ministerul Mediului nu are atribuții în căutarea și salvarea aeronavelor (HG nr. 1.234/2021).",
      "warn": ""
     }
    ]
@@ -870,34 +870,34 @@
    "number": "#25",
    "text": "365: Ce este un certificat de navigabilitate?",
    "short": "Certificatul de navigabilitate atestă conformitatea aeronavei cu standardele de siguranță și este necesar pentru operare.",
-   "long": "Certificatul de navigabilitate confirmă că aeronava este construită și întreținută conform standardelor de siguranță, deci poate zbura. Este diferit de certificatul de înmatriculare, care arată înregistrarea, și de masa maximă, care este o limită tehnică.",
+   "long": "Certificatul de navigabilitate este documentul individual de certificare al aeronavei care atestă că aeronava corespunde cerințelor de siguranță și este necesar pentru a o opera (Codul aerian, definiția 21).",
    "answers": [
     {
      "text": "document care permite operarea unei aeronave pe rute internaționale",
      "correct": false,
      "short": "",
-     "long": "Nu este definiția certificatului de navigabilitate.",
+     "long": "Dreptul de a opera pe rute internaționale nu este funcția certificatului de navigabilitate.",
      "warn": ""
     },
     {
      "text": "document care atestă conformitatea unei aeronave cu standardele de siguranță și este necesar pentru operarea acesteia",
      "correct": true,
      "short": "",
-     "long": "Este definiția corectă.",
+     "long": "Corect. Certificatul de navigabilitate atestă conformitatea aeronavei cu standardele de siguranță și este necesar pentru operare (Codul aerian, definiția 21).",
      "warn": ""
     },
     {
      "text": "document care specifică capacitatea maximă de încărcare a unei aeronave",
      "correct": false,
      "short": "Document care specifică capacitatea maximă de încărcare.",
-     "long": "Aceasta este o limită tehnică, nu certificatul.",
+     "long": "Capacitatea maximă de încărcare este masa, nu certificatul de navigabilitate.",
      "warn": ""
     },
     {
      "text": "document care atestă proprietatea asupra unei aeronave",
      "correct": false,
      "short": "",
-     "long": "Proprietatea se dovedește altfel.",
+     "long": "Dovada proprietății nu este funcția certificatului de navigabilitate.",
      "warn": ""
     }
    ]
@@ -978,34 +978,34 @@
    "number": "#28",
    "text": "177: Zborul cu pasager (altă persoană la bord decât pilotul comandant sau elevul pilot) este permis:",
    "short": "Zborul cu pasager este permis piloților care dețin autorizația respectivă.",
-   "long": "Transportul unei persoane pe lângă pilot cere autorizare specială, care depinde de experiența și calificarea pilotului. Proprietarii, deținătorii de aeronave sau piloții cu 150 de ore nu sunt criteriul corect.",
+   "long": "Zborul cu alte persoane decât pilotul comandant sau elevul pilot cere autorizație specială, eliberată pilotului care are calificarea și dreptul de zbor cu pasageri pe clasa respectivă (RACR-LPAN ULM.2030).",
    "answers": [
     {
      "text": "proprietarilor sau deţinătorilor de aeronave cu licenţa de pilot în termen de valabilitate",
      "correct": false,
      "short": "Proprietarilor sau deținătorilor de aeronave cu licența de pilot în termen de valabilitate.",
-     "long": "Proprietatea nu dă dreptul de a transporta pasageri.",
+     "long": "Calitatea de proprietar sau de deținător nu acordă dreptul de zbor cu pasageri. Este necesară autorizația specială (RACR-LPAN ULM.2030).",
      "warn": ""
     },
     {
      "text": "piloţilor care deţin autorizaţia respectivă, iar aeronava este omologată",
      "correct": false,
      "short": "Piloților care dețin autorizația respectivă, iar aeronava este omologată.",
-     "long": "Omologarea este o condiție în plus; varianta cea mai directă este cea cu autorizația.",
+     "long": "Omologarea aeronavei nu este condiția pentru zborul cu pasageri. Condiția este autorizația specială a pilotului (RACR-LPAN ULM.2030).",
      "warn": ""
     },
     {
      "text": "piloţilor care deţin autorizaţia respectivă",
      "correct": true,
      "short": "Piloților care dețin autorizația respectivă.",
-     "long": "",
+     "long": "Corect. Zborul cu pasageri este permis piloților care au autorizația specială (RACR-LPAN ULM.2030).",
      "warn": ""
     },
     {
      "text": "piloţilor care au acumulat minimum 150 ore experienţa de zbor în calitate de pilot comandant",
      "correct": false,
      "short": "Piloților care au acumulat minimum 150 de ore de zbor ca pilot comandant.",
-     "long": "Cifra de 150 de ore nu este criteriul corect.",
+     "long": "Numărul de ore de zbor ca pilot comandant nu este condiția din regulament pentru zborul cu pasageri. Condiția este autorizația specială.",
      "warn": ""
     }
    ]
@@ -1050,34 +1050,34 @@
    "number": "#30",
    "text": "349: Ce marcă de naționalitate și însemne de înmatriculare sunt atribuite României?",
    "short": "România are marca de naționalitate YR, urmată de semnele de înmatriculare.",
-   "long": "Marca de naționalitate este indicativul țării în care este înregistrată aeronava. Pentru România este YR, urmat de semnele de înmatriculare. Litera F, C și R nu sunt marca României.",
+   "long": "Marca de naționalitate a României, conform sistemului ICAO, este YR, urmată de semnele de înmatriculare ale aeronavei.",
    "answers": [
     {
      "text": "litera F urmată de un grup de patru litere",
      "correct": false,
      "short": "",
-     "long": "F este marca Franței.",
+     "long": "F este marca Franței, nu a României.",
      "warn": ""
     },
     {
      "text": "grupul de litere YR urmate de semnele de înmatriculare",
      "correct": true,
      "short": "",
-     "long": "Este marca României.",
+     "long": "Corect. Marca de naționalitate a României este YR (sistemul ICAO), urmată de semnele de înmatriculare.",
      "warn": ""
     },
     {
      "text": "litera C urmată de un grup de patru litere",
      "correct": false,
      "short": "",
-     "long": "C este marca Canadei.",
+     "long": "C este marca Canadei, nu a României.",
      "warn": ""
     },
     {
      "text": "litera R urmată de un grup de patru litere",
      "correct": false,
      "short": "",
-     "long": "R nu este marca României.",
+     "long": "R nu este marca de naționalitate a României. Marca este YR.",
      "warn": ""
     }
    ]
@@ -1158,34 +1158,34 @@
    "number": "#33",
    "text": "185: Când dispecerul extinde brusc braţele şi barele deasupra capului, încrucişând barele, înseamnă că ne comunică:",
    "short": "Când dispecerul extinde brusc brațele și barele deasupra capului, încrucișându-le, comunică oprirea de urgență.",
-   "long": "Semnalele de sol ale dispecerului sunt standardizate. Brațele încrucișate deasupra capului înseamnă oprire de urgență. Frânarea, trecerea fără schimbare sau accelerarea au alte semnale.",
+   "long": "Semnalizarea de la sol folosește gesturi standard. Brațele întinse și încrucișate deasupra capului înseamnă oprire, ceea ce pilotul trebuie să respecte imediat.",
    "answers": [
     {
      "text": "să aplicăm frânele",
      "correct": false,
      "short": "",
-     "long": "Acesta este alt semnal.",
+     "long": "Aplicarea frânelor nu este semnalul pentru brațele încrucișate deasupra capului.",
      "warn": ""
     },
     {
      "text": "să oprim de urgenţă",
      "correct": true,
      "short": "Să oprim de urgență.",
-     "long": "Este semnalul corect.",
+     "long": "Corect. Brațele întinse și încrucișate deasupra capului înseamnă oprire de urgență în semnalizarea de la sol.",
      "warn": ""
     },
     {
      "text": "să trecem fară a modifica viteza și înălțimea",
      "correct": false,
      "short": "Să trecem fără a modifica viteza și înălțimea.",
-     "long": "Este alt semnal.",
+     "long": "Trecerea fără modificarea vitezei și înălțimii nu corespunde semnalului de oprire de urgență.",
      "warn": ""
     },
     {
      "text": "să accelerăm și să luăm înălțime",
      "correct": false,
      "short": "",
-     "long": "Este alt semnal.",
+     "long": "Accelerarea și urcarea nu sunt semnale de oprire.",
      "warn": ""
     }
    ]
