@@ -787,6 +787,7 @@
     },
     {
      "text": "pot provoca pierderea portanței și instabilitate temporară",
+     "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "Corect. Turbulențele pot duce la pierderea portanței și instabilitate.",
@@ -1032,6 +1033,7 @@
     },
     {
      "text": "reduc stabilitatea și cresc riscul de pierdere a controlului",
+     "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "Corect. Reduc stabilitatea și cresc riscul de pierdere a controlului.",

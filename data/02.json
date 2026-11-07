@@ -1759,6 +1759,7 @@
     },
     {
      "text": "o deformare în care bordul de atac se pliază în jos",
+     "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "Corect. Frontstall înseamnă că bordul de atac se pliază în jos.",
@@ -2227,6 +2228,7 @@
     },
     {
      "text": "o deformare în care o parte a aripii se dezumflă și cealaltă nu",
+     "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "Corect. O parte a aripii se dezumflă, cealaltă rămâne umflată.",

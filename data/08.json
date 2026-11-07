@@ -773,6 +773,7 @@
     },
     {
      "text": "nu este recomandată decolarea cu vânt de spate, iar la aceasta viteză este puțin probabil să putem decola",
+     "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "Corect. Decolarea cu vânt de spate peste 20 km/h nu este recomandată.",
@@ -2854,6 +2855,7 @@
    "answers": [
     {
      "text": "Termicele puternice pot cauza turbulențe severe, crescând riscul de colapsuri",
+     "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "Corect. Termicele puternice cresc turbulența și riscul de colaps.",

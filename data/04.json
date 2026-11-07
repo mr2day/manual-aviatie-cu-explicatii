@@ -190,6 +190,7 @@
    "answers": [
     {
      "text": "nori de tip Cumulonimbus",
+     "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "Corect. Furtunile sunt asociate cu cumulonimbus.",
@@ -751,6 +752,7 @@
     },
     {
      "text": "turbulenţe şi “umbre de vânt” în spatele copacilor, sub vânt",
+     "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "Corect. Aerul trece peste copaci, se desprinde de ei și formează rotoare și zone de vânt redus în spate: turbulențe și umbre de vânt sub vânt.",
@@ -883,6 +885,7 @@
     },
     {
      "text": "turbulenţe şi “umbre de vânt” în spatele copacilor, sub vânt",
+     "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "Corect. Aerul trece peste copaci, se desprinde de ei și formează rotoare și zone de vânt redus în spate: turbulențe și umbre de vânt sub vânt.",
@@ -1028,6 +1031,7 @@
     },
     {
      "text": "în 3 şi 4",
+     "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "Corect. Zona 3 este rotorul de sub creastă, iar zona 4 este turbulența din aval, unde aerul agitat continuă să fie periculos.",
@@ -1489,6 +1493,7 @@
    "answers": [
     {
      "text": "o zonă de intalnire a unor mase de aer ce riscă să provoace turbulenţe puternice",
+     "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "Corect. Zona de forfecare este locul de întâlnire a maselor de aer, cu risc de turbulență.",
@@ -1922,6 +1927,7 @@
    "answers": [
     {
      "text": "ocolirea norilor de tip CB la o distanță de minim 10 km și minim 37 km pentru orajele puternice",
+     "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "Ocolirea norilor CB la distanță mare este regula de bază, pentru că aceștia produc turbulență, grindină și rafale. Cifrele de 10 km și 37 km din această variantă nu sunt stabilite de regulamentele din manual.",
@@ -2872,6 +2878,7 @@
     },
     {
      "text": "în 1, 2 şi 3",
+     "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "Depinde de figură.",
@@ -2966,6 +2973,7 @@
    "answers": [
     {
      "text": "turbulenţe şi “umbre de vânt” în spatele copacilor, sub vânt",
+     "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "Corect. Aerul trece peste perdea, se desprinde de ea și formează turbulențe și umbre de vânt în spate, sub vânt.",
@@ -3081,6 +3089,7 @@
     },
     {
      "text": "în 3 şi 4",
+     "tag": "atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "Depinde de figură.",
