@@ -509,19 +509,35 @@ details.more .more-body p:last-child {
 .site-header { background: var(--card); border-bottom: 1px solid var(--border); }
 .header-inner { flex-wrap: wrap; align-items: center; gap: 16px 24px; max-width: 1280px; padding: 18px 24px; }
 .brand-box {
-  display: inline-flex; flex-direction: column;
-  padding: 10px 16px 8px;
-  background: var(--band);
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 12px 22px 10px;
+  background: #1a1e1e;
   border: 2px solid #ffffff;
   border-radius: 8px;
   text-decoration: none;
   font-family: var(--font-head);
   line-height: 1;
 }
-.brand-top { color: #ffffff; font-size: 1.9rem; font-weight: 700; letter-spacing: 1px; border-bottom: 3px solid #ffffff; padding-bottom: 4px; }
-.brand-bottom { color: var(--accent); font-size: 1.9rem; font-weight: 700; letter-spacing: 1px; padding-top: 4px; }
+.brand-top,
+.brand-bottom {
+  display: inline-block;
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1), color 0.35s ease;
+  transform-origin: center;
+}
+.brand-top { color: #ffffff; padding-bottom: 4px; border-bottom: 3px solid #ffffff; }
+.brand-bottom { color: var(--accent); padding-top: 4px; }
+.brand-top:hover,
+.brand-bottom:hover { transform: scale(1.08); }
+.brand-bottom:hover { color: #ffffff; }
 .brand-tagline { margin: 0; font-family: var(--font-head); font-size: 1rem; font-weight: 600; letter-spacing: 2px; text-transform: uppercase; color: var(--text); }
-@media (max-width: 600px) { .brand-top, .brand-bottom { font-size: 1.4rem; } .brand-tagline { font-size: 0.85rem; letter-spacing: 1px; } }
+@media (max-width: 600px) { .brand-top, .brand-bottom { font-size: 1.5rem; } .brand-tagline { font-size: 0.85rem; letter-spacing: 1px; } }
+@media (prefers-reduced-motion: reduce) { .brand-top, .brand-bottom { transition: none; } }
 
 /* Linkuri secundare din bara laterală */
 .extra-links { display: flex; flex-direction: column; gap: 10px; margin-top: 1.25rem; }
