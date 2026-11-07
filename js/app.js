@@ -102,6 +102,13 @@
           det.firstChild.setAttribute('aria-label', 'Detalii');
           body.appendChild(det);
         }
+        if (det) {
+          li.classList.add('has-detail');
+          li.addEventListener('click', function (e) {
+            if (e.target.closest('details.answer-more')) return;
+            det.open = !det.open;
+          });
+        }
         if (a.warn) {
           var w = el('p', 'warn');
           var strong = el('strong', null, 'Atenție: ');

@@ -681,3 +681,12 @@ details.question-more .more-body {
  vertical-align: -3px;
  margin-right: 4px;
 }
+
+.answer.has-detail {
+ cursor: pointer;
+ transition: background-color 0.15s ease;
+}
+
+.answer.has-detail:hover {
+ background-color: rgba(101, 164, 230, 0.08);
+}
