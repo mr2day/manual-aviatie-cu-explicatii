@@ -49,11 +49,12 @@
     main.textContent = '';
     main.appendChild(el('h1', 'sr-only', c.title));
 
-    c.questions.forEach(function (q) {
+    c.questions.forEach(function (q, index) {
       var section = el('section', 'question');
       var h2 = el('h2', 'question-title');
-      h2.appendChild(el('span', 'question-number', q.number + '. '));
-      h2.appendChild(document.createTextNode(q.text));
+      h2.appendChild(el('span', 'question-number', String(index + 1)));
+      // Codul din bancă (ex. "698: ") nu se mai afișează
+      h2.appendChild(document.createTextNode(q.text.replace(/^\d+:\s*/, '')));
       section.appendChild(h2);
       section.appendChild(el('p', 'question-short', q.short));
       section.appendChild(more('Explicație detaliată', q.long));
