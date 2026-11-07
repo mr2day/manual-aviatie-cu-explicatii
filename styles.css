@@ -116,6 +116,9 @@ body {
   flex: 0 0 264px;
   position: sticky;
   top: 16px;
+  max-height: calc(100vh - 32px);
+  overflow-y: auto;
+  padding-right: 6px;
 }
 
 .topics {
@@ -238,6 +241,8 @@ body {
     position: static;
     flex: none;
     width: 100%;
+    max-height: none;
+    overflow: visible;
   }
 
   .topics {
