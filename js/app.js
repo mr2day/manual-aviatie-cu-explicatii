@@ -186,14 +186,23 @@
     }
 
     function step(d) {
+      flush();
       if (!matches.length) return;
       go((pos + d + matches.length) % matches.length);
     }
 
-    refs.input.addEventListener('input', recalc);
+    // Căutarea pornește la o secundă după ultimul caracter introdus.
+    var timer = null;
+    function flush() {
+      if (timer) { clearTimeout(timer); timer = null; recalc(); }
+    }
+    refs.input.addEventListener('input', function () {
+      if (timer) clearTimeout(timer);
+      timer = setTimeout(function () { timer = null; recalc(); }, 1000);
+    });
     refs.input.addEventListener('keydown', function (e) {
       if (e.key === 'Enter') { e.preventDefault(); step(e.shiftKey ? -1 : 1); }
-      if (e.key === 'Escape') { refs.input.value = ''; recalc(); }
+      if (e.key === 'Escape') { if (timer) { clearTimeout(timer); timer = null; } refs.input.value = ''; recalc(); }
     });
     refs.prev.addEventListener('click', function () { step(-1); });
     refs.next.addEventListener('click', function () { step(1); });
