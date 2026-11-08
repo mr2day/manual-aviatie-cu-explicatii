@@ -872,7 +872,7 @@ details.question-more .more-body {
   margin: 0 0 1rem;
   padding: 10px;
   background: var(--card);
-  border: 2px solid var(--accent);
+  border: 2px solid #7a8a92;
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.45);
   border-radius: 4px;
 }
