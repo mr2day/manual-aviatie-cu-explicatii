@@ -3396,7 +3396,7 @@
      "text": "semnalizează în orice mod pierderea legăturii radio",
      "correct": false,
      "short": "",
-     "long": "Pilotul semnalizează pierderea legăturii prin transponder (7600) și procedura standard, nu în orice mod.",
+     "long": "Pilotul semnalizează pierderea legăturii prin transponder (7600) și procedura standard, nu în orice mod.\n\n## 7600 – Pană de radio / Pierderea comunicațiilor (Radio Failure)\n\n• Rima de memorare: „Seventy-six, radio needs a fix” (76, radioul trebuie reparat).\n\n• Este folosit când stația radio a avionului s-a stricat. Piloții pot auzi controlorii, dar nu pot vorbi, sau nu pot nici auzi, nici vorbi. Codul 7600 îi spune controlorului: „Sunt bine, zbor normal, dar nu vă pot auzi. Urmăriți-mă pe radar și faceți-mi loc să aterizez”.",
      "warn": ""
     },
     {

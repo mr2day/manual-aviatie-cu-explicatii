@@ -444,14 +444,14 @@
      "text": "squawk 7600 - (Radio Failure) \"Seventy-six, radio needs a fix\"",
      "correct": true,
      "short": "",
-     "long": "Corect. Codul 7600 semnalează pierderea comunicației radio.",
+     "long": "Corect. Codul 7600 semnalează pierderea comunicației radio.\n\n## 7600 – Pană de radio / Pierderea comunicațiilor (Radio Failure)\n\n• Rima de memorare: „Seventy-six, radio needs a fix” (76, radioul trebuie reparat).\n\n• Este folosit când stația radio a avionului s-a stricat. Piloții pot auzi controlorii, dar nu pot vorbi, sau nu pot nici auzi, nici vorbi. Codul 7600 îi spune controlorului: „Sunt bine, zbor normal, dar nu vă pot auzi. Urmăriți-mă pe radar și faceți-mi loc să aterizez”.",
      "warn": ""
     },
     {
      "text": "squawk 7700 - (Emergency) \"Seventy-seven, going to heaven\"",
      "correct": false,
      "short": "",
-     "long": "Codul 7700 semnalează urgență generală, nu pierderea comunicației.",
+     "long": "Codul 7700 semnalează urgență generală, nu pierderea comunicației.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau urgențe medicale critice la bord (un pasager cu infarct). Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
      "warn": ""
     },
     {
@@ -517,7 +517,7 @@
      "text": "7600 - (Radio Failure) \"Seventy-six, radio needs a fix\"",
      "correct": false,
      "short": "",
-     "long": "Codul 7600 semnalează pierderea comunicațiilor, nu urgența medicală.",
+     "long": "Codul 7600 semnalează pierderea comunicațiilor, nu urgența medicală.\n\n## 7600 – Pană de radio / Pierderea comunicațiilor (Radio Failure)\n\n• Rima de memorare: „Seventy-six, radio needs a fix” (76, radioul trebuie reparat).\n\n• Este folosit când stația radio a avionului s-a stricat. Piloții pot auzi controlorii, dar nu pot vorbi, sau nu pot nici auzi, nici vorbi. Codul 7600 îi spune controlorului: „Sunt bine, zbor normal, dar nu vă pot auzi. Urmăriți-mă pe radar și faceți-mi loc să aterizez”.",
      "warn": ""
     },
     {
@@ -538,7 +538,7 @@
      "text": "7000 - (Visual Flight Rules)",
      "correct": false,
      "short": "",
-     "long": "Codul 7000 este codul VFR în Europa, nu semnalul pentru urgențe medicale.",
+     "long": "Codul 7000 este codul VFR în Europa, nu semnalul pentru urgențe medicale.\n\n## 7000 (în Europa) / 1200 (în SUA) – Zbor vizual (VFR)\n\n• Acesta nu este un cod de urgență. Este codul folosit de avioanele mici (de exemplu, un Cessna privat de agrement) care zboară liber, fără un traseu impus de controlori, ghidându-se după reperele de la sol (zbor vizual). Înseamnă: „Sunt doar un zbor de agrement în zonă, nu am nevoie de ghidaj”.",
      "warn": ""
     }
    ]
@@ -625,7 +625,7 @@
      "text": "7000 - (Visual Flight Rules)",
      "correct": false,
      "short": "",
-     "long": "Codul 7000 este codul VFR în Europa, nu cel pentru deturnare.",
+     "long": "Codul 7000 este codul VFR în Europa, nu cel pentru deturnare.\n\n## 7000 (în Europa) / 1200 (în SUA) – Zbor vizual (VFR)\n\n• Acesta nu este un cod de urgență. Este codul folosit de avioanele mici (de exemplu, un Cessna privat de agrement) care zboară liber, fără un traseu impus de controlori, ghidându-se după reperele de la sol (zbor vizual). Înseamnă: „Sunt doar un zbor de agrement în zonă, nu am nevoie de ghidaj”.",
      "warn": ""
     },
     {
@@ -639,14 +639,14 @@
      "text": "7700 - (Emergency) \"Seventy-seven, going to heaven\"",
      "correct": false,
      "short": "",
-     "long": "Codul 7700 semnalează urgență generală, nu deturnarea.",
+     "long": "Codul 7700 semnalează urgență generală, nu deturnarea.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau urgențe medicale critice la bord (un pasager cu infarct). Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
      "warn": ""
     },
     {
      "text": "7600 - (Radio Failure) \"Seventy-six, radio needs a fix\"",
      "correct": false,
      "short": "",
-     "long": "Codul 7600 semnalează pierderea comunicațiilor, nu deturnarea.",
+     "long": "Codul 7600 semnalează pierderea comunicațiilor, nu deturnarea.\n\n## 7600 – Pană de radio / Pierderea comunicațiilor (Radio Failure)\n\n• Rima de memorare: „Seventy-six, radio needs a fix” (76, radioul trebuie reparat).\n\n• Este folosit când stația radio a avionului s-a stricat. Piloții pot auzi controlorii, dar nu pot vorbi, sau nu pot nici auzi, nici vorbi. Codul 7600 îi spune controlorului: „Sunt bine, zbor normal, dar nu vă pot auzi. Urmăriți-mă pe radar și faceți-mi loc să aterizez”.",
      "warn": ""
     }
    ]
@@ -1021,7 +1021,7 @@
      "text": "urgență generală",
      "correct": true,
      "short": "",
-     "long": "Corect. Codul 7700 este urgență generală.",
+     "long": "Corect. Codul 7700 este urgență generală.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau urgențe medicale critice la bord (un pasager cu infarct). Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
      "warn": ""
     },
     {
@@ -1777,21 +1777,21 @@
      "text": "7000 - (Visual Flight Rules)",
      "correct": false,
      "short": "",
-     "long": "Codul 7000 este codul VFR general în Europa, nu cel pentru pierderea comunicațiilor.",
+     "long": "Codul 7000 este codul VFR general în Europa, nu cel pentru pierderea comunicațiilor.\n\n## 7000 (în Europa) / 1200 (în SUA) – Zbor vizual (VFR)\n\n• Acesta nu este un cod de urgență. Este codul folosit de avioanele mici (de exemplu, un Cessna privat de agrement) care zboară liber, fără un traseu impus de controlori, ghidându-se după reperele de la sol (zbor vizual). Înseamnă: „Sunt doar un zbor de agrement în zonă, nu am nevoie de ghidaj”.",
      "warn": ""
     },
     {
      "text": "7600 - (Radio Failure) \"Seventy-six, radio needs a fix\"",
      "correct": true,
      "short": "",
-     "long": "Corect. Codul 7600 semnalează pierderea comunicațiilor radio.",
+     "long": "Corect. Codul 7600 semnalează pierderea comunicațiilor radio.\n\n## 7600 – Pană de radio / Pierderea comunicațiilor (Radio Failure)\n\n• Rima de memorare: „Seventy-six, radio needs a fix” (76, radioul trebuie reparat).\n\n• Este folosit când stația radio a avionului s-a stricat. Piloții pot auzi controlorii, dar nu pot vorbi, sau nu pot nici auzi, nici vorbi. Codul 7600 îi spune controlorului: „Sunt bine, zbor normal, dar nu vă pot auzi. Urmăriți-mă pe radar și faceți-mi loc să aterizez”.",
      "warn": ""
     },
     {
      "text": "7700 - (Emergency) \"Seventy-seven, going to heaven\"",
      "correct": false,
      "short": "",
-     "long": "Codul 7700 semnalează urgență generală.",
+     "long": "Codul 7700 semnalează urgență generală.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau urgențe medicale critice la bord (un pasager cu infarct). Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
      "warn": ""
     },
     {
@@ -1813,7 +1813,7 @@
      "text": "setarea transponderului pe codul 7600",
      "correct": true,
      "short": "",
-     "long": "Corect. Transponderul pe 7600 semnalează pierderea comunicațiilor.",
+     "long": "Corect. Transponderul pe 7600 semnalează pierderea comunicațiilor.\n\n## 7600 – Pană de radio / Pierderea comunicațiilor (Radio Failure)\n\n• Rima de memorare: „Seventy-six, radio needs a fix” (76, radioul trebuie reparat).\n\n• Este folosit când stația radio a avionului s-a stricat. Piloții pot auzi controlorii, dar nu pot vorbi, sau nu pot nici auzi, nici vorbi. Codul 7600 îi spune controlorului: „Sunt bine, zbor normal, dar nu vă pot auzi. Urmăriți-mă pe radar și faceți-mi loc să aterizez”.",
      "warn": ""
     },
     {
@@ -1827,7 +1827,7 @@
      "text": "setarea transponderului pe codul 7700",
      "correct": false,
      "short": "",
-     "long": "Codul 7700 semnalează urgență generală, nu pierderea comunicațiilor.",
+     "long": "Codul 7700 semnalează urgență generală, nu pierderea comunicațiilor.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau urgențe medicale critice la bord (un pasager cu infarct). Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
      "warn": ""
     },
     {
@@ -2209,7 +2209,7 @@
      "text": "Aeronava trebuie să schimbe transponderul pe codul 7000 - (Visual Flight Rules) și să continue zborul fără comunicare suplimentară",
      "correct": false,
      "short": "",
-     "long": "Schimbarea transponderului pe 7000 nu înlocuiește autorizarea ATC. Codul 7000 este doar codul VFR.",
+     "long": "Schimbarea transponderului pe 7000 nu înlocuiește autorizarea ATC. Codul 7000 este doar codul VFR.\n\n## 7000 (în Europa) / 1200 (în SUA) – Zbor vizual (VFR)\n\n• Acesta nu este un cod de urgență. Este codul folosit de avioanele mici (de exemplu, un Cessna privat de agrement) care zboară liber, fără un traseu impus de controlori, ghidându-se după reperele de la sol (zbor vizual). Înseamnă: „Sunt doar un zbor de agrement în zonă, nu am nevoie de ghidaj”.",
      "warn": ""
     },
     {
@@ -2677,7 +2677,7 @@
      "text": "Aeronava trebuie să seteze transponderul pe codul 7700 - (Emergency) \"Seventy-seven, going to heaven\" și să emită un mesaj de urgență",
      "correct": false,
      "short": "",
-     "long": "Transponderul pe 7700 și mesajul de urgență nu sunt procedura de intrare fără contact radio. Urgența se declară doar dacă există pericol.",
+     "long": "Transponderul pe 7700 și mesajul de urgență nu sunt procedura de intrare fără contact radio. Urgența se declară doar dacă există pericol.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau urgențe medicale critice la bord (un pasager cu infarct). Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
      "warn": ""
     },
     {
@@ -2864,21 +2864,21 @@
      "text": "7000 - (Visual Flight Rules)",
      "correct": true,
      "short": "",
-     "long": "Corect. 7000 este codul pentru zborurile VFR în spațiul necontrolat, în Europa.",
+     "long": "Corect. 7000 este codul pentru zborurile VFR în spațiul necontrolat, în Europa.\n\n## 7000 (în Europa) / 1200 (în SUA) – Zbor vizual (VFR)\n\n• Acesta nu este un cod de urgență. Este codul folosit de avioanele mici (de exemplu, un Cessna privat de agrement) care zboară liber, fără un traseu impus de controlori, ghidându-se după reperele de la sol (zbor vizual). Înseamnă: „Sunt doar un zbor de agrement în zonă, nu am nevoie de ghidaj”.",
      "warn": ""
     },
     {
      "text": "7600 - (Radio Failure) \"Seventy-six, radio needs a fix\"",
      "correct": false,
      "short": "",
-     "long": "7600 este codul pentru pierderea comunicațiilor.",
+     "long": "7600 este codul pentru pierderea comunicațiilor.\n\n## 7600 – Pană de radio / Pierderea comunicațiilor (Radio Failure)\n\n• Rima de memorare: „Seventy-six, radio needs a fix” (76, radioul trebuie reparat).\n\n• Este folosit când stația radio a avionului s-a stricat. Piloții pot auzi controlorii, dar nu pot vorbi, sau nu pot nici auzi, nici vorbi. Codul 7600 îi spune controlorului: „Sunt bine, zbor normal, dar nu vă pot auzi. Urmăriți-mă pe radar și faceți-mi loc să aterizez”.",
      "warn": ""
     },
     {
      "text": "7700 - (Emergency) \"Seventy-seven, going to heaven\"",
      "correct": false,
      "short": "",
-     "long": "7700 este codul pentru urgență generală.",
+     "long": "7700 este codul pentru urgență generală.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau urgențe medicale critice la bord (un pasager cu infarct). Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
      "warn": ""
     }
    ]
@@ -3433,21 +3433,21 @@
      "text": "7600 - (Radio Failure) \"Seventy-six, radio needs a fix\"",
      "correct": false,
      "short": "",
-     "long": "7600 semnalează pierderea comunicațiilor, nu zborul normal.",
+     "long": "7600 semnalează pierderea comunicațiilor, nu zborul normal.\n\n## 7600 – Pană de radio / Pierderea comunicațiilor (Radio Failure)\n\n• Rima de memorare: „Seventy-six, radio needs a fix” (76, radioul trebuie reparat).\n\n• Este folosit când stația radio a avionului s-a stricat. Piloții pot auzi controlorii, dar nu pot vorbi, sau nu pot nici auzi, nici vorbi. Codul 7600 îi spune controlorului: „Sunt bine, zbor normal, dar nu vă pot auzi. Urmăriți-mă pe radar și faceți-mi loc să aterizez”.",
      "warn": ""
     },
     {
      "text": "7000 - (Visual Flight Rules)",
      "correct": true,
      "short": "",
-     "long": "Corect. 7000 este codul pentru zborul normal în spațiul necontrolat.",
+     "long": "Corect. 7000 este codul pentru zborul normal în spațiul necontrolat.\n\n## 7000 (în Europa) / 1200 (în SUA) – Zbor vizual (VFR)\n\n• Acesta nu este un cod de urgență. Este codul folosit de avioanele mici (de exemplu, un Cessna privat de agrement) care zboară liber, fără un traseu impus de controlori, ghidându-se după reperele de la sol (zbor vizual). Înseamnă: „Sunt doar un zbor de agrement în zonă, nu am nevoie de ghidaj”.",
      "warn": ""
     },
     {
      "text": "7700 - (Emergency) \"Seventy-seven, going to heaven\"",
      "correct": false,
      "short": "",
-     "long": "7700 semnalează urgența generală.",
+     "long": "7700 semnalează urgența generală.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau urgențe medicale critice la bord (un pasager cu infarct). Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
      "warn": ""
     },
     {
