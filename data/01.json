@@ -529,10 +529,11 @@
     },
     {
      "text": "nu există un cod specific pentru urgențe medicale",
+     "tag": "de fapt e 7700",
      "correct": true,
      "short": "",
-     "long": "Varianta nu este corectă: există codul 7700 (Emergency), folosit și pentru urgențe medicale critice la bord.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau ~~urgențe medicale critice la bord (un pasager cu infarct)~~. Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
-     "warn": "Există codul 7700 (Emergency), folosit și pentru urgențe medicale critice la bord, deci această variantă nu este corectă."
+     "long": "Varianta este marcată ca fiind corectă la examen, dar de fapt nu este corectă: există codul 7700 (Emergency), folosit și pentru urgențe medicale critice la bord.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau ~~urgențe medicale critice la bord (un pasager cu infarct)~~. Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
+     "warn": ""
     },
     {
      "text": "7000 - (Visual Flight Rules)",
