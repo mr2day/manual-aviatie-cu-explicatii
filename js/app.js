@@ -81,7 +81,7 @@
   // Glosar: termenii din titluri devin linkuri care deschid un modal.
   var glossary = JSON.parse(document.getElementById('glossary-data').textContent);
   var termRe = (function () {
-    var parts = glossary.map(function (g) { return queryRegex(foldText(g.term)).source; });
+    var parts = glossary.map(function (g) { return queryRegex(foldText(g.term)).source + '[a-zăâîșțĂÂÎȘȚ]*'; });
     return parts.length ? new RegExp(parts.join('|'), 'gi') : null;
   })();
 
@@ -103,10 +103,13 @@
     if (termRe) {
       termRe.lastIndex = 0;
       var t;
+      var linked = false;
       while ((t = termRe.exec(raw)) !== null) {
         if (t[0].length === 0) { termRe.lastIndex++; continue; }
+        var entry = linked ? null : glossaryEntry(t[0]);
+        if (entry) linked = true;
         segs.push({ text: raw.slice(pos, t.index), term: null });
-        segs.push({ text: t[0], term: glossaryEntry(t[0]) });
+        segs.push({ text: t[0], term: entry });
         pos = t.index + t[0].length;
       }
     }

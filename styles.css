@@ -952,9 +952,8 @@ details.question-more .more-body {
   border: none;
   background: none;
   font: inherit;
-  color: var(--accent);
-  text-decoration: underline;
-  text-underline-offset: 3px;
+  color: #3b96f0;
+  text-decoration: none;
   cursor: pointer;
   -webkit-tap-highlight-color: transparent;
 }
