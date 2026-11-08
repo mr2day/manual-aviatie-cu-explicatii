@@ -150,7 +150,7 @@
    "number": "#5",
    "text": "894: Ora universală coordonată UTC este:",
    "short": "UTC este ora locală la meridianul 0 (Greenwich).",
-   "long": "UTC (ora universală coordonată) este ora legală de referință la meridianul zero, Greenwich, și este folosită în aviație pentru a evita confuziile între fusurile orare.",
+   "long": "UTC (ora universală coordonată) este ora de referință la meridianul zero, Greenwich. Este folosită în aviație pentru ca toți să vorbească despre aceeași oră, indiferent de fusul orar. Ora locală la meridianul 0 este UTC+0.",
    "answers": [
     {
      "text": "ora locală de la aerodromul de plecare",
@@ -2274,7 +2274,7 @@
    "number": "#64",
    "text": "927: Ce este un meridian de longitudine?",
    "short": "Meridianul de longitudine este un cerc mare care trece prin poli.",
-   "long": "Meridianul este un cerc mare al sferei care trece prin cei doi poli, deci unește nordul și sudul.",
+   "long": "Meridianul este un cerc mare al sferei care trece prin cei doi poli, deci unește nordul și sudul. Longitudinea se măsoară în grade față de meridianul zero, cel de la Greenwich, de la 0° la 180° est sau vest. Pământul se rotește cu 15° pe oră, deci fiecare 15° de longitudine corespund unei ore de decalaj.",
    "answers": [
     {
      "text": "O linie imaginară care unește două puncte pe glob",
@@ -3066,7 +3066,7 @@
    "number": "#86",
    "text": "936: Ce este UTC?",
    "short": "UTC este ora coordonată universală.",
-   "long": "UTC înseamnă ora coordonată universală, referința de timp a aviației.",
+   "long": "UTC înseamnă Coordinated Universal Time (ora coordonată universală), referința de timp folosită în aviație și în meteorologie. Este aceeași oră în toată lumea, deci fiecare fus orar se calculează față de ea: de exemplu, UTC+2 înseamnă cu două ore înaintea UTC.",
    "answers": [
     {
      "text": "ora coordonată universală",

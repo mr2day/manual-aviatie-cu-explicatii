@@ -330,34 +330,34 @@
    "number": "#10",
    "text": "708: Folosind scala de audibilitate “te aud cu 4 “înseamnă?",
    "short": "Scara de audibilitate „te aud cu 4” înseamnă că mesajul se aude bine.",
-   "long": "Scara de audibilitate are cinci trepte: 5 este perfect audibil, 4 este audibil, 3 este audibil cu dificultate, 2 este audibil din când în când, 1 este neaudibil. Cifra 4 înseamnă că mesajul se aude bine.",
+   "long": "## Scara de audibilitate (lizibilitate)\n\nCalitatea recepției se notează cu o cifră de la 1 la 5, în scara ICAO de lizibilitate:\n\n• 5 – perfect audibil: fără nicio dificultate.\n\n• 4 – audibil: mesajul se aude bine.\n\n• 3 – audibil cu dificultate: se înțelege cu efort.\n\n• 2 – audibil din când în când: mesajul se pierde des.\n\n• 1 – neaudibil: nu se înțelege nimic.\n\n## Răspunsul corect la întrebare\n\nCifra 4 înseamnă „audibil”, adică mesajul se aude bine. Varianta „te aud bine” este deci corectă.",
    "answers": [
     {
      "text": "te aud bine",
      "correct": true,
      "short": "",
-     "long": "Corect. Cifra 4 înseamnă că mesajul este audibil bine.",
+     "long": "Corect. Cifra 4 înseamnă audibil: mesajul se aude bine, fără efort.",
      "warn": ""
     },
     {
      "text": "te aud cu zgomot de fond",
      "correct": false,
      "short": "",
-     "long": "Zgomotul de fond corespunde unei trepte mai slabe de audibilitate, nu cifrei 4.",
+     "long": "Greșit. Zgomotul de fond afectează claritatea, dar nu are o cifră proprie în scara de audibilitate.",
      "warn": ""
     },
     {
      "text": "te aud cu dificultate",
      "correct": false,
      "short": "",
-     "long": "Dificultatea corespunde cifrei 3, nu cifrei 4.",
+     "long": "Greșit. „Cu dificultate” corespunde cifrei 3, nu cifrei 4.",
      "warn": ""
     },
     {
      "text": "nu te aud deloc",
      "correct": false,
      "short": "",
-     "long": "Neauzirea corespunde cifrei 1, nu cifrei 4.",
+     "long": "Greșit. „Nu te aud deloc” corespunde cifrei 1, neaudibil.",
      "warn": ""
     }
    ]
@@ -438,7 +438,7 @@
    "number": "#13",
    "text": "718: La întreruperea comunicației radio în spațiul aerian în care transponderul este obligatoriu pilotul setează transponderul în:",
    "short": "Dacă comunicațiile radio sunt întrerupte într-un spațiu în care transponderul este obligatoriu, se setează codul 7600.",
-   "long": "La pierderea comunicației radio, în spațiul unde transponderul este obligatoriu, pilotul setează codul 7600, care semnalează pierderea comunicațiilor.",
+   "long": "La pierderea comunicației radio, în spațiul unde transponderul este obligatoriu, pilotul setează codul 7600, care semnalează pierderea comunicațiilor.\n\n## 7600 – Pană de radio / Pierderea comunicațiilor (Radio Failure)\n\n• Rima de memorare: „Seventy-six, radio needs a fix” (76, radioul trebuie reparat).\n\n• Este folosit când stația radio a avionului s-a stricat. Piloții pot auzi controlorii, dar nu pot vorbi, sau nu pot nici auzi, nici vorbi. Codul 7600 îi spune controlorului: „Sunt bine, zbor normal, dar nu vă pot auzi. Urmăriți-mă pe radar și faceți-mi loc să aterizez”.",
    "answers": [
     {
      "text": "squawk 7600 - (Radio Failure) \"Seventy-six, radio needs a fix\"",
@@ -1016,7 +1016,7 @@
    "number": "#29",
    "text": "685: Ce semnifică codul transponder 7700?",
    "short": "Codul transponder 7700 semnalează o urgență generală.",
-   "long": "Codul transponder 7700 semnalează urgența generală.",
+   "long": "Codul transponder 7700 semnalează urgența generală.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau urgențe medicale critice la bord (un pasager cu infarct). Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
    "answers": [
     {
      "text": "urgență generală",
@@ -1772,7 +1772,7 @@
    "number": "#50",
    "text": "686: Ce cod transponder este utilizat pentru a semnala pierderea comunicațiilor?",
    "short": "Codul transponder 7600 semnalează pierderea comunicațiilor radio.",
-   "long": "Codul transponder 7600 semnalează pierderea comunicațiilor radio.",
+   "long": "Codul transponder 7600 semnalează pierderea comunicațiilor radio.\n\n## 7600 – Pană de radio / Pierderea comunicațiilor (Radio Failure)\n\n• Rima de memorare: „Seventy-six, radio needs a fix” (76, radioul trebuie reparat).\n\n• Este folosit când stația radio a avionului s-a stricat. Piloții pot auzi controlorii, dar nu pot vorbi, sau nu pot nici auzi, nici vorbi. Codul 7600 îi spune controlorului: „Sunt bine, zbor normal, dar nu vă pot auzi. Urmăriți-mă pe radar și faceți-mi loc să aterizez”.",
    "answers": [
     {
      "text": "7000 - (Visual Flight Rules)",
@@ -2852,7 +2852,7 @@
    "number": "#80",
    "text": "769: Ce cod transponder este utilizat pentru toate zborurile VFR în spațiul aerian necontrolat?",
    "short": "Codul 7000 este codul standard pentru zborurile VFR în Europa (inclusiv în România), când nu ai primit un cod de la ATC.",
-   "long": "Codul transponder 7000 este codul pentru zborul VFR în spațiul necontrolat, în Europa.",
+   "long": "Codul transponder 7000 este codul pentru zborul VFR în spațiul necontrolat, în Europa.\n\n## 7000 (în Europa) / 1200 (în SUA) – Zbor vizual (VFR)\n\n• Acesta nu este un cod de urgență. Este codul folosit de avioanele mici (de exemplu, un Cessna privat de agrement) care zboară liber, fără un traseu impus de controlori, ghidându-se după reperele de la sol (zbor vizual). Înseamnă: „Sunt doar un zbor de agrement în zonă, nu am nevoie de ghidaj”.",
    "answers": [
     {
      "text": "7500 - (Hijacking) \"Seventy-five, stay alive\"",
@@ -3428,7 +3428,7 @@
    "number": "#96",
    "text": "755: Ce cod transponder este utilizat pentru a semnala toate situațiile normale de zbor?",
    "short": "Codul 7000 este folosit pentru toate situațiile normale de zbor VFR.",
-   "long": "În zborul normal, transponderul se setează pe 7000 în spațiul necontrolat din Europa.",
+   "long": "În zborul normal, transponderul se setează pe 7000 în spațiul necontrolat din Europa.\n\n## 7000 (în Europa) / 1200 (în SUA) – Zbor vizual (VFR)\n\n• Acesta nu este un cod de urgență. Este codul folosit de avioanele mici (de exemplu, un Cessna privat de agrement) care zboară liber, fără un traseu impus de controlori, ghidându-se după reperele de la sol (zbor vizual). Înseamnă: „Sunt doar un zbor de agrement în zonă, nu am nevoie de ghidaj”.",
    "answers": [
     {
      "text": "7600 - (Radio Failure) \"Seventy-six, radio needs a fix\"",
