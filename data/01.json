@@ -114,34 +114,34 @@
    "number": "#4",
    "text": "762: Ce informații trebuie incluse într-un mesaj de urgență „PAN, PAN”?",
    "short": "Un mesaj PAN PAN trebuie să conțină detaliile problemei de siguranță și asistența solicitată.",
-   "long": "Mesajul PAN PAN semnalează o urgență și trebuie să conțină natura problemei de siguranță și ajutorul cerut, astfel încât controlorul să poată reacționa.",
+   "long": "PAN PAN este semnalul de urgență pentru o problemă de siguranță, fără pericol grav și iminent. Se rostește de trei ori: „PAN PAN, PAN PAN, PAN PAN”.\n\nMesajul trebuie să spună ce se întâmplă și ce ajutor e nevoie, ca controlorul să poată organiza sprijinul. Un mesaj complet poate include indicativul aeronavei, poziția, natura problemei, intențiile pilotului, ajutorul cerut, numărul de persoane la bord și combustibilul rămas.\n\nDintre variantele date, cea corectă este cea care spune problema de siguranță și asistența solicitată.",
    "answers": [
     {
      "text": "timpul estimat până la destinație",
      "correct": false,
      "short": "",
-     "long": "Timpul estimat până la destinație nu este informația de urgență esențială în PAN PAN.",
+     "long": "Greșit. Timpul estimat până la destinație e util într-un plan de zbor, dar nu e informația esențială a unui mesaj PAN PAN. Mesajul trebuie să spună ce problemă e și ce ajutor e nevoie.",
      "warn": ""
     },
     {
      "text": "locația exactă a aeronavei",
      "correct": false,
      "short": "",
-     "long": "Locația exactă este utilă, dar nu este singura informație necesară. Mesajul trebuie să descrie problema și ajutorul cerut.",
+     "long": "Greșit. Locația exactă face parte dintr-un mesaj complet, dar nu e singura informație. Esențial e să se știe ce problemă e și ce ajutor e nevoie.",
      "warn": ""
     },
     {
      "text": "detalii despre problema de siguranță și asistența solicitată",
      "correct": true,
      "short": "",
-     "long": "Corect. Mesajul de urgență trebuie să conțină problema de siguranță și asistența cerută.",
+     "long": "Corect. Mesajul trebuie să descrie problema de siguranță și asistența solicitată, ca controlorul să poată acționa. Restul detaliilor (poziție, persoane la bord, combustibil) se adaugă după cum e nevoie.",
      "warn": ""
     },
     {
      "text": "numărul de pasageri la bord",
      "correct": false,
      "short": "",
-     "long": "Numărul de pasageri nu este informația de bază a mesajului de urgență.",
+     "long": "Greșit. Numărul de pasageri poate fi util, dar nu este informația de bază a mesajului. Baza este problema și ajutorul cerut.",
      "warn": ""
     }
    ]
@@ -692,34 +692,34 @@
    "number": "#20",
    "text": "777: Ce informații sunt necesare într-un mesaj de urgență „PAN, PAN”?",
    "short": "Un mesaj PAN PAN trebuie să conțină detaliile problemei de siguranță și asistența solicitată.",
-   "long": "Mesajul PAN PAN trebuie să conțină problema de siguranță și asistența cerută, pentru ca controlorul să poată reacționa.",
+   "long": "Mesajul PAN PAN se transmite când există o problemă de siguranță, dar nu un pericol grav și iminent. Conținutul de bază este problema și ajutorul cerut, iar controlorul folosește aceste informații pentru a organiza sprijinul.\n\nAlte date, precum poziția sau combustibilul rămas, sunt utile, dar nu sunt informația de bază a mesajului. Varianta corectă este cea care spune problema de siguranță și asistența solicitată.",
    "answers": [
     {
      "text": "timpul estimat până la destinație",
      "correct": false,
      "short": "",
-     "long": "Timpul estimat până la destinație nu este informația de bază a mesajului de urgență.",
+     "long": "Greșit. Timpul estimat până la destinație nu este informația de bază a mesajului PAN PAN. Controlorul are nevoie de problemă și de ajutorul cerut.",
      "warn": ""
     },
     {
      "text": "locația exactă a aeronavei",
      "correct": false,
      "short": "",
-     "long": "Locația exactă este utilă, dar nu este singura informație de bază. Conținutul esențial este problema și asistența cerută.",
+     "long": "Greșit. Locația e utilă, dar nu este singura informație de bază. Conținutul esențial este problema și asistența cerută.",
      "warn": ""
     },
     {
      "text": "numărul de pasageri la bord",
      "correct": false,
      "short": "",
-     "long": "Numărul de pasageri nu este informația de bază a mesajului de urgență.",
+     "long": "Greșit. Numărul de pasageri nu este informația de bază a mesajului de urgență. Pentru controlor e mai important ce se întâmplă și ce ajutor e nevoie.",
      "warn": ""
     },
     {
      "text": "detalii despre problema de siguranță și asistența solicitată",
      "correct": true,
      "short": "",
-     "long": "Corect. Mesajul trebuie să conțină problema de siguranță și asistența cerută.",
+     "long": "Corect. Mesajul trebuie să conțină problema de siguranță și asistența cerută, ca controlorul să poată reacționa.",
      "warn": ""
     }
    ]
@@ -1592,34 +1592,34 @@
    "number": "#45",
    "text": "742: Ce semnifică semnalul de urgență „PAN, PAN”?",
    "short": "PAN PAN înseamnă o solicitare de asistență pentru o problemă de siguranță.",
-   "long": "PAN PAN este semnalul de urgență pentru o problemă de siguranță, când se cere asistență, fără pericol grav și iminent.",
+   "long": "PAN PAN este semnalul de urgență pentru o problemă de siguranță, când se cere asistență, dar fără pericol grav și iminent. Se rostește de trei ori: „PAN PAN, PAN PAN, PAN PAN”.\n\nPentru pericol grav și iminent, în care aeronava și ocupanții sunt amenințați și au nevoie de ajutor imediat, se folosește MAYDAY. Distincția dintre cele două semnale decide cât de repede acționează serviciile de sol.",
    "answers": [
     {
      "text": "solicitarea de asistență pentru o problemă de siguranță",
      "correct": true,
      "short": "",
-     "long": "Corect. PAN PAN înseamnă solicitare de asistență pentru o problemă de siguranță.",
+     "long": "Corect. PAN PAN înseamnă solicitare de asistență pentru o problemă de siguranță, fără pericol grav și iminent.",
      "warn": ""
     },
     {
      "text": "o solicitare de decolare imediată",
      "correct": false,
      "short": "",
-     "long": "Decolarea imediată nu este semnificația PAN PAN.",
+     "long": "Greșit. Decolarea imediată nu are legătură cu semnalele de urgență. PAN PAN înseamnă solicitare de asistență pentru o problemă de siguranță.",
      "warn": ""
     },
     {
      "text": "o schimbare de frecvență radio",
      "correct": false,
      "short": "",
-     "long": "Schimbarea frecvenței nu este semnificația PAN PAN.",
+     "long": "Greșit. Schimbarea frecvenței radio este o instrucțiune de trafic, nu un semnal de urgență. PAN PAN înseamnă solicitare de asistență.",
      "warn": ""
     },
     {
      "text": "o situație de pericol grav și iminent",
      "correct": false,
      "short": "",
-     "long": "Pericolul grav și iminent este MAYDAY, nu PAN PAN.",
+     "long": "Greșit. Pericolul grav și iminent este semnalat prin MAYDAY, nu prin PAN PAN.",
      "warn": ""
     }
    ]
@@ -3500,34 +3500,34 @@
    "number": "#98",
    "text": "727: Zburați cu o motoparapantă care nu este echipată cu transponder, cum veți raporta organului de trafic când acesta va cere să afișați un SQUAWK?",
    "short": "Dacă nu ai transponder, raportezi „negativ transponder”.",
-   "long": "Dacă nu ai transponder, răspunzi „negativ transponder” când ți se cere SQUAWK. Formula standard este negativ urmat de termenul transponder.",
+   "long": "Transponderul este un aparat din avion care trimite radarului un cod și, de obicei, altitudinea. Când controlorul cere „SQUAWK” (afișează codul), iar aeronava nu are transponder, pilotul răspunde „negativ transponder”.\n\nAstfel controlorul știe că aeronava apare pe radar doar ca un ecou, fără date de identificare, și își ajustează separarea. Răspunsul trebuie să fie scurt și să folosească fraza standard din radiotelefonie.",
    "answers": [
     {
      "text": "I don't have transponder",
      "correct": false,
      "short": "",
-     "long": "„I don't have transponder” nu este formula standard în fonia aeronautică.",
+     "long": "Greșit. „I don't have transponder” e în engleză, dar fraza standard este „negativ transponder”. Controlorul așteaptă un răspuns scurt, în formula radiotelefoniei.",
      "warn": ""
     },
     {
      "text": "negativ squawk",
      "correct": false,
      "short": "",
-     "long": "„Negativ squawk” nu este formula corectă: se spune „negativ transponder”.",
+     "long": "Greșit. „Squawk” este cererea controlorului, adică afișează codul. Pilotul nu răspunde cu cuvântul „squawk”, ci cu „negativ” și transponderul.",
      "warn": ""
     },
     {
      "text": "no transponder",
      "correct": false,
      "short": "",
-     "long": "„No transponder” nu este formula standard în fonia aeronautică.",
+     "long": "Greșit. „No transponder” e în engleză și nu e fraza standard. Formula corectă în radiotelefonie este „negativ transponder”.",
      "warn": ""
     },
     {
      "text": "negativ transponder",
      "correct": true,
      "short": "",
-     "long": "Corect. Formula standard este „negativ transponder”.",
+     "long": "Corect. „Negativ transponder” este formula standard prin care pilotul anunță că aeronava nu are transponder, la cererea controlorului de a afișa codul SQUAWK.",
      "warn": ""
     }
    ]
