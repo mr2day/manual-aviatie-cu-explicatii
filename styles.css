@@ -938,6 +938,7 @@ details.question-more .more-body {
   left: 0;
   right: 0;
   top: 100%;
+  margin-top: 2px;
   height: 26px;
   background: linear-gradient(to bottom, #0b0e0f 0%, rgba(11, 14, 15, 0) 100%);
   pointer-events: none;
