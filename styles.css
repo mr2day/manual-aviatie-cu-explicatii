@@ -916,6 +916,10 @@ details.question-more .more-body {
 .q-search-btn:not(:disabled):hover { opacity: 0.85; }
 .question { scroll-margin-top: 90px; }
 .question.search-hit { outline: 2px solid var(--accent); outline-offset: 4px; }
-@media (max-width: 900px) {
-  .q-search { position: sticky; top: var(--q-top, 0px); z-index: 20; }
+.q-search { position: sticky; top: var(--q-top, 0px); z-index: 20; }
+.q-hit {
+  background: #ffd54a;
+  color: #1a1e1e;
+  border-radius: 3px;
+  padding: 0 2px;
 }

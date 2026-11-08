@@ -67,6 +67,35 @@
     return String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
   }
 
+  // Căutarea ignoră diacriticele: „a” găsește și „ă” și „â”, „s” găsește și „ș”, „t” și „ț”.
+  function queryRegex(folded) {
+    var variants = { a: '[aăâ]', i: '[iî]', s: '[sș]', t: '[tț]' };
+    var src = '';
+    for (var k = 0; k < folded.length; k++) {
+      var ch = folded.charAt(k);
+      src += variants[ch] || ch.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    }
+    return new RegExp(src, 'gi');
+  }
+
+  // Scrie titlul întrebării; fragmentul găsit devine <mark>.
+  function renderTitle(h2, raw, re) {
+    var num = h2.querySelector('.question-number');
+    h2.textContent = '';
+    if (num) h2.appendChild(num);
+    if (!re) { h2.appendChild(document.createTextNode(raw)); return; }
+    re.lastIndex = 0;
+    var last = 0;
+    var m;
+    while ((m = re.exec(raw)) !== null) {
+      if (m[0].length === 0) { re.lastIndex++; continue; }
+      if (m.index > last) h2.appendChild(document.createTextNode(raw.slice(last, m.index)));
+      h2.appendChild(el('mark', 'q-hit', m[0]));
+      last = m.index + m[0].length;
+    }
+    if (last < raw.length) h2.appendChild(document.createTextNode(raw.slice(last)));
+  }
+
   function buildSearchBar() {
     var bar = el('div', 'q-search');
     bar.setAttribute('role', 'search');
@@ -92,6 +121,10 @@
     return bar;
   }
 
+  function stickyTop() {
+    return parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--q-top')) || 0;
+  }
+
   function setStickyTop() {
     var mb = document.querySelector('.menu-bar');
     var h = mb && getComputedStyle(mb).display !== 'none' ? mb.offsetHeight : 0;
@@ -100,10 +133,12 @@
 
   function initSearch(bar, sections, questions) {
     var refs = bar.refs;
-    var titles = questions.map(function (q) { return foldText(q.text.replace(/^\d+:\s*/, '')); });
+    var raw = questions.map(function (q) { return q.text.replace(/^\d+:\s*/, ''); });
+    var folded = raw.map(foldText);
     var matches = [];
     var pos = -1;
     var current = null;
+    var re = null;
 
     function show() {
       if (!matches.length) {
@@ -114,13 +149,27 @@
       refs.prev.disabled = refs.next.disabled = matches.length === 0;
     }
 
+    // Derulează astfel încât întrebarea să fie sub bara de căutare, nu ascunsă în spatele ei.
+    function scrollToCurrent() {
+      var offset = bar.getBoundingClientRect().height + stickyTop() + 16;
+      var y = current.getBoundingClientRect().top + window.pageYOffset - offset;
+      window.scrollTo({ top: Math.max(0, y), behavior: 'smooth' });
+    }
+
     function go(p) {
       if (current) current.classList.remove('search-hit');
       pos = p;
       current = sections[matches[pos]];
       current.classList.add('search-hit');
-      current.scrollIntoView({ block: 'start', behavior: 'smooth' });
+      scrollToCurrent();
       show();
+    }
+
+    function paint() {
+      sections.forEach(function (sec, i) {
+        var h2 = sec.querySelector('.question-title');
+        renderTitle(h2, raw[i], matches.indexOf(i) !== -1 ? re : null);
+      });
     }
 
     function recalc() {
@@ -128,9 +177,11 @@
       matches = [];
       if (current) { current.classList.remove('search-hit'); current = null; }
       pos = -1;
+      re = q ? queryRegex(q) : null;
       if (q) {
-        titles.forEach(function (t, i) { if (t.indexOf(q) !== -1) matches.push(i); });
+        folded.forEach(function (t, i) { if (t.indexOf(q) !== -1) matches.push(i); });
       }
+      paint();
       if (matches.length) go(0); else show();
     }
 
@@ -151,6 +202,7 @@
   }
 
   window.addEventListener('resize', setStickyTop);
+
 
   function renderChapter(c) {
     var main = document.getElementById('content');
