@@ -113,7 +113,7 @@
     segs.push({ text: raw.slice(pos), term: null });
     segs.forEach(function (s) {
       if (!s.text) return;
-      if (s.term) { h2.appendChild(termLink(s.text, s.term)); return; }
+      if (s.term) { h2.appendChild(termLink(s.text, s.term, re)); return; }
       appendMarked(h2, s.text, re);
     });
   }
@@ -132,8 +132,9 @@
     if (last < text.length) h2.appendChild(document.createTextNode(text.slice(last)));
   }
 
-  function termLink(text, entry) {
-    var b = el('button', 'term-link', text);
+  function termLink(text, entry, re) {
+    var b = el('button', 'term-link');
+    appendMarked(b, text, re);
     b.type = 'button';
     b.addEventListener('click', function (e) { e.stopPropagation(); openModal(entry.title, entry.text); });
     return b;
