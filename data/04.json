@@ -223,7 +223,7 @@
    "number": "#7",
    "text": "286: Vântul anabatic poate fi întâlnit:",
    "short": "Vântul anabatic apare pe versanții munților în timpul zilei, când soarele încălzește pantele.",
-   "long": "Vântul anabatic urcă pe versanții muntelui în timpul zilei, când soarele încălzește pantele și aerul de lângă ele devine mai ușor.",
+   "long": "## Cum se formează vântul anabatic\nRadiația soarelui încălzește pantele munților. Aerul de lângă pantă se încălzește, devine mai ușor decât aerul din jur și urcă de-a lungul versantului. Efectul e cel mai puternic ziua, pe versanții expuși soarelui.\n\n## Unde apare\nPe versanții munților, mai ales vara, în cursul zilei. Nu apare în zonele polare, unde lipsește încălzirea zilnică puternică, și nu e tipic deșerturilor, unde nu există versanți cu același mecanism. Brizele de mare sunt alt fenomen, legat de diferența de încălzire dintre uscat și apă.",
    "answers": [
     {
      "text": "doar în zonele polare, ca urmare a contrastului mare de temperatură",
@@ -439,7 +439,7 @@
    "number": "#13",
    "text": "256: Vântul laminar este:",
    "short": "Vântul laminar este vântul care își păstrează direcția și intensitatea.",
-   "long": "Vântul laminar păstrează direcția și intensitatea, deoarece nu este perturbat de obstacole sau de convecție.",
+   "long": "## Ce este vântul laminar\nVântul laminar curge în straturi paralele, regulat, fără vârtejuri. Își păstrează direcția și intensitatea pentru că nu este perturbat de obstacole sau de convecție.\n\n## De ce contează pentru zbor\nVântul laminar e mai previzibil și mai ușor de folosit. Vântul turbulent, produs de obstacole sau de convecție, schimbă rapid direcția și viteza, deci e mai periculos.",
    "answers": [
     {
      "text": "vântul care ia naștere prin convecția aerului",
@@ -727,7 +727,7 @@
    "number": "#21",
    "text": "226: O perdea de copaci în fața vântului provoacă:",
    "short": "O perdea de copaci în fața vântului produce turbulențe și umbre de vânt în spatele copacilor.",
-   "long": "Vântul trece peste copaci și se formează turbulențe și umbre de vânt în spatele lor, sub vânt, unde aerul este agitat și nu curge laminar.",
+   "long": "## Cum se formează turbulențele în spatele copacilor\nUn șir de copaci sau o pădure este un obstacol pentru vânt. Aerul care trece peste el este frânat, deviat și se desprinde de la vârfuri. În spatele obstacolului se formează rotoare (vârtejuri), iar pe o distanță de câteva ori înălțimea copacilor apare o zonă de vânt redus, numită umbră de vânt.\n\n## De ce este periculos\nTurbulențele apar aproape de sol, unde aeronava are puțină altitudine. La decolare și aterizare, schimbarea bruscă a vântului poate duce la pierderea portanței. Fața copacilor, spre vânt, nu are turbulențe majore, deci zona periculoasă e cea de sub vânt.",
    "answers": [
     {
      "text": "nu provoacă turbulențe",
@@ -837,7 +837,7 @@
    "number": "#24",
    "text": "314: Vântul care suflă spre vârful unui obstacol orografic, pe timp de zi, datorită încălzirii regiunilor joase ale acestuia, se numește:",
    "short": "Vântul care suflă spre vârful unui obstacol pe timp de zi, datorită încălzirii versantului, se numește vânt anabatic.",
-   "long": "Vântul anabatic urcă pe versanții muntelui ziua, când aerul de lângă pantă se încălzește.",
+   "long": "## Vânturile de pantă ziua și noaptea\nPe versanții munților există două tipuri de vânt de pantă. Ziua, versantul se încălzește, aerul urcă spre vârf: este vântul anabatic. Noaptea, versantul se răcește, aerul devine mai greu și coboară spre vale: este vântul catabatic.\n\n## Cum îl recunoști\nVântul care suflă spre vârful unui obstacol, pe timp de zi, datorită încălzirii pantei, este vântul anabatic.",
    "answers": [
     {
      "text": "vânt catabatic",
@@ -874,7 +874,7 @@
    "number": "#25",
    "text": "268: O perdea de copaci în fața vântului provoacă:",
    "short": "O perdea de copaci în fața vântului produce turbulențe și umbre de vânt în spatele copacilor.",
-   "long": "Perdeaua de copaci produce turbulențe și umbre de vânt în spatele ei, sub vânt, unde aerul este agitat.",
+   "long": "## Cum se formează turbulențele în spatele copacilor\nUn șir de copaci sau o pădure este un obstacol pentru vânt. Aerul care trece peste el este frânat, deviat și se desprinde de la vârfuri. În spatele obstacolului se formează rotoare (vârtejuri), iar pe o distanță de câteva ori înălțimea copacilor apare o zonă de vânt redus, numită umbră de vânt.\n\n## De ce este periculos\nTurbulențele apar aproape de sol, unde aeronava are puțină altitudine. La decolare și aterizare, schimbarea bruscă a vântului poate duce la pierderea portanței. Frunzele nu atenuează suficient vântul ca să elimine efectul.",
    "answers": [
     {
      "text": "turbulențele sunt neglijabile, deoarece frunzele copacilor atenuează viteza vântului",
@@ -1093,7 +1093,7 @@
    "number": "#31",
    "text": "260: Vântul de vale produs în zonele de munte se mai numește:",
    "short": "Vântul de vale produs în zonele de munte se mai numește vânt catabatic.",
-   "long": "Vântul de vale este vântul catabatic, care coboară pe pante și pe văi noaptea, rece și greu.",
+   "long": "## Vântul catabatic, vântul de vale\nNoaptea, sau dimineața devreme, versanții se răcesc prin pierdere de căldură. Aerul de lângă pantă se răcește, devine mai greu și curge în jos, spre vale. Acest vânt de pantă, care coboară, se numește catabatic.\n\n## Ce nu este\nBriza este un vânt provocat de diferențe de încălzire între zone vecine. Unda orografică este o oscilație a aerului după un munte. Vântul anabatic urcă ziua, deci este opusul.",
    "answers": [
     {
      "text": "vânt catabatic",
@@ -1345,7 +1345,7 @@
    "number": "#38",
    "text": "287: Vântul catabatic poate fi întâlnit:",
    "short": "Vântul catabatic apare în zonele de dealuri și de munte, coborând pe pantele munților noaptea și în cursul dimineții.",
-   "long": "Vântul catabatic coboară pe pantele munților și dealurilor, mai ales noaptea și dimineața, când aerul de lângă pantă se răcește și devine mai greu.",
+   "long": "## Unde apare vântul catabatic\nVântul catabatic apare pe versanții dealurilor și munților, mai ales noaptea și dimineața, când pantele se răcesc prin radiație. Nu e limitat la zone polare sau deșertice și nu e legat de zona de coastă. Brizele costiere sunt alt fenomen, legat de diferența dintre apă și uscat.",
    "answers": [
     {
      "text": "exclusiv în zonele polare, unde temperaturile extrem de scăzute influențează mișcările de aer",
@@ -1635,7 +1635,7 @@
    "number": "#46",
    "text": "224: Vântul laminar este:",
    "short": "Vântul laminar este vântul care își păstrează direcția și intensitatea.",
-   "long": "Vântul laminar își păstrează direcția și intensitatea, fiindcă curge uniform, fără perturbări.",
+   "long": "## Ce este vântul laminar\nVântul laminar curge în straturi paralele, regulat, fără vârtejuri. Își păstrează direcția și intensitatea pentru că nu este perturbat de obstacole sau de convecție.\n\n## De ce contează pentru zbor\nVântul laminar e mai previzibil și mai ușor de folosit. Vântul turbulent, produs de obstacole sau de convecție, schimbă rapid direcția și viteza, deci e mai periculos.",
    "answers": [
     {
      "text": "vântul care nu permite decolarea",
@@ -1960,7 +1960,7 @@
    "number": "#55",
    "text": "265: Sunteți la finalul zborului, chiar înainte de a apune soarele și la apropierea de sol simțiți o scădere bruscă a temperaturii, iar mâneca de vânt indică o altă direcție față de cea de la decolare. Acest fenomen este posibil sa fie dat de:",
    "short": "Scăderea bruscă a temperaturii și schimbarea direcției mânecii de vânt la apus pot fi date de vântul catabatic.",
-   "long": "Seara, la sol, aerul se răcește și devine greu, iar vântul coboară pe pante: este vântul catabatic.",
+   "long": "## Vântul catabatic seara\nDupă apus, versantul pierde căldura prin radiație. Aerul de lângă pantă se răcește și coboară, deci temperatura scade brusc la sol și vântul poate schimba direcția. Acest fenomen descrie exact situația din întrebare: apusul, scăderea bruscă a temperaturii și schimbarea direcției vântului de la decolare.",
    "answers": [
     {
      "text": "vântul catabatic",
@@ -2140,7 +2140,7 @@
    "number": "#60",
    "text": "291: Ce este vântul geostrofic?",
    "short": "Vântul geostrofic bate paralel cu izobarele, ca rezultat al echilibrului dintre gradientul de presiune și forța Coriolis.",
-   "long": "Vântul geostrofic bate paralel cu izobarele, rezultatul echilibrului dintre forța gradientului de presiune și forța Coriolis, la altitudini unde frecarea nu contează.",
+   "long": "## Vântul geostrofic\nLa altitudine, deasupra stratului de frecare cu solul, vântul este determinat de două forțe: gradientul de presiune, care împinge aerul de la presiune mare spre presiune mică, și forța Coriolis, produsă de rotația Pământului. Când cele două se echilibrează, vântul bate paralel cu izobarele.\n\n## Ce nu este\nVântul geostrofic nu este local și nu apare doar în munți. Încălzirea solară produce alte tipuri de vânt, locale.",
    "answers": [
     {
      "text": "vântul geostrofic este un vânt care bate paralel cu izobarele, ca rezultat al echilibrului dintre forța gradientului de presiune și forța Coriolis",
@@ -2248,7 +2248,7 @@
    "number": "#63",
    "text": "317: Direcția vântului este indicată de unghiul format între nordul geografic și:",
    "short": "Direcția vântului este unghiul măsurat în sensul acelor de ceasornic de la nordul geografic până la direcția din care bate vântul.",
-   "long": "Direcția vântului se dă ca direcția din care bate vântul, măsurată de la nordul geografic în sensul acelor de ceasornic.",
+   "long": "## Cum se indică direcția vântului\nDirecția vântului se dă ca direcția din care bate vântul, nu spre care se duce. Se măsoară de la nordul geografic, în sensul acelor de ceasornic. De exemplu, vânt de 270° bate din vest.",
    "answers": [
     {
      "text": "direcția în care suflă vântul, măsurată în sens invers acelor de ceasornic",
@@ -2356,7 +2356,7 @@
    "number": "#66",
    "text": "227: Ce este vântul catabatic?",
    "short": "Vântul catabatic este un vânt descendent, care coboară pe versanții dealurilor în văi, seara.",
-   "long": "Vântul catabatic coboară pe versanții dealurilor și munților, seara sau noaptea, când aerul de lângă pantă se răcește și devine mai greu.",
+   "long": "## Ce este vântul catabatic\nVântul catabatic este un vânt descendent, care coboară pe versanții dealurilor și munților, mai ales seara și noaptea, când aerul de lângă pantă se răcește și devine mai greu decât aerul din jur. Opusul lui este vântul anabatic, care urcă ziua.",
    "answers": [
     {
      "text": "este un vânt descendent ce coboară pe versanții dealurilor în văi seara",
@@ -2536,7 +2536,7 @@
    "number": "#71",
    "text": "289: Ce este vântul de gradient?",
    "short": "Vântul de gradient bate paralel cu izobarele curbate, influențat de forța Coriolis și de gradientul de presiune.",
-   "long": "Vântul de gradient bate paralel cu izobarele curbate, în echilibru între forța gradientului de presiune, forța Coriolis și forța centrifugă. Este vântul de la altitudinea la care frecarea cu solul nu mai contează mult.",
+   "long": "## Vântul de gradient\nVântul de gradient bate paralel cu izobarele curbate. Este echilibrat de gradientul de presiune, de forța Coriolis și de forța centrifugă, care apare când izobarele sunt curbate. Nu este specific zonelor montane și apare la orice nivel unde izobarele sunt curbate.",
    "answers": [
     {
      "text": "vântul de gradient este un vânt care bate în direcția în care scade presiunea atmosferică",
@@ -2897,7 +2897,7 @@
    "number": "#81",
    "text": "223: Vântul este:",
    "short": "Vântul este mișcarea orizontală a aerului.",
-   "long": "Vântul este mișcarea orizontală a aerului, de la zonele de presiune mai mare către cele de presiune mai mică.",
+   "long": "## Ce este vântul\nVântul este mișcarea orizontală a aerului, de la zonele cu presiune mai mare spre cele cu presiune mai mică. Mișcarea verticală a aerului se numește curent ascendent sau descendent, nu vânt. Turbulența este o mișcare haotică a aerului și nu definește vântul.",
    "answers": [
     {
      "text": "mișcarea turbulentă a aerului",
@@ -2969,7 +2969,7 @@
    "number": "#83",
    "text": "258: O perdea de copaci în fața vântului anterior aterizării provoacă:",
    "short": "O perdea de copaci în fața vântului, înainte de aterizare, produce turbulențe și umbre de vânt în spatele copacilor.",
-   "long": "O perdea de copaci în fața vântului produce turbulențe și umbre de vânt în spatele ei, sub vânt, unde aerul este agitat. Acest lucru contează înainte de aterizare.",
+   "long": "## Cum se formează turbulențele în spatele copacilor\nUn șir de copaci sau o pădure este un obstacol pentru vânt. Aerul care trece peste el este frânat, deviat și se desprinde de la vârfuri. În spatele obstacolului se formează rotoare (vârtejuri), iar pe o distanță de câteva ori înălțimea copacilor apare o zonă de vânt redus, numită umbră de vânt.\n\n## De ce este important înainte de aterizare\nDacă ai copaci în fața pistei, pe direcția vântului, aterizarea se face în zona de turbulență. Trebuie să ții cont de rotoare și de schimbările bruște de vânt, pentru că ai puțină altitudine și puțin timp de reacție.",
    "answers": [
     {
      "text": "turbulențe și “umbre de vânt” în spatele copacilor, sub vânt",
