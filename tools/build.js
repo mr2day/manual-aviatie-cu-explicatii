@@ -22,13 +22,16 @@ const sidebar = component('sidebar.html');
 const mainContent = component('main-content.html');
 const menuBar = component('menu-bar.html');
 
+// Versiune pentru ocolirea cache-ului: fiecare build schimbă adresele de CSS și JS.
+const version = Date.now().toString(36);
+
 const html = `<!DOCTYPE html>
 <html lang="ro">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Manual de pregătire – paramotor</title>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css?v=${version}">
 </head>
 <body>
 ${header}
@@ -38,7 +41,7 @@ ${sidebar}
 ${mainContent}
   </div>
   <script type="application/json" id="manual-data">${embedded}</script>
-  <script src="js/app.js"></script>
+  <script src="js/app.js?v=${version}"></script>
 </body>
 </html>
 `;

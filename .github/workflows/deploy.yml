@@ -32,5 +32,6 @@ jobs:
         run: |
           gcloud storage rsync . gs://manual-paramotor-ro-web \
             --recursive \
+            --cache-control="no-cache, max-age=0" \
             --delete-unmatched-destination-objects \
             --exclude='(^|/)(\.git|\.github|tools|data|components)(/|$)|\.md$|(^|/)\.gitignore$|(^|/)gha-creds-.*\.json$'
