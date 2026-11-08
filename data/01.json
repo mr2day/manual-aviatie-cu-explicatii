@@ -466,7 +466,7 @@
      "text": "squawk 7500 - (Hijacking) \"Seventy-five, stay alive\"",
      "correct": false,
      "short": "",
-     "long": "Codul 7500 semnalează deturnarea, nu pierderea comunicației.",
+     "long": "Codul 7500 semnalează deturnarea, nu pierderea comunicației.\n\n## 7500 – Deturnare (Hijacking / Unlawful Interference)\n\n• Rima de memorare: „Seventy-five, stay alive” (75, rămâi în viață).\n\n• Este folosit dacă cineva neautorizat (teroriști, pasageri violenți) preia controlul aeronavei sau încearcă să intre cu forța în cockpit. Alertă maximă la sol (intervin forțele militare).",
      "warn": ""
     }
    ]
