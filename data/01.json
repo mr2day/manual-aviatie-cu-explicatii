@@ -872,34 +872,34 @@
    "number": "#25",
    "text": "719: Ce semnifica termenul UTC?",
    "short": "UTC înseamnă timpul universal coordonat.",
-   "long": "UTC înseamnă Timpul Universal Coordonat, referința de timp folosită în aviație.",
+   "long": "## Ce înseamnă UTC\n\nUTC este acronimul pentru Coordinated Universal Time, adică Timpul universal coordonat. Este ora de referință din întreaga lume, pe care se bazează toate celelalte fusuri orare. Aviația și meteorologia o folosesc pentru că permite să vorbești despre aceeași clipă, indiferent unde ești.\n\n## De unde vine numele\n\nAcronimul UTC este un compromis între denumirile din engleză (CUT) și din franceză (TUC), pentru că ambele limbi au participat la stabilirea standardului.\n\n## Meridianul Greenwich\n\nÎn 1884, la Conferința Internațională a Meridianelor de la Washington, s-a stabilit meridianul de la Greenwich, lângă Londra, ca meridian de referință, cu longitudinea de 0°. De aici vine GMT (Greenwich Mean Time), ora locală a acestui meridian, care în uz practic este același lucru cu UTC.\n\n## Cum se împart orele pe Pământ\n\nPământul face o rotație completă în aproximativ 24 de ore, adică se rotește cu 360° în 24 de ore, deci cu 15° pe oră. Din acest motiv globul e împărțit în fusuri orare, de aproximativ 15° fiecare. Pământul se rotește de la vest la est, deci soarele „răsare” mai întâi în est. Locurile din est au ora mai înainte, iar cele din vest au ora mai în urmă.\n\n## De ce e mai seară în unele locuri decât în altele\n\nLa un moment dat, o parte a Pământului e luminată de soare (ziua), iar cealaltă parte e în umbră (noaptea). Pe măsură ce Pământul se rotește, fiecare loc trece prin zi și noapte. De aceea, când în Londra e 12:00, în București e 14:00, iar în New York e 07:00.\n\n## De ce UTC are secunde în plus uneori\n\nRotația Pământului nu e perfect regulată și încetinește puțin. Ca UTC să rămână aproape de ora solară, din când în când se adaugă o secundă, numită secundă intercalară. Diferența dintre UTC și rotația Pământului rămâne sub 0,9 secunde.\n\n## Exemplu: Concorde între Paris și New York\n\nAvionul supersonic Concorde zbura de la Paris la New York în aproximativ 3,5 ore. Diferența de fus orar era de 5–6 ore, deci avionul ajungea la New York înainte de a fi plecat din Paris, după ora locală. Un zbor de pe la 10:30 de la Paris ajungea la New York pe la 08:30 ora locală. Nu era călătorie în timp, ci doar un efect al fusurilor orare: Concorde fusese atât de rapid încât, pe ceas, ajungea înainte să fi plecat.\n\n## De ce folosesc piloții UTC\n\nÎn aviație, ora se exprimă de obicei în UTC (uneori cu litera Z, de la „Zulu”), pentru ca toți piloții și controlorii din lume să vorbească despre același moment. Planurile de zbor, condițiile meteo și orarele de decolare și aterizare folosesc toate UTC.\n\n## Răspunsul corect la întrebare\n\nUTC înseamnă timpul universal coordonat. Varianta marcată corect e deci „timpul universal coordonat”.",
    "answers": [
     {
      "text": "timpul decolării",
      "correct": false,
      "short": "",
-     "long": "Timpul decolării nu este semnificația UTC.",
+     "long": "Greșit. Timpul decolării este ora la care un avion pornește pe pistă. Nu are legătură cu UTC, care este o oră de referință, valabilă în întreaga lume.",
      "warn": ""
     },
     {
      "text": "timpul total de zbor anuntat",
      "correct": false,
      "short": "",
-     "long": "Timpul total de zbor nu este semnificația UTC.",
+     "long": "Greșit. Timpul total de zbor este durata unui zbor, de exemplu 2 ore și 30 de minute. UTC este o oră de referință, nu o durată.",
      "warn": ""
     },
     {
      "text": "timpul universal coordonat",
      "correct": true,
      "short": "",
-     "long": "Corect. UTC este timpul universal coordonat.",
+     "long": "Corect. UTC înseamnă timpul universal coordonat, ora de referință din întreaga lume, pe care se bazează fusurile orare.",
      "warn": ""
     },
     {
      "text": "ceasul timpului universal",
      "correct": false,
      "short": "",
-     "long": "Ceasul timpului universal este o expresie, nu semnificația UTC.",
+     "long": "Greșit. „Ceasul timpului universal” nu este un termen corect. UTC este numele oficial al timpului de referință.",
      "warn": ""
     }
    ]
