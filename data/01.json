@@ -1196,34 +1196,34 @@
    "number": "#34",
    "text": "687: Folosind alfabetul fonetic ICAO, literele E, X și B se pronunță astfel:",
    "short": "Pe alfabetul fonetic ICAO, E, X și B se pronunță Echo, X-ray, Bravo.",
-   "long": "Alfabetul fonetic ICAO: E este Echo, X este X-ray, B este Bravo.",
+   "long": "## Ce este alfabetul fonetic ICAO\n\nAlfabetul fonetic ICAO, cunoscut și ca alfabetul fonetic NATO, asociază fiecărei litere un cuvânt-cod, ca literele să fie înțelese corect pe radio, chiar și când transmisia e slabă sau plină de zgomot. De exemplu: A – Alfa, B – Bravo, E – Echo, X – X-ray.\n\n## De ce a apărut\n\nÎn primele transmisiuni radio, sunetul era adesea alterat de interferențe. Literele cu sunet asemănător (B, C, D, E, G, P, T, V, Z, M, N) se confundau ușor. Piloții și controlorii din țări diferite pronunțau literele după accentul propriu, iar o literă greșită într-o coordonată sau într-un indicativ putea duce la accidente.\n\n## Cum a evoluat\n\n• 1927: prima listă internațională, de nume de orașe (Amsterdam, Baltimore, Casablanca), elaborată de CCIR, precursorul ITU.\n\n• Al Doilea Război Mondial: armatele americană și britanică foloseau alfabetul „Able Baker”, greu de pronunțat pentru vorbitori de alte limbi.\n\n• 1951: ICAO a cerut un studiu lingvistic Universității din Montreal, pentru cuvinte ușor de recunoscut în engleză, franceză și spaniolă.\n\n• 1956: alfabetul a fost adoptat oficial de ICAO, iar apoi de NATO, ITU și de organizațiile maritime.\n\n## Ce criterii au fost folosite\n\n• Recunoaștere în mai multe limbi: cuvinte precum Hotel, Delta, Tango sau Alfa sunt aproape identice în engleză, franceză și spaniolă.\n\n• Sunete distincte: fiecare cuvânt trebuie să se distingă de celelalte, chiar și în zgomot.\n\n• Independență de accent: cuvintele își păstrează forma, indiferent de accentul vorbitorului.\n\n• Ritm clar: multe cuvinte au silabe alternante consoană-vocală (Li-ma, Ro-me-o, Pa-pa), care se disting ușor pe radio.\n\n## Câteva exemple din alegerile finale\n\n• Jet a fost înlocuit cu Juliett pentru J, pentru că în funcție de țară se pronunța „Get”, „Iet” sau „Giet”.\n\n• Coco fusese propus pentru C, dar în spaniolă și portugheză genera confuzii, deci s-a ales Charlie.\n\n• Cifra 9 se pronunță „Niner”, ca să nu fie confundată cu „Nein” (nu, în germană).\n\n## Alfabetul complet\n\n• A – Alfa, B – Bravo, C – Charlie, D – Delta, E – Echo, F – Foxtrot, G – Golf\n\n• H – Hotel, I – India, J – Juliett, K – Kilo, L – Lima, M – Mike, N – November\n\n• O – Oscar, P – Papa, Q – Quebec, R – Romeo, S – Sierra, T – Tango, U – Uniform\n\n• V – Victor, W – Whiskey, X – X-ray, Y – Yankee, Z – Zulu\n\n## Răspunsul corect la întrebare\n\nPe alfabetul fonetic ICAO, E se pronunță Echo, X se pronunță X-ray și B se pronunță Bravo. Varianta D este deci corectă.",
    "answers": [
     {
      "text": "Engage , Xerox, Baccalaureate",
      "correct": false,
      "short": "",
-     "long": "Engage, Xerox și Baccalaureate nu sunt cuvintele ICAO pentru E, X și B.",
+     "long": "Greșit. Engage, Xerox și Baccalaureate încep cu E, X și B, dar nu sunt cuvinte din alfabetul ICAO. Pentru E, cuvântul ICAO este Echo, pentru X este X-ray, iar pentru B este Bravo.",
      "warn": ""
     },
     {
      "text": "Echo, X-mas, Baboon",
      "correct": false,
      "short": "",
-     "long": "X-mas și Baboon nu sunt cuvintele ICAO pentru X și B.",
+     "long": "Greșit. Echo este corect pentru E, dar X-mas și Baboon nu sunt cuvinte ICAO pentru X și B. Pentru X se folosește X-ray, iar pentru B, Bravo.",
      "warn": ""
     },
     {
      "text": "Easy, Xenon, Baby",
      "correct": false,
      "short": "",
-     "long": "Easy, Xenon și Baby nu sunt cuvintele ICAO pentru E, X și B.",
+     "long": "Greșit. Easy, Xenon și Baby nu sunt cuvinte din alfabetul ICAO. Easy ar putea părea un cuvânt pentru E, dar cuvântul ICAO pentru E este Echo.",
      "warn": ""
     },
     {
      "text": "Echo, X-ray, Bravo",
      "correct": true,
      "short": "",
-     "long": "Corect. Echo, X-ray și Bravo sunt cuvintele ICAO pentru E, X și B.",
+     "long": "Corect. Echo, X-ray și Bravo sunt cuvintele din alfabetul fonetic ICAO pentru E, X și B. Au fost alese pentru că sunt ușor de recunoscut în mai multe limbi, se disting bine pe radio și nu se confundă cu alte cuvinte.",
      "warn": ""
     }
    ]
