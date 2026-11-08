@@ -451,7 +451,7 @@
      "text": "squawk 7700 - (Emergency) \"Seventy-seven, going to heaven\"",
      "correct": false,
      "short": "",
-     "long": "Codul 7700 semnalează urgență generală, nu pierderea comunicației.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau urgențe medicale critice la bord (un pasager cu infarct). Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
+     "long": "Codul 7700 semnalează urgență generală, nu pierderea comunicației.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau ~~urgențe medicale critice la bord (un pasager cu infarct)~~. Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
      "warn": ""
     },
     {
@@ -531,8 +531,8 @@
      "text": "nu există un cod specific pentru urgențe medicale",
      "correct": true,
      "short": "",
-     "long": "Corect. Nu există cod transponder special pentru urgențe medicale.",
-     "warn": ""
+     "long": "Corect. Nu există cod transponder special pentru urgențe medicale.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau ~~urgențe medicale critice la bord (un pasager cu infarct)~~. Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
+     "warn": "Există un cod: 7700 (Emergency). Este folosit și pentru urgențe medicale critice la bord, de exemplu un pasager cu infarct."
     },
     {
      "text": "7000 - (Visual Flight Rules)",
@@ -639,7 +639,7 @@
      "text": "7700 - (Emergency) \"Seventy-seven, going to heaven\"",
      "correct": false,
      "short": "",
-     "long": "Codul 7700 semnalează urgență generală, nu deturnarea.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau urgențe medicale critice la bord (un pasager cu infarct). Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
+     "long": "Codul 7700 semnalează urgență generală, nu deturnarea.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau ~~urgențe medicale critice la bord (un pasager cu infarct)~~. Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
      "warn": ""
     },
     {
@@ -1021,7 +1021,7 @@
      "text": "urgență generală",
      "correct": true,
      "short": "",
-     "long": "Corect. Codul 7700 este urgență generală.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau urgențe medicale critice la bord (un pasager cu infarct). Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
+     "long": "Corect. Codul 7700 este urgență generală.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau ~~urgențe medicale critice la bord (un pasager cu infarct)~~. Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
      "warn": ""
     },
     {
@@ -1035,14 +1035,14 @@
      "text": "deturnare",
      "correct": false,
      "short": "",
-     "long": "Deturnarea are codul 7500, nu 7700.\n\n## 7500 – Deturnare (Hijacking / Unlawful Interference)\n\n• Rima de memorare: „Seventy-five, stay alive” (75, rămâi în viață).\n\n• Este folosit dacă cineva neautorizat (teroriști, pasageri violenți) preia controlul aeronavei sau încearcă să intre cu forța în cockpit. Alertă maximă la sol (intervin forțele militare).\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau urgențe medicale critice la bord (un pasager cu infarct). Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
+     "long": "Deturnarea are codul 7500, nu 7700.\n\n## 7500 – Deturnare (Hijacking / Unlawful Interference)\n\n• Rima de memorare: „Seventy-five, stay alive” (75, rămâi în viață).\n\n• Este folosit dacă cineva neautorizat (teroriști, pasageri violenți) preia controlul aeronavei sau încearcă să intre cu forța în cockpit. Alertă maximă la sol (intervin forțele militare).\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau ~~urgențe medicale critice la bord (un pasager cu infarct)~~. Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
      "warn": ""
     },
     {
      "text": "pierderea comunicațiilor",
      "correct": false,
      "short": "",
-     "long": "Pierderea comunicațiilor are codul 7600, nu 7700.\n\n## 7600 – Pană de radio / Pierderea comunicațiilor (Radio Failure)\n\n• Rima de memorare: „Seventy-six, radio needs a fix” (76, radioul trebuie reparat).\n\n• Este folosit când stația radio a avionului s-a stricat. Piloții pot auzi controlorii, dar nu pot vorbi, sau nu pot nici auzi, nici vorbi. Codul 7600 îi spune controlorului: „Sunt bine, zbor normal, dar nu vă pot auzi. Urmăriți-mă pe radar și faceți-mi loc să aterizez”.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau urgențe medicale critice la bord (un pasager cu infarct). Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
+     "long": "Pierderea comunicațiilor are codul 7600, nu 7700.\n\n## 7600 – Pană de radio / Pierderea comunicațiilor (Radio Failure)\n\n• Rima de memorare: „Seventy-six, radio needs a fix” (76, radioul trebuie reparat).\n\n• Este folosit când stația radio a avionului s-a stricat. Piloții pot auzi controlorii, dar nu pot vorbi, sau nu pot nici auzi, nici vorbi. Codul 7600 îi spune controlorului: „Sunt bine, zbor normal, dar nu vă pot auzi. Urmăriți-mă pe radar și faceți-mi loc să aterizez”.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau ~~urgențe medicale critice la bord (un pasager cu infarct)~~. Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
      "warn": ""
     }
    ]
@@ -1791,7 +1791,7 @@
      "text": "7700 - (Emergency) \"Seventy-seven, going to heaven\"",
      "correct": false,
      "short": "",
-     "long": "Codul 7700 semnalează urgență generală.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau urgențe medicale critice la bord (un pasager cu infarct). Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
+     "long": "Codul 7700 semnalează urgență generală.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau ~~urgențe medicale critice la bord (un pasager cu infarct)~~. Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
      "warn": ""
     },
     {
@@ -1827,7 +1827,7 @@
      "text": "setarea transponderului pe codul 7700",
      "correct": false,
      "short": "",
-     "long": "Codul 7700 semnalează urgență generală, nu pierderea comunicațiilor.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau urgențe medicale critice la bord (un pasager cu infarct). Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
+     "long": "Codul 7700 semnalează urgență generală, nu pierderea comunicațiilor.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau ~~urgențe medicale critice la bord (un pasager cu infarct)~~. Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
      "warn": ""
     },
     {
@@ -2677,7 +2677,7 @@
      "text": "Aeronava trebuie să seteze transponderul pe codul 7700 - (Emergency) \"Seventy-seven, going to heaven\" și să emită un mesaj de urgență",
      "correct": false,
      "short": "",
-     "long": "Transponderul pe 7700 și mesajul de urgență nu sunt procedura de intrare fără contact radio. Urgența se declară doar dacă există pericol.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau urgențe medicale critice la bord (un pasager cu infarct). Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
+     "long": "Transponderul pe 7700 și mesajul de urgență nu sunt procedura de intrare fără contact radio. Urgența se declară doar dacă există pericol.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau ~~urgențe medicale critice la bord (un pasager cu infarct)~~. Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
      "warn": ""
     },
     {
@@ -2878,7 +2878,7 @@
      "text": "7700 - (Emergency) \"Seventy-seven, going to heaven\"",
      "correct": false,
      "short": "",
-     "long": "7700 este codul pentru urgență generală.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau urgențe medicale critice la bord (un pasager cu infarct). Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
+     "long": "7700 este codul pentru urgență generală.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau ~~urgențe medicale critice la bord (un pasager cu infarct)~~. Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
      "warn": ""
     }
    ]
@@ -3447,7 +3447,7 @@
      "text": "7700 - (Emergency) \"Seventy-seven, going to heaven\"",
      "correct": false,
      "short": "",
-     "long": "7700 semnalează urgența generală.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau urgențe medicale critice la bord (un pasager cu infarct). Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
+     "long": "7700 semnalează urgența generală.\n\n## 7700 – Urgență generală (Emergency)\n\n• Rima de memorare: „Seventy-seven, going to heaven” (77, merg în ceruri – o metaforă dramatică pentru o urgență majoră).\n\n• Este echivalentul unui „Mayday”. Se folosește pentru probleme tehnice grave (un motor defect, incendiu la bord, decompresie) sau ~~urgențe medicale critice la bord (un pasager cu infarct)~~. Oferă avionului prioritate absolută la aterizare în fața oricărui alt zbor.",
      "warn": ""
     },
     {

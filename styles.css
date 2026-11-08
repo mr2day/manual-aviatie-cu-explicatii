@@ -1033,3 +1033,5 @@ body.modal-open { overflow: hidden; }
 /* Formatare în modal: titluri verzi, evidențieri bold */
 .modal-body h4 { color: #81c784; }
 .modal-body strong.emph { color: #ffffff; font-weight: 700; }
+
+.hl-green { color: #81c784; font-weight: 700; }
