@@ -441,28 +441,28 @@
    "long": "La pierderea comunicației radio, în spațiul unde transponderul este obligatoriu, pilotul setează codul 7600, care semnalează pierderea comunicațiilor.",
    "answers": [
     {
-     "text": "squak 7600",
+     "text": "squak 7600 -",
      "correct": true,
      "short": "",
      "long": "Corect. Codul 7600 semnalează pierderea comunicației radio.",
      "warn": ""
     },
     {
-     "text": "squak 7700",
+     "text": "squak 7700 -",
      "correct": false,
      "short": "",
      "long": "Codul 7700 semnalează urgență generală, nu pierderea comunicației.",
      "warn": ""
     },
     {
-     "text": "squak 7777",
+     "text": "squak 7777 -",
      "correct": false,
      "short": "",
      "long": "Codul 7777 nu este cod standard pentru pierderea comunicației.",
      "warn": ""
     },
     {
-     "text": "squak 7500",
+     "text": "squak 7500 -",
      "correct": false,
      "short": "",
      "long": "Codul 7500 semnalează deturnarea, nu pierderea comunicației.",
@@ -513,14 +513,14 @@
    "long": "Nu există un cod transponder special pentru urgențe medicale. Pentru urgențe se folosesc codurile 7700 (urgență), 7600 (pierderea comunicațiilor) și 7500 (deturnare).",
    "answers": [
     {
-     "text": "7600",
+     "text": "7600 -",
      "correct": false,
      "short": "",
      "long": "Codul 7600 semnalează pierderea comunicațiilor, nu urgența medicală.",
      "warn": ""
     },
     {
-     "text": "7500",
+     "text": "7500 -",
      "correct": false,
      "short": "",
      "long": "Codul 7500 semnalează deturnarea, nu urgența medicală.",
@@ -534,7 +534,7 @@
      "warn": ""
     },
     {
-     "text": "7000",
+     "text": "7000 -",
      "correct": false,
      "short": "",
      "long": "Codul 7000 este codul VFR în Europa, nu semnalul pentru urgențe medicale.",
@@ -621,28 +621,28 @@
    "long": "Codul transponder 7500 semnalează deturnarea aeronavei (act de intervenție ilicită).",
    "answers": [
     {
-     "text": "7000",
+     "text": "7000 -",
      "correct": false,
      "short": "",
      "long": "Codul 7000 este codul VFR în Europa, nu cel pentru deturnare.",
      "warn": ""
     },
     {
-     "text": "7500",
+     "text": "7500 -",
      "correct": true,
      "short": "",
      "long": "Corect. Codul 7500 semnalează deturnarea.",
      "warn": ""
     },
     {
-     "text": "7700",
+     "text": "7700 -",
      "correct": false,
      "short": "",
      "long": "Codul 7700 semnalează urgență generală, nu deturnarea.",
      "warn": ""
     },
     {
-     "text": "7600",
+     "text": "7600 -",
      "correct": false,
      "short": "",
      "long": "Codul 7600 semnalează pierderea comunicațiilor, nu deturnarea.",
@@ -1773,28 +1773,28 @@
    "long": "Codul transponder 7600 semnalează pierderea comunicațiilor radio.",
    "answers": [
     {
-     "text": "7000",
+     "text": "7000 -",
      "correct": false,
      "short": "",
      "long": "Codul 7000 este codul VFR general în Europa, nu cel pentru pierderea comunicațiilor.",
      "warn": ""
     },
     {
-     "text": "7600",
+     "text": "7600 -",
      "correct": true,
      "short": "",
      "long": "Corect. Codul 7600 semnalează pierderea comunicațiilor radio.",
      "warn": ""
     },
     {
-     "text": "7700",
+     "text": "7700 -",
      "correct": false,
      "short": "",
      "long": "Codul 7700 semnalează urgență generală.",
      "warn": ""
     },
     {
-     "text": "7500",
+     "text": "7500 -",
      "correct": false,
      "short": "",
      "long": "Codul 7500 semnalează deturnarea.",
@@ -1809,21 +1809,21 @@
    "long": "La pierderea comunicațiilor radio, pilotul setează transponderul pe 7600 și urmează procedurile de pierdere a comunicațiilor.",
    "answers": [
     {
-     "text": "setarea transponderului pe codul 7600",
+     "text": "setarea transponderului pe codul 7600 -",
      "correct": true,
      "short": "",
      "long": "Corect. Transponderul pe 7600 semnalează pierderea comunicațiilor.",
      "warn": ""
     },
     {
-     "text": "setarea transponderului pe codul 7500",
+     "text": "setarea transponderului pe codul 7500 -",
      "correct": false,
      "short": "",
      "long": "Codul 7500 semnalează deturnarea, nu pierderea comunicațiilor.",
      "warn": ""
     },
     {
-     "text": "setarea transponderului pe codul 7700",
+     "text": "setarea transponderului pe codul 7700 -",
      "correct": false,
      "short": "",
      "long": "Codul 7700 semnalează urgență generală, nu pierderea comunicațiilor.",
@@ -2205,7 +2205,7 @@
    "long": "Înainte de a intra din clasa G în spațiul controlat (clasele A–E), aeronava trebuie să stabilească legătura radio cu unitatea ATC și să obțină autorizarea.",
    "answers": [
     {
-     "text": "Aeronava trebuie să schimbe transponderul pe codul 7000 și să continue zborul fără comunicare suplimentară",
+     "text": "Aeronava trebuie să schimbe transponderul pe codul 7000 - și să continue zborul fără comunicare suplimentară",
      "correct": false,
      "short": "",
      "long": "Schimbarea transponderului pe 7000 nu înlocuiește autorizarea ATC. Codul 7000 este doar codul VFR.",
@@ -2673,7 +2673,7 @@
    "long": "Dacă aeronava nu reușește să stabilească legătura radio cu ATC înainte de a intra în spațiul controlat, nu intră. Rămâne în spațiul necontrolat și încearcă să refacă legătura.",
    "answers": [
     {
-     "text": "Aeronava trebuie să seteze transponderul pe codul 7700 și să emită un mesaj de urgență",
+     "text": "Aeronava trebuie să seteze transponderul pe codul 7700 - și să emită un mesaj de urgență",
      "correct": false,
      "short": "",
      "long": "Transponderul pe 7700 și mesajul de urgență nu sunt procedura de intrare fără contact radio. Urgența se declară doar dacă există pericol.",
@@ -2853,28 +2853,28 @@
    "long": "Codul transponder 7000 este codul pentru zborul VFR în spațiul necontrolat, în Europa.",
    "answers": [
     {
-     "text": "7500",
+     "text": "7500 -",
      "correct": false,
      "short": "",
      "long": "7500 este codul pentru deturnare.",
      "warn": ""
     },
     {
-     "text": "7000",
+     "text": "7000 -",
      "correct": true,
      "short": "",
      "long": "Corect. 7000 este codul pentru zborurile VFR în spațiul necontrolat, în Europa.",
      "warn": ""
     },
     {
-     "text": "7600",
+     "text": "7600 -",
      "correct": false,
      "short": "",
      "long": "7600 este codul pentru pierderea comunicațiilor.",
      "warn": ""
     },
     {
-     "text": "7700",
+     "text": "7700 -",
      "correct": false,
      "short": "",
      "long": "7700 este codul pentru urgență generală.",
@@ -3429,28 +3429,28 @@
    "long": "În zborul normal, transponderul se setează pe 7000 în spațiul necontrolat din Europa.",
    "answers": [
     {
-     "text": "7600",
+     "text": "7600 -",
      "correct": false,
      "short": "",
      "long": "7600 semnalează pierderea comunicațiilor, nu zborul normal.",
      "warn": ""
     },
     {
-     "text": "7000",
+     "text": "7000 -",
      "correct": true,
      "short": "",
      "long": "Corect. 7000 este codul pentru zborul normal în spațiul necontrolat.",
      "warn": ""
     },
     {
-     "text": "7700",
+     "text": "7700 -",
      "correct": false,
      "short": "",
      "long": "7700 semnalează urgența generală.",
      "warn": ""
     },
     {
-     "text": "7500",
+     "text": "7500 -",
      "correct": false,
      "short": "",
      "long": "7500 semnalează deturnarea.",
