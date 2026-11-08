@@ -1030,3 +1030,6 @@ details.question-more .more-body {
 .modal-body p { margin: 0 0 0.75rem; }
 body.modal-open { overflow: hidden; }
 
+/* Formatare în modal: titluri verzi, evidențieri bold */
+.modal-body h4 { color: #81c784; }
+.modal-body strong.emph { color: #ffffff; font-weight: 700; }

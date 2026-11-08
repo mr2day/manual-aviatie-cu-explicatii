@@ -14,10 +14,12 @@
   // Explicații lungi: blocuri separate de rânduri goale; un bloc care începe cu „## ” devine titlu;
   // „!!text!!” se afișează cu roșu și bold.
   function addInline(p, line) {
-    line.split(/!!(.+?)!!/).forEach(function (part, i) {
+    line.split(/(!!.+?!!|\*\*.+?\*\*)/).forEach(function (part) {
       if (!part) return;
-      if (i % 2 === 1) {
-        p.appendChild(el('strong', 'alert-text', part));
+      if (part.indexOf('!!') === 0 && part.slice(-2) === '!!') {
+        p.appendChild(el('strong', 'alert-text', part.slice(2, -2)));
+      } else if (part.indexOf('**') === 0 && part.slice(-2) === '**') {
+        p.appendChild(el('strong', 'emph', part.slice(2, -2)));
       } else {
         p.appendChild(document.createTextNode(part));
       }
@@ -29,7 +31,9 @@
       var lines = block.split('\n').filter(function (l) { return l.trim() !== ''; });
       if (!lines.length) return;
       if (/^## /.test(lines[0])) {
-        container.appendChild(el('h4', null, lines[0].replace(/^## /, '')));
+        var h4 = el('h4');
+        addInline(h4, lines[0].replace(/^## /, ''));
+        container.appendChild(h4);
         lines = lines.slice(1);
         if (!lines.length) return;
       }
