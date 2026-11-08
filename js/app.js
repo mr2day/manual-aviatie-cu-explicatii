@@ -62,10 +62,103 @@
     });
   }
 
+  // Căutare în titlurile întrebărilor, ca Ctrl+F: săgețile trec la următoarea sau precedenta potrivire.
+  function foldText(s) {
+    return String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+  }
+
+  function buildSearchBar() {
+    var bar = el('div', 'q-search');
+    bar.setAttribute('role', 'search');
+    var input = el('input', 'q-search-input');
+    input.type = 'search';
+    input.placeholder = 'Caută în întrebări…';
+    input.setAttribute('aria-label', 'Caută în titlurile întrebărilor');
+    var count = el('span', 'q-search-count');
+    count.setAttribute('aria-live', 'polite');
+    var prev = el('button', 'q-search-btn');
+    prev.type = 'button';
+    prev.setAttribute('aria-label', 'Întrebarea anterioară');
+    prev.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 15l6-6 6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+    var next = el('button', 'q-search-btn');
+    next.type = 'button';
+    next.setAttribute('aria-label', 'Întrebarea următoare');
+    next.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+    bar.appendChild(input);
+    bar.appendChild(count);
+    bar.appendChild(prev);
+    bar.appendChild(next);
+    bar.refs = { input: input, count: count, prev: prev, next: next };
+    return bar;
+  }
+
+  function setStickyTop() {
+    var mb = document.querySelector('.menu-bar');
+    var h = mb && getComputedStyle(mb).display !== 'none' ? mb.offsetHeight : 0;
+    document.documentElement.style.setProperty('--q-top', h + 'px');
+  }
+
+  function initSearch(bar, sections, questions) {
+    var refs = bar.refs;
+    var titles = questions.map(function (q) { return foldText(q.text.replace(/^\d+:\s*/, '')); });
+    var matches = [];
+    var pos = -1;
+    var current = null;
+
+    function show() {
+      if (!matches.length) {
+        refs.count.textContent = refs.input.value.trim() ? '0 rezultate' : '';
+      } else {
+        refs.count.textContent = (pos + 1) + ' / ' + matches.length;
+      }
+      refs.prev.disabled = refs.next.disabled = matches.length === 0;
+    }
+
+    function go(p) {
+      if (current) current.classList.remove('search-hit');
+      pos = p;
+      current = sections[matches[pos]];
+      current.classList.add('search-hit');
+      current.scrollIntoView({ block: 'start', behavior: 'smooth' });
+      show();
+    }
+
+    function recalc() {
+      var q = foldText(refs.input.value.trim());
+      matches = [];
+      if (current) { current.classList.remove('search-hit'); current = null; }
+      pos = -1;
+      if (q) {
+        titles.forEach(function (t, i) { if (t.indexOf(q) !== -1) matches.push(i); });
+      }
+      if (matches.length) go(0); else show();
+    }
+
+    function step(d) {
+      if (!matches.length) return;
+      go((pos + d + matches.length) % matches.length);
+    }
+
+    refs.input.addEventListener('input', recalc);
+    refs.input.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter') { e.preventDefault(); step(e.shiftKey ? -1 : 1); }
+      if (e.key === 'Escape') { refs.input.value = ''; recalc(); }
+    });
+    refs.prev.addEventListener('click', function () { step(-1); });
+    refs.next.addEventListener('click', function () { step(1); });
+    show();
+    setStickyTop();
+  }
+
+  window.addEventListener('resize', setStickyTop);
+
   function renderChapter(c) {
     var main = document.getElementById('content');
     main.textContent = '';
     main.appendChild(el('h1', 'sr-only', c.title));
+    var searchBar = buildSearchBar();
+    main.appendChild(searchBar);
+    var sections = [];
 
     c.questions.forEach(function (q, index) {
       var section = el('section', 'question');
@@ -124,8 +217,10 @@
       explain.appendChild(el('p', 'question-short', q.short));
       explain.appendChild(more('Explicație detaliată', q.long, 'question-more'));
       section.appendChild(explain);
+      sections.push(section);
       main.appendChild(section);
     });
+    initSearch(searchBar, sections, c.questions);
     window.scrollTo(0, 0);
   }
 

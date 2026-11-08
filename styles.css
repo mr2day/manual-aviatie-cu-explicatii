@@ -863,3 +863,59 @@ details.question-more .more-body {
     text-align: center;
   }
 }
+
+/* Căutare în întrebări */
+.q-search {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 1rem;
+  padding: 10px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+.q-search-input {
+  flex: 1 1 auto;
+  min-width: 0;
+  font: inherit;
+  font-size: 1rem;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--page);
+  color: var(--text);
+  -webkit-appearance: none;
+  appearance: none;
+}
+.q-search-input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.q-search-count {
+  flex: none;
+  min-width: 3.5rem;
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--text);
+  white-space: nowrap;
+}
+.q-search-btn {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  border: none;
+  border-radius: 6px;
+  background: var(--red);
+  color: #fff;
+  cursor: pointer;
+}
+.q-search-btn svg { width: 20px; height: 20px; }
+.q-search-btn:disabled { opacity: 0.4; cursor: default; }
+.q-search-btn:not(:disabled):hover { opacity: 0.85; }
+.question { scroll-margin-top: 90px; }
+.question.search-hit { outline: 2px solid var(--accent); outline-offset: 4px; }
+@media (max-width: 900px) {
+  .q-search { position: sticky; top: var(--q-top, 0px); z-index: 20; }
+}
