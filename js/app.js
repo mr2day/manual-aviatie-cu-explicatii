@@ -151,9 +151,9 @@
 
     // Derulează astfel încât întrebarea să fie sub bara de căutare, nu ascunsă în spatele ei.
     function scrollToCurrent() {
-      var offset = bar.getBoundingClientRect().height + stickyTop() + 16;
-      var y = current.getBoundingClientRect().top + window.pageYOffset - offset;
-      window.scrollTo({ top: Math.max(0, y), behavior: 'smooth' });
+      setStickyTop();
+      document.documentElement.style.setProperty('--q-search-h', bar.offsetHeight + 'px');
+      current.scrollIntoView({ block: 'start', behavior: 'smooth' });
     }
 
     function go(p) {

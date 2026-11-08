@@ -914,7 +914,7 @@ details.question-more .more-body {
 .q-search-btn svg { width: 20px; height: 20px; }
 .q-search-btn:disabled { opacity: 0.4; cursor: default; }
 .q-search-btn:not(:disabled):hover { opacity: 0.85; }
-.question { scroll-margin-top: 90px; }
+.question { scroll-margin-top: calc(var(--q-top, 0px) + var(--q-search-h, 0px) + 12px); }
 .question.search-hit { outline: 2px solid var(--accent); outline-offset: 4px; }
 .q-search { position: sticky; top: var(--q-top, 0px); z-index: 20; }
 .q-hit {
