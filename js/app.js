@@ -27,10 +27,12 @@
   }
 
   function addInline(p, line) {
-    line.split(/(!!.+?!!|\*\*.+?\*\*|~~.+?~~)/).forEach(function (part) {
+    line.split(/(!!.+?!!|\*\*.+?\*\*|~~.+?~~|__.+?__)/).forEach(function (part) {
       if (!part) return;
       if (part.indexOf('!!') === 0 && part.slice(-2) === '!!') {
         p.appendChild(el('strong', 'alert-text', part.slice(2, -2)));
+      } else if (part.indexOf('__') === 0 && part.slice(-2) === '__' && part.length > 4) {
+        p.appendChild(el('em', 'mnemonic', part.slice(2, -2)));
       } else if (part.indexOf('~~') === 0 && part.slice(-2) === '~~') {
         p.appendChild(el('strong', 'hl-green', part.slice(2, -2)));
       } else if (part.indexOf('**') === 0 && part.slice(-2) === '**') {
