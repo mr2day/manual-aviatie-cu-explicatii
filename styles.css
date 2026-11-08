@@ -1038,3 +1038,6 @@ body.modal-open { overflow: hidden; }
 
 /* Titluri din explicații: verde, bolduite */
 details.more .more-body h4 { color: #2ecc71; font-weight: 700; }
+
+/* Fraze mnemonice pentru coduri de transponder */
+em.mnemonic { color: #b388ff; font-style: italic; }

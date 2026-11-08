@@ -13,6 +13,19 @@
 
   // Explicații lungi: blocuri separate de rânduri goale; un bloc care începe cu „## ” devine titlu;
   // „!!text!!” se afișează cu roșu și bold.
+  // Frazele mnemonice pentru coduri de transponder (ex. „Seventy-five, stay alive”) apar mov și italic.
+  function appendMnemonic(parent, text) {
+    var re = /(["„]Seventy-[^"”]*["”])/g;
+    var last = 0;
+    var m;
+    while ((m = re.exec(text)) !== null) {
+      if (m.index > last) parent.appendChild(document.createTextNode(text.slice(last, m.index)));
+      parent.appendChild(el('em', 'mnemonic', m[1]));
+      last = m.index + m[1].length;
+    }
+    if (last < text.length) parent.appendChild(document.createTextNode(text.slice(last)));
+  }
+
   function addInline(p, line) {
     line.split(/(!!.+?!!|\*\*.+?\*\*|~~.+?~~)/).forEach(function (part) {
       if (!part) return;
@@ -23,7 +36,7 @@
       } else if (part.indexOf('**') === 0 && part.slice(-2) === '**') {
         p.appendChild(el('strong', 'emph', part.slice(2, -2)));
       } else {
-        p.appendChild(document.createTextNode(part));
+        appendMnemonic(p, part);
       }
     });
   }
@@ -327,7 +340,8 @@
         var li = el('li', 'answer' + (a.correct ? ' correct' : ''));
         li.appendChild(el('span', 'letter', 'ABCD'.charAt(k)));
         var body = el('div', 'answer-body');
-        var txt = el('span', 'answer-text', a.text);
+        var txt = el('span', 'answer-text');
+        appendMnemonic(txt, a.text);
         if (a.tag) {
           var tag = el('span', 'answer-tag');
           tag.innerHTML = '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z" fill="#ff9800"/><path d="M12 8.5v5" stroke="#1a1e1e" stroke-width="3.2" stroke-linecap="round"/><circle cx="12" cy="17" r="1.9" fill="#1a1e1e"/></svg>';
