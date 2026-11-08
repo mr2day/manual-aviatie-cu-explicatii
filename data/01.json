@@ -548,34 +548,34 @@
    "number": "#16",
    "text": "725: Informații privind audiția se transmit cu numere care indică calitatea recepției semnificația cifrei „4” este:",
    "short": "Nivelul 4 de audibilitate înseamnă că mesajul se aude bine.",
-   "long": "Scara de audibilitate: 4 înseamnă audibil. Cifrele mai mici descriu dificultăți tot mai mari.",
+   "long": "Pentru calitatea recepției, ICAO folosește o scară cu cinci niveluri (lizibilitate, sau „Readability scale”):\n• 1 – neinteligibil, nu se înțelege nimic.\n• 2 – inteligibil din când în când, mesajul se pierde des.\n• 3 – inteligibil, dar cu dificultate.\n• 4 – inteligibil, mesajul se înțelege bine.\n• 5 – perfect inteligibil, fără nicio dificultate.\nCifra 4 corespunde deci variantei „audibil”: mesajul se înțelege bine.",
    "answers": [
     {
      "text": "audibil",
      "correct": true,
      "short": "",
-     "long": "Corect. Cifra 4 înseamnă audibil.",
+     "long": "Corect. Cifra 4 corespunde nivelului „audibil”: mesajul se înțelege bine, fără efort. În scara ICAO, 4 înseamnă „readable”, adică inteligibil.",
      "warn": ""
     },
     {
      "text": "audibil cu întreruperi",
      "correct": false,
      "short": "",
-     "long": "Audibilul cu întreruperi corespunde unei trepte mai slabe, nu cifrei 4.",
+     "long": "Variantă greșită. „Audibil cu întreruperi” corespunde cifrei 2: mesajul se înțelege doar din când în când, pentru că apar întreruperi.",
      "warn": ""
     },
     {
      "text": "perfect audibil",
      "correct": false,
      "short": "",
-     "long": "Perfect audibil corespunde cifrei 5, nu cifrei 4.",
+     "long": "Variantă greșită. „Perfect audibil” corespunde cifrei 5: mesajul se înțelege perfect, fără nicio dificultate.",
      "warn": ""
     },
     {
      "text": "audibil cu dificultate",
      "correct": false,
      "short": "",
-     "long": "Audibil cu dificultate corespunde cifrei 3, nu cifrei 4.",
+     "long": "Variantă greșită. „Audibil cu dificultate” corespunde cifrei 3: mesajul se înțelege, dar cu efort.",
      "warn": ""
     }
    ]
