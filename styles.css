@@ -10,7 +10,7 @@
   --toggle: #004f7a;
   --accent: #65a4e6;
   --alert: #cf0000;
-  --correct: #81c784;
+  --correct: #2ecc71;
   --correct-bg: rgba(46, 125, 50, 0.25);
   --font-body: "DM Sans", "Segoe UI", Roboto, Arial, sans-serif;
   --font-head: "Rajdhani", "Segoe UI", Arial, sans-serif;
@@ -1031,10 +1031,10 @@ details.question-more .more-body {
 body.modal-open { overflow: hidden; }
 
 /* Formatare în modal: titluri verzi, evidențieri bold */
-.modal-body h4 { color: #81c784; }
+.modal-body h4 { color: #2ecc71; }
 .modal-body strong.emph { color: #ffffff; font-weight: 700; }
 
-.hl-green { color: #81c784; font-weight: 700; }
+.hl-green { color: #2ecc71; font-weight: 700; }
 
 /* Titluri din explicații: verde, bolduite */
-details.more .more-body h4 { color: #81c784; font-weight: 700; }
+details.more .more-body h4 { color: #2ecc71; font-weight: 700; }
