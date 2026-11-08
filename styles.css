@@ -935,8 +935,6 @@ details.question-more .more-body {
   .q-search {
     margin-left: -16px;
     margin-right: -16px;
-    border-left: none;
-    border-right: none;
     border-radius: 0;
   }
 }
