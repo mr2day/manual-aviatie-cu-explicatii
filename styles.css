@@ -889,7 +889,12 @@ details.question-more .more-body {
   -webkit-appearance: none;
   appearance: none;
 }
-.q-search-input:focus { outline: 2px solid #7a8a92; outline-offset: 1px; }
+.q-search-input:focus { outline: none; border-color: #7a8a92; }
+.q-search-input {
+  -webkit-tap-highlight-color: transparent;
+}
+.q-search-input::selection { background: #7a8a92; color: #ffffff; }
+.q-search-btn { -webkit-tap-highlight-color: transparent; }
 .q-search-count {
   flex: none;
   min-width: 3.5rem;
