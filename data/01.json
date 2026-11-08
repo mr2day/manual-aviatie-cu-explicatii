@@ -1809,21 +1809,21 @@
    "long": "La pierderea comunicațiilor radio, pilotul setează transponderul pe 7600 și urmează procedurile de pierdere a comunicațiilor.",
    "answers": [
     {
-     "text": "setarea transponderului pe codul 7600 -",
+     "text": "setarea transponderului pe codul 7600",
      "correct": true,
      "short": "",
      "long": "Corect. Transponderul pe 7600 semnalează pierderea comunicațiilor.",
      "warn": ""
     },
     {
-     "text": "setarea transponderului pe codul 7500 -",
+     "text": "setarea transponderului pe codul 7500",
      "correct": false,
      "short": "",
      "long": "Codul 7500 semnalează deturnarea, nu pierderea comunicațiilor.",
      "warn": ""
     },
     {
-     "text": "setarea transponderului pe codul 7700 -",
+     "text": "setarea transponderului pe codul 7700",
      "correct": false,
      "short": "",
      "long": "Codul 7700 semnalează urgență generală, nu pierderea comunicațiilor.",
