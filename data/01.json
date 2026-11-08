@@ -908,34 +908,34 @@
    "number": "#26",
    "text": "768: Ce termen desemnează faza de pericol în codurile de urgență?",
    "short": "Faza de pericol se numește DETRESFA.",
-   "long": "DETRESFA este faza de pericol: există pericol grav și iminent, iar aeronava are nevoie de ajutor imediat.",
+   "long": "## Ce sunt codurile de urgență INCERFA, ALERFA și DETRESFA\n\nSunt cele trei faze ale alertării pentru căutare și salvare, folosite de serviciile de trafic aerian când un avion poate avea probleme. Fiecare fază cere alte acțiuni, de la simpla urmărire a avionului până la pornirea efectivă a salvării. Sunt definite în standardele OACI (Doc 4444, PANS-ATM).\n\n## Cele trei faze, în ordinea gravității\n\n• INCERFA – incertitudine: nu s-a primit nicio informație de la avion, dar nu există încă un pericol confirmat. Se pornește căutarea de informații.\n\n• ALERFA – alertă: există îngrijorare pentru siguranța avionului, mai justificată decât simpla incertitudine. Se alertează centrele de căutare și salvare.\n\n• DETRESFA – detresă: există o certitudine rezonabilă că avionul și ocupanții sunt amenințați de un pericol grav și iminent și au nevoie de ajutor imediat.\n\n## De unde vin numele\n\nCodurile sunt scurtături din limba franceză: INCERFA vine din „incertitude” (incertitudine) și „phase” (fază), ALERFA din „alerte” (alertă) și „phase”, iar DETRESFA din „détresse” (detresă) și „phase”. Sufixul „FA” vine de la „phase”, adică faza. Originea franceză nu e confirmată de un document oficial ICAO în sursele pe care le-am verificat, dar se acceptă în general.\n\n## Cum le reții\n\n• INCERFA – „incert”: nu știi sigur unde e avionul.\n\n• ALERFA – „alertă”: ești îngrijorat, dai alarma.\n\n• DETRESFA – „detresă” (în engleză „distress”): e pericol mare, cer ajutor urgent.\n\nOrdinea de escaladare se reține ușor: INCERFA, apoi ALERFA, apoi DETRESFA. Fiecare fază e mai gravă decât cea dinainte.\n\n## Care e diferența față de PAN și MAYDAY\n\nPAN PAN și MAYDAY sunt mesaje rostite de pilot în radio, nu faze ale alertării. MAYDAY înseamnă pericol grav și iminent, iar PAN PAN înseamnă urgență fără pericol imediat.\n\n## Răspunsul corect la întrebare\n\nFaza de pericol se numește DETRESFA. Varianta B este deci corectă.",
    "answers": [
     {
      "text": "INCERFA",
      "correct": false,
      "short": "",
-     "long": "INCERFA este faza de incertitudine, prima din cele trei.",
+     "long": "Greșit. INCERFA este faza de incertitudine, prima din cele trei. Nu e faza de pericol. Se folosește când nu se primește nicio informație de la avion, dar nu există încă un pericol confirmat.",
      "warn": ""
     },
     {
      "text": "DETRESFA",
      "correct": true,
      "short": "",
-     "long": "Corect. DETRESFA este faza de pericol.",
+     "long": "Corect. DETRESFA este faza de pericol: există o certitudine rezonabilă că avionul și ocupanții sunt amenințați de un pericol grav și iminent. Termenul vine din franceză, „détresse” (în engleză „distress”).",
      "warn": ""
     },
     {
      "text": "ALERFA",
      "correct": false,
      "short": "",
-     "long": "ALERFA este faza de alarmă, a doua.",
+     "long": "Greșit. ALERFA este faza de alertă, a doua din cele trei. Există îngrijorare pentru siguranța avionului, dar nu încă o certitudine a pericolului. Faza de pericol este DETRESFA.",
      "warn": ""
     },
     {
      "text": "PAN",
      "correct": false,
      "short": "",
-     "long": "PAN este mesaj de urgență, nu o fază.",
+     "long": "Greșit. PAN este un mesaj de urgență rostit în radio, nu o fază de alertare. PAN PAN înseamnă urgență fără pericol imediat, iar faza de pericol este DETRESFA.",
      "warn": ""
     }
    ]
