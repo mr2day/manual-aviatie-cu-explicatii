@@ -871,7 +871,7 @@ details.question-more .more-body {
   gap: 8px;
   margin: 0 0 1rem;
   padding: 10px;
-  background: var(--card);
+  background: #111618;
   border: 1px solid var(--border);
   border-radius: 8px;
 }
