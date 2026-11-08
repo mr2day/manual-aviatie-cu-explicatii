@@ -6,7 +6,7 @@
    "number": "#1",
    "text": "903: Efectuăm un zbor matinal și în timpul deplasării avem soarele în dreapta, la aprox. 90 grd față de direcția de zbor, în ce direcție ne deplasăm?",
    "short": "Dacă zbori dimineața cu soarele în dreapta, la 90° față de direcția de zbor, te deplasezi spre nord.",
-   "long": "Dimineața soarele răsare în est. Dacă soarele este în dreapta, la 90° față de direcția de zbor, înseamnă că zburăm spre nord (dreapta unui pilot care merge spre nord este estul).",
+   "long": "## Cum folosești soarele pentru orientare\nDimineața soarele răsare în est. Dacă îl ai în dreapta, la 90° față de direcția de zbor, înseamnă că zbori spre nord: dreapta unui pilot care merge spre nord este estul, unde e soarele.",
    "answers": [
     {
      "text": "N",
@@ -42,7 +42,7 @@
    "number": "#2",
    "text": "975: Cum poate fi folosit GPS-ul pentru a naviga în condiții de vizibilitate redusă?",
    "short": "Pentru navigare cu GPS în vizibilitate redusă, urmărești ruta preprogramată și punctele de referință.",
-   "long": "Când vizibilitatea este redusă, GPS-ul ajută dacă pilotul urmărește ruta planificată și punctele de referință (waypoint-uri) programate.",
+   "long": "## Navigația GPS când vizibilitatea e slabă\nCând nu vezi solul bine, nu poți naviga după repere. GPS-ul îți arată poziția și, dacă ai introdus ruta și punctele de referință (waypoint-urile), îți spune cât mai ai și în ce direcție. Urmărești ruta planificată și punctele de referință. Contactul vizual cu solul și busola singură nu sunt suficiente.",
    "answers": [
     {
      "text": "Menținând contactul vizual cu solul",
@@ -78,7 +78,7 @@
    "number": "#3",
    "text": "910: Altitudinea se măsoară față de:",
    "short": "Altitudinea se măsoară față de nivelul mării.",
-   "long": "Altitudinea se măsoară față de nivelul mării (altitudinea reală, MSL), spre deosebire de înălțimea, care se măsoară față de sol.",
+   "long": "## Altitudine și înălțime\nAltitudinea se măsoară față de nivelul mării (MSL). Înălțimea se măsoară față de sol. Când zbori peste munte, altitudinea e mare, dar înălțimea față de sol poate fi mică, și din asta contează siguranța.",
    "answers": [
     {
      "text": "cel mai jos punct de pe glob",
@@ -258,7 +258,7 @@
    "number": "#8",
    "text": "900: Când GPS-ul va indica 285 grd, în ce direcție vă deplasați?",
    "short": "Dacă GPS-ul indică 285°, te deplasezi spre vest-nord-vest (VNV).",
-   "long": "Direcția de 285° este între vest (270°) și vest-nord-vest (292,5°). Cea mai apropiată direcție de pe rozeta de 16 rumburi este VNV.",
+   "long": "## Direcția de 285°\nRoza busolei are 16 direcții, din 22,5° în 22,5°. Direcția 270° este vestul (V), 292,5° este vest-nord-vest (VNV). Cum 285° e mai aproape de 292,5° decât de 270°, direcția este VNV.",
    "answers": [
     {
      "text": "S",
@@ -294,7 +294,7 @@
    "number": "#9",
    "text": "973: Care este principalul avântaj al utilizării GPS-ului pentru tracking în navigație?",
    "short": "Principalul avântaj al GPS-ului pentru urmărirea traseului este precizia poziției și a vitezei.",
-   "long": "GPS-ul oferă poziția și viteza cu precizie ridicată, în timp real, ceea ce este principalul avântaj pentru urmărirea traseului.",
+   "long": "## Avantajul GPS-ului\nGPS-ul dă poziția și viteza cu precizie mare, aproape în timp real. Pentru urmărirea traseului, asta e avantajul principal, pentru că arată imediat dacă te abați de la ruta planificată.",
    "answers": [
     {
      "text": "Precizia ridicată a poziției și vitezei",
@@ -330,7 +330,7 @@
    "number": "#10",
    "text": "979: Un pilot zboară de la punctul A la punctul B, care sunt la 80 km distanță unul de celălalt. Dacă viteza la sol este de 40 km/h, cât timp îi va lua să ajungă la destinație?",
    "short": "Pentru 80 km cu viteza la sol de 40 km/h, timpul este 2 ore.",
-   "long": "Timpul = distanța / viteza: 80 km : 40 km/h = 2 ore.",
+   "long": "## Timpul de zbor\nTimpul = distanța : viteza. 80 km : 40 km/h = 2 ore. Viteza folosită trebuie să fie cea față de sol, dacă ai vânt.",
    "answers": [
     {
      "text": "3 ore",
@@ -366,7 +366,7 @@
    "number": "#11",
    "text": "956: O parapantă cu motor zboară cu 40 km/h și întâlnește un vânt lateral de 20 km/h. Care este viteza sa rezultantă la sol?",
    "short": "Cu 40 km/h și un vânt lateral de 20 km/h, viteza rezultantă este 44,72 km/h.",
-   "long": "Viteza față de sol este rezultanta vectorilor: 40 km/h în direcția zborului și 20 km/h vânt lateral. Rezultanta este √(40² + 20²) = √2000 ≈ 44,72 km/h.",
+   "long": "## Viteza la sol cu vânt lateral\nVântul lateral (perpendicular pe direcția de zbor) și viteza ta față de aer formează un unghi drept. Viteza la sol este rezultanta lor: √(40² + 20²) = √2000 ≈ 44,7 km/h. Viteza crește puțin, dar și direcția se schimbă, deci trebuie să corectezi.",
    "answers": [
     {
      "text": "50 km/h",
@@ -438,7 +438,7 @@
    "number": "#13",
    "text": "959: În ce direcție trebuie să zburați pentru a ajunge la un punct situat la 180 de grade față de poziția actuală?",
    "short": "Pentru a ajunge la un punct situat la 180° față de poziția actuală, zbori spre sud.",
-   "long": "Un punct la 180° față de poziția actuală este în direcția sud (180° pe busolă este sudul).",
+   "long": "## Direcția de 180°\nDirecțiile pe busolă se măsoară de la nord, în sensul acelor de ceasornic: 0° nord, 90° est, 180° sud, 270° vest. Deci 180° este sudul.",
    "answers": [
     {
      "text": "nord",
@@ -474,7 +474,7 @@
    "number": "#14",
    "text": "904: Planificăm un zbor de distanța și dorim să alegem o zi potrivită pentru aceasta ruta, referitor la direcția și intensitatea vântului vom ține cont de?",
    "short": "La un zbor de distanță alegi o zi în care pe traseu vei avea vânt de spate sau componentă de spate.",
-   "long": "Vântul de spate pe traiect scurtează timpul de zbor și crește viteza față de sol. Pentru un zbor de distanță, alegem ziua cu vânt de spate sau cu componentă de spate pe traseu.",
+   "long": "## Alegerea zilei pentru un zbor de distanță\nVântul de spate pe traseu scade timpul de zbor, pentru că adaugă viteză față de sol. Pentru un zbor de distanță alegi o zi cu vânt de spate sau cu o componentă de spate pe traseu. Vântul de față ar mări timpul și consumul.",
    "answers": [
     {
      "text": "ne orientăm să alegem o zi cu vânt de față pentru că vom avea o rată de urcare mai bună",
@@ -510,7 +510,7 @@
    "number": "#15",
    "text": "976: Care este echipamentul de bază necesar pentru un raid de navigație?",
    "short": "Echipamentul de bază pentru un raid de navigație este harta, busola și GPS-ul.",
-   "long": "Echipamentul de bază pentru un raid de navigație este harta, busola și GPS-ul, pentru planificare și orientare.",
+   "long": "## Echipamentul pentru un raid de navigație\nPentru navigație ai nevoie de hartă, busolă și GPS, pentru planificare și orientare. Restul variantelor sunt obiecte fără legătură cu navigația.",
    "answers": [
     {
      "text": "Hartă, busolă și GPS",
@@ -618,7 +618,7 @@
    "number": "#18",
    "text": "942: Ce este o direcție magnetică?",
    "short": "Direcția magnetică este direcția indicată de busolă în raport cu nordul magnetic.",
-   "long": "Direcția magnetică este direcția indicată de busolă, în raport cu nordul magnetic.",
+   "long": "## Direcția magnetică\nDirecția magnetică este direcția indicată de busolă, în raport cu nordul magnetic. Diferă de direcția geografică prin declinația magnetică, care depinde de locul în care zbori.",
    "answers": [
     {
      "text": "diferența între azimutul magnetic și cel geografic",
@@ -870,7 +870,7 @@
    "number": "#25",
    "text": "954: O parapantă cu motor are o viteză la sol de 30 km/h cu un vânt din spate de 10 km/h. Care este viteza față de aer?",
    "short": "Viteza față de aer este 20 km/h, dacă viteza la sol este 30 km/h și vântul din spate este 10 km/h.",
-   "long": "Viteza față de sol este 30 km/h, iar vântul din spate adaugă 10 km/h. Deci viteza față de aer este 30 − 10 = 20 km/h.",
+   "long": "## Viteza față de aer cu vânt din spate\nViteza la sol = viteza față de aer + componenta vântului din spate. Deci viteza față de aer = viteza la sol − vântul din spate: 30 − 10 = 20 km/h.",
    "answers": [
     {
      "text": "50 km/h",
@@ -906,7 +906,7 @@
    "number": "#26",
    "text": "946: Calculați viteza la sol (groundspeed) dacă viteza aerului este de 100 km/h și vântul suflă din față cu 20 km/h.",
    "short": "Viteza la sol este 80 km/h, dacă viteza aerului este 100 km/h și vântul bate din față cu 20 km/h.",
-   "long": "Vântul din față scade viteza față de sol: 100 − 20 = 80 km/h.",
+   "long": "## Viteza la sol cu vânt din față\nVântul din față se scade din viteza față de aer: 100 − 20 = 80 km/h. Viteza la sol scade, iar timpul de zbor crește.",
    "answers": [
     {
      "text": "60 km/h",
@@ -942,7 +942,7 @@
    "number": "#27",
    "text": "898: Efectuăm un zbor în jurul orei 18 și constatăm că busola/ GPS-ul s-a defectat. Cum putem să ne orientăm astfel încât să ajungem la zona de aterizare știind că acesta este la N față de punctul în care ne aflăm:",
    "short": "Dacă soarele apune în vest și zbori spre nord, soarele va fi în stânga ta, la aproximativ 90°.",
-   "long": "Soarele apune în vest. Dacă pilotul zboară spre nord, soarele apus (în vest) este la stânga, la aproximativ 90°, deci se poate ajunge la zona de aterizare pe această orientare.",
+   "long": "## Orientare fără busolă și GPS, seara\nSoarele apune în vest. Dacă zbori spre nord, soarele apus rămâne în stânga, aproximativ la 90°. Te poți orienta după soare și ajungi la zona de aterizare, cu condiția să ții cont de timpul rămas până la lumină.",
    "answers": [
     {
      "text": "știind că soarele apune în V, vom zbura cu soarele în stânga noastră și la aprox. 90 grd față de traiectoria noastră",
@@ -1014,7 +1014,7 @@
    "number": "#29",
    "text": "951: Ce reprezintă viteza la sol a unei parapante cu motor?",
    "short": "Viteza la sol este viteza de deplasare relativă la sol a parapantei cu motor.",
-   "long": "Viteza la sol este viteza de deplasare a aeronavei față de sol, rezultată din viteza față de aer și din vânt.",
+   "long": "## Viteza la sol\nViteza la sol e viteza cu care te deplasezi față de sol. Rezultă din viteza ta față de aer și din vânt. Ea determină timpul de zbor și ajungerea la destinație.",
    "answers": [
     {
      "text": "viteza de deplasare relativă la aer",
@@ -1050,7 +1050,7 @@
    "number": "#30",
    "text": "966: În cazul în care navighezi folosind o hartă și zbori spre est, dar vântul bate din sud, ce ajustare trebuie să faci pentru a menține cursul?",
    "short": "Dacă zbori spre est și vântul bate din sud, compensezi cu comanda dreapta, adică îndreptezi nasul ușor spre sud.",
-   "long": "Zburând spre est cu vânt din sud, aeronava este împinsă spre nord. Pentru a menține cursul trebuie să corectăm spre sud, adică spre dreapta (dreapta unui pilot care merge spre est este sudul).",
+   "long": "## Corecția de drum cu vânt lateral\nZburând spre est cu vânt din sud, vântul împinge aeronava spre nord. Pentru a menține cursul trebuie să corectezi spre sud. Când zbori spre est, dreapta ta este sudul, deci corectezi cu comanda dreaptă.",
    "answers": [
     {
      "text": "crabbing spre nord-vest",
@@ -1158,7 +1158,7 @@
    "number": "#33",
    "text": "914: Care este metodă de navigație pentru zborul în VFR?",
    "short": "Metoda de navigație pentru zborul VFR este navigația observată (vizuală).",
-   "long": "În zborul VFR, navigația se face observat (pilotage): pilotul compară harta cu reperele vizibile de pe sol.",
+   "long": "## Navigația în VFR\nÎn zborul VFR navighezi observat (pilotage): compari harta cu reperele vizibile de pe sol, cum sunt drumurile, râurile și orașele. Metoda estimată și cea după azimut se folosesc în completare, nu ca metodă principală.",
    "answers": [
     {
      "text": "observată",
@@ -1230,7 +1230,7 @@
    "number": "#35",
    "text": "948: Ipotetic o parapantă zboară cu o viteză adevărată de 150 km/h și are un vânt din spate de 30 km/h. Care este viteza sa la sol?",
    "short": "O parapantă cu viteza adevărată de 150 km/h și vânt din spate de 30 km/h are viteza la sol de 180 km/h.",
-   "long": "Viteza la sol este viteza adevărată plus vântul de spate: 150 + 30 = 180 km/h.",
+   "long": "## Viteza la sol cu vânt din spate\nViteza la sol = viteza adevărată + vântul din spate: 150 + 30 = 180 km/h.",
    "answers": [
     {
      "text": "120 km/h",
@@ -1266,7 +1266,7 @@
    "number": "#36",
    "text": "901: Când GPS-ul va indica 270 grd, în ce direcție va deplasați?",
    "short": "Când GPS-ul indică 270°, te deplasezi spre vest.",
-   "long": "GPS-ul indică 270° când direcția de deplasare este spre vest (270° este vestul).",
+   "long": "## Direcția de 270°\nDirecțiile se măsoară de la nord, în sensul acelor de ceasornic: 0° nord, 90° est, 180° sud, 270° vest. Deci 270° este vestul.",
    "answers": [
     {
      "text": "SV",
@@ -1302,7 +1302,7 @@
    "number": "#37",
    "text": "899: Având zborul deja planificat și traiectul stabilit, când ajungem la decolare constatăm că pe direcția noastră de zbor avem un cumulonimbus:",
    "short": "Când întâlnești un cumulonimbus pe traiect, modifici traseul la o distanță care îl evită: 10 km, respectiv minim 37 km pentru furtunile puternice.",
-   "long": "Un cumulonimbus se ocolește la o distanță mare, fiindcă produce turbulență, grindină, fulgere și rafale. Traiectul se modifică, nu se zboară prin nor sau sub el.",
+   "long": "## Cumulonimbus pe traseu\nUn cumulonimbus produce turbulență, grindină, fulgere și rafale. Nu zbori prin el și nu zbori sub el. Modifici traseul, la o distanță mare, ca să eviți efectele lui.",
    "answers": [
     {
      "text": "decolăm și zburăm după planul de zbor inițial în speranța că norul de furtună se va disipa până ajungem la el",
@@ -1374,7 +1374,7 @@
    "number": "#39",
    "text": "931: Ce este viteza adevărată a aerului?",
    "short": "Viteza adevărată a aerului este viteza reală prin aer, în comparație cu viteza resimțită de pilot.",
-   "long": "Viteza adevărată (TAS) este viteza reală a aeronavei față de masa de aer, corectată cu altitudinea și temperatura.",
+   "long": "## Viteza adevărată a aerului (TAS)\nViteza adevărată (TAS) este viteza reală a aeronavei față de masa de aer. Se obține corectând viteza indicată cu altitudinea și temperatura. Viteza indicată este cea citită pe instrument.",
    "answers": [
     {
      "text": "viteza aerului raportată la nivelul mării",
@@ -1410,7 +1410,7 @@
    "number": "#40",
    "text": "949: O parapantă zboară de la punctul A la punctul B, care sunt la 100 km distanță unul de celălalt. Dacă viteza la sol este de 50 km/h, cât timp îi va lua să ajungă la destinație?",
    "short": "Pentru 100 km cu viteza la sol de 50 km/h, timpul este 2 ore.",
-   "long": "Timpul = distanța / viteza la sol: 100 km : 50 km/h = 2 ore.",
+   "long": "## Timpul de zbor\nTimpul = distanța : viteza la sol. 100 km : 50 km/h = 2 ore.",
    "answers": [
     {
      "text": "3 ore",
@@ -1482,7 +1482,7 @@
    "number": "#42",
    "text": "917: Ce este o altitudine barometrică?",
    "short": "Altitudinea barometrică este înălțimea de la nivelul mării.",
-   "long": "Altitudinea barometrică este înălțimea măsurată cu altimetrul, față de nivelul mării, pe baza presiunii atmosferice.",
+   "long": "## Altitudinea barometrică\nAltitudinea barometrică este înălțimea citită pe altimetru, calculată din presiunea atmosferică față de nivelul mării. Se bazează pe presiune, nu pe distanța reală față de sol.",
    "answers": [
     {
      "text": "o înălțime care corespunde presiunii standard",
@@ -1518,7 +1518,7 @@
    "number": "#43",
    "text": "887: Dacă vă deplasați cu o aeronava către E și nu aveți vânt deloc. In situația în care vă întâlniți un vânt de 20 km/h dinspre N adică perfect din 90 de grade față de direcția în care vă deplasați, va fi modificată viteza față de sol?",
    "short": "Da, viteza față de sol se modifică, pentru că vântul de 20 km/h din nord schimbă componenta de deplasare.",
-   "long": "Vântul de 20 km/h din nord, perpendicular pe direcția de zbor spre est, produce deriva. Deci există derivă, care trebuie compensată.",
+   "long": "## Derivă cu vânt lateral\nVântul de 20 km/h din nord, perpendicular pe direcția de zbor spre est, te împinge spre sud. Există derivă, care trebuie compensată cu cap compas, altfel abaterea crește.",
    "answers": [
     {
      "text": "cu maxim 10 km/h si nu depinde de viteza vântului",
@@ -1662,7 +1662,7 @@
    "number": "#47",
    "text": "1100: Ce trebuie să faceți dacă vântul schimbă direcția în timpul zborului cross-country?",
    "short": "Dacă vântul își schimbă direcția în timpul zborului cross-country, schimbi altitudinea pentru o viteză mai bună la sol.",
-   "long": "Dacă vântul își schimbă direcția, pilotul schimbă altitudinea pentru a găsi un vânt mai favorabil și o viteză la sol mai bună, ținând cont de siguranță.",
+   "long": "## Vântul se schimbă în zbor\nDacă vântul își schimbă direcția, urmărești noua situație. Poți urca sau coborî pentru a găsi un vânt mai favorabil și o viteză la sol mai bună, dar cu grijă pentru siguranță.",
    "answers": [
     {
      "text": "Să ignorați schimbarea vântului",
@@ -1842,7 +1842,7 @@
    "number": "#52",
    "text": "955: Dacă o parapantă cu motor zboară 60 km într-o oră cu o viteză aerului de 60 km/h, ce viteză are vântul din spate?",
    "short": "Dacă zbori 60 km într-o oră cu viteza aerului de 60 km/h, vântul din spate este 0 km/h.",
-   "long": "Viteza la sol este 60 km/h (60 km în 1 oră), iar viteza față de aer este 60 km/h. Deci vântul este zero.",
+   "long": "## Vântul din calcul\nViteza la sol = 60 km în 1 oră = 60 km/h. Viteza față de aer este tot 60 km/h, deci vântul e zero: nu există vânt din spate sau din față.",
    "answers": [
     {
      "text": "20 km/h",
@@ -1914,7 +1914,7 @@
    "number": "#54",
    "text": "953: O parapantă cu motor zboară cu 50 km/h și întâlnește un vânt de față de 10 km/h. Care este viteza sa la sol?",
    "short": "Dacă zbori cu 50 km/h și întâlnești un vânt de față de 10 km/h, viteza la sol este 40 km/h.",
-   "long": "Vântul de față scade viteza la sol: 50 − 10 = 40 km/h.",
+   "long": "## Vânt din față\nVântul din față scade viteza la sol: 50 − 10 = 40 km/h.",
    "answers": [
     {
      "text": "30 km/h",
@@ -1950,7 +1950,7 @@
    "number": "#55",
    "text": "923: Direcția vântului (DV) este:",
    "short": "Direcția vântului este unghiul format între nordul magnetic și vectorul vânt, la aterizare.",
-   "long": "Direcția vântului este unghiul de la nordul magnetic până la vectorul vântului, măsurat în sensul acelor de ceasornic, cum se dă și pe sol.",
+   "long": "## Direcția vântului\nDirecția vântului este direcția din care bate vântul, măsurată de la nord, în sensul acelor de ceasornic. Se dă ca unghi, cum se dă și în prognozele meteo.",
    "answers": [
     {
      "text": "unghiul format între meridianul geografic și vectorul vânt (la aterizare",
@@ -2022,7 +2022,7 @@
    "number": "#57",
    "text": "919: Linia care unește pe o hartă punctele cu aceeasi altitudine se numeste:",
    "short": "Linia care unește pe hartă punctele cu aceeași altitudine se numește curba de nivel.",
-   "long": "Curba de nivel unește punctele de pe hartă cu aceeași altitudine.",
+   "long": "## Curbele de nivel\nCurba de nivel unește pe hartă punctele cu aceeași altitudine. Din distanța dintre curbe se vede cât de abrupt e terenul: curbele apropiate înseamnă pantă mare.",
    "answers": [
     {
      "text": "curba de nivel",
@@ -2058,7 +2058,7 @@
    "number": "#58",
    "text": "902: Efectuăm un zbor matinal și ne deplasăm cu soarele în față, în ce direcție ne deplasăm ?",
    "short": "Dacă zbori dimineața cu soarele în față, te deplasezi spre est.",
-   "long": "Dimineața soarele răsare în est. Dacă soarele este în față, zburăm spre est.",
+   "long": "## Soarele în față dimineața\nDimineața soarele răsare în est. Dacă îl ai în față, zbori spre est.",
    "answers": [
     {
      "text": "N",
@@ -2094,7 +2094,7 @@
    "number": "#59",
    "text": "962: În ce direcție va trebui să te îndrepți pentru a compensa un vânt puternic din sud-est în timp ce zbori spre nord?",
    "short": "Pentru a compensa un vânt puternic din sud-est, în timp ce zbori spre nord, te îndrepți spre nord-est.",
-   "long": "Vântul din sud-est împinge aeronava spre nord-vest. Pentru a menține cursul spre nord, pilotul corectează spre nord-est.",
+   "long": "## Corecția pentru vânt din sud-est\nVântul din sud-est împinge aeronava spre nord-vest. Când zbori spre nord, trebuie să corectezi spre nord-est, ca să rămâi pe curs.",
    "answers": [
     {
      "text": "nord-vest",
@@ -2130,7 +2130,7 @@
    "number": "#60",
    "text": "977: De ce este recomandată utilizarea unui GPS în raidurile de navigație?",
    "short": "GPS-ul este recomandat în raiduri pentru că furnizează poziția exactă și viteza la sol.",
-   "long": "GPS-ul oferă poziția exactă și viteza la sol, esențiale pentru a urmări traseul și a estima timpul de zbor.",
+   "long": "## GPS în raidurile de navigație\nGPS-ul dă poziția și viteza la sol, ceea ce permite să urmărești traseul și să estimezi timpul de zbor. Nu măsoară temperatura, nu arată combustibilul.",
    "answers": [
     {
      "text": "Pentru a face fotografii",
@@ -2166,7 +2166,7 @@
    "number": "#61",
    "text": "974: Ce informații esențiale furnizează un GPS în timpul zborului?",
    "short": "GPS-ul furnizează poziția actuală, viteza la sol și altitudinea.",
-   "long": "În zbor, GPS-ul arată poziția curentă, viteza la sol și altitudinea (de obicei prin GPS sau barometric).",
+   "long": "## Ce arată GPS-ul în zbor\nÎn zbor, GPS-ul arată poziția curentă, viteza la sol și, de obicei, altitudinea. Nu arată distanța până la cel mai apropiat aeroport și nici nivelul de combustibil.",
    "answers": [
     {
      "text": "Distanta până la cel mai apropiat aeroport",
@@ -2418,7 +2418,7 @@
    "number": "#68",
    "text": "965: Dacă vântul bate din nord-vest și zbori spre sud, în ce direcție va fi deviata traiectoria ta?",
    "short": "Dacă vântul bate din nord-vest și zbori spre sud, traiectoria ta va fi deviată spre sud-est.",
-   "long": "Vântul din nord-vest împinge aeronava spre sud-est. Dacă zbori spre sud, deriva te duce spre sud-est.",
+   "long": "## Derivă cu vânt din nord-vest\nVântul din nord-vest împinge aeronava spre sud-est. Dacă zbori spre sud, deriva te duce spre sud-est.",
    "answers": [
     {
      "text": "nord-vest",
@@ -2454,7 +2454,7 @@
    "number": "#69",
    "text": "963: Dacă zbori spre vest și observi că busola indică 270 de grade, dar GPS-ul indică o direcție de 260 de grade, ce corecție trebuie să faci?",
    "short": "Dacă zbori spre vest, busola indică 270°, iar GPS-ul indică 260°, faci o corecție de 10° spre dreapta.",
-   "long": "Busola arată capul, iar GPS-ul arată traiectul (direcția reală de deplasare). Traiectul 260° este la stânga traiectului dorit de 270°, deci trebuie corectat spre dreapta cu 10°.",
+   "long": "## Busolă și GPS\nBusola arată capul (unde e îndreptat nasul aeronavei), iar GPS-ul arată traiectul (direcția reală de deplasare). Dacă traiectul e 260° și vrei 270°, traiectul e spre stânga, deci corectezi cu 10° spre dreapta.",
    "answers": [
     {
      "text": "corecție de 10 grade spre dreapta",
@@ -2490,7 +2490,7 @@
    "number": "#70",
    "text": "1101: Cum puteți estima vânturile la altitudini folosind GPS-ul?",
    "short": "Vânturile la altitudine se estimează cu GPS făcând un viraj lent de 360° și notând cea mai mică viteză la sol.",
-   "long": "Vântul la altitudine se estimează printr-un viraj lent de 360°: viteza la sol este cea mai mică când vântul este din față și cea mai mare când este din spate. Diferența dă componenta vântului.",
+   "long": "## Estimarea vântului cu GPS-ul\nFaci un viraj lent de 360°. Viteza la sol e cea mai mică când vântul vine din față și cea mai mare când vine din spate. Din aceste două valori estimezi vântul.",
    "answers": [
     {
      "text": "Efectuând un viraj lent de 360 de grade și notând cea mai mică viteză la sol",
@@ -2562,7 +2562,7 @@
    "number": "#72",
    "text": "978: O parapantă zboară cu o viteză de 45 km/h și întâlnește un vânt din față de 15 km/h. Care este viteza sa la sol?",
    "short": "O parapantă care zboară cu 45 km/h și întâlnește un vânt din față de 15 km/h are viteza la sol de 30 km/h.",
-   "long": "Vântul din față scade viteza față de sol: 45 − 15 = 30 km/h.",
+   "long": "## Vânt din față\nVântul din față scade viteza la sol: 45 − 15 = 30 km/h.",
    "answers": [
     {
      "text": "15 km/h",
@@ -2742,7 +2742,7 @@
    "number": "#77",
    "text": "960: Dacă zbori spre soare cu soarele la răsărit, în ce direcție te deplasezi?",
    "short": "Dacă zbori spre soare, cu soarele la răsărit, te deplasezi spre est.",
-   "long": "Soarele răsare în est. Dacă zburăm spre soarele care răsare, mergem spre est.",
+   "long": "## Zbor spre soare dimineața\nSoarele răsare în est. Dacă zbori spre el, mergi spre est.",
    "answers": [
     {
      "text": "vest",
@@ -2814,7 +2814,7 @@
    "number": "#79",
    "text": "947: Un pilot zboară pe un traseu cu o lungime de 50 km la o viteză la sol de 80 km/h. Cât timp îi va lua să parcurgă traseul?",
    "short": "Pentru un traseu de 50 km cu viteza la sol de 80 km/h, timpul este 37,5 minute.",
-   "long": "Timpul = distanța / viteza: 50 km / 80 km/h = 0,625 h, adică 0,625 × 60 = 37,5 minute.",
+   "long": "## Timpul pe un traseu\nTimpul = distanța : viteza. 50 km : 80 km/h = 0,625 h. 0,625 × 60 = 37,5 minute.",
    "answers": [
     {
      "text": "60 minute",
@@ -2886,7 +2886,7 @@
    "number": "#81",
    "text": "957: O parapantă cu motor zboară 100 km în două ore cu un vânt din față de 10 km/h. Care este viteza față de aer?",
    "short": "Dacă zbori 100 km în două ore cu vânt din față de 10 km/h, viteza față de aer este 60 km/h.",
-   "long": "Viteza față de sol este 100 km / 2 h = 50 km/h. Vântul din față scade viteza la sol, deci viteza față de aer este 50 + 10 = 60 km/h.",
+   "long": "## Viteza față de aer cu vânt din față\nViteza la sol = 100 km : 2 h = 50 km/h. Vântul din față scade viteza la sol, deci viteza față de aer e mai mare: 50 + 10 = 60 km/h.",
    "answers": [
     {
      "text": "70 km/h",
@@ -3102,7 +3102,7 @@
    "number": "#87",
    "text": "971: Care este scopul utilizării unei hărți în navigația cu parapanta?",
    "short": "Scopul utilizării unei hărți în navigația cu parapanta este vizualizarea terenului și alegerea punctelor de reper.",
-   "long": "Harta arată terenul, relieful, obstacolele și reperele, ceea ce permite alegerea punctelor de reper și planificarea traseului.",
+   "long": "## Scopul hărții\nHarta arată terenul, relieful, obstacolele și reperele. Cu ea alegi punctele de reper și planifici traseul. Nu măsoară combustibilul, altitudinea sau viteza vântului.",
    "answers": [
     {
      "text": "Pentru a verifica nivelul de combustibil",
@@ -3138,7 +3138,7 @@
    "number": "#88",
    "text": "950: Ce efect are un vânt de față de 10 km/h asupra unei parapante cu motor care zboară cu 40 km/h?",
    "short": "Un vânt de față de 10 km/h reduce viteza la sol la 30 km/h, pentru o parapantă cu motor care zboară cu 40 km/h.",
-   "long": "Vântul de față de 10 km/h scade viteza față de sol: 40 − 10 = 30 km/h.",
+   "long": "## Vânt din față la viteză mică\nVântul din față scade viteza la sol: 40 − 10 = 30 km/h.",
    "answers": [
     {
      "text": "reduce viteza la sol la 20 km/h",
@@ -3174,7 +3174,7 @@
    "number": "#89",
    "text": "952: Cum afectează un vânt lateral de 15 km/h zborul unei parapante cu motor care zboară la 50 km/h?",
    "short": "Un vânt lateral de 15 km/h deviază direcția de zbor a unei parapante cu motor care zboară cu 50 km/h.",
-   "long": "Vântul lateral împinge aeronava din direcția de zbor, deci deviază traiectul. Pilotul trebuie să corecteze cu cap compas.",
+   "long": "## Vânt lateral\nVântul lateral împinge aeronava din direcția de zbor, deci îți deviază traiectul. Pilotul corectează cu cap compas, ca să rămână pe traseu.",
    "answers": [
     {
      "text": "nu are niciun efect asupra direcției de zbor",
@@ -3210,7 +3210,7 @@
    "number": "#90",
    "text": "958: Dacă zburați spre nord și vântul bate din vest, care va fi direcția de deplasare rezultantă?",
    "short": "Dacă zbori spre nord și vântul bate din vest, direcția rezultantă este nord-est.",
-   "long": "Zburând spre nord, cu vântul din vest, aeronava este împinsă spre est. Rezultanta este nord-est.",
+   "long": "## Zbor spre nord cu vânt din vest\nVântul din vest împinge aeronava spre est. Direcția rezultantă a deplasării este nord-est.",
    "answers": [
     {
      "text": "sud-est",
@@ -3354,7 +3354,7 @@
    "number": "#94",
    "text": "933: Care este scopul navigației?",
    "short": "Scopul navigației este zborul pe o traiectorie dorită deasupra solului și sosirea la destinație la un timp estimat.",
-   "long": "Scopul navigației este menținerea traiectoriei dorite față de sol și sosirea la destinație la timpul estimat.",
+   "long": "## Scopul navigației\nNavigația urmărește să menții traiectoria dorită față de sol și să ajungi la destinație la timpul estimat. Vântul schimbă traiectoria, de aceea navigația trebuie corectată continuu.",
    "answers": [
     {
      "text": "zborul pe o traiectorie dorită deasupra solului și sosirea la destinație la un timp estimat",
