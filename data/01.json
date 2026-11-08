@@ -441,21 +441,21 @@
    "long": "La pierderea comunicației radio, în spațiul unde transponderul este obligatoriu, pilotul setează codul 7600, care semnalează pierderea comunicațiilor.",
    "answers": [
     {
-     "text": "squak 7600 - (Radio Failure) \"Seventy-six, radio needs a fix\"",
+     "text": "squawk 7600 - (Radio Failure) \"Seventy-six, radio needs a fix\"",
      "correct": true,
      "short": "",
      "long": "Corect. Codul 7600 semnalează pierderea comunicației radio.",
      "warn": ""
     },
     {
-     "text": "squak 7700 - (Emergency) \"Seventy-seven, going to heaven\"",
+     "text": "squawk 7700 - (Emergency) \"Seventy-seven, going to heaven\"",
      "correct": false,
      "short": "",
      "long": "Codul 7700 semnalează urgență generală, nu pierderea comunicației.",
      "warn": ""
     },
     {
-     "text": "squak 7777 -",
+     "text": "squawk 7777 -",
      "tag": "cod militar periculos",
      "correct": false,
      "short": "",
@@ -463,7 +463,7 @@
      "warn": ""
     },
     {
-     "text": "squak 7500 - (Hijacking) \"Seventy-five, stay alive\"",
+     "text": "squawk 7500 - (Hijacking) \"Seventy-five, stay alive\"",
      "correct": false,
      "short": "",
      "long": "Codul 7500 semnalează deturnarea, nu pierderea comunicației.",
@@ -3497,7 +3497,7 @@
   },
   {
    "number": "#98",
-   "text": "727: Zburați cu o motoparapantă care nu este echipată cu transponder, cum veți raporta organului de trafic când acesta va cere să afișați un SQUAK?",
+   "text": "727: Zburați cu o motoparapantă care nu este echipată cu transponder, cum veți raporta organului de trafic când acesta va cere să afișați un SQUAWK?",
    "short": "Dacă nu ai transponder, raportezi „negativ transponder”.",
    "long": "Dacă nu ai transponder, răspunzi „negativ transponder” când ți se cere SQUAWK. Formula standard este negativ urmat de termenul transponder.",
    "answers": [
@@ -3509,10 +3509,10 @@
      "warn": ""
     },
     {
-     "text": "negativ squak",
+     "text": "negativ squawk",
      "correct": false,
      "short": "",
-     "long": "„Negativ squak” nu este formula corectă: se spune „negativ transponder”.",
+     "long": "„Negativ squawk” nu este formula corectă: se spune „negativ transponder”.",
      "warn": ""
     },
     {
