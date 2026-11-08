@@ -923,3 +923,14 @@ details.question-more .more-body {
   border-radius: 3px;
   padding: 0 2px;
 }
+
+/* Pe mobil, bara de căutare ocupă toată lățimea ecranului */
+@media (max-width: 900px) {
+  .q-search {
+    margin-left: -16px;
+    margin-right: -16px;
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+  }
+}
