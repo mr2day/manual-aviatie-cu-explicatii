@@ -78,23 +78,99 @@
     return new RegExp(src, 'gi');
   }
 
-  // Scrie titlul întrebării; fragmentul găsit devine <mark>.
+  // Glosar: termenii din titluri devin linkuri care deschid un modal.
+  var glossary = JSON.parse(document.getElementById('glossary-data').textContent);
+  var termRe = (function () {
+    var parts = glossary.map(function (g) { return queryRegex(foldText(g.term)).source; });
+    return parts.length ? new RegExp(parts.join('|'), 'gi') : null;
+  })();
+
+  function glossaryEntry(text) {
+    var f = foldText(text);
+    for (var i = 0; i < glossary.length; i++) {
+      if (f.indexOf(foldText(glossary[i].term)) !== -1) return glossary[i];
+    }
+    return null;
+  }
+
+  // Scrie titlul întrebării: termenii din glosar devin linkuri, fragmentul găsit în căutare devine <mark>.
   function renderTitle(h2, raw, re) {
     var num = h2.querySelector('.question-number');
     h2.textContent = '';
     if (num) h2.appendChild(num);
-    if (!re) { h2.appendChild(document.createTextNode(raw)); return; }
+    var segs = [];
+    var pos = 0;
+    if (termRe) {
+      termRe.lastIndex = 0;
+      var t;
+      while ((t = termRe.exec(raw)) !== null) {
+        if (t[0].length === 0) { termRe.lastIndex++; continue; }
+        segs.push({ text: raw.slice(pos, t.index), term: null });
+        segs.push({ text: t[0], term: glossaryEntry(t[0]) });
+        pos = t.index + t[0].length;
+      }
+    }
+    segs.push({ text: raw.slice(pos), term: null });
+    segs.forEach(function (s) {
+      if (!s.text) return;
+      if (s.term) { h2.appendChild(termLink(s.text, s.term)); return; }
+      appendMarked(h2, s.text, re);
+    });
+  }
+
+  function appendMarked(h2, text, re) {
+    if (!re) { h2.appendChild(document.createTextNode(text)); return; }
     re.lastIndex = 0;
     var last = 0;
     var m;
-    while ((m = re.exec(raw)) !== null) {
+    while ((m = re.exec(text)) !== null) {
       if (m[0].length === 0) { re.lastIndex++; continue; }
-      if (m.index > last) h2.appendChild(document.createTextNode(raw.slice(last, m.index)));
+      if (m.index > last) h2.appendChild(document.createTextNode(text.slice(last, m.index)));
       h2.appendChild(el('mark', 'q-hit', m[0]));
       last = m.index + m[0].length;
     }
-    if (last < raw.length) h2.appendChild(document.createTextNode(raw.slice(last)));
+    if (last < text.length) h2.appendChild(document.createTextNode(text.slice(last)));
   }
+
+  function termLink(text, entry) {
+    var b = el('button', 'term-link', text);
+    b.type = 'button';
+    b.addEventListener('click', function (e) { e.stopPropagation(); openModal(entry.title, entry.text); });
+    return b;
+  }
+
+  // Modal reutilizabil: openModal(titlu, text). Textul folosește aceleași reguli ca explicațiile.
+  var lastFocus = null;
+  function openModal(title, text) {
+    var modal = document.getElementById('modal');
+    document.getElementById('modal-title').textContent = title;
+    var body = document.getElementById('modal-body');
+    body.textContent = '';
+    fillParagraphs(body, text);
+    lastFocus = document.activeElement;
+    modal.hidden = false;
+    document.body.classList.add('modal-open');
+    modal.querySelector('.modal-close').focus();
+  }
+
+  function closeModal() {
+    var modal = document.getElementById('modal');
+    if (modal.hidden) return;
+    modal.hidden = true;
+    document.body.classList.remove('modal-open');
+    if (lastFocus && lastFocus.focus) lastFocus.focus();
+  }
+
+  function initModal() {
+    var modal = document.getElementById('modal');
+    modal.addEventListener('click', function (e) {
+      if (e.target.closest('[data-modal-close]')) closeModal();
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') closeModal();
+    });
+  }
+  initModal();
 
   function buildSearchBar() {
     var bar = el('div', 'q-search');
@@ -226,7 +302,7 @@
       var h2 = el('h2', 'question-title');
       h2.appendChild(el('span', 'question-number', String(index + 1)));
       // Codul (ex. "698: ") nu se mai afișează
-      h2.appendChild(document.createTextNode(q.text.replace(/^\d+:\s*/, '')));
+      renderTitle(h2, q.text.replace(/^\d+:\s*/, ''), null);
       section.appendChild(h2);
       if (q.image) {
         var fig = el('img', 'question-image');
