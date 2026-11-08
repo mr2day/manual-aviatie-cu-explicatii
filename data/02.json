@@ -1759,7 +1759,7 @@
     },
     {
      "text": "o deformare în care bordul de atac se pliază în jos",
-     "tag": "atenție, fenomen periculos!",
+     "tag": "- atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "## Cum se formează\nLa un colaps frontal, marginea de atac a aripii se pliază în jos și spre interior. Cauza este curentul descendent sau o scădere bruscă a unghiului de atac, de exemplu la ieșirea dintr-o ascendentă, în turbulență sau în rotor. Aripa pierde presiunea în față și își pierde forma.\n\n## De ce este periculos\nAripa pierde o parte din portanță și din viteza înainte, iar pilotul se poate balansa înainte sub aripă. Majoritatea colapsurilor frontale se corectează singure, dar reacția exagerată a pilotului poate fi mai periculoasă decât colapsul însuși.",
@@ -2228,7 +2228,7 @@
     },
     {
      "text": "o deformare în care o parte a aripii se dezumflă și cealaltă nu",
-     "tag": "atenție, fenomen periculos!",
+     "tag": "- atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "## Cum se formează\nÎntr-un colaps asimetric, o parte a aripii pierde presiunea și se dezumflă, iar cealaltă rămâne umflată. Cauzele obișnuite sunt turbulența, rotorul, curentul descendent și manevrele greșite. Aripa se poate roti și poate intra în autorotație.\n\n## De ce este periculos\nAripa se întoarce brusc și pilotul pierde direcția de zbor. Dacă jumătatea dezumflată nu se redeschide, se poate forma o autorotație, care duce la pierderea controlului.",

@@ -190,7 +190,7 @@
    "answers": [
     {
      "text": "nori de tip Cumulonimbus",
-     "tag": "atenție, fenomen periculos!",
+     "tag": "- atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "## Cum se formează\nCumulonimbusul (CB) este un nor vertical, format din curenți ascendenți foarte puternici. Se dezvoltă în trei etape. În etapa de dezvoltare domină curenții ascendenți. În etapa matură apar și curenți descendenți în partea de jos a norului, iar aerul rece coborât formează un front de rafală care se întinde pe sol înaintea furtunii. În etapa de disipare domină curenții descendenți.\n\n## De ce este periculos\n• Turbulență extremă: curenții ascendenți și descendenți sunt foarte apropiați, deci aeronava este aruncată în sus și în jos.\n• Rafale și schimbări bruște de vânt: frontul de rafală poate ajunge la aerodrom înaintea furtunii.\n• Microbursturi: coloane intense de aer care coboară și se răspândesc la sol, cu vânt puternic care poate schimba brusc portanța la decolare și aterizare.\n• Grindină, fulgere, givraj: pericole directe pentru aeronavă și pentru pilot.",
@@ -752,7 +752,7 @@
     },
     {
      "text": "turbulențe și “umbre de vânt” în spatele copacilor, sub vânt",
-     "tag": "atenție, fenomen periculos!",
+     "tag": "- atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "## Cum se formează\nAerul care trece peste perdea este frânat și deviat. Când se desprinde de obstacol, în spatele lui se formează rotoare și zone cu vânt redus, numite umbre de vânt. Turbulența apare și sub vânt, la mică distanță de copaci.\n\n## De ce este periculos\nRafalele și rotoarele apar brusc, aproape de sol, unde aeronava are puțină altitudine. La decolare și aterizare, schimbarea bruscă a vântului poate duce la pierderea portanței.",
@@ -848,7 +848,7 @@
     },
     {
      "text": "vânt de contrapantă",
-     "tag": "atenție, fenomen periculos!",
+     "tag": "- atenție, fenomen periculos!",
      "correct": false,
      "short": "",
      "long": "## Ce este vântul de contrapantă\nVântul de contrapantă reprezintă acea masă de aer care suflă din direcția opusă zonei de decolare sau din spatele pantei pe care te afli (cunoscut și sub numele de vânt de spate sau backwind).\n!!Este unul dintre cele mai înșelătoare și periculoase fenomene pentru piloți, în special în faza de decolare sau la aterizările în zone montane.!!\nÎn contextul zborului cu paramotorul (și al parapantismului în general), vântul de contrapantă (sau rotorul de contrapantă) se referă la mișcările turbulente și descendente ale aerului care apar pe versantul adăpostit (în spatele zonei crestei sau dealului) atunci când vântul lovește panta din sens opus.\nPe scurt, dacă vântul bate din față pe un deal, versantul din spate devine o zonă de „umbră aerodinamică” unde aerul se rotește violent și coboară.\nIată principalele pericole și caracteristici ale acestui fenomen pentru piloții de paramotor:\n\n## De ce este periculos vântul de contrapantă?\n• Rotori și turbulențe mecanice: Curentul de aer care trece peste creastă se desprinde și formează vârtejuri (rotori). Acestea pot provoca închideri masive și bruște ale aripii (colapsuri asimetrice sau frontale).\n• Curenți descendenți puternici: Pe contrapantă, aerul tinde să curgă spre bază. Dacă motorul tău nu are suficientă putere să compenseze această coborâre forțată, poți fi „aspirat” spre sol.\n• Vânt fals la sol: La baza contrapantei, din cauza rotorului, vântul poate părea că bate din sens invers față de vântul meteo general. Dacă încerci să aterizezi acolo crezând că ești cu fața în vânt, poți fi surprins de forfecări de vânt (windshear) violente.\n\n## Regula generală de siguranță\nPentru a evita zona periculoasă de contrapantă, se folosește adesea regula de 1 la 10 (sau un unghi de siguranță de 45 de grade în funcție de tăria vântului). Turbulența se poate întinde în spatele obstacolului pe o distanță de până la 10 ori înălțimea acestuia și se propagă mult în josul vântului.\nCa pilot de paramotor, datorită motorului, ai avântajul de a putea urca rapid, însă regula de aur rămâne: nu zbura niciodată la înălțime joasă în spatele unui deal sau al unei linii de copaci dacă bate vânt puternic dinspre aceștia.",
@@ -885,7 +885,7 @@
     },
     {
      "text": "turbulențe și “umbre de vânt” în spatele copacilor, sub vânt",
-     "tag": "atenție, fenomen periculos!",
+     "tag": "- atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "## Cum se formează\nAerul care trece peste perdea este frânat și deviat. Când se desprinde de obstacol, în spatele lui se formează rotoare și zone cu vânt redus, numite umbre de vânt. Turbulența apare și sub vânt, la mică distanță de copaci.\n\n## De ce este periculos\nRafalele și rotoarele apar brusc, aproape de sol, unde aeronava are puțină altitudine. La decolare și aterizare, schimbarea bruscă a vântului poate duce la pierderea portanței.",
@@ -1031,7 +1031,7 @@
     },
     {
      "text": "în 3 și 4",
-     "tag": "atenție, fenomen periculos!",
+     "tag": "- atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "## Cum se formează\nCând vântul trece peste o creastă, aerul se desprinde de versant și formează pe partea sub vânt un rotor: o mișcare circulară, turbulentă și descendentă. Rotorul se formează sub creastă, iar zona de turbulență se întinde în aval.\n\n## De ce este periculos\nTrecerea bruscă dintr-un curent ascendent în unul descendent și rotirea aerului pot scoate aripa din zbor. Pe paramotor, turbulența puternică de sub creastă poate duce la colapsuri și la pierderea controlului.",
@@ -1493,7 +1493,7 @@
    "answers": [
     {
      "text": "o zonă de intalnire a unor mase de aer ce riscă să provoace turbulențe puternice",
-     "tag": "atenție, fenomen periculos!",
+     "tag": "- atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "## Cum se formează\nZona de forfecare apare acolo unde se întâlnesc mase de aer cu viteze sau direcții diferite, pe distanță mică. Cauzele obișnuite sunt frontele, inversiunile, curenții de jet, rafalele din furtuni și vânturile care sunt canalizate sau frânate de relief.\n\n## De ce este periculos\n• Schimbarea bruscă a vitezei și direcției vântului modifică brusc portanța aripii, ceea ce poate duce la pierderea de altitudine sau la pierderea vitezei.\n• Forfecarea este cea mai periculoasă aproape de sol, la decolare și aterizare, când există puțină altitudine și puțină viteză de rezervă.\n• Forfecarea poate fi însoțită de curenți ascendenți și descendenți, care adaugă turbulență.",
@@ -1927,7 +1927,7 @@
    "answers": [
     {
      "text": "ocolirea norilor de tip CB la o distanță de minim 10 km și minim 37 km pentru orajele puternice",
-     "tag": "atenție, fenomen periculos!",
+     "tag": "- atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "## De ce se ocolesc norii CB\nNorii cumulonimbus sunt sursa fenomenelor orajoase: turbulență extremă, rafale și microbursturi, grindină, fulgere și givraj puternic. Pericolul nu se limitează la interiorul norului: frontul de rafală și curenții descendenți se răspândesc în jurul furtunii. De aceea, ocolirea se face la distanță mare, fără să treci pe sub nor sau printre formațiuni de nori CB.",
@@ -2878,7 +2878,7 @@
     },
     {
      "text": "în 1, 2 și 3",
-     "tag": "atenție, fenomen periculos!",
+     "tag": "- atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "## Cum se formează\nCând vântul trece peste o creastă, aerul se desprinde de versant și formează pe partea sub vânt un rotor: o mișcare circulară, turbulentă și descendentă. Rotorul se formează sub creastă, iar zona de turbulență se întinde în aval.\n\n## De ce este periculos\nTrecerea bruscă dintr-un curent ascendent în unul descendent și rotirea aerului pot scoate aripa din zbor. Pe paramotor, turbulența puternică de sub creastă poate duce la colapsuri și la pierderea controlului.",
@@ -2973,7 +2973,7 @@
    "answers": [
     {
      "text": "turbulențe și “umbre de vânt” în spatele copacilor, sub vânt",
-     "tag": "atenție, fenomen periculos!",
+     "tag": "- atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "## Cum se formează\nAerul care trece peste perdea este frânat și deviat. Când se desprinde de obstacol, în spatele lui se formează rotoare și zone cu vânt redus, numite umbre de vânt. Turbulența apare și sub vânt, la mică distanță de copaci.\n\n## De ce este periculos\nRafalele și rotoarele apar brusc, aproape de sol, unde aeronava are puțină altitudine. La decolare și aterizare, schimbarea bruscă a vântului poate duce la pierderea portanței.",
@@ -3089,7 +3089,7 @@
     },
     {
      "text": "în 3 și 4",
-     "tag": "atenție, fenomen periculos!",
+     "tag": "- atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "## Cum se formează\nCând vântul trece peste o creastă, aerul se desprinde de versant și formează pe partea sub vânt un rotor: o mișcare circulară, turbulentă și descendentă. Rotorul se formează sub creastă, iar zona de turbulență se întinde în aval.\n\n## De ce este periculos\nLa altitudine mică și la aterizare nu mai există spațiu pentru recuperare. Trecerea bruscă dintr-un curent ascendent în unul descendent și rotirea aerului pot scoate aripa din zbor, iar pe paramotor pot duce la colapsuri și la pierderea controlului.",

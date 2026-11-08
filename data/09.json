@@ -787,7 +787,7 @@
     },
     {
      "text": "pot provoca pierderea portanței și instabilitate temporară",
-     "tag": "atenție, fenomen periculos!",
+     "tag": "- atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "## Cum se formează\nTurbulențele sunt variații rapide ale vântului, produse de obstacole, de termice sau de rotoare. Ele schimbă rapid unghiul de atac al aripii.\n\n## De ce este periculos\nCând unghiul de atac scade brusc, aripa pierde portanță. Dacă scăderea este mare, aripa poate intra într-un colaps sau într-o intrare în stall, iar pilotul trebuie să reacționeze rapid pentru a-și recâștiga controlul.",
@@ -1033,7 +1033,7 @@
     },
     {
      "text": "reduc stabilitatea și cresc riscul de pierdere a controlului",
-     "tag": "atenție, fenomen periculos!",
+     "tag": "- atenție, fenomen periculos!",
      "correct": true,
      "short": "",
      "long": "## Cum se formează\nTurbulențele puternice sunt produse de termice intense, de vântul care trece peste obstacole și de rotoare. Ele sunt rafale și schimbări bruște ale vântului, la scară mică.\n\n## De ce este periculos\nRafalele schimbă brusc unghiul de atac și viteza aripii. Paramotorul, cu aripa flexibilă și viteza mică, este sensibil la aceste schimbări, iar pilotul poate pierde controlul dacă nu reacționează corect.",

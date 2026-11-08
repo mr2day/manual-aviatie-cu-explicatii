@@ -456,9 +456,10 @@
     },
     {
      "text": "squak 7777 -",
+     "tag": "cod militar periculos",
      "correct": false,
      "short": "",
-     "long": "Codul 7777 nu este cod standard pentru pierderea comunicației.",
+     "long": "Codul de transponder 7777 este un cod special, extrem de rar folosit, destinat exclusiv testelor militare și operațiunilor de interceptare ale apărării aeriene.\n\nSpre deosebire de codurile 7500, 7600 sau 7700, care sunt folosite de piloții civili în situații de urgență, un avion de linie civil nu va primi și nu va folosi niciodată codul 7777 în condiții normale de zbor.\n\nIată ce reprezintă el în detaliu:\n\n• Testarea sistemelor radar militare (Ground-Based Radar Testing): Unitățile de geniu și tehnicienii de la sol folosesc acest cod pentru a verifica dacă radarele de apărare aeriană (atât cele civile, cât și cele militare) funcționează corect, dacă detectează corect țintele și dacă algoritmii de urmărire automată sunt calibrați la secundă.\n\n• Misiuni de interceptare (Scramble / Air Defense): În anumite spații aeriene (cum ar fi cel administrat de FAA în Statele Unite), acest cod poate fi alocat aeronavelor militare care decolează în regim de alertă maximă pentru a intercepta o țintă suspectă sau neidentificată. Codul ajută radarele militare să diferențieze instantaneu avioanele de vânătoare proprii de restul traficului aerian.\n\n## De ce este periculos dacă un pilot civil îl introduce din greșeală?\n\nAparatele radar de la sol sunt programate să declanșeze alerte vizuale când văd coduri din seria 7000. Deși 7777 nu este o alarmă de prăbușire ca 7700, introducerea lui de către un avion civil poate „păcăli” sistemele automate ale armatei, făcând avionul de pasageri să apară pe ecrane ca fiind o aeronavă militară implicată într-un exercițiu sau o misiune tactică. Din acest motiv, piloților civili le este strict interzis să selecteze acest cod.",
      "warn": ""
     },
     {
