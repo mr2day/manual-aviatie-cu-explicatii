@@ -1035,3 +1035,6 @@ body.modal-open { overflow: hidden; }
 .modal-body strong.emph { color: #ffffff; font-weight: 700; }
 
 .hl-green { color: #81c784; font-weight: 700; }
+
+/* Titluri din explicații: verde, bolduite */
+details.more .more-body h4 { color: #81c784; font-weight: 700; }
