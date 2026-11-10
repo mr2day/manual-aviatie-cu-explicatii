@@ -7,6 +7,8 @@
   var routeVersion = 0;
   var assetVersion = document.currentScript && document.currentScript.getAttribute('data-version') || '';
   var examLocation = document.getElementById('exam-location');
+  var displayMode = document.getElementById('display-mode');
+  var theoryCache = {};
   var catalogRequestVersion = 0;
 
   function setLocationParam(location) {
@@ -79,6 +81,23 @@
       });
     }
     return chapterCache[meta.id];
+  }
+
+  function loadTheory(meta) {
+    if (!theoryCache[meta.id]) {
+      var url = 'data/teorie/' + meta.id + '.json' + (assetVersion ? '?v=' + encodeURIComponent(assetVersion) : '');
+      theoryCache[meta.id] = fetch(url).then(function (response) {
+        if (!response.ok) throw new Error('Teorie HTTP ' + response.status);
+        return response.json();
+      }).then(function (theory) {
+        if (theory.id !== meta.id || !Array.isArray(theory.sections)) throw new Error('Date de teorie invalide pentru capitolul ' + meta.id);
+        return theory;
+      }).catch(function (error) {
+        delete theoryCache[meta.id];
+        throw error;
+      });
+    }
+    return theoryCache[meta.id];
   }
 
   function el(tag, cls, text) {
@@ -464,6 +483,43 @@
     window.scrollTo(0, 0);
   }
 
+  function renderTheory(theory) {
+    var main = document.getElementById('content');
+    main.textContent = '';
+    main.appendChild(el('h1', 'sr-only', theory.title));
+    var doc = el('div', 'doc theory-doc');
+    var hero = el('header', 'doc-hero');
+    hero.appendChild(el('p', 'doc-kicker', 'Teorie'));
+    hero.appendChild(el('h1', null, theory.title));
+    if (theory.notice) hero.appendChild(el('p', 'doc-source', theory.notice));
+    doc.appendChild(hero);
+    theory.sections.forEach(function (section) {
+      var card = el('section', 'doc-card theory-section');
+      card.appendChild(el('h2', null, section.title));
+      if (section.intro) card.appendChild(el('p', 'theory-intro', section.intro));
+      if (Array.isArray(section.points)) {
+        var list = el('ul', 'theory-points');
+        section.points.forEach(function (point) {
+          var item = el('li');
+          fillParagraphs(item, point);
+          list.appendChild(item);
+        });
+        card.appendChild(list);
+      }
+      if (Array.isArray(section.terms)) {
+        var terms = el('dl', 'theory-terms');
+        section.terms.forEach(function (entry) {
+          terms.appendChild(el('dt', null, entry.term));
+          terms.appendChild(el('dd', null, entry.definition));
+        });
+        card.appendChild(terms);
+      }
+      doc.appendChild(card);
+    });
+    main.appendChild(doc);
+    window.scrollTo(0, 0);
+  }
+
   // Documentele se afișează în zona principală, ca orice conținut. Fiecare document este
   // un fragment încărcat la cerere (docs/fragments/<slug>.js).
   function renderDoc(d) {
@@ -518,6 +574,15 @@
     var c = byId[hash.slice(1)] || chapters[0];
     renderNav(c.id);
     setCurrent(c.title);
+    if (!displayMode.checked) {
+      showStatus('Se încarcă teoria: ' + c.title + '…');
+      loadTheory(c).then(function (theory) {
+        if (requestVersion === routeVersion) renderTheory(theory);
+      }).catch(function () {
+        if (requestVersion === routeVersion) showStatus('Nu este încă disponibilă o sinteză de teorie pentru acest capitol.');
+      });
+      return;
+    }
     showStatus('Se încarcă ' + c.title + '…');
     loadChapter(c).then(function (chapter) {
       if (requestVersion === routeVersion) renderChapter(chapter);
@@ -548,6 +613,7 @@
   setMenu(false);
 
   window.addEventListener('hashchange', route);
+  displayMode.addEventListener('change', route);
   examLocation.addEventListener('change', function () {
     setLocationParam(examLocation.value);
     chapters = [];

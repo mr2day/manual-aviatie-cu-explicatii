@@ -624,6 +624,21 @@ details.answer-more[open] > summary::before {
   font-size: 1.1rem;
   color: var(--heading);
 }
+.theory-doc .doc-hero {
+  background: linear-gradient(135deg, #12345a, #1769c2);
+}
+.theory-doc .doc-kicker { color: #b9d9ff; }
+.theory-section h2 {
+  padding-bottom: 0.55rem;
+  border-bottom: 2px solid var(--border);
+  color: #2581df;
+}
+.theory-intro { color: var(--heading); font-weight: 600; }
+.theory-points { padding-left: 1.25rem; margin: 0.7rem 0 0; }
+.theory-points li { padding-left: 0.25rem; margin: 0.55rem 0; }
+.theory-terms { display: grid; grid-template-columns: minmax(110px, 0.3fr) 1fr; gap: 0.55rem 1rem; margin: 0.8rem 0 0; }
+.theory-terms dt { color: #2581df; font-weight: 700; }
+.theory-terms dd { margin: 0; }
 .doc-card p { margin: 0 0 0.6rem; }
 .doc-note {
   font-size: 0.88rem;
