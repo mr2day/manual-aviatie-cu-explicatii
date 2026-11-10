@@ -5,11 +5,22 @@
         <span class="brand-bottom">ARTISAN</span>
       </a>
       <p class="brand-tagline">Manual de pregătire pentru examenul teoretic</p>
-      <label class="exam-location" for="exam-location">Loc examen:
-        <select id="exam-location" name="exam-location">
-          <option value="bucuresti" selected>București</option>
-          <option value="deva">Deva</option>
-        </select>
-      </label>
+      <div class="header-controls">
+        <label class="exam-location" for="exam-location">Loc examen:
+          <select id="exam-location" name="exam-location">
+            <option value="bucuresti" selected>București</option>
+            <option value="deva">Deva</option>
+          </select>
+        </label>
+        <label class="display-mode" for="display-mode">
+          <span class="display-mode-label">Mod afișare:</span>
+          <span class="mode-switch">
+            <span>Teorie</span>
+            <input id="display-mode" name="display-mode" type="checkbox" aria-label="Comută între Teorie și Întrebări">
+            <span class="mode-track" aria-hidden="true"><span class="mode-thumb"></span></span>
+            <span>Întrebări</span>
+          </span>
+        </label>
+      </div>
     </div>
   </header>
