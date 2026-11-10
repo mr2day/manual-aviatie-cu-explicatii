@@ -33,7 +33,7 @@
      "text": "ANCOM",
      "correct": true,
      "short": "",
-     "long": "Corect. ANCOM eliberează certificatul general de operator radiotelefonist și reglementează stațiile radio.",
+     "long": "ANCOM este autoritatea română pentru reglementarea comunicațiilor și emite certificate pentru operatorii radio civili. Confundarea instituției cu SATCOM (tehnologie prin satelit) sau CNA (audiovizual) amestecă domenii diferite.",
      "warn": ""
     }
    ]
@@ -55,7 +55,7 @@
      "text": "un operator deținator al unui certificat emis sau recunoscut de guvernul țării respective",
      "correct": true,
      "short": "",
-     "long": "Corect. Operatorul care deține certificatul emis sau recunoscut de guvern controlează serviciul stației.",
+     "long": "Serviciul unei stații aeronautice este condus de operatorul radio calificat și desemnat pentru acel serviciu. Pilotul folosește radioul în zbor, iar mecanicul întreține aeronava; certificarea operatorului privește transmiterea și recepția radio.",
      "warn": ""
     },
     {
@@ -105,7 +105,7 @@
      "text": "până la ieșirea din zona controlată",
      "correct": true,
      "short": "",
-     "long": "Corect. Legătura radio se menține până la ieșirea din zona controlată.",
+     "long": "Legătura cu unitatea ATS se menține cât timp zborul se află în spațiul ei controlat sau până când unitatea autorizează schimbarea frecvenței. Ieșirea din raza în care auzi stația nu anulează singură această obligație.",
      "warn": ""
     }
    ]
@@ -156,7 +156,7 @@
      "text": "turnul de control",
      "correct": true,
      "short": "",
-     "long": "Corect. Autorizarea de decolare se cere turnului de control.",
+     "long": "Turnul (TWR) verifică situația pistei și emite autorizarea de decolare. Personalul de sol poate coordona deplasarea la sol, dar nu poate acorda această autorizare.",
      "warn": ""
     },
     {
@@ -235,7 +235,7 @@
      "text": "Indicativul aeronavei, poziția curentă, altitudinea, ruta intenționată și destinația",
      "correct": true,
      "short": "",
-     "long": "Corect. Indicativul, poziția, altitudinea, ruta și destinația permit ATC să identifice și să coordoneze aeronava.",
+     "long": "ATC are nevoie de indicativ și poziție ca să știe cine solicită intrarea, apoi de nivel și intenții/rută pentru a coordona traficul. Transmiterea acestor date nu ține loc de autorizare: aștepți aprobarea înainte să intri acolo unde este cerută.",
      "warn": ""
     },
     {
@@ -264,7 +264,7 @@
      "text": "VHF Omnidirectional Range",
      "correct": true,
      "short": "",
-     "long": "Corect. VOR înseamnă VHF Omnidirectional Range.",
+     "long": "VOR este un radiofar care permite stabilirea direcției față de stația de la sol; receptorul afișează radialul pe care se află aeronava. „VHF Omnidirectional Range” descrie o instalație de radionavigație, nu o măsurare vizuală.",
      "warn": ""
     },
     {
@@ -321,7 +321,7 @@
      "text": "Automatic Dependent Surveillance-Broadcast",
      "correct": true,
      "short": "",
-     "long": "Corect. ADS-B este Automatic Dependent Surveillance–Broadcast.",
+     "long": "ADS-B este supraveghere dependentă de datele de la bord: echipamentul aeronavei transmite automat identitatea și poziția calculată, de regulă împreună cu altitudinea. „Broadcast” arată că informația este difuzată pentru a fi recepționată de stații sau aeronave echipate corespunzător.",
      "warn": ""
     }
    ]
@@ -336,7 +336,7 @@
      "text": "te aud bine",
      "correct": true,
      "short": "",
-     "long": "Corect. Cifra 4 înseamnă audibil: mesajul se aude bine, fără efort.",
+     "long": "Nivelul 4 spune că mesajul se înțelege bine; scara descrie lizibilitatea cuvintelor, nu volumul sau puterea semnalului. Nivelul 5 este perfect inteligibil, iar 3 înseamnă inteligibil cu dificultate.",
      "warn": ""
     },
     {
@@ -372,7 +372,7 @@
      "text": "utilizați o bujie cu rezistență încorporată",
      "correct": true,
      "short": "",
-     "long": "Corect. Bujia cu rezistență încorporată reduce interferențele produse de aprindere.",
+     "long": "Rezistența bujiei sau a pipetei reduce impulsurile electrice produse de sistemul de aprindere, care pot ajunge în receptor ca zgomot sincronizat cu turația motorului. O antenă mai puternică nu elimină sursa interferenței; configurarea pieselor trebuie să respecte recomandările producătorului motorului.",
      "warn": ""
     },
     {
@@ -429,7 +429,7 @@
      "text": "gestionarea și coordonarea traficului aerian pentru a asigura siguranța zborurilor",
      "correct": true,
      "short": "",
-     "long": "Corect. ATC gestionează și coordonează traficul aerian pentru siguranța zborurilor.",
+     "long": "ATC organizează traficul în spațiile în care oferă control: emite autorizări și instrucțiuni pentru a menține zborurile ordonate și separate conform regulilor clasei respective. Controlul traficului nu înseamnă verificarea pasagerilor, a bagajelor sau a securității la sol.",
      "warn": ""
     }
    ]
@@ -495,7 +495,7 @@
      "text": "vă continuați zborul în spațiu clasa G",
      "correct": true,
      "short": "",
-     "long": "Corect. În clasa G comunicația radio nu este obligatorie, deci zborul poate continua.",
+     "long": "În clasa G, un zbor VFR poate continua fără comunicație radio bilaterală obligatorie, dacă nu intră într-un spațiu sau într-o situație cu cerințe suplimentare. Pierderea radioului nu dă dreptul de a intra ulterior într-un spațiu unde contactul și autorizarea sunt necesare.",
      "warn": ""
     },
     {
@@ -590,7 +590,7 @@
      "text": "CTR",
      "correct": true,
      "short": "",
-     "long": "Corect. Abrevierea zonei de control este CTR.",
+     "long": "CTR vine de la Control Zone, zonă de control. Este spațiu aerian controlat care începe la suprafața solului și se întinde până la limita publicată, de obicei în jurul unui aerodrom, pentru organizarea traficului de apropiere și plecare. CTA desemnează o altă structură, cu limită inferioară stabilită deasupra solului.",
      "warn": ""
     },
     {
@@ -676,7 +676,7 @@
      "text": "licența de utilizare a frecvențelor și autorizația stației",
      "correct": true,
      "short": "",
-     "long": "Corect. Stația trebuie să aibă licența de utilizare a frecvențelor și autorizația stației.",
+     "long": "Documentația stației și calificarea operatorului sunt lucruri diferite: licența/autorizația privește echipamentul și folosirea frecvențelor, iar certificatul radio privește persoana care îl operează. Garanția aparatului sau actele personale nu înlocuiesc autorizarea radio.",
      "warn": ""
     },
     {
@@ -719,7 +719,7 @@
      "text": "detalii despre problema de siguranță și asistența solicitată",
      "correct": true,
      "short": "",
-     "long": "Corect. Mesajul trebuie să conțină problema de siguranță și asistența cerută, ca controlorul să poată reacționa.",
+     "long": "Un mesaj de urgență trebuie să spună ce problemă afectează siguranța și ce ajutor se solicită; poziția și identificarea ajută serviciul să găsească aeronava. Ora estimată sau numărul de pasageri pot completa mesajul, dar nu descriu singure urgența.",
      "warn": ""
     }
    ]
@@ -748,7 +748,7 @@
      "text": "nu pot urma instrucțiunea",
      "correct": true,
      "short": "",
-     "long": "Corect. „Nu pot urma instrucțiunea” este răspunsul standard.",
+     "long": "UNABLE („nu pot”) anunță imediat că nu poți executa autorizarea sau instrucțiunea, iar motivul poate fi adăugat dacă e util. WILCO ar însemna că ai înțeles și vei respecta mesajul, deci nu îl folosești când nu poți să-l execuți.",
      "warn": ""
     },
     {
@@ -770,7 +770,7 @@
      "text": "se va solicita, în scris, eliberarea unui nou certificat de la ANCOM",
      "correct": true,
      "short": "",
-     "long": "Corect. Duplicatul se cere în scris la ANCOM.",
+     "long": "La pierderea certificatului, titularul trebuie să ceară un duplicat autorității emitente și să urmeze procedura/documentele cerute. Un certificat deteriorat ori pierdut nu se înlocuiește printr-o simplă copie făcută de titular.",
      "warn": ""
     },
     {
@@ -827,7 +827,7 @@
      "text": "semnal de identificare format din 3-5 litere",
      "correct": true,
      "short": "",
-     "long": "Este metoda corectă: stația se identifică printr-un cod scurt de litere.",
+     "long": "Indicativul Morse permite identificarea stației radio printr-o secvență scurtă de sunete, emisă în condițiile procedurii aplicabile. Nu trebuie confundat cu indicativul rostit al aeronavei sau cu un mesaj de navigație.",
      "warn": ""
     }
    ]
@@ -842,7 +842,7 @@
      "text": "poate opera pe orice frecvență din spectrul alocat serviciului",
      "correct": true,
      "short": "",
-     "long": "Corect. Operatorul cu certificat general poate opera pe orice frecvență din spectrul alocat serviciului.",
+     "long": "Certificatul general atestă pregătirea operatorului pentru competențele și serviciile cuprinse în reglementare; nu îi dă dreptul să aleagă orice frecvență. Frecvența și stația trebuie să fie autorizate și folosite potrivit alocării și procedurilor publicate.",
      "warn": ""
     },
     {
@@ -892,7 +892,7 @@
      "text": "timpul universal coordonat",
      "correct": true,
      "short": "",
-     "long": "Corect. UTC înseamnă timpul universal coordonat, ora de referință din întreaga lume, pe care se bazează fusurile orare.",
+     "long": "UTC este timpul de referință folosit în aviație pentru ca planurile, rapoartele și orele din AIP să aibă aceeași bază indiferent de fusul local. De exemplu, nota Z după o oră indică UTC; la conversia în ora României trebuie ținut cont de orarul de vară/iarnă.",
      "warn": ""
     },
     {
@@ -971,7 +971,7 @@
      "text": "asigurarea siguranței și regularității zborului",
      "correct": true,
      "short": "",
-     "long": "Corect. Scopul principal este siguranța și regularitatea zborului.",
+     "long": "Radioul schimbă informațiile de care depind coordonarea și siguranța: poziții, autorizări, instrucțiuni și avertizări. Scopul este ca zborurile să se desfășoare în siguranță și ordonat, nu conversația privată sau administrarea pasagerilor.",
      "warn": ""
     }
    ]
@@ -993,7 +993,7 @@
      "text": "semnal de pericol grav și iminent",
      "correct": true,
      "short": "",
-     "long": "Corect. Distress înseamnă pericol grav și iminent.",
+     "long": "Distress desemnează primejdie gravă și iminentă, când este necesar ajutor imediat; semnalul vocal aeronautic este MAYDAY. PAN PAN indică urgență ce afectează siguranța, dar fără același nivel de pericol imediat.",
      "warn": ""
     },
     {
@@ -1072,7 +1072,7 @@
      "text": "ALERFA – __„alerte”__",
      "correct": true,
      "short": "",
-     "long": "Corect. ALERFA este faza de alarmă, a doua din cele trei: există motive să se creadă că aeronava are probleme. Reține: __„alerte”__, adică ai motive să dai alarma.",
+     "long": "ALERFA este faza de alarmă: apar indicii care dau motive de îngrijorare pentru siguranța aeronavei, iar serviciile relevante sunt alertate. INCERFA exprimă incertitudine, iar DETRESFA indică faza de pericol grav și iminent.",
      "warn": ""
     },
     {
@@ -1115,7 +1115,7 @@
      "text": "până la ieșirea din zona controlată",
      "correct": true,
      "short": "",
-     "long": "Corect. Legătura se menține până la ieșirea din zona controlată.",
+     "long": "Rămâi pe frecvența unității care controlează spațiul până ieși din el ori până când primești instrucțiunea de schimbare. Limita spațiului se verifică pe harta/AIP-ul curent; apropierea de limită nu înseamnă că poți opri comunicația mai devreme.",
      "warn": ""
     }
    ]
@@ -1180,7 +1180,7 @@
      "text": "5 km",
      "correct": true,
      "short": "",
-     "long": "Corect. Vizibilitatea minimă cerută pentru zborul VFR, în spațiul sub 3050 m, este de 5 km (RACR-RA, Tabelul 3-1).",
+     "long": "Pentru zborul VFR sub 3.050 m, valoarea uzuală cerută de tabelul relevant este vizibilitate de cel puțin 5 km. VFR impune și distanțe față de nori; minimele exacte depind de clasa spațiului și altitudine, deci cifra nu se aplică automat tuturor situațiilor.",
      "warn": ""
     },
     {
@@ -1245,7 +1245,7 @@
      "text": "indicativul prima oară apoi mesajul",
      "correct": true,
      "short": "",
-     "long": "Corect. Indicativul este primul, apoi mesajul.",
+     "long": "La chemare, controlorul folosește indicativul aeronavei ca să fie clar cui i se adresează, apoi transmite mesajul sau instrucțiunea. Pilotul răspunde identificând aeronava și confirmând ori repetând elementele cerute.",
      "warn": ""
     },
     {
@@ -1295,7 +1295,7 @@
      "text": "mesaj de urgență",
      "correct": true,
      "short": "",
-     "long": "Corect. Mesajul de urgență privește siguranța aeronavei sau a persoanelor la bord.",
+     "long": "Un mesaj de siguranță transmite informații importante pentru protecția aeronavei sau a persoanelor de la bord, fără să fie neapărat o cerere de salvare imediată. Dacă există primejdie, MAYDAY; dacă este o urgență fără pericol iminent, PAN PAN.",
      "warn": ""
     }
    ]
@@ -1324,7 +1324,7 @@
      "text": "poziția aeronavei",
      "correct": true,
      "short": "",
-     "long": "Corect. Poziția aeronavei permite salvarea rapidă.",
+     "long": "Spune poziția cât mai precis, fiindcă aceasta permite orientarea ajutorului și căutarea aeronavei. Dacă timpul e foarte scurt, transmite mai întâi identificarea, natura pericolului și locul, apoi completează restul mesajului.",
      "warn": ""
     },
     {
@@ -1367,7 +1367,7 @@
      "text": "butonul squelch",
      "correct": true,
      "short": "",
-     "long": "Squelch-ul reduce zgomotul de fond când nu există semnal, deci face recepția mai clară.",
+     "long": "Squelch-ul controlează pragul receptorului: coborârea lui poate lăsa să se audă semnale mai slabe, dar aduce și mai mult zgomot de fond. Nu mărește puterea emițătorului și nu extinde raza transmisiei; pentru asta sunt necesare alte soluții tehnice/procedurale.",
      "warn": ""
     }
    ]
@@ -1403,7 +1403,7 @@
      "text": "121,50",
      "correct": true,
      "short": "",
-     "long": "Corect. 121,5 MHz este frecvența internațională de urgență (121,50), pe care se stabilește legătura la interceptare.",
+     "long": "121,5 MHz este canalul VHF internațional destinat comunicațiilor autentice de primejdie și urgență, inclusiv pentru contact în situații de interceptare când procedura o cere. Nu este o frecvență obișnuită de lucru; frecvențele de serviciu se folosesc în condiții normale.",
      "warn": ""
     }
    ]
@@ -1439,7 +1439,7 @@
      "text": "International Civil Aviation Organization",
      "correct": true,
      "short": "",
-     "long": "Corect. ICAO este International Civil Aviation Organization.",
+     "long": "ICAO este organizația ONU care elaborează standarde și proceduri internaționale pentru aviația civilă. Statele le pun în aplicare prin regulile și publicațiile lor; denumirea completă explică de ce apare abrevierea ICAO în standardele aeronautice.",
      "warn": ""
     }
    ]
@@ -1540,7 +1540,7 @@
      "text": "MAY DAY",
      "correct": true,
      "short": "",
-     "long": "Corect. Oprirea motorului cu aterizare forțată este pericol grav și iminent: MAYDAY.",
+     "long": "MAYDAY se folosește când oprirea motorului creează un pericol grav și iminent și este necesar ajutor imediat, cum ar fi o aterizare forțată fără opțiune sigură. Pilotul descrie pe scurt problema, poziția și intenția; simplul fapt că motorul s-a oprit nu înlocuiește evaluarea situației concrete.",
      "warn": ""
     },
     {
@@ -1583,7 +1583,7 @@
      "text": "am înțeles mesajul și mă voi conforma!",
      "correct": true,
      "short": "",
-     "long": "Corect. WILCO înseamnă că am înțeles și mă voi conforma.",
+     "long": "WILCO vine din „will comply”: mesajul a fost înțeles și pilotul va executa instrucțiunea. Pentru autorizări care cer readback, rostește și elementele cerute; WILCO nu le substituie automat.",
      "warn": ""
     }
    ]
@@ -1598,7 +1598,7 @@
      "text": "solicitarea de asistență pentru o problemă de siguranță",
      "correct": true,
      "short": "",
-     "long": "Corect. PAN PAN înseamnă solicitare de asistență pentru o problemă de siguranță, fără pericol grav și iminent.",
+     "long": "PAN PAN este apelul de urgență pentru o problemă care cere atenție și poate necesita ajutor, dar nu indică primejdia gravă cu nevoie imediată de intervenție pe care o exprimă MAYDAY. Dacă situația se agravează, pilotul poate trece la MAYDAY.",
      "warn": ""
     },
     {
@@ -1655,7 +1655,7 @@
      "text": "poziția curentă sau ultima poziție știută împreună cu înălțimea și capul compas",
      "correct": true,
      "short": "",
-     "long": "Corect. Poziția curentă sau ultima cunoscută, altitudinea și capul compas.",
+     "long": "Poziția, altitudinea/nivelul și capul de zbor îi permit controlorului să estimeze unde se află aeronava și în ce direcție se deplasează. Spune poziția actuală sau, dacă nu o cunoști exact, ultima poziție confirmată și momentul ei.",
      "warn": ""
     }
    ]
@@ -1670,7 +1670,7 @@
      "text": "nu răspundeți nimic, așteptați să fiți rechemați",
      "correct": true,
      "short": "",
-     "long": "Corect. Nu se răspunde, pilotul așteaptă să fie rechemat.",
+     "long": "STANDBY înseamnă „așteptați, vă voi chema”; pilotul rămâne pe frecvență și ascultă. Nu este o autorizare și nu confirmă că solicitarea a fost acceptată.",
      "warn": ""
     },
     {
@@ -1720,7 +1720,7 @@
      "text": "IMC",
      "correct": true,
      "short": "",
-     "long": "Corect. IMC sunt condițiile meteo pentru zborul instrumental.",
+     "long": "IMC (Instrument Meteorological Conditions) sunt condiții meteo sub minimele pentru zbor la vedere, astfel încât pilotul nu poate naviga legal doar după repere vizuale. Zborul în asemenea condiții cere calificare, echipare și autorizare potrivite regulilor IFR.",
      "warn": ""
     },
     {
@@ -1763,7 +1763,7 @@
      "text": "un dispozitiv care transmite automat un semnal de urgență în caz de accident",
      "correct": true,
      "short": "",
-     "long": "Corect. ELT transmite automat semnal de urgență în caz de accident.",
+     "long": "ELT este emițătorul de localizare de urgență: transmite un semnal de alarmare care ajută la găsirea aeronavei după un accident sau altă situație de primejdie. Unele unități se activează automat la impact, altele pot fi activate manual; nu este radioul folosit pentru conversația obișnuită cu ATC.",
      "warn": ""
     }
    ]
@@ -1850,7 +1850,7 @@
      "text": "certificatului general de operator radiotelefonist",
      "correct": true,
      "short": "",
-     "long": "Corect. Folosirea stației se face în baza certificatului general de operator radiotelefonist.",
+     "long": "Folosirea unei stații aeronautice presupune dreptul persoanei de a o opera și respectarea autorizării tehnice a stației/frecvenței. Certificatul operatorului dovedește pregătirea persoanei; nu ține locul documentelor pentru echipament.",
      "warn": ""
     },
     {
@@ -1900,7 +1900,7 @@
      "text": "121,5",
      "correct": true,
      "short": "",
-     "long": "Corect. 121,5 MHz este frecvența internațională de urgență.",
+     "long": "121,5 MHz este frecvența de urgență VHF folosită pentru comunicații de primejdie și pentru anumite contacte de interceptare. Încearcă frecvența normală când procedura permite; folosește canalul de urgență când situația o cere, nu ca frecvență de lucru obișnuită.",
      "warn": ""
     },
     {
@@ -1929,7 +1929,7 @@
      "text": "AIP Romania",
      "correct": true,
      "short": "",
-     "long": "Corect. Frecvențele sunt în AIP România (publicația oficială de informare aeronautică).",
+     "long": "AIP România este publicația oficială pentru informații aeronautice stabile, inclusiv frecvențe și date de contact. Pentru modificări temporare se verifică NOTAM-urile, iar pentru orice zbor trebuie consultată ediția/amendamentul aflat în vigoare.",
      "warn": ""
     },
     {
@@ -1994,7 +1994,7 @@
      "text": "așteaptă până te rechem",
      "correct": true,
      "short": "",
-     "long": "Corect. Înseamnă să aștepți până ești rechemat.",
+     "long": "STANDBY îi spune pilotului să aștepte și să asculte până când stația îl recheamă. Continuă să urmezi instrucțiunile deja primite; tăcerea nu înseamnă că ai primit o nouă autorizare.",
      "warn": ""
     },
     {
@@ -2030,7 +2030,7 @@
      "text": "planul de zbor",
      "correct": true,
      "short": "",
-     "long": "Planul de zbor este esențial doar în cazurile din RACR-RA 3.030 pct. 1.2, nu pentru orice zbor VFR.",
+     "long": "Planul de zbor transmite intențiile către serviciile de trafic și este obligatoriu numai în cazurile prevăzute de reguli. Pentru zborurile VFR efectuate în întregime în clasa G din România, HG 859/2021 permite și notificarea de trafic VFR la AACR; de aceea nu presupune că orice zbor VFR cere plan de zbor.",
      "warn": "Planul de zbor nu este esențial pentru orice zbor VFR. RACR-RA 3.030 pct. 1.2 cere plan doar în cazurile enumerate, de exemplu când se cere serviciu ATC sau la zborul peste granițe."
     },
     {
@@ -2066,7 +2066,7 @@
      "text": "repetați mesajul",
      "correct": true,
      "short": "",
-     "long": "Corect. „Repetați mesajul” cere repetarea în fonia aeronautică.",
+     "long": "SAY AGAIN cere repetarea mesajului sau a porțiunii care nu s-a înțeles. Dacă ai prins o parte, precizează unde începe partea lipsă; astfel se evită repetarea inutilă a întregului schimb.",
      "warn": ""
     },
     {
@@ -2102,7 +2102,7 @@
      "text": "MAYDAY",
      "correct": true,
      "short": "",
-     "long": "Corect. MAYDAY este semnalul pentru pericol grav și iminent.",
+     "long": "MAYDAY este semnalul vocal de primejdie pentru o situație cu pericol grav și iminent și nevoie de ajutor imediat. PAN PAN este pentru o urgență serioasă fără primejdie iminentă; alegerea semnalului arată nivelul de asistență necesar.",
      "warn": ""
     },
     {
@@ -2145,7 +2145,7 @@
      "text": "poziția exactă, natura urgenței și asistența solicitată",
      "correct": true,
      "short": "",
-     "long": "Corect. Poziția, natura urgenței și asistența cerută sunt informațiile esențiale.",
+     "long": "Un mesaj de urgență util identifică aeronava, precizează unde se află, ce se întâmplă și ce ajutor cere. Cu aceste date, unitatea ATS poate confirma recepția și transmite informația serviciilor potrivite.",
      "warn": ""
     },
     {
@@ -2181,7 +2181,7 @@
      "text": "apeluri de primejdie, mesaje de primejdie și trafic de primejdie",
      "correct": true,
      "short": "",
-     "long": "Corect. Apelurile și mesajele de primejdie au prioritatea cea mai mare.",
+     "long": "Mesajele de primejdie au prioritate maximă; cele de urgență, inclusiv PAN PAN MEDICAL, urmează imediat după ele. Stațiile care nu participă lasă frecvența liberă, ca apelul să poată fi auzit și coordonat.",
      "warn": ""
     },
     {
@@ -2217,7 +2217,7 @@
      "text": "Aeronava trebuie să stabilească contact radio cu unitatea ATC corespunzătoare și să obțină autorizarea înainte de a intra în spațiul controlat",
      "correct": true,
      "short": "",
-     "long": "Corect. Pilotul stabilește contactul cu ATC și obține autorizarea înainte de intrare.",
+     "long": "Înainte de a intra într-un spațiu unde este necesar contactul și clearance-ul, cheamă unitatea competentă, transmite identificarea și poziția, apoi așteaptă autorizarea. Repetă elementele cerute din clearance; nu echivala lipsa răspunsului cu permisiunea de intrare.",
      "warn": ""
     },
     {
@@ -2246,7 +2246,7 @@
      "text": "va continuați zborul prudent, zburând atent și urmărind grupul în continuare",
      "correct": true,
      "short": "",
-     "long": "Corect. Zborul continuă prudent, urmărind grupul, deoarece comunicația nu este obligatorie în G.",
+     "long": "Dacă se întrerupe legătura în grup, urmează procedura stabilită la briefing și menține separarea/poziția convenită fără manevre bruște. Clasa G nu impune în general radio continuu zborului VFR, dar asta nu face sigură improvizarea unei noi proceduri de grup.",
      "warn": ""
     },
     {
@@ -2296,7 +2296,7 @@
      "text": "cere TWR un control radio utilizând frazeologia dedicată",
      "correct": true,
      "short": "",
-     "long": "Corect. Se cere un control radio de la TWR cu frazeologia standard.",
+     "long": "Într-un CTR, verifică frecvența și aparatul și cere un radio check dacă nu ești sigur de comunicație. Dacă nu poți stabili legătura, nu presupune că ATC te-a auzit și nu continua într-un spațiu în care contactul este cerut; aplică procedura publicată.",
      "warn": ""
     },
     {
@@ -2332,7 +2332,7 @@
      "text": "un zbor VFR autorizat de controlul traficului aerian să se deruleze în condiții meteorologice cu valori inferioare condițiilor VMC",
      "correct": true,
      "short": "",
-     "long": "Corect. VFR special este autorizat de ATC sub minimele VMC (RACR-RA 2.4.3).",
+     "long": "VFR special este o autorizare limitată, acordată de ATC pentru zbor VFR într-o zonă de control când vremea este sub minimele VMC obișnuite. Se aplică doar dacă sunt îndeplinite condițiile specifice; nu este o derogare generală care permite orice zbor în vizibilitate slabă.",
      "warn": ""
     },
     {
@@ -2361,7 +2361,7 @@
      "text": "PAN, PAN",
      "correct": true,
      "short": "",
-     "long": "Corect. PAN PAN pentru asistență urgentă fără pericol imediat.",
+     "long": "PAN PAN solicită atenție pentru o situație urgentă care afectează siguranța, dar nu necesită ajutor imediat din cauza unui pericol grav și iminent. Dacă riscul devine iminent, mesajul potrivit este MAYDAY.",
      "warn": ""
     },
     {
@@ -2397,7 +2397,7 @@
      "text": "așteaptă instrucțiuni, ramai atent la comunicațiile radio",
      "correct": true,
      "short": "",
-     "long": "Corect. Pilotul așteaptă instrucțiuni și rămâne atent la comunicații.",
+     "long": "Rămâi pe recepție înseamnă să nu mai transmiți și să asculți frecvența pentru următorul apel al stației. STANDBY exprimă aceeași instrucțiune operațională; nu înseamnă că ai primit deja aprobarea cerută.",
      "warn": ""
     },
     {
@@ -2433,7 +2433,7 @@
      "text": "certificatul de înmatriculare",
      "correct": true,
      "short": "",
-     "long": "Corect în esență: documentul de bază al aeronavei este cel de înmatriculare sau identificare, obligatoriu la bord.",
+     "long": "Documentul de înmatriculare sau identificare arată ce aeronavă este și sub ce înregistrare operează. Aeronavele ultraușoare pot avea document de identificare specific, deci verifică actele cerute categoriei aeronavei, nu presupune că toate au același certificat.",
      "warn": ""
     },
     {
@@ -2476,7 +2476,7 @@
      "text": "frecvența TIBA, stabilită și comunicată la nivel regional potrivit reglementărilor specifice aplicabile",
      "correct": true,
      "short": "",
-     "long": "Corect. Frecvența TIBA, stabilită regional, este folosită în acest caz.",
+     "long": "TIBA este difuzarea de către aeronave a informațiilor de trafic, folosită doar când serviciile ATS sunt întrerupte temporar și potrivit procedurii publicate. Frecvența și punctele de raportare se iau din AIP/NOTAM pentru zona respectivă; nu există o frecvență TIBA universală.",
      "warn": ""
     },
     {
@@ -2512,7 +2512,7 @@
      "text": "Notice to Airmen",
      "correct": true,
      "short": "",
-     "long": "Corect. NOTAM este Notice to Airmen.",
+     "long": "NOTAM este un aviz aeronautic urgent, transmis prin telecomunicații, despre o schimbare, indisponibilitate sau pericol relevant pentru operațiuni. AIP-ul conține informațiile de bază mai stabile; pilotul verifică NOTAM-urile valabile pentru ruta și aerodromurile planificate.",
      "warn": ""
     },
     {
@@ -2541,7 +2541,7 @@
      "text": "condiții meteorologice de zbor la vedere",
      "correct": true,
      "short": "",
-     "long": "Corect. VMC sunt condițiile meteorologice de zbor la vedere.",
+     "long": "VMC (Visual Meteorological Conditions) descrie vremea care îndeplinește minimele de vizibilitate și distanță față de nori pentru zbor la vedere. VMC este o condiție meteorologică; VFR este setul de reguli folosit pentru zborul la vedere.",
      "warn": ""
     },
     {
@@ -2570,7 +2570,7 @@
      "text": "AIP Romania",
      "correct": true,
      "short": "",
-     "long": "Corect. Frecvențele sunt în AIP România.",
+     "long": "Caută frecvențele în AIP România, în partea AD pentru aerodromuri și ENR pentru informațiile de rută. Verifică ediția și actualizările în vigoare, deoarece o frecvență tipărită într-o hartă veche poate să nu mai fie valabilă.",
      "warn": ""
     },
     {
@@ -2613,7 +2613,7 @@
      "text": "aprinderea și stingerea repetată a luminilor de aterizare",
      "correct": true,
      "short": "",
-     "long": "Este semnalul vizual de urgență descris.",
+     "long": "Aprinderea și stingerea repetată a luminilor de aterizare este semnalul vizual de urgență din această întrebare. El poate atrage atenția când radioul nu este disponibil; nu confunda acest gest cu semnalele standard distincte pentru primejdie sau cu luminile de poziție.",
      "warn": ""
     },
     {
@@ -2649,7 +2649,7 @@
      "text": "118.000 MHz la 135.975 Mhz cu un ecart între canale de 8.33 Khz",
      "correct": true,
      "short": "",
-     "long": "Corect. Banda este 118–135,975 MHz, cu ecart de 8,33 kHz.",
+     "long": "Vocea aeronautică VHF se transmite în banda alocată comunicațiilor aer-sol, aproximativ 118–137 MHz; canalele pot fi spațiate la 25 kHz sau 8,33 kHz potrivit alocării. Numărul de canal afișat pe radio poate avea o reprezentare diferită de frecvența purtătoare exactă.",
      "warn": ""
     },
     {
@@ -2685,7 +2685,7 @@
      "text": "Aeronava trebuie să se mențină în spațiul necontrolat și să încerce să restabilească contactul radio",
      "correct": true,
      "short": "",
-     "long": "Corect. Aeronava nu intră fără autorizare și încearcă să restabilească legătura din spațiul necontrolat.",
+     "long": "Dacă spațiul următor cere contact radio sau clearance și nu ai reușit să iei legătura cu ATC, rămâi în clasa G și reîncearcă prin frecvența/procedura publicată. Fără confirmare nu ai primit autorizare de intrare; cerințele concrete depind de clasa și regulile spațiului respectiv.",
      "warn": ""
     },
     {
@@ -2735,7 +2735,7 @@
      "text": "servicii publice de telecomunicații",
      "correct": true,
      "short": "",
-     "long": "Corect. Serviciile accesibile publicului sunt serviciile publice de telecomunicații.",
+     "long": "Serviciile publice de telecomunicații sunt oferite publicului de furnizori, precum serviciile de telefonie sau acces la rețea. Ele nu sunt același lucru cu serviciile aeronautice ATS, care organizează, informează sau alertează traficul aerian.",
      "warn": ""
     }
    ]
@@ -2750,7 +2750,7 @@
      "text": "MAY DAY",
      "correct": true,
      "short": "",
-     "long": "Corect. Oprirea motorului în zbor este pericol grav și iminent: MAYDAY.",
+     "long": "Dacă pierderea motorului înseamnă primejdie gravă și ai nevoie de ajutor imediat, transmite MAYDAY și spune poziția, problema și ce intenționezi să faci. Dacă circumstanțele nu indică pericol iminent, evaluează situația și folosește semnalul adecvat, fără a transforma automat orice defect în MAYDAY.",
      "warn": ""
     },
     {
@@ -2807,7 +2807,7 @@
      "text": "semnal de pericol",
      "correct": true,
      "short": "",
-     "long": "Corect. SOS este semnalul Morse de pericol.",
+     "long": "SOS este secvența de primejdie în Morse: trei puncte, trei linii, trei puncte. Într-un apel vocal aeronautic se folosește MAYDAY; SOS nu este cuvântul rostit pentru a înlocui acel semnal.",
      "warn": ""
     }
    ]
@@ -2829,7 +2829,7 @@
      "text": "ELT (Emergency Locator Transmitter)",
      "correct": true,
      "short": "",
-     "long": "Corect. ELT este transmițătorul automat de semnal de urgență.",
+     "long": "ELT (Emergency Locator Transmitter) este baliza radio de localizare a aeronavei: la activare, semnalul ajută serviciile de căutare și salvare să identifice locul incidentului. Nu este un sistem de navigație precum VOR sau DME și nici radioul de conversație al pilotului.",
      "warn": ""
     },
     {
@@ -2901,7 +2901,7 @@
      "text": "Regulamentul stațiilor de telecomunicații",
      "correct": true,
      "short": "",
-     "long": "Conține regulile de funcționare a stațiilor radio.",
+     "long": "Anexa 10 a Convenției ICAO tratează telecomunicațiile aeronautice, inclusiv procedurile și frazeologia de radiotelefonie. Alte regulamente stabilesc regulile aerului sau cerințele echipamentelor, deci verifică volumul potrivit pentru tema căutată.",
      "warn": "Regulamentul stațiilor de telecomunicații reglementează funcționarea stațiilor radio. Procedurile de radiotelefonie aeronautică și frazeologia sunt în Anexa 10 volumul II a OACI."
     },
     {
@@ -2937,7 +2937,7 @@
      "text": "dispunem de o cască prevăzută cu sistem de comunicații integrat",
      "correct": true,
      "short": "",
-     "long": "Corect. Casca cu sistem integrat permite comunicația în zgomotul motorului și vântului.",
+     "long": "Cască integrată înseamnă că pilotul poate auzi și transmite fără să ridice vocea peste motor și vânt, iar microfonul și butonul PTT rămân la îndemână. Compatibilitatea mufelor și amplasarea microfonului contează; o antenă mai lungă nu rezolvă faptul că vocea nu se aude.",
      "warn": ""
     },
     {
@@ -2966,7 +2966,7 @@
      "text": "să furnizeze informații utile pentru desfășurarea în siguranță și eficientă a zborului",
      "correct": true,
      "short": "",
-     "long": "Corect. FIS furnizează informații utile pentru siguranța și eficiența zborului.",
+     "long": "FIS transmite informații utile, cum ar fi vremea sau traficul cunoscut, pentru a sprijini desfășurarea sigură a zborului. Informarea nu este control ATC: nu autorizează intrarea și nu garantează separarea tuturor aeronavelor.",
      "warn": ""
     },
     {
@@ -3016,7 +3016,7 @@
      "text": "certificatul de operator radio",
      "correct": true,
      "short": "",
-     "long": "Corect. Operarea legală cere certificatul de operator radio.",
+     "long": "Certificatul de operator privește pregătirea persoanei care folosește radioul; autorizarea/licența stației privește echipamentul și frecvențele. Pentru operare legală trebuie verificată cerința aplicabilă fiecăruia, nu presupus că un certificat personal acoperă orice stație.",
      "warn": ""
     },
     {
@@ -3045,7 +3045,7 @@
      "text": "poate opera pe frecvențele alocate exclusiv serviciului respectiv",
      "correct": true,
      "short": "",
-     "long": "Corect. Certificatul restrâns este limitat la frecvențele alocate serviciului.",
+     "long": "Certificatul restrâns confirmă competență limitată la serviciul și frecvențele prevăzute pentru acel certificat. Nu oferă privilegiile generale de operare și nu transformă operatorul în controlor de trafic aerian.",
      "warn": ""
     },
     {
@@ -3074,7 +3074,7 @@
      "text": "certificatul general de operator radiotelefonist",
      "correct": true,
      "short": "",
-     "long": "Corect. Certificatul general de operator radiotelefonist este documentul cerut.",
+     "long": "Autorizația stației privește dreptul de a folosi echipamentul radio în parametrii și pe frecvențele aprobate. Certificatul operatorului este separat și atestă competența persoanei; unul nu îl înlocuiește pe celălalt.",
      "warn": ""
     },
     {
@@ -3146,7 +3146,7 @@
      "text": "autorizația de utilizare a frecvențelor și licența stației",
      "correct": true,
      "short": "",
-     "long": "Corect. Autorizația de utilizare a frecvențelor și licența stației trebuie să fie la stație.",
+     "long": "Documentele stației dovedesc autorizarea echipamentului și a utilizării frecvențelor. Certificatul operatorului dovedește pregătirea persoanei, iar manualul sau garanția aparatului nu ține loc de autorizare.",
      "warn": ""
     },
     {
@@ -3189,7 +3189,7 @@
      "text": "gestionarea și coordonarea traficului aerian pentru a asigura siguranța zborurilor",
      "correct": true,
      "short": "",
-     "long": "Corect. ATC gestionează și coordonează traficul aerian.",
+     "long": "ATC este serviciul de control al traficului aerian: în spațiile desemnate, controlorii emit autorizări și instrucțiuni și aplică separarea prevăzută de clasa spațiului. FIS oferă informații, nu control, iar serviciul de alarmare se ocupă de notificarea situațiilor de urgență.",
      "warn": ""
     },
     {
@@ -3239,7 +3239,7 @@
      "text": "Hertzul",
      "correct": true,
      "short": "",
-     "long": "Corect. Frecvența se măsoară în hertzi.",
+     "long": "Hertzul măsoară frecvența, adică numărul de cicluri pe secundă: 1 Hz este un ciclu într-o secundă. Radiourile aeronautice exprimă de obicei frecvența în MHz, unde 1 MHz înseamnă un milion de hertzi.",
      "warn": ""
     }
    ]
@@ -3261,7 +3261,7 @@
      "text": "Air Traffic Control",
      "correct": true,
      "short": "",
-     "long": "Corect. ATC este Air Traffic Control.",
+     "long": "ATC este prescurtarea de la Air Traffic Control, serviciul care controlează traficul aerian în spațiile desemnate. Nu este sinonim cu toate serviciile ATS, deoarece informarea zborurilor și alertarea au alte funcții.",
      "warn": ""
     },
     {
@@ -3290,7 +3290,7 @@
      "text": "furnizarea de indicații și informații utile pentru desfășurarea în siguranță și eficientă a zborului",
      "correct": true,
      "short": "",
-     "long": "Corect. Furnizarea de indicații și informații utile zborului.",
+     "long": "FIS înseamnă Flight Information Service și cuprinde informații folositoare pentru siguranța și eficiența zborului. În spațiul G, acest serviciu nu acordă clearance-uri ATC și nu separă aeronavele; pilotul păstrează responsabilitatea de evitare.",
      "warn": ""
     },
     {
@@ -3362,7 +3362,7 @@
      "text": "în spațiul G nu este obligatorie legătura radio cu organul de trafic",
      "correct": true,
      "short": "",
-     "long": "Corect. În clasa G legătura radio cu organul de trafic nu este obligatorie pentru zborul VFR (AIP ENR 1.4).",
+     "long": "În clasa G, VFR nu cere în general comunicație radio bilaterală continuă cu ATC; asta nu înseamnă că IFR are aceleași cerințe. Clasa G permite și IFR, iar echiparea și comunicațiile cerute pentru acesta se verifică separat în AIP.",
      "warn": ""
     },
     {
@@ -3398,7 +3398,7 @@
      "text": "termenul codificat care indică o faza de alarmă",
      "correct": true,
      "short": "",
-     "long": "Corect. ALERFA este faza de alarmă, a doua din cele trei: există motive să se creadă că aeronava are probleme. Mnemonic: __„alerte”__.",
+     "long": "ALERFA este faza de alarmă, între INCERFA (incertitudine) și DETRESFA (pericol). Ea arată că există motive de îngrijorare și se declanșează serviciul de alertare; PAN PAN este un apel radio de urgență, nu numele unei faze.",
      "warn": ""
     },
     {
@@ -3484,7 +3484,7 @@
      "text": "rută ATS",
      "correct": true,
      "short": "",
-     "long": "Corect. Ruta ATS este rută definită pentru traficul aerian.",
+     "long": "Ruta ATS este un traseu stabilit pentru dirijarea traficului și poate fi definit prin repere, radiale, distanțe sau coordonate. Denumirea de rută ATS nu spune singură ce echipament ori clearance se cere; acestea se verifică în AIP și în regulile clasei de spațiu.",
      "warn": ""
     },
     {
@@ -3527,7 +3527,7 @@
      "text": "negativ transponder",
      "correct": true,
      "short": "",
-     "long": "Corect. „Negativ transponder” este formula standard prin care pilotul anunță că aeronava nu are transponder, la cererea controlorului de a afișa codul SQUAWK.",
+     "long": "„Negativ transponder” îi comunică controlorului că aeronava nu are echipamentul cerut și, prin urmare, nu poate selecta codul solicitat. Nu ghici un cod și nu pretinde că l-ai setat; controlorul trebuie să știe limitarea ca să gestioneze traficul în consecință.",
      "warn": ""
     }
    ]
@@ -3556,7 +3556,7 @@
      "text": "execută imediat ratarea aterizării",
      "correct": true,
      "short": "",
-     "long": "Corect. Go around este ratarea aterizării.",
+     "long": "„Go around” înseamnă întreruperea apropierii sau aterizării și executarea manevrei de ratare pentru a urca și a încerca din nou ori a urma instrucțiunea primită. Pilotul nu continuă o aterizare nesigură doar fiindcă a început apropierea.",
      "warn": ""
     },
     {
@@ -3592,7 +3592,7 @@
      "text": "MAYDAY",
      "correct": true,
      "short": "",
-     "long": "Corect. MAYDAY este semnalul de pericol grav și iminent.",
+     "long": "MAYDAY este semnalul vocal pentru primejdie gravă și iminentă care cere ajutor imediat; se rostește de preferință de trei ori la începutul apelului. PAN PAN indică o urgență importantă, dar fără aceeași cerință de intervenție imediată.",
      "warn": ""
     },
     {
@@ -3621,7 +3621,7 @@
      "text": "121.5 MHz",
      "correct": true,
      "short": "",
-     "long": "Corect. 121,5 MHz este frecvența internațională de urgență.",
+     "long": "121,5 MHz este canalul VHF de urgență folosit pentru mesaje autentice de primejdie și pentru scopurile de urgență prevăzute, inclusiv comunicații cu ELT. Ascultarea continuă de către aeronave este cerută în anumite zone/situații și de autoritatea competentă, nu trebuie presupusă universal.",
      "warn": ""
     },
     {
