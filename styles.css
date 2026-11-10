@@ -644,8 +644,6 @@ details.answer-more[open] > summary::before {
   color: #35c77a;
   font-weight: 800;
   cursor: pointer;
-  text-decoration: underline dotted rgba(53, 199, 122, 0.55);
-  text-underline-offset: 0.16em;
 }
 .theory-acronym::after {
   position: absolute;
