@@ -63,6 +63,26 @@ body {
   padding: 10px 16px;
 }
 
+.exam-location {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: auto;
+  flex-shrink: 0;
+  color: #fff;
+  font-weight: 600;
+}
+
+.exam-location select {
+  min-height: 38px;
+  padding: 6px 30px 6px 10px;
+  border: 1px solid rgba(255, 255, 255, 0.55);
+  border-radius: 6px;
+  background: #fff;
+  color: #1a1e1e;
+  font: inherit;
+}
+
 .brand {
   display: flex;
   flex-direction: column;

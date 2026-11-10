@@ -6,6 +6,7 @@
   var catalogReady = false;
   var routeVersion = 0;
   var assetVersion = document.currentScript && document.currentScript.getAttribute('data-version') || '';
+  var examLocation = document.getElementById('exam-location');
 
   function showStatus(message, retry) {
     var main = document.getElementById('content');
@@ -24,17 +25,22 @@
 
   function loadCatalog() {
     showStatus('Se încarcă lista capitolelor…');
-    var url = 'data/chapters.json' + (assetVersion ? '?v=' + encodeURIComponent(assetVersion) : '');
+    var url = 'data/' + examLocation.value + '/chapters.json' + (assetVersion ? '?v=' + encodeURIComponent(assetVersion) : '');
     return fetch(url).then(function (response) {
       if (!response.ok) throw new Error('Catalog HTTP ' + response.status);
       return response.json();
     }).then(function (items) {
-      if (!Array.isArray(items) || !items.length) throw new Error('Catalogul capitolelor este gol.');
+      if (!Array.isArray(items)) throw new Error('Catalog invalid pentru locul de examen.');
       chapters = items;
       byId = {};
       chapters.forEach(function (chapter) { byId[chapter.id] = chapter; });
       catalogReady = true;
-      route();
+      if (chapters.length) route();
+      else {
+        renderNav(null);
+        setCurrent('');
+        showStatus('Nu sunt încă întrebări disponibile pentru București.');
+      }
     }).catch(function (error) {
       console.error('Nu s-a putut încărca catalogul capitolelor.', error);
       showStatus('Lista capitolelor nu s-a putut încărca. Verifică conexiunea și încearcă din nou.', loadCatalog);
@@ -527,6 +533,13 @@
   setMenu(false);
 
   window.addEventListener('hashchange', route);
+  examLocation.addEventListener('change', function () {
+    chapters = [];
+    byId = {};
+    chapterCache = {};
+    catalogReady = false;
+    loadCatalog();
+  });
   loadCatalog();
 })();
 
