@@ -653,11 +653,11 @@ details.answer-more[open] > summary::before {
   width: max-content;
   max-width: min(22rem, 84vw);
   padding: 0.7rem 0.9rem;
-  border: 1px solid #49616b;
+  border: 1px solid #3b647d;
   border-left: 4px solid #35c77a;
   border-radius: 10px;
-  background: #26343b;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.48);
+  background: #102b3d;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.62);
   color: #edf3f5;
   content: attr(data-tooltip);
   font-size: 0.95rem;
