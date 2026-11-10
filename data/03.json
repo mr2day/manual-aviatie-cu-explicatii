@@ -78,7 +78,7 @@
    "number": "#3",
    "text": "335: Care este înălțimea maximă la care poate zbura o motoparapantă în spațiul aerian controlat?",
    "short": "În spațiul controlat, zborul VFR se face cu autorizare ATC, iar altitudinea se stabilește prin această autorizare.",
-   "long": "Pentru zborul VFR în zona de control de aerodrom, RACR-RA 4.020 cere autorizare ATC. RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc o înălțime maximă numerică pentru motoparapantă în spațiul controlat, deci cifra de 3000 m nu are temei în ele. Altitudinea de zbor în zona de control este cea stabilită prin autorizarea ATC.",
+   "long": "Într-un spațiu controlat, pilotul nu alege singur o altitudine maximă generală: trebuie să obțină autorizarea unității ATC și să respecte altitudinea sau limitele indicate în acea autorizare. „3000 m” nu este o limită generală stabilită pentru motoparapante; autorizarea depinde de spațiul și situația concretă. [Sursa: [RACR-RA](https://legislatie.just.ro/Public/DetaliiDocument/204634).]",
    "answers": [
     {
      "text": "1500 de metri",
@@ -88,10 +88,10 @@
      "warn": ""
     },
     {
-     "text": "3000 de metri",
+     "text": "în limita și la altitudinea autorizate de ATC",
      "correct": true,
      "short": "",
-     "long": "Această variantă este greșită: RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc 3000 m ca înălțime maximă pentru motoparapantă în spațiul controlat.",
+     "long": "Răspunsul corect este să respecți autorizarea ATC. Valoarea de 3000 m nu este o limită generală; în CTR, intrarea și zborul se fac numai cu autorizarea unității competente (RACR-RA 4.020). [Sursa: [RACR-RA](https://legislatie.just.ro/Public/DetaliiDocument/204634).]",
      "warn": "RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc 3000 m ca înălțime maximă pentru motoparapantă în spațiul controlat. În zona de control, altitudinea se stabilește prin autorizarea ATC (RACR-RA 4.020)."
     },
     {
@@ -114,13 +114,13 @@
    "number": "#4",
    "text": "323: Care este înălțimea maximă la care poate zbura o motoparapantă în spațiul aerian G?",
    "short": "În clasa G nu există o înălțime maximă de 3000 de metri stabilită de regulament pentru motoparapantă.",
-   "long": "Spațiul aerian de clasă G este necontrolat. Zborul VFR nu cere autorizare ATC, dar vizibilitatea și distanța față de nori trebuie să respecte Tabelul 3-1 din RACR-RA: sub 900 m AMSL sau sub 300 m deasupra terenului, vizibilitatea minimă este de 5 km, iar distanța față de nori de 1500 m orizontal și 300 m vertical. RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc o înălțime maximă de 3000 m pentru motoparapantă în clasa G.",
+   "long": "Clasa G este necontrolată, deci nu se cere autorizare ATC doar pentru a intra în această clasă. Asta nu înseamnă că zborul este fără condiții: pilotul respectă limitele VFR și restricțiile zonelor active, iar zborul trebuie autorizat prin plan de zbor sau notificare de trafic VFR la AACR. Reglementările nu stabilesc 3000 m ca plafon general pentru motoparapantă; altitudinea maximă se declară pentru zborul notificat. [Sursa: [RACR-RA](https://legislatie.just.ro/Public/DetaliiDocument/204634).] [Sursa: [HG nr. 859/2021, art. 23–24](https://legislatie.just.ro/Public/DetaliiDocument/256370).]",
    "answers": [
     {
-     "text": "3000 de metri",
+     "text": "nu există o limită numerică generală de 3000 m; se respectă condițiile zborului și altitudinea declarată",
      "correct": true,
      "short": "",
-     "long": "Această variantă este greșită: regulamentele nu stabilesc o înălțime maximă numerică de 3000 m pentru motoparapantă în clasa G.",
+     "long": "3000 m nu este un plafon general prevăzut pentru clasa G. Pentru un zbor VFR în întregime în clasa G, operatorul îl autorizează prin depunerea planului de zbor sau prin notificarea traficului VFR la AACR; altitudinea maximă trebuie inclusă în notificare. [Sursa: [RACR-RA](https://legislatie.just.ro/Public/DetaliiDocument/204634).] [Sursa: [HG nr. 859/2021, art. 23–24](https://legislatie.just.ro/Public/DetaliiDocument/256370).]",
      "warn": "RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc 3000 m ca înălțime maximă pentru motoparapantă în clasa G. În clasa G, zborul VFR respectă vizibilitatea și distanța față de nori din Tabelul 3-1 (RACR-RA 3.090)."
     },
     {
@@ -618,7 +618,7 @@
    "number": "#18",
    "text": "393: Care este masa maximă la decolare pentru o motoparapantă cu două locuri conform Anexei 1 – OMTCT 630, consolidat 2023?",
    "short": "Masa maximă la decolare pentru o motoparapantă avansată cu două locuri, conform RACR-CCO ULM, anexa 1, este de 450 kg.",
-   "long": "RACR-CCO ULM, anexa 1, pct. 1.2.3.1, stabilește masa maximă la decolare pentru motoparapantă: 300 kg pentru un loc și 450 kg pentru două locuri. Motoparapanta avansată cu două locuri are deci 450 kg.",
+   "long": "Anexa 1 la RACR-CCO ULM distinge după numărul de locuri: masa maximă la decolare este 300 kg pentru motoparapanta cu un loc și 450 kg pentru cea cu două locuri. MTOM este masa totală a aeronavei la decolare, nu masa sarcinii utile pe care o poate transporta. [Sursa: [Ordinul nr. 630/2007, forma consolidată](https://legislatie.just.ro/Public/DetaliiDocument/300138); [RACR-LPAN ULM](https://legislatie.just.ro/Public/FormaPrintabila/00000G2DXPPP25FN8O005XWGOTDROUDV).]",
    "answers": [
     {
      "text": "250 kg",
@@ -628,10 +628,10 @@
      "warn": ""
     },
     {
-     "text": "400 kg",
+     "text": "450 kg",
      "correct": true,
      "short": "",
-     "long": "Anexa 1 din RACR-CCO ULM (pct. 1.2.3.1) încadrează motoparapanta avansată cu două locuri la 450 kg masă maximă la decolare. Cifra de 400 kg din această variantă nu corespunde anexei.",
+     "long": "450 kg este masa maximă la decolare pentru motoparapanta cu două locuri, conform anexei 1, pct. 1.2.3.1. Nu trebuie confundată masa totală a aeronavei cu sarcina utilă disponibilă pentru pasageri și bagaje. [Sursa: [Ordinul nr. 630/2007, forma consolidată](https://legislatie.just.ro/Public/DetaliiDocument/300138); [RACR-LPAN ULM](https://legislatie.just.ro/Public/FormaPrintabila/00000G2DXPPP25FN8O005XWGOTDROUDV).]",
      "warn": "Conform RACR-CCO ULM, anexa 1, pct. 1.2.3.1, motoparapanta avansată cu două locuri are masa maximă la decolare de 450 kg, nu 400 kg."
     },
     {
@@ -1014,7 +1014,7 @@
    "number": "#29",
    "text": "376: Care este valabilitatea licenței de pilot de aeronave ultraușoare motorizate?",
    "short": "Varianta corectă indică 24 de luni de la data examinării teoretice ca valabilitate a licenței de ULM.",
-   "long": "Valabilitatea licenței de ULM este de 24 de luni de la data examinării teoretice (RACR-LPAN ULM.2025).",
+   "long": "Licența ULM este valabilă 24 de luni de la examinarea teoretică; dacă nu a existat o examinare teoretică, termenul se calculează de la înregistrarea cererii la autoritatea de certificare. Pentru exercitarea privilegiilor, certificatul medical trebuie să fie valabil, iar zborul în clase unde radiotelefonia este obligatorie cere și certificatul de operator radiotelefonist. Revalidarea nu înlungește automat documentele lipsă. [Sursa: [Ordinul nr. 630/2007, forma consolidată](https://legislatie.just.ro/Public/DetaliiDocument/300138); [RACR-LPAN ULM](https://legislatie.just.ro/Public/FormaPrintabila/00000G2DXPPP25FN8O005XWGOTDROUDV).]",
    "answers": [
     {
      "text": "24 luni de la data examinării teoretice",
@@ -1050,7 +1050,7 @@
    "number": "#30",
    "text": "349: Ce marcă de naționalitate și însemne de înmatriculare sunt atribuite României?",
    "short": "România are marca de naționalitate YR, urmată de semnele de înmatriculare.",
-   "long": "Marca de naționalitate a României, conform sistemului ICAO, este YR, urmată de semnele de înmatriculare ale aeronavei.",
+   "long": "YR este marca de naționalitate atribuită României. Ea precedă însemnele individuale de înmatriculare și arată statul în care este înmatriculată aeronava; nu este indicativul radio al zborului. [Sursa: [ICAO, Doc 8585 – mărcile de naționalitate și înmatriculare](https://www.icao.int/publications/Documents/8585/8585_en.pdf).]",
    "answers": [
     {
      "text": "litera F urmată de un grup de patru litere",
@@ -1122,7 +1122,7 @@
    "number": "#32",
    "text": "372: AACR este abrevierea pentru…",
    "short": "AACR este Autoritatea Aeronautică Civilă Română.",
-   "long": "AACR este Autoritatea Aeronautică Civilă Română, autoritatea de certificare și de reglementare a aviației civile în România (Codul aerian).",
+   "long": "AACR înseamnă Autoritatea Aeronautică Civilă Română. Este organismul tehnic specializat care aplică reglementările de aviație civilă și îndeplinește atribuții de certificare, autorizare și supraveghere. Nu trebuie confundată cu Ministerul Transporturilor, care emite cadrul normativ. [Sursa: [Codul aerian, Legea nr. 21/2020](https://legislatie.just.ro/Public/DetaliiDocument/223831).]",
    "answers": [
     {
      "text": "Asociația Aviatorilor Civili din România",
@@ -1158,7 +1158,7 @@
    "number": "#33",
    "text": "185: Când dispecerul extinde brusc brațele și barele deasupra capului, încrucișând barele, înseamnă că ne comunică:",
    "short": "Când dispecerul extinde brusc brațele și barele deasupra capului, încrucișându-le, comunică oprirea de urgență.",
-   "long": "Semnalizarea de la sol folosește gesturi standard. Brațele întinse și încrucișate deasupra capului înseamnă oprire, ceea ce pilotul trebuie să respecte imediat.",
+   "long": "Brațele ridicate și încrucișate deasupra capului sunt semnalul standard „opriți”. Dacă ești la sol, oprește imediat mișcarea aeronavei și nu începe decolarea; întrerupe manevra și așteaptă un semnal clar înainte de a continua. Nu interpreta gestul ca pe un semnal de accelerare sau de frânare în zbor.",
    "answers": [
     {
      "text": "să aplicăm frânele",
@@ -1194,7 +1194,7 @@
    "number": "#34",
    "text": "348: Care sunt cerințele pentru eliberarea unei licențe de pilot de aeronave ultraușoare motorizate?",
    "short": "Pentru licența de ULM vârsta minimă corectă este de 16 ani împliniți.",
-   "long": "Vârsta minimă pentru licența de ULM este de 16 ani împliniți (RACR-LPAN ULM.2040 lit. a).",
+   "long": "Întrebarea vizează vârsta minimă: solicitantul trebuie să fi împlinit 16 ani. Vârsta singură nu este suficientă pentru licență; sunt necesare și pregătirea pentru clasa respectivă, examenele teoretic și practic și aptitudinea medicală prevăzută de RACR-LPAN ULM. Instructorul și autoritatea verifică separat fiecare condiție. [Sursa: [Ordinul nr. 630/2007, forma consolidată](https://legislatie.just.ro/Public/DetaliiDocument/300138); [RACR-LPAN ULM](https://legislatie.just.ro/Public/FormaPrintabila/00000G2DXPPP25FN8O005XWGOTDROUDV).]",
    "answers": [
     {
      "text": "să aibă vârsta de 18 ani împliniți",
@@ -1374,7 +1374,7 @@
    "number": "#39",
    "text": "378: Cine poate organiza examinarea teoretică pentru obținerea licenței de pilot de aeronave ultraușoare motorizate?",
    "short": "Examinarea teoretică pentru licența de ULM poate fi organizată de un examinator autorizat.",
-   "long": "Examinarea teoretică pentru licența de ULM este organizată de un examinator autorizat (RACR-LPAN ULM.2045 și Capitolul 2, V).",
+   "long": "Examenul teoretic se desfășoară în fața unui examinator autorizat, care verifică pregătirea candidatului conform disciplinelor și baremului din RACR-LPAN ULM. Instructorul pregătește elevul și documentează pregătirea, dar nu preia automat rolul examinatorului. [Sursa: [Ordinul nr. 630/2007, forma consolidată](https://legislatie.just.ro/Public/DetaliiDocument/300138); [RACR-LPAN ULM](https://legislatie.just.ro/Public/FormaPrintabila/00000G2DXPPP25FN8O005XWGOTDROUDV).]",
    "answers": [
     {
      "text": "operatorul aerian",
@@ -1482,7 +1482,7 @@
    "number": "#42",
    "text": "347: Ce document trebuie prezentat pentru recunoașterea experienței de zbor?",
    "short": "Pentru recunoașterea experienței de zbor se prezintă carnetul de zbor pentru personal navigant.",
-   "long": "Experiența de zbor se dovedește prin carnetul de zbor, în care instructorii și examinatorii înscriu activitatea (RACR-LPAN ULM.4020).",
+   "long": "Carnetul de zbor este evidența experienței pilotului: în el se înscriu data, aeronava, durata și natura zborului, iar instructorul sau examinatorul certifică activitățile relevante. Nu îl confunda cu livretul aeronavei, care păstrează istoricul acelei aeronave, inclusiv zborurile și întreținerea. [Sursa: [Ordinul nr. 630/2007, forma consolidată](https://legislatie.just.ro/Public/DetaliiDocument/300138); [RACR-LPAN ULM](https://legislatie.just.ro/Public/FormaPrintabila/00000G2DXPPP25FN8O005XWGOTDROUDV).]",
    "answers": [
     {
      "text": "certificat medical",
@@ -1554,7 +1554,7 @@
    "number": "#44",
    "text": "357: Ce responsabilitate revine pilotului comandant în cazul zborurilor VFR?",
    "short": "În zborul VFR, pilotul comandant are responsabilitatea evitării coliziunilor cu alte aeronave și cu obstacolele de la sol.",
-   "long": "Pilotul comandant răspunde de evitarea coliziunilor, cu ochii pe spațiul aerian și pe obstacole, în zborul la vedere (regulile VFR din RACR-RA).",
+   "long": "În zbor VFR, pilotul comandant menține veghea vizuală și evită coliziunile cu alte aeronave, terenul și obstacolele. VFR înseamnă că pilotul se bazează pe referințe vizuale; o autorizare sau informare ATC nu îl scutește de obligația de a opera în siguranță și de a respecta regulile de prioritate. [Sursa: [RACR-RA](https://legislatie.just.ro/Public/DetaliiDocument/204634).]",
    "answers": [
     {
      "text": "responsabilitatea coordonării traficului aerian",
@@ -1590,7 +1590,7 @@
    "number": "#45",
    "text": "351: Care este valabilitatea licenței de pilot de aeronave ultraușoare motorizate?",
    "short": "Varianta corectă indică 24 de luni de la data examinării teoretice ca valabilitate a licenței de ULM.",
-   "long": "Licența de ULM are valabilitate de 24 de luni de la examinarea teoretică, cu condiția ca certificatul medical să fie valabil (RACR-LPAN ULM.2025).",
+   "long": "Termenul obișnuit este de 24 de luni de la examinarea teoretică (sau de la înregistrarea cererii dacă nu s-a susținut acea examinare). Pentru a zbura, certificatul medical trebuie să fie în termen; în spațiile unde radioul este obligatoriu, este necesar și certificatul de operator radiotelefonist. [Sursa: [Ordinul nr. 630/2007, forma consolidată](https://legislatie.just.ro/Public/DetaliiDocument/300138); [RACR-LPAN ULM](https://legislatie.just.ro/Public/FormaPrintabila/00000G2DXPPP25FN8O005XWGOTDROUDV).]",
    "answers": [
     {
      "text": "24 luni de la data examinării teoretice",
@@ -1662,7 +1662,7 @@
    "number": "#47",
    "text": "338: Ce document trebuie prezentat pentru planul de zbor VFR cu motoparapanta?",
    "short": "Pentru planul de zbor VFR cu motoparapanta se prezintă planul de zbor aprobat.",
-   "long": "Pentru zborul VFR cu motoparapanta, planul de zbor nu este cerut, în general (RACR-RA 3.030 pct. 1.2). Planul este necesar doar în cazurile enumerate, de exemplu zborul IFR în spațiul consultativ sau zborul peste granițe.",
+   "long": "Planul de zbor comunică ATS ruta, orele, nivelul și celelalte date necesare coordonării zborului. Pentru un zbor VFR desfășurat integral în clasa G din România, planul este una dintre modalitățile de autorizare; operatorul poate alege în schimb notificarea de trafic VFR la AACR. În alte situații se aplică regulile care stabilesc când planul este obligatoriu. [Sursa: [HG nr. 859/2021, art. 23–24](https://legislatie.just.ro/Public/DetaliiDocument/256370).] [Sursa: [RACR-RA](https://legislatie.just.ro/Public/DetaliiDocument/204634).]",
    "answers": [
     {
      "text": "certificatul medical",
@@ -1734,7 +1734,7 @@
    "number": "#49",
    "text": "324: Care sunt condițiile pentru recunoașterea licențelor străine de pilot de motoparapantă în România?",
    "short": "Licențele străine de pilot de motoparapantă se recunosc în România dacă sunt echivalate de Autoritatea Aeronautică Civilă Română.",
-   "long": "Licența străină de motoparapantă este recunoscută de AACR, care verifică echivalarea și emite certificatul de recunoaștere (RACR-LPAN ULM.2020 și ULM.2175).",
+   "long": "O licență emisă în alt stat nu devine automat utilizabilă în România. Autoritatea de certificare verifică licența, calificările și valabilitatea lor, apoi emite certificatul de recunoaștere. Există o excepție pentru zborul într-un cadru organizat sub controlul unui examinator sau inspector autorizat; aceasta nu este o permisiune generală de zbor fără recunoaștere. [Sursa: [Ordinul nr. 630/2007, forma consolidată](https://legislatie.just.ro/Public/DetaliiDocument/300138); [RACR-LPAN ULM](https://legislatie.just.ro/Public/FormaPrintabila/00000G2DXPPP25FN8O005XWGOTDROUDV).]",
    "answers": [
     {
      "text": "să fie obținute în ultimii 5 ani",
@@ -1770,7 +1770,7 @@
    "number": "#50",
    "text": "371: În condiții meteorologice de zbor la vedere, într-o regiune de informare a zborurilor, un pilot de aeronavă ultraușoară motorizată, vede în fața lui la aproximativ același nivel o altă aeronavă care se îndreaptă direct spre el. Ce manevră trebuie să execute pilotul pentru a evita abordajul cu cealaltă aeronavă ?",
    "short": "În fața ta, o altă aeronavă vine direct spre tine, la același nivel: virează la dreapta.",
-   "long": "La apropiere frontală la aceeași altitudine, ambele aeronave virează la dreapta (regulile de trecere din RACR-RA, secțiunea 2). Virajul la dreapta evită coliziunea.",
+   "long": "Când două aeronave se apropie frontal sau aproape frontal și există risc de coliziune, fiecare virează la dreapta pentru a trece una pe lângă cealaltă. Regula diferă de convergență: atunci cedează aeronava care o are pe cealaltă în dreapta. După evitarea pericolului, piloții continuă să urmărească traficul și să păstreze separarea. [Sursa: [RACR-RA](https://legislatie.just.ro/Public/DetaliiDocument/204634).]",
    "answers": [
     {
      "text": "Viraj la stânga",
@@ -1914,7 +1914,7 @@
    "number": "#54",
    "text": "339: Ce trebuie să facă un pilot pentru a opera un zbor acrobatic cu motoparapanta?",
    "short": "Pentru zborul acrobatic, pilotul trebuie să obțină autorizație specială de la AACR.",
-   "long": "Pentru zborul acrobatic, pilotul trebuie să obțină o autorizație specială de la AACR, în condițiile stabilite de aceasta (RACR-RA, pct. 7).",
+   "long": "Zborul acrobatic nu este permis doar pentru că pilotul are experiență sau echipament adecvat: este necesară autorizația specială prevăzută de RACR-RA și respectarea condițiilor impuse pentru activitate, zonă și aeronava folosită. Motoparapanta trebuie să fie admisă pentru manevrele respective, iar pilotul trebuie să aibă pregătirea necesară. Verifică cerințele AACR înainte de zbor. [Sursa: [RACR-RA](https://legislatie.just.ro/Public/DetaliiDocument/204634).]",
    "answers": [
     {
      "text": "să fie echipat cu parașută",
@@ -1950,7 +1950,7 @@
    "number": "#55",
    "text": "390: Cine este responsabil de întocmirea și semnarea fișei de pregătire practică la sol și în zbor?",
    "short": "Pilotul instructor întocmește și semnează fișa de pregătire practică la sol și în zbor.",
-   "long": "Fișa de pregătire practică la sol și în zbor este completată și semnată de pilotul instructor care a efectuat pregătirea (RACR-LPAN ULM, Anexa 4 și ULM.2045).",
+   "long": "Instructorul care a condus pregătirea completează și semnează fișa practică la sol și în zbor. Fișa documentează instruirea și progresul elevului; semnătura certifică pregătirea, nu ține locul examenului practic și nici al licenței emise de autoritate. [Sursa: [Ordinul nr. 630/2007, forma consolidată](https://legislatie.just.ro/Public/DetaliiDocument/300138); [RACR-LPAN ULM](https://legislatie.just.ro/Public/FormaPrintabila/00000G2DXPPP25FN8O005XWGOTDROUDV).]",
    "answers": [
     {
      "text": "pilotul instructor",
@@ -2094,7 +2094,7 @@
    "number": "#59",
    "text": "197: Revalidarea este:",
    "short": "Revalidarea este un procedeu administrativ efectuat în interiorul perioadei de valabilitate a unei calificări sau autorizații.",
-   "long": "Revalidarea este un procedeu administrativ efectuat în interiorul perioadei de valabilitate a licenței sau calificării (RACR-LPAN ULM, definiția revalidării).",
+   "long": "Revalidarea prelungește valabilitatea unei licențe sau calificări înainte ca aceasta să expire, după îndeplinirea condițiilor de experiență, pregătire și verificare aplicabile. Dacă documentul a expirat, procedura este reînnoirea, care poate avea alte cerințe. Data expirării stabilește ce procedură trebuie urmată. [Sursa: [Ordinul nr. 630/2007, forma consolidată](https://legislatie.just.ro/Public/DetaliiDocument/300138); [RACR-LPAN ULM](https://legislatie.just.ro/Public/FormaPrintabila/00000G2DXPPP25FN8O005XWGOTDROUDV).]",
    "answers": [
     {
      "text": "un procedeu administrativ efectuat în interiorul perioadei de valabilitate a unei calificări sau autorizații;",
@@ -2238,7 +2238,7 @@
    "number": "#63",
    "text": "331: Care este înălțimea maximă de zbor în spațiul aerian G?",
    "short": "În clasa G, zborul VFR respectă vizibilitatea și distanța față de nori din Tabelul 3-1: 5 km vizibilitate sub 900 m AMSL sau 300 m deasupra terenului.",
-   "long": "În clasa G, spațiul este necontrolat. RACR-RA, Tabelul 3-1, cere 5 km vizibilitate sub 900 m AMSL sau 300 m deasupra terenului și 1500 m orizontal, 300 m vertical față de nori. RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc o înălțime maximă de 3000 m pentru motoparapantă în clasa G.",
+   "long": "În clasa G nu există un plafon general de 3000 m stabilit pentru motoparapante. Operatorul trebuie să autorizeze zborul VFR executat integral în clasa G prin plan de zbor sau notificare de trafic VFR la AACR; pentru notificare se declară altitudinea maximă. Separat, pilotul trebuie să rămână în limitele VMC și ale spațiului aerian, inclusiv ale zonelor restricționate sau temporar active. [Sursa: [RACR-RA](https://legislatie.just.ro/Public/DetaliiDocument/204634).] [Sursa: [HG nr. 859/2021, art. 23–24](https://legislatie.just.ro/Public/DetaliiDocument/256370).]",
    "answers": [
     {
      "text": "4000 de metri",
@@ -2262,10 +2262,10 @@
      "warn": ""
     },
     {
-     "text": "3000 de metri",
+     "text": "nu există o limită numerică generală de 3000 m; se respectă altitudinea declarată și restricțiile",
      "correct": true,
      "short": "",
-     "long": "Această variantă este greșită: RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc 3000 m ca înălțime maximă de zbor pentru motoparapantă în clasa G.",
+     "long": "3000 m nu este un plafon general prevăzut pentru clasa G. Pentru zborul VFR în întregime în clasa G, operatorul depune plan de zbor sau notifică traficul VFR la AACR și declară altitudinea maximă. [Sursa: [HG nr. 859/2021, art. 23–24](https://legislatie.just.ro/Public/DetaliiDocument/256370).]",
      "warn": "RACR-RA, RACR-LPAN ULM și Codul aerian nu stabilesc 3000 m ca înălțime maximă pentru motoparapantă în clasa G. În clasa G, zborul VFR respectă vizibilitatea și distanța față de nori din Tabelul 3-1 (RACR-RA 3.090)."
     }
    ]
@@ -2346,7 +2346,7 @@
    "number": "#66",
    "text": "391: Care este masa maximă la decolare pentru o motoparapantă cu un singur loc conform Anexei 1 – OMTCT 630, consolidat 2023?",
    "short": "Masa maximă la decolare pentru o motoparapantă avansată cu un singur loc, conform RACR-CCO ULM, anexa 1, este de 300 kg.",
-   "long": "Masa maximă la decolare pentru motoparapanta cu un singur loc este 300 kg (RACR-CCO ULM, anexa 1, pct. 1.2.3.1). Cifra de 250 kg nu apare în acest punct.",
+   "long": "Masa maximă la decolare pentru motoparapanta cu un loc este 300 kg, conform anexei 1, pct. 1.2.3.1 din RACR-CCO ULM. Aceasta este masa totală a aeronavei la decolare, cu pilot, combustibil și echipament; nu reprezintă masa pilotului sau sarcina utilă. Varianta bifată anterior indica 250 kg, deși feedbackul ei preciza 300 kg. [Sursa: [Ordinul nr. 630/2007, forma consolidată](https://legislatie.just.ro/Public/DetaliiDocument/300138); [RACR-LPAN ULM](https://legislatie.just.ro/Public/FormaPrintabila/00000G2DXPPP25FN8O005XWGOTDROUDV).]",
    "answers": [
     {
      "text": "150 kg",
@@ -2370,10 +2370,10 @@
      "warn": ""
     },
     {
-     "text": "250 kg",
+     "text": "300 kg",
      "correct": true,
      "short": "",
-     "long": "Anexa 1 din RACR-CCO ULM (pct. 1.2.3.1) încadrează motoparapanta avansată cu un singur loc la 300 kg masă maximă la decolare. Cifra de 250 kg din această variantă nu corespunde anexei.",
+   "long": "300 kg este masa maximă la decolare pentru motoparapanta cu un loc, conform anexei 1, pct. 1.2.3.1. Aceasta este masa aeronavei la decolare, nu sarcina utilă. [Sursa: [Ordinul nr. 630/2007, forma consolidată](https://legislatie.just.ro/Public/DetaliiDocument/300138); [RACR-LPAN ULM](https://legislatie.just.ro/Public/FormaPrintabila/00000G2DXPPP25FN8O005XWGOTDROUDV).]",
      "warn": "Conform RACR-CCO ULM, anexa 1, pct. 1.2.3.1, motoparapanta avansată cu un singur loc are masa maximă la decolare de 300 kg, nu 250 kg."
     }
    ]
@@ -2382,13 +2382,13 @@
    "number": "#67",
    "text": "342: Ce trebuie să facă un pilot pentru a zbura în spațiul aerian necontrolat?",
    "short": "Pentru a zbura în spațiul aerian necontrolat, pilotul respectă reglementările specifice acestui spațiu.",
-   "long": "Spațiul aerian necontrolat (clasa G) are reguli proprii pe care pilotul trebuie să le respecte. Nu cere plan de zbor sau comunicare cu turnul (RACR-RA, clasa G).",
+   "long": "Clasa G nu are serviciu de control ATC, dar zborul VFR nu înseamnă lipsa formalităților sau a regulilor. În România, zborul VFR executat în întregime în clasa G se autorizează prin depunerea unui plan de zbor la o unitate ATS sau, la alegerea operatorului, prin notificare de trafic VFR la AACR. Pilotul verifică în continuare restricțiile și condițiile VMC aplicabile. [Sursa: [HG nr. 859/2021, art. 23–24](https://legislatie.just.ro/Public/DetaliiDocument/256370).]",
    "answers": [
     {
-     "text": "să depună un plan de zbor",
+     "text": "să obțină autorizare ATC pentru orice zbor în clasa G",
      "correct": false,
      "short": "",
-     "long": "Planul de zbor nu este cerința generală pentru spațiul necontrolat VFR.",
+     "long": "Clasa G este necontrolată, deci nu se cere autorizare ATC doar pentru intrarea în această clasă. Totuși, zborul VFR se autorizează prin plan de zbor sau notificare de trafic VFR la AACR. [Sursa: [HG nr. 859/2021, art. 23–24](https://legislatie.just.ro/Public/DetaliiDocument/256370).]",
      "warn": ""
     },
     {
@@ -2406,10 +2406,10 @@
      "warn": ""
     },
     {
-     "text": "să respecte reglementările specifice spațiului aerian necontrolat",
+     "text": "să depună plan de zbor sau să notifice traficul VFR la AACR, respectând restul regulilor",
      "correct": true,
      "short": "",
-     "long": "Corect. Pilotul respectă regulile specifice spațiului necontrolat.",
+     "long": "Pentru zborul VFR integral în clasa G, depunerea planului de zbor sau notificarea traficului VFR la AACR este una dintre condițiile de autorizare. Rămân aplicabile și regulile VMC, restricțiile spațiului aerian și celelalte cerințe pentru pilot și aeronavă. [Sursa: [HG nr. 859/2021, art. 23–24](https://legislatie.just.ro/Public/DetaliiDocument/256370).]",
      "warn": ""
     }
    ]
@@ -2634,7 +2634,7 @@
    "number": "#74",
    "text": "388: Ce indică un H alb dispus în zona de aterizare pe un aerodrom?",
    "short": "Un H alb în zona de aterizare marchează zona rezervată elicopterelor.",
-   "long": "Literele și semnele de pe aerodrom indică zone pentru categorii de aeronave. Litera H este semnul zonei rezervate elicopterelor.",
+   "long": "H alb este marcajul convențional al unei zone destinate elicopterelor. Marcajele ajută pilotul să recunoască de la distanță zona de aterizare: H pentru elicoptere, L pentru aeronave ușoare, iar crucea dublă pentru planoare. Înainte de folosire, verifică și semnalizarea și procedurile aerodromului.",
    "answers": [
     {
      "text": "zona de parcare pentru aeronave",
@@ -2706,7 +2706,7 @@
    "number": "#76",
    "text": "330: Cum se poate zbura în interiorul spațiului aerian controlat CTR?",
    "short": "Zborul în interiorul CTR se face cu autorizație de la controlul traficului aerian.",
-   "long": "Zborul în CTR (zona de control) se face cu autorizație ATC. Spațiul controlat cere coordonare cu unitatea de control al traficului aerian (RACR-RA 2.4.3 și 4.020).",
+   "long": "CTR este spațiul controlat care se extinde de la suprafață în jurul unui aerodrom. Pentru a intra, pilotul solicită și primește autorizarea ATC înainte de pătrundere, menține legătura radio bilaterală și respectă instrucțiunile și limitele autorizării. Simplul apel radio sau notificarea aeroportului nu reprezintă autorizare de intrare. [Sursa: [RACR-RA](https://legislatie.just.ro/Public/DetaliiDocument/204634).]",
    "answers": [
     {
      "text": "cu autorizație de la controlul traficului aerian",
@@ -2742,7 +2742,7 @@
    "number": "#77",
    "text": "385: Care este termenul de valabilitate al certificatului de recunoaștere pentru licența de pilot de aeronave ultrausoare motorizate emisă de o autoritate competentă dintr-un alt stat?",
    "short": "Certificatul de recunoaștere pentru o licență străină nu depășește termenul de valabilitate al licenței de bază.",
-   "long": "Certificatul de recunoaștere nu poate depăși valabilitatea licenței de bază (RACR-LPAN ULM.2180).",
+   "long": "Certificatul românesc de recunoaștere nu poate rămâne valabil mai mult decât licența străină pe care o recunoaște. Dacă licența de bază expiră sau își pierde valabilitatea, certificatul de recunoaștere nu extinde privilegiile ei; titularul trebuie să păstreze documentele și condițiile medicale aplicabile în termen. [Sursa: [Ordinul nr. 630/2007, forma consolidată](https://legislatie.just.ro/Public/DetaliiDocument/300138); [RACR-LPAN ULM](https://legislatie.just.ro/Public/FormaPrintabila/00000G2DXPPP25FN8O005XWGOTDROUDV).]",
    "answers": [
     {
      "text": "nu trebuie să depășească 24 luni",
@@ -2994,7 +2994,7 @@
    "number": "#84",
    "text": "184: Zborurile VFR ziua se execută:",
    "short": "Zborurile VFR ziua se execută între răsăritul și apusul soarelui.",
-   "long": "Zborul VFR de zi se face între răsărit și apus. Zborul VFR care are loc între apus și răsărit are reguli speciale (RACR-RA 4.030).",
+   "long": "În sensul regulilor de zbor, ziua este perioada dintre răsăritul și apusul soarelui. Zborul VFR după apus sau înainte de răsărit intră în regimul de noapte și poate cere condiții suplimentare de echipare, calificare și autorizare. Faptul că pilotul încă vede terenul nu schimbă definiția legală a perioadei de zi. [Sursa: [RACR-RA](https://legislatie.just.ro/Public/DetaliiDocument/204634).]",
    "answers": [
     {
      "text": "începând cu 30 minute înainte de răsăritul soarelui și terminând cu 30 minute după apusul soarelui",
@@ -3030,7 +3030,7 @@
    "number": "#85",
    "text": "344: Ce trebuie să facă un pilot pentru a zbura deasupra teritoriului altui stat?",
    "short": "Pentru a zbura deasupra teritoriului altui stat, pilotul trebuie să obțină autorizația corespunzătoare din partea statului respectiv.",
-   "long": "Zborul peste teritoriul altui stat cere autorizația statului respectiv, conform legislației statului sub care se zboară.",
+   "long": "Un stat își exercită suveranitatea asupra spațiului aerian de deasupra teritoriului său, astfel că pilotul respectă procedurile și autorizațiile cerute de acel stat. Pentru trecerea unei frontiere este necesar și planul de zbor conform regulilor aplicabile; planul nu înlocuiește o autorizație cerută separat. [Sursa: [RACR-RA](https://legislatie.just.ro/Public/DetaliiDocument/204634).]",
    "answers": [
     {
      "text": "să comunice cu turnul de control",
@@ -3066,7 +3066,7 @@
    "number": "#86",
    "text": "332: Ce presupune zborul în formație?",
    "short": "Zborul în formație înseamnă zborul a două sau mai multe aeronave la o distanță minimă una de cealaltă.",
-   "long": "Zborul în formație înseamnă zborul a două sau mai multor aeronave, menținând între ele o distanță de siguranță, sub conducerea unui comandant de formație.",
+   "long": "Zborul în formație presupune aeronave care zboară coordonat ca un grup, cu un lider desemnat și roluri stabilite înainte de plecare. Piloții convin asupra manevrelor și păstrează separarea necesară pentru a evita coliziunea; simplul fapt că zboară la aceeași altitudine sau au un plan de zbor comun nu formează, de unul singur, o formație. [Sursa: [RACR-RA](https://legislatie.just.ro/Public/DetaliiDocument/204634).]",
    "answers": [
     {
      "text": "zborul în aceleași condiții meteorologice",
@@ -3102,7 +3102,7 @@
    "number": "#87",
    "text": "181: În spațiul de clasă G, ce obligație legală avem înainte de decolare:",
    "short": "În spațiul de clasa G, înainte de decolare avem obligația legală să depunem plan de zbor.",
-   "long": "În clasa G, zborul VFR nu cere, de regulă, plan de zbor. RACR-RA 3.030 pct. 1.2 cere plan de zbor doar în cazurile enumerate: zborul IFR în spațiul consultativ, zborul în zone desemnate la cererea ATS, zborul peste granițe sau când se cere serviciu ATC.",
+   "long": "Înaintea unui zbor VFR desfășurat integral în clasa G, operatorul alege una dintre cele două căi de autorizare: depune plan de zbor la o unitate de trafic aerian civilă sau notifică traficul VFR la AACR. Nu este necesară autorizarea ATC pentru clasa G, dar asta nu înseamnă că zborul se face fără notificare și fără respectarea restricțiilor aplicabile. [Sursa: [HG nr. 859/2021, art. 23–24](https://legislatie.just.ro/Public/DetaliiDocument/256370).]",
    "answers": [
     {
      "text": "să anunțăm zborul la COAP",
@@ -3112,10 +3112,10 @@
      "warn": ""
     },
     {
-     "text": "să depunem plan de zbor",
+     "text": "să depunem plan de zbor sau să notificăm traficul VFR la AACR",
      "correct": true,
      "short": "",
-     "long": "Planul de zbor nu este obligatoriu pentru zborul VFR în clasa G, în afara cazurilor din RACR-RA 3.030 pct. 1.2.",
+     "long": "În clasa G nu se cere autorizare ATC pentru intrare, dar zborul VFR în România se autorizează prin depunerea planului de zbor sau prin notificarea traficului VFR la AACR. Notificarea trebuie să conțină datele cerute, inclusiv zona sau traiectul și altitudinea maximă. [Sursa: [HG nr. 859/2021, art. 23–24](https://legislatie.just.ro/Public/DetaliiDocument/256370).]",
      "warn": "În clasa G, zborul VFR nu cere, de regulă, plan de zbor. RACR-RA 3.030 pct. 1.2 cere plan doar pentru zborul IFR în spațiul consultativ, zborul în zone desemnate la cererea ATS, zborul peste granițe sau când se cere serviciu ATC."
     },
     {
@@ -3174,7 +3174,7 @@
    "number": "#89",
    "text": "169: Pentru obținerea licenței de pilot de aeronave ultraușoare motorizate solicitantul trebuie să aibă vârsta de cel puțin:",
    "short": "Pentru licența de ULM, solicitantul trebuie să aibă cel puțin 16 ani împliniți.",
-   "long": "Vârsta minimă pentru licența de ULM este 16 ani împliniți (RACR-LPAN ULM.2040 lit. a).",
+   "long": "Vârsta minimă pentru licența de pilot ULM este 16 ani împliniți. Este doar pragul de vârstă: solicitantul trebuie să îndeplinească și condițiile de pregătire, examinare și aptitudine medicală. Privilegii precum instruirea sau zborul cu pasager pot avea cerințe suplimentare. [Sursa: [Ordinul nr. 630/2007, forma consolidată](https://legislatie.just.ro/Public/DetaliiDocument/300138); [RACR-LPAN ULM](https://legislatie.just.ro/Public/FormaPrintabila/00000G2DXPPP25FN8O005XWGOTDROUDV).]",
    "answers": [
     {
      "text": "14 ani împliniți",
@@ -3210,7 +3210,7 @@
    "number": "#90",
    "text": "387: Ce semnifică o cruce dublă albă dispusă în zona de aterizare pe un aerodrom?",
    "short": "O cruce dublă albă în zona de aterizare marchează zona rezervată planoarelor.",
-   "long": "Marcajele de sol: cruce dublă pentru planoare, L pentru aeronave ușoare, H pentru elicoptere. Parapantele motorizate și parcarea nu au această cruce.",
+   "long": "Crucea dublă albă indică o zonă rezervată planoarelor. Marcajele de sol previn folosirea unei suprafețe de către categoria greșită de aeronavă: H este pentru elicoptere, L pentru aeronave ușoare, iar crucea dublă pentru planoare. Verifică publicația aeronautică și instrucțiunile aerodromului înainte de utilizare.",
    "answers": [
     {
      "text": "zona rezervată decolării/aterizării parapantelor motorizate",
@@ -3246,7 +3246,7 @@
    "number": "#91",
    "text": "336: Care sunt cerințele pentru recunoașterea licențelor străine de pilot de motoparapantă în România?",
    "short": "Licențele străine de pilot de motoparapantă trebuie să fie echivalate de Autoritatea Aeronautică Civilă Română.",
-   "long": "Licențele străine de motoparapantă sunt recunoscute de AACR, care le echivalează dacă sunt îndeplinite condițiile (RACR-LPAN ULM.2175).",
+   "long": "Pentru a folosi în România o licență ULM emisă în alt stat, pilotul are nevoie, de regulă, de recunoașterea emisă de autoritatea de certificare după verificarea licenței, calificărilor și valabilității. Recunoașterea nu este limitată la licențe UE; regulamentul prevede o excepție restrânsă pentru zboruri organizate sub controlul unui examinator sau inspector autorizat. [Sursa: [Ordinul nr. 630/2007, forma consolidată](https://legislatie.just.ro/Public/DetaliiDocument/300138); [RACR-LPAN ULM](https://legislatie.just.ro/Public/FormaPrintabila/00000G2DXPPP25FN8O005XWGOTDROUDV).]",
    "answers": [
     {
      "text": "să fie echivalate de Autoritatea Aeronautică Civilă Română",
@@ -3282,7 +3282,7 @@
    "number": "#92",
    "text": "346: Ce trebuie să facă un pilot pentru a opera un zbor VFR între apusul și răsăritul soarelui?",
    "short": "Pentru zborul VFR între apusul și răsăritul soarelui trebuie respectate condițiile specificate de reglementările în vigoare.",
-   "long": "Zborul VFR între apus și răsărit se face respectând condițiile din reglementările în vigoare (RACR-RA 4.030).",
+   "long": "RACR-RA distinge între VFR de zi și VFR de noapte, iar zborul între apus și răsărit poate fi efectuat numai dacă sunt îndeplinite condițiile din reglementările aplicabile. Verifică concret dacă pilotul, aeronava, echiparea, spațiul aerian și autorizările permit zborul de noapte; simpla vizibilitate la sol nu este suficientă. [Sursa: [RACR-RA](https://legislatie.just.ro/Public/DetaliiDocument/204634).]",
    "answers": [
     {
      "text": "să respecte condițiile specificate de reglementările în vigoare",
@@ -3318,7 +3318,7 @@
    "number": "#93",
    "text": "178: Este obligatorie legătura radio în spațiul aerian de clasă C?",
    "short": "Legătura radio este obligatorie în spațiul aerian de clasa C.",
-   "long": "În clasa C toate zborurile sunt sub control ATC și legătura radio bilaterală este obligatorie (AIP ENR 1.4, clasa C).",
+   "long": "În clasa C, ATC furnizează serviciu de control, iar piloții trebuie să stabilească și să mențină comunicație radio bilaterală cu unitatea competentă. Transponderul nu înlocuiește radioul. Înainte de intrare, obține autorizarea și ascultă frecvența publicată în AIP. [Sursa: [AIP România, ENR 1.4](https://aisro.ro/aip/2026-10-01/html/ro/aip_toc_enr.html).]",
    "answers": [
     {
      "text": "doar la solicitarea unității de trafic aerian",
@@ -3354,7 +3354,7 @@
    "number": "#94",
    "text": "354: „Care este scopul principal al Organizatiei Aviatiei Civile Internationale (OACI)?",
    "short": "Scopul principal al OACI este asigurarea dezvoltării ordonate și sigure a aviației civile internaționale.",
-   "long": "OACI (Organizația Aviației Civile Internaționale) are rolul de a asigura dezvoltarea ordonată și sigură a aviației civile internaționale.",
+   "long": "OACI (ICAO) este agenția specializată a ONU care coordonează cooperarea dintre state în aviația civilă internațională. Ea elaborează standarde și practici recomandate pentru a sprijini siguranța, securitatea, eficiența și dezvoltarea ordonată a aviației; statele le pun în aplicare prin legislația și procedurile naționale.",
    "answers": [
     {
      "text": "sa dezvolte transportul aerian privat",
@@ -3390,7 +3390,7 @@
    "number": "#95",
    "text": "182: Zborurile VFR se pot efectua în România:",
    "short": "Zborurile VFR se pot efectua în România în spațiile aeriene de clasă C și G.",
-   "long": "Zborurile VFR sunt permise în clasele C și G (AIP ENR 1.4). În clasa A nu sunt permise (RACR-RA, Tabelul 3-1, nota ***).",
+   "long": "În România, VFR este permis în clasele C și G, cu respectarea condițiilor fiecărei clase: clasa C cere autorizare ATC și comunicație radio bilaterală, iar clasa G este necontrolată, dar zborurile VFR în România se autorizează prin plan de zbor sau notificare de trafic VFR la AACR. Clasa A este rezervată zborurilor IFR, deci VFR nu este permis acolo. [Surse: [AIP România, ENR 1.4](https://aisro.ro/aip/2026-10-01/html/ro/aip_toc_enr.html); [HG nr. 859/2021, art. 23–24](https://legislatie.just.ro/Public/DetaliiDocument/256370).]",
    "answers": [
     {
      "text": "numai în spațiul aerian de clasă G",
@@ -3426,7 +3426,7 @@
    "number": "#96",
    "text": "183: Dreptul de a instrui în zbor îl au:",
    "short": "Dreptul de a instrui în zbor îl au instructorii calificați.",
-   "long": "Dreptul de a instrui în zbor îl au instructorii calificați pe clasa respectivă (RACR-LPAN ULM.2045, calificarea de instructor).",
+   "long": "Dreptul de a instrui în zbor aparține unui pilot cu calificare de instructor valabilă pentru clasa relevantă. Experiența sau deținerea unei aeronave nu acordă automat acest privilegiu: instructorul trebuie să respecte limitele calificării și ale programului de pregătire. [Sursa: [Ordinul nr. 630/2007, forma consolidată](https://legislatie.just.ro/Public/DetaliiDocument/300138); [RACR-LPAN ULM](https://legislatie.just.ro/Public/FormaPrintabila/00000G2DXPPP25FN8O005XWGOTDROUDV).]",
    "answers": [
     {
      "text": "pilotii care stiu să instruiască",
@@ -3462,7 +3462,7 @@
    "number": "#97",
    "text": "171: Valabilitatea licenței de pilot de aeronave ultraușoare motorizate este de:",
    "short": "Varianta corectă indică 24 de luni de la examinarea teoretică, cu condiția ca certificatul medical să fie în termen de valabilitate.",
-   "long": "Licența de ULM are valabilitate de 24 de luni de la examinarea teoretică (RACR-LPAN ULM.2025), iar certificatul medical trebuie să fie în termen de valabilitate.",
+   "long": "Licența ULM are termen de 24 de luni de la examinarea teoretică sau, dacă aceasta nu a avut loc, de la înregistrarea cererii. Pentru a zbura, titularul păstrează valabil certificatul medical și, în clasele unde radio este obligatoriu, certificatul de operator radiotelefonist. Aceste condiții sunt separate de data de expirare a licenței. [Sursa: [Ordinul nr. 630/2007, forma consolidată](https://legislatie.just.ro/Public/DetaliiDocument/300138); [RACR-LPAN ULM](https://legislatie.just.ro/Public/FormaPrintabila/00000G2DXPPP25FN8O005XWGOTDROUDV).]",
    "answers": [
     {
      "text": "24 de luni de la data examinării teoretice cu condiția ca certificatul medical să fie în termen de valabilitate",
@@ -3534,7 +3534,7 @@
    "number": "#99",
    "text": "322: Ce condiții trebuie să îndeplinească un solicitant pentru obținerea licenței de pilot de motoparapantă?",
    "short": "Solicitantul pentru licența de motoparapantă trebuie să aibă vârsta de 16 ani împliniți.",
-   "long": "Solicitantul licenței de ULM, inclusiv pentru motoparapantă, trebuie să aibă 16 ani împliniți și certificat medical valabil (RACR-LPAN ULM.2040).",
+   "long": "Pentru licența ULM, candidatul trebuie să aibă cel puțin 16 ani și să îndeplinească cerințele medicale, de pregătire și examinare. Cetățenia română, permisul auto sau o diplomă universitară nu înlocuiesc aceste condiții. Licența și privilegiile obținute se aplică doar claselor și calificărilor înscrise. [Sursa: [Ordinul nr. 630/2007, forma consolidată](https://legislatie.just.ro/Public/DetaliiDocument/300138); [RACR-LPAN ULM](https://legislatie.just.ro/Public/FormaPrintabila/00000G2DXPPP25FN8O005XWGOTDROUDV).]",
    "answers": [
     {
      "text": "să aibă vârsta de 16 ani împliniți",
@@ -3570,7 +3570,7 @@
    "number": "#100",
    "text": "359: Ce reprezintă VFR?",
    "short": "VFR înseamnă regulile de zbor la vedere.",
-   "long": "VFR înseamnă zbor la vedere (Visual Flight Rules), regulile după care pilotul zboară cu referință vizuală la sol și la orizont (RACR-RA).",
+   "long": "VFR vine de la Visual Flight Rules, adică reguli de zbor la vedere. VFR descrie regulile după care se operează zborul; VMC (Visual Meteorological Conditions) descrie condițiile meteorologice care permit zborul la vedere. Așadar, VFR sunt regulile, iar VMC este starea vremii necesară pentru aplicarea lor. [Sursa: [RACR-RA](https://legislatie.just.ro/Public/DetaliiDocument/204634).]",
    "answers": [
     {
      "text": "regulile de zbor la vedere",
@@ -3642,7 +3642,7 @@
    "number": "#102",
    "text": "370: Ce drepturi sunt acordate deținătorului licenței de pilot de aeronave ultraușoare motorizate?",
    "short": "Deținătorul licenței de ULM are dreptul de a efectua zboruri în interes propriu și zboruri particulare.",
-   "long": "Licența de pilot de ULM permite zboruri în interes propriu și zboruri particulare (RACR-LPAN ULM.2030 și privilegiile licenței).",
+   "long": "Licența ULM îi permite titularului să fie pilot comandant și, în limitele calificărilor înscrise, să efectueze zboruri în interes propriu și particulare. Ea nu acordă automat dreptul la transport comercial, curse regulate, instruire sau alte activități speciale; fiecare privilegiu suplimentar cere calificarea ori autorizația prevăzută de RACR-LPAN ULM. [Sursa: [Ordinul nr. 630/2007, forma consolidată](https://legislatie.just.ro/Public/DetaliiDocument/300138); [RACR-LPAN ULM](https://legislatie.just.ro/Public/FormaPrintabila/00000G2DXPPP25FN8O005XWGOTDROUDV).]",
    "answers": [
     {
      "text": "dreptul de a efectua zboruri internaționale regulate",
@@ -3714,7 +3714,7 @@
    "number": "#104",
    "text": "341: Ce trebuie să facă un pilot dacă întâlnește o motoparapantă pe traiectorie convergentă?",
    "short": "Dacă întâlnești o motoparapantă pe traiectorie convergentă, dai prioritate dacă cealaltă este în dreapta ta.",
-   "long": "La apropiere convergentă, aeronava care are cealaltă aeronavă în dreapta sa trebuie să dea prioritate (RACR-RA, reguli de trecere, pct. 2.3).",
+   "long": "La convergență, dacă aeronavele sunt aproximativ la același nivel, pilotul care o are pe cealaltă în dreapta trebuie să cedeze și să evite trecerea prin fața ei. Există excepții în funcție de categoria aeronavei, de exemplu prioritatea planoarelor față de aeronavele motorizate. Dacă apropierea este frontală, regula este diferită: ambele aeronave virează la dreapta. [Sursa: [RACR-RA](https://legislatie.just.ro/Public/DetaliiDocument/204634).]",
    "answers": [
     {
      "text": "să schimbe altitudinea",
