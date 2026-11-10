@@ -34,4 +34,4 @@ jobs:
             --recursive \
             --cache-control="no-cache, max-age=0" \
             --delete-unmatched-destination-objects \
-            --exclude='(^|/)(\.git|\.github|tools|data|components)(/|$)|\.md$|(^|/)\.gitignore$|(^|/)gha-creds-.*\.json$'
+            --exclude='(^|/)(\.git|\.github|tools|components)(/|$)|\.md$|(^|/)\.gitignore$|(^|/)gha-creds-.*\.json$'

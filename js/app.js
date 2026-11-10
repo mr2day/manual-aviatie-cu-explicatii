@@ -1,8 +1,64 @@
-// Afișează capitolele și întrebările din datele încorporate în index.html.
+// Afișează catalogul capitolelor; fiecare capitol este încărcat când este selectat.
 (function () {
-  var chapters = JSON.parse(document.getElementById('manual-data').textContent);
+  var chapters = [];
   var byId = {};
-  chapters.forEach(function (c) { byId[c.id] = c; });
+  var chapterCache = {};
+  var catalogReady = false;
+  var routeVersion = 0;
+  var assetVersion = document.currentScript && document.currentScript.getAttribute('data-version') || '';
+
+  function showStatus(message, retry) {
+    var main = document.getElementById('content');
+    main.textContent = '';
+    var status = el('div', 'load-status');
+    status.setAttribute('role', 'status');
+    status.appendChild(el('p', null, message));
+    if (retry) {
+      var button = el('button', 'retry-load', 'Încearcă din nou');
+      button.type = 'button';
+      button.addEventListener('click', retry);
+      status.appendChild(button);
+    }
+    main.appendChild(status);
+  }
+
+  function loadCatalog() {
+    showStatus('Se încarcă lista capitolelor…');
+    var url = 'data/chapters.json' + (assetVersion ? '?v=' + encodeURIComponent(assetVersion) : '');
+    return fetch(url).then(function (response) {
+      if (!response.ok) throw new Error('Catalog HTTP ' + response.status);
+      return response.json();
+    }).then(function (items) {
+      if (!Array.isArray(items) || !items.length) throw new Error('Catalogul capitolelor este gol.');
+      chapters = items;
+      byId = {};
+      chapters.forEach(function (chapter) { byId[chapter.id] = chapter; });
+      catalogReady = true;
+      route();
+    }).catch(function (error) {
+      console.error('Nu s-a putut încărca catalogul capitolelor.', error);
+      showStatus('Lista capitolelor nu s-a putut încărca. Verifică conexiunea și încearcă din nou.', loadCatalog);
+    });
+  }
+
+  function loadChapter(meta) {
+    if (!chapterCache[meta.id]) {
+      var url = meta.file + (meta.file.indexOf('?') === -1 ? '?' : '&') + 'v=' + encodeURIComponent(assetVersion);
+      chapterCache[meta.id] = fetch(url).then(function (response) {
+        if (!response.ok) throw new Error('Capitol HTTP ' + response.status);
+        return response.json();
+      }).then(function (chapter) {
+        if (chapter.id !== meta.id || !Array.isArray(chapter.questions)) {
+          throw new Error('Date invalide pentru capitolul ' + meta.id);
+        }
+        return chapter;
+      }).catch(function (error) {
+        delete chapterCache[meta.id];
+        throw error;
+      });
+    }
+    return chapterCache[meta.id];
+  }
 
   function el(tag, cls, text) {
     var e = document.createElement(tag);
@@ -408,16 +464,17 @@
     main.appendChild(el('h1', 'doc-title', 'Documentul nu a putut fi încărcat.'));
   }
 
-  function loadDoc(slug) {
+  function loadDoc(slug, requestVersion) {
     var frags = window.DOC_FRAGMENTS || {};
-    if (frags[slug]) { renderDoc(frags[slug]); return; }
+    if (frags[slug]) { if (requestVersion === routeVersion) renderDoc(frags[slug]); return; }
     var s = document.createElement('script');
     s.src = 'docs/fragments/' + slug + '.js';
     s.onload = function () {
       var f = (window.DOC_FRAGMENTS || {})[slug];
+      if (requestVersion !== routeVersion) return;
       if (f) renderDoc(f); else showDocMissing();
     };
-    s.onerror = showDocMissing;
+    s.onerror = function () { if (requestVersion === routeVersion) showDocMissing(); };
     document.body.appendChild(s);
   }
 
@@ -428,17 +485,30 @@
   }
 
   function route() {
+    var requestVersion = ++routeVersion;
+    if (!catalogReady) return;
     var hash = location.hash || '#01';
     if (hash.indexOf('#doc/') === 0) {
       renderNav(null);
       setCurrent((document.querySelector('.sidebar a[href="' + hash + '"]') || {}).textContent || '');
-      loadDoc(hash.slice(5));
+      loadDoc(hash.slice(5), requestVersion);
       return;
     }
     var c = byId[hash.slice(1)] || chapters[0];
     renderNav(c.id);
     setCurrent(c.title);
-    renderChapter(c);
+    showStatus('Se încarcă ' + c.title + '…');
+    loadChapter(c).then(function (chapter) {
+      if (requestVersion === routeVersion) renderChapter(chapter);
+    }).catch(function (error) {
+      console.error('Nu s-a putut încărca capitolul ' + c.id + '.', error);
+      if (requestVersion === routeVersion) {
+        showStatus('Capitolul nu s-a putut încărca. Verifică conexiunea și încearcă din nou.', function () {
+          delete chapterCache[c.id];
+          route();
+        });
+      }
+    });
   }
 
 
@@ -457,6 +527,6 @@
   setMenu(false);
 
   window.addEventListener('hashchange', route);
-  route();
+  loadCatalog();
 })();
 

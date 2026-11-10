@@ -158,6 +158,24 @@ body {
   max-width: none;
 }
 
+.load-status {
+  max-width: 42rem;
+  margin: 3rem auto;
+  padding: 1.25rem;
+  color: var(--muted, #667085);
+  text-align: center;
+}
+
+.retry-load {
+  margin-top: 0.5rem;
+  padding: 0.55rem 1rem;
+  border: 1px solid currentColor;
+  border-radius: 0.4rem;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+}
+
 /* Questions */
 .question {
   margin: 1.5rem 0;

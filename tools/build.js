@@ -1,5 +1,5 @@
-// Generates index.html from components/, data/*.json and glossary/*.json.
-// Usage: node tools/build.js   (no dependencies, no server needed to view the result)
+// Generates the app shell and chapter catalog from components/, data/*.json and glossary/*.json.
+// Usage: node tools/build.js   (no dependencies; preview with node tools/serve.js)
 const fs = require('fs');
 const path = require('path');
 
@@ -9,12 +9,23 @@ const componentsDir = path.join(root, 'components');
 const glossaryDir = path.join(root, 'glossary');
 
 const chapters = fs.readdirSync(dataDir)
-  .filter(f => f.endsWith('.json'))
+  .filter(f => f.endsWith('.json') && f !== 'chapters.json')
   .sort()
   .map(f => JSON.parse(fs.readFileSync(path.join(dataDir, f), 'utf8')));
 
-// Embedded as JSON; "</" is escaped so the data can never close the script tag.
-const embedded = JSON.stringify(chapters).replace(/<\//g, '<\\/');
+// Keep only chapter metadata in the page; question data is fetched one chapter at a time.
+const chapterCatalog = chapters.map(chapter => {
+  const file = chapter.id + '.json';
+  if (!fs.existsSync(path.join(dataDir, file))) {
+    throw new Error(`Missing data file for chapter ${chapter.id}: ${file}`);
+  }
+  return { id: chapter.id, title: chapter.title, file: `data/${file}` };
+});
+fs.writeFileSync(
+  path.join(dataDir, 'chapters.json'),
+  JSON.stringify(chapterCatalog) + '\n',
+  'utf8'
+);
 
 // Glosar: termeni care devin linkuri în titlurile întrebărilor și deschid un modal.
 const glossary = fs.readdirSync(glossaryDir)
@@ -50,12 +61,11 @@ ${sidebar}
 ${mainContent}
   </div>
 ${modal}
-  <script type="application/json" id="manual-data">${embedded}</script>
   <script type="application/json" id="glossary-data">${glossaryEmbedded}</script>
-  <script src="js/app.js?v=${version}"></script>
+  <script src="js/app.js?v=${version}" data-version="${version}"></script>
 </body>
 </html>
 `;
 
 fs.writeFileSync(path.join(root, 'index.html'), html, 'utf8');
-console.log('index.html written, chapters:', chapters.length, 'glossary:', glossary.length, 'bytes:', html.length);
+console.log('index.html written, chapters:', chapters.length, 'glossary:', glossary.length, 'bytes:', Buffer.byteLength(html));

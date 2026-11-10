@@ -4,7 +4,7 @@ Document pentru un alt agent care preia proiectul. Limba interfeței și a conț
 
 ## 1. Ce este proiectul
 
-Un manual static, fără server, pentru elevii care pregătesc examenul teoretic de paramotor. Conținutul: 9 capitole, 830 de întrebări cu variantele și răspunsul marcat. Fiecare întrebare are în plus:
+Un manual web static, găzduit fără backend dinamic, pentru elevii care pregătesc examenul teoretic de paramotor. Browserul descarcă doar capitolul selectat. Conținutul: 9 capitole, 830 de întrebări cu variantele și răspunsul marcat. Fiecare întrebare are în plus:
 - o descriere scurtă, vizibilă;
 - o explicație detaliată, colapsibilă;
 - pentru fiecare variantă: o descriere scurtă și o explicație colapsibilă;
@@ -18,15 +18,16 @@ Repo: `https://github.com/mr2day/manual-aviatie-cu-explicatii`
 
 | Branch | Stare |
 |---|---|
-| `main` | Primul commit: paginile vechi, cu fiecare capitol ca fișier HTML separat. Nu este actualizat. |
-| `single-html-build` | **Branch-ul activ.** Site-ul ca o singură pagină, generată din date. Toată munca recentă este aici. |
+| `main` | **Branch-ul activ și publicat.** |
+| `single-html-build` | Branch istoric, cu o versiune anterioară a site-ului. |
 
-Pe `single-html-build` (ultimul commit: `f0181a1`):
+Pe `main`:
 
 ```
-index.html              pagina principală, GENERATĂ de tools/build.js
+index.html              shell-ul aplicației, GENERAT de tools/build.js
 data/01.json … 09.json  SURSA DE ADEVĂR: întrebările, variantele, explicațiile, avertismentele
-tools/build.js          generează index.html (inclusiv antetul și datele încorporate)
+data/chapters.json      catalogul ID/titlu/cale, generat din fișierele capitolelor
+tools/build.js          generează index.html și catalogul data/chapters.json
 js/app.js               scriptul de afișare (navigare între capitole, randare întrebări)
 styles.css              toată tema vizuală (paletă, fonturi, layout, antet)
 fonts/                  fonturile Rajdhani și DM Sans, descărcate local (fonts.css + 22 woff2)
@@ -37,10 +38,10 @@ regulament-ulm.html     textul RACR-CCO ULM (Ediția 1/2007), cu cuprins
 
 ## 3. Cum se rulează și se regenerează
 
-- **Vizualizare:** deschide `index.html` direct în browser (dublu-clic). Nu este nevoie de server. Adresa capitolului este `index.html#01` … `#09`.
-- **După orice modificare în `data/`:** `node tools/build.js` (fără dependențe npm, doar Node).
+- **Vizualizare locală:** rulează `node tools/serve.js` și deschide `http://localhost:4173`. Serverul local este necesar pentru ca browserul să poată încărca JSON-ul capitolului la cerere. Adresa capitolului este `http://localhost:4173/#01` … `#09`.
+- **După orice modificare în `data/`:** `node tools/build.js` (fără dependențe npm, doar Node). Aplicația încarcă `data/chapters.json`, apoi descarcă JSON-ul capitolului numai când este selectat.
 - **Alte fișiere** (`js/app.js`, `styles.css`, `legislatie.html`, `regulament-ulm.html`) se editează direct.
-- **Testare vizuală:** Chrome headless funcționează: `chrome.exe --headless=new --screenshot=... file:///.../index.html#04`. Așa s-au verificat toate modificările de design.
+- **Captură vizuală locală:** pornește serverul (`node tools/serve.js`), apoi folosește `http://localhost:4173/#04` în browser.
 
 ## 4. Formatul datelor (data/NN.json)
 
