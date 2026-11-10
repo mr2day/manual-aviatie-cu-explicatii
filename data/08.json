@@ -4215,6 +4215,42 @@
      "warn": ""
     }
    ]
+  },
+  {
+   "number": "#118",
+   "text": "582: Un motor care a suferit un incendiu poate fi repornit?",
+   "short": "Nu. Procedura AM2 - Foc sau fum - interzice repornirea motorului după stingerea incendiului și cere identificarea cauzei.",
+   "long": "Într-o situație de foc sau fum, procedura oficială AM2 cere acțiuni diferite la sol și în zbor, dar aceeași regulă după stingerea focului: motorul nu se repornește, iar cauza incendiului trebuie depistată. La sol, se închide robinetul de benzină, se duce maneta de gaz în plin, iar după oprirea motorului se taie aprinderea și întrerupătorul general și se folosește extinctorul portabil. În zbor, după oprirea motorului se taie aprinderea și întrerupătorul general, se selectează pas mic sau drapel pentru elice (dacă aeronava permite), apoi se aterizează pe primul teren utilizabil; zborul se face glisat pentru a devia flacăra, dacă mai există. Cursul precizează că aceste proceduri sunt generale: pentru aeronava concretă se consultă manualul ei.",
+   "answers": [
+    {
+     "text": "Da, dacă incendiul a pornit de la carburator.",
+     "correct": false,
+     "short": "",
+     "long": "Procedura nu face excepție în funcție de cauza presupusă. După stingerea incendiului, motorul nu se repornește; cauza se identifică înainte de orice altă decizie.",
+     "warn": ""
+    },
+    {
+     "text": "Nu, motorul nu se repornește după incendiu.",
+     "correct": true,
+     "short": "",
+     "long": "Aceasta este avertizarea explicită din procedura AM2 - Foc sau fum - (paginile 75–76): după stingerea incendiului, motorul nu se repornește și se depistează cauza. La sol, procedura cere izolarea alimentării cu benzină, oprirea motorului, decuplarea aprinderii și a întrerupătorului general și folosirea extinctorului. În zbor, cere oprirea motorului și aterizarea pe primul teren utilizabil; nu prevede repornirea lui.",
+     "warn": ""
+    },
+    {
+     "text": "Da, după ce motorul s-a răcit.",
+     "correct": false,
+     "short": "",
+     "long": "Procedura nu condiționează interdicția de temperatura motorului. Ea spune să nu fie repornit după stingerea incendiului și să fie depistată cauza.",
+     "warn": ""
+    },
+    {
+     "text": "Da, dacă aeronava se află la o înălțime de siguranță.",
+     "correct": false,
+     "short": "",
+     "long": "În zbor, procedura AM2 cere oprirea motorului, configurarea elicei potrivit aeronavei și aterizarea pe primul teren utilizabil. Altitudinea nu schimbă avertizarea de a nu reporni motorul după incendiu.",
+     "warn": ""
+    }
+   ]
   }
  ]
 }
