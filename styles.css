@@ -639,6 +639,39 @@ details.answer-more[open] > summary::before {
 .theory-terms { display: grid; grid-template-columns: minmax(110px, 0.3fr) 1fr; gap: 0.55rem 1rem; margin: 0.8rem 0 0; }
 .theory-terms dt { color: #2581df; font-weight: 700; }
 .theory-terms dd { margin: 0; }
+.theory-acronym {
+  position: relative;
+  color: #35c77a;
+  font-weight: 800;
+  cursor: pointer;
+  text-decoration: underline dotted rgba(53, 199, 122, 0.55);
+  text-underline-offset: 0.16em;
+}
+.theory-acronym::after {
+  position: absolute;
+  z-index: 20;
+  left: 50%;
+  bottom: calc(100% + 0.55rem);
+  width: max-content;
+  max-width: min(20rem, 80vw);
+  padding: 0.55rem 0.7rem;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 7px;
+  background: #101820;
+  box-shadow: 0 5px 18px rgba(0, 0, 0, 0.35);
+  color: #fff;
+  content: attr(data-tooltip);
+  font-size: 0.78rem;
+  font-weight: 500;
+  line-height: 1.4;
+  opacity: 0;
+  pointer-events: none;
+  transform: translate(-50%, 0.25rem);
+  transition: opacity 120ms ease, transform 120ms ease;
+  white-space: normal;
+}
+.theory-acronym:hover::after,
+.theory-acronym:focus-visible::after { opacity: 1; transform: translate(-50%, 0); }
 .doc-card p { margin: 0 0 0.6rem; }
 .doc-note {
   font-size: 0.88rem;

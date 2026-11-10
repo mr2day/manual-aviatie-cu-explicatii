@@ -11,6 +11,7 @@
   var theoryCache = {};
   var theoryCatalogPromise = null;
   var catalogRequestVersion = 0;
+  var theoryAcronymDefinitions = {};
 
   function setLocationParam(location) {
     var url = new URL(window.location.href);
@@ -139,6 +140,28 @@
     if (last < text.length) parent.appendChild(document.createTextNode(text.slice(last)));
   }
 
+  function appendTheoryText(parent, text) {
+    var re = /\b[A-Z][A-Z0-9-]{1,}\b/g;
+    var last = 0;
+    var match;
+    while ((match = re.exec(text)) !== null) {
+      if (match.index > last) appendMnemonic(parent, text.slice(last, match.index));
+      var acronym = match[0];
+      var definition = theoryAcronymDefinitions[acronym];
+      if (definition) {
+        var tip = el('span', 'theory-acronym', acronym);
+        tip.setAttribute('data-tooltip', definition);
+        tip.setAttribute('aria-label', acronym + ': ' + definition);
+        tip.tabIndex = 0;
+        parent.appendChild(tip);
+      } else {
+        appendMnemonic(parent, acronym);
+      }
+      last = match.index + acronym.length;
+    }
+    if (last < text.length) appendMnemonic(parent, text.slice(last));
+  }
+
   function addInline(p, line) {
     line.split(/(!!.+?!!|\*\*.+?\*\*|~~.+?~~|__.+?__)/).forEach(function (part) {
       if (!part) return;
@@ -151,7 +174,7 @@
       } else if (part.indexOf('**') === 0 && part.slice(-2) === '**') {
         p.appendChild(el('strong', 'emph', part.slice(2, -2)));
       } else {
-        appendMnemonic(p, part);
+        appendTheoryText(p, part);
       }
     });
   }
@@ -501,6 +524,18 @@
   }
 
   function renderTheory(theory) {
+    theoryAcronymDefinitions = {};
+    theory.sections.forEach(function (section) {
+      (section.terms || []).forEach(function (entry) {
+        var tokens = entry.term.split(/\s*\/\s*|\s*,\s*/).map(function (s) { return s.trim(); });
+        var meanings = entry.definition.split(/\s*\/\s*/).map(function (s) { return s.trim(); });
+        tokens.forEach(function (token, index) {
+          if (/^[A-Z][A-Z0-9-]{1,}$/.test(token)) {
+            theoryAcronymDefinitions[token] = tokens.length === meanings.length ? meanings[index] : entry.definition;
+          }
+        });
+      });
+    });
     var main = document.getElementById('content');
     main.textContent = '';
     main.appendChild(el('h1', 'sr-only', theory.title));
@@ -526,8 +561,12 @@
       if (Array.isArray(section.terms)) {
         var terms = el('dl', 'theory-terms');
         section.terms.forEach(function (entry) {
-          terms.appendChild(el('dt', null, entry.term));
-          terms.appendChild(el('dd', null, entry.definition));
+          var term = el('dt');
+          appendTheoryText(term, entry.term);
+          terms.appendChild(term);
+          var definition = el('dd');
+          appendTheoryText(definition, entry.definition);
+          terms.appendChild(definition);
         });
         card.appendChild(terms);
       }
