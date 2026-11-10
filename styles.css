@@ -66,21 +66,45 @@ body {
 .exam-location {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 10px;
   margin-left: auto;
   flex-shrink: 0;
   color: #fff;
-  font-weight: 600;
+  font-family: var(--font-head);
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
 .exam-location select {
-  min-height: 38px;
-  padding: 6px 30px 6px 10px;
-  border: 1px solid rgba(255, 255, 255, 0.55);
-  border-radius: 6px;
-  background: #fff;
-  color: #1a1e1e;
-  font: inherit;
+  min-height: 40px;
+  padding: 7px 36px 7px 12px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  appearance: none;
+  background-color: var(--card);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='m3 6 5 5 5-5' fill='none' stroke='%23d7dada' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.8'/%3E%3C/svg%3E");
+  background-position: right 11px center;
+  background-repeat: no-repeat;
+  background-size: 14px;
+  color: var(--heading);
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.exam-location select:hover,
+.exam-location select:focus-visible {
+  border-color: var(--accent);
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(101, 164, 230, 0.25);
+}
+
+.exam-location select option {
+  background: var(--card);
+  color: var(--heading);
 }
 
 .brand {
