@@ -1581,7 +1581,7 @@
      "text": "redu altitudinea rapid",
      "correct": false,
      "short": "",
-     "long": "Nu este răspunsul corect.",
+     "long": "Reducerea altitudinii nu corectează deformarea aripii și poate micșora timpul și spațiul disponibile pentru recuperare. Mai întâi menține controlul aripii prin procedura potrivită deformării; o coborâre rapidă nu este o manevră de recuperare.",
      "warn": ""
     }
    ]
