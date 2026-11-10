@@ -6,7 +6,7 @@
    "number": "#1",
    "text": "698: Care este instituția responsabilă cu eliberarea certificatului general de operator radiotelefonist?",
    "short": "ANCOM (Autoritatea Națională pentru Administrare și Reglementare în Comunicații) eliberează certificatul general de operator radiotelefonist.",
-   "long": "Certificatul general de operator radiotelefonist pentru aviație se eliberează de ANCOM, autoritatea română de reglementare în comunicații, care reglementează și stațiile și frecvențele.",
+   "long": "ANCOM este autoritatea română de reglementare în comunicații și gestionează certificarea personalului operator al stațiilor radio. Pentru întrebarea despre certificatul general de operator radiotelefonist, răspunsul este ANCOM, nu CNA: CNA reglementează audiovizualul, iar SATCOM este o tehnologie de comunicație, nu o autoritate. Verifică la ANCOM cerințele și procedura în vigoare, deoarece regulile administrative se pot modifica.\n\nSursă: [ANCOM — Personal operator](https://www.ancom.ro/category/autorizare-ro/personal-operator/).",
    "answers": [
     {
      "text": "CNA",
@@ -42,7 +42,7 @@
    "number": "#2",
    "text": "691: Cine are autoritatea de a controla serviciul fiecărei stații aeronautice?",
    "short": "Serviciul fiecărei stații aeronautice este controlat de un operator care deține un certificat emis sau recunoscut de guvernul țării.",
-   "long": "Serviciul fiecărei stații aeronautice este controlat de un operator care deține un certificat emis sau recunoscut de guvernul țării. Operatorul răspunde de funcționarea stației și de respectarea procedurilor de radiotelefonie.",
+   "long": "Responsabilitatea pentru serviciul unei stații aeronautice revine operatorului calificat/certificat conform cerințelor statului. Certificarea confirmă pregătirea pentru operarea radiotelefonică; ea nu transferă operatorului responsabilitățile pilotului și nici nu înlocuiește autorizația stației radio. Astfel, un pilot poate folosi radioul în zbor, dar serviciul unei stații aeronautice este controlat de operatorul certificat desemnat.\n\nSursă: [ANCOM — personal operator și certificare](https://www.ancom.ro/category/autorizare-ro/personal-operator/).",
    "answers": [
     {
      "text": "un inspector de zbor",
@@ -78,7 +78,7 @@
    "number": "#3",
    "text": "715: Distanța maximă până la care aveți obligația de a menține legătura radio cu organul de trafic prin spațiul aerian controlat de acesta prin care vă deplasați către spațiul aerian de clasă G este:",
    "short": "Legătura radio cu organul de trafic se menține până la ieșirea din zona controlată, adică până la intrarea în spațiul de clasă G.",
-   "long": "Când zbori prin spațiul controlat către spațiul de clasă G, trebuie să menții legătura radio cu organul de trafic până la ieșirea din zona controlată. Abia atunci legătura nu mai este obligatorie.",
+   "long": "În situația descrisă, obligația de a menține legătura cu organul de trafic durează cât timp aeronava se află în spațiul controlat al acelui organ. La ieșirea din spațiul controlat către clasa G încetează cerința specifică acelui spațiu, dacă nu există o instrucțiune sau o cerință locală care spune altceva. Nu confunda limita spațiului cu limita de recepție radio: obligația este determinată de regulile spațiului aerian și de instrucțiunile ATC.\n\nSursă: [AIP România, clasificarea spațiului aerian (ENR 1.4)](https://aisro.ro/aip/2025-10-02/DOCS/AIP/ENR/ENR1/LR_ENR_1_4_en.pdf).",
    "answers": [
     {
      "text": "nu este specificat",
@@ -150,7 +150,7 @@
    "number": "#5",
    "text": "728: Autorizarea de decolare se solicită de la:",
    "short": "Autorizarea de decolare se solicită de la turnul de control (TWR).",
-   "long": "Autorizarea de decolare se cere turnului de control (TWR), care are controlul pistei și al decolării.",
+   "long": "Autorizarea de decolare o emite turnul de control (TWR), după ce verifică folosirea pistei și coordonează traficul din zona aerodromului. Pilotul cere autorizarea și trebuie să o primească explicit înainte de a începe decolarea; o autorizare de rulaj sau o informare de la sol nu ține loc de autorizare de decolare.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "turnul de control",
@@ -222,7 +222,7 @@
    "number": "#7",
    "text": "784: Ce informații trebuie transmise către ATC de către o aeronavă care se pregătește să intre din spațiul necontrolat în spațiul controlat?",
    "short": "Înainte de a intra în spațiul controlat, ATC trebuie să primească indicativul, poziția, altitudinea, ruta și destinația.",
-   "long": "Înainte de a intra din spațiul necontrolat în spațiul controlat, aeronava transmite indicativul, poziția, altitudinea, ruta intenționată și destinația, pentru ca ATC să o poată identifica și coordona.",
+   "long": "înainte de intrarea în spațiul controlat, pilotul stabilește legătura cu unitatea competentă, comunică datele cerute și obține autorizarea necesară. Indicativul și poziția permit identificarea aeronavei; nivelul/altitudinea, ruta sau intenția și destinația ajută ATC să evalueze conflictul și să coordoneze intrarea. Transmiterea datelor nu este ea însăși o autorizare: așteaptă clearance-ul și respectă limita ori condițiile comunicate.\n\nSursă: [Regulamentul SERA, cerințe de comunicație și autorizare](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0923-20250501).",
    "answers": [
     {
      "text": "Numărul de pasageri la bord, greutatea totală a aeronavei și durata zborului",
@@ -258,7 +258,7 @@
    "number": "#8",
    "text": "772: Ce înseamnă abrevierea VOR?",
    "short": "VOR înseamnă VHF Omnidirectional Range, un radiofar de navigație pe unde foarte scurte.",
-   "long": "VOR este un radiofar omnidirecțional în VHF (VHF Omnidirectional Range), care indică pilotului direcția radială față de stație.",
+   "long": "VOR înseamnă VHF Omnidirectional Radio Range, un mijloc de radionavigație la sol. Receptorul VOR din avion indică radialul magnetic pe care se află aeronava față de stație (sau cursul către/de la stație, în funcție de setare și indicație). VOR oferă azimut, nu distanță; pentru distanță se folosește, de exemplu, DME. Identifică stația prin codul Morse înainte de a te baza pe indicație.\n\nSursă: [EASA — definiția și principiul VOR](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-airborne-communications).",
    "answers": [
     {
      "text": "VHF Omnidirectional Range",
@@ -294,7 +294,7 @@
    "number": "#9",
    "text": "761: Ce înseamnă abrevierea ADS-B?",
    "short": "ADS-B înseamnă Automatic Dependent Surveillance–Broadcast.",
-   "long": "ADS-B este Automatic Dependent Surveillance–Broadcast: aeronava își transmite automat poziția, determinată de sistemul de navigație, către alte aeronave și stații de sol.",
+   "long": "ADS-B înseamnă Automatic Dependent Surveillance–Broadcast. „Dependent” arată că poziția provine din sistemele de navigație ale aeronavei, „automatic” că transmiterea se face automat, iar „broadcast” că mesajul poate fi recepționat de stații și aeronave compatibile. Mesajele pot conține identitatea, poziția și alte date de zbor; ADS-B este o metodă de supraveghere, nu un canal de voce cu ATC și nici o garanție că toate aeronavele din apropiere sunt echipate.\n\nSursă: [EASA — reguli pentru ADS-B și supraveghere](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-airborne-communications).",
    "answers": [
     {
      "text": "Aeronautical Data System-Broadcast",
@@ -366,7 +366,7 @@
    "number": "#11",
    "text": "699: Pentru a limita interferențele produse de motorul motoparapantei dumneavoastră:",
    "short": "Pentru a reduce interferențele produse de motor se folosește o bujie cu rezistență încorporată.",
-   "long": "Motorul unui paramotor produce interferențe radio prin aprinderea bujiei. O bujie cu rezistență încorporată reduce emisiile care perturbă stația radio.",
+   "long": "Interferențele de aprindere pot ajunge în receptorul radio ca zgomot electric, mai ales când sistemul de aprindere sau cablajul nu este ecranat corespunzător. O bujie cu rezistor și componentele de antiparazitare recomandate de fabricant reduc emisiile; nu improviza modificări la aprindere, deoarece pot afecta funcționarea motorului. Dacă zgomotul persistă, verifică antena, legăturile de masă, cablurile și instalația conform manualului tehnic.\n\nSursă: [FAA — Pilot’s Handbook of Aeronautical Knowledge, comunicații radio](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak).",
    "answers": [
     {
      "text": "utilizați o bujie cu rezistență încorporată",
@@ -402,7 +402,7 @@
    "number": "#12",
    "text": "765: Care este rolul unei stații de control al traficului aerian (ATC)?",
    "short": "Un ATC gestionează și coordonează traficul aerian pentru a asigura siguranța zborurilor.",
-   "long": "Serviciul de control al traficului aerian gestionează și coordonează traficul aerian, astfel încât zborurile să fie sigure și ordonate.",
+   "long": "ATC (Air Traffic Control) furnizează serviciul de control în spații și la aerodromuri desemnate. Controlorii emit autorizări și instrucțiuni, organizează succesiunea traficului și aplică separarea prevăzută de clasa de spațiu aerian. ATC nu înlocuiește responsabilitatea pilotului de a controla aeronava și de a respecta limitele operaționale; în afara spațiului controlat pot fi furnizate alte servicii, precum informarea zborurilor (FIS).\n\nSursă: [EASA — Regulamentul SERA](https://www.easa.europa.eu/en/regulations/standardised-european-rules-air-sera).",
    "answers": [
     {
      "text": "verificarea documentelor pasagerilor",
@@ -475,7 +475,7 @@
    "number": "#14",
    "text": "714: La defectarea stației radio în zbor în spațiul aerian de clasă G:",
    "short": "Dacă stația radio se defectează în zbor în spațiul de clasă G, zborul continuă, pentru că nu este obligatorie comunicarea radio în acest spațiu.",
-   "long": "La defectarea stației radio în clasa G, unde comunicația radio nu este obligatorie, zborul poate continua.",
+   "long": "Răspunsul depinde de regulile zborului și de spațiul în care te afli. În clasa G, un zbor VFR nu este obligat în general să mențină comunicație vocală continuă, deci defectarea radioului nu impune automat întreruperea zborului. Totuți, pilotul trebuie să respecte regulile VFR, să evite spațiul unde este necesar contactul radio și să aterizeze dacă situația sau siguranța o cere. Pentru un zbor IFR se aplică procedura de pierdere a comunicațiilor, inclusiv selectarea codului 7600.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "aterizați de urgență pe cel mai adecvat teren situate în spațiu clasa G",
@@ -584,7 +584,7 @@
    "number": "#17",
    "text": "710: Abrevierea pentru o zonă de control este:",
    "short": "CTR este abrevierea pentru zona de control (Control Zone).",
-   "long": "CTR este zona de control de aerodrom (Control Traffic Region sau control zone), spațiu aerian controlat în jurul aerodromului.",
+   "long": "CTR înseamnă Control Zone (zonă de control). Este un spațiu controlat care se extinde de la suprafața pământului până la o limită verticală stabilită, de regulă în jurul unui aerodrom, pentru protejarea traficului de aerodrom. Limitele, clasa și frecvența unitășii competente sunt publicate în AIP; înainte de intrare, pilotul contactează unitatea și obține autorizarea cerută.\n\nSursă: [EASA — Regulamentul SERA, definiții](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0923-20250501).",
    "answers": [
     {
      "text": "CTR",
@@ -656,7 +656,7 @@
    "number": "#19",
    "text": "690: Ce documente sunt obligatorii pentru stațiile de radiocomunicații aeronautice?",
    "short": "Pentru stațiile radio aeronautice sunt obligatorii licența de utilizare a frecvențelor și autorizația stației.",
-   "long": "Stațiile radio aeronautice trebuie să aibă licența de utilizare a frecvențelor și autorizația de funcționare a stației, emise de autoritatea competentă.",
+   "long": "Pentru operarea unei stații contează autorizarea stației și dreptul de utilizare a frecvențelor; persoana care operează poate avea, separat, obligația să dețină certificatul corespunzător. Aceste documente au obiecte diferite: autorizarea privește echipamentul/stația și frecvențele, iar certificatul privește competența operatorului. Cerințele exacte depind de tipul serviciului radio și de regimul național aplicabil.\n\nSursă: [ANCOM — autorizări și personal operator](https://www.ancom.ro/category/autorizare-ro/personal-operator/).",
    "answers": [
     {
      "text": "certificat de garanție",
@@ -728,7 +728,7 @@
    "number": "#21",
    "text": "734: Dacă un pilot primește o instrucțiune pe care nu poate să o îndeplinească, va spune controlorului:",
    "short": "Dacă nu poți executa o instrucțiune, spui „nu pot urma instrucțiunea”.",
-   "long": "Dacă pilotul nu poate îndeplini o instrucțiune, spune „nu pot urma instrucțiunea”, formula standard de răspuns în fonia aeronautică.",
+   "long": "Dacă nu poți executa o instrucțiune sau autorizare ATC, răspunde „UNABLE” (nu pot) fără întârziere și, dacă este util, spune motivul. Nu confirma prin WILCO o acțiune pe care nu o poți îndeplini: WILCO înseamnă că ai înțeles și vei respecta mesajul. Așteaptă apoi o instrucțiune posibilă și menține zborul în siguranăă în limitele clearance-ului curent.\n\nSursă: [EASA, frazeologia standard SERA](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0923-20250501).",
    "answers": [
     {
      "text": "anulați instrucțiunea",
@@ -764,7 +764,7 @@
    "number": "#22",
    "text": "704: În cazul pierderii certificatului general de operator radiotelefonist:",
    "short": "În cazul pierderii certificatului, se solicită în scris un nou certificat de la ANCOM.",
-   "long": "La pierderea certificatului general de operator radiotelefonist, eliberarea unui duplicat se cere în scris de la ANCOM, care emite certificatul.",
+   "long": "Dacă certificatul a fost pierdut, deteriorat sau distrus, titularul solicită un duplicat autoritășii emitente prin procedura în vigoare. Cererea și documentele justificative depind de tipul certificatului; nu presupune că o copie simplă sau o declarație verbală este suficientă. Până la clarificarea dreptului de operare, verifică la ANCOM dacă certificatul poate fi folosit ori dacă este necesară o mșsură suplimentară.\n\nSursă: [ANCOM — Personal operator](https://www.ancom.ro/category/autorizare-ro/personal-operator/).",
    "answers": [
     {
      "text": "se va solicita, în scris, eliberarea unui nou certificat de la ANCOM",
@@ -836,7 +836,7 @@
    "number": "#24",
    "text": "774: Care este rolul unui operator de stație radio aeronautică cu certificat general?",
    "short": "Operatorul cu certificat general poate opera pe orice frecvență din spectrul alocat serviciului aeronautic.",
-   "long": "Certificatul general de operator permite operarea pe orice frecvență din spectrul alocat serviciului aeronautic, în condițiile autorizației stației.",
+   "long": "Certificatul general atestă competența operatorului pentru radiotelefonie în serviciul pentru care este emis. Nu oferă permisiunea de a transmite arbitrar pe orice frecvenăă: operatorul respectă alocările, autorizația stației, regulile de radiotelefonie și instrucțiunile stației competente. Distinge certificatul personal de licența/autorizația tehnică a stației.\n\nSursă: [ANCOM — Personal operator](https://www.ancom.ro/category/autorizare-ro/personal-operator/).",
    "answers": [
     {
      "text": "poate opera pe orice frecvență din spectrul alocat serviciului",
@@ -944,7 +944,7 @@
    "number": "#27",
    "text": "756: Care este scopul principal al comunicațiilor radio în aviație?",
    "short": "Scopul principal al comunicațiilor radio în aviație este siguranța și regularitatea zborului.",
-   "long": "Comunicațiile radio servesc în principal siguranței și regularității zborului, prin coordonare și informare.",
+   "long": "Radioul le permite piloților și serviciilor de trafic aerian să schimbe autorizări, instrucțiuni, poziții și avertizșri. Aceste informații ajută la prevenirea conflictelor și la coordonarea zborurilor, dar mesajele trebuie ascultate și executate conform regulilor; simpla existenăă a comunicației nu înlocuiește vigilența pilotului și separarea aplicabilă.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "raportarea incidentelor la sol",
@@ -980,7 +980,7 @@
    "number": "#28",
    "text": "773: Ce semnificație are expresia „distress signal”?",
    "short": "„Distress signal” înseamnă un semnal de pericol grav și iminent.",
-   "long": "„Distress” înseamnă pericol grav și iminent, la care aeronava are nevoie de ajutor imediat (faza DETRESFA).",
+   "long": "în terminologia ICAO, îdistressă este situația în care o aeronavă este amenințată de un pericol grav și/sau iminent și are nevoie de ajutor imediat. În radiotelefonie, semnalul corespunzător este MAYDAY, rostit preferabil de trei ori la începutul mesajului. îUrgencyă/PAN PAN privește o problemă de siguranăă care nu cere încă ajutor imediat, deci cele două semnale nu sunt interschimbabile.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "schimbare de frecvență",
@@ -1088,7 +1088,7 @@
    "number": "#31",
    "text": "729: Distanța maximă până la care aveți obligația de a menține legătura radio cu organul de trafic prin spațiul aerian controlat de acesta prin care vă deplasați către spațiul aerian de clasă G este:",
    "short": "Legătura radio cu organul de trafic se menține până la ieșirea din zona controlată.",
-   "long": "Legătura radio cu organul de trafic se menține până la ieșirea din zona controlată, la trecerea în spațiul G.",
+   "long": "Dacă zbori prin spațiul controlat, menții comunicația cu unitatea ATS responsabilă până când ieți din spațiul respectiv sau până când unitatea ăși transmite o altă instrucțiune aplicabilă. Trecerea în clasa G este limita relevantă În situația descrisă: nu întrerupe legătura doar fiindcă te apropii de acea limită; confirmă instrucțiunile și schimbarea frecvenței, dacă și se cere.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "până la limita audibilității",
@@ -1124,7 +1124,7 @@
    "number": "#32",
    "text": "697: Valabilitatea certificatului general de operator radiotelefonist este de:",
    "short": "Certificatul general de operator radiotelefonist are valabilitate de 5 ani.",
-   "long": "Decizia ANCOM nr. 543/2017, art. 22 alin. (1), stabilește că durata de valabilitate a certificatului de operator radio este de 5 ani. Perioadele de 1, 2 sau 3 ani nu corespund acestei decizii.",
+   "long": "Valabilitatea indicată în materialul de studiu este de 5 ani. Tratează însă această cifră ca regulă administrativă ce trebuie verificată la autoritatea emitentă, deoarece ANCOM publică procedurile și reglementările aplicabile, iar acestea se pot schimba. Verifică data de expirare înscrisă pe certificatul concret; nu presupune că perioada se calculează automat de la o dată diferită de cea menționată în document.\n\nSursă: [ANCOM — Personal operator și valabilitate](https://www.ancom.ro/category/autorizare-ro/personal-operator/).",
    "answers": [
     {
      "text": "2 ani",
@@ -1160,7 +1160,7 @@
    "number": "#33",
    "text": "688: Care sunt condițiile de vizibilitate minimă pentru zborurile VFR?",
    "short": "Vizibilitatea minimă pentru zborurile VFR la altitudini mari este de 5 km.",
-   "long": "În clasa G, sub 900 m AMSL sau sub 300 m deasupra terenului, zborul VFR cere vizibilitate de cel puțin 5 km (RACR-RA, Tabelul 3-1).",
+   "long": "Minimele VFR depind de clasa spațiului, altitudine și regulile aplicabile. În clasa G, sub 900 m AMSL sau 300 m deasupra terenului (oricare este mai mare), valoarea uzuală din tabelul SERA este vizibilitate în zbor de cel puțin 5 km, cu cerințe de distanță față de nori și vizibilitate la sol după caz. Aceasta nu este o valoare universală pentru toate spațiile și nivelurile: consultă tabelul VMC și AIP local înainte de zbor.\n\nSursă: [EASA — SERA.5001 și tabelul VMC](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "8 km",
@@ -1232,7 +1232,7 @@
    "number": "#35",
    "text": "733: În comunicarea sol aer dintre un controlor de trafic și motoparapantă, controlorul întotdeauna va spune:",
    "short": "Controlorul spune întâi indicativul aeronavei și apoi mesajul.",
-   "long": "În fonia aeronautică, primul element al apelului este indicativul aeronavei, apoi mesajul. Indicativul identifică aeronava cui i se adresează controlorul.",
+   "long": "într-un apel radiotelefonic, pilotul folosește indicativul aeronavei și identifică stația apelată; controlorul răspunde cu indicativul aeronavei și transmite mesajul/instrucțiunea. Indicativul face clar cui i se adresează mesajul și reduce riscul ca un pilot să execute o instrucțiune destinată altei aeronave. Ascultă mesajul complet și confirmă elementele care cer readback.\n\nSursă: [EASA — frazeologia radiotelefonică SERA](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "mesajul apoi indicativul aeronavei",
@@ -1268,7 +1268,7 @@
    "number": "#36",
    "text": "759: Ce termen este folosit pentru a desemna o comunicare referitoare la siguranța unei aeronave sau persoane la bord?",
    "short": "Comunicarea despre siguranța aeronavei sau a persoanelor la bord este un mesaj de urgență.",
-   "long": "Mesajul referitor la siguranța aeronavei sau a persoanelor la bord este mesaj de urgență (PAN). Mesajul de primejdie (MAYDAY) privește pericolul grav și iminent.",
+   "long": "Un mesaj privind siguranța unei aeronave sau a unei persoane la bord, fără pericol grav și iminent care cere ajutor imediat, este un mesaj de urgență: semnalul vocal este PAN PAN. MAYDAY este rezervat primejdiei, când există pericol grav/imediat și este cerută asistenăă imediată. Alegerea semnalului ajută celelalte stații să acorde prioritate și să rșspundă proporțional situației.\n\nSursă: [EASA — SERA.14095, mesaje de primejdie și urgență](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "mesaj de servicii",
@@ -1304,7 +1304,7 @@
    "number": "#37",
    "text": "747: Ce informație este esențială într-un mesaj de primejdie?",
    "short": "Într-un mesaj de primejdie, poziția aeronavei este informația esențială.",
-   "long": "Într-un mesaj de primejdie, poziția aeronavei este esențială, pentru ca serviciile de căutare și salvare să ajungă la timp.",
+   "long": "Poziția este esențială fiindcă permite controlului să transmită informația către serviciile de cșutare și salvare și să coordoneze ajutorul. Un mesaj MAYDAY ar trebui să includă, pe cșt permit timpul și împrejurșrile, stația apelată, identificarea aeronavei, natura pericolului, intențiile pilotului, poziția, nivelul și capul, plus orice informație utilă. Dacă nu poți transmite totul, transmite întți elementele care permit localizarea și înțelegerea pericolului.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "numărul de pasageri",
@@ -1340,7 +1340,7 @@
    "number": "#38",
    "text": "700: Sunteți în zbor, iar calitatea transmisiei și a recepției scade datorită distanței. În acest caz, puteți utiliza pentru a crește calitatea transmisiei:",
    "short": "Butonul squelch reduce zgomotul de fond, astfel încât semnalele slabe se aud mai clar.",
-   "long": "Squelch-ul (pragul de squelch) taie zgomotul de fond când nu se recepționează semnal. Așa devine recepția mai clară, dar nu mărește semnalul care vine de la distanță.",
+   "long": "Squelch-ul este un prag al receptorului: când semnalul recepționat este sub prag, radioul închide audio-ul de fond; când semnalul depăîește pragul, lasă vocea să se audă. Reglajul reduce făășitul dintre transmisii, dar nu amplifică semnalul și nu îmbunștăîește raza radio. Dacă îl setezi prea sus, poți tția transmisii slabe; redu pragul doar cșt este necesar pentru a auzi semnalele utile.\n\nSursă: [FAA — Pilot’s Handbook of Aeronautical Knowledge, comunicații](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak).",
    "answers": [
     {
      "text": "butonul de volum",
@@ -1376,7 +1376,7 @@
    "number": "#39",
    "text": "706: Pe ce frecvența aveți obligația legală să intrați în legătură cu o aeronavă care vă interceptează?",
    "short": "Pentru o aeronavă care vă interceptează, obligația legală este să intrați în legătură pe 121,5 MHz.",
-   "long": "Frecvența de urgență 121,5 MHz este cea pe care se stabilește legătura cu o aeronavă care interceptează, conform procedurii standard.",
+   "long": "121,5 MHz este frecvența VHF internațională de urgență, inclusiv pentru încercarea de contact în situații de interceptare când frecvența normală nu funcționează ori nu este cunoscută. Dacă interceptorul transmite instrucțiuni, aeronava interceptată le ascultă și le urmează; frazele standard includ CALL SIGN, WILCO, CAN NOT, REPEAT și MAYDAY. Frecvența de urgență nu înlocuiește automat frecvența ATS curentă în orice situație.\n\nSursă: [ICAO, proceduri de interceptare și radiotelefonie](https://www.icao.int/MID/Documents/2011/atm_sar_ais_sg12/docs/wp13.pdf).",
    "answers": [
     {
      "text": "123",
@@ -1412,7 +1412,7 @@
    "number": "#40",
    "text": "749: Ce înseamnă abrevierea ICAO?",
    "short": "ICAO înseamnă International Civil Aviation Organization.",
-   "long": "ICAO este International Civil Aviation Organization, organizația care stabilește standardele internaționale de aviație civilă.",
+   "long": "ICAO este International Civil Aviation Organization (Organizația Aviației Civile Internaționale), agenție specializată a ONU. Statele membre adoptă prin ICAO standarde și practici recomandate pentru aviația civilă internațională, inclusiv pentru comunicații și navigație; regulile europene și naționale le pun în aplicare în cadrul lor juridic. ICAO nu este autoritatea care controlează direct fiecare zbor.\n\nSursă: [ICAO — despre organizație](https://www.icao.int/about-icao).",
    "answers": [
     {
      "text": "International Communications and Air Operations",
@@ -1448,7 +1448,7 @@
    "number": "#41",
    "text": "780: Cum se realizează comunicațiile în spațiul aerian necontrolat pentru evitarea coliziunilor?",
    "short": "În spațiul necontrolat, aeronavele folosesc frecvențele VHF stabilite regional și ascultă frecvența TIBA.",
-   "long": "În spațiul necontrolat, pilotul folosește frecvența VHF stabilită regional pentru comunicații aeronautice și ascultă permanent (ascultare de veghe) pentru a afla traficul din jur.",
+   "long": "în spațiul necontrolat, pilotul respectă regulile aplicabile clasei și folosește serviciile radio disponibile, cum ar fi FIS sau o frecvenăă comună publicată. În clasa G din România, pentru zborurile VFR nu este cerută în mod general comunicație vocală continuă, dar pilotul rămâne responsabil pentru veghe vizuală și evitarea coliziunilor; informarea FIS nu este separare ATC. Frecvența corectă depinde de zona în care zbori și se verifică în AIP.\n\nSursă: [AIP România, ENR 1.4](https://aisro.ro/aip/2025-10-02/DOCS/AIP/ENR/ENR1/LR_ENR_1_4_en.pdf).",
    "answers": [
     {
      "text": "aeronavele se bazează pe sistemele de radar de supraveghere secundară (SSR)",
@@ -1484,7 +1484,7 @@
    "number": "#42",
    "text": "731: Aflați în zbor, atunci când TWR ne comunică prin radio o informație, este necesar să confirmăm faptul că am recepționat corect mesajul respectiv?",
    "short": "Confirmarea corectă a unei informații primite de la turn este „confirm”.",
-   "long": "La primirea unei informații de la turn, pilotul confirmă cu cuvântul „confirm” (sau „wilco” pentru instrucțiuni). Formula este standard în fonia aeronautică.",
+   "long": "Confirmă recepția folosind răspunsul potrivit conținutului. ROGER înseamnă că ai primit ultima transmisie; WILCO înseamnă că ai înțeles și vei respecta instrucțiunea. Pentru autorizări și informații critice de siguranăă, pilotul repetă elementele cerute (readback), iar controlorul poate corecta o repetare grețită. îAm auzită nu confirmă că ai înțeles corect o autorizare.\n\nSursă: [EASA — frazeologie și readback](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "este suficient să confirmăm prin răspunsul “am înțeles”",
@@ -1520,7 +1520,7 @@
    "number": "#43",
    "text": "711: Daca sunteți în legătură cu un organ de trafic și vi s-a oprit motorul în zbor veți declara:",
    "short": "Dacă motorul s-a oprit în zbor, se declară MAYDAY.",
-   "long": "Oprirea motorului în zbor, cu aterizare forțată, este o situație de pericol grav și iminent, deci se transmite MAYDAY.",
+   "long": "Oprirea motorului în zbor nu determină singură, în orice împrejurare, acelați mesaj; pilotul evaluează dacă aeronava este amenințată de pericol grav sau iminent și are nevoie de ajutor imediat. Dacă da ă de exemplu, este necesară o aterizare forțată fără opțiune sigură ă transmite MAYDAY, apoi identificarea, natura problemei, intențiile și poziția. Dacă există o problemă urgentă, dar nu este necesară asistenăă imediată, PAN PAN poate fi potrivit.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "PAN PAN",
@@ -1556,7 +1556,7 @@
    "number": "#44",
    "text": "705: Abrevierea WILCO semnifică:",
    "short": "WILCO înseamnă că am înțeles mesajul și mă voi conforma.",
-   "long": "WILCO înseamnă „am înțeles mesajul și mă voi conforma”, formulă standard în fonia aeronautică.",
+   "long": "WILCO vine de la „will comply”: înseamnă „am înțeles mesajul și mă voi conforma”. Este un răspuns de confirmare pentru o instrucțiune pe care pilotul o poate executa; nu înseamnă doar îam auzită. Dacă nu poate respecta instrucțiunea, pilotul spune UNABLE și, de regulă, explică motivul.\n\nSursă: [Regulamentul SERA, frazeologia radiotelefonică](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0923-20250501).",
    "answers": [
     {
      "text": "am să continui zborul pe direcția din planul de zbor!",
@@ -1628,7 +1628,7 @@
    "number": "#46",
    "text": "712: Când transmiteți un mesaj de urgența aveți obligația să furnizați următoarele informații:",
    "short": "Într-un mesaj de urgență trebuie să spui poziția curentă sau ultima poziție cunoscută, altitudinea și capul compas.",
-   "long": "Într-un mesaj de urgență se dau poziția curentă sau ultima poziție cunoscută, altitudinea și capul compas, pentru a ajuta serviciile de salvare.",
+   "long": "într-un mesaj de primejdie, transmite elementele pe care le poți furniza, clar și în ordinea utilă: stația apelată, identificarea aeronavei, natura primejdiei, intenția pilotului, poziția, nivelul și capul, apoi alte date relevante. Poziția, nivelul și capul ajută la localizarea și anticiparea traiectoriei. Lista nu este o condiție de amânare: dacă timpul e scurt, anunăă imediat MAYDAY și informațiile esențiale disponibile.\n\nSursă: [EASA — SERA.14095](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "distanța și poziția fată de aerodromul de plecare",
@@ -1664,7 +1664,7 @@
    "number": "#47",
    "text": "721: Ați intrat în legătură cu turnul de control al unui aeroport și recepționați mesajul “RAMÂNEȚI PE RECEPȚIE “, veți răspunde înapoi:",
    "short": "La „RĂMÂNEȚI PE RECEPȚIE” nu răspunzi, ci aștepți să fii rechemat.",
-   "long": "„Rămâneți pe recepție” (stand by) înseamnă că pilotul nu răspunde și așteaptă să fie rechemat.",
+   "long": "îRămâneți pe recepțieă corespunde lui STANDBY: ascultați frecvența și așteptați ca stația să vă recheme. Nu este o autorizare și nici o confirmare că solicitarea a fost aprobată; dacă întârzierea devine lungă, stația care a inițiat schimbul poate reveni cu un apel.\n\nSursă: [Regulamentul SERA, frazeologia radiotelefonică](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0923-20250501).",
    "answers": [
     {
      "text": "nu răspundeți nimic, așteptați să fiți rechemați",
@@ -1700,7 +1700,7 @@
    "number": "#48",
    "text": "739: Ce termen este folosit pentru a desemna condițiile meteorologice de zbor instrumental?",
    "short": "Condițiile meteorologice de zbor instrumental se numesc IMC.",
-   "long": "IMC (Instrument Meteorological Conditions) sunt condițiile meteo în care zborul se face doar după instrumente, nu la vedere.",
+   "long": "IMC înseamnă condiții meteorologice instrumentale: condițiile nu îndeplinesc unul sau mai multe dintre minimele VMC aplicabile, precum vizibilitatea sau distanța față de nori. IMC nu înseamnă că pilotul îalegeă să zboare numai după instrumente; zborul în aceste condiții cere calificarea, aeronava și autorizarea/procedurile IFR necesare. VMC descrie condițiile meteo, iar IFR descrie regulile de zbor ă sunt noțiuni diferite.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "IFR",
@@ -1736,7 +1736,7 @@
    "number": "#49",
    "text": "760: Ce este un ELT (Emergency Locator Transmitter)?",
    "short": "ELT este un dispozitiv care transmite automat un semnal de urgență în caz de accident.",
-   "long": "ELT (Emergency Locator Transmitter) transmite automat un semnal de urgență pe 121,5 și 406 MHz în caz de accident, pentru localizarea aeronavei.",
+   "long": "ELT este un emiăîtor de localizare de urgență instalat la bord și folosit pentru a alerta/localiza aeronava după un accident sau o activare manuală. Unele modele se activează automat la impact, altele pot fi activate manual; semnalul este recepționat de sistemele de cșutare și salvare compatibile. ELT nu furnizează conversație vocală cu ATC și nu garantează singur localizarea imediată; tipul echipamentului determină funcțiile și frecvențele.\n\nSursă: [ICAO — sistemul COSPAS-SARSAT și balizele de urgență](https://www.icao.int/safety/airnavigation/OPS/COSPAS-SARSAT).",
    "answers": [
     {
      "text": "un dispozitiv care oferă navigație direcțională",
@@ -1808,7 +1808,7 @@
    "number": "#51",
    "text": "743: Ce procedură trebuie urmată în caz de pierdere a comunicațiilor radio?",
    "short": "În caz de pierdere a comunicațiilor radio se setează transponderul pe 7600.",
-   "long": "La pierderea comunicațiilor radio, pilotul setează transponderul pe 7600 și urmează procedurile de pierdere a comunicațiilor.",
+   "long": "încearcă mai întți să verifici volumul, frecvența, alimentarea și conexiunile și să restabilești contactul pe frecvența curentă sau cu altă stație. Dacă pierderea comunicațiilor este confirmată, selectează codul 7600 (dacă transponderul este disponibil) și urmează procedura pentru tipul de zbor și spațiul aerian. Pentru VFR, SERA prevede continuarea în VMC, aterizarea la cel mai apropiat aerodrom potrivit și raportarea sosirii; IFR are proceduri distincte.\n\nSursă: [Regulamentul SERA, SERA.14083](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0923-20250501).",
    "answers": [
     {
      "text": "setarea transponderului pe codul 7600",
@@ -1844,7 +1844,7 @@
    "number": "#52",
    "text": "695: Folosirea stației radio la bord se face în baza:",
    "short": "Stația radio de bord se folosește pe baza certificatului general de operator radiotelefonist.",
-   "long": "Folosirea stației radio de bord se face în baza certificatului general de operator radiotelefonist, eliberat de ANCOM.",
+   "long": "întrebarea vizează certificarea persoanei care operează stația, nu autorizarea tehnică a stației în sine. Operatorul trebuie să dețină certificatul corespunzător serviciului radio și să folosească stația în limitele licenței/autorizației aplicabile. Certificatul de operator și autorizația stației sunt documente cu roluri diferite; unul nu îl înlocuiește pe celșlalt.\n\nSursă: [ANCOM — Personal operator](https://www.ancom.ro/category/autorizare-ro/personal-operator/).",
    "answers": [
     {
      "text": "certificatului general de operator radiotelefonist",
@@ -1880,7 +1880,7 @@
    "number": "#53",
    "text": "717: Pe ce frecvența comunicați cu o aeronava care vă interceptează:",
    "short": "Frecvența de urgență pentru o aeronavă care vă interceptează este 121,5 MHz.",
-   "long": "Frecvența de urgență 121,5 MHz este cea pe care se comunică la interceptare.",
+   "long": "Frecvența internațională de urgență VHF este 121,5 MHz. La interceptare, aeronava interceptată încearcă să stabilească legătura cu aeronava interceptoare sau cu unitatea ATS relevantă; 121,5 MHz este frecvența de urgență utilizată dacă legătura nu poate fi stabilită pe frecvența normală ori dacă procedura o cere. Pșstrează ascultarea și urmează instrucțiunile de interceptare.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "123,45",
@@ -1916,7 +1916,7 @@
    "number": "#54",
    "text": "730: Frecvențele radio ale turnului de control ale aeroporturilor din Romania se publică în:",
    "short": "Frecvențele radio ale turnurilor din România se publică în AIP România.",
-   "long": "Frecvențele radio ale turnurilor de control ale aeroporturilor din România se publică în AIP România, publicația oficială de informare aeronautică.",
+   "long": "Publicația oficială este AIP România (Aeronautical Information Publication). Frecvențele sunt publicate în secțiunile relevante pentru aerodromuri (AD) și servicii de rută (ENR), împreună cu indicativul unitășii și orele de funcționare. Folosește versiunea/amendamentul curent și NOTAM-urile asociate; o listă veche sau o hartă neactualizată poate avea informații depășite.\n\nSursă: [AIS România ă portal AIP](https://aisro.ro/aip/2026-10-01/html/ro/aip_toc_enr.html).",
    "answers": [
     {
      "text": "serviciul de trafic aerian național",
@@ -1952,7 +1952,7 @@
    "number": "#55",
    "text": "778: În spațiul aerian de clasă G, ce tipuri de zboruri sunt permise și ce serviciu de trafic aerian este furnizat?",
    "short": "În spațiul de clasă G sunt permise zborurile IFR și VFR, iar serviciul furnizat este de informare a zborurilor.",
-   "long": "În clasa G sunt permise zborurile IFR și VFR, iar serviciul furnizat este de informare a zborurilor (AIP ENR 1.4, clasa G).",
+   "long": "în clasa G sunt permise zboruri IFR și VFR. Clasa este necontrolată: nu se cere autorizare ATC pentru simpla operare în ea și nu se asigură separare între toate zborurile. Serviciul de informare a zborurilor poate fi disponibil, iar în FIR București AIP precizează serviciul și cerințele radio aplicabile; consultă publicația curentă pentru detaliile locale.\n\nSursă: [AIP România, ENR 1.4](https://aisro.ro/aip/2025-10-02/DOCS/AIP/ENR/ENR1/LR_ENR_1_4_en.pdf).",
    "answers": [
     {
      "text": "Sunt permise doar zborurile IFR și se furnizează serviciul de alarmare",
@@ -1988,7 +1988,7 @@
    "number": "#56",
    "text": "709: Rămâi pe recepție înseamnă:",
    "short": "„Rămâi pe recepție” înseamnă să aștepți până ești rechemat.",
-   "long": "„Rămâneți pe recepție” înseamnă să aștepți până ești rechemat, fără să răspunzi.",
+   "long": "STANDBY se traduce prin îașteptați și vă voi chemaă. Rșmți în ascultare pe frecvenăă și nu transmiți din nou imediat, decșt dacă apare o urgență sau există un motiv operațional. Cuvântul nu acordă o autorizare, nu refuză solicitarea și nu înseamnă că poți continua o acțiune pentru care încă aștepți aprobarea.\n\nSursă: [Regulamentul SERA, frazeologia radiotelefonică](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0923-20250501).",
    "answers": [
     {
      "text": "așteaptă până te rechem",
@@ -2024,7 +2024,7 @@
    "number": "#57",
    "text": "738: Ce document este esențial pentru desfășurarea unui zbor VFR?",
    "short": "Pentru un zbor VFR, documentul esențial este planul de zbor.",
-   "long": "Planul de zbor nu este obligatoriu pentru orice zbor VFR. RACR-RA 3.030 pct. 1.2 cere plan doar în cazurile enumerate, de exemplu când se cere serviciu ATC.",
+   "long": "Nu există un singur document obligatoriu pentru fiecare zbor VFR. Planul de zbor ATS este obligatoriu în situațiile enumerate de reguli (de exemplu, când se solicită serviciul de control sau alertare, pentru anumite traversșri de frontieră ori zboruri pe rute desemnate); pentru alte zboruri VFR poate fi opțional, deți util pentru cșutare și salvare. Verifică cerința aplicabilă rutei și spațiului, nu presupune că VFR înseamnă întotdeauna îfără plană.\n\nSursă: [Regulamentul SERA, SERA.4001](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0923-20250501).",
    "answers": [
     {
      "text": "planul de zbor",
@@ -2060,7 +2060,7 @@
    "number": "#58",
    "text": "732: Cum veți solicita repetarea unui mesaj neînțeles?",
    "short": "Pentru a cere repetarea unui mesaj, spui „repetați mesajul”.",
-   "long": "Pentru a cere repetarea unui mesaj neînțeles se folosește „repetați”, cuvântul standard din fonia aeronautică.",
+   "long": "Pentru a cere retransmiterea, folosește expresia standard „SAY AGAIN” (îrepetațiă), apoi precizează partea mesajului pe care nu ai înțeles-o, dacă este cazul. Nu ghici cifrele unei frecvențe, altitudini sau autorizări: cere repetarea și fă readback-ul elementelor care trebuie confirmate. Mesajele scurte și precise reduc riscul ca o instrucțiune să fie interpretată grețit.\n\nSursă: [Regulamentul SERA, frazeologia radiotelefonică](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0923-20250501).",
    "answers": [
     {
      "text": "repetați mesajul",
@@ -2096,7 +2096,7 @@
    "number": "#59",
    "text": "757: Ce semnal trebuie emis în cazul unui pericol grav și iminent, care necesită asistență imediată?",
    "short": "În caz de pericol grav și iminent se emite MAYDAY.",
-   "long": "MAYDAY este semnalul pentru pericol grav și iminent, care cere ajutor imediat.",
+   "long": "MAYDAY este semnalul radiotelefonic de primejdie: indică un pericol grav și/sau iminent și solicitarea de asistenăă imediată. Se transmite pe frecvența aer-sol folosită în acel moment, preferabil rostit de trei ori, apoi se dau datele esențiale despre aeronavă, pericol, intenții și poziție. Codul transponder 7700 poate completa apelul, dar nu înlocuiește mesajul vocal când radioul funcționează.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "MAYDAY",
@@ -2132,7 +2132,7 @@
    "number": "#60",
    "text": "767: Ce informații trebuie incluse în mesajele de primejdie?",
    "short": "Un mesaj de primejdie trebuie să conțină poziția exactă, natura urgenței și asistența solicitată.",
-   "long": "Mesajul de primejdie conține poziția, natura urgenței și asistența cerută, pentru a permite salvarea.",
+   "long": "Mesajul de primejdie începe cu MAYDAY, preferabil repetat de trei ori. Apoi pilotul transmite, în mșsura posibilului, stația apelată, identificarea aeronavei, natura primejdiei, intențiile, poziția, nivelul și capul, precum și informații utile suplimentare. Poziția trebuie să fie suficient de clară pentru localizare; dacă nu o cunoști exact, transmite ultima poziție cunoscută și orice reper disponibil.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "timpul estimat până la destinație",
@@ -2168,7 +2168,7 @@
    "number": "#61",
    "text": "692: Care este ordinea de prioritate a comunicațiilor în serviciul mobil aeronautic?",
    "short": "Apelurile și mesajele de primejdie au prioritatea cea mai mare în serviciul mobil aeronautic.",
-   "long": "În serviciul mobil aeronautic, apelurile și mesajele de primejdie au prioritatea cea mai mare, apoi urgența și siguranța.",
+   "long": "Prioritatea cea mai mare revine mesajelor de primejdie (MAYDAY). Urmează mesajele de urgență (PAN PAN, inclusiv PAN PAN MEDICAL), apoi comunicațiile de direcționare, de siguranăă a zborului, meteorologice și de regularitate a zborului. Prioritatea înseamnă că celelalte stații pșstrează frecvența liberă, cu excepția cazului în care pot ajuta sau sunt autorizate să transmită.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "comunicări de serviciu",
@@ -2204,7 +2204,7 @@
    "number": "#62",
    "text": "783: Care sunt procedurile standard de comunicare atunci când o aeronavă intră din spațiul aerian necontrolat (clasa G) în spațiul aerian controlat (clasele A-E)?",
    "short": "Înainte de a intra din spațiul G în spațiul controlat, trebuie să stabiliți contactul radio cu ATC și să obțineți autorizarea.",
-   "long": "Înainte de a intra din clasa G în spațiul controlat (clasele A–E), aeronava trebuie să stabilească legătura radio cu unitatea ATC și să obțină autorizarea.",
+   "long": "înainte de a intra într-un spațiu controlat, stabilește comunicația bilaterală cu unitatea ATC competentă și obține autorizarea necesară. Transmite indicativul, poziția, nivelul și intenția/ruta, apoi ascultă și repetă elementele esențiale ale autorizării. Dacă nu poți contacta ATC, nu presupune că tșcerea înseamnă aprobare; rșmți în afara spațiului controlat și urmează procedura locală.\n\nSursă: [Regulamentul SERA și AIP România](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0923-20250501).",
    "answers": [
     {
      "text": "Aeronava trebuie să schimbe transponderul pe codul 7000 - (Visual Flight Rules) și să continue zborul fără comunicare suplimentară",
@@ -2240,7 +2240,7 @@
    "number": "#63",
    "text": "696: Zburati în grup în spațiul G și ați pierdut legătura radio:",
    "short": "Dacă ați pierdut legătura radio în grup, continuați zborul cu prudență și urmăriți grupul.",
-   "long": "În clasa G, unde comunicația radio nu este obligatorie, dacă pierzi legătura radio în grup, continui zborul prudent și urmărești grupul.",
+   "long": "Dacă zbori în grup și se pierde legătura radio, menține separarea vizuală și poziția convenită în formație/grup, fără manevre bruște și fără să presupui că ceilalți te-au auzit. În clasa G, radioul nu este obligatoriu în general pentru VFR, dar pierderea lui poate afecta coordonarea grupului; aplică procedura de pierdere a contactului stabilită la briefing și aterizează dacă nu poți pșstra zborul în siguranăă.\n\nSursă: [AIP România, ENR 1.4](https://aisro.ro/aip/2025-10-02/DOCS/AIP/ENR/ENR1/LR_ENR_1_4_en.pdf).",
    "answers": [
     {
      "text": "va continuați zborul prudent, zburând atent și urmărind grupul în continuare",
@@ -2276,7 +2276,7 @@
    "number": "#64",
    "text": "701: Sunteți în zbor într-un CTR și nu sunteți sigur că stația radio pe care o aveți la bord funcționează corect. In acest caz, veți:",
    "short": "Într-un CTR cu stația nesigură, ceri turnului un control radio folosind frazeologia dedicată.",
-   "long": "Într-un CTR, dacă nu ești sigur că stația funcționează, ceri un control radio de la turn (TWR) folosind frazeologia standard.",
+   "long": "într-un CTR, radioul este mijlocul de coordonare cu unitatea de control. Dacă ai îndoieli că stația funcționează, verifică setările și încearcă apelul pe frecvența publicată; cere un radio check și ascultă dacă primești răspuns. Nu intra și nu continua în CTR pe presupunerea că aparatul funcționează: dacă nu stabilești contactul, aplică procedura de comunicații pierdute și rșmți în afara spațiului controlat când este posibil.\n\nSursă: [Regulamentul SERA, comunicații și pierderea comunicațiilor](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0923-20250501).",
    "answers": [
     {
      "text": "continua zborul fără a mai interveni asupra stației",
@@ -2312,7 +2312,7 @@
    "number": "#65",
    "text": "693: Ce este un zbor VFR special?",
    "short": "Un zbor VFR special este autorizat de ATC să zboare în condiții meteo sub valorile VMC.",
-   "long": "Zborul VFR special este autorizat de ATC să se desfășoară în condiții meteo sub valorile VMC (RACR-RA, zboruri VFR speciale).",
+   "long": "Zborul VFR special este un zbor VFR autorizat de ATC în interiorul unei zone de control, când condițiile meteo sunt sub minimele VMC obișnuite aplicabile acelui spațiu, dar condițiile și cerințele speciale permit zborul. Nu este o dispensă generală pentru orice plafon sau vizibilitate: sunt necesare autorizarea ATC, respectarea minimelor speciale și menținerea condițiilor prescrise.\n\nSursă: [EASA — SERA.5005 și VFR special](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "un zbor de instruire",
@@ -2348,7 +2348,7 @@
    "number": "#66",
    "text": "764: Ce semnal se utilizează pentru a solicita asistență urgentă, dar fără a exista un pericol imediat?",
    "short": "Pentru asistență urgentă fără pericol imediat se folosește PAN PAN.",
-   "long": "PAN PAN se folosește pentru asistență urgentă fără pericol grav și iminent imediat.",
+   "long": "PAN PAN este semnalul radiotelefonic de urgență pentru o situație care afectează siguranța aeronavei, a unui alt vehicul sau a unei persoane, dar care nu cere ajutor imediat ca în cazul MAYDAY. Se rostește preferabil de trei ori și mesajul precizează problema, intențiile pilotului, poziția și orice ajutor solicitat. Dacă situația se agravează și apare pericol grav/imediat, transmite MAYDAY.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "SOS",
@@ -2384,7 +2384,7 @@
    "number": "#67",
    "text": "722: Rămâi pe recepție înseamnă:",
    "short": "„Rămâi pe recepție” înseamnă să aștepți instrucțiuni și să rămâi atent la comunicațiile radio.",
-   "long": "„Rămân pe recepție” înseamnă să aștepți instrucțiuni și să rămâi atent la comunicațiile radio.",
+   "long": "îRșmân pe recepțieă înseamnă că pilotul încetează să transmită și continuă să asculte frecvența pentru apelul sau instrucțiunea următoare. Nu înseamnă să schimbe frecvența și nici că a primit o autorizare. În frazeologia standard, STANDBY înseamnă că stația îl va chema din nou.\n\nSursă: [Regulamentul SERA, frazeologia radiotelefonică](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0923-20250501).",
    "answers": [
     {
      "text": "menține direcția",
@@ -2420,7 +2420,7 @@
    "number": "#68",
    "text": "745: Ce document trebuie să aibă la bord o aeronavă pentru a opera legal în spațiul aerian?",
    "short": "Aeronava trebuie să aibă la bord certificatul de înmatriculare pentru a opera legal.",
-   "long": "Aeronava trebuie să aibă la bord documentul de identificare și înmatriculare. Pentru ULM documentul de bază este certificatul de identificare (RACR-CCO ULM 1215).",
+   "long": "Aeronava trebuie să aibă documentele de identificare/înmatriculare și celelalte documente cerute de categoria ei și de operațiunea efectuată. Pentru ULM, documentul de identificare aplicabil poate diferi de certificatul de înmatriculare al unei aeronave certificate; cerințele depind de regimul național și de tipul zborului. întrebarea nu trebuie extinsă la îun singur actă: verifică lista completă din regulile aplicabile și documentele aeronavei.\n\nSursă: [AACR ă reglementări naționale pentru ULM](https://www.caa.ro/).",
    "answers": [
     {
      "text": "pașaportul",
@@ -2456,7 +2456,7 @@
    "number": "#69",
    "text": "781: Ce frecvență de radiocomunicații VHF este utilizată pentru comunicațiile aer-sol în cazul întreruperii temporare a serviciilor de trafic în spațiul aerian controlat?",
    "short": "În cazul întreruperii serviciilor de trafic se folosește frecvența TIBA, stabilită regional.",
-   "long": "Când serviciile de trafic sunt temporar întrerupte în spațiul controlat, comunicațiile aer-sol se fac pe frecvența TIBA, stabilită regional.",
+   "long": "TIBA înseamnă Traffic Information Broadcast by Aircraft: difuzarea de către aeronave a informațiilor de trafic când serviciile ATS sunt întrerupte sau indisponibile în condițiile stabilite. Se folosește frecvența și procedura publicate pentru zona respectivă, iar piloții transmit poziția, nivelul și intențiile la punctele/intervalele prevăzute. Nu este o frecvenăă universală aleasă de pilot și nu înlocuiește ATC când serviciul este disponibil.\n\nSursă: [ICAO — procedurile regionale de informare a traficului](https://www.icao.int/MID/Documents/2011/atm_sar_ais_sg12/docs/wp13.pdf).",
    "answers": [
     {
      "text": "frecvența de control de aerodrom",
@@ -2492,7 +2492,7 @@
    "number": "#70",
    "text": "740: Ce înseamnă abrevierea NOTAM?",
    "short": "NOTAM înseamnă Notice to Airmen.",
-   "long": "NOTAM este Notice to Airmen: informări aeronautice despre schimbări în facilități, pericole sau proceduri, transmise piloților.",
+   "long": "NOTAM este un aviz distribuit prin telecomunicații care informează personalul interesat despre instituirea, starea sau modificarea unei facilităși, serviciu, procedură ori pericol aeronautic, atunci când informația trebuie cunoscută la timp. Pilotul verifică NOTAM-urile relevante înaintea zborului, pentru aerodromuri, rute și spații traversate; NOTAM-ul completează AIP și nu îl înlocuiește ca publicație de bază.\n\nSursă: [ICAO — AIS / NOTAM](https://www.icao.int/airnavigation/information-management).",
    "answers": [
     {
      "text": "Notification of Aircraft Movement",
@@ -2528,7 +2528,7 @@
    "number": "#71",
    "text": "689: Ce înseamnă abrevierea VMC în contextul aviației?",
    "short": "VMC înseamnă condiții meteorologice de zbor la vedere.",
-   "long": "VMC înseamnă condiții meteorologice de zbor la vedere (visual meteorological conditions). Sunt condițiile în care pilotul vede solul și obstacolele, fiind exprimate prin vizibilitate și distanța față de nori.",
+   "long": "VMC înseamnă Visual Meteorological Conditions: condiții meteorologice care îndeplinesc minimele prescrise pentru zborul la vedere (vizibilitate, distanță față de nori și, unde se aplică, plafon). Minimele variază după clasa spațiului și altitudine, deci îpot vedea solulă nu este o definiție suficientă. VMC descrie vremea; VFR descrie regulile de zbor folosite.\n\nSursă: [EASA — SERA.5001 și tabelul VMC](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "vizibilitate minimă critică",
@@ -2564,7 +2564,7 @@
    "number": "#72",
    "text": "707: Frecvențele radio a turnurilor de control din Romania sunt publicate în:",
    "short": "Frecvențele turnurilor de control din România sunt publicate în AIP România.",
-   "long": "Frecvențele turnurilor de control sunt publicate în AIP România, publicația oficială de informare aeronautică.",
+   "long": "Frecvențele și datele de contact aeronautice publicate oficial pentru România se gșsesc în AIP România, în secțiunile corespunzștoare unitășilor ATS și aerodromurilor. AIP este organizat pe informații generale, informații de rută (ENR) și aerodromuri (AD); verifică ediția și amendamentele AIRAC în vigoare înainte de zbor, fiindcă frecvențele se pot modifica.\n\nSursă: [AIP România ă portalul AIS](https://aisro.ro/aip/2026-10-01/html/ro/aip_toc_enr.html).",
    "answers": [
     {
      "text": "AIP Romania",
@@ -2636,7 +2636,7 @@
    "number": "#74",
    "text": "724: Stațiile radio de aviație au un domeniu de frecvență de:",
    "short": "Radiostațiile de aviație funcționează între 118 și 135,975 MHz, cu un ecart de 8,33 kHz între canale.",
-   "long": "Stațiile radio de aviație lucrează în banda 118,000–135,975 MHz. În Europa canalele sunt de 8,33 kHz, mai înguste decât cele vechi de 25 kHz.",
+   "long": "Pentru comunicațiile aeronautice VHF, banda de comunicații aer-sol este în general 118,000ă136,975 MHz. În regiunea ICAO EUR se folosesc canale cu ecart de 8,33 kHz, pe lângă alocările cu 25 kHz unde sunt permise; numărul afițat de radio nu trebuie confundat cu frecvența centrală exactă, din cauza reprezentării canalului. Echiparea cerută depinde de spațiu și de AIP-ul național.\n\nSursă: [EASA — reguli pentru comunicațiile aeronautice](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-airborne-communications).",
    "answers": [
     {
      "text": "118.000 MHz la 135.975 MHz cu un ecart între canale de 25 KHz",
@@ -2672,7 +2672,7 @@
    "number": "#75",
    "text": "785: Cum trebuie să procedeze o aeronavă în cazul în care nu poate stabili contact radio cu ATC la intrarea din spațiul G în spațiul controlat?",
    "short": "Dacă aeronava nu poate stabili contactul radio cu ATC la intrarea în spațiul controlat, rămâne în spațiul necontrolat și încearcă să restabilească legătura.",
-   "long": "Dacă aeronava nu reușește să stabilească legătura radio cu ATC înainte de a intra în spațiul controlat, nu intră. Rămâne în spațiul necontrolat și încearcă să refacă legătura.",
+   "long": "Dacă nu poți stabili legătura radio cu ATC înainte de intrarea într-un spațiu unde comunicația bilaterală este obligatorie, nu intra pe presupunerea că ai fost auzit sau autorizat. Verifică frecvența și echipamentul, încearcă din nou și contactează o altă stație ATS dacă procedura permite; pșstrează-te în afara spațiului controlat și solicită ajutor. În zbor deja controlat, aplică procedura SERA de pierdere a comunicațiilor și selectează 7600 când este cazul.\n\nSursă: [Regulamentul SERA, SERA.14083](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0923-20250501).",
    "answers": [
     {
      "text": "Aeronava trebuie să seteze transponderul pe codul 7700 - (Emergency) \"Seventy-seven, going to heaven\" și să emită un mesaj de urgență",
@@ -2708,7 +2708,7 @@
    "number": "#76",
    "text": "771: Ce termen este folosit pentru a desemna serviciile de telecomunicații fixe sau mobile accesibile publicului?",
    "short": "Serviciile de telecomunicații fixe sau mobile accesibile publicului se numesc servicii publice de telecomunicații.",
-   "long": "Serviciile de telecomunicații accesibile publicului sunt serviciile publice de telecomunicații.",
+   "long": "Expresia descrie serviciile de telecomunicații oferite utilizatorilor în mod public, prin rețele fixe sau mobile. îPublică se referă la disponibilitatea serviciului pentru public, nu la faptul că fiecare transmisie aeronautică este o comunicație publică; serviciul mobil aeronautic este un serviciu radio specializat, folosit pentru comunicații între aeronave și stații aeronautice.\n\nSursă: [ANCOM — reglementarea comunicațiilor](https://www.ancom.ro/).",
    "answers": [
     {
      "text": "servicii de telecomunicații de securitate",
@@ -2744,7 +2744,7 @@
    "number": "#77",
    "text": "723: Dacă sunteți în legătură cu un organ de trafic și vi s-a oprit motorul în zbor veți declara:",
    "short": "Dacă motorul s-a oprit în zbor, se declară MAYDAY.",
-   "long": "La oprirea motorului în zbor, pericolul este grav și iminent. Se transmite MAYDAY (pericol grav și iminent).",
+   "long": "Când oprirea motorului creează o primejdie gravă și iminentă și este nevoie de ajutor imediat, pilotul transmite MAYDAY. Mesajul ar trebui să includă identificarea, natura problemei, intenția (de exemplu, aterizare forțată), poziția și nivelul; transmite cșt poți de clar, fără să întârzii manevrarea aeronavei. PAN PAN este rezervat situației urgente fără nevoie imediată de asistenăă.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "MAY DAY",
@@ -2780,7 +2780,7 @@
    "number": "#78",
    "text": "751: Ce semnificație are grupul de litere „SOS” în Codul Morse?",
    "short": "În codul Morse, SOS înseamnă semnal de pericol.",
-   "long": "SOS este semnalul Morse de pericol grav și iminent.",
+   "long": "SOS este grupul internațional de primejdie în cod Morse: trei puncte, trei linii, trei puncte (ăăă ă ă ă ăăă). În regulile aeronautice, emiterea sa este unul dintre semnalele de primejdie, alșturi de MAYDAY în radiotelefonie și de codul transponder 7700. într-o transmisie vocală se folosește MAYDAY, nu se pronunăă „SOS” ca substitut.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "semnal de atenție",
@@ -2816,7 +2816,7 @@
    "number": "#79",
    "text": "748: Ce termen este folosit pentru o transmisie automată de un semnal de urgență?",
    "short": "ELT este termenul pentru transmisia automată a unui semnal de urgență.",
-   "long": "ELT (Emergency Locator Transmitter) este dispozitivul care transmite automat semnal de urgență în caz de accident.",
+   "long": "ELT (Emergency Locator Transmitter) este un emiăîtor de localizare de urgență, instalat la bord. În funcție de tip, poate porni automat la impact sau poate fi activat manual și transmite un semnal folosit de serviciile de cșutare și salvare pentru localizare. Nu este acelați lucru cu radioul de comunicații al pilotului; frecvențele și cerințele de echipare depind de tipul ELT și de regulile aplicabile.\n\nSursă: [EASA — echipamente de comunicații și navigație la bord](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-airborne-communications).",
    "answers": [
     {
      "text": "DME (Distance Measuring Equipment)",
@@ -2924,7 +2924,7 @@
    "number": "#82",
    "text": "702: Pentru a putea utiliza în mod corect o stație radio atunci când zburăm cu motoparapanta trebuie să:",
    "short": "Pentru a folosi corect stația radio la motoparapantă, trebuie să ai o cască cu sistem de comunicații integrat.",
-   "long": "Pe motoparapantă, zgomotul motorului și vântul acoperă vorbirea. O cască cu sistem de comunicații integrat permite utilizarea corectă a stației.",
+   "long": "Pe o motoparapantă, zgomotul motorului și vântul pot acoperi vocea, iar microfonul poate capta zgomotul ambiental. O cască potrivită, cu microfon poziționat corect și conexiune compatibilă cu stația, ajută la recepție și transmisie inteligibilă. Verifică echipamentul înainte de zbor și respectă instrucțiunile producștorului; o cască nu înlocuiește reglarea corectă a frecvenței, volumului și squelch-ului.\n\nSursă: [FAA — Pilot’s Handbook, comunicații aeronautice](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak).",
    "answers": [
     {
      "text": "avem o stație care să aibă un grad ridicat de protecție la umezeală",
@@ -2960,7 +2960,7 @@
    "number": "#83",
    "text": "779: Care este rolul serviciului de informare a zborurilor în spațiul aerian necontrolat?",
    "short": "Serviciul de informare a zborurilor în spațiul necontrolat furnizează informații utile pentru un zbor sigur și eficient.",
-   "long": "Serviciul de informare a zborurilor (FIS) furnizează informații utile pentru zborul în siguranță și eficient, inclusiv în spațiul necontrolat.",
+   "long": "FIS furnizează informații utile pentru desfăîurarea sigură și eficientă a zborului, de exemplu informații despre vreme, activităși cunoscute și condiții relevante. În spațiul necontrolat, FIS nu oferă autorizări ATC și nu garantează separarea aeronavelor; pilotul rămâne responsabil de observare și evitare. Solicitarea și frecvența serviciului se verifică în AIP, deoarece acoperirea și programul diferă pe zone.\n\nSursă: [AIP România, ENR 1.4](https://aisro.ro/aip/2025-10-02/DOCS/AIP/ENR/ENR1/LR_ENR_1_4_en.pdf).",
    "answers": [
     {
      "text": "să furnizeze informații utile pentru desfășurarea în siguranță și eficientă a zborului",
@@ -2996,7 +2996,7 @@
    "number": "#84",
    "text": "770: Ce document este necesar pentru a opera legal o stație radio aeronautică?",
    "short": "Pentru a opera legal o stație radio aeronautică este necesar certificatul de operator radio.",
-   "long": "Pentru a opera legal o stație radio aeronautică este necesar certificatul de operator radio, eliberat de autoritatea competentă.",
+   "long": "Pentru utilizarea legală a unei stații contează autorizarea stației/frecvenței și calificarea persoanei care operează, conform serviciului radio. Certificatul de operator atestă competența persoanei, dar nu autorizează automat orice echipament sau frecvenăă. Verifică regimul aplicabil stației și serviciului la ANCOM și documentele efectiv emise pentru echipament.\n\nSursă: [ANCOM — autorizare și personal operator](https://www.ancom.ro/category/autorizare-ro/personal-operator/).",
    "answers": [
     {
      "text": "certificatul de garanție",
@@ -3032,7 +3032,7 @@
    "number": "#85",
    "text": "750: Care este rolul unui operator radio cu certificat restrâns?",
    "short": "Operatorul cu certificat restrâns poate opera doar pe frecvențele alocate exclusiv serviciului respectiv.",
-   "long": "Operatorul cu certificat restrâns poate opera doar pe frecvențele alocate exclusiv serviciului pentru care este certificat, spre deosebire de cel cu certificat general.",
+   "long": "Un certificat restrâns autorizează operatorul doar în limitele serviciului și ale competențelor înscrise în certificat; nu trebuie interpretat ca drept general de a opera pe orice frecvenăă aeronautică. Operatorul respectă alocarea de frecvențe și autorizația stației, iar pentru alt serviciu poate fi necesar alt certificat sau altă calificare. Termenul și domeniul exact se verifică în certificatul și reglementarea ANCOM aplicabile.\n\nSursă: [ANCOM — certificate pentru personal operator](https://www.ancom.ro/category/autorizare-ro/personal-operator/).",
    "answers": [
     {
      "text": "poate opera pe orice frecvență",
@@ -3068,7 +3068,7 @@
    "number": "#86",
    "text": "766: Ce document este necesar pentru autorizarea funcționării unei stații de radiocomunicații?",
    "short": "Pentru autorizarea funcționării unei stații radio este necesar certificatul general de operator radiotelefonist.",
-   "long": "Autorizarea funcționării unei stații de radiocomunicații cere certificatul general de operator radiotelefonist, eliberat de ANCOM.",
+   "long": "Autorizația de funcționare privește stația radio și utilizarea ei conform parametrilor și frecvențelor aprobate. Certificatul general de operator privește persoana care folosește stația; acestea nu sunt acelați document și unul nu îl înlocuiește pe celșlalt. Cerințele precise depind de categoria stației și de serviciul de radiocomunicații, deci verifică documentele și procedura ANCOM aplicabile.\n\nSursă: [ANCOM — autorizare și personal operator](https://www.ancom.ro/category/autorizare-ro/personal-operator/).",
    "answers": [
     {
      "text": "certificatul general de operator radiotelefonist",
@@ -3140,7 +3140,7 @@
    "number": "#88",
    "text": "758: Ce documente trebuie să însoțească în mod obligatoriu stațiile de radiocomunicații?",
    "short": "Stațiile radio trebuie însoțite de autorizația de utilizare a frecvențelor și de licența stației.",
-   "long": "Stația de radiocomunicații trebuie să fie însoțită de autorizația de utilizare a frecvențelor și de licența stației.",
+   "long": "O stație radio aeronautică trebuie să fie autorizată să opereze, iar folosirea frecvențelor trebuie să respecte condițiile licenței/autorizației emise de autoritatea competentă. Documentul exact depinde de regimul de autorizare și de titularul stației. Nu confunda documentele stației cu certificatul operatorului: primul privește echipamentul și utilizarea frecvențelor, al doilea calificarea persoanei care operează.\n\nSursă: [ANCOM — autorizare și personal operator](https://www.ancom.ro/category/autorizare-ro/personal-operator/).",
    "answers": [
     {
      "text": "autorizația de utilizare a frecvențelor și licența stației",
@@ -3176,7 +3176,7 @@
    "number": "#89",
    "text": "776: Ce semnifică termenul „air traffic control” (ATC)?",
    "short": "ATC înseamnă gestionarea și coordonarea traficului aerian pentru a asigura siguranța zborurilor.",
-   "long": "ATC (Air Traffic Control) gestionează și coordonează traficul aerian pentru siguranța zborurilor.",
+   "long": "ATC (Air Traffic Control) este controlul traficului aerian. Unitășile ATC furnizează serviciul de control în spațiile desemnate, emitând autorizări și instrucțiuni pentru desfăîurarea sigură și ordonată a traficului. ATC este unul dintre serviciile de trafic aerian; FIS (informarea zborurilor) și serviciul de alertare au funcții diferite.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "gestionarea bagajelor pierdute",
@@ -3212,7 +3212,7 @@
    "number": "#90",
    "text": "720: Unitatea de măsura a frecvenței este:",
    "short": "Unitatea de măsură a frecvenței este hertzul (Hz).",
-   "long": "Frecvența se măsoară în hertzi (Hz), cu multipli kHz și MHz.",
+   "long": "Frecvența mșsoară numărul de cicluri ale unui fenomen periodic într-o secundă. Unitatea SI este hertzul (Hz): 1 Hz înseamnă un ciclu pe secundă; 1 kHz = 1.000 Hz, iar 1 MHz = 1.000.000 Hz. Frecvențele radio aeronautice VHF se exprimă de regulă în MHz.\n\nSursă: [BIPM — Sistemul Internațional de Unităși (SI)](https://www.bipm.org/en/publications/si-brochure).",
    "answers": [
     {
      "text": "Newtonul",
@@ -3248,7 +3248,7 @@
    "number": "#91",
    "text": "741: Ce reprezintă abrevierea ATC?",
    "short": "ATC înseamnă Air Traffic Control.",
-   "long": "ATC înseamnă Air Traffic Control.",
+   "long": "ATC este abrevierea engleză de la Air Traffic Control, adică serviciul de control al traficului aerian. În practică, „ATC” poate desemna și unitatea care furnizează serviciul; contextul clarifică dacă se vorbește despre serviciu sau despre controlor/unitate.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "Aircraft Technical Check",
@@ -3284,7 +3284,7 @@
    "number": "#92",
    "text": "782: Care sunt componentele serviciului de informare a zborurilor în spațiul necontrolat?",
    "short": "Serviciul de informare în spațiul necontrolat oferă indicații și informații utile pentru un zbor sigur și eficient.",
-   "long": "În spațiul necontrolat, serviciul de informare dă indicații și informații utile pentru zborul în siguranță și eficient.",
+   "long": "FIS (Flight Information Service) furnizează informații și recomandșri utile pentru desfăîurarea sigură și eficientă a zborului, precum informații meteo, activitate sau condiții relevante. Informarea nu este control: în clasa G, FIS nu emite autorizări ATC și nu asigură separarea tuturor aeronavelor. Pilotul rămâne responsabil de respectarea regulilor și de evitarea coliziunilor; disponibilitatea serviciului și modul de solicitare se verifică în AIP.\n\nSursă: [AIP România, ENR 1.4](https://aisro.ro/aip/2025-10-02/DOCS/AIP/ENR/ENR1/LR_ENR_1_4_en.pdf).",
    "answers": [
     {
      "text": "furnizarea de indicații și informații utile pentru desfășurarea în siguranță și eficientă a zborului",
@@ -3320,7 +3320,7 @@
    "number": "#93",
    "text": "703: Ați solicitat TWR condițiile meteo pentru aterizare și nu ați primit niciun răspuns. Cum procedați în continuare?",
    "short": "Dacă turnul nu răspunde la cererea de condiții meteo, aștepți puțin și reîncerci cererea.",
-   "long": "Nu presupui condițiile meteo și nu aterizezi pe baza unei estimări. Repeți cererea după o scurtă așteptare. Imaginile satelitare nu înlocuiesc informația meteo oficială, iar aterizarea fără date este periculoasă.",
+   "long": "Dacă turnul nu răspunde la cererea de informații meteo, nu trata lipsa răspunsului ca pe o confirmare a condițiilor și nu inventa o valoare. Reapelează pe frecvența corectă după o scurtă pauză, verifică volumul și setarea radioului și încearcă o altă sursă ATS/AIS autorizată, dacă este disponibilă. Dacă informația necesară pentru o aterizare sigură nu poate fi obținută, amână apropierea sau alege o alternativă potrivită; imaginea satelitară nu înlocuiește METAR/ATIS ori raportul oficial cerut.\n\nSursă: [EASA — reguli SERA privind comunicațiile și siguranța zborului](https://www.easa.europa.eu/en/regulations/standardised-european-rules-air-sera).",
    "answers": [
     {
      "text": "continuați procedura de aterizare chiar dacă turnul de control nu a răspuns solicitării",
@@ -3356,7 +3356,7 @@
    "number": "#94",
    "text": "713: Care din următoarele afirmații este corectă:",
    "short": "În spațiul de clasă G nu este obligatorie legătura radio cu organul de trafic.",
-   "long": "În clasa G legătura radio cu organul de trafic nu este obligatorie pentru zborul VFR. Clasa G este necontrolată, iar serviciul de informare se oferă la cerere (AIP ENR 1.4).",
+   "long": "Afirmația corectă trebuie citită în contextul clasei G: este spațiu necontrolat, iar zborurile VFR nu au, în general, obligația unei comunicații bilaterale continue cu ATC. AIP România indică separat că zborurile IFR din clasa G trebuie să aibă capabilitate de comunicații aer-sol, chiar dacă nu este cerută comunicație vocală continuă. Ațadar, nu extinde regula VFR la toate zborurile și verifică cerințele regionale curente.\n\nSursă: [AIP România, ENR 1.4](https://aisro.ro/aip/2025-10-02/DOCS/AIP/ENR/ENR1/LR_ENR_1_4_en.pdf).",
    "answers": [
     {
      "text": "în spațiul G nu este obligatorie legătura radio cu organul de trafic",
@@ -3464,7 +3464,7 @@
    "number": "#97",
    "text": "763: Ce termen este folosit pentru a desemna o rută definită pentru traficul aerian?",
    "short": "Ruta definită pentru traficul aerian se numește rută ATS.",
-   "long": "Ruta ATS este o rută definită pentru traficul aerian, cu servicii de trafic aerian.",
+   "long": "O rută ATS este o rută desemnată pentru dirijarea fluxului de trafic, incluzând, după caz, ruta de serviciu consultativ, ruta controlată sau necontrolată, ruta de sosire/de plecare și alte segmente definite. Ruta poate fi descrisă prin repere și niveluri, iar publicarea ei nu înseamnă automat că orice aeronavă poate intra fără autorizare: se aplică regulile spațiului aerian și condițiile din AIP.\n\nSursă: [Regulamentul SERA, definiții și reguli de zbor](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0923-20250501).",
    "answers": [
     {
      "text": "rută VFR",
@@ -3536,7 +3536,7 @@
    "number": "#99",
    "text": "735: ’’Go around’’ înseamnă:",
    "short": "Go around înseamnă că execuți imediat ratarea aterizării.",
-   "long": "Go around înseamnă ratarea aterizării: se urcă și se reia circuitul, din cauza unei situații nesigure la aterizare.",
+   "long": "„Go around” este întreruperea apropierii/aterizării și executarea manevrei de ratare, pentru a reveni la o traiectorie sigură și a încerca o nouă apropiere sau a urma altă instrucțiune. Se folosește când aterizarea nu mai este sigură sau stabilizată; pilotul aplică procedura aeronavei și comunică intenția către ATC, dacă este posibil. Nu înseamnă neapărat că s-a atins pista.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "execută un tur de pistă",
@@ -3572,7 +3572,7 @@
    "number": "#100",
    "text": "744: Ce semnal se utilizează pentru a indica o situație de pericol grav și iminent în radiotelefonie?",
    "short": "În radiotelefonie, pericolul grav și iminent se semnalează prin MAYDAY.",
-   "long": "MAYDAY este semnalul de radiotelefonie pentru pericol grav și iminent, cu cerere de ajutor imediat.",
+   "long": "în radiotelefonie, MAYDAY este semnalul de primejdie pentru pericol grav și/sau iminent cu solicitare de asistenăă imediată. Se transmite preferabil de trei ori, apoi se comunică identificarea aeronavei, natura situației, intențiile și poziția. PAN PAN indică o urgență care afectează siguranța, dar nu necesită ajutor imediat.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "HELP",
@@ -3608,7 +3608,7 @@
    "number": "#101",
    "text": "737: Care este frecvența internațională de primejdie pentru aviație?",
    "short": "Frecvența internațională de primejdie pentru aviație este 121,5 MHz.",
-   "long": "Frecvența internațională de urgență pentru aviație este 121,5 MHz.",
+   "long": "Frecvența VHF internațională de urgență aeronautică este 121,5 MHz. Ea se folosește pentru comunicații de primejdie/urgență și pentru alte scopuri de urgență stabilite; nu este frecvența obișnuită de lucru cu turnul sau FIS. Dacă folosești frecvența normală, începe apelul acolo când este posibil și treci la 121,5 MHz când procedura ori împrejurșrile o cer.\n\nSursă: [Regulamentul SERA, regulile de radiotelefonie și alertare](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
    "answers": [
     {
      "text": "125.5 MHz",
