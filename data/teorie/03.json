@@ -137,124 +137,120 @@
         "Un zbor de inițiere este un tur scurt oferit de o organizație de pregătire declarată sau de o organizație care promovează sporturile aeronautice. Este condus de un instructor cu calificarea valabilă pentru clasa respectivă și are nevoie de aprobarea organizației pentru loc, aeronavă și pilot. Decolarea și aterizarea se fac în FIR București, pe același aerodrom sau aceeași zonă de operare, fără opriri intermediare. Nu se combină cu alte operațiuni și nu se fac manevre simulate de urgență; timpul pasagerului nu se trece ca experiență pentru licență. Zborul este limitat la 60 de minute bloc, iar organizația nu poate depăși plafonul anual de 20% din totalul orelor sale de zbor. Sunt obligatorii asigurările cerute pentru pasageri și terți, iar organizația transmite raportul anual către AACR până la 31 ianuarie.",
         "Din 2024, licențele și anexele pentru ULM motorizat pot fi emise pe hârtie, pe card sau electronic. Documentele administrative pot fi depuse ca original, copie legalizată, copie certificată de autoritate ori copie electronică simplă prin aplicația autentificată a autorității de certificare; Aeroclubul României asigură verificarea online a autenticității și valabilității licențelor."
       ]
+    }
+  ],
+  "acronyms": [
+    {
+      "term": "OACI / ICAO",
+      "definition": "Organizația Aviației Civile Internaționale; organismul mondial care stabilește standarde și practici pentru aviația civilă."
     },
     {
-      "title": "12. Mic glosar de abrevieri",
-      "intro": "Acestea sunt prescurtările pe care le vei întâlni cel mai des în capitol și în documentele de zbor.",
-      "terms": [
-        {
-          "term": "OACI / ICAO",
-          "definition": "Organizația Aviației Civile Internaționale; organismul mondial care stabilește standarde și practici pentru aviația civilă."
-        },
-        {
-          "term": "EASA",
-          "definition": "Agenția Uniunii Europene pentru Siguranța Aviației."
-        },
-        {
-          "term": "AACR",
-          "definition": "Autoritatea Aeronautică Civilă Română."
-        },
-        {
-          "term": "RACR",
-          "definition": "Reglementare Aeronautică Civilă Română."
-        },
-        {
-          "term": "ULM",
-          "definition": "Aeronava ultraușoară motorizată."
-        },
-        {
-          "term": "SERA",
-          "definition": "Reguli europene standardizate ale aerului."
-        },
-        {
-          "term": "VFR / IFR",
-          "definition": "Reguli de zbor la vedere / reguli de zbor instrumental."
-        },
-        {
-          "term": "VMC / IMC",
-          "definition": "Condiții meteo care permit zborul la vedere / condiții sub minimele VFR."
-        },
-        {
-          "term": "PIC / PICUS",
-          "definition": "Pilot comandant / pilot care îndeplinește funcțiile comandantului sub supravegherea acestuia."
-        },
-        {
-          "term": "PPL, LAPL, SPL, BPL",
-          "definition": "Licență de pilot particular, licență de pilot pentru aeronave ușoare, licență de planor, licență de balon."
-        },
-        {
-          "term": "CPL / MPL / ATPL",
-          "definition": "Licență de pilot comercial / licență pentru echipaj multiplu / licență de pilot de transport aerian."
-        },
-        {
-          "term": "ATO / DTO",
-          "definition": "Organizație de pregătire aprobată / organizație de pregătire declarată."
-        },
-        {
-          "term": "GOC-AERO / ROC-AERO",
-          "definition": "Certificate general / restrâns de operator radiotelefonist aeronautic."
-        },
-        {
-          "term": "FIR / CTR / TMA",
-          "definition": "Regiune de informare a zborurilor / zonă de control de aerodrom / zonă de control terminală."
-        },
-        {
-          "term": "ATS / ATC / FIS",
-          "definition": "Servicii de trafic aerian / control al traficului aerian / serviciu de informare a zborurilor."
-        },
-        {
-          "term": "ACC / APP / TWR",
-          "definition": "Centru de control regional / control de apropiere / turn de control de aerodrom."
-        },
-        {
-          "term": "RMZ / TMZ",
-          "definition": "Zonă cu obligație de comunicație radio / zonă cu obligație de transponder."
-        },
-        {
-          "term": "FPL / ETA / UTC",
-          "definition": "Plan de zbor / ora estimată de sosire / timpul universal coordonat."
-        },
-        {
-          "term": "AIREP",
-          "definition": "Raport de la o aeronavă aflată în zbor, de obicei despre vreme sau pericole observate."
-        },
-        {
-          "term": "AIP / NOTAM / AIRAC / AIC",
-          "definition": "Publicația de Informare Aeronautică / notificare aeronautică temporară / sistem de publicare coordonată a schimbărilor importante / circulară informativă aeronautică."
-        },
-        {
-          "term": "SSR / IDENT / ADS-B / ADS-C",
-          "definition": "Radar secundar de supraveghere / funcția de identificare solicitată pilotului / sisteme care transmit automat date despre poziția aeronavei către sol."
-        },
-        {
-          "term": "QNH / QFE / FL",
-          "definition": "Reglaj de presiune pentru indicarea altitudinii față de nivelul mării / reglaj pentru înălțimea față de aerodrom / nivel de zbor raportat la presiunea standard."
-        },
-        {
-          "term": "AMSL / AGL",
-          "definition": "Deasupra nivelului mediu al mării / deasupra solului."
-        },
-        {
-          "term": "MTOM / CAS / IAS",
-          "definition": "Masă maximă la decolare / viteză calibrată / viteză indicată de instrumentul de bord."
-        },
-        {
-          "term": "TORA / TODA / ASDA / LDA",
-          "definition": "Distanță disponibilă pentru rulaj la decolare / distanță disponibilă la decolare incluzând zona liberă / distanță disponibilă pentru accelerare și oprire / distanță disponibilă pentru aterizare."
-        },
-        {
-          "term": "RVR / ILS / MLS",
-          "definition": "Distanță vizuală de-a lungul pistei / sistem de aterizare instrumentală / sistem de aterizare cu microunde."
-        },
-        {
-          "term": "SAR / INCERFA / ALERFA / DETRESFA",
-          "definition": "Căutare și salvare / fază de incertitudine / fază de alertă / fază de pericol."
-        },
-        {
-          "term": "MAYDAY / PAN PAN",
-          "definition": "Apel radiotelefonic de primejdie / apel de urgență care cere atenție sau prioritate, dar nu anunță același pericol imediat."
-        }
-      ]
+      "term": "EASA",
+      "definition": "Agenția Uniunii Europene pentru Siguranța Aviației."
+    },
+    {
+      "term": "AACR",
+      "definition": "Autoritatea Aeronautică Civilă Română."
+    },
+    {
+      "term": "RACR",
+      "definition": "Reglementare Aeronautică Civilă Română."
+    },
+    {
+      "term": "ULM",
+      "definition": "Aeronava ultraușoară motorizată."
+    },
+    {
+      "term": "SERA",
+      "definition": "Reguli europene standardizate ale aerului."
+    },
+    {
+      "term": "VFR / IFR",
+      "definition": "Reguli de zbor la vedere / reguli de zbor instrumental."
+    },
+    {
+      "term": "VMC / IMC",
+      "definition": "Condiții meteo care permit zborul la vedere / condiții sub minimele VFR."
+    },
+    {
+      "term": "PIC / PICUS",
+      "definition": "Pilot comandant / pilot care îndeplinește funcțiile comandantului sub supravegherea acestuia."
+    },
+    {
+      "term": "PPL, LAPL, SPL, BPL",
+      "definition": "Licență de pilot particular, licență de pilot pentru aeronave ușoare, licență de planor, licență de balon."
+    },
+    {
+      "term": "CPL / MPL / ATPL",
+      "definition": "Licență de pilot comercial / licență pentru echipaj multiplu / licență de pilot de transport aerian."
+    },
+    {
+      "term": "ATO / DTO",
+      "definition": "Organizație de pregătire aprobată / organizație de pregătire declarată."
+    },
+    {
+      "term": "GOC-AERO / ROC-AERO",
+      "definition": "Certificate general / restrâns de operator radiotelefonist aeronautic."
+    },
+    {
+      "term": "FIR / CTR / TMA",
+      "definition": "Regiune de informare a zborurilor / zonă de control de aerodrom / zonă de control terminală."
+    },
+    {
+      "term": "ATS / ATC / FIS",
+      "definition": "Servicii de trafic aerian / control al traficului aerian / serviciu de informare a zborurilor."
+    },
+    {
+      "term": "ACC / APP / TWR",
+      "definition": "Centru de control regional / control de apropiere / turn de control de aerodrom."
+    },
+    {
+      "term": "RMZ / TMZ",
+      "definition": "Zonă cu obligație de comunicație radio / zonă cu obligație de transponder."
+    },
+    {
+      "term": "FPL / ETA / UTC",
+      "definition": "Plan de zbor / ora estimată de sosire / timpul universal coordonat."
+    },
+    {
+      "term": "AIREP",
+      "definition": "Raport de la o aeronavă aflată în zbor, de obicei despre vreme sau pericole observate."
+    },
+    {
+      "term": "AIP / NOTAM / AIRAC / AIC",
+      "definition": "Publicația de Informare Aeronautică / notificare aeronautică temporară / sistem de publicare coordonată a schimbărilor importante / circulară informativă aeronautică."
+    },
+    {
+      "term": "SSR / IDENT / ADS-B / ADS-C",
+      "definition": "Radar secundar de supraveghere / funcția de identificare solicitată pilotului / sisteme care transmit automat date despre poziția aeronavei către sol."
+    },
+    {
+      "term": "QNH / QFE / FL",
+      "definition": "Reglaj de presiune pentru indicarea altitudinii față de nivelul mării / reglaj pentru înălțimea față de aerodrom / nivel de zbor raportat la presiunea standard."
+    },
+    {
+      "term": "AMSL / AGL",
+      "definition": "Deasupra nivelului mediu al mării / deasupra solului."
+    },
+    {
+      "term": "MTOM / CAS / IAS",
+      "definition": "Masă maximă la decolare / viteză calibrată / viteză indicată de instrumentul de bord."
+    },
+    {
+      "term": "TORA / TODA / ASDA / LDA",
+      "definition": "Distanță disponibilă pentru rulaj la decolare / distanță disponibilă la decolare incluzând zona liberă / distanță disponibilă pentru accelerare și oprire / distanță disponibilă pentru aterizare."
+    },
+    {
+      "term": "RVR / ILS / MLS",
+      "definition": "Distanță vizuală de-a lungul pistei / sistem de aterizare instrumentală / sistem de aterizare cu microunde."
+    },
+    {
+      "term": "SAR / INCERFA / ALERFA / DETRESFA",
+      "definition": "Căutare și salvare / fază de incertitudine / fază de alertă / fază de pericol."
+    },
+    {
+      "term": "MAYDAY / PAN PAN",
+      "definition": "Apel radiotelefonic de primejdie / apel de urgență care cere atenție sau prioritate, dar nu anunță același pericol imediat."
     }
   ]
 }

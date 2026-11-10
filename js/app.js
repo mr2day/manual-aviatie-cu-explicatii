@@ -525,8 +525,7 @@
 
   function renderTheory(theory) {
     theoryAcronymDefinitions = {};
-    theory.sections.forEach(function (section) {
-      (section.terms || []).forEach(function (entry) {
+    (theory.acronyms || []).forEach(function (entry) {
         var tokens = entry.term.split(/\s*\/\s*|\s*,\s*/).map(function (s) { return s.trim(); });
         var meanings = entry.definition.split(/\s*\/\s*/).map(function (s) { return s.trim(); });
         tokens.forEach(function (token, index) {
@@ -534,7 +533,6 @@
             theoryAcronymDefinitions[token] = tokens.length === meanings.length ? meanings[index] : entry.definition;
           }
         });
-      });
     });
     var main = document.getElementById('content');
     main.textContent = '';
