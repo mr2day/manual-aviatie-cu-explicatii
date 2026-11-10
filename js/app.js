@@ -7,6 +7,17 @@
   var routeVersion = 0;
   var assetVersion = document.currentScript && document.currentScript.getAttribute('data-version') || '';
   var examLocation = document.getElementById('exam-location');
+  var catalogRequestVersion = 0;
+
+  function setLocationParam(location) {
+    var url = new URL(window.location.href);
+    url.searchParams.set('loc', location);
+    window.history.replaceState(null, '', url.pathname + url.search + url.hash);
+  }
+
+  var requestedLocation = new URLSearchParams(window.location.search).get('loc');
+  examLocation.value = requestedLocation === 'deva' ? 'deva' : 'bucuresti';
+  if (requestedLocation !== examLocation.value) setLocationParam(examLocation.value);
 
   function showStatus(message, retry) {
     var main = document.getElementById('content');
@@ -24,12 +35,15 @@
   }
 
   function loadCatalog() {
+    var requestVersion = ++catalogRequestVersion;
+    var location = examLocation.value;
     showStatus('Se încarcă lista capitolelor…');
-    var url = 'data/' + examLocation.value + '/chapters.json' + (assetVersion ? '?v=' + encodeURIComponent(assetVersion) : '');
+    var url = 'data/' + location + '/chapters.json' + (assetVersion ? '?v=' + encodeURIComponent(assetVersion) : '');
     return fetch(url).then(function (response) {
       if (!response.ok) throw new Error('Catalog HTTP ' + response.status);
       return response.json();
     }).then(function (items) {
+      if (requestVersion !== catalogRequestVersion) return;
       if (!Array.isArray(items)) throw new Error('Catalog invalid pentru locul de examen.');
       chapters = items;
       byId = {};
@@ -42,6 +56,7 @@
         showStatus('Nu sunt încă întrebări disponibile pentru București.');
       }
     }).catch(function (error) {
+      if (requestVersion !== catalogRequestVersion) return;
       console.error('Nu s-a putut încărca catalogul capitolelor.', error);
       showStatus('Lista capitolelor nu s-a putut încărca. Verifică conexiunea și încearcă din nou.', loadCatalog);
     });
@@ -534,6 +549,7 @@
 
   window.addEventListener('hashchange', route);
   examLocation.addEventListener('change', function () {
+    setLocationParam(examLocation.value);
     chapters = [];
     byId = {};
     chapterCache = {};
