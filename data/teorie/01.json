@@ -6,7 +6,7 @@
     "edition": "Ediția 2, Revizia 0, februarie 2024",
     "file": "docs/official-set/AR-NCLA-ATO Legislație Aeronautică - Ed.2 2024.pdf"
   },
-  "notice": "Sinteza explică programa din PDF-ul menționat, în cuvinte simple. Nu înlocuiește actele normative. Cadrul ULM a fost modificat după publicarea cursului; pentru cerințe aplicabile astăzi verifică forma consolidată a Ordinului nr. 630/2007 și amendamentele sale. Valorile și procedurile ULM de mai jos descriu ce consemnează cursul din februarie 2024.",
+  "notice": "Sinteza explică programa din curs în cuvinte simple și integrează actualizările cadrului ULM din forma consolidată a Ordinului nr. 630/2007, inclusiv modificările din 2024 și 2025. Reglementările ULM de mai jos sunt prezentate în forma consolidată la 9 iulie 2026; pentru fiecare aeronavă se aplică documentele și limitele înscrise pentru aceasta.",
   "sections": [
     {
       "title": "1. Cine face regulile aviației",
@@ -28,6 +28,7 @@
         "Aeronavele folosite pentru activități militare, vamale sau de poliție sunt aeronave de stat. Convenția de la Chicago se referă în principal la aeronave civile; o aeronavă de stat are nevoie de permisiunea statului străin pe care îl survolează.",
         "Însemnele de pe aeronavă arată statul și înmatricularea. Pentru România, marca de naționalitate este YR; de exemplu, în «YR-ABC», YR identifică statul, iar ABC este marca de înregistrare. Certificatul de înmatriculare identifică aeronava, proprietarul și înscrierea în registru și, potrivit cursului, se păstrează la bord.",
         "Certificatul de navigabilitate arată că aeronava corespunde cerințelor tehnice aplicabile și este acceptată pentru zbor în condițiile și limitele înscrise. «Navigabilă» nu înseamnă că aeronava poate zbura oricum: trebuie respectate limitele de masă, centraj, viteză, motor, echipamente și întreținere din documentele ei.",
+        "La ULM nu se cere în toate cazurile certificatul standard de tip și certificatul standard de navigabilitate: documentul acceptat depinde de categoria aeronavei și de anexa aplicabilă. Un ULM motorizat înmatriculat în România trebuie să aibă certificatul de înmatriculare. Pentru un ULM străin este necesar documentul de navigabilitate emis de statul de înmatriculare și recunoscut în România; aeronava poate zbura numai în limitele acelui document.",
         "Convenția enumeră documente de zbor precum licențele și autorizațiile echipajului, documentele aeronavei, informațiile despre pasageri sau încărcătură când acestea sunt aplicabile și documentele stației radio. Lista exactă depinde de tipul aeronavei și de operațiune; pentru ULM se aplică cerințele naționale specifice, nu se presupune automat întreaga listă destinată transportului internațional."
       ]
     },
@@ -123,16 +124,19 @@
       ]
     },
     {
-      "title": "11. Ce înseamnă ULM și cum se obține licența, potrivit cursului",
+      "title": "11. Ce înseamnă ULM și cum se obține licența",
       "intro": "ULM înseamnă aeronavă ultraușoară motorizată. Cursul grupează aici avioane ultraușoare, motodeltaplane, motoparapante/motoparașute, elicoptere ultraușoare, autogire și dirijabile ultraușoare. Cerințele sunt naționale și depind de clasa aeronavei.",
       "points": [
-        "Cursul distinge ULM primare și avansate. Pentru categoria primară, descrie în general maximum 560 kg la decolare, cel mult două locuri și condiții privind viteza minimă și scopul construcției. Pentru ULM avansate, valorile diferă după configurație: de exemplu, în curs apar 300 kg pentru avion terestru cu un loc și 450 kg cu două locuri, cu valori diferite pentru hidroavioane și pentru unele sisteme de recuperare cu parașută. MTOM este masa maximă la decolare, iar CAS este viteza calibrată. Aceste cifre sunt cele reproduse în ediția PDF, nu o confirmare a încadrării unui aparat anume.",
-        "Potrivit cursului, solicitantul licenței ULM trebuie să aibă cel puțin 16 ani și certificat medical valabil. Pregătirea teoretică are minimum 50 de ore și acoperă nouă discipline: legislație, cunoașterea aeronavei, performanțe și planificare, performanțe umane, meteorologie, navigație, proceduri operaționale, principii de zbor și radiotelefonie.",
+        "Cursul distinge ULM primare și avansate. Pentru categoria primară, descrie în general maximum 560 kg la decolare, cel mult două locuri și condiții privind viteza minimă și scopul construcției. Pentru ULM avansate, valorile diferă după configurație: de exemplu, în curs apar 300 kg pentru avion terestru cu un loc și 450 kg cu două locuri, cu valori diferite pentru hidroavioane și pentru unele sisteme de recuperare cu parașută. MTOM este masa maximă la decolare, iar CAS este viteza calibrată. Încadrarea concretă se stabilește din documentele aeronavei și regulile categoriei aplicabile.",
+        "Solicitantul licenței ULM trebuie să aibă cel puțin 16 ani și certificat medical valabil. Pregătirea teoretică are minimum 50 de ore și acoperă nouă discipline: legislație, cunoașterea aeronavei, performanțe și planificare, performanțe umane, meteorologie, navigație, proceduri operaționale, principii de zbor și radiotelefonie. Programul și pregătirea trebuie să fie valabile potrivit cerințelor de licențiere.",
         "Cursul cere cel puțin 75% la examinarea scrisă pentru fiecare disciplină și promovarea unui test practic la sol și în zbor, după pregătirea sub supravegherea instructorului calificat. Pentru clasa «parașute cu motor», PDF-ul indică minimum 15 ore de zbor, dintre care cel puțin 3 ore în simplă comandă și 3 ore în raid, cu aterizări pe două terenuri diferite de cel de plecare. Procedurile de urgență simulate se fac în dublă comandă.",
         "Pentru comparație, aceeași ediție a cursului indică minimum 25 de ore pentru deltaplan cu motor (cu 5 ore în simplă comandă și 5 ore în raid), 40 de ore pentru avion ULM/autogir/elicopter (10 ore în simplă comandă și 5 ore în raid) și 20 de ore pentru dirijabil ULM (5 ore în simplă comandă și 5 ore în raid). Cerințele sunt specifice clasei; nu transfera orele de la o clasă la alta.",
-        "O licență străină nu este suficientă automat pentru a pilota în România o aeronavă ULM care intră sub regimul românesc: cursul descrie necesitatea unui certificat de recunoaștere valabil, împreună cu licența și certificatul medical. Verifică procedura actuală la autoritatea de certificare.",
-        "Conform ediției 2024, licența are o valabilitate de 24 de luni, cu condiția certificatului medical valabil; dacă zborul se face într-un spațiu unde radioul este obligatoriu, este necesar și certificatul de operator radio. Cursul descrie pentru revalidare 6 ore ca pilot comandant în ultimele 12 luni, 12 aterizări și un test de competență în ultimele 6 luni. Dacă experiența lipsește, descrie reantrenare și o nouă verificare.",
-        "Pentru reînnoirea unei licențe expirate, cursul cere pregătire teoretică și practică de reantrenare, examinare scrisă la discipline și test în zbor. Durata depinde de cât timp a trecut de la expirare. Privilegiile licenței se exercită numai în limitele clasei, calificărilor și autorizațiilor înscrise. Cursul menționează și autorizații suplimentare, de exemplu pentru pasager, flotoare, schiuri sau remorcaj, unde acestea sunt prevăzute."
+        "Licența ULM străină are, de regulă, nevoie de recunoaștere pentru exercitarea privilegiilor în România. Reglementarea prevede și situații limitate de zbor organizat sub controlul, inspecția sau supravegherea unui examinator ori inspector autorizat; acestea nu echivalează cu recunoașterea generală a licenței.",
+        "Licența are valabilitate de 24 de luni și poate fi folosită numai dacă certificatul medical este valabil; dacă spațiul aerian cere comunicații radio, pilotului îi trebuie și certificatul radiotelefonic corespunzător. Pentru revalidare sunt cerute 6 ore ca pilot comandant în ultimele 12 luni, 12 aterizări și un test de competență în ultimele 6 luni. Dacă experiența lipsește, se face reantrenare și o nouă verificare.",
+        "Pentru reînnoirea unei licențe expirate se face pregătire de reantrenare și verificările teoretice și practice cerute, în funcție de cât timp a trecut de la expirare. Privilegiile se exercită numai în limitele clasei, calificărilor și autorizațiilor înscrise. Licența pilotului, singură, nu autorizează orice tip de operațiune.",
+        "În mod obișnuit, ULM înmatriculate în România pot fi folosite pentru zboruri în interes propriu, private și de școală, cu respectarea condițiilor din documentele aeronavei. Pentru anumite ULM motorizate aprobate și înregistrate, se pot autoriza separat și zboruri de lucru aerian ori zboruri de inițiere; trebuie să existe autorizația de zbor care precizează categoriile permise. Pilotul comandant este și operatorul zborului și hotărăște dacă zborul poate fi făcut în siguranță.",
+        "Un zbor de inițiere este un tur scurt oferit de o organizație de pregătire declarată sau de o organizație care promovează sporturile aeronautice. Este condus de un instructor cu calificarea valabilă pentru clasa respectivă și are nevoie de aprobarea organizației pentru loc, aeronavă și pilot. Decolarea și aterizarea se fac în FIR București, pe același aerodrom sau aceeași zonă de operare, fără opriri intermediare. Nu se combină cu alte operațiuni și nu se fac manevre simulate de urgență; timpul pasagerului nu se trece ca experiență pentru licență. Zborul este limitat la 60 de minute bloc, iar organizația nu poate depăși plafonul anual de 20% din totalul orelor sale de zbor. Sunt obligatorii asigurările cerute pentru pasageri și terți, iar organizația transmite raportul anual către AACR până la 31 ianuarie.",
+        "Din 2024, licențele și anexele pentru ULM motorizat pot fi emise pe hârtie, pe card sau electronic. Documentele administrative pot fi depuse ca original, copie legalizată, copie certificată de autoritate ori copie electronică simplă prin aplicația autentificată a autorității de certificare; Aeroclubul României asigură verificarea online a autenticității și valabilității licențelor."
       ]
     },
     {
@@ -168,20 +172,6 @@
         { "term": "SAR / INCERFA / ALERFA / DETRESFA", "definition": "Căutare și salvare / fază de incertitudine / fază de alertă / fază de pericol." },
         { "term": "MAYDAY / PAN PAN", "definition": "Apel radiotelefonic de primejdie / apel de urgență care cere atenție sau prioritate, dar nu anunță același pericol imediat." }
       ]
-    }
-  ],
-  "references": [
-    {
-      "title": "Ordinul nr. 630/2007 – forma consolidată",
-      "url": "https://legislatie.just.ro/Public/DetaliiDocument/300138"
-    },
-    {
-      "title": "Ordinul nr. 3.929/2024 de modificare a cadrului ULM",
-      "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/292204"
-    },
-    {
-      "title": "Ordinul nr. 1.139/2025 de modificare a cadrului ULM",
-      "url": "https://legislatie.just.ro/Public/DetaliiDocument/301169"
     }
   ]
 }
