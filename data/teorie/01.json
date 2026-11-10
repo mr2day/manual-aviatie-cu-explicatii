@@ -1,0 +1,187 @@
+{
+  "id": "01",
+  "title": "Legislație aeronautică",
+  "source": {
+    "document": "AR-NCLA-ATO – Legislație Aeronautică",
+    "edition": "Ediția 2, Revizia 0, februarie 2024",
+    "file": "docs/official-set/AR-NCLA-ATO Legislație Aeronautică - Ed.2 2024.pdf"
+  },
+  "notice": "Sinteza explică programa din PDF-ul menționat, în cuvinte simple. Nu înlocuiește actele normative. Cadrul ULM a fost modificat după publicarea cursului; pentru cerințe aplicabile astăzi verifică forma consolidată a Ordinului nr. 630/2007 și amendamentele sale. Valorile și procedurile ULM de mai jos descriu ce consemnează cursul din februarie 2024.",
+  "sections": [
+    {
+      "title": "1. Cine face regulile aviației",
+      "intro": "Regulile de zbor au mai multe niveluri. Ideea de bază este că standardele internaționale ajută statele să folosească aceleași principii, iar fiecare stat le pune în aplicare prin propriile legi și proceduri.",
+      "points": [
+        "OACI (numită și ICAO, după numele englezesc) este organizația mondială a aviației civile. Convenția de la Chicago din 1944 a pus bazele cooperării moderne dintre state. OACI publică standarde și practici recomandate, inclusiv în anexele convenției. Anexele importante pentru pilot sunt: Anexa 1 – licențe; 2 – reguli ale aerului; 7 – naționalitate și înmatriculare; 8 – navigabilitate; 11 – servicii de trafic aerian; 12 – căutare și salvare; 14 – aerodromuri; 15 – informații aeronautice.",
+        "EASA este Agenția Uniunii Europene pentru Siguranța Aviației. Ea armonizează o parte importantă din regulile tehnice și operaționale ale statelor UE. SERA este setul european comun de reguli ale aerului: Standardised European Rules of the Air.",
+        "În România, AACR (Autoritatea Aeronautică Civilă Română) are atribuții de reglementare, supraveghere și certificare în aviația civilă. Pentru aeronavele ultraușoare motorizate, cursul descrie rolul Aeroclubului României ca autoritate de certificare.",
+        "Pentru ULM, documentul pornește de la Ordinul nr. 630/2007: Anexa 1 clasifică aeronavele ultraușoare; RACR-LPAN ULM tratează licențierea piloților; RACR-CCO ULM tratează certificarea și operarea aeronavelor. RACR înseamnă Reglementare Aeronautică Civilă Română.",
+        "Convenția de la Paris din 1919 a formulat principii timpurii: statul controlează spațiul aerian de deasupra teritoriului său, aeronavele trebuie înregistrate, iar regulile trebuie aplicate fără discriminare nejustificată. Convenția de la Chicago a dezvoltat și organizat aceste principii la nivel mondial.",
+        "Convenția de la Chicago descrie și drepturi comerciale numite «libertățile aerului»: de la simplul survol sau oprire tehnică, până la transportul de pasageri între state. Ele privesc în principal acordurile dintre țări și companiile aeriene; nu sunt permisiuni pe care un pilot ULM să le poată folosi automat."
+      ]
+    },
+    {
+      "title": "2. Suveranitatea și documentele aeronavei",
+      "intro": "O aeronavă nu zboară într-un spațiu fără reguli. Statul deasupra căruia zbori își exercită autoritatea asupra spațiului său aerian, iar pilotul trebuie să cunoască regulile și restricțiile publicate pentru zona respectivă.",
+      "points": [
+        "Un stat poate stabili zone interzise, în care zborul nu este permis, și zone restricționate, în care zborul este permis numai în condițiile publicate. O zonă periculoasă avertizează că acolo pot avea loc activități riscante pentru aeronave. Aceste zone se verifică înainte de zbor în publicațiile și notificările aeronautice.",
+        "Aeronavele folosite pentru activități militare, vamale sau de poliție sunt aeronave de stat. Convenția de la Chicago se referă în principal la aeronave civile; o aeronavă de stat are nevoie de permisiunea statului străin pe care îl survolează.",
+        "Însemnele de pe aeronavă arată statul și înmatricularea. Pentru România, marca de naționalitate este YR; de exemplu, în «YR-ABC», YR identifică statul, iar ABC este marca de înregistrare. Certificatul de înmatriculare identifică aeronava, proprietarul și înscrierea în registru și, potrivit cursului, se păstrează la bord.",
+        "Certificatul de navigabilitate arată că aeronava corespunde cerințelor tehnice aplicabile și este acceptată pentru zbor în condițiile și limitele înscrise. «Navigabilă» nu înseamnă că aeronava poate zbura oricum: trebuie respectate limitele de masă, centraj, viteză, motor, echipamente și întreținere din documentele ei.",
+        "Convenția enumeră documente de zbor precum licențele și autorizațiile echipajului, documentele aeronavei, informațiile despre pasageri sau încărcătură când acestea sunt aplicabile și documentele stației radio. Lista exactă depinde de tipul aeronavei și de operațiune; pentru ULM se aplică cerințele naționale specifice, nu se presupune automat întreaga listă destinată transportului internațional."
+      ]
+    },
+    {
+      "title": "3. Pilotul, licențele și aptitudinea medicală",
+      "intro": "Licența arată ce fel de activitate poate face pilotul. Ea nu este o aprobare universală pentru orice aeronavă sau orice zbor: trebuie să fie valabilă și să includă calificările necesare.",
+      "points": [
+        "Pilotul comandant (PIC) este persoana desemnată să conducă zborul și poartă responsabilitatea finală pentru siguranța lui, chiar dacă altcineva ține comenzile. Într-o situație excepțională, poate fi necesară abaterea de la o regulă pentru a proteja siguranța; după ce situația permite, trebuie informate unitățile de trafic aerian relevante.",
+        "Înainte de plecare, pilotul comandant trebuie să strângă informațiile necesare zborului: vreme, aerodromuri, spații aeriene, restricții, rută, autonomie, echipamente și alternative. O autorizare ATC nu îl scutește de obligația de a judeca dacă aeronava și condițiile permit un zbor sigur.",
+        "PPL este licența de pilot particular; în mod obișnuit permite zboruri necomerciale, fără remunerație, cu aeronava și calificarea potrivite. SPL este licența de planor, iar BPL este licența de balon. LAPL este o licență europeană pentru aeronave ușoare. CPL este licența de pilot comercial, MPL cea pentru operațiuni cu echipaj multiplu, iar ATPL licența de pilot de transport aerian. Acestea sunt licențe diferite de licența națională ULM.",
+        "O calificare de clasă sau de tip adaugă permisiunea de a pilota o anumită categorie sau variantă de aeronavă. Revalidarea se face înainte să expire privilegiul, pentru a-l prelungi după îndeplinirea condițiilor. Reînnoirea se face după expirare și poate cere pregătire suplimentară și verificări.",
+        "Certificatul medical confirmă că starea de sănătate permite pilotarea în condiții de siguranță, uneori cu limitări. Dacă pilotul observă că o boală, un accident, o operație sau un medicament îi poate afecta capacitatea, nu trebuie să folosească privilegiile licenței până când situația este evaluată corespunzător.",
+        "Certificatul de operator radiotelefonist dovedește că pilotul poate folosi legal stația radio. Cursul distinge certificatul general GOC-AERO de cel restrâns ROC-AERO. Dacă zborul se desfășoară într-un spațiu unde radioul este obligatoriu, pilotului ULM îi trebuie certificatul corespunzător, conform cerințelor în vigoare."
+      ]
+    },
+    {
+      "title": "4. Reguli ale aerului și evitarea coliziunilor",
+      "intro": "Regulile aerului stabilesc cum se desfășoară zborul și cine cedează când două aeronave se apropie. Regula practică permanentă este să păstrezi veghea și să eviți coliziunea, chiar dacă ai primit informații sau servicii de la controlor.",
+      "points": [
+        "Fiecare zbor respectă regulile generale și se desfășoară fie după regulile de zbor la vedere (VFR), fie după regulile de zbor instrumental (IFR). Zborul VFR presupune pilotarea cu referințe vizuale și respectarea minimelor de vizibilitate și distanță față de nori. IFR se bazează pe proceduri și instrumente, în condițiile și cu echiparea cerute de reglementări.",
+        "Dacă două aeronave se apropie din față, fiecare virează la dreapta. Dacă traiectoriile se intersectează la aproximativ aceeași înălțime, aeronava care o vede pe cealaltă în dreapta cedează. Există priorități speciale între categorii: în general, avionul motorizat cedează planorului și balonului, iar aeronavele aflate în dificultate au prioritate.",
+        "Aeronava care depășește trebuie să se îndepărteze, de regulă prin deviere la dreapta; aeronava depășită își păstrează traiectoria. La aterizare se acordă prioritate aeronavei aflate în apropiere finală, iar o aeronavă obligată să aterizeze de urgență are prioritate. La sol, nu se intră, nu se traversează și nu se rulează pe pistă fără autorizarea cerută de turnul de control.",
+        "În jurul aerodromului, pilotul urmărește traficul și se conformează turului de pistă publicat sau evită acel circuit. În mod obișnuit, virajele din turul de pistă sunt la stânga, dacă nu sunt publicate ori instruite altfel. Decolarea și aterizarea se fac de regulă cu vântul din față, dacă pista, siguranța sau instrucțiunile nu impun altă alegere.",
+        "Nu zbura prin zone interzise. În zonele restricționate intri numai respectând condițiile publicate sau cu permisiunea necesară. O formație de aeronave se zboară numai cu înțelegere prealabilă și responsabilități clare între piloți."
+      ]
+    },
+    {
+      "title": "5. VFR, vremea minimă și spațiul aerian",
+      "intro": "VFR nu înseamnă doar «văd pământul». Pilotul trebuie să aibă vizibilitatea cerută, să păstreze distanțele față de nori, să respecte înălțimile minime și să știe ce servicii și aprobări cere spațiul aerian în care zboară.",
+      "points": [
+        "VMC înseamnă condiții meteorologice în care sunt îndeplinite minimele pentru zbor la vedere. IMC înseamnă condiții sub aceste minime. Documentul redă minime VMC generale: la și peste 10.000 ft AMSL – vizibilitate de 8 km; sub 10.000 ft, în mod obișnuit 5 km; de regulă 1.500 m lateral și 300 m vertical față de nori. În anumite condiții la joasă înălțime, în clasele F și G, tabelul permite zborul în afara norilor cu suprafața la vedere. Se aplică tabelul și excepțiile actuale pentru spațiul și operațiunea concretă.",
+        "Conform valorilor reproduse în curs, VFR nu coboară sub 1.000 ft deasupra celui mai înalt obstacol aflat pe o rază de 600 m peste zone construite sau adunări de persoane. În alte locuri, minimul general este 500 ft deasupra solului/apei ori a obstacolului apropiat. Decolarea, aterizarea, autorizările și regulile specifice pot avea prevederi diferite; consultă reglementarea și publicațiile aeronautice aplicabile.",
+        "O zonă de control (CTR) pornește de la sol; o regiune de control începe de la o limită verticală publicată. FIR este o regiune în care se oferă cel puțin informare de zbor și alertare. TMA este o zonă de control terminală organizată în jurul unuia sau mai multor aeroporturi importante.",
+        "În clasele controlate, pilotul poate avea nevoie de autorizare ATC și de comunicație radio continuă. În clasa G nu este necesară autorizarea ATC doar pentru că zbori acolo, dar rămân valabile toate celelalte reguli și echipările impuse pentru zona respectivă. Cursul din 2024 descrie pentru România clasele A, C și G; clasificarea și limitele exacte se verifică în AIP-ul actual.",
+        "RMZ este o zonă în care radioul este obligatoriu; înainte de intrare, pilotul face apelul inițial și menține comunicația cerută. TMZ este o zonă în care trebuie avut și folosit transponderul corespunzător. Existența lor și cerințele exacte se publică în AIP."
+      ]
+    },
+    {
+      "title": "6. Altimetrul, planul de zbor și serviciile de trafic",
+      "intro": "Un zbor controlat are nevoie de informații clare despre rută, poziție și intenții. Planul de zbor, comunicația și reglarea altimetrului îi ajută pe pilot și pe serviciile de trafic să se înțeleagă fără ambiguități.",
+      "points": [
+        "QNH este presiunea setată astfel încât altimetrul să indice aproximativ altitudinea față de nivelul mediu al mării. QFE este presiunea locală a aerodromului; pe sol, altimetrul indică aproximativ zero la acel aerodrom, iar în zbor arată înălțimea față de el. Nivelurile de zbor se raportează la presiunea standard 1013,2 hPa. Stratul de tranziție este zona în care se trece între altitudine și nivel de zbor, după procedurile publicate.",
+        "Planul de zbor (FPL) este setul de informații despre zbor transmis unităților de trafic: cine ești, ce aeronavă folosești, de unde pleci, ruta, nivelul, destinația, timpul estimat, autonomia și persoanele de la bord. Cursul indică depunerea planului pentru zboruri controlate, unele zboruri IFR, zboruri pe rute sau în zone desemnate, traversări internaționale și anumite zboruri de noapte. Termenele concrete se verifică în regulile și procedurile curente.",
+        "Planul de zbor nu este o autorizare. Pentru zborul controlat trebuie obținută autorizarea ATC și urmate condițiile ei. Dacă o autorizare nu poate fi executată în siguranță, pilotul anunță controlorul și cere una modificată. Dacă apare o urgență, siguranța are prioritate; după ce se poate, pilotul informează ATC despre abatere. După aterizare se închide planul atunci când este cerut, pentru ca serviciile să știe că aeronava a ajuns.",
+        "ATS înseamnă servicii de trafic aerian. ATC este controlul traficului și oferă autorizări/separare acolo unde se aplică; FIS oferă informații utile; serviciul de alarmare pornește răspunsul de căutare și salvare când o aeronavă ar putea fi în pericol. ACC asigură control regional, APP control de apropiere, iar TWR control de aerodrom.",
+        "Când primește prin radio o autorizare sau instrucțiune importantă pentru siguranță, pilotul o repetă pentru confirmare: de exemplu pista, autorizarea de decolare sau aterizare, nivelul, direcția, frecvența, codul transponderului și reglajul altimetrului. În VFR, pilotul rămâne responsabil să observe și să evite traficul și obstacolele, chiar dacă primește informații de la ATC.",
+        "UTC este timpul universal folosit în aviație; ora locală nu trebuie confundată cu el. AIREP este un raport transmis de pilot despre condiții observate în zbor. Turbulența sau givrajul puternic, anumite furtuni, cenușa vulcanică și alte fenomene periculoase se raportează cât mai repede."
+      ]
+    },
+    {
+      "title": "7. Radioul și transponderul",
+      "intro": "Radioul permite schimbul de mesaje cu serviciile de trafic. Transponderul răspunde radarelor secundare cu un cod și, dacă echipamentul permite, cu altitudinea sau identificarea aeronavei.",
+      "points": [
+        "Folosește frazeologia standard atunci când există una. Vorbește concis, ascultă înainte de a transmite și repetă instrucțiunile importante. Codul IDENT se folosește numai când îl cere serviciul de trafic.",
+        "Dacă transponderul are mod C funcțional, acesta transmite informația de altitudine în condițiile cerute. Codul selectat se schimbă după instrucțiunile ATS. Conform cursului, codul 2000 se folosește în anumite cazuri când nu a fost alocat alt cod, iar 7000 este codul VFR uzual în Europa când nu se furnizează servicii ATS; aplică întotdeauna AIP-ul și instrucțiunile locale în vigoare.",
+        "Codurile de urgență folosite în curs: 7700 – urgență generală; 7600 – pierderea comunicației radio; 7500 – intervenție ilicită. Aceste coduri transmit rapid tipul situației, dar nu înlocuiesc mesajul radio când acesta este posibil.",
+        "Dacă radioul se defectează, urmează procedura aplicabilă spațiului aerian și condițiilor meteo, încearcă mijloacele alternative și aterizează conform procedurilor publicate. Dacă se defectează transponderul, anunță ATS cât mai devreme și respectă instrucțiunile primite.",
+        "Dacă o aeronavă civilă este interceptată, cursul cere pilotului să urmeze semnalele vizuale ale aeronavei interceptoare, să anunțe ATS dacă poate și să încerce contactul pe frecvența de urgență 121,5 MHz. Dacă există instrucțiuni contradictorii, cere clarificare și urmează procedura oficială de interceptare."
+      ]
+    },
+    {
+      "title": "8. Unde găsești informațiile necesare zborului",
+      "intro": "Informația aeronautică poate descrie lucruri stabile, cum ar fi structura unui spațiu aerian, sau schimbări temporare, cum ar fi o pistă închisă. Înainte de fiecare zbor trebuie folosită ediția și notificarea valabilă la data zborului.",
+      "points": [
+        "AIP (Publicația de Informare Aeronautică) este sursa principală pentru informații aeronautice cu caracter durabil. GEN cuprinde informații generale și administrative, ENR descrie regulile și spațiul aerian de rută, iar AD conține date despre aerodromuri.",
+        "NOTAM este un mesaj rapid despre o schimbare temporară sau urgentă, importantă operațional: de exemplu, o pistă sau un mijloc de navigație indisponibil. Nu presupune că informația dintr-o hartă veche este încă valabilă; verifică NOTAM-urile relevante.",
+        "AIRAC este calendarul prin care schimbările aeronautice importante se publică la date comune, planificate din timp. Cursul descrie cicluri de 28 de zile și distribuirea informației cu avans. Suplimentul AIP este folosit pentru schimbări temporare de durată sau documente prea ample pentru un NOTAM scurt.",
+        "AIC (Circulară de Informare Aeronautică) explică sau anunță chestiuni care nu se potrivesc în AIP ori NOTAM, de exemplu schimbări viitoare, recomandări, informații de siguranță sau detalii administrative.",
+        "Serviciul AIS colectează, verifică, publică și distribuie date aeronautice. Serviciul FIS oferă pilotului informații utile despre vreme, trafic, starea aerodromurilor, pericole și disponibilitatea mijloacelor de navigație. Primirea informației nu mută decizia finală de la pilotul comandant."
+      ]
+    },
+    {
+      "title": "9. Aerodromul: piste, semne și distanțe",
+      "intro": "Pe aerodrom trebuie să știi pe ce suprafață te afli, ce porțiune este deschisă și unde trebuie să oprești. Marcajele și semnalele sunt un limbaj vizual standardizat, dar procedura publicată pentru acel aerodrom are prioritate în operare.",
+      "points": [
+        "Pista este suprafața pentru decolare și aterizare. Calea de rulare leagă pista de alte zone; platforma este locul unde aeronavele staționează, se încarcă sau se alimentează. Suprafața de manevră cuprinde pistele și căile de rulare, iar suprafața de mișcare include și platformele.",
+        "TORA este distanța de pistă disponibilă pentru rulajul la decolare. TODA adaugă zona liberă de obstacole de după pistă. ASDA adaugă zona amenajată pentru oprirea unei decolări întrerupte. LDA este distanța declarată pentru aterizare. Aceste distanțe nu sunt neapărat egale cu lungimea totală pe care o vezi pe hartă.",
+        "Numărul pistei este aproximativ direcția magnetică a axului, rotunjită la zeci și scrisă cu două cifre. De exemplu, o pistă orientată în jur de 270° se numește 27. Pistele paralele primesc suplimentar L (stânga), C (centru) sau R (dreapta), privite din direcția de apropiere.",
+        "Marcajele pistei sunt în principal albe, iar cele ale căilor de rulare galbene. Marcajele de așteptare lângă pistă arată limita peste care nu treci fără autorizarea necesară. Crucea de pe pistă sau calea de rulare indică o suprafață închisă. Marcajele și panourile speciale pot semnala restricții, precauție, tur de pistă pe dreapta sau utilizarea unei anumite zone.",
+        "Mâneca de vânt indică direcția vântului și, aproximativ, intensitatea lui. Un «T» de aterizare indică direcția de decolare/aterizare. La un aerodrom controlat, lampa de semnalizare poate transmite autorizări când radioul nu funcționează: verde continuu înseamnă aterizare aprobată pentru aeronava în zbor și decolare aprobată pentru aeronava de la sol; roșu continuu înseamnă acordă prioritate în zbor, respectiv oprește la sol. Serii de lumini indică alte instrucțiuni, care trebuie cunoscute înainte de operare."
+      ]
+    },
+    {
+      "title": "10. Urgențe și căutare-salvare",
+      "intro": "Sistemul SAR coordonează localizarea și ajutorul pentru aeronavele sau persoanele aflate în dificultate. Pilotul poate ajuta printr-un mesaj clar, o poziție precisă și respectarea instrucțiunilor centrului de coordonare.",
+      "points": [
+        "SAR înseamnă Search and Rescue – căutare și salvare. Serviciul de alarmare informează și mobilizează organizațiile care pot interveni. Statele își coordonează centrele și resursele, inclusiv când un eveniment se produce aproape de graniță sau deasupra mării.",
+        "Situația poate trece prin trei faze: INCERFA (fază de incertitudine: nu se știe unde este aeronava sau de ce nu a raportat); ALERFA (fază de alertă: există motive serioase de îngrijorare și se pregătesc echipele); DETRESFA (fază de pericol: se consideră că aeronava sau oamenii au nevoie de ajutor imediat). Centrul de coordonare evaluează informațiile și decide ce acțiuni sunt necesare.",
+        "Accidentul implică, între altele, deces sau rănire gravă, avarii importante care afectează aeronava ori dispariția acesteia. Incidentul este un eveniment legat de exploatare care a afectat sau putea afecta siguranța; un incident grav este unul în care accidentul era aproape să se producă.",
+        "Dacă observi o aeronavă sau persoane în dificultate, notează poziția, ora UTC, ce ai văzut și câte persoane par implicate; transmite datele către ATS sau centrul SAR și urmează indicațiile primite. Nu pune propria aeronavă în pericol. Dacă recepționezi un mesaj de primejdie, ajută la retransmiterea lui și păstrează frecvența disponibilă.",
+        "Cursul spune că pilotul comandant sau operatorul notifică accidentele și incidentele grave, iar notificarea se transmite cât mai repede și cel târziu în 6 ore, cu date despre aeronavă, persoane, timp, loc, urmări și măsurile luate. Pentru un eveniment real, urmează imediat procedura și termenele legale actuale.",
+        "MAYDAY este apelul de primejdie, folosit când există pericol grav și iminent; PAN PAN anunță o urgență care cere prioritate sau atenție, dar nu are același nivel de pericol imediat. Codul transponder 7700 indică urgență generală, 7600 pierderea comunicațiilor și 7500 intervenție ilicită."
+      ]
+    },
+    {
+      "title": "11. Ce înseamnă ULM și cum se obține licența, potrivit cursului",
+      "intro": "ULM înseamnă aeronavă ultraușoară motorizată. Cursul grupează aici avioane ultraușoare, motodeltaplane, motoparapante/motoparașute, elicoptere ultraușoare, autogire și dirijabile ultraușoare. Cerințele sunt naționale și depind de clasa aeronavei.",
+      "points": [
+        "Cursul distinge ULM primare și avansate. Pentru categoria primară, descrie în general maximum 560 kg la decolare, cel mult două locuri și condiții privind viteza minimă și scopul construcției. Pentru ULM avansate, valorile diferă după configurație: de exemplu, în curs apar 300 kg pentru avion terestru cu un loc și 450 kg cu două locuri, cu valori diferite pentru hidroavioane și pentru unele sisteme de recuperare cu parașută. MTOM este masa maximă la decolare, iar CAS este viteza calibrată. Aceste cifre sunt cele reproduse în ediția PDF, nu o confirmare a încadrării unui aparat anume.",
+        "Potrivit cursului, solicitantul licenței ULM trebuie să aibă cel puțin 16 ani și certificat medical valabil. Pregătirea teoretică are minimum 50 de ore și acoperă nouă discipline: legislație, cunoașterea aeronavei, performanțe și planificare, performanțe umane, meteorologie, navigație, proceduri operaționale, principii de zbor și radiotelefonie.",
+        "Cursul cere cel puțin 75% la examinarea scrisă pentru fiecare disciplină și promovarea unui test practic la sol și în zbor, după pregătirea sub supravegherea instructorului calificat. Pentru clasa «parașute cu motor», PDF-ul indică minimum 15 ore de zbor, dintre care cel puțin 3 ore în simplă comandă și 3 ore în raid, cu aterizări pe două terenuri diferite de cel de plecare. Procedurile de urgență simulate se fac în dublă comandă.",
+        "Pentru comparație, aceeași ediție a cursului indică minimum 25 de ore pentru deltaplan cu motor (cu 5 ore în simplă comandă și 5 ore în raid), 40 de ore pentru avion ULM/autogir/elicopter (10 ore în simplă comandă și 5 ore în raid) și 20 de ore pentru dirijabil ULM (5 ore în simplă comandă și 5 ore în raid). Cerințele sunt specifice clasei; nu transfera orele de la o clasă la alta.",
+        "O licență străină nu este suficientă automat pentru a pilota în România o aeronavă ULM care intră sub regimul românesc: cursul descrie necesitatea unui certificat de recunoaștere valabil, împreună cu licența și certificatul medical. Verifică procedura actuală la autoritatea de certificare.",
+        "Conform ediției 2024, licența are o valabilitate de 24 de luni, cu condiția certificatului medical valabil; dacă zborul se face într-un spațiu unde radioul este obligatoriu, este necesar și certificatul de operator radio. Cursul descrie pentru revalidare 6 ore ca pilot comandant în ultimele 12 luni, 12 aterizări și un test de competență în ultimele 6 luni. Dacă experiența lipsește, descrie reantrenare și o nouă verificare.",
+        "Pentru reînnoirea unei licențe expirate, cursul cere pregătire teoretică și practică de reantrenare, examinare scrisă la discipline și test în zbor. Durata depinde de cât timp a trecut de la expirare. Privilegiile licenței se exercită numai în limitele clasei, calificărilor și autorizațiilor înscrise. Cursul menționează și autorizații suplimentare, de exemplu pentru pasager, flotoare, schiuri sau remorcaj, unde acestea sunt prevăzute."
+      ]
+    },
+    {
+      "title": "12. Mic glosar de abrevieri",
+      "intro": "Acestea sunt prescurtările pe care le vei întâlni cel mai des în capitol și în documentele de zbor.",
+      "terms": [
+        { "term": "OACI / ICAO", "definition": "Organizația Aviației Civile Internaționale; organismul mondial care stabilește standarde și practici pentru aviația civilă." },
+        { "term": "EASA", "definition": "Agenția Uniunii Europene pentru Siguranța Aviației." },
+        { "term": "AACR", "definition": "Autoritatea Aeronautică Civilă Română." },
+        { "term": "RACR", "definition": "Reglementare Aeronautică Civilă Română." },
+        { "term": "ULM", "definition": "Aeronava ultraușoară motorizată." },
+        { "term": "SERA", "definition": "Reguli europene standardizate ale aerului." },
+        { "term": "VFR / IFR", "definition": "Reguli de zbor la vedere / reguli de zbor instrumental." },
+        { "term": "VMC / IMC", "definition": "Condiții meteo care permit zborul la vedere / condiții sub minimele VFR." },
+        { "term": "PIC / PICUS", "definition": "Pilot comandant / pilot care îndeplinește funcțiile comandantului sub supravegherea acestuia." },
+        { "term": "PPL, LAPL, SPL, BPL", "definition": "Licență de pilot particular, licență de pilot pentru aeronave ușoare, licență de planor, licență de balon." },
+        { "term": "CPL / MPL / ATPL", "definition": "Licență de pilot comercial / licență pentru echipaj multiplu / licență de pilot de transport aerian." },
+        { "term": "ATO / DTO", "definition": "Organizație de pregătire aprobată / organizație de pregătire declarată." },
+        { "term": "GOC-AERO / ROC-AERO", "definition": "Certificate general / restrâns de operator radiotelefonist aeronautic." },
+        { "term": "FIR / CTR / TMA", "definition": "Regiune de informare a zborurilor / zonă de control de aerodrom / zonă de control terminală." },
+        { "term": "ATS / ATC / FIS", "definition": "Servicii de trafic aerian / control al traficului aerian / serviciu de informare a zborurilor." },
+        { "term": "ACC / APP / TWR", "definition": "Centru de control regional / control de apropiere / turn de control de aerodrom." },
+        { "term": "RMZ / TMZ", "definition": "Zonă cu obligație de comunicație radio / zonă cu obligație de transponder." },
+        { "term": "FPL / ETA / UTC", "definition": "Plan de zbor / ora estimată de sosire / timpul universal coordonat." },
+        { "term": "AIREP", "definition": "Raport de la o aeronavă aflată în zbor, de obicei despre vreme sau pericole observate." },
+        { "term": "AIP / NOTAM / AIRAC / AIC", "definition": "Publicația de Informare Aeronautică / notificare aeronautică temporară / sistem de publicare coordonată a schimbărilor importante / circulară informativă aeronautică." },
+        { "term": "SSR / IDENT / ADS-B / ADS-C", "definition": "Radar secundar de supraveghere / funcția de identificare solicitată pilotului / sisteme care transmit automat date despre poziția aeronavei către sol." },
+        { "term": "QNH / QFE / FL", "definition": "Reglaj de presiune pentru indicarea altitudinii față de nivelul mării / reglaj pentru înălțimea față de aerodrom / nivel de zbor raportat la presiunea standard." },
+        { "term": "AMSL / AGL", "definition": "Deasupra nivelului mediu al mării / deasupra solului." },
+        { "term": "MTOM / CAS / IAS", "definition": "Masă maximă la decolare / viteză calibrată / viteză indicată de instrumentul de bord." },
+        { "term": "TORA / TODA / ASDA / LDA", "definition": "Distanță disponibilă pentru rulaj la decolare / distanță disponibilă la decolare incluzând zona liberă / distanță disponibilă pentru accelerare și oprire / distanță disponibilă pentru aterizare." },
+        { "term": "RVR / ILS / MLS", "definition": "Distanță vizuală de-a lungul pistei / sistem de aterizare instrumentală / sistem de aterizare cu microunde." },
+        { "term": "SAR / INCERFA / ALERFA / DETRESFA", "definition": "Căutare și salvare / fază de incertitudine / fază de alertă / fază de pericol." },
+        { "term": "MAYDAY / PAN PAN", "definition": "Apel radiotelefonic de primejdie / apel de urgență care cere atenție sau prioritate, dar nu anunță același pericol imediat." }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "title": "Ordinul nr. 630/2007 – forma consolidată",
+      "url": "https://legislatie.just.ro/Public/DetaliiDocument/300138"
+    },
+    {
+      "title": "Ordinul nr. 3.929/2024 de modificare a cadrului ULM",
+      "url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/292204"
+    },
+    {
+      "title": "Ordinul nr. 1.139/2025 de modificare a cadrului ULM",
+      "url": "https://legislatie.just.ro/Public/DetaliiDocument/301169"
+    }
+  ]
+}

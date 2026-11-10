@@ -9,7 +9,8 @@ const componentsDir = path.join(root, 'components');
 const glossaryDir = path.join(root, 'glossary');
 
 // Each exam location has its own question files and generated chapter catalog.
-for (const location of fs.readdirSync(dataDir, { withFileTypes: true }).filter(entry => entry.isDirectory())) {
+// Shared theory summaries in data/teorie are not an exam location.
+for (const location of fs.readdirSync(dataDir, { withFileTypes: true }).filter(entry => entry.isDirectory() && entry.name !== 'teorie')) {
   const locationDir = path.join(dataDir, location.name);
   const chapters = fs.readdirSync(locationDir)
     .filter(f => /^\d+\.json$/.test(f))
