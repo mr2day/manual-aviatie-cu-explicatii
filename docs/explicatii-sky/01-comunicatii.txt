@@ -1,0 +1,397 @@
+Pentru a limita interferențele produse de motorul motoparapantei dumneavoastră:
+Zgomotul radio al motoparapantei vine din circuitul de aprindere: fiecare scânteie a bujiei emite un impuls electromagnetic, care se aude în căști ca un fâșâit ce urcă și coboară cu turația. Se tratează la sursă, cu o bujie cu rezistență încorporată (sau o pipă de bujie cu rezistor — dar nu amândouă, ar strica aprinderea) și, eventual, cu ecranarea cablului de bujie. O antenă mai puternică pentru stație nu filtrează nimic — ar capta la fel de bine și paraziții. Uleiul premium pentru motoarele în doi timpi îmbunătățește ungerea, dar nu are legătură cu scânteia. Telefonul mobil poate și el perturba electronica, dar nu e sursa interferențelor produse de motor, la care se referă întrebarea.
+
+----
+
+Care este frecvența internațională de primejdie pentru aviație?
+121,5 MHz este frecvența VHF rezervată internațional mesajelor de urgență: o monitorizează permanent serviciile de căutare și salvare, majoritatea organelor de trafic și multe aeronave cu două stații radio, așa că un apel poate fi auzit și retransmis chiar dacă ești sub raza turnului. Tot pe ea se aude semnalul ELT și tot pe ea chemi aeronava care te interceptează. 123,5, 124,5 și 125,5 MHz sunt frecvențe obișnuite din banda aeronautică, atribuite unor unități sau activități, deci nimic nu le garantează monitorizarea permanentă. Reține o singură cifră pentru toate situațiile de urgență: 121,5; varianta militară, în UHF, este 243 MHz.
+
+----
+
+NOTAM = Notice to Airmen: notificare emisă pentru informarea piloților despre schimbări temporare sau neprevăzute cu efect asupra zborului — zone activate sau dezactivate, piste închise, obstacole noi, mijloace de navigație indisponibile. Se consultă înainte de fiecare zbor, împreună cu AIP-ul, care conține informațiile de durată (itemul 707). Variantele greșite păstrează litere din abreviere și inventează restul: „Navigation to Airfield” nu există, „Notification of Aircraft Movement” sună a mesaj despre mișcarea unei aeronave, iar „Notice of Air Traffic” ar fi o informare de trafic, nu un aviz pentru piloți. Reține că NOT- și -AM vin din Notice și Airmen.
+
+----
+
+Spațiul controlat cere autorizare ATC pentru toate zborurile, iar autorizarea se obține prin radio; fără contact nu intri, ci rămâi în spațiul necontrolat și încerci să restabilești legătura — verifici frecvența, volumul, căștile, squelch-ul, revii pe frecvența anterioară. Varianta cu procedurile standard de pierdere a comunicațiilor e capcana: ele se aplică unui zbor care era deja controlat și și-a pierdut legătura, nu dau dreptul de a intra fără autorizare; în plus, o motoparapantă în clasa G nu are de regulă un plan de zbor depus. Transponderul pe 7700 și mesajul de urgență nu se justifică: un radio care nu răspunde nu e o urgență. Aterizarea la cel mai apropiat aerodrom necontrolat e o reacție exagerată — în clasa G poți zbura și fără radio.
+
+----
+
+Faza de pericol este DETRESFA (din franceza détresse): se declară când există certitudine rezonabilă că aeronava și cei de la bord sunt în pericol sau în dificultate serioasă — de exemplu imediat ce pilotul transmite MAYDAY sau când se estimează că nu-i mai ajunge combustibilul. Este a treia treaptă: INCERFA (incertitudine) și ALERFA (alarmă) sunt fazele de dinainte, în care încă nu se știe sigur că aeronava e în dificultate. PAN este semnalul radio de urgență emis de pilot, nu o fază; el duce la declararea ALERFA, nu a DETRESFA. Citește substantivul din enunț: „incertitudine” → INCERFA, „alarmă” → ALERFA, „pericol” → DETRESFA.
+
+----
+
+La motoparapantă, problema reală a radioului e zgomotul motorului și al elicei, care acoperă atât ce auzi, cât și ce transmiți. Soluția e o cască cu sistem de comunicații integrat: căști cu protecție fonică, un microfon (ideal cu anulare de zgomot) lângă gură și un buton de emisie (PTT) la îndemână, ca să poți vorbi și asculta fără să iei mâinile de pe comenzi; contează și compatibilitatea dintre cască și stație. Un display suficient de mare, protecția ridicată la umezeală sau o antenă lungă sunt calități utile ale stației, dar nu rezolvă problema: fără cască, nici cea mai bună stație nu se aude în zbor, iar raza VHF depinde mai ales de înălțime și de obstacole, nu de lungimea antenei.
+
+----
+
+Transponderul nu are un cod pentru urgențele medicale: codurile speciale sunt doar 7500 (intervenție ilicită), 7600 (pierderea comunicațiilor) și 7700 (urgență generală). O problemă medicală la bord se anunță prin radio — PAN PAN, iar pentru transporturile medicale PAN PAN MEDICAL —, iar dacă nu ești în legătură cu niciun organ de trafic, selectezi 7700 și transmiți pe 121,5 MHz. Varianta 7500 e greșeala cea mai periculoasă: declanșează procedura de securitate pentru deturnare. 7600 ar spune că nu mai ai radio, iar 7000 că zborul decurge normal. Capcana e să cauți un cod dedicat fiecărei situații; pentru urgențe există unul singur, 7700.
+
+----
+
+Faza de alarmă este ALERFA: există temere privind siguranța aeronavei și a celor de la bord, iar centrele de coordonare alertează unitățile de căutare și salvare. Seria completă urcă în gravitate: INCERFA (incertitudine — nu se știe ce s-a întâmplat), ALERFA (alarmă), DETRESFA (pericol — certitudine rezonabilă că aeronava e în dificultate gravă). Capcana e DETRESFA, care sună tot a „alertă”, dar e treapta de sus, iar INCERFA e treapta de jos. PAN nu e o fază, ci semnalul radio de urgență al pilotului; recepționarea lui duce la declararea ALERFA, de unde și confuzia. Identic cu itemul 746.
+
+----
+
+ELT (Emergency Locator Transmitter) este transmițătorul de localizare care emite automat un semnal de urgență, de regulă declanșat de impact, ca aeronava să poată fi găsită și când pilotul nu mai poate comunica; nota de curs arată că semnalul ELT se aude chiar pe 121,5 MHz, frecvența monitorizată de serviciile de căutare și salvare. Celelalte trei sunt mijloace de radionavigație, nu de alarmare: ADF determină automat direcția spre un radiofar, DME măsoară distanța până la o stație de sol, iar VOR dă direcția (radialul) față de o stație VHF. Capcana e doar de abrevieri: toate sunt echipamente radio de bord, dar numai ELT transmite un semnal de urgență. Vezi și itemul 760.
+
+----
+
+Când semnalul slăbește cu distanța, reglezi squelch-ul: el e pragul sub care stația taie semnalele slabe și zgomotul de fond; coborându-l, lași să treacă semnale mai slabe, cu prețul unui fâșâit mai puternic. Nota de curs avertizează și invers: un squelch prea strâns blochează, odată cu zgomotul, și mesajele. Butonul de volum doar amplifică ce a trecut deja de prag și afectează numai recepția, nu emisia — dacă squelch-ul taie semnalul, volumul nu-l aduce înapoi. ANL (limitatorul automat de zgomot) atenuează paraziții de impuls, cum sunt cei de la aprindere, dar nu face stația mai sensibilă. Butonul ON/OFF doar pornește sau oprește stația.
+
+----
+
+Frecvențele turnurilor de control se publică în AIP România, publicația de informare aeronautică emisă în numele statului, cu informațiile aeronautice de durată — frecvențele aerodromurilor în partea AD, cele de rută în ENR. Codul aerian este legea-cadru a aviației civile, iar HG 912/2010 e un act normativ: amândouă stabilesc reguli, nu țin evidența frecvențelor, care se pot schimba. „Serviciul de trafic aerian național” e cel care folosește frecvențele, nu o publicație în care să le cauți. Schimbările temporare apar prin NOTAM (itemul 740). Identic cu itemul 707.
+
+----
+
+Pierderea comunicațiilor radio se semnalează cu 7600: controlorul vede codul pe radar și știe că nu te mai aude, așa că eșalonează restul traficului presupunând că urmezi planul de zbor. Pentru un zbor controlat în VMC, procedura din notă este: 7600, continui în VMC, aterizezi la cel mai apropiat aerodrom convenabil și raportezi sosirea pe calea cea mai rapidă. 7700 este urgența generală, iar un radio defect nu e în sine o urgență; 7500 înseamnă deturnare și nu se afișează niciodată din greșeală; 7000 este codul de conformare pentru zborul fără servicii de trafic. Mnemonica: „seven-six, radio needs a fix”.
+
+----
+
+Dacă stația cedează în clasa G, îți continui zborul în clasa G: acolo legătura radio nu e obligatorie pentru VFR, deci pierderea ei nu schimbă nimic din punct de vedere legal, iar nota de curs amintește că aeronava nu are nevoie de radio ca să zboare corect și în siguranță. Aterizarea de urgență — fie pe un aerodrom certificat, fie pe cel mai adecvat teren — introduce un risc pe care nu-l aveai și nu se justifică printr-o defecțiune care nu afectează zborul. Întoarcerea imediată la locul de decolare nu e cerută de nicio regulă. Ce trebuie evitat e intrarea în spațiul controlat fără legătură radio (itemul 785); vezi și itemul 713.
+
+----
+
+Frecvența este numărul de cicluri complete într-o secundă, iar unitatea ei este hertzul (Hz); multiplii folosiți în aviație sunt kHz și MHz — de aici „121,5 MHz” sau „ecart de 8,33 kHz”. Newtonul este unitatea de forță, deci n-are legătură cu undele radio. Decibelul nu măsoară frecvența, ci un raport de intensități — de pildă atenuarea unui semnal sau reducerea de zgomot a unei căști. VHF este capcana: nu e o unitate, ci o bandă de frecvențe — 30–300 MHz, undele metrice —, din care aviația folosește pentru voce porțiunea care începe la 118 MHz. Și banda se exprimă, așadar, tot în hertzi.
+
+----
+
+Zona de control se abreviază CTR (Control Zone): spațiu aerian controlat care se întinde de la suprafața solului până la o limită superioară precizată, de regulă în jurul unui aerodrom. Capcana e CTA (Control Area, regiune de control), tot spațiu controlat, dar care începe de la o limită precizată deasupra solului — diferența e doar unde începe. „CTZ” pare logic din „ConTrol Zone”, dar abrevierea consacrată folosește R-ul, nu Z-ul; „AMR” nu desemnează nicio zonă de control. Vecinii de reținut: CTR (de la sol), CTA (de la o înălțime), TMA (regiunea terminală, la intersecția rutelor), ATZ (zona de trafic a aerodromului).
+
+----
+
+Dintre variantele date, singurul document care ține de zborul însuși este planul de zbor — ansamblul de informații despre zborul intenționat, furnizat unităților de trafic aerian; pe baza lui ATC cunoaște ruta, orele și destinația și poate declanșa căutarea dacă nu ajungi. Pașaportul este un act de identitate pentru trecerea frontierei, carnetul de sănătate nu e un document aeronautic (aptitudinea se dovedește cu certificatul medical), iar certificatul de garanție privește echipamentul cumpărat, nu operarea lui. Nuanța: planul de zbor e obligatoriu înaintea oricărui zbor care primește serviciu de control; un zbor VFR în clasa G se anunță unității ATS și fără plan depus. Întrebarea testează însă doar diferența dintre documentul zborului și actele personale.
+
+----
+
+7500 semnalează intervenția ilicită — deturnarea: pilotul face tot posibilul să-l selecteze și să informeze unitatea ATS, ca aceasta să-i acorde prioritate și să reducă la minimum conflictele cu alt trafic. Codul declanșează procedura de securitate, de aceea nu se selectează niciodată din greșeală. 7700 este urgența generală — când împrejurările o justifică, poate fi folosit în locul lui 7500 —, 7600 înseamnă pierderea comunicațiilor, iar 7000 este codul de conformare pentru zborul fără servicii de trafic. Mnemonica uzuală: „seven-five, man with a knife”. Blocul: 7000 normal · 7500 deturnare · 7600 radio · 7700 urgență.
+
+----
+
+Certificatul de operator radiotelefonist este emis de ANCOM, în baza Deciziei 543/2017, deci tot ANCOM îl reface: pierderea se rezolvă cerând în scris eliberarea unui nou certificat. Aeroclubul României organizează pregătirea și este autoritate de certificare pentru licența ULM, dar nu emite documente din domeniul radiocomunicațiilor — de aici capcana variantei cu Aeroclubul. Să aștepți prelungirea valabilității ca să ceri un certificat nou nu merge: până atunci ai opera stația fără document, iar decizia îți cere să-l ai asupra ta sau la stație în timpul serviciului. Faptul că ANCOM ține o evidență a operatorilor nu te scutește de nimic: obligația este să deții certificatul, nu doar să fii înregistrat.
+
+----
+
+7700 este codul de urgență generală: îl selectezi pentru orice situație de urgență sau pericol — motor oprit, incendiu, problemă medicală —, mai ales când nu ești în legătură radio cu nimeni, ca radarul să alerteze imediat controlorul. Dacă ești deja în legătură și ai un cod atribuit, poți păstra codul și transmite mesajul pe frecvența în uz. Pierderea comunicațiilor are un cod separat, 7600, iar deturnarea (intervenția ilicită) are 7500 — de aceea un radio defect sau o deturnare nu se semnalează cu 7700. „Schimbarea frecvenței radio” nu are cod: e o procedură de voce. Reține blocul: 7000 normal · 7500 deturnare · 7600 radio · 7700 urgență.
+
+----
+
+Mesajul de urgență (ca și cel de pericol) conține, în ordinea din nota de curs: stația apelată, indicativul și tipul aeronavei, natura problemei, intenția pilotului, apoi poziția prezentă sau ultima poziție cunoscută, nivelul sau altitudinea și capul. Ultimele trei îi permit cuiva să te găsească și să-ți anticipeze traiectoria: unde ești, cât de sus și încotro te deplasezi. „Distanța și poziția față de aerodromul de plecare” nu e cerută — te raportezi la unde ești acum, nu la locul de unde ai plecat. „Poziția după GPS” spune doar sursa poziției și lasă pe dinafară înălțimea și capul. Tipul aeronavei intră și el în mesaj, dar cantitatea de combustibil nu e element obligatoriu, deci varianta „tipul de avion și combustibilul” nu răspunde la ce e obligatoriu.
+
+----
+
+ADS-B = Automatic Dependent Surveillance – Broadcast: supraveghere „dependentă” pentru că aeronava se bazează pe propriile sisteme de navigație (de regulă GPS) ca să-și afle poziția, „automată” pentru că o transmite singură, fără intervenția pilotului, și „broadcast” pentru că o difuzează tuturor — stațiilor de sol și altor aeronave echipate —, fără să fie interogată de radar ca un transponder clasic. Variantele greșite păstrează doar „Broadcast” și inventează restul: „Airborne Detection System”, „Automatic Directional System” și „Aeronautical Data System” nu sunt termeni cu acest sens. Reține literele A–D–S: Automatic, Dependent, Surveillance.
+
+----
+
+Mesajul PAN PAN urmează aceeași structură ca MAYDAY: stația apelată, indicativ și tip, natura problemei, intenția, poziția, nivelul, capul. Ce îl face util este descrierea problemei de siguranță și a asistenței solicitate — controlorul află ce s-a întâmplat și ce îi ceri: o abatere de la traiect, cel mai apropiat aerodrom, prioritate la aterizare. „Locația exactă a aeronavei” e capcana: poziția intră și ea în mesaj (chiar ca ultima poziție cunoscută), dar singură nu spune ce problemă ai. Numărul de pasageri e informație suplimentară, iar timpul estimat până la destinație nu este cerut. Identic cu itemul 762 — banca repetă întrebarea cu variantele rearanjate, deci memorează conținutul, nu poziția.
+
+----
+
+Legătura radio cu organul de trafic se menține până la ieșirea din zona controlată: cât timp zborul se află sub serviciul de control, asculți permanent frecvența unității ATC, iar la ieșire o informezi că nu mai ești sub control. Criteriul e limita spațiului, nu audibilitatea — „până la limita audibilității” ar transforma o stație slabă într-o scuză de a ieși din legătură. „Până când organul de trafic va ordona schimbarea frecvenței” confundă transferul, care de obicei vine chiar la limită, cu temeiul obligației. „Nu este specificat” e fals: obligația decurge explicit din statutul de zbor controlat. Identic cu itemul 729 — banca repetă întrebarea cu variantele mutate.
+
+----
+
+Dintre variantele date, informația fără de care un mesaj de pericol nu-și atinge scopul este poziția aeronavei — prezentă sau ultima cunoscută: pe ea se sprijină căutarea și salvarea, iar dacă nu răspunde nimeni, mesajul se repetă ca alte aeronave să-l poată retransmite. Numărul de pasageri se adaugă la final, ca informație suplimentară utilă salvatorilor, dar nu e esențial pentru a te găsi. Durata estimată a zborului este o dată de plan de zbor, fără rost într-o situație de pericol. „Altitudinea de croazieră” e capcana: mesajul cere nivelul sau altitudinea actuală, nu pe cea planificată pentru croazieră. Vezi itemul 767 pentru mesajul complet.
+
+----
+
+Reglementarea recomandă ca, după ce ai chemat o stație aeronautică, să lași să treacă cel puțin 10 secunde înainte de al doilea apel: stația se poate pregăti de răspuns sau poate lucra cu alt trafic, iar apelurile în rafală doar încarcă frecvența. Deci aștepți și apoi ceri din nou. „Continuați procedura de aterizare chiar dacă turnul nu a răspuns” și „evaluați singur condiția meteo și aterizați” fac aceeași greșeală: tratează lipsa răspunsului ca pe o aprobare, deși la un aerodrom controlat aterizarea cere autorizare. Harta satelitară și METAR-ul sunt utile la planificare, dar METAR-ul e emis periodic și poate fi depășit, iar în apropiere nu ai cum să le consulți; informația actuală o dă turnul sau ATIS-ul.
+
+----
+
+Spațiul controlat (în România, clasele A și C) cere autorizare ATC pentru toate zborurile, deci ordinea este: stabilești contact radio cu unitatea ATC corespunzătoare și obții autorizarea înainte de a trece limita. „Raport de poziție și așteptarea instrucțiunilor” pare corect, dar lasă deschis ce faci până vin instrucțiunile: dacă treci limita fără autorizare, ai intrat deja ilegal. Varianta cu codul 7000 „fără comunicare suplimentară” descrie zborul în spațiul necontrolat, nu intrarea în cel controlat. Limita de 250 de noduri sub 10 000 ft și ascultarea pe 121,5 MHz există ca reguli, dar niciuna nu înlocuiește autorizarea. Cuvântul care decide este „înainte”.
+
+----
+
+Pana de motor în zbor este primul exemplu din nota de curs pentru mesajul de pericol, deci declari MAYDAY (de trei ori): vei ateriza forțat și ai nevoie de asistență imediată. PAN PAN subevaluează situația: e pentru motorul care funcționează neregulat, nu pentru cel oprit — exact perechea pe care o testează itemul. „EMERGENCY” nu este un semnal din frazeologia standard; și în engleză urgențele se anunță cu MAYDAY sau PAN PAN. Varianta „nu se informează organul de trafic, avem un teren mare” e greșită chiar dacă aterizarea reușește: ești în legătură cu organul de trafic, iar el trebuie să știe, ca să elibereze spațiul și să trimită ajutor. Identic cu itemul 723.
+
+----
+
+Scara de audibilitate are cinci trepte: 1 inaudibil, 2 audibil cu întreruperi, 3 audibil cu dificultate, 4 audibil, 5 perfect audibil. „Te aud cu 4” înseamnă deci te aud bine — mesajul e clar și se înțelege fără efort, chiar dacă nu e perfect. „Te aud cu dificultate” este treapta 3, iar „nu te aud deloc” este treapta 1 (și, logic, cine nu te aude deloc nici nu-ți poate da o notă). „Te aud cu zgomot de fond” nu corespunde niciunei trepte: scara măsoară cât de inteligibil e mesajul, nu descrie zgomotul. Cifra se dă ca răspuns la RADIO CHECK, adică la întrebarea „care este audibilitatea transmisiei mele?”. Vezi și itemul 725, aceeași scară.
+
+----
+
+O stație de radiocomunicații aeronautice funcționează legal pe baza a două documente care privesc stația, nu persoana: licența de utilizare a frecvențelor radio (cu autorizația de asignare a frecvențelor ca anexă), emisă de ANCOM, și autorizația stației; Convenția de la Chicago cere ca o aeronavă echipată cu radio să aibă la bord autorizația pentru stația de radio. Operatorul are, separat, certificatul de radiotelefonist, iar decizia ANCOM îi cere să lucreze doar în limitele înscrise în licență. Carnetul de sănătate, certificatul de garanție și pașaportul sunt documente ale unei persoane sau ale unei achiziții: nu spun nimic despre frecvența pe care emite stația sau despre dreptul ei de a funcționa. Vezi itemul 758, aceeași pereche cu denumirile inversate.
+
+----
+
+„Rămâi pe recepție” corespunde lui STANDBY, pe care nota de curs îl traduce „așteptați și vă voi chema”: controlorul te-a auzit, dar nu-ți poate răspunde acum și revine el. Tu rămâi pe aceeași frecvență, ascultând, fără să transmiți. Capcana e varianta „selectează stand by la transponder”: aceea este SQUAWK STANDBY, o instrucțiune separată pentru transponder, iar cuvântul „standby” singur nu-l privește. „Menține poziția” (HOLD POSITION) se dă unei aeronave la sol, ca să oprească rulajul. „Schimbă frecvența” e exact opusul — dacă pleci de pe frecvență, controlorul nu te mai poate rechema. Vezi itemul 722 și itemul 721.
+
+----
+
+Pericolul grav și iminent se anunță în radiotelefonie cu MAYDAY, rostit de trei ori, urmat de stația apelată, indicativ, natura pericolului, intenții, poziție, nivel și cap. SOS are același înțeles, dar este forma Morse (· · · — — — · · ·), transmisă prin radiotelegrafie sau prin alte metode de semnalizare — nu cuvântul pe care îl rostești la microfon. PAN (PAN PAN) e treapta de dedesubt: urgență, fără asistență imediată. HELP nu există în frazeologia aeronautică. Capcana e SOS, care înseamnă exact „pericol”, dar aparține altui mijloc de transmisie decât radiotelefonia. Vezi itemul 764.
+
+----
+
+ELT este dispozitivul care transmite automat un semnal de urgență în caz de accident: se declanșează la impact, iar semnalul, care se aude pe frecvența de urgență 121,5 MHz, ajută serviciile de căutare și salvare să găsească aeronava chiar dacă pilotul nu mai poate comunica. Variantele greșite descriu alte echipamente: distanța față de sol o măsoară radioaltimetrul, navigația direcțională o dau ADF-ul sau VOR-ul, iar viteza aeronavei o arată vitezometrul. Cuvintele care trebuie să-ți sară în ochi sunt automat și urgență — ELT nu ajută la navigație, ci la găsirea aeronavei după accident. Vezi itemul 748.
+
+----
+
+VOR = VHF Omnidirectional Range: radiofar care emite în banda VHF (108–117,95 MHz, sub banda de voce) semnale în toate direcțiile, din care aeronava își determină direcția față de stație. Prima literă e banda radio, VHF, nu „Visual” — capcana principală, fiindcă VOR-ul funcționează și în nori, după instrumente. „VHF Operational Range” păstrează VHF, dar pierde ideea esențială de omnidirecțional, iar „Variable Orientation Range” inventează și primul cuvânt. Reține: V = VHF, O = Omnidirectional, R = Range; e printre abrevierile care se pronunță direct, fără alfabetul fonetic.
+
+----
+
+Pe scara de audibilitate, cifra 4 înseamnă „audibil”: mesajul se înțelege clar, fără efort. Scara completă: 1 inaudibil, 2 audibil cu întreruperi, 3 audibil cu dificultate, 4 audibil, 5 perfect audibil. Capcana e „perfect audibil”, care este 5 — treapta de sus, nu cea de sub ea. „Audibil cu dificultate” e 3, iar „audibil cu întreruperi” e 2: ambele descriu un mesaj care se înțelege doar parțial. Cifra se dă ca răspuns la RADIO CHECK, împreună cu identificarea celor două stații, ca cel care a cerut controlul să afle cum se aude stația lui. Vezi și itemul 708.
+
+----
+
+În spațiul necontrolat nimeni nu separă traficul, deci evitarea coliziunilor se bazează pe auto-informare: aeronavele folosesc frecvențele VHF aeronautice stabilite regional și mențin ascultarea de veghe pe frecvența TIBA, pe care fiecare își difuzează periodic poziția, nivelul și intențiile — înainte de a intra în zonă, înainte de punctele de raport, la schimbările de nivel. „Exclusiv semnale vizuale” e greșit prin „exclusiv”: privitul afară rămâne esențial, dar radioul se folosește. „Doar frecvențele ATC” presupune un control care nu există acolo. Radarul de supraveghere secundară (SSR) e un mijloc al controlorului de la sol, nu al pilotului. Vezi itemul 781.
+
+----
+
+Termenul generic pentru o rută definită pentru dirijarea traficului aerian este ruta ATS (Air Traffic Services route): căile aeriene, rutele consultative și rutele RNAV sunt toate rute ATS, identificate și publicate. „Rută VFR” și „rută IFR” confundă regulile după care zboară o aeronavă cu tipul de rută — regulile de zbor nu definesc rute, iar pe aceeași rută ATS pot opera zboruri cu reguli diferite. „Rută de serviciu” nu e un termen aeronautic: sună plauzibil doar prin cuvântul „serviciu”, împrumutat din „Air Traffic Services”. Capcana e să alegi după regula de zbor, nu după organizarea spațiului aerian.
+
+----
+
+Operatorul cu certificat restrâns (ROC-AERO) poate lucra doar cu stații care funcționează exclusiv pe frecvențele asignate serviciului respectiv și nu are dreptul să schimbe frecvența de lucru a stației; de altfel, examenul lui e mai scurt decât cel pentru certificatul general. „Poate opera pe orice frecvență” descrie certificatul general (GOC-AERO) — capcana perechii. Controlul tuturor comunicațiilor aer-sol nu decurge din niciun certificat de operator; dirijarea traficului e treaba ATC. Inspecțiile stațiilor radio le fac inspectorii ANCOM, nu operatorii. Cuvântul „exclusiv” marchează întotdeauna varianta restrânsă. Perechea: itemul 774.
+
+----
+
+Frecvențele unităților ATS se publică în AIP România — publicația de informare aeronautică emisă în numele statului, cu informațiile aeronautice de durată, esențiale pentru navigație: frecvențele aerodromurilor în partea AD, cele de rută în ENR; pentru aerodromurile de aviație generală apar și pe hărțile de navigație. HG 912/2010 este un act normativ: stabilește reguli, nu ține evidența frecvențelor operaționale, care se pot schimba. Manualul de operare al aeronavei descrie aeronava și stația de la bord, nu aerodromurile. Regulamentul circulației aeriene conține reguli de zbor, nu date de aerodrom. Schimbările temporare apar prin NOTAM (itemul 740). Identic cu itemul 730.
+
+----
+
+Pentru a cere repetarea folosești expresia standard „REPETAȚI” (SAY AGAIN) — pentru tot mesajul sau pentru o parte („repetați după…”); de aici varianta corectă, „repetați mesajul”. Frazeologia e scurtă și fixă, ca să nu depindă de ton sau de politețe. „Repetați vă rog” adaugă cuvinte inutile pe o frecvență care trebuie ținută liberă. „Nu am înțeles” descrie problema, dar nu cere nimic — controlorul nu știe dacă să repete, să vorbească mai rar sau să reformuleze. „Spuneți din nou mesajul” e o traducere liberă a lui „say again”, nu expresia consacrată. Atenție la vecina ei: „I SAY AGAIN” („REPET”) o folosește cel care transmite, ca să clarifice sau să accentueze.
+
+----
+
+Cheia băncii este Regulamentul stațiilor de telecomunicații: regulile de radiotelefonie țin de regimul stațiilor de radiocomunicații — procedura de trafic, forma mesajelor, disciplina în eter —, nu de cel al zborului. Codul aerian este legea-cadru a aviației civile (autorități, licențe, contravenții) și nu descrie frazeologia. Regulamentul circulației aeriene și serviciilor de trafic aerian descrie ce fac unitățile ATS, nu cum se vorbește la stație. Atenție: nota de Legislație arată că frazeologia standard este descrisă și în SERA, secțiunea 14, adică în Regulile aerului, deci varianta aceea nu e absurdă, iar notele nu numesc deloc documentul din cheie. Pentru examen reține răspunsul băncii și criteriul ei: documentul specific stațiilor, nu cel mai „important”.
+
+----
+
+Pentru pericol grav și iminent care cere asistență imediată emiți MAYDAY, de trei ori, urmat de datele mesajului de pericol; auzindu-l, toate celelalte stații încetează transmisia până la încheierea traficului de pericol. SOS are același sens, dar e forma Morse (· · · — — — · · ·), transmisă prin radiotelegrafie sau alte semnalizări, nu cuvântul rostit în radiotelefonie. PAN (PAN PAN) e treapta de dedesubt — urgență, fără asistență imediată. HELP nu există în frazeologia aeronautică. Capcana e SOS: înseamnă același lucru, dar aparține altui mijloc de transmisie. Identic ca fond cu itemul 744.
+
+----
+
+Grupul SOS (· · · — — — · · ·), transmis prin radiotelegrafie sau prin orice altă metodă de semnalizare, este un semnal de pericol: anunță un pericol grav și iminent și cere asistență imediată, exact ca MAYDAY în radiotelefonie. Capcana e „semnal de urgență”: urgența, fără asistență imediată, are propriile semnale — PAN PAN prin voce și grupul XXX în Morse —, deci SOS stă pe treapta de sus, nu pe cea de dedesubt. „Semnal de atenție” și „semnal de avertizare” nu sunt categorii din clasificare; sună plauzibil, dar descriu cel mult o informare. Clasificarea are doar două trepte: pericol (SOS/MAYDAY) și urgență (XXX/PAN PAN).
+
+----
+
+Serviciul de informare a zborurilor are, prin definiție, scopul de a furniza indicații și informații utile pentru desfășurarea în siguranță și eficientă a zborului — vreme, trafic cunoscut, starea aerodromurilor, zone active —, iar pilotul decide singur ce face cu ele. Nu controlează: „controlul tuturor zborurilor VFR și IFR” e serviciul de control al traficului aerian, care nu se furnizează în spațiul necontrolat. Autorizarea decolărilor și aterizărilor o dă turnul de control, tot un serviciu de control. Coordonarea operațiunilor de salvare și căutare revine centrelor de coordonare a salvării, alertate prin serviciul de alarmare. Capcana constantă: informarea nu este control. Identic cu itemul 782.
+
+----
+
+La pierderea comunicațiilor radio setezi transponderul pe 7600, iar într-un zbor controlat în VMC continui în VMC, aterizezi la cel mai apropiat aerodrom convenabil și anunți sosirea pe cea mai rapidă cale. Între timp, organele de trafic te eșalonează presupunând că respecți planul de zbor. Oprirea transponderului e capcana periculoasă: transponderul e singurul lucru prin care controlorul te mai vede și află ce ți s-a întâmplat. Codul 7700 e urgența generală — un radio defect nu e în sine o urgență —, iar codul 7500 înseamnă deturnare și declanșează procedura de securitate. Vezi itemul 686.
+
+----
+
+Serviciul de control al traficului aerian există, conform definiției, ca să prevină coliziunile între aeronave și, pe suprafața de manevră, între aeronave și obstacole, și să mențină un flux ordonat de trafic — pe scurt, gestionarea și coordonarea traficului aerian pentru siguranța zborurilor. Toate variantele greșite descriu servicii aeroportuare de la sol, fără legătură cu aeronavele în mișcare: verificarea documentelor pasagerilor ține de frontieră și de operatorul aerian, inspecțiile de securitate la sol de controlul de securitate al aeroportului, iar gestionarea bagajelor pierdute de serviciul de handling. Capcana e cuvântul „control”, care poate suna a control de documente. Identic cu itemul 765.
+
+----
+
+VMC = Visual Meteorological Conditions, condițiile meteorologice de zbor la vedere: vizibilitate, distanță față de nori și plafon egale cu minimele specificate sau mai bune; sub aceste minime vorbim de IMC. „Vizibilitate maximă critică” și „vizibilitate minimă critică” sunt expansiuni inventate pe aceleași litere: V vine de la Visual, nu de la vizibilitate, iar M de la Meteorological, nu de la „maxim” sau „minim”. „Control de trafic aerian” este ATC, cu totul altă abreviere. Perechea de reținut: VMC/IMC descriu vremea (Conditions), VFR/IFR descriu regulile după care zbori (Rules).
+
+----
+
+Codul pentru zborul obișnuit, fără situații speciale, este 7000: îl selectezi când nu primești servicii de trafic aerian și nici instrucțiuni de cod, ca aeronava să fie detectabilă pe radar și pentru sistemele anticoliziune; când ATC îți atribuie un cod, îl afișezi pe acela. Celelalte trei variante sunt coduri de alarmă, care nu se afișează într-un zbor normal: 7500 intervenție ilicită (deturnare), 7600 pierderea comunicațiilor, 7700 urgență generală. Atenție și la schimbarea codului: nu treci prin aceste valori când rotești selectorul, ca să nu declanșezi alarme false. Identic cu itemul 769.
+
+----
+
+În comunicarea sol-aer, controlorul începe întotdeauna cu indicativul aeronavei, apoi mesajul — de pildă „YR-ZCE, Turnul Strejnic, aprob pornirea motorului”. Ordinea are un motiv practic: pe o frecvență cu mai multe aeronave, fiecare pilot află din primele cuvinte dacă mesajul îl privește și abia atunci ascultă atent restul. „Mesajul, apoi indicativul aeronavei” e ordinea folosită de pilot când confirmă („Pista doi trei, liber decolarea, Yankee Romeo…”) — capcana perechii. „Numai indicativul” nu transmite nicio informație, iar „numele și mesajul” nu există: pe frecvență te identifică indicativul aeronavei, nu numele tău.
+
+----
+
+Nota de curs definește urgența ca o condiție legată de siguranța unei aeronave, a altui vehicul sau a unei persoane de la bord ori din raza vizuală, care nu necesită asistență imediată — exact situația din enunț; semnalul ei este PAN PAN. Capcana e „mesaj de primejdie”: primejdia (pericolul, MAYDAY) presupune un pericol grav și iminent și asistență imediată, deci e treapta de deasupra, nu un sinonim. „Mesajul de rutină” este traficul obișnuit de poziții și autorizări, iar „mesajul de servicii” e o comunicare între stații despre funcționarea serviciului; niciunul nu privește siguranța aeronavei. În ordinea priorităților, urgența vine imediat după pericol și înaintea tuturor celorlalte mesaje.
+
+----
+
+Când nu primești servicii de trafic aerian — cazul tipic al zborului VFR în spațiul necontrolat — pilotul selectează 7000, codul care te face detectabil pe radar și pentru sistemele anticoliziune; codul se schimbă doar la instrucțiunea unității ATS. Celelalte trei sunt coduri de situații speciale, care alertează imediat controlorul: 7700 urgență generală, 7500 intervenție ilicită (deturnare), 7600 pierderea comunicațiilor radio. Afișarea lor într-un zbor normal ar declanșa o alarmă falsă. Reține blocul întreg: 7000 normal · 7500 deturnare · 7600 radio · 7700 urgență. Vezi itemul 755.
+
+----
+
+Certificatul general (GOC-AERO) îi permite titularului să opereze orice stație de aeronavă și stațiile aeronautice de sol, deci să lucreze pe orice frecvență din spectrul alocat serviciului mobil aeronautic și să schimbe frecvența după nevoie. Varianta „doar pe frecvențele alocate exclusiv serviciului respectiv” descrie certificatul restrâns (ROC-AERO), al cărui titular nu poate schimba frecvența de lucru — cuvântul „exclusiv” îl trădează. Inspecțiile stațiilor radio le fac inspectorii ANCOM, nu operatorii. Controlul tuturor comunicațiilor aer-sol nu revine nimănui prin certificat: operatorul răspunde de stația lui, iar dirijarea traficului e treaba ATC. Perechea: itemul 750.
+
+----
+
+Nota de curs dă ca semnale vizuale de urgență — aeronava are dificultăți care o obligă să aterizeze, dar nu cere asistență imediată — aprinderea și stingerea repetată a luminilor de aterizare și, ca alternativă, aprinderea și stingerea repetată a luminilor de navigație, într-un mod distinct de clipirea lor normală. De aici capcana variantei „folosirea luminilor intermitente de navigație”: lumina intermitentă e regimul obișnuit și nu transmite nimic; semnalul trebuie să se deosebească de ea. „Schimbarea poziției eleroanelor” este răspunsul unei aeronave aflate la sol, ziua, la semnalele luminoase din turn, nu un semnal de urgență din zbor. „Schimbarea culorii luminilor de navigație” e imposibilă: culorile lor sunt fixe.
+
+----
+
+Mesajul PAN PAN are aceeași structură ca mesajul de pericol: stația apelată, indicativ și tip, natura problemei, intenția pilotului, poziție, nivel, cap și alte informații utile. Ce îl definește este partea din mijloc — ce problemă de siguranță ai și ce asistență ceri —, fiindcă fără ea controlorul nu știe cum să te ajute. „Locația exactă a aeronavei” e capcana: poziția intră și ea în mesaj, dar poate fi și ultima poziție cunoscută, iar singură nu spune nimic despre problemă. Numărul de pasageri se adaugă la final, dacă e relevant, iar timpul estimat până la destinație nu este cerut. Identic cu itemul 777.
+
+----
+
+Serviciul unei stații aeronautice este condus de un operator care deține un certificat emis sau recunoscut de statul respectiv — în România, certificatul de operator radiotelefonist eliberat de ANCOM. Decizia ANCOM, reprodusă în nota de Legislație, îi cere titularului să coordoneze, să controleze și să răspundă de activitatea stației și să nu permită accesul la aparatură persoanelor fără certificat. Contează deci documentul, nu funcția: un pilot fără certificat nu are dreptul să opereze stația, iar un mecanic o poate repara, dar nu o operează în trafic. Un inspector de zbor verifică piloți și operațiuni de zbor, nu conduce serviciul unei stații radio. Capcana e să alegi persoana cu cea mai mare autoritate aeronautică.
+
+----
+
+O stație radio aeronautică poate fi operată doar de cineva care deține certificatul de operator radiotelefonist, emis de ANCOM: el atestă cunoștințele necesare operării stației, iar pentru un elev pilot se obține înaintea zborurilor în simplă comandă. Distinge documentele după cui aparțin: operatorul are certificat, stația are licență de utilizare a frecvențelor și autorizație (itemul 690). Pașaportul și permisul de conducere sunt acte personale fără legătură cu radiocomunicațiile, iar certificatul de garanție privește doar aparatul cumpărat. Pentru pilotul ULM, RACR-LPAN cere certificatul general acolo unde legătura radio e obligatorie. Întrebarea de aici e despre om, nu despre aparat.
+
+----
+
+Stația de radiocomunicații funcționează în baza a două documente ale stației: unul pentru frecvență — autorizația de utilizare (asignare) a frecvențelor, anexă la licența emisă de ANCOM — și unul pentru aparat, licența stației; Convenția de la Chicago cere la bordul aeronavei echipate cu radio documentul pentru stația de radio. Decizia ANCOM îi cere operatorului să lucreze doar în limitele înscrise în aceste documente. Manualul de utilizare e util, dar nu are valoare legală; pașaportul operatorului e act personal (operatorul are, separat, certificatul de radiotelefonist), iar certificatul de garanție privește doar cumpărarea echipamentului. Aceeași pereche ca la itemul 690, cu termenii schimbați între ei — reține ideea „frecvență plus stație”, nu ordinea cuvintelor.
+
+----
+
+Un zbor controlat trebuie să asculte permanent canalul unității ATC și să comunice bilateral cu ea, iar obligația durează cât timp zborul face obiectul serviciului de control — adică până la ieșirea din zona controlată; la ieșire informezi unitatea că nu mai ești sub control. Criteriul este limita spațiului, nu performanța stației: „până la limita audibilității” ar însemna că o stație slabă te-ar scuti mai devreme. O distanță fixă, „minim 10 NM”, nu există. „Până când organul de trafic ordonă schimbarea frecvenței” e capcana: de obicei controlorul îți dă frecvența următoare chiar la limită, dar instrucțiunea doar te transferă — obligația ține de spațiu. Identic cu itemul 715.
+
+----
+
+Serviciile de telecomunicații fixe sau mobile accesibile publicului se numesc servicii publice de telecomunicații: oricine poate deveni utilizator — telefonie, internet, rețele mobile. Opusul lor sunt serviciile private, rezervate unui singur utilizator sau unei categorii restrânse, pentru nevoi proprii. „De urgență” și „de securitate” descriu destinația unor comunicații — apeluri de urgență, rețele ale forțelor de ordine —, nu cine are acces la ele, deci nu răspund la criteriul din enunț. Cuvântul decisiv din întrebare e „accesibile publicului”, care cere direct adjectivul „publice”.
+
+----
+
+Apelul inițial către ATC înainte de a intra într-un spațiu cu comunicație radio obligatorie conține: stația apelată, indicativul aeronavei, tipul, poziția, nivelul (altitudinea) și intențiile — adică ruta și destinația. Sunt exact datele de care controlorul are nevoie ca să te identifice, să te plaseze față de alt trafic și să-ți dea autorizarea: cine ești, unde ești, cât de sus și încotro mergi. Identitatea pilotului, certificatul de operator radio și licența de zbor sunt documente pe care le ai asupra ta, nu informații de trafic. Viteza actuală și condițiile meteo locale nu se cer în apelul inițial — vremea ți-o dă unitatea. Numărul de pasageri, greutatea totală și durata zborului țin de planul de zbor, nu de apel.
+
+----
+
+Pentru zborurile VFR sub 3050 m (10 000 ft) AMSL, minimul de vizibilitate din tabelul SERA este 5 km, în toate clasele de spațiu aerian — de aceea e valoarea de bază. 8 km se cer abia la și peste 3050 m AMSL, unde vitezele sunt mai mari. 1500 m nu e minimul VFR, ci o excepție: autoritatea poate permite, la și sub 900 m AMSL sau 300 m deasupra terenului, în clasele F și G, vizibilități reduse până la 1500 m pentru zborurile lente (140 kt IAS sau mai puțin) ori în zone cu trafic redus; tot 1500 m e și distanța orizontală minimă față de nori. 3000 m nu apare ca treaptă de vizibilitate: cifra 3000 din tabel e în picioare (3000 ft ≈ 900 m), un prag de altitudine.
+
+----
+
+„Negativ transponder” este formula standard prin care spui că aeronava nu are transponder: cuvântul NEGATIV neagă echipamentul, nu instrucțiunea. Controlorul află astfel că nu va primi niciodată un răspuns SSR de la tine și te va urmări doar prin rapoartele tale de poziție. „Negativ squawk” ar suna ca refuzul instrucțiunii de a afișa codul — ca și cum ai avea transponder, dar nu vrei să-l folosești —, deci transmite exact mesajul greșit. „I don't have transponder” și „no transponder” spun același lucru în limbaj liber, iar frazeologia standard există tocmai ca să înlocuiască formulările improvizate cu una singură, scurtă și fără ambiguitate. Reține tiparul: NEGATIV + echipamentul care lipsește.
+
+----
+
+Comunicațiile radio aeronautice există pentru siguranța și regularitatea zborului, în această ordine: chiar lista priorităților pe frecvență începe cu pericolul și urgența și se încheie cu mesajele de regularitate. De aici disciplina din eter — mesaje scurte, frazeologie standard, fără transmisii inutile. Transmiterea mesajelor private nu are loc pe frecvența aeronautică, iar regulile ANCOM interzic mesajele superflue. Comunicarea cu pasagerii se face prin intercom, în cabină, nu în eter. Raportarea incidentelor la sol se face pe căi administrative, prin rapoarte, și nu e scopul radioului de bord. Capcana e că toate variantele implică „comunicare”; doar una e motivul pentru care există frecvența.
+
+----
+
+Autorizarea de decolare se cere de la turnul de control (TWR), unitatea care furnizează serviciul de control traficului de aerodrom și, deci, singura care poate aproba folosirea pistei: „autorizez decolarea pista 01”, iar pilotul repetă autorizarea și pista. Dispecerul de sol (Ground) dirijează rulajul pe căile de rulaj, dar nu aprobă decolarea. Briefing-ul este informarea dinainte de zbor (meteo, NOTAM), nu o unitate de trafic. „Serviciul de trafic” e un termen generic, care include și informarea și alarmarea, deci prea vag ca să numească autoritatea care aprobă. Capcana e dispecerul de sol, care chiar vorbește cu tine înainte de decolare.
+
+----
+
+ATC = Air Traffic Control, controlul traficului aerian: serviciul care previne coliziunile între aeronave și menține un flux ordonat de trafic, prin autorizări și instrucțiuni. Variantele greșite păstrează inițialele și inventează alte expansiuni plauzibile: „Aircraft Technical Check” ar fi o verificare tehnică a aeronavei, „Aviation Training Center” un centru de pregătire, iar „Air Transport Command” sună a structură militară de transport — niciuna nu e un termen aeronautic standard. Reține că C-ul final este Control, același cuvânt ca în ACC (Area Control Centre), unitatea care furnizează controlul regional, și nu Check, Center sau Command.
+
+----
+
+Când comunicațiile radio se întrerup, selectezi 7600 — codul care îi arată controlorului, pe radar, că nu te mai aude și că vei urma procedura de pierdere a legăturii: continui în VMC, aterizezi la cel mai apropiat aerodrom convenabil, raportezi sosirea. În spațiul unde transponderul e obligatoriu, acest cod e principalul tău mijloc de a-i comunica situația. 7700 e urgența generală, iar un radio defect nu e în sine o urgență; 7500 semnalează deturnarea și declanșează procedura de securitate. 7777 nu este un cod de situație specială — în nota de Legislație apare doar 7776, folosit la testarea transponderului la sol. Blocul: 7000 normal · 7500 deturnare · 7600 radio · 7700 urgență.
+
+----
+
+Stațiile radio aeronautice se identifică în eter printr-un semnal de identificare format din 3–5 litere — un indicativ scurt, transmis literă cu literă, astfel încât oricine ascultă să știe ce stație emite. Același principiu îl vezi la indicativele de apel ale aeronavelor și la mijloacele de radionavigație, care își transmit indicativul în Morse. Semnalul de fum, semnalul acustic și semnalul luminos sunt mijloace de semnalizare vizuală sau sonoră — rachete, lumini din turn, semne la sol —, folosite pentru dirijarea aeronavelor fără radio sau în caz de pericol, nu pentru identificarea unei stații radio. Capcana e cuvântul „semnal”: întrebarea e despre identificarea în eter, nu despre semnalizarea vizuală.
+
+----
+
+Da, un mesaj al turnului trebuie confirmat, iar cheia băncii cere răspunsul „confirm”. Atenție: nota de curs nu confirmă această formulare. Acolo, CONFIRMAȚI apare ca întrebare a controlorului („ați recepționat corect…?”), informațiile simple se confirmă cu indicativul sau cu ROGER — tradus chiar „AM ÎNȚELES” —, iar autorizările, pista, QNH-ul, frecvențele și codurile se confirmă prin repetare (readback). Varianta „este suficient «am înțeles»” e respinsă de bancă prin cuvântul „suficient”: pentru elementele importante doar repetarea ajunge. „Am copiat” e un calc din engleză, nu frazeologie. „Trebuie să fim întotdeauna pe recepție” nu răspunde la întrebare: vorbește despre ascultare, nu despre confirmare. Pentru examen reține cheia; în zbor aplică regula din notă.
+
+----
+
+Motorul oprit în zbor înseamnă pierderea propulsiei și o aterizare forțată, deci e situație de pericol — nota de curs o pune prima pe lista exemplelor pentru MAYDAY. Varianta „veți ateriza de urgență și apoi veți raporta poziția TWR” inversează ordinea: ești deja în legătură cu organul de trafic, iar el trebuie să afle înainte, ca să elibereze spațiul și să pornească ajutorul; „pilotează, navighează, comunică” stabilește prioritatea, nu înseamnă „comunică după aterizare”. PAN PAN subevaluează situația — e pentru motorul care merge neregulat. „EMERGENCY” nu este un semnal standard în frazeologie. Identic cu itemul 711.
+
+----
+
+În alfabetul fonetic ICAO, literele E, X și B se pronunță Echo, X-ray, Bravo. Alfabetul e fix și internațional — fiecărei litere îi corespunde un singur cuvânt, ales să rămână inteligibil prin zgomot și pentru vorbitori de limbi diferite —, deci orice variantă „inspirată” e greșită prin definiție. „Engage, Xerox, Baccalaureate” și „Easy, Xenon, Baby” sunt cuvinte englezești oarecare, iar „Echo, X-mas, Baboon” e cea mai perfidă, pentru că începe corect cu Echo. Alfabetul se folosește la fiecare indicativ: YR-ZCM se citește Yankee Romeo Zulu Charlie Mike. Merită învățat integral, de la Alpha la Zulu.
+
+----
+
+În clasa G legătura radio nu este obligatorie pentru zborurile VFR: zborurile primesc doar, la cerere, serviciul de informare a zborurilor, autorizarea ATC nu e necesară și numai zborurile IFR trebuie să poată stabili comunicații aer-sol. Prin contrast, în clasele A și C comunicațiile continue aer-sol sunt obligatorii pentru toate zborurile, deci varianta „este obligatorie legătura radio” descrie spațiul controlat. Cea cu „doar dacă organul de control permite” e greșită de două ori: în clasa G nu există un organ de control care să dea permisiuni, iar fără radio nu ai nevoie de voie. „Stațiile walkie-talkie obligatorii” nu există ca regulă. Excepție de reținut: o zonă RMZ, publicată în AIP, poate cere radio chiar în clasa G. Vezi itemul 778.
+
+----
+
+Certificatul general de operator radiotelefonist (GOC-AERO) este eliberat de ANCOM — Autoritatea Națională pentru Administrare și Reglementare în Comunicații —, în baza Deciziei 543/2017, după un examen scris. Logica: spectrul radio și stațiile de radiocomunicații țin de autoritatea de comunicații, nu de cea aeronautică, deci certificatul radio nu vine de la AACR sau de la Aeroclub, ci de la regulatorul comunicațiilor. Celelalte acronime sunt momeli: SATCOM înseamnă comunicații prin satelit, o tehnologie, nu o instituție; CEDAM nu este o autoritate de reglementare în comunicații; CNA este Consiliul Național al Audiovizualului, care reglementează conținutul radio-TV, nu operatorii de stații. Vezi itemul 697 pentru valabilitate.
+
+----
+
+ALERFA este termenul codificat pentru faza de alarmă (din franceza alerte): există temere privind siguranța aeronavei, iar serviciile de căutare și salvare sunt alertate. Celelalte faze ale seriei sunt INCERFA — incertitudine, treapta de dinainte — și DETRESFA — pericol, treapta de după. „Atenționare” este capcana de vocabular: sună apropiat de „alarmă”, dar serviciul de alarmare nu are o fază de atenționare. Ordinea completă: INCERFA → ALERFA → DETRESFA; un PAN transmis de pilot duce direct la ALERFA, iar un MAYDAY la DETRESFA. Vezi și itemul 746.
+
+----
+
+Asistență urgentă fără pericol imediat = PAN PAN, rostit de trei ori. Nota de curs definește urgența ca o condiție legată de siguranța aeronavei sau a cuiva de la bord care nu necesită asistență imediată — orientare pierdută, pasager bolnav, motor care merge neregulat. MAYDAY e treapta de deasupra: pericol grav și iminent, asistență imediată; aici ar supraevalua situația. SOS e forma Morse a semnalului de pericol, deci echivalentul lui MAYDAY, nu al lui PAN; în Morse, urgența are grupul XXX. HELP nu există în frazeologia aeronautică. Gradarea de memorat: PAN PAN = urgență, MAYDAY = pericol.
+
+----
+
+PAN PAN anunță o problemă de siguranță pentru care ceri asistență, fără pericol grav și iminent: orientare pierdută, un pasager care se simte rău, motor care funcționează neregulat, vreme în degradare pentru un pilot fără calificare instrumentală. Capcana e ultima variantă — „situație de pericol grav și iminent” este definiția lui MAYDAY, treapta de deasupra; PAN înseamnă urgență, MAYDAY pericol. „Schimbare de frecvență” e o procedură de rutină (CHANGING TO / VOI SCHIMBA PE), iar „solicitare de decolare imediată” ar fi o cerere de autorizare, iar decolarea fără întârziere o aprobă turnul (CLEARED FOR IMMEDIATE TAKE-OFF). Reține și că un mesaj PAN are prioritate față de toate celelalte, cu excepția MAYDAY.
+
+----
+
+Zborul VFR special este, prin definiție, un zbor VFR autorizat de controlul traficului aerian să se desfășoare într-o zonă de control în condiții meteorologice sub minimele VMC. Rămâne un zbor VFR — pilotul zboară cu vederea solului, nu după instrumente —, dar cu o autorizare specială, cerută de obicei când vremea se degradează în CTR. „Zbor IFR fără plan de zbor” amestecă două regimuri diferite: VFR special nu este deloc IFR. „Zbor de instruire” descrie scopul zborului, nu regimul lui, iar „zbor de urgență” e situația în care pilotul declară MAYDAY sau PAN PAN, nu o categorie de autorizare. Reține cele două elemente obligatorii: autorizarea ATC și vremea sub VMC.
+
+----
+
+Componenta serviciului de informare a zborurilor este furnizarea de indicații și informații utile pentru desfășurarea în siguranță și eficientă a zborului — chiar definiția serviciului. În spațiul necontrolat (clasa G) se oferă, la cerere, atât zborurilor IFR, cât și VFR, iar pilotul hotărăște singur ce face cu informațiile. „Controlul tuturor zborurilor IFR și VFR” și „autorizarea decolărilor și aterizărilor” sunt atribuții ale serviciului de control al traficului aerian, care nu există în clasa G. „Coordonarea operațiunilor de salvare și căutare” revine centrelor de coordonare a salvării, nu serviciului de informare. Identic cu itemul 779; capcana constantă este să confunzi informarea cu controlul.
+
+----
+
+WILCO vine de la „will comply”: am înțeles mesajul și mă voi conforma. Se folosește ca răspuns la o instrucțiune, urmat de indicativ, și conține două angajamente: recepție și execuție. De aici perechea de reținut: ROGER înseamnă doar „am recepționat” (în română „am înțeles”), fără promisiunea că execuți, iar WILCO adaugă execuția. „Voi continua zborul pe direcția din planul de zbor” descrie conduita la pierderea legăturii radio, nu o abreviere; „am epuizat combustibilul și voi ateriza” este conținutul unui mesaj de pericol, care începe cu MAYDAY. „Nu semnifică nimic” cade din prima: WILCO figurează în tabelul expresiilor standard și chiar în lista scurtă folosită în comunicarea cu o aeronavă interceptoare.
+
+----
+
+Aeronava interceptată are obligația să încerce legătura cu interceptorul printr-un apel general pe 121,50 MHz, frecvența internațională de urgență, spunând cine este și ce fel de zbor execută; dacă nu primește răspuns, repetă apelul pe 243 MHz (UHF). Aceeași frecvență servește mesajelor MAYDAY și PAN PAN și semnalului ELT, deci e monitorizată permanent. 123 nu e o frecvență cu rol special, 125,5 e o frecvență obișnuită din bandă, iar 136,00 se află la capătul de sus al benzii de voce, fără legătură cu urgențele. Reține o singură valoare pentru interceptare și urgență: 121,5. Vezi itemul 717 și itemul 737.
+
+----
+
+Stația de la bord se folosește în baza certificatului general de operator radiotelefonist (GOC-AERO): certificatul de operator e obligatoriu pentru folosirea stațiilor de la bord, iar RACR-LPAN ULM cere pilotului ULM certificatul general când zboară unde legătura radio e obligatorie. Capcana e varianta cu certificatul restrâns: ROC-AERO permite doar stații care lucrează exclusiv pe frecvențele asignate serviciului, fără dreptul de a schimba frecvența, iar un pilot schimbă frecvența la fiecare transfer; licența stației ține de aparat, nu de operator. Licența de pilot și cartea de identitate (CI) nu atestă cunoștințe de radiotelefonie. „Fără pregătire prealabilă” contrazice chiar ideea de certificat obținut prin examen. Vezi itemul 774 și itemul 750.
+
+----
+
+IMC (Instrument Meteorological Conditions) sunt condițiile meteorologice — vizibilitate, distanță față de nori, plafon — mai mici decât minimele pentru zborul la vedere; VMC sunt condițiile egale cu minimele sau mai bune. Ultimele litere fac diferența: C = Conditions descrie vremea, R = Rules descrie regulile după care zbori. Enunțul cere „condiții meteorologice”, deci un termen în C, iar „zbor instrumental” îl alege pe I: IMC. IFR este setul de reguli de zbor după instrumente, aplicabil și pe vreme bună; VFR sunt regulile de zbor la vedere, iar VMC sunt chiar condițiile opuse celor din enunț. Capcana e perechea C/R, nu literele I/V.
+
+----
+
+Documentul care leagă aeronava de un stat și o face identificabilă este certificatul de înmatriculare: emis de statul de înmatriculare, conține marca, fabricantul, seria și proprietarul și trebuie să se afle permanent la bord. Convenția de la Chicago îl pune primul pe lista documentelor obligatorii la bord, alături de certificatul de navigabilitate, licențele echipajului și autorizația stației radio. Permisul de conducere privește vehiculele rutiere și nu are valoare în aviație, pașaportul este actul de identitate al unei persoane, iar certificatul de garanție privește relația cu vânzătorul echipamentului. Capcana: toate trei sunt documente „oficiale”, dar niciunul nu aparține aeronavei.
+
+----
+
+Banda VHF alocată comunicațiilor aeronautice de voce începe la 118,000 MHz, iar canalele sunt separate la 8,33 kHz — ecart introdus pentru că cererile de frecvențe crescuseră, ridicând numărul de canale de la 760 (la 25 kHz) la 2280. Varianta cu același interval, dar cu 25 kHz, descrie separarea veche și e capcana principală: cele două variante diferă doar prin ecart. „115000–155000 MHz” e greșit și ca ordin de mărime, și ca bandă (sub 118 MHz stau mijloacele de navigație VOR și ILS). „Se schimbă la fiecare 6 luni” nu are sens: banda e stabilită internațional. Nota de curs dă capătul de sus 136,975 MHz, nu 135,975; reține deci criteriul de alegere dintre variante — 8,33 kHz.
+
+----
+
+Certificatul de operator radiotelefonist este valabil 5 ani, conform Deciziei ANCOM 543/2017, termen reprodus și în nota de curs de Legislație. Valabilitatea se poate prelungi tot cu 5 ani, după un curs de reconfirmare și promovarea examenului de evaluare a cunoștințelor despre regulamentele radiocomunicațiilor. 1 an, 2 ani și 3 ani sunt cifre împrumutate din documente care se reînnoiesc mai des — licența ULM, de exemplu, are 24 de luni, iar certificatul medical are termene care scad cu vârsta —, de unde și tentația. Regula de memorat: documentul radio (ANCOM) ține cel mai mult, 5 ani; documentele aeronautice ale pilotului expiră mai repede.
+
+----
+
+ICAO = International Civil Aviation Organization, Organizația Aviației Civile Internaționale (OACI în română), organizația care stabilește standardele aviației civile internaționale — anexele la Convenția de la Chicago, alfabetul fonetic, frazeologia. Variantele greșite schimbă exact cuvintele din mijloc: „Civil Aeronautics Organization” în loc de „Civil Aviation”, „Communications and Air Operations” sau „Control and Air Observations” — expansiuni plauzibile, dar inexistente. Reține: I-C-A-O = International, Civil, Aviation, Organization; organizația privește aviația civilă în ansamblu, nu doar comunicațiile sau controlul.
+
+----
+
+Rolul unei unități de control al traficului aerian (ATC) este gestionarea și coordonarea traficului aerian pentru siguranța zborurilor: conform definiției, previne coliziunile între aeronave și, pe suprafața de manevră, între aeronave și obstacole, și menține un flux de trafic ordonat — prin autorizări, instrucțiuni și informări. Toate variantele greșite descriu servicii de la sol ale unui aeroport, care nu privesc aeronavele în mișcare: verificarea documentelor pasagerilor (frontieră și operator aerian), gestionarea bagajelor pierdute (handling) și inspecțiile de securitate la sol (controlul de securitate). Capcana e cuvântul „control”, care sună a control de documente sau de bagaje. Identic cu itemul 776.
+
+----
+
+GO AROUND (în română „RATEAZĂ”) înseamnă întrerupe imediat apropierea și nu ateriza: aplici putere, urci și te înscrii din nou în tur de pistă sau urmezi procedura de ratare a aerodromului. Capcana e „execută un tur de pistă”: turul vine abia după ratare, ca o consecință, nu ca înțeles al instrucțiunii — cine aude GO AROUND și se gândește doar la „un tur” poate continua coborârea. „Degajează pista imediat” este VACATE RUNWAY, instrucțiune dată după aterizare, pe rulaj, deci altă fază a zborului. „Execută imediat un viraj de 360 de grade” este ORBIT stânga/dreapta, folosit pentru întârziere sau separare, nu pentru a anula aterizarea.
+
+----
+
+Aeronava interceptată încearcă să stabilească legătura cu interceptorul sau cu organul de control al interceptării printr-un apel general pe 121,5 MHz, frecvența internațională de urgență, indicând identitatea și natura zborului; dacă nu reușește, repetă apelul pe 243 MHz, frecvența de urgență UHF. În paralel urmează semnalele vizuale ale interceptorului și, dacă are transponder, selectează 7700. 123,45 MHz e capcana cu aer de „frecvență specială”: e folosită uzual pentru comunicații aer-aer între piloți, nu pentru interceptare. 129,4 și 123,5 sunt frecvențe obișnuite din banda aeronautică, fără statut de urgență. Aceeași cifră ca la itemul 737 și itemul 706.
+
+----
+
+În clasa G sunt permise zborurile IFR și VFR, iar serviciul furnizat este informarea zborurilor, tuturor celor care o cer; autorizarea ATC nu e necesară, iar numai zborurile IFR trebuie să poată comunica aer-sol. „Doar zborurile IFR, cu serviciul de alarmare” amintește de clasa A (numai IFR) și uită tocmai VFR-ul, regimul în care zboară o motoparapantă. „Toate tipurile de zboruri, cu serviciu de control de apropiere” și „doar VFR, cu serviciu de control al traficului aerian” pun în clasa G un serviciu de control, care există numai în spațiul controlat (în România, clasele A și C). Contrastul cu clasa C, unde totul e controlat și autorizat, e exact ce se testează.
+
+----
+
+Pierderea radioului în clasa G, într-un grup, nu e o urgență: acolo legătura nu era obligatorie, iar nota de curs amintește că aeronava nu are nevoie de radio ca să zboare corect și în siguranță. Ai pierdut doar coordonarea cu ceilalți, deci îți continui zborul prudent, atent, urmărind grupul, și compensezi prin privitul afară. „Aterizați de urgență pe cel mai apropiat teren” introduce un risc pe care nu-l aveai. „Puneți comenzile în magneți și diagnosticați problema în zbor” încalcă prima regulă — întâi pilotezi: frânele lăsate pe magneți înseamnă aripa fără control activ, iar depanarea se face la sol. Aruncarea stației ca „balast” e periculoasă pentru cei de dedesubt și nu rezolvă nimic.
+
+----
+
+Faza de alarmă este ALERFA (din franceza alerte) — situația în care există temere privind siguranța aeronavei. Se declară, de exemplu, când contactul nu poate fi restabilit după faza de incertitudine, când aeronava autorizată să aterizeze nu apare și nu răspunde, sau imediat ce pilotul transmite PAN. Seria are trei trepte: INCERFA (incertitudine) → ALERFA (alarmă) → DETRESFA (pericol), deci INCERFA e treapta de dinainte, iar DETRESFA cea de după, cu certitudinea unui pericol grav. PAN este semnalul radio de urgență al pilotului, nu o fază; el doar declanșează ALERFA. Identic cu itemul 775; vezi și itemul 726.
+
+----
+
+„Distress” înseamnă pericol grav și iminent care cere asistență imediată, iar semnalul radiotelefonic corespunzător este MAYDAY (în Morse, SOS). Nota de curs separă clar cele două trepte: pericol (distress) — pană de motor, incendiu, aterizare forțată — și urgență (urgency, PAN PAN) — o problemă de siguranță care nu cere asistență imediată. „Semnal de urgență minoră” este capcana de traducere: urgența nu are o subclasă „minoră”, iar distress nici nu e urgență, ci treapta de deasupra. „Solicitare de asistență la sol” și „schimbare de frecvență” nu au legătură cu situațiile speciale: prima amestecă ideea de ajutor cu operarea pe aerodrom, a doua este o procedură de rutină (CHANGING TO).
+
+----
+
+Mesajul de pericol începe cu MAYDAY de trei ori și conține, pe cât posibil: stația apelată, indicativul și tipul aeronavei, natura pericolului, intenția pilotului, poziția (prezentă sau ultima cunoscută), nivelul și capul. Varianta corectă le rezumă pe cele care contează: unde ești, ce s-a întâmplat și ce asistență îți trebuie. Numărul de pasageri apare în exemplul din notă („patru persoane la bord”), dar la final, ca informație suplimentară, nu ca element definitoriu. Timpul estimat până la destinație nu are sens când ești în pericol — de cele mai multe ori nici nu mai ajungi acolo. „Altitudinea de croazieră” e capcana: în mesaj intră nivelul actual, nu cel planificat.
+
+----
+
+Când serviciile de trafic sunt întrerupte temporar în spațiul controlat, aeronavele trec pe frecvența TIBA (Traffic Information Broadcasts by Aircraft), stabilită la nivel regional: fiecare pilot își difuzează singur, la momente stabilite, poziția, nivelul și intențiile, iar ceilalți ascultă și își ajustează traiectoriile. Frecvența de control de aerodrom aparține chiar serviciului care a căzut, deci nu are cine să răspundă pe ea. Frecvența de urgență 121,5 MHz e rezervată mesajelor de pericol și urgență și nu trebuie încărcată cu informări de trafic, iar 243,0 MHz este frecvența de urgență UHF, a aeronavelor militare, folosită ca rezervă în procedura de interceptare. Capcana e să alegi o frecvență de urgență pentru o situație care nu e urgență. Vezi itemul 780.
+
+----
+
+Serviciul de alarmare are trei faze, în ordinea gravității: INCERFA — incertitudine, ALERFA — alarmă, DETRESFA — pericol. Enunțul cere „incertitudine”, deci INCERFA: se declară când nu se poate stabili legătura cu aeronava sau aceasta nu sosește la ora prevăzută (pentru VFR, după 20–30 de minute, după caz). ALERFA urmează dacă încercările de contact continuă să eșueze sau dacă pilotul transmite PAN, iar DETRESFA când pericolul e cert ori pilotul a transmis MAYDAY. PAN nu face parte din serie: e semnalul radio emis de pilot, nu o fază declarată de serviciile de trafic — deși, odată auzit, declanșează ALERFA. Numele vin din franceză: incertitude, alerte, détresse.
+
+----
+
+UTC înseamnă timpul universal coordonat, ora de referință unică din toată aviația, ca să nu existe confuzii când un zbor traversează fusuri orare: se raportează la meridianul Greenwich, a înlocuit denumirea GMT și apare în mesaje și ca „Zulu” (Z). Reglementarea cere ca timpul să fie exprimat în UTC, în ore și minute ale zilei de 24 de ore. „Ceasul timpului universal” este traducerea aproximativă pusă ca momeală: termenul exact conține cuvântul coordonat. „Timpul decolării” are abrevierile lui (ETD estimat, ATD efectiv), iar „timpul total de zbor anunțat” e o mărime din planul de zbor — niciuna nu este o scară de timp.
+
+----
+
+„Rămâneți pe recepție” corespunde lui STANDBY, pe care nota de curs îl traduce „așteptați și vă voi chema”: controlorul ți-a auzit apelul, dar e ocupat și revine el. De aceea nu răspunzi nimic și aștepți să fii rechemat — inițiativa a trecut la el, iar orice transmisie ar ocupa frecvența exact când lucrează cu alt trafic. „Rămân pe recepție” pare politicos, dar e un mesaj superfluu, iar regulile radio interzic transmiterea mesajelor superflue. „Ok” nu este frazeologie, iar „confirm” (CONFIRMAȚI) este o cerere de verificare, nu o confirmare — l-ai întreba ceva pe controlor tocmai când ți-a cerut să aștepți. Vezi itemul 709 și itemul 722.
+
+----
+
+Când nu poți executa o instrucțiune spui „nu pot urma instrucțiunea” — în engleză UNABLE, de obicei urmat de motiv. Formula îi spune controlorului că ai recepționat corect, dar nu te poți conforma, deci trebuie să-ți dea o alternativă; nota dă exemplul pilotului fără calificare instrumentală trimis de indicații spre un nor. „Negativ instrucțiunea” nu este o expresie standard: NEGATIV singur înseamnă „nu” sau „nu este corect” și răspunde la o întrebare, nu la o instrucțiune. „Abort” este un ordin de întrerupere a unei manevre, de pildă a decolării, nu un răspuns radio. „Anulați instrucțiunea” ar fi un ordin dat controlorului: CANCEL/ANULAȚI aparține celui care a emis autorizarea, nu pilotului.
+
+----
+
+Ordinea priorității în serviciul mobil aeronautic începe cu apelurile, mesajele și traficul de pericol (MAYDAY), urmate de mesajele de urgență, inclusiv transporturile medicale, apoi comunicațiile pentru determinarea direcției, cele legate de siguranța zborului, cele meteorologice și, la final, cele de regularitate a zborului. Mesajele meteo sunt reale și importante, dar stau abia pe locul cinci. Mesajele guvernamentale nu figurează în această listă — statutul expeditorului nu dă prioritate pe frecvență. Comunicările de serviciu, de regularitate a zborului, sunt la coada listei. Regula de bază: pericolul trece înaintea oricărui alt trafic, iar celelalte stații tac până se încheie.
+
+----
+
+Dacă te îndoiești de funcționarea stației, ceri un control radio (RADIO CHECK) cu frazeologia dedicată: stația apelată, indicativul, cuvintele „radio check” și frecvența; răspunsul vine pe scara de audibilitate 1–5. Nota de curs recomandă același lucru și după o tăcere lungă pe frecvență. „Un mesaj oarecare” ocupă frecvența fără să-ți dea o măsură a calității și încalcă interdicția mesajelor superflue. Să continui zborul fără a interveni, într-un CTR unde legătura radio e obligatorie, înseamnă să riști să ratezi o instrucțiune. Scoaterea și remontarea antenei în zbor nu e o procedură: verificările din notă sunt frecvența, contactele, căștile și siguranțele, iar prima regulă rămâne să pilotezi.
+
+----
