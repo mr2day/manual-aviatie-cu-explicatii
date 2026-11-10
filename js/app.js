@@ -9,6 +9,7 @@
   var examLocation = document.getElementById('exam-location');
   var displayMode = document.getElementById('display-mode');
   var theoryCache = {};
+  var theoryCatalogPromise = null;
   var catalogRequestVersion = 0;
 
   function setLocationParam(location) {
@@ -84,20 +85,36 @@
   }
 
   function loadTheory(meta) {
-    if (!theoryCache[meta.id]) {
-      var url = 'data/teorie/' + meta.id + '.json' + (assetVersion ? '?v=' + encodeURIComponent(assetVersion) : '');
-      theoryCache[meta.id] = fetch(url).then(function (response) {
+    var key = String(meta.title || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+    if (!theoryCache[key]) {
+      if (!theoryCatalogPromise) {
+        var catalogUrl = 'data/teorie/index.json' + (assetVersion ? '?v=' + encodeURIComponent(assetVersion) : '');
+        theoryCatalogPromise = fetch(catalogUrl).then(function (response) {
+          if (!response.ok) throw new Error('Catalog teorie HTTP ' + response.status);
+          return response.json();
+        });
+      }
+      theoryCache[key] = theoryCatalogPromise.then(function (items) {
+        var entry = items.find(function (item) {
+          return item.titles.some(function (title) {
+            return title.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase() === key;
+          });
+        });
+        if (!entry) throw new Error('Nu există teorie pentru ' + meta.title);
+        var url = entry.file + (entry.file.indexOf('?') === -1 ? '?' : '&') + 'v=' + encodeURIComponent(assetVersion);
+        return fetch(url);
+      }).then(function (response) {
         if (!response.ok) throw new Error('Teorie HTTP ' + response.status);
         return response.json();
       }).then(function (theory) {
-        if (theory.id !== meta.id || !Array.isArray(theory.sections)) throw new Error('Date de teorie invalide pentru capitolul ' + meta.id);
+        if (!Array.isArray(theory.sections)) throw new Error('Date de teorie invalide pentru capitolul ' + meta.title);
         return theory;
       }).catch(function (error) {
-        delete theoryCache[meta.id];
+        delete theoryCache[key];
         throw error;
       });
     }
-    return theoryCache[meta.id];
+    return theoryCache[key];
   }
 
   function el(tag, cls, text) {
