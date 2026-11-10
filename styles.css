@@ -141,13 +141,14 @@ body {
 
 .mode-name {
   color: var(--text);
+  cursor: pointer;
   transition: color 0.2s ease, text-shadow 0.2s ease;
 }
 
 .mode-switch:has(input:not(:checked)) .mode-theory,
 .mode-switch:has(input:checked) .mode-questions {
   color: #35a9ff;
-  text-shadow: 0 0 8px rgba(53, 169, 255, 0.65);
+  text-shadow: 0 1px 2px #000, 0 0 8px rgba(53, 169, 255, 0.65);
 }
 
 .mode-switch input {
