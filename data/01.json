@@ -1951,35 +1951,35 @@
   {
    "number": "#55",
    "text": "778: În spațiul aerian de clasă G, ce tipuri de zboruri sunt permise și ce serviciu de trafic aerian este furnizat?",
-   "short": "În spațiul de clasă G sunt permise zborurile IFR și VFR, iar serviciul furnizat este de informare a zborurilor.",
-   "long": "în clasa G sunt permise zboruri IFR și VFR. Clasa este necontrolată: nu se cere autorizare ATC pentru simpla operare în ea și nu se asigură separare între toate zborurile. Serviciul de informare a zborurilor poate fi disponibil, iar în FIR București AIP precizează serviciul și cerințele radio aplicabile; consultă publicația curentă pentru detaliile locale.\n\nSursă: [AIP România, ENR 1.4](https://aisro.ro/aip/2025-10-02/DOCS/AIP/ENR/ENR1/LR_ENR_1_4_en.pdf).",
+   "short": "Clasa G permite IFR și VFR fără control ATC; serviciul de informare a zborurilor se oferă la cerere. IFR sunt regulile instrumentale, iar VFR sunt regulile de zbor la vedere.",
+   "long": "IFR vine de la Instrument Flight Rules (reguli de zbor instrumental): aeronava operează după proceduri și instrumente de navigație aprobate, iar pilotul trebuie să aibă calificarea și aeronava echiparea cerute pentru acest tip de zbor. VFR vine de la Visual Flight Rules (reguli de zbor la vedere): pilotul navighează folosind repere vizuale și trebuie să zboare în condițiile meteorologice minime pentru VFR, numite VMC, care stabilesc vizibilitatea și distanța față de nori.\n\nÎn clasa G sunt permise atât zboruri IFR, cât și VFR. Clasa este necontrolată: ATC nu acordă autorizare pentru intrarea în ea și nu asigură separarea aeronavelor. Serviciul de informare a zborurilor (FIS) poate fi oferit la cerere; el transmite informații utile despre trafic și condiții, dar nu este control și nu înlocuiește responsabilitatea pilotului de a evita coliziunile. Faptul că regulile clasei permit IFR nu înseamnă că orice pilot sau motoparapantă este calificat ori echipat să zboare IFR. Pentru zborurile VFR executate integral în clasa G din România există separat obligația de autorizare prin plan de zbor sau notificare de trafic VFR la AACR.\n\nSurse: [AIP România, ENR 1.4](https://aisro.ro/aip/2026-10-01/DOCS/AIP/ENR/ENR1/LR_ENR_1_4_en.pdf); [Regulamentul SERA (UE) nr. 923/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0923-20250501); [HG nr. 859/2021, art. 23–24](https://legislatie.just.ro/Public/DetaliiDocument/256370).",
    "answers": [
     {
      "text": "Sunt permise doar zborurile IFR și se furnizează serviciul de alarmare",
      "correct": false,
      "short": "",
-     "long": "În clasa G nu sunt permise doar IFR, și serviciul nu este alarmare (AIP ENR 1.4).",
+     "long": "IFR înseamnă reguli de zbor instrumental. Clasa G permite și IFR, și VFR; serviciul de alarmare nu este serviciul indicat pentru această clasă. Informarea de zboruri se oferă la cerere (AIP ENR 1.4).",
      "warn": ""
     },
     {
      "text": "Sunt permise doar zborurile VFR și se furnizează serviciul de control al traficului aerian",
      "correct": false,
      "short": "",
-     "long": "În clasa G nu sunt permise doar VFR, și serviciul nu este control (AIP ENR 1.4).",
+     "long": "VFR înseamnă reguli de zbor la vedere. Clasa G permite și IFR, nu doar VFR, iar aici nu se furnizează control ATC; se poate solicita serviciul de informare a zborurilor (AIP ENR 1.4).",
      "warn": ""
     },
     {
      "text": "Sunt permise toate tipurile de zboruri și se furnizează serviciul de control de apropiere",
      "correct": false,
      "short": "",
-     "long": "În clasa G nu se furnizează control de apropiere (AIP ENR 1.4, clasa G).",
+     "long": "Clasa G permite zborurile IFR și VFR, însă nu furnizează serviciu de control de apropiere. În această clasă, serviciul disponibil este informarea de zboruri, la cerere; operațiunile speciale pot avea cerințe proprii (AIP ENR 1.4).",
      "warn": ""
     },
     {
      "text": "Sunt permise zborurile IFR și VFR și se furnizează serviciul de informare a zborurilor tuturor zborurilor care solicită acest lucru",
      "correct": true,
      "short": "",
-     "long": "Corect. Zborurile IFR și VFR sunt permise, cu serviciu de informare a zborurilor (AIP ENR 1.4, clasa G).",
+     "long": "Corect. AIP precizează că în clasa G sunt permise IFR și VFR, iar serviciul de informare a zborurilor se oferă la cerere. IFR și VFR descriu regulile după care se desfășoară zborul; ele nu sunt clase de spațiu aerian (AIP ENR 1.4).",
      "warn": ""
     }
    ]
