@@ -1627,35 +1627,35 @@
   {
    "number": "#46",
    "text": "712: Când transmiteți un mesaj de urgența aveți obligația să furnizați următoarele informații:",
-   "short": "Într-un mesaj de urgență trebuie să spui poziția curentă sau ultima poziție cunoscută, altitudinea și capul compas.",
-   "long": "într-un mesaj de primejdie, transmite elementele pe care le poți furniza, clar și în ordinea utilă: stația apelată, identificarea aeronavei, natura primejdiei, intenția pilotului, poziția, nivelul și capul, apoi alte date relevante. Poziția, nivelul și capul ajută la localizarea și anticiparea traiectoriei. Lista nu este o condiție de amânare: dacă timpul e scurt, anunăă imediat MAYDAY și informațiile esențiale disponibile.\n\nSursă: [EASA — SERA.14095](https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european).",
+   "short": "În mesajul de primejdie transmite poziția actuală, nivelul de zbor și capul aeronavei; dacă nu-ți cunoști poziția curentă, dă cea mai recentă poziție confirmată și momentul ei.",
+   "long": "Pentru un apel de primejdie, SERA 14095 cere ca pilotul să spună MAYDAY, apoi să transmită clar cât mai multe dintre aceste elemente: stația apelată, identificarea aeronavei, natura primejdiei, intenția pilotului, poziția, nivelul și capul aeronavei. Un mesaj PAN PAN pentru o urgență folosește o listă asemănătoare și poate include alte informații utile.\n\nPoziția, nivelul și capul sunt importante împreună: poziția arată unde să caute ajutorul, nivelul arată la ce înălțime se află aeronava, iar capul indică direcția în care se deplasează. Coordonatele GPS pot furniza poziția, dar nu înlocuiesc nivelul și capul. Dacă nu poți transmite toate datele, nu amâna apelul; spune imediat ce știi.\n\nSursă: [Regulamentul SERA, punctul 14095](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0923-20250501).",
    "answers": [
     {
      "text": "distanța și poziția fată de aerodromul de plecare",
      "correct": false,
      "short": "",
-     "long": "Distanța față de aerodromul de plecare nu este informația obligatorie. Contează poziția actuală.",
+     "long": "Direcția și distanța față de aerodromul de plecare nu arată neapărat unde se află acum aeronava, mai ales după ce a schimbat ruta. În mesaj se transmite poziția actuală sau, dacă aceasta nu poate fi stabilită, cea mai recentă poziție cunoscută și ora la care era valabilă.",
      "warn": ""
     },
     {
      "text": "tipul de avion si cantitatea de combustibil la bord",
      "correct": false,
      "short": "",
-     "long": "Tipul avionului și combustibilul nu sunt informațiile obligatorii pentru localizare.",
+     "long": "Tipul aeronavei și combustibilul rămas pot ajuta serviciile de trafic și de salvare să înțeleagă situația și timpul disponibil. Totuși, ele nu înlocuiesc informațiile standard despre poziție, nivel și cap cerute de această întrebare; transmite-le suplimentar când sunt utile și ai timp.",
      "warn": ""
     },
     {
      "text": "poziția după GPS",
      "correct": false,
      "short": "",
-     "long": "Poziția GPS este o formă a poziției, dar mesajul cere poziția, altitudinea și capul compas.",
+     "long": "GPS-ul poate furniza coordonatele poziției curente, deci metoda în sine este potrivită. Varianta rămâne incompletă: pentru ca serviciile să localizeze și să urmărească aeronava, mesajul trebuie să includă și nivelul de zbor și capul aeronavei.",
      "warn": ""
     },
     {
      "text": "poziția curentă sau ultima poziție știută împreună cu înălțimea și capul compas",
      "correct": true,
      "short": "",
-     "long": "Poziția, altitudinea/nivelul și capul de zbor îi permit controlorului să estimeze unde se află aeronava și în ce direcție se deplasează. Spune poziția actuală sau, dacă nu o cunoști exact, ultima poziție confirmată și momentul ei.",
+     "long": "Transmite poziția actuală împreună cu nivelul de zbor și capul aeronavei, adică înălțimea/nivelul și direcția de deplasare. Aceste date îi ajută pe controlori să localizeze aeronava și să prevadă traiectoria; dacă poziția actuală nu este cunoscută, comunică ultima poziție confirmată și când te aflai acolo.",
      "warn": ""
     }
    ]
