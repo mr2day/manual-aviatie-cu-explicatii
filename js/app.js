@@ -570,16 +570,21 @@
       main.appendChild(section);
     });
     initSearch(searchBar, c.questions);
+    var targetAfterRender = null;
     if (pendingSearchResult && pendingSearchResult.chapterId === c.id) {
       var pending = pendingSearchResult;
       pendingSearchResult = null;
-      var target = sections[pending.index];
-      if (target) {
-        target.classList.add('search-hit');
-        setTimeout(function () { target.scrollIntoView({ block: 'start', behavior: 'smooth' }); }, 0);
-      }
+      targetAfterRender = sections[pending.index];
+      if (targetAfterRender) targetAfterRender.classList.add('search-hit');
     }
     window.scrollTo(0, 0);
+    if (targetAfterRender) {
+      requestAnimationFrame(function () {
+        setStickyTop();
+        document.documentElement.style.setProperty('--q-search-h', searchBar.offsetHeight + 'px');
+        targetAfterRender.scrollIntoView({ block: 'start', behavior: 'smooth' });
+      });
+    }
   }
 
   // Documentele se afișează în zona principală, ca orice conținut. Fiecare document este
