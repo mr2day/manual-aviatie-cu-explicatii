@@ -5,7 +5,7 @@ Acest document se aplică tuturor agenților AI care lucrează în acest reposit
 ## Reguli pentru proiect
 
 - Proiectul este un manual web static pentru pregătirea examenului teoretic de paramotor.
-- Fișierele `data/01.json`–`data/09.json` sunt sursa de adevăr pentru întrebări, răspunsuri și explicații. Nu modifica `index.html` sau `data/chapters.json` manual când schimbarea trebuie făcută în surse; regenerează-le cu `node tools/build.js`.
+- `data/questions.json` este sursa de adevăr pentru întrebări, răspunsuri și explicații; fiecare înregistrare are un `id` unic și proprietatea `chapter`. `data/chapters-meta.json` păstrează metadatele capitolelor. Nu modifica `index.html` sau `data/chapters.json` manual; regenerează-le cu `node tools/build.js`.
 - Păstrează marcajul verde pe răspunsul indicat de sursă. Dacă răspunsul pare greșit, semnalează problema prin câmpul `warn`; nu schimba răspunsul corect fără verificare și justificare.
 - Nu adăuga logo-uri, fotografii sau texte externe care nu au fost furnizate ori aprobate de utilizator.
 - Pentru modificări de design, predă schimbarea prompt; verificarea vizuală în browser îi revine utilizatorului.

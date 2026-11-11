@@ -1,4 +1,4 @@
-// Generates the app shell and chapter catalog from components/, data/*.json and glossary/*.json.
+// Generates the app shell and chapter catalog from components/, normalized question data and glossary/*.json.
 // Usage: node tools/build.js   (no dependencies; preview with node tools/serve.js)
 const fs = require('fs');
 const path = require('path');
@@ -8,19 +8,21 @@ const dataDir = path.join(root, 'data');
 const componentsDir = path.join(root, 'components');
 const glossaryDir = path.join(root, 'glossary');
 
-const chapters = fs.readdirSync(dataDir)
-  .filter(f => f.endsWith('.json') && f !== 'chapters.json')
-  .sort()
-  .map(f => JSON.parse(fs.readFileSync(path.join(dataDir, f), 'utf8')));
-
-// Keep only chapter metadata in the page; question data is fetched one chapter at a time.
-const chapterCatalog = chapters.map(chapter => {
-  const file = chapter.id + '.json';
-  if (!fs.existsSync(path.join(dataDir, file))) {
-    throw new Error(`Missing data file for chapter ${chapter.id}: ${file}`);
-  }
-  return { id: chapter.id, title: chapter.title, file: `data/${file}` };
+const chapters = JSON.parse(fs.readFileSync(path.join(dataDir, 'chapters-meta.json'), 'utf8'));
+const questions = JSON.parse(fs.readFileSync(path.join(dataDir, 'questions.json'), 'utf8'));
+if (!Array.isArray(chapters) || !Array.isArray(questions)) {
+  throw new Error('chapters-meta.json and questions.json must contain arrays.');
+}
+const chapterIds = new Set(chapters.map(chapter => chapter.id));
+const questionIds = new Set();
+questions.forEach(question => {
+  if (!question.id || questionIds.has(question.id)) throw new Error(`Missing or duplicate question id: ${question.id}`);
+  if (!chapterIds.has(question.chapter)) throw new Error(`Unknown chapter ${question.chapter} on question ${question.id}`);
+  questionIds.add(question.id);
 });
+
+// The catalog contains only chapter navigation metadata; each question is a separate record in questions.json.
+const chapterCatalog = chapters.map(chapter => ({ id: chapter.id, title: chapter.title }));
 fs.writeFileSync(
   path.join(dataDir, 'chapters.json'),
   JSON.stringify(chapterCatalog) + '\n',
@@ -68,4 +70,4 @@ ${modal}
 `;
 
 fs.writeFileSync(path.join(root, 'index.html'), html, 'utf8');
-console.log('index.html written, chapters:', chapters.length, 'glossary:', glossary.length, 'bytes:', Buffer.byteLength(html));
+console.log('index.html written, chapters:', chapters.length, 'questions:', questions.length, 'glossary:', glossary.length, 'bytes:', Buffer.byteLength(html));

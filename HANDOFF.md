@@ -25,8 +25,9 @@ Pe `main`:
 
 ```
 index.html              shell-ul aplicației, GENERAT de tools/build.js
-data/01.json … 09.json  SURSA DE ADEVĂR: întrebările, variantele, explicațiile, avertismentele
-data/chapters.json      catalogul ID/titlu/cale, generat din fișierele capitolelor
+data/questions.json     SURSA DE ADEVĂR: întrebări individuale cu id și proprietatea chapter
+data/chapters-meta.json ID-urile și titlurile capitolelor
+data/chapters.json      catalog de navigare generat din chapters-meta.json
 tools/build.js          generează index.html și catalogul data/chapters.json
 js/app.js               scriptul de afișare (navigare între capitole, randare întrebări)
 styles.css              toată tema vizuală (paletă, fonturi, layout, antet)
@@ -39,7 +40,7 @@ regulament-ulm.html     textul RACR-CCO ULM (Ediția 1/2007), cu cuprins
 ## 3. Cum se rulează și se regenerează
 
 - **Vizualizare locală:** rulează `node tools/serve.js` și deschide `http://localhost:4173`. Serverul local este necesar pentru ca browserul să poată încărca JSON-ul capitolului la cerere. Adresa capitolului este `http://localhost:4173/#01` … `#09`.
-- **După orice modificare în `data/`:** `node tools/build.js` (fără dependențe npm, doar Node). Aplicația încarcă `data/chapters.json`, apoi descarcă JSON-ul capitolului numai când este selectat.
+- **După orice modificare în `data/`:** `node tools/build.js` (fără dependențe npm, doar Node). Aplicația încarcă `data/chapters.json`, apoi filtrează înregistrările individuale din `data/questions.json` după proprietatea `chapter`.
 - **Alte fișiere** (`js/app.js`, `styles.css`, `legislatie.html`, `regulament-ulm.html`) se editează direct.
 - **Captură vizuală locală:** pornește serverul (`node tools/serve.js`), apoi folosește `http://localhost:4173/#04` în browser.
 
@@ -72,7 +73,7 @@ regulament-ulm.html     textul RACR-CCO ULM (Ediția 1/2007), cu cuprins
    - 07: azotul 78,9% în loc de 78,09% (68), vederea roșie (49);
    - 08: contradicție cu pagina 05 despre zborul cu vântul (65), formularea „în formă de Z” (117);
    - 09: rezistența la unghi mare de atac (41).
-   - 03: motoparapanta avansată are MTOM 300 kg (un loc) și 450 kg (două locuri), conform RACR-CCO ULM, anexa 1, pct. 1.2.3.1. Varianta marcată indică 250 kg (întrebarea 66) și 400 kg (întrebarea 18). Avertismentele sunt în `data/03.json`.
+   - 03: motoparapanta avansată are MTOM 300 kg (un loc) și 450 kg (două locuri), conform RACR-CCO ULM, anexa 1, pct. 1.2.3.1. Varianta marcată indică 250 kg (întrebarea 66) și 400 kg (întrebarea 18). Avertismentele aferente sunt în înregistrările respective din `data/questions.json` (capitolul `03`).
 4. Clasele spațiului aerian explicate în 16 întrebări (A, C, G). Pentru clasa C, limita de FL105 din AIP ENR 1.4 (ediția 2023) trebuie verificată pe aisro.ro.
 5. Site-ul ca o singură pagină (`single-html-build`), cu date din JSON, navigare cu hash, meniu lateral cu capitolul selectat evidențiat, linkuri secundare, antet.
 6. Temă întunecată și paletă inspirate din paramotorartisan.com: albastru #004F7A, text #505454/#D7DADA, fundal #1A1E1E, Rajdhani pentru titluri, DM Sans pentru text. Fonturile sunt locale (fonts/).

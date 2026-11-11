@@ -3,6 +3,7 @@
   var chapters = [];
   var byId = {};
   var chapterCache = {};
+  var allQuestionsPromise = null;
   var catalogReady = false;
   var routeVersion = 0;
   var activeChapterId = null;
@@ -13,6 +14,26 @@
   var searchIndexPromise = null;
   var pendingSearchResult = null;
   var assetVersion = document.currentScript && document.currentScript.getAttribute('data-version') || '';
+  var trickinessOverrides = readTrickinessOverrides();
+
+  function readTrickinessOverrides() {
+    try { return JSON.parse(localStorage.getItem('aviatie-trickiness-overrides') || '{}'); }
+    catch (_) { return {}; }
+  }
+
+  function setQuestionTrickiness(chapterId, index, question, value) {
+    var key = chapterId + ':' + index;
+    trickinessOverrides[key] = value || '';
+    question.trickiness = value || null;
+    try { localStorage.setItem('aviatie-trickiness-overrides', JSON.stringify(trickinessOverrides)); }
+    catch (error) { console.warn('Nu s-a putut salva eticheta de trickiness în acest browser.', error); }
+    if (searchIndexPromise) {
+      searchIndexPromise.then(function (items) {
+        var item = items.find(function (entry) { return entry.chapterId === chapterId && entry.index === index; });
+        if (item) item.trickiness = value || null;
+      });
+    }
+  }
 
   document.addEventListener('click', function (event) {
     var bar = document.querySelector('.q-search');
@@ -62,17 +83,36 @@
     });
   }
 
+  function loadAllQuestions() {
+    if (!allQuestionsPromise) {
+      var url = 'data/questions.json' + (assetVersion ? '?v=' + encodeURIComponent(assetVersion) : '');
+      allQuestionsPromise = fetch(url).then(function (response) {
+        if (!response.ok) throw new Error('Întrebări HTTP ' + response.status);
+        return response.json();
+      }).then(function (questions) {
+        if (!Array.isArray(questions)) throw new Error('Baza de întrebări este invalidă.');
+        return questions;
+      }).catch(function (error) {
+        allQuestionsPromise = null;
+        throw error;
+      });
+    }
+    return allQuestionsPromise;
+  }
+
   function loadChapter(meta) {
     if (!chapterCache[meta.id]) {
-      var url = meta.file + (meta.file.indexOf('?') === -1 ? '?' : '&') + 'v=' + encodeURIComponent(assetVersion);
-      chapterCache[meta.id] = fetch(url).then(function (response) {
-        if (!response.ok) throw new Error('Capitol HTTP ' + response.status);
-        return response.json();
-      }).then(function (chapter) {
-        if (chapter.id !== meta.id || !Array.isArray(chapter.questions)) {
-          throw new Error('Date invalide pentru capitolul ' + meta.id);
-        }
-        return chapter;
+      chapterCache[meta.id] = loadAllQuestions().then(function (questions) {
+        var chapterQuestions = questions.filter(function (question) { return question.chapter === meta.id; });
+        if (!chapterQuestions.length) throw new Error('Nu există întrebări pentru capitolul ' + meta.id);
+        chapterQuestions.forEach(function (question, index) {
+          var key = meta.id + ':' + index;
+          if (Object.prototype.hasOwnProperty.call(trickinessOverrides, key)) {
+            var override = trickinessOverrides[key];
+            question.trickiness = override === 'tricky' || override === 'super_tricky' ? override : null;
+          }
+        });
+        return { id: meta.id, title: meta.title, questions: chapterQuestions };
       }).catch(function (error) {
         delete chapterCache[meta.id];
         throw error;
@@ -311,13 +351,17 @@
   function buildExamFilter() {
     var filter = el('div', 'exam-switcher');
     filter.setAttribute('role', 'group');
-    filter.setAttribute('aria-label', 'Filtrează după examen');
-    filter.appendChild(el('span', 'exam-switcher-label', 'Examen'));
+    filter.setAttribute('aria-label', 'Filtreaz\u0103 \u00eentreb\u0103rile');
+    filter.appendChild(el('span', 'exam-switcher-label', 'Afi\u0219eaz\u0103'));
     var choices = [
       { id: 'toate', label: 'Toate' },
       { id: 'deva', label: 'Deva' },
       { id: 'bucuresti', label: 'București' }
     ];
+    choices.push(
+      { id: 'tricky', label: 'TRICKY' },
+      { id: 'super_tricky', label: 'SUPER TRICKY' }
+    );
     var group = el('div', 'exam-switcher-options');
     choices.forEach(function (choice) {
       var button = el('button', 'exam-switcher-button', choice.label);
@@ -365,6 +409,7 @@
               index: index,
               number: index + 1,
               exams: question.exams || ['deva'],
+              trickiness: question.trickiness || null,
               text: question.text.replace(/^\d+:\s*/, ''),
               folded: foldText(question.text.replace(/^\d+:\s*/, ''))
             };
@@ -386,6 +431,10 @@
 
   function questionBelongsToExam(question, exam) {
     if (exam === 'toate') return true;
+    if (exam === 'tricky') {
+      return question.trickiness === 'tricky' || question.trickiness === 'super_tricky';
+    }
+    if (exam === 'super_tricky') return question.trickiness === 'super_tricky';
     return (question.exams || ['deva']).indexOf(exam) !== -1;
   }
 
@@ -567,9 +616,39 @@
     c.questions.forEach(function (q, index) {
       if (!questionBelongsToExam(q, activeExam)) return;
       var section = el('section', 'question');
+      if (q.trickiness === 'super_tricky') section.classList.add('question-super-tricky');
+      else if (q.trickiness === 'tricky') section.classList.add('question-tricky');
       section.setAttribute('data-question-index', String(index));
       var h2 = el('h2', 'question-title');
       h2.appendChild(el('span', 'question-number', String(index + 1)));
+      var trickinessControl = el('div', 'question-trickiness-control');
+      trickinessControl.setAttribute('role', 'group');
+      trickinessControl.setAttribute('aria-label', 'Setează nivelul TRICKY pentru întrebarea ' + (index + 1));
+      [
+        { value: '', label: 'normal' },
+        { value: 'tricky', label: 'tricky' },
+        { value: 'super_tricky', label: 'super tricky' }
+      ].forEach(function (option) {
+        var button = el('button', 'trickiness-segment', option.label);
+        button.type = 'button';
+        button.setAttribute('aria-pressed', String((q.trickiness || '') === option.value));
+        button.setAttribute('aria-label', option.value ? option.label : 'Fără etichetă');
+        if ((q.trickiness || '') === option.value) button.classList.add('selected');
+        button.addEventListener('click', function () {
+          setQuestionTrickiness(c.id, index, q, option.value);
+          trickinessControl.querySelectorAll('.trickiness-segment').forEach(function (segment) {
+            var selected = segment === button;
+            segment.classList.toggle('selected', selected);
+            segment.setAttribute('aria-pressed', String(selected));
+          });
+          section.classList.toggle('question-tricky', option.value === 'tricky');
+          section.classList.toggle('question-super-tricky', option.value === 'super_tricky');
+          if (!questionBelongsToExam(q, activeExam)) renderChapter(c, window.scrollY);
+          else if (activeSearchRefresh) activeSearchRefresh();
+        });
+        trickinessControl.appendChild(button);
+      });
+      section.appendChild(trickinessControl);
       // Codul (ex. "698: ") nu se mai afișează
       renderTitle(h2, q.text.replace(/^\d+:\s*/, ''), null);
       section.appendChild(h2);
