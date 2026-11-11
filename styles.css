@@ -900,17 +900,17 @@ details.question-more .more-body {
 .exam-switcher-options {
   display: inline-flex;
   align-items: center;
-  gap: 3px;
-  padding: 3px;
+  gap: 4px;
+  padding: 6px;
   border: 1px solid var(--border);
-  border-radius: 7px;
+  border-radius: 999px;
   background: #151a1c;
 }
 .exam-switcher-button {
-  min-height: 34px;
-  padding: 6px 13px;
+  min-height: 36px;
+  padding: 7px 16px;
   border: 0;
-  border-radius: 5px;
+  border-radius: 999px;
   background: transparent;
   color: var(--text);
   font: 600 0.85rem var(--font-body);
