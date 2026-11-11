@@ -12,6 +12,19 @@
   var pendingSearchResult = null;
   var assetVersion = document.currentScript && document.currentScript.getAttribute('data-version') || '';
 
+  document.addEventListener('click', function (event) {
+    var bar = document.querySelector('.q-search');
+    if (!searchExpanded || !bar || bar.contains(event.target)) return;
+    searchExpanded = false;
+    var results = bar.querySelector('.q-search-results');
+    var toggle = bar.querySelector('.q-search-toggle');
+    if (results) results.hidden = true;
+    if (toggle) {
+      toggle.setAttribute('aria-expanded', 'false');
+      toggle.setAttribute('aria-label', 'Deschide rezultatele căutării');
+    }
+  });
+
   function showStatus(message, retry) {
     var main = document.getElementById('content');
     main.textContent = '';
