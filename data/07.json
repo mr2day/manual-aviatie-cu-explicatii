@@ -4,6 +4,7 @@
  "questions": [
   {
    "number": "#1",
+   "exams": ["deva"],
    "text": "1078: Ce metode pot fi folosite pentru a echilibra presiunea dintre urechea medie și atmosfera exterioară în timpul zborului?",
    "short": "Pentru a egaliza presiunea din urechea medie cu cea exterioară se folosesc deglutiția, mestecatul unei gume sau manevra Valsalva.",
    "long": "Presiunea din urechea medie se egalizează cu cea exterioară prin trompa lui Eustachio. Deglutiția, mestecatul unei gume sau manevra Valsalva (a expira cu nasul închis) deschid trompa și egalizează presiunea.",
@@ -40,6 +41,7 @@
   },
   {
    "number": "#2",
+   "exams": ["deva"],
    "text": "1029: Cum poate fi contracarat efectul presiunii asupra timpanului în timpul zborului?",
    "short": "Efectul presiunii asupra timpanului se contracarează prin deglutiție și mestecarea unei gume.",
    "long": "Diferența de presiune apasă pe timpan. Deglutiția și mestecatul deschid trompa lui Eustachio și egalizează presiunea de o parte și de alta a timpanului.",
@@ -76,6 +78,7 @@
   },
   {
    "number": "#3",
+   "exams": ["deva"],
    "text": "1077: Cum afectează zgomotul capacitatea de concentrare a unui pilot?",
    "short": "Zgomotul reduce capacitatea de concentrare a pilotului și interferează cu comunicarea.",
    "long": "Zgomotul continuu și intens obosește, distrage atenția și îngreunează comunicarea radio, deci reduce capacitatea de concentrare.",
@@ -112,6 +115,7 @@
   },
   {
    "number": "#4",
+   "exams": ["deva"],
    "text": "1095: Care sunt efectele stresului fizic asupra organismului?",
    "short": "Stresul fizic face creierul să se pregătească rapid de acțiune, prin eliberarea adrenalinei.",
    "long": "Stresul declanșează un răspuns de luptă sau fugă: organismul eliberează adrenalină, crește pulsul și pregătește mușchii pentru acțiune rapidă.",
@@ -148,6 +152,7 @@
   },
   {
    "number": "#5",
+   "exams": ["deva"],
    "text": "1065: Ce simț este cel mai puternic și joacă un rol crucial în orientarea spațială?",
    "short": "Vederea este cel mai important simț în orientarea spațială.",
    "long": "Vederea este simțul principal pentru orientare: pilotul vede orizontul, solul și alte aeronave, ceea ce îi permite să mențină poziția și asieta.",
@@ -184,6 +189,7 @@
   },
   {
    "number": "#6",
+   "exams": ["deva"],
    "text": "1048: Unde se verifică dacă victima unui accident are puls?",
    "short": "Pulsul se verifică lângă măr lui Adam, în spațiul dintre trahee și mușchii gâtului.",
    "long": "Pulsul carotidian se simte lângă mărul lui Adam, în spațiul dintre trahee și mușchii gâtului.",
@@ -220,6 +226,7 @@
   },
   {
    "number": "#7",
+   "exams": ["deva"],
    "text": "1007: Ce organ îndeplinește funcția de menținere a echilibrului corpului?",
    "short": "Aparatul vestibular menține echilibrul corpului.",
    "long": "Aparatul vestibular din urechea internă detectează poziția și mișcarea capului și menține echilibrul corpului.",
@@ -256,6 +263,7 @@
   },
   {
    "number": "#8",
+   "exams": ["deva"],
    "text": "1044: Unde are loc degajarea căilor respiratorii ale victimei unui accident de aviație?",
    "short": "Degajarea căilor respiratorii ale victimei se face la locul accidentului, cât mai urgent.",
    "long": "Căile respiratorii se degajă imediat la locul accidentului, pentru că oxigenarea depinde de liberul trecere a aerului.",
@@ -292,6 +300,7 @@
   },
   {
    "number": "#9",
+   "exams": ["deva"],
    "text": "1097: Ce factori pot influența negativ starea mentală a unui pilot?",
    "short": "Medicația, drogurile, stresul și problemele personale pot influența negativ starea mentală a pilotului.",
    "long": "Medicația, drogurile, stresul și problemele personale afectează atenția, judecata și reacțiile pilotului, deci sunt factori negativi.",
@@ -328,6 +337,7 @@
   },
   {
    "number": "#10",
+   "exams": ["deva"],
    "text": "1011: Am aterizat de 20 de minute pentru o pauză de hidratare și vrem să decolăm din nou:",
    "short": "După o pauză de 20 de minute, decolezi normal, după ce efectuezi inspecția echipamentului.",
    "long": "După o pauză la sol, echipamentul se verifică din nou înainte de decolare, pentru că se poate schimba între zboruri.",
@@ -364,6 +374,7 @@
   },
   {
    "number": "#11",
+   "exams": ["deva"],
    "text": "1030: Ce rol are hemoglobina în sânge?",
    "short": "Hemoglobina transportă oxigenul de la plămâni la țesuturi.",
    "long": "Hemoglobina din globulele roșii leagă oxigenul la plămâni și îl transportă la țesuturi.",
@@ -400,6 +411,7 @@
   },
   {
    "number": "#12",
+   "exams": ["deva"],
    "text": "1017: Zburăm la 3000m și brusc ne ia o stare de anxietate și hiperventilație:",
    "short": "Dacă apare anxietate și hiperventilație la 3000 m, te calmezi și începi o coborâre lentă până la o altitudine cu oxigen suficient.",
    "long": "Hiperventilația și anxietatea în zbor pot fi calmate prin respirație lentă și coborâre treptată la o altitudine cu oxigen suficient. Calmul este prioritar.",
@@ -436,6 +448,7 @@
   },
   {
    "number": "#13",
+   "exams": ["deva"],
    "text": "1021: Ce este hipoxia?",
    "short": "Hipoxia este lipsa de oxigen datorată creșterii altitudinii.",
    "long": "Hipoxia este lipsa de oxigen în țesuturi, care apare la altitudine mare, unde aerul are mai puțin oxigen pe volum.",
@@ -472,6 +485,7 @@
   },
   {
    "number": "#14",
+   "exams": ["deva"],
    "text": "1027: Ce simptome pot apărea în cazul hiperventilației?",
    "short": "Hiperventilația poate produce senzație de sufocare și anxietate.",
    "long": "Hiperventilația, respirația prea rapidă și profundă, scade dioxidul de carbon din sânge și produce senzație de sufocare, amețeală și anxietate.",
@@ -508,6 +522,7 @@
   },
   {
    "number": "#15",
+   "exams": ["deva"],
    "text": "1064: Ce este iluzia optică autocinetică?",
    "short": "Iluzia optică autocinetică este impresia de deplasare a unui punct sau obiect izolat și imobil.",
    "long": "Iluzia optică autocinetică: un punct luminos izolat, într-un câmp întunecat, pare să se miște, deși este fix.",
@@ -544,6 +559,7 @@
   },
   {
    "number": "#16",
+   "exams": ["deva"],
    "text": "1035: Care este primul pas în resuscitarea cardio-pulmonară (RCP)?",
    "short": "Primul pas în resuscitarea cardio-pulmonară este verificarea siguranței mediului înconjurător.",
    "long": "Înainte de orice intervenție, se verifică siguranța locului, pentru ca salvatorul să nu devină și el victimă.",
@@ -580,6 +596,7 @@
   },
   {
    "number": "#17",
+   "exams": ["deva"],
    "text": "994: Înainte de zbor este obligatoriu:",
    "short": "Înainte de zbor este obligatoriu un timp de odihnă regulamentar.",
    "long": "Înainte de zbor este obligatoriu un timp de odihnă regulamentar, pentru atenție și reacție bune.",
@@ -616,6 +633,7 @@
   },
   {
    "number": "#18",
+   "exams": ["deva"],
    "text": "1046: Ce tehnică trebuie să folosească un pilot pentru a scana eficient spațiul aerian în care zboară și a observa traficul aerian din apropiere?",
    "short": "Pentru a scana eficient spațiul aerian, pilotul focalizează privirea pe diferite segmente ale cerului pentru intervale scurte de timp.",
    "long": "Pentru a observa traficul, pilotul focalizează privirea pe segmente ale cerului câteva secunde, apoi trece la următorul, pentru a acoperi tot spațiul.",
@@ -652,6 +670,7 @@
   },
   {
    "number": "#19",
+   "exams": ["deva"],
    "text": "1063: Care sunt factorii care pot produce tulburări de vedere în timpul zborului?",
    "short": "Scăderea presiunii cu altitudinea, hiperventilația, oboseala fizică și nervoasă pot produce tulburări de vedere.",
    "long": "Scăderea presiunii cu altitudinea, hiperventilația, oboseala și alți factori pot produce tulburări de vedere, deoarece reduc oxigenul și controlul muscular.",
@@ -688,6 +707,7 @@
   },
   {
    "number": "#20",
+   "exams": ["deva"],
    "text": "1058: Referitor la eroarea umană, ce variantă poate duce la situații periculoase?",
    "short": "Tendința de a vedea ceea ce ne așteptăm să vedem poate duce la situații periculoase.",
    "long": "Tendința de a vedea ceea ce ne așteptăm să vedem (prejudecata de confirmare) duce la erori periculoase, pentru că pilotul nu mai observă ce este de fapt în fața lui.",
@@ -724,6 +744,7 @@
   },
   {
    "number": "#21",
+   "exams": ["deva"],
    "text": "1049: Care este prima măsură pe care o luați în cazul accidentării unei persoane pe aerodrom?",
    "short": "Prima măsură în cazul accidentării unei persoane pe aerodrom este acordarea primului ajutor până la sosirea cadrelor medicale.",
    "long": "Primul ajutor se acordă imediat, pe loc, până la sosirea echipei medicale. Mutarea accidentatului fără necesitate poate agrava leziunile.",
@@ -760,6 +781,7 @@
   },
   {
    "number": "#22",
+   "exams": ["deva"],
    "text": "992: Unul dintre factorii principali care contribuie la răul de mișcare este:",
    "short": "Unul dintre factorii principali ai răului de mișcare este neconcordanța dintre percepția vizuală și reacția senzorilor vestibulari.",
    "long": "Răul de mișcare apare când informațiile vizuale și cele ale aparatului vestibular nu coincid, deci creierul primește semnale contradictorii.",
@@ -796,6 +818,7 @@
   },
   {
    "number": "#23",
+   "exams": ["deva"],
    "text": "1093: Ce tehnici pot ajuta la managementul stresului departe de cabina de pilotaj?",
    "short": "Pentru managementul stresului în afara cabinei se folosesc exerciții fizice regulate, tehnici de relaxare și consiliere.",
    "long": "Exercițiile fizice regulate, relaxarea și consilierea ajută la reducerea stresului, în afara zborului, fără să afecteze siguranța.",
@@ -832,6 +855,7 @@
   },
   {
    "number": "#24",
+   "exams": ["deva"],
    "text": "1025: Ce efect are decompresia rapidă asupra urechii medii?",
    "short": "Decompresia rapidă a urechii medii provoacă dureri ale urechii.",
    "long": "La decompresie rapidă, presiunea din urechea medie nu se egalizează la timp, iar diferența de presiune provoacă durere.",
@@ -868,6 +892,7 @@
   },
   {
    "number": "#25",
+   "exams": ["deva"],
    "text": "991: În timpul zborului la temperaturi negative:",
    "short": "În zborul la temperaturi negative este interzis consumul de alcool.",
    "long": "Alcoolul reduce atenția, judecata și reacția, iar frigul face efectele mai periculoase. Consumul este interzis în timpul zborului.",
@@ -904,6 +929,7 @@
   },
   {
    "number": "#26",
+   "exams": ["deva"],
    "text": "1051: Lipsa unei cantități suficiente de oxigen în corp poartă denumirea de:",
    "short": "Lipsa unei cantități suficiente de oxigen în corp se numește hipoxie.",
    "long": "Hipoxia este lipsa de oxigen în organism, care afectează creierul și capacitățile pilotului.",
@@ -940,6 +966,7 @@
   },
   {
    "number": "#27",
+   "exams": ["deva"],
    "text": "1086: Care este limita principală a sistemului central de decizie?",
    "short": "Limita principală a sistemului central de decizie este evaluarea unui singur lucru la un moment dat, deciziile fiind luate secvențial.",
    "long": "Creierul uman procesează în mod conștient o singură sarcină complexă la un moment dat, deci deciziile complexe trebuie luate secvențial, pe rând.",
@@ -976,6 +1003,7 @@
   },
   {
    "number": "#28",
+   "exams": ["deva"],
    "text": "1092: Care sunt manifestările comportamentale ale stresului?",
    "short": "Manifestările comportamentale ale stresului sunt nerăbdarea, iritabilitatea, incapacitatea de concentrare și pesimismul.",
    "long": "Stresul se vede în comportament prin nerăbdare, iritabilitate, dificultate de concentrare și pesimism.",
@@ -1012,6 +1040,7 @@
   },
   {
    "number": "#29",
+   "exams": ["deva"],
    "text": "1039: Ce trebuie făcut în cazul unei fracturi deschise?",
    "short": "În caz de fractură deschisă se imobilizează zona afectată și se acoperă rana cu un bandaj steril.",
    "long": "La fractura deschisă, osul iese prin rană. Zona se imobilizează, iar rana se acoperă cu un bandaj steril, pentru a limita infecția și mișcarea.",
@@ -1048,6 +1077,7 @@
   },
   {
    "number": "#30",
+   "exams": ["deva"],
    "text": "1010: Am ratat deja 3 decolari, temperatura exterioară este ridicată și colegii noștrii sunt deja în aer:",
    "short": "Dacă ai ratat deja trei decolări, la temperatură ridicată, faci o pauză de repaus și hidratare și încerci din nou după ce te odihnești.",
    "long": "După trei decolări ratate, în condiții de căldură, pilotul oboseste și se poate deshidrata. Se ia o pauză de odihnă și hidratare, apoi se încearcă din nou.",
@@ -1084,6 +1114,7 @@
   },
   {
    "number": "#31",
+   "exams": ["deva"],
    "text": "1061: Cum pot fi recunoscute fracturile de membre la victimele unui accident?",
    "short": "Fracturile de membre se recunosc după mișcarea sau poziția nefirească a membrului.",
    "long": "Fractura se recunoaște prin poziția sau mișcarea nefirească a membrului, care nu corespunde axului normal al osului.",
@@ -1120,6 +1151,7 @@
   },
   {
    "number": "#32",
+   "exams": ["deva"],
    "text": "1020: Ce procent de oxigen conține atmosfera la nivelul solului?",
    "short": "Atmosfera de la nivelul solului conține 21% oxigen.",
    "long": "Aerul de la nivelul solului conține circa 21% oxigen, restul fiind în mare parte azot.",
@@ -1156,6 +1188,7 @@
   },
   {
    "number": "#33",
+   "exams": ["deva"],
    "text": "1043: Cum se acordă primul ajutor unei persoane care prezintă o hemoragie internă în urma unui impact dur în timpul zborului?",
    "short": "În caz de hemoragie internă, menții persoana calmă și nemișcată și suni imediat la serviciile de urgență.",
    "long": "Hemoragia internă nu se vede. Persoana se menține calmă și nemișcată, pentru a nu agrava sângerarea, iar serviciile de urgență se sună imediat.",
@@ -1192,6 +1225,7 @@
   },
   {
    "number": "#34",
+   "exams": ["deva"],
    "text": "981: Firele rețelelor de transport al curentului electric (sau de orice altă natură) se observă în general mult mai greu dacă zburăm:",
    "short": "Firele liniilor electrice se observă mai greu când zbori deasupra lor, având ca fundal solul.",
    "long": "Firele electrice sunt subțiri și se confundă cu solul când sunt privite de sus, deoarece fundalul este solul.",
@@ -1228,6 +1262,7 @@
   },
   {
    "number": "#35",
+   "exams": ["deva"],
    "text": "1096: Care este importanța dezvoltării conștientizării situaționale în aviație?",
    "short": "Conștientizarea situațională reduce posibilitatea accidentelor din activități riscante necunoscute.",
    "long": "Conștientizarea situațională înseamnă cunoașterea permanentă a mediului și a riscurilor, ceea ce reduce accidentele provocate de activități riscante necunoscute.",
@@ -1264,6 +1299,7 @@
   },
   {
    "number": "#36",
+   "exams": ["deva"],
    "text": "1036: Cu toate că un pilot deține un certificat medical valabil, cine decide dacă acesta este apt pentru un zbor?",
    "short": "Cu toate că pilotul are certificat medical valabil, el decide dacă este apt pentru zbor.",
    "long": "Pilotul decide dacă este apt pentru zbor, pe baza autoevaluării (starea de sănătate, oboseală, alcool, medicație), chiar dacă are certificat medical valabil.",
@@ -1300,6 +1336,7 @@
   },
   {
    "number": "#37",
+   "exams": ["deva"],
    "text": "1014: Zburați în grup iar unul din piloți începe să zboare acrobatic, efectuând manevre periculoase aproape de sol:",
    "short": "Dacă un coleg zboară acrobatic periculos aproape de sol, îți continui zborul în ritmul și după nivelul tău de pilotaj.",
    "long": "Zborul în grup cu un pilot care face acrobații periculoase nu trebuie imitat. Fiecare pilot zboară în limita propriei pregătiri și a regulilor.",
@@ -1336,6 +1373,7 @@
   },
   {
    "number": "#38",
+   "exams": ["deva"],
    "text": "1006: Vârsta maximă permisă pentru zborul cu motoparapanta este:",
    "short": "Vârsta pentru zborul cu motoparapanta nu este limitată, dacă există aptitudine medicală.",
    "long": "Nu există o limită de vârstă pentru zborul cu motoparapanta, atâta timp cât pilotul are aptitudine medicală valabilă.",
@@ -1372,6 +1410,7 @@
   },
   {
    "number": "#39",
+   "exams": ["deva"],
    "text": "987: Stresul acumulat în urma unor evenimente negative poate fi o premisă de accident?",
    "short": "Stresul acumulat în urma unor evenimente negative poate fi o premisă de accident.",
    "long": "Stresul acumulat după evenimente negative (pierderi, probleme personale) afectează atenția și judecata, deci poate fi premisă de accident.",
@@ -1408,6 +1447,7 @@
   },
   {
    "number": "#40",
+   "exams": ["deva"],
    "text": "1001: Înainte de zbor este obligatoriu:",
    "short": "Înainte de zbor este obligatoriu un timp de odihnă corespunzător.",
    "long": "Înainte de zbor este necesar un timp de odihnă corespunzător, pentru ca pilotul să aibă atenție și reacții bune.",
@@ -1444,6 +1484,7 @@
   },
   {
    "number": "#41",
+   "exams": ["deva"],
    "text": "984: Activitatea de zbor se poate face dacă de la consumul de alcool au trecut minim:",
    "short": "Conform PAC-MED 2025, intervalul de bază între consumul de alcool și îndatoririle de zbor este de 8 ore, iar după cantitatea consumată se recomandă o abținere mai lungă.",
    "long": "Alcoolul influențează judecata și reacțiile mult după ce efectul se simte subiectiv. PAC-MED 2025 arată că alcoolul nu trebuie consumat cu mai puțin de 8 ore înainte de îndatoririle legate de zbor. Chiar și după 8 ore, alcoolemia poate fi peste limită, deci se recomandă abținerea mai mult, în funcție de cantitate. Limita legală în sânge este 0,80 g/l alcool pur (Codul aerian, art. 126 alin. 2).",
@@ -1480,6 +1521,7 @@
   },
   {
    "number": "#42",
+   "exams": ["deva"],
    "text": "1082: Ce rol joacă așteptarea în activitatea de pilotaj?",
    "short": "Așteptarea în pilotaj utilizează experiența anterioară și structurile informaționale pentru reglarea comportamentului.",
    "long": "Pilotul folosește experiența anterioară și structurile de informații din memorie pentru a anticipa situațiile și a regla comportamentul în zbor.",
@@ -1516,6 +1558,7 @@
   },
   {
    "number": "#43",
+   "exams": ["deva"],
    "text": "989: Ce factori pot pune în pericol siguranța unui zbor?",
    "short": "Graba la decolare fără efectuarea verificărilor aeronavei poate pune în pericol siguranța zborului.",
    "long": "Graba la decolare fără verificarea aeronavei poate duce la defecte nedescoperite în zbor, deci pune în pericol zborul.",
@@ -1552,6 +1595,7 @@
   },
   {
    "number": "#44",
+   "exams": ["deva"],
    "text": "1016: Am ajuns la terenul de zbor iar condițiile nu sunt tocmai potrivite pentru zborul în siguranță:",
    "short": "Dacă condițiile nu sunt potrivite, analizezi condiția meteo, aștepți o îmbunătățire care se menține cel puțin 15 minute și decolezi doar dacă prognoza și vremea arată bine.",
    "long": "Când condițiile nu sunt potrivite, se analizează meteo și se așteaptă îmbunătățirea, apoi se decide zborul pe baza condițiilor reale.",
@@ -1588,6 +1632,7 @@
   },
   {
    "number": "#45",
+   "exams": ["deva"],
    "text": "1004: Ce anume poate compromite un zbor?",
    "short": "Graba la decolare fără efectuarea verificărilor aeronavei poate compromite un zbor.",
    "long": "Graba la decolare fără verificări poate compromite zborul, deoarece defectele nu sunt descoperite la timp.",
@@ -1624,6 +1669,7 @@
   },
   {
    "number": "#46",
+   "exams": ["deva"],
    "text": "1075: Care este efectul schimbării altitudinii asupra urechii medii?",
    "short": "Schimbarea altitudinii creează o diferență de presiune între urechea medie și exterior, care poate provoca disconfort și durere.",
    "long": "La schimbarea altitudinii, presiunea din urechea medie nu se egalizează imediat cu cea exterioară, ceea ce produce disconfort sau durere.",
@@ -1660,6 +1706,7 @@
   },
   {
    "number": "#47",
+   "exams": ["deva"],
    "text": "1094: Cum pot afecta problemele domestice performanța unui pilot?",
    "short": "Problemele domestice pot duce la insomnii, oboseală cronică și operațiuni de zbor periculoase.",
    "long": "Problemele domestice produc stres și oboseală, care duc la insomnii și reduc atenția, deci pot face zborul periculos.",
@@ -1696,6 +1743,7 @@
   },
   {
    "number": "#48",
+   "exams": ["deva"],
    "text": "993: Factorii care pot dăuna organismului uman în zbor, intervin:",
    "short": "Factorii care pot dăuna organismului uman în zbor intervin la înălțimi mari de zbor.",
    "long": "La altitudini mari apar factorii de risc pentru organism: hipoxia, presiunea scăzută și frigul.",
@@ -1732,6 +1780,7 @@
   },
   {
    "number": "#49",
+   "exams": ["deva"],
    "text": "1009: Valul roșu poate apărea la:",
    "short": "Vederea roșie poate apărea la accelerații gravitaționale pozitive, dar accelerațiile peste 10 G sunt discutabile.",
    "long": "Vederea roșie (red-out) apare la accelerații pozitive, mult sub 10 G. Valoarea de 10 G este mult peste pragul vederii roșii.",
@@ -1768,6 +1817,7 @@
   },
   {
    "number": "#50",
+   "exams": ["deva"],
    "text": "1024: Cum poate fi prevenită hipoxia la altitudini mari?",
    "short": "Hipoxia la altitudini mari se previne folosind o mască de oxigen.",
    "long": "La altitudini mari, oxigenul din aer scade. Masca de oxigen furnizează oxigenul suplimentar și previne hipoxia.",
@@ -1804,6 +1854,7 @@
   },
   {
    "number": "#51",
+   "exams": ["deva"],
    "text": "999: Unul dintre factorii principali care contribuie la răul de mișcare este:",
    "short": "Răul de mișcare apare din cauza neconcordanței dintre percepția vizuală și reacția senzorilor vestibulari.",
    "long": "Răul de mișcare apare când informația vizuală nu coincide cu cea a aparatului vestibular, deci creierul primește semnale contradictorii.",
@@ -1840,6 +1891,7 @@
   },
   {
    "number": "#52",
+   "exams": ["deva"],
    "text": "1019: Ce măsuri se iau pentru a preveni apariția barotraumei?",
    "short": "Pentru a preveni barotrauma se fac deglutiții repetate, mestecat și căscat.",
    "long": "Barotrauma urechii se previne prin egalizarea presiunii: deglutiții repetate, mestecat și căscat, care deschid trompa lui Eustachio.",
@@ -1876,6 +1928,7 @@
   },
   {
    "number": "#53",
+   "exams": ["deva"],
    "text": "1042: Ce trebuie făcut în cazul unei persoane rănite în urma unei aterizări forțate, care prezintă dificultăți respiratorii?",
    "short": "Dacă o persoană rănită are dificultăți respiratorii, asiguri căile respiratorii libere și administrezi respirații artificiale dacă este necesar.",
    "long": "Persoana cu dificultăți respiratorii are nevoie, mai întâi, de căi respiratorii libere și de respirație asistată, deoarece hipoxia pune viața în pericol.",
@@ -1912,6 +1965,7 @@
   },
   {
    "number": "#54",
+   "exams": ["deva"],
    "text": "1003: Prima regulă a unui pilot bun este:",
    "short": "Prima regulă a unui pilot bun este să știe când să renunțe la decolare.",
    "long": "Un pilot bun știe când să nu zboare: renunțarea la zbor, când condițiile nu sunt sigure, este primul criteriu de siguranță.",
@@ -1948,6 +2002,7 @@
   },
   {
    "number": "#55",
+   "exams": ["deva"],
    "text": "1056: Ce funcție a organismului suferă cel mai mult din cauza scăderii presiunii atmosferice?",
    "short": "Funcția respiratorie suferă cel mai mult din cauza scăderii presiunii atmosferice.",
    "long": "La scăderea presiunii atmosferice, oxigenul din aer scade, iar sistemul respirator este cel care suferă cel mai mult, deoarece trebuie să asigure oxigenul organismului.",
@@ -1984,6 +2039,7 @@
   },
   {
    "number": "#56",
+   "exams": ["deva"],
    "text": "1076: Ce este presbiacuzia?",
    "short": "Presbiacuzia este o pierdere naturală a auzului odată cu înaintarea în vârstă, mai ales la frecvențele înalte.",
    "long": "Presbiacuzia este pierderea naturală a auzului odată cu vârsta, mai ales la frecvențele înalte.",
@@ -2020,6 +2076,7 @@
   },
   {
    "number": "#57",
+   "exams": ["deva"],
    "text": "1031: Cum se manifestă decompresia rapidă asupra corpului uman?",
    "short": "Decompresia rapidă produce scăderea bruscă a presiunii barometrice și tulburări ale organelor cavitare.",
    "long": "Decompresia rapidă scade presiunea, iar gazele din cavitățile corpului (urechi, sinusuri, intestin) se dilată, ceea ce produce durere și tulburări.",
@@ -2056,6 +2113,7 @@
   },
   {
    "number": "#58",
+   "exams": ["deva"],
    "text": "1080: Cum contribuie aparatul vestibular la menținerea echilibrului?",
    "short": "Aparatul vestibular detectează poziția și accelerarea corpului, transmițând semnale electrice către creier.",
    "long": "Aparatul vestibular detectează poziția și accelerarea corpului și trimite semnale nervoase către creier, care menține echilibrul.",
@@ -2092,6 +2150,7 @@
   },
   {
    "number": "#59",
+   "exams": ["deva"],
    "text": "1040: Ce trebuie făcut dacă o persoană este inconștientă, dar respiră?",
    "short": "Dacă o persoană este inconștientă, dar respiră, o plasezi în poziția de siguranță, pe o parte.",
    "long": "Persoana inconștientă care respiră se așază în poziție laterală de siguranță, pentru a menține căile respiratorii libere.",
@@ -2128,6 +2187,7 @@
   },
   {
    "number": "#60",
+   "exams": ["deva"],
    "text": "1005: Cum trebuie așezată o persoană rănită care prezintă leziuni ale coloanei vertebrale?",
    "short": "O persoană cu leziuni ale coloanei vertebrale nu trebuie mișcată până la sosirea salvării.",
    "long": "La lezarea coloanei vertebrale, victima nu se mișcă până la sosirea salvării, pentru a evita afectarea măduvei spinării.",
@@ -2164,6 +2224,7 @@
   },
   {
    "number": "#61",
+   "exams": ["deva"],
    "text": "982: Care este direcția predominantă în care trebuie să ne orientăm privirea astfel încât o aeronavă să poată fi pilotată (controlată) cât mai bine în condiții de siguranță?",
    "short": "Privirea trebuie orientată predominant spre față, observând permanent spațiul aerian.",
    "long": "Pentru a controla aeronava în siguranță, privirea se îndreaptă predominant înainte, cu observarea permanentă a spațiului aerian.",
@@ -2200,6 +2261,7 @@
   },
   {
    "number": "#62",
+   "exams": ["deva"],
    "text": "1053: Care sistem al corpului este responsabil pentru distribuția oxigenului în întreg organismul?",
    "short": "Sistemul circulator distribuie oxigenul în tot organismul.",
    "long": "Sistemul circulator (inima și vasele de sânge) distribuie oxigenul în tot organismul, prin sânge.",
@@ -2236,6 +2298,7 @@
   },
   {
    "number": "#63",
+   "exams": ["deva"],
    "text": "1087: Ce factori pot influența negativ starea mentală a unui pilot?",
    "short": "Medicamentele, drogurile, stresul și problemele personale pot influența negativ starea mentală a pilotului.",
    "long": "Medicamentele, drogurile, stresul și problemele personale afectează starea mentală a pilotului, deci sunt factori negativi.",
@@ -2272,6 +2335,7 @@
   },
   {
    "number": "#64",
+   "exams": ["deva"],
    "text": "1013: Unul din colegii e zbor a aterizat de urgență și nu dă semne de mișcare:",
    "short": "Dacă un coleg a aterizat de urgență și nu dă semne de mișcare, faci o analiză rapidă și, dacă poți ateriza în siguranță lângă el, o faci, apoi anunți autoritățile și acorzi primul ajutor.",
    "long": "Dacă un coleg a aterizat de urgență și nu dă semne de mișcare, se analizează rapid locul și meteo, iar dacă se poate ateriza în siguranță, se ajută. Siguranța pilotului nu se sacrifică.",
@@ -2308,6 +2372,7 @@
   },
   {
    "number": "#65",
+   "exams": ["deva"],
    "text": "1008: Odată cu creșterea înălțimii gazele din corpul pilotului:",
    "short": "Odată cu creșterea înălțimii, gazele din corpul pilotului cresc în volum.",
    "long": "Odată cu creșterea altitudinii, presiunea scade, iar gazele din corp se dilată, cresc în volum.",
@@ -2344,6 +2409,7 @@
   },
   {
    "number": "#66",
+   "exams": ["deva"],
    "text": "1081: Ce este percepția cognitivă?",
    "short": "Percepția cognitivă este perceperea activă a materialului de studiat prin simțuri, ajutată de cunoștințele și experiența anterioară.",
    "long": "Percepția cognitivă este procesul prin care creierul interpretează informațiile senzoriale, folosind cunoștințele și experiența.",
@@ -2380,6 +2446,7 @@
   },
   {
    "number": "#67",
+   "exams": ["deva"],
    "text": "1018: Sunteți la o petrecere, ați consumat băuturi alcoolice, iar prietenii vă propun să le demonstrați abilitatile dvs. de pilot:",
    "short": "Dacă ai consumat alcool, renunți la zbor, pentru că este strict interzis să zbori sub influența alcoolului.",
    "long": "Alcoolul interzice zborul. Pilotul renunță la zbor, indiferent de presiunea prietenilor.",
@@ -2416,6 +2483,7 @@
   },
   {
    "number": "#68",
+   "exams": ["deva"],
    "text": "1023: Ce procent de azot se găsește în atmosferă?",
    "short": "Azotul reprezintă 78,09% din atmosferă, nu 78,9%.",
    "long": "Azotul din aerul uscat reprezintă 78,09% din volum. Cifra 78,9% din variantă este o eroare de cifră.",
@@ -2452,6 +2520,7 @@
   },
   {
    "number": "#69",
+   "exams": ["deva"],
    "text": "983: Pentru a putea zbura în siguranță, reglementările impun:",
    "short": "Pentru a zbura în siguranță, reglementările impun 8 ore de somn.",
    "long": "Odihna suficientă este necesară pentru atenție și reacție. Lipsa de somn reduce atenția și timpul de reacție, iar pilotul trebuie să fie odihnit înainte de zbor.",
@@ -2488,6 +2557,7 @@
   },
   {
    "number": "#70",
+   "exams": ["deva"],
    "text": "1060: Ce reprezintă conștientizarea situațională pentru un pilot?",
    "short": "Conștientizarea situațională înseamnă să ai o imagine de ansamblu asupra aspectelor care au loc în cabină și în jurul aeronavei.",
    "long": "Conștientizarea situațională înseamnă perceperea corectă a mediului, înțelegerea a ceea ce se petrece și anticiparea evoluției situației.",
@@ -2524,6 +2594,7 @@
   },
   {
    "number": "#71",
+   "exams": ["deva"],
    "text": "1041: Cum trebuie tratată o persoană cu hipotermie moderată?",
    "short": "O persoană cu hipotermie moderată se încălzește treptat și primește lichide calde.",
    "long": "La hipotermie moderată, încălzirea se face treptat, iar persoana primește lichide calde, care ajută la reechilibrare fără șoc.",
@@ -2560,6 +2631,7 @@
   },
   {
    "number": "#72",
+   "exams": ["deva"],
    "text": "1067: Cum afectează o răceală capacitatea de zbor a unui pilot?",
    "short": "O răceală poate afecta presiunea în urechi și sinusuri, făcând zborul inconfortabil și periculos.",
    "long": "Răceala produce congestie la nivelul urechii medii și al sinusurilor, ceea ce face egalizarea presiunii dificilă și zborul inconfortabil, cu risc de barotraumă.",
@@ -2596,6 +2668,7 @@
   },
   {
    "number": "#73",
+   "exams": ["deva"],
    "text": "1038: Cum trebuie tratată o entorsă la gleznă?",
    "short": "O entorsă la gleznă se tratează cu gheață pe zona afectată.",
    "long": "La entorsă, gheața aplicată în primele ore reduce umflătura și durerea. Piciorul se ridică și se odihnește.",
@@ -2632,6 +2705,7 @@
   },
   {
    "number": "#74",
+   "exams": ["deva"],
    "text": "1062: Ce măsuri de prim ajutor se iau în cazul victimelor cu traumatisme ale coloanei vertebrale, dacă funcțiile vitale ale acestuia sunt asigurate?",
    "short": "Dacă funcțiile vitale sunt asigurate, la traumatism al coloanei vertebrale nu mișcăm accidentatul până la sosirea serviciilor de urgență.",
    "long": "La traumatism al coloanei, dacă nu există alt pericol, persoana nu se mișcă, pentru a evita afectarea măduvei spinării.",
@@ -2668,6 +2742,7 @@
   },
   {
    "number": "#75",
+   "exams": ["deva"],
    "text": "980: Zborul în ceață este interzis pentru că:",
    "short": "Zborul în ceață este interzis, pentru că dispare orientarea.",
    "long": "În ceață se pierde orientarea, deoarece nu se mai văd repere, iar zborul devine periculos.",
@@ -2704,6 +2779,7 @@
   },
   {
    "number": "#76",
+   "exams": ["deva"],
    "text": "986: Peste ce înălțime poate aparea hipoxia (boala de înălțime)?",
    "short": "Hipoxia, sau boala de altitudine, poate apărea de la 3000 m.",
    "long": "Hipoxia (boala de altitudine) poate apărea de la circa 3000 m, unde oxigenul din aer este mai puțin disponibil.",
@@ -2740,6 +2816,7 @@
   },
   {
    "number": "#77",
+   "exams": ["deva"],
    "text": "1033: Cum trebuie așezată o persoană rănită care prezintă leziuni ale coloanei vertebrale?",
    "short": "O persoană cu leziuni ale coloanei vertebrale nu trebuie mișcată până la sosirea salvării.",
    "long": "La lezarea coloanei vertebrale, victima nu se mișcă până la sosirea salvării, pentru a evita afectarea măduvei spinării.",
@@ -2776,6 +2853,7 @@
   },
   {
    "number": "#78",
+   "exams": ["deva"],
    "text": "990: Prima regulă a unui pilot bun este:",
    "short": "Prima regulă a unui pilot bun este să știe când condiția fizică, psihică și meteo pot pune în pericol siguranța zborului și să nu forțeze decolarea.",
    "long": "Un pilot bun știe când condiția fizică, psihică sau meteo îi poate pune în pericol siguranța și renunță atunci.",
@@ -2812,6 +2890,7 @@
   },
   {
    "number": "#79",
+   "exams": ["deva"],
    "text": "995: Vălul negru apare la:",
    "short": "Vălul negru apare la accelerații gravitaționale pozitive.",
    "long": "Vălul negru (greyout) apare la accelerații pozitive, când sângele se mută spre picioare și ochii rămân fără aport suficient.",
@@ -2848,6 +2927,7 @@
   },
   {
    "number": "#80",
+   "exams": ["deva"],
    "text": "988: Zborul la temperaturi în jur de zero grade Celsius si la temperaturi negative cu aeronave ce au cabina deschisă este periculos deoarece:",
    "short": "Zborul cu cabina deschisă la temperaturi în jur de zero grade sau negative este periculos, pentru că curentul de aer răcește continuu corpul pilotului.",
    "long": "În cabina deschisă, curentul de aer răcește continuu corpul pilotului, ceea ce duce la hipotermie și scade atenția.",
@@ -2884,6 +2964,7 @@
   },
   {
    "number": "#81",
+   "exams": ["deva"],
    "text": "1088: Cum poate fi îmbunătățită capacitatea de anticipare a unui pilot?",
    "short": "Capacitatea de anticipare se îmbunătățește prin antrenamente repetitive și simulări ale scenariilor de zbor.",
    "long": "Capacitatea de anticipare se dezvoltă prin antrenament repetat și prin simularea scenariilor de zbor, care antrenează pilotul să prevadă situațiile și să decidă din timp.",
@@ -2920,6 +3001,7 @@
   },
   {
    "number": "#82",
+   "exams": ["deva"],
    "text": "1091: Ce factori pot provoca stres psihologic și emoțional la piloți?",
    "short": "Problemele domestice, cum ar fi un deces în familie sau un divorț, pot provoca stres psihologic și emoțional la piloți.",
    "long": "Problemele domestice grave, cum sunt un deces în familie sau un divorț, produc stres emoțional care afectează atenția și judecata pilotului.",
@@ -2956,6 +3038,7 @@
   },
   {
    "number": "#83",
+   "exams": ["deva"],
    "text": "1028: Care este funcția principală a sistemului respirator?",
    "short": "Funcția principală a sistemului respirator este asigurarea oxigenului necesar pentru producerea de energie.",
    "long": "Sistemul respirator preia oxigenul din aer și îl trimite în sânge, unde este folosit pentru producerea de energie în celule.",
@@ -2992,6 +3075,7 @@
   },
   {
    "number": "#84",
+   "exams": ["deva"],
    "text": "1057: Pentru a reduce stresul într-o situație de urgență, este necesar ca pilotul să:",
    "short": "Pentru a reduce stresul într-o situație de urgență, pilotul trebuie să fie pregătit pentru eventualitatea unei urgențe și să știe cum să acționeze.",
    "long": "Într-o urgență, pilotul reduce stresul dacă este pregătit dinainte: a exersat procedurile și știe ce are de făcut.",
@@ -3028,6 +3112,7 @@
   },
   {
    "number": "#85",
+   "exams": ["deva"],
    "text": "1045: Substanțele antiseptice se folosesc pentru:",
    "short": "Substanțele antiseptice se folosesc pentru dezinfectarea rănilor.",
    "long": "Antisepticele se folosesc pentru dezinfectarea rănilor, ca să reducă riscul de infecție.",
@@ -3064,6 +3149,7 @@
   },
   {
    "number": "#86",
+   "exams": ["deva"],
    "text": "1047: Care sunt cele două simțuri ai căror receptori se află în ureche?",
    "short": "Cele două simțuri ai căror receptori se află în ureche sunt auzul și echilibrul.",
    "long": "În ureche sunt receptorii auzului (cohleea) și ai echilibrului și poziției (aparatul vestibular).",
@@ -3100,6 +3186,7 @@
   },
   {
    "number": "#87",
+   "exams": ["deva"],
    "text": "1098: Cum contribuie antrenamentul repetat la îmbunătățirea performanțelor de pilotaj?",
    "short": "Antrenamentul repetat transformă reacțiile pilotului în automatisme și reduce efortul analitic și decizional.",
    "long": "Repetarea antrenamentului transformă reacțiile în automatisme, deci pilotul reacționează corect fără efort analitic în momente critice.",
@@ -3136,6 +3223,7 @@
   },
   {
    "number": "#88",
+   "exams": ["deva"],
    "text": "1070: De ce este periculos consumul de alcool înainte de zbor?",
    "short": "Alcoolul afectează capacitatea de evaluare și coordonare și poate duce la somnolență.",
    "long": "Alcoolul afectează evaluarea, coordonarea și vigilența și poate duce la somnolență, deci crește riscul de accident.",
@@ -3172,6 +3260,7 @@
   },
   {
    "number": "#89",
+   "exams": ["deva"],
    "text": "1084: Ce sunt obișnuințele în contextul activității de pilotaj?",
    "short": "Obișnuințele sunt deprinderi formate prin execuția repetată și conștientă a unor acțiuni.",
    "long": "Obișnuințele sunt deprinderi formate prin repetarea conștientă a acțiunilor, care devin automate.",
@@ -3208,6 +3297,7 @@
   },
   {
    "number": "#90",
+   "exams": ["deva"],
    "text": "996: Zborul în nori este interzis pentru că:",
    "short": "Zborul în nori este interzis, pentru că reglementările impun acest lucru, dispare orientarea și zborul se poate face doar după IFR.",
    "long": "Zborul în nori este interzis pentru motoparapantă: pilotul pierde referința vizuală cu solul și cu obstacolele, deci nu își poate menține orientarea.",
@@ -3244,6 +3334,7 @@
   },
   {
    "number": "#91",
+   "exams": ["deva"],
    "text": "1074: Cum poate fi prevenită pierderea auzului cauzată de zgomotul puternic în aviație?",
    "short": "Pierderea auzului cauzată de zgomotul puternic se previne prin căști antifonice sau căști de zbor.",
    "long": "Zgomotul puternic afectează urechea. Căștile antifonice sau de zbor reduc nivelul sonor care ajunge la ureche.",
@@ -3280,6 +3371,7 @@
   },
   {
    "number": "#92",
+   "exams": ["deva"],
    "text": "1050: Cu toate că un pilot deține un certificat medical valabil, cine decide dacă acesta este apt pentru un zbor?",
    "short": "Pilotul decide dacă este apt pentru zbor, chiar dacă are un certificat medical valabil.",
    "long": "Pilotul decide dacă este apt de zbor, pe baza autoevaluării, chiar dacă are certificat medical valabil.",
@@ -3316,6 +3408,7 @@
   },
   {
    "number": "#93",
+   "exams": ["deva"],
    "text": "1072: Ce rol joacă trompa lui Eustache în urechea medie?",
    "short": "Trompa lui Eustache echilibrează presiunea dintre urechea medie și atmosfera exterioară.",
    "long": "Trompa lui Eustachio leagă urechea medie de rinofaringe și echilibrează presiunea dintre urechea medie și mediul exterior.",
@@ -3352,6 +3445,7 @@
   },
   {
    "number": "#94",
+   "exams": ["deva"],
    "text": "1012: În ultimele zile nu ați dormit suficient, vă simțiți obosit și fără putere:",
    "short": "Dacă nu ai dormit suficient și te simți obosit, renunți la zbor până revii la o formă fizică și psihică apte.",
    "long": "Oboseala după lipsa de somn reduce atenția și reacția. Zborul trebuie amânat până la revenirea formei fizice.",
@@ -3388,6 +3482,7 @@
   },
   {
    "number": "#95",
+   "exams": ["deva"],
    "text": "1022: Care este unul dintre simptomele inițiale ale hipoxiei?",
    "short": "Unul dintre simptomele inițiale ale hipoxiei este senzația de confort și euforie.",
    "long": "Primele simptome ale hipoxiei sunt euforia și senzația de bine, care fac pilotul să nu-și dea seama de pericol.",
@@ -3424,6 +3519,7 @@
   },
   {
    "number": "#96",
+   "exams": ["deva"],
    "text": "1032: Cum se poate preveni răul de mișcare în timpul zborului?",
    "short": "Răul de mișcare se previne evitând manevrele cu factor de sarcină mare.",
    "long": "Manevrele cu factor de sarcină mare și schimbările rapide de direcție produc răul de mișcare. Evitarea lor îl previne.",
@@ -3460,6 +3556,7 @@
   },
   {
    "number": "#97",
+   "exams": ["deva"],
    "text": "1089: Care sunt principalele cauze ale stresului în aviație?",
    "short": "Principala cauză a stresului în aviație este suprasolicitarea individului și incapacitatea de răspuns adaptiv la agenții din mediu.",
    "long": "Stresul în aviație apare când pilotul este suprasolicitat și nu poate răspunde adaptat la factorii de mediu.",
@@ -3496,6 +3593,7 @@
   },
   {
    "number": "#98",
+   "exams": ["deva"],
    "text": "1055: Cum se poate reduce răul de mișcare?",
    "short": "Răul de mișcare se reduce privind în afara aeronavei.",
    "long": "Privirea în afara aeronavei, spre orizont, ajută creierul să-și stabilizeze echilibrul și reduce răul de mișcare.",
@@ -3532,6 +3630,7 @@
   },
   {
    "number": "#99",
+   "exams": ["deva"],
    "text": "1034: Ce trebuie făcut în cazul unei arsuri de gradul I?",
    "short": "Pentru o arsură de gradul I se răcește zona afectată cu apă rece.",
    "long": "Arsura de gradul I se răcește cu apă rece, ceea ce reduce durerea și limitează afectarea țesuturilor.",
@@ -3568,6 +3667,7 @@
   },
   {
    "number": "#100",
+   "exams": ["deva"],
    "text": "1073: Care sunt efectele zgomotului excesiv asupra auzului?",
    "short": "Zgomotul excesiv produce pierderea sensibilității celulelor ciliate din cohlee.",
    "long": "Zgomotul excesiv distruge celulele ciliate din cohlee, ceea ce duce la pierdere ireversibilă de sensibilitate auditivă.",
@@ -3604,6 +3704,7 @@
   },
   {
    "number": "#101",
+   "exams": ["deva"],
    "text": "1059: Cum trebuie așezată victima unui accident care prezintă hemoragie externă?",
    "short": "Victima cu hemoragie externă se așază astfel încât rana să fie mai sus decât nivelul corpului.",
    "long": "La hemoragie externă, rana se ridică deasupra nivelului inimii, ceea ce reduce presiunea sângelui în zonă și încetinește sângerarea.",
@@ -3640,6 +3741,7 @@
   },
   {
    "number": "#102",
+   "exams": ["deva"],
    "text": "1052: Ce măsuri se iau în cazul victimelor cu fracturi de claviculă (umărul victimei este deplasat ușor înainte și în jos)?",
    "short": "La fractura de claviculă, brațul victimei se suspendă într-o eșarfă sau o chingă legată de gât.",
    "long": "La fractura de claviculă, brațul se susține într-o eșarfă sau o chingă, pentru a reduce mișcarea și durerea.",
@@ -3676,6 +3778,7 @@
   },
   {
    "number": "#103",
+   "exams": ["deva"],
    "text": "1015: La efectuarea unui viraj mai strâns simțim că ne ia amețeala:",
    "short": "Dacă simți amețeală într-un viraj strâns, mărești raza virajului, eliberezi ușor și treptat comanda și revii la zborul rectiliniu.",
    "long": "Amețeala la viraj strâns vine din forța G mare. Mărind raza virajului și eliberând treptat comanda, forța scade și pilotul își recapătă controlul.",
@@ -3712,6 +3815,7 @@
   },
   {
    "number": "#104",
+   "exams": ["deva"],
    "text": "1054: Pentru a putea desfășura activități de zbor în siguranță, pilotul trebuie să fie:",
    "short": "Pentru a desfășura activități de zbor în siguranță, pilotul trebuie să fie într-o stare psiho-fizică bună.",
    "long": "Pentru zborul în siguranță, pilotul trebuie să fie într-o stare psihofizică bună: odihnit, sobru și atent.",
@@ -3748,6 +3852,7 @@
   },
   {
    "number": "#105",
+   "exams": ["deva"],
    "text": "997: Ce este Hipoxia?",
    "short": "Hipoxia este lipsa de oxigen datorată creșterii înălțimii.",
    "long": "Hipoxia este lipsa de oxigen în țesuturi, care apare la altitudine, unde aerul are mai puțin oxigen.",
@@ -3784,6 +3889,7 @@
   },
   {
    "number": "#106",
+   "exams": ["deva"],
    "text": "1002: Pentru păstrarea întregii capacitați a aptitudinilor de zbor este interzis:",
    "short": "Pentru păstrarea aptitudinilor de zbor este interzis consumul de alcool, oricare ar fi cantitatea și cauza.",
    "long": "Consumul de alcool este interzis, oricare ar fi cantitatea și cauza, deoarece afectează capacitatea de zbor chiar și în cantități mici.",
@@ -3820,6 +3926,7 @@
   },
   {
    "number": "#107",
+   "exams": ["deva"],
    "text": "1037: Ce trebuie făcut în cazul unei hemoragii externe?",
    "short": "În caz de hemoragie externă se aplică presiune directă pe rană.",
    "long": "La hemoragie externă se aplică presiune directă pe rană, cu un pansament sau o compresă curată.",
@@ -3856,6 +3963,7 @@
   },
   {
    "number": "#108",
+   "exams": ["deva"],
    "text": "1000: Suferiți de o răceală cu blocare parțială a sinusurilor, aveți nasul înfundat și trebuie să zburați, ce veți face?",
    "short": "Dacă ai o răceală cu blocare parțială a sinusurilor și nasul înfundat, se recomandă să nu zbori.",
    "long": "Sinusurile blocate îngreunează egalizarea presiunii. Zborul nu se recomandă în această stare, pentru a evita durerea și barotrauma.",
@@ -3892,6 +4000,7 @@
   },
   {
    "number": "#109",
+   "exams": ["deva"],
    "text": "1085: Cum influențează capacitatea mentală activitatea de pilotaj?",
    "short": "Nivelul de inteligență și gândirea rapidă permit ieșirea din situații critice în mod adecvat.",
    "long": "Inteligența și gândirea rapidă permit pilotului să analizeze situația și să iasă din situațiile critice.",
@@ -3928,6 +4037,7 @@
   },
   {
    "number": "#110",
+   "exams": ["deva"],
    "text": "1069: Care sunt efectele secundare ale consumului de droguri și medicamente asupra zborului?",
    "short": "Drogurile și medicamentele pot provoca întârzierea reflexelor, reducerea capacității de decizie și creșterea oboselii.",
    "long": "Drogurile și medicamentele încetinesc reflexele, afectează decizia și cresc oboseala, deci sunt periculoase în zbor.",
@@ -3964,6 +4074,7 @@
   },
   {
    "number": "#111",
+   "exams": ["deva"],
    "text": "1079: Care sunt efectele conflictului între auz și văz în timpul zborului?",
    "short": "Conflictul între auz și văz în zbor poate genera dezorientare spațială și iluzii false asupra poziției corpului.",
    "long": "Când auzul și văzul dau informații contradictorii, creierul poate fi dezorientat și poate avea iluzii despre poziția corpului.",
@@ -4000,6 +4111,7 @@
   },
   {
    "number": "#112",
+   "exams": ["deva"],
    "text": "985: Inițial la apariția hipoxiei se instalează:",
    "short": "La apariția hipoxiei se instalează inițial o senzație de confort și de putere, care dă o stare euforică.",
    "long": "La începutul hipoxiei apare o senzație de bine și euforie, care face pilotul să nu sesizeze pericolul.",
@@ -4036,6 +4148,7 @@
   },
   {
    "number": "#113",
+   "exams": ["deva"],
    "text": "1068: De ce este periculoasă încărcarea stomacului înainte de zbor?",
    "short": "Încărcarea stomacului înainte de zbor poate provoca disconfort digestiv și afectează capacitatea de concentrare.",
    "long": "Stomacul încărcat provoacă disconfort digestiv și diafragma apasă pe plămâni, ceea ce scade concentrarea și confortul respirator.",
@@ -4072,6 +4185,7 @@
   },
   {
    "number": "#114",
+   "exams": ["deva"],
    "text": "1083: Cum influențează anticiparea activitatea de pilotaj?",
    "short": "Anticiparea permite pilotului să prevadă evenimentele și să planifice acțiuni adecvate.",
    "long": "Anticiparea permite pilotului să prevadă evenimentele și să planifice din timp, ceea ce reduce riscul.",
@@ -4108,6 +4222,7 @@
   },
   {
    "number": "#115",
+   "exams": ["deva"],
    "text": "1026: La ce altitudine poate apărea „boala de înălțime”?",
    "short": "Boala de altitudine poate apărea peste 3000 m.",
    "long": "Boala de altitudine apare de la circa 3000 m, unde aerul are mai puțin oxigen.",
@@ -4144,6 +4259,7 @@
   },
   {
    "number": "#116",
+   "exams": ["deva"],
    "text": "1066: Care sunt cerințele medicale pentru a fi admis la zbor?",
    "short": "Personalul navigant trebuie să dețină o licență medicală valabilă.",
    "long": "Pentru a fi admis la zbor, personalul navigant trebuie să aibă un certificat medical valabil, emis conform regulamentului.",
@@ -4180,6 +4296,7 @@
   },
   {
    "number": "#117",
+   "exams": ["deva"],
    "text": "998: Acumulări semnificative de monoxid de carbon în organism pot genera:",
    "short": "Acumulările de monoxid de carbon pot produce dureri de cap la nivelul frunții și al tâmplelor.",
    "long": "Monoxidul de carbon reduce transportul oxigenului în sânge și produce dureri de cap, mai ales la nivelul frunții și al tâmplelor.",
@@ -4216,6 +4333,7 @@
   },
   {
    "number": "#118",
+   "exams": ["deva"],
    "text": "1071: Care este funcția principală a analizatorului auditiv?",
    "short": "Funcția principală a analizatorului auditiv este transformarea undelor sonore în semnale electrice interpretate de creier.",
    "long": "Analizatorul auditiv transformă undele sonore în semnale electrice, pe care creierul le interpretează.",
@@ -4252,6 +4370,7 @@
   },
   {
    "number": "#119",
+   "exams": ["deva"],
    "text": "1090: Care sunt manifestările fizice ale stresului?",
    "short": "Manifestările fizice ale stresului sunt dureri de cap, palpitații, dificultăți respiratorii și insomnii.",
    "long": "Stresul produce manifestări fizice: dureri de cap, palpitații, dificultăți respiratorii și insomnii, prin activarea sistemului nervos simpatic.",

@@ -4,6 +4,7 @@
  "questions": [
   {
    "number": "#1",
+   "exams": ["deva"],
    "text": "398: Ce trebuie să conțină kitul de unelte pentru întreținerea de urgență?",
    "short": "Kitul de unelte pentru întreținerea de urgență trebuie să conțină chei, șurubelnițe, cheie pentru bujii și clești.",
    "long": "Un kit de teren ar trebui să conțină numai sculele potrivite pentru verificările și operațiile simple permise de manualul paramotorului: de pildă, chei potrivite, șurubelnițe, clește și cheia bujiei. Sculele nu înlocuiesc reparația autorizată: folosește cuplurile de strângere și piesele specificate de fabricant, iar la fisuri, scurgeri sau defecțiuni structurale nu decola. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); valorile și procedurile exacte depind de model.",
@@ -40,6 +41,7 @@
   },
   {
    "number": "#2",
+   "exams": ["deva"],
    "text": "203: Ce este amestecul de carburant?",
    "short": "Amestecul de carburant este amestecul de aer și vapori de benzină care se aprinde în camera de ardere.",
    "long": "Carburatorul amestecă aerul cu combustibilul și dozează acest amestec către cilindru; bujia îl aprinde într-un motor cu aprindere prin scânteie. La motoarele în doi timpi, uleiul de ungere este de regulă amestecat cu benzina în proporția prescrisă de fabricant, dar nu se ghicește raportul: unul prea sărac poate supraîncălzi motorul, iar unul prea bogat poate afecta funcționarea. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); valorile și procedurile exacte depind de model.",
@@ -76,6 +78,7 @@
   },
   {
    "number": "#3",
+   "exams": ["deva"],
    "text": "434: Cum se verifică starea elicei înainte de fiecare zbor?",
    "short": "Elicea se verifică vizual, căutând fisuri sau daune, înainte de fiecare zbor.",
    "long": "Cu motorul oprit și elicea imobilă, inspectează fiecare pală pentru fisuri, ciobituri, delaminare, deformare sau urme de impact și verifică vizual fixarea și zona butucului. Orice deteriorare poate produce dezechilibru și vibrații mari; nu încerca să „netezești” o fisură și nu zbura până când elicea nu este evaluată și remediată conform fabricantului. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); valorile și procedurile exacte depind de model.",
@@ -112,6 +115,7 @@
   },
   {
    "number": "#4",
+   "exams": ["deva"],
    "text": "207: Încărcarea alară se referă la:",
    "short": "Încărcarea alară este raportul dintre greutatea totală în zbor și suprafața portantă a aripii.",
    "long": "Încărcarea alară este masa sau greutatea totală aflată în zbor împărțită la suprafața aripii: de exemplu, kg/m² dacă folosești masa, respectiv N/m² dacă folosești forța gravitațională. Pentru aceeași aripă, o masă mai mare înseamnă încărcare mai mare și, de regulă, viteze și energii mai mari; nu depăși niciodată intervalul de greutate certificat al dimensiunii respective. \n\nSursă: [FAA, Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf). \n\nSursă: [Niviuk, manualul de utilizare Skin 3](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -148,6 +152,7 @@
   },
   {
    "number": "#5",
+   "exams": ["deva"],
    "text": "412: Ce este un anemometru?",
    "short": "Anemometrul este un dispozitiv care măsoară viteza cu care se deplasează aerul.",
    "long": "În uzul general, anemometrul măsoară viteza curgerii aerului. Într-o aeronavă, indicatorul de viteză folosește presiunea totală din tubul Pitot și presiunea statică pentru a indica viteza față de masa de aer (IAS), nu viteza față de sol și nici direcția vântului; de aceea, instrumentul se numește de obicei indicator de viteză aeriană. \n\nSursă: [FAA, Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak).",
@@ -184,6 +189,7 @@
   },
   {
    "number": "#6",
+   "exams": ["deva"],
    "text": "404: Ce trebuie să faceți dacă observați bule pe furtunul de combustibil?",
    "short": "Dacă vezi bule în furtunul de combustibil, verifici dacă furtunul are găuri și îl înlocuiești dacă e necesar.",
    "long": "Bulele vizibile în conducta de combustibil pot indica pătrunderea aerului, o conexiune slăbită, o fisură sau o alimentare întreruptă; motorul se poate opri dacă ajunge combustibil insuficient la carburator. Verifică furtunurile, colierele, filtrul și conexiunile cu motorul rece și oprit; dacă bulele persistă sau observi combustibil, nu porni și nu decola până la remediere. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); valorile și procedurile exacte depind de model.",
@@ -220,6 +226,7 @@
   },
   {
    "number": "#7",
+   "exams": ["deva"],
    "text": "239: Ce este amestecul carburant?",
    "short": "Amestecul carburant este amestecul de aer și vapori de benzină care se aprinde în camera de ardere.",
    "long": "Amestecul combustibil-aer este încărcătura pe care motorul o aspiră și o arde pentru a produce lucru mecanic. Carburatorul dozează benzina în raport cu debitul de aer, iar setarea corectă depinde de motor și de condițiile de funcționare; pentru un motor în doi timpi, proporția separată de ulei se ia din manual. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); valorile și procedurile exacte depind de model.",
@@ -256,6 +263,7 @@
   },
   {
    "number": "#8",
+   "exams": ["deva"],
    "text": "199: Pentru un motor echipat cu reductor cu raportul 3:1, dacă motorul funcționează la 9000 RPM, care va fi viteza de rotație a elicei:",
    "short": "Dacă reductorul are raportul 3:1 și motorul face 9000 rot/min, elicea face 3000 rot/min.",
    "long": "Un reductor 3:1 face ca arborele de ieșire să se rotească o dată la trei rotații ale motorului. Așadar, turația elicei este 9000 ÷ 3 = 3000 rot/min; calculul presupune raportul fix declarat și nu ia în calcul alunecarea curelei ori abaterea tahometrului. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); valorile și procedurile exacte depind de model.",
@@ -292,6 +300,7 @@
   },
   {
    "number": "#9",
+   "exams": ["deva"],
    "text": "433: Ce trebuie făcut după o imersiune accidentală a aripii în apă sărată?",
    "short": "După o imersiune în apă sărată, aripa se clătește cu apă proaspătă pentru a îndepărta sarea.",
    "long": "După contactul cu apă sărată, clătește aripa și suspantele cu apă dulce cât mai curând, fără detergenți sau solvenți, apoi lasă-le să se usuce complet într-un loc aerisit și umbrit. Sarea reținută poate ataca țesătura, firele și componentele metalice; după uscare, inspectează echipamentul și cere controlul unui atelier dacă a stat mult în apă sau a fost solicitat la impact. \n\nSursă: [Niviuk, ghid de întreținere a parapantei](https://niviuk.com/en/guide-maintaining-caring-paraglider).",
@@ -328,6 +337,7 @@
   },
   {
    "number": "#10",
+   "exams": ["deva"],
    "text": "230: Pentru ca pornirea paramotorului să se facă în siguranță, se recomandă a se face:",
    "short": "Pentru a porni paramotorul în siguranță, se pornește pe spate, cu cel puțin casca pusă.",
    "long": "Poziția exactă de pornire diferă între paramotoare și trebuie luată din manualul modelului; expresia „pe spate” din răspuns se referă la poziționarea unității, nu este o regulă universală pentru pilot. Principiile comune sunt să fixezi motorul în poziția indicată, să porți casca, să ții oamenii și obiectele departe de planul elicei și să ai acces imediat la comanda de oprire. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); valorile și procedurile exacte depind de model.",
@@ -364,6 +374,7 @@
   },
   {
    "number": "#11",
+   "exams": ["deva"],
    "text": "458: Ce tip de aripă este cel mai potrivit pentru piloții experimentați care doresc să participe la competiții?",
    "short": "Aripa EN D este potrivită pentru piloții experimentați care participă la competiții.",
    "long": "EN D este clasa cu cele mai solicitante reacții admise de schema de clasificare a parapantelor, iar unele modele din această clasă sunt orientate spre zbor de performanță sau competiție. Litera nu este o recomandare automată: nivelul necesar se verifică în manualul aripii și cu instructorul, deoarece pilotajul, încărcarea și scopul competiției contează la fel de mult. \n\nSursă: [Niviuk, manualul de utilizare Skin 3](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -400,6 +411,7 @@
   },
   {
    "number": "#12",
+   "exams": ["deva"],
    "text": "425: Ce tip de paramotor este recomandat pentru piloții care doresc autonomie mare și eficiență în consumul de combustibil?",
    "short": "Un paramotor cu motor în patru timpi oferă autonomie mare și consum mai eficient.",
    "long": "Unele motoare în patru timpi pot consuma mai puțin combustibil pentru aceeași putere utilă, ceea ce poate crește autonomia dacă masa de combustibil și restul instalației sunt comparabile. Nu este o regulă pentru orice combinație de motor și elice: compară consumul specific și puterea din manualele modelelor, precum și masa mai mare pe care o poate avea un motor în patru timpi. \n\nSursă: [FAA, Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak).",
@@ -436,6 +448,7 @@
   },
   {
    "number": "#13",
+   "exams": ["deva"],
    "text": "237: Răcirea unui motor în 2 sau 4 timpi se poate face:",
    "short": "Motoarele în doi sau patru timpi se pot răci mixt, cu aer sau cu lichid.",
    "long": "Un motor poate fi răcit cu aer, prin aripioare care măresc suprafața cilindrului și disipă căldura, sau cu lichid, care transportă căldura către radiator. Unele configurații combină aceste metode; lichidul și radiatorul nu se adaugă generic, ci doar dacă motorul a fost proiectat astfel. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); valorile și procedurile exacte depind de model.",
@@ -472,6 +485,7 @@
   },
   {
    "number": "#14",
+   "exams": ["deva"],
    "text": "210: Consemnarea lucrărilor periodice regulamentare se face în:",
    "short": "Lucrările periodice regulamentare se consemnează în livretul aeronavei.",
    "long": "Livretul aeronavei ține evidența identificării și a activității, inclusiv a lucrărilor de întreținere și reparații; înregistrarea permite să se urmărească ce s-a făcut, când și de către cine. Nu este același lucru cu jurnalul personal al pilotului, care înregistrează experiența de zbor. \n\nSursă: [RACR-CCO ULM, livretul aeronavei (AACR)](https://www.caa.ro/uploads/pages/RACR-CCO_ULM.pdf).",
@@ -508,6 +522,7 @@
   },
   {
    "number": "#15",
+   "exams": ["deva"],
    "text": "242: Sistemul de accelerator/ speed:",
    "short": "Sistemul de accelerator (speed) scade unghiul de incidență, iar aripa devine mai rapidă.",
    "long": "Acceleratorul acționat cu bara de picior scurtează în principal grupul de suspante din față prin scripetele sistemului, schimbând geometria ridicătoarelor și reducând unghiul de incidență. Aripa accelerează, dar poate deveni mai sensibilă la turbulență și la comenzi; folosește sistemul numai în limitele și configurațiile descrise în manualul aripii. \n\nSursă: [Niviuk, manualul de utilizare Skin 3](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -544,6 +559,7 @@
   },
   {
    "number": "#16",
+   "exams": ["deva"],
    "text": "415: Ce înseamnă „alunecare laterală”?",
    "short": "Alunecarea laterală înseamnă deplasarea laterală în zbor, pentru a menține traiectoria dorită.",
    "long": "Într-un viraj coordonat, pilotul înclină aripa și traiectoria se curbează; „alunecarea laterală” descrie o deplasare laterală în care direcția axei aripii nu coincide perfect cu direcția mișcării prin aer. Nu este sinonimă cu o coborâre rapidă și nu se obține printr-o rețetă universală de frânare; sensul exact al termenului și manevra depind de cursul de pilotaj și de aripă. \n\nSursă: [FAA, Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf).",
@@ -580,6 +596,7 @@
   },
   {
    "number": "#17",
+   "exams": ["deva"],
    "text": "399: Cât de des ar trebui înlocuite bujiile la un paramotor?",
    "short": "Bujiile se înlocuiesc, conform recomandărilor, la aproximativ 20 de ore sau la primul semn de probleme.",
    "long": "Nu există un interval universal pentru schimbarea bujiei: urmează orele și procedura de inspecție din manualul motorului. Verifică electrodul, depunerile, izolatorul, distanța dintre electrozi și tipul/gradul termic prescris; înlocuiește bujia dacă este deteriorată sau în afara limitelor, fără să deduci reglajul carburatorului doar din culoare.\n\nSursă: [Vittorazi, manualul de întreținere Moster 185 EFI](https://vittorazi.com/manuali/MAINTENANCE_MANUAL_MOSTER185EFI_ENG_024.pdf).",
@@ -616,6 +633,7 @@
   },
   {
    "number": "#18",
+   "exams": ["deva"],
    "text": "232: Inspecția înainte de zbor este:",
    "short": "Inspecția înainte de zbor trebuie să fie temeinică, neîntreruptă și consistentă: toate variantele sunt corecte.",
    "long": "O verificare preflight eficientă se face sistematic, cu o listă de control și fără a sări elemente. Dacă ești întrerupt, reia de la un punct sigur sau reia lista conform procedurii, ca să nu presupui că ai verificat deja ceva; repetabilitatea ajută la observarea schimbărilor apărute de la zborul anterior. \n\nSursă: [BGD, manualul aripii Magic 2 — verificarea înainte de zbor](https://www.flybgd.com/files/file/en/1714726240-483-2.pdf).",
@@ -652,6 +670,7 @@
   },
   {
    "number": "#19",
+   "exams": ["deva"],
    "text": "417: De ce este importantă ajustarea corectă a frânelor?",
    "short": "Ajustarea corectă a frânelor asigură un control optim și evită frânarea neintenționată.",
    "long": "Lungimea corectă a suspantelor de frână trebuie să permită comanda să se miște liber, fără să țină permanent bordul de fugă tras, și să ofere cursa cerută de fabricant. Frâne prea scurte pot frâna aripa continuu sau pot induce angajarea involuntară; prea lungi pot întârzia răspunsul. Nu modifica nodurile după estimare: compară lungimile cu specificația modelului. \n\nSursă: [BGD, manualul aripii Magic 2 — verificarea înainte de zbor](https://www.flybgd.com/files/file/en/1714726240-483-2.pdf).",
@@ -688,6 +707,7 @@
   },
   {
    "number": "#20",
+   "exams": ["deva"],
    "text": "243: Când alegem o parapantă trebuie să ținem cont de:",
    "short": "Clasa de omologare a parapantei trebuie să fie conformă cu nivelul de experiență și frecvența utilizării.",
    "long": "Alege aripa după greutatea totală în zbor, nivelul real de experiență, frecvența zborurilor și tipul de utilizare. Clasa EN este un indiciu despre comportamentul observat în teste de certificare, nu o garanție că aripa este potrivită oricărui pilot din acea clasă; verifică intervalul de greutate și cere recomandarea instructorului. \n\nSursă: [Niviuk, manualul de utilizare Skin 3](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -724,6 +744,7 @@
   },
   {
    "number": "#21",
+   "exams": ["deva"],
    "text": "241: Sistemul de trimer al parapantei:",
    "short": "Sistemul de trimmer, când este deschis, crește viteza de zbor a aripii.",
    "long": "Trimmerele schimbă lungimea relativă a ridicătoarelor și, prin urmare, geometria și viteza aripii. La multe aripi reflex de paramotor, eliberarea trimmerelor mărește viteza, iar închiderea o micșorează, însă direcția, pozițiile și limitele diferă între modele; verifică marcajele și manualul, nu presupune că „deschis” înseamnă același lucru la orice aripă. \n\nSursă: [Niviuk, manualul de utilizare Skin 3](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -760,6 +781,7 @@
   },
   {
    "number": "#22",
+   "exams": ["deva"],
    "text": "429: Cum se face verificarea liniei de combustibil pentru scurgeri?",
    "short": "Linia de combustibil se verifică pentru bule sau găuri și pentru frecare cu șasiul sau cu piese vecine.",
    "long": "Verifică rezervorul, filtrul, furtunurile și fiecare racord pentru umezeală, crăpături, frecare, îndoiri, bule persistente sau miros de combustibil. Fă verificarea cu motorul rece și oprit, fără flacără sau scântei; o scurgere trebuie remediată înainte de pornire, iar traseul furtunului trebuie să rămână ferit de căldură și de piesele mobile. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); valorile și procedurile exacte depind de model.",
@@ -796,6 +818,7 @@
   },
   {
    "number": "#23",
+   "exams": ["deva"],
    "text": "442: Ce trebuie să faci dacă observi uzură sau fisuri la suspantele aripii?",
    "short": "Dacă observi uzură sau fisuri la suspante, le înlocuiești imediat.",
    "long": "O suspantă tăiată, tocită, cu manta desfăcută, cusătură deteriorată sau lungime schimbată poate modifica forma aripii și rezistența ei. Nu o înnoda și nu o înlocui cu o linie asemănătoare: identifică linia după planul aripii și folosește piesa și procedura fabricantului, apoi verifică lungimile și configurația înainte de zbor. \n\nSursă: [BGD, recomandări de inspecție a aripii](https://www.flybgd.com/en/paragliders/inspection-recommendations-13-0-0.html).",
@@ -832,6 +855,7 @@
   },
   {
    "number": "#24",
+   "exams": ["deva"],
    "text": "405: Ce trebuie să conțină o inspecție „preflight” pentru un paramotor?",
    "short": "Inspecția preflight a paramotorului verifică carabinierele, elicea, motorul și sistemul de combustibil.",
    "long": "Verificarea paramotorului trebuie să urmeze lista din manual și să acopere cadrul și protecția elicei, prinderile motorului, elicea și șuruburile, transmisia, accelerația și oprirea motorului, rezervorul și furtunurile, hamul și punctele de atașare. Caută fisuri, joc, scurgeri și cabluri prinse; o constatare nesigură oprește zborul până la remediere. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); valorile și procedurile exacte depind de model.",
@@ -868,6 +892,7 @@
   },
   {
    "number": "#25",
+   "exams": ["deva"],
    "text": "411: De ce este importantă verificarea liniei de combustibil pentru bule?",
    "short": "Bulele din linia de combustibil pot indica scurgeri sau găuri în linie.",
    "long": "Bulele pot arăta că aerul intră pe partea de aspirație a sistemului, ceea ce reduce alimentarea și poate provoca funcționare neregulată sau oprirea motorului. Nu toate bulele au aceeași cauză: verifică etanșările, furtunul, filtrul și pompița de amorsare conform manualului; simpla completare a rezervorului nu remediază o priză de aer. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); valorile și procedurile exacte depind de model.",
@@ -904,6 +929,7 @@
   },
   {
    "number": "#26",
+   "exams": ["deva"],
    "text": "451: Care sunt avântajele unei aripi reflex?",
    "short": "Aripa reflex are stabilitate mai mare la viteze mari.",
    "long": "Profilul reflex are o geometrie a bordului de fugă care, împreună cu trimmerele și suspantele, poate menține comportamentul aripii la viteze mai mari. Stabilitatea și rezistența la colaps depind însă de model, configurație, încărcare și starea aerului; reflexul nu face aripa imună la turbulență și nu autorizează zborul accelerat în orice condiții. \n\nSursă: [Niviuk, manualul de utilizare Skin 3](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -940,6 +966,7 @@
   },
   {
    "number": "#27",
+   "exams": ["deva"],
    "text": "462: Cum se comportă aripile de începător în condiții de turbulență?",
    "short": "Aripile de începător oferă stabilitate ridicată și sunt mai iertătoare în turbulență.",
    "long": "Aripile EN A sunt proiectate să aibă reacții mai blânde și mai previzibile în testele de certificare și sunt frecvent folosite la începutul progresiei. Asta nu înseamnă că nu se pot deforma sau că revin singure din orice colaps: turbulența, încărcarea și intervenția pilotului contează, iar prioritatea este să eviți condițiile peste nivelul tău. \n\nSursă: [Niviuk, manualul de utilizare Skin 3](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -976,6 +1003,7 @@
   },
   {
    "number": "#28",
+   "exams": ["deva"],
    "text": "445: Ce trebuie verificat la suspantele aripii înainte de decolare?",
    "short": "Înainte de decolare se verifică conectarea corectă a suspantelor, fără îndoituri, și integritatea lor: toate variantele sunt corecte.",
    "long": "Desfă suspantele fără a le târî peste pietre sau crengi, urmărește fiecare grup de la ridicător până la aripă și elimină răsucirile, nodurile și încrucișările. Confirmă că grupurile A/B/C și frânele ajung la punctele lor corecte, iar maillon-urile sunt închise; o linie care pare intactă poate fi totuși conectată greșit. \n\nSursă: [BGD, manualul aripii Magic 2 — verificarea înainte de zbor](https://www.flybgd.com/files/file/en/1714726240-483-2.pdf).",
@@ -1012,6 +1040,7 @@
   },
   {
    "number": "#29",
+   "exams": ["deva"],
    "text": "464: Ce caracteristică este specifică aripilor de începător (EN A)?",
    "short": "Aripile de începător EN A sunt concepute pentru a fi extrem de stabile și previzibile.",
    "long": "EN A este clasa de parapantă cu comportament cel mai accesibil în schema de certificare EN, de aceea multe aripi școală sunt încadrate aici. Clasificarea se bazează pe manevre și reacții testate, nu pe promisiunea că aripa nu se prăbușește; alege și dimensiunea potrivită masei totale în zbor. \n\nSursă: [Niviuk, manualul de utilizare Skin 3](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -1048,6 +1077,7 @@
   },
   {
    "number": "#30",
+   "exams": ["deva"],
    "text": "408: Ce rol are o elice echilibrată static?",
    "short": "O elice echilibrată static reduce vibrațiile cauzate de dezechilibrul aerodinamic.",
    "long": "Echilibrarea statică verifică dacă centrul de masă al elicei nu este deplasat într-o parte când elicea este sprijinită pe ax; corectează dezechilibrul de masă într-un singur plan. Ea poate reduce o sursă de vibrații, dar nu detectează toate dezechilibrele dinamice ale unui ansamblu în rotație și nu înlocuiește verificarea fisurilor, montajului și cuplului de strângere. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); valorile și procedurile exacte depind de model.",
@@ -1084,6 +1114,7 @@
   },
   {
    "number": "#31",
+   "exams": ["deva"],
    "text": "414: Ce este o pliere „concertină” a aripii?",
    "short": "Pliera „concertină” păstrează celulele bordului de atac plane.",
    "long": "Plierea concertină înseamnă plierea celulelor succesiv, ca un acordeon, astfel încât bordul de atac și ranforsările să rămână aliniate, în loc să fie îndoite sau mototolite la întâmplare. Metoda ajută la protejarea tijelor și a profilului, dar forma exactă de împachetare depinde de construcția aripii și de manualul ei.\n\nSursă: [BGD, recomandări de împachetare și îngrijire a aripii](https://www.flybgd.com/fr/parapentes/how-to-pack-and-care-for-high-performance-paragliders--video-151-2558-0.html).",
@@ -1120,6 +1151,7 @@
   },
   {
    "number": "#32",
+   "exams": ["deva"],
    "text": "453: Care este principalul dezavântaj al aripilor cu profil reflex?",
    "short": "Dezavântajul principal al aripilor reflex este stabilitatea redusă la viteze mici.",
    "long": "La unele aripi reflex, trimmerele închise reduc caracterul reflex și permit o configurație mai lentă; în regim lent, aripa poate avea alte limite de stabilitate și de manevră decât în configurația rapidă. Nu există o afirmație universală că toate aripile reflex sunt „instabile la viteze mici”: comportamentul se citește din manualul modelului, iar controlul se adaptează setării trimmerelor. \n\nSursă: [Niviuk, manualul de utilizare Skin 3](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -1156,6 +1188,7 @@
   },
   {
    "number": "#33",
+   "exams": ["deva"],
    "text": "402: De ce este importantă inspecția profesională a aripii după 2 ani sau 100 de ore de zbor?",
    "short": "Inspecția profesională după 2 ani sau 100 de ore de zbor detectează daune structurale sau uzură.",
    "long": "Inspecția periodică poate depista degradarea țesăturii și pierderea rezistenței ori modificarea lungimii suspantelor înainte să afecteze forma și comportamentul aripii. Intervalul de 2 ani/100 de ore nu este universal: urmează manualul și raportul de certificare al modelului, iar inspecția profesională nu se înlocuiește prin simpla verificare vizuală preflight. \n\nSursă: [BGD, recomandări de inspecție a aripii](https://www.flybgd.com/en/paragliders/inspection-recommendations-13-0-0.html).",
@@ -1192,6 +1225,7 @@
   },
   {
    "number": "#34",
+   "exams": ["deva"],
    "text": "460: Care este un dezavântaj al paramotoarelor cu motor în patru timpi?",
    "short": "Un dezavântaj al paramotoarelor cu motor în patru timpi este greutatea mai mare.",
    "long": "Un motor în patru timpi are de regulă supape și mecanism de distribuție, ceea ce adaugă piese și masă față de multe motoare în doi timpi. Compromisul poate fi o construcție mai grea, chiar dacă unele modele oferă consum sau durată de viață avantajoase; compară datele motoarelor concrete, nu doar numărul de timpi. \n\nSursă: [FAA, Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak).",
@@ -1228,6 +1262,7 @@
   },
   {
    "number": "#35",
+   "exams": ["deva"],
    "text": "430: Ce este un indicator de viteza aerului (airspeed indicator)?",
    "short": "Indicatorul de viteză a aerului (airspeed indicator) măsoară viteza cu care te deplasezi prin aer.",
    "long": "Indicatorul de viteză aeriană arată viteza aeronavei față de aerul din jur. Tubul Pitot captează presiunea totală, portul static presiunea atmosferică, iar diferența acționează instrumentul; viteza indicată nu este aceeași cu viteza față de sol, care depinde și de vânt. \n\nSursă: [FAA, Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak).",
@@ -1264,6 +1299,7 @@
   },
   {
    "number": "#36",
+   "exams": ["deva"],
    "text": "459: Care este principalul avântaj al unui paramotor cu motor în doi timpi?",
    "short": "Motorul în doi timpi are greutate mai redusă și putere mai mare raportată la greutate.",
    "long": "Un motor în doi timpi produce un ciclu de putere la fiecare rotație a arborelui cotit, astfel că poate obține un raport putere/masă ridicat și un ansamblu compact. Asta poate fi util la paramotor, unde masa motorului contează, dar nu înseamnă automat consum mai mic sau viață mai lungă; ungerea, răcirea și intervalele de întreținere sunt cele din manual. \n\nSursă: [FAA, Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak).",
@@ -1300,6 +1336,7 @@
   },
   {
    "number": "#37",
+   "exams": ["deva"],
    "text": "209: Profilul aerodinamic e conceput ca să producă portanță rezultată din:",
    "short": "Portanța profilului aerodinamic apare din presiune pe intrados și depresiune pe extrados.",
    "long": "Portanța este forța rezultată din distribuția presiunii pe profil și din devierea aerului în jos; componentele ei se descriu și prin legile lui Newton și Bernoulli, nu prin regula falsă că aerul de deasupra trebuie să ajungă simultan la bordul de fugă cu aerul de dedesubt. Unghiul de atac și viteza schimbă presiunea și portanța; depășirea unghiului critic poate produce desprinderea curentului și pierderea portanței. \n\nSursă: [FAA, Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf).",
@@ -1336,6 +1373,7 @@
   },
   {
    "number": "#38",
+   "exams": ["deva"],
    "text": "247: Depășirea masei maxime admise la decolare:",
    "short": "Depășirea masei maxime admise la decolare este interzisă, pentru că depășește rezistența structurală.",
    "long": "Masa maximă la decolare este limita aprobată pentru combinația aripă-paramotor și include pilotul, echipamentul și combustibilul la decolare. Peste limită crește încărcarea și solicitarea structurii, iar vitezele și energia de manevră se schimbă; nu compensa depășirea prin zbor „mai atent” și nu depăși intervalul înscris pentru aripa folosită. \n\nSursă: [Niviuk, manualul de utilizare Skin 3](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -1372,6 +1410,7 @@
   },
   {
    "number": "#39",
+   "exams": ["deva"],
    "text": "236: La înclinarea parapantei spre stânga:",
    "short": "La înclinarea parapantei spre stânga, colțul stâng coboară și colțul drept se ridică.",
    "long": "„Înclinată spre stânga” înseamnă că partea stângă a aripii este mai jos decât partea dreaptă, privită din poziția pilotului privind înainte. Parapanta virează prin combinația de comandă și deplasare a greutății, după instruire; nu interpreta această descriere geometrică drept indicație de a trage un „brâu” sau o suspantă oarecare. \n\nSursă: [FAA, Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf).",
@@ -1408,6 +1447,7 @@
   },
   {
    "number": "#40",
+   "exams": ["deva"],
    "text": "245: În ceea ce privește rodajul motoarelor ULM:",
    "short": "Rodajul motoarelor ULM se face conform recomandărilor constructorului, specifice fiecărui motor.",
    "long": "Rodajul este perioada inițială în care piesele motorului se adaptează treptat la sarcină și temperatură. Respectă exact limitele de turație, sarcină, amestec și verificările din manualul acelui motor; un regim generic sau accelerații susținute în această perioadă pot grăbi uzura ori supraîncălzirea. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); valorile și procedurile exacte depind de model.",
@@ -1444,6 +1484,7 @@
   },
   {
    "number": "#41",
+   "exams": ["deva"],
    "text": "403: Ce tip de ulei ar trebui utilizat pentru motoarele în doi timpi ale paramotoarelor?",
    "short": "Pentru motoarele în doi timpi ale paramotoarelor se folosește ulei pentru motoare răcite cu aer, care respectă standardul 2T.",
    "long": "Folosește ulei formulat pentru motoare în doi timpi și standardul cerut de fabricantul motorului. Proporția benzină-ulei depinde de motor, ulei și condițiile prescrise; prea puțin ulei reduce lubrifierea, iar prea mult poate crește depunerile și afecta arderea, deci nu transfera raportul unui alt model. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); valorile și procedurile exacte depind de model.",
@@ -1480,6 +1521,7 @@
   },
   {
    "number": "#42",
+   "exams": ["deva"],
    "text": "457: Care este principalul avântaj al aripilor cu aspect ratio mare?",
    "short": "Aripile cu aspect ratio mare oferă performanță superioară la zborurile de distanță.",
    "long": "Aspectul alungit (raport anvergură/coardă mai mare) reduce, în general, rezistența indusă pentru aceeași portanță și poate îmbunătăți finețea, utilă la planare și distanță. Aripile foarte alungite pot avea alte compromisuri de manevrabilitate, structură și sensibilitate; raportul singur nu prezice dacă o aripă este potrivită pilotului. \n\nSursă: [FAA, Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf).",
@@ -1516,6 +1558,7 @@
   },
   {
    "number": "#43",
+   "exams": ["deva"],
    "text": "244: Când alegem un paramotor:",
    "short": "La alegerea paramotorului se ține cont de nivelul de pilotare.",
    "long": "La alegerea unui paramotor potrivește masa totală și aripa cu puterea și limita de încărcare ale ansamblului; ia în calcul nivelul pilotului, tipul de decolare, autonomia, mentenanța și disponibilitatea pieselor. Recomandarea trebuie verificată pentru configurația exactă din manual, nu doar după cilindree sau preferința pentru un motor în doi ori patru timpi. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); valorile și procedurile exacte depind de model.",
@@ -1552,6 +1595,7 @@
   },
   {
    "number": "#44",
+   "exams": ["deva"],
    "text": "420: Ce ar trebui să faci dacă observi o deformare a aripii în timpul zborului?",
    "short": "Dacă observi o deformare a aripii în zbor, reacția corectă este să aplici frânele pentru a stabiliza aripa.",
    "long": "Nu există o singură acțiune de frânare potrivită pentru toate deformările: un colaps frontal, unul asimetric și o angajare cer reacții diferite, iar frânarea excesivă poate provoca angajare. Menține zborul controlat și folosește doar procedura învățată pentru aripa ta și recomandată de fabricant; dacă nu ai altitudine sau control suficient, prioritizează evitarea obstacolelor și aterizarea sigură. \n\nSursă: [Niviuk, manualul Skin 3 și ghidul de alegere a aripii](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -1588,6 +1632,7 @@
   },
   {
    "number": "#45",
+   "exams": ["deva"],
    "text": "202: Părțile fixe ale motorului unei motoparapante sunt:",
    "short": "Părțile fixe ale motorului sunt cilindrul și carterul.",
    "long": "Cilindrul și carterul sunt componentele staționare care susțin și închid mecanismul motorului. Pistonul se deplasează în cilindru, biela transmite mișcarea către arborele cotit, iar arborele se rotește; această diferență ajută la înțelegerea conversiei mișcării pistonului în rotație. \n\nSursă: [FAA, Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak).",
@@ -1624,6 +1669,7 @@
   },
   {
    "number": "#46",
+   "exams": ["deva"],
    "text": "450: Ce trebuie verificat la rezervorul de combustibil înainte de zbor?",
    "short": "Înainte de zbor se verifică la rezervor fixarea capacului și a rezervorului, nivelul și absența scurgerilor: toate variantele sunt corecte.",
    "long": "Verifică dacă rezervorul și capacul sunt fixate, dacă există suficient combustibil pentru zborul planificat și dacă nu vezi umezeală, fisuri sau scurgeri. Confirmă și aerisirea rezervorului și traseul furtunurilor, fiindcă o aerisire blocată poate crea depresiune și întrerupe alimentarea; nu realimenta lângă motor fierbinte sau surse de aprindere. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); valorile și procedurile exacte depind de model.",
@@ -1660,6 +1706,7 @@
   },
   {
    "number": "#47",
+   "exams": ["deva"],
    "text": "461: Care este principalul avântaj al aripilor de începător (EN A)?",
    "short": "Principalul avântaj al aripii de începător EN A este stabilitatea și siguranța maximă în zbor.",
    "long": "O aripă EN A este proiectată pentru reacții mai blânde și previzibile în testele de certificare și este de regulă o alegere de început. Ea trebuie totuși potrivită masei totale și condițiilor de zbor; categoria nu înlocuiește instruirea și nu face zborul sigur în turbulență puternică. \n\nSursă: [Niviuk, manualul Skin 3 și ghidul de alegere a aripii](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -1696,6 +1743,7 @@
   },
   {
    "number": "#48",
+   "exams": ["deva"],
    "text": "421: Ce este atașarea carabinierelor”?",
    "short": "Atașarea carabinierelor înseamnă fixarea aripii prin buclele de suspensie la seletă.",
    "long": "Maillon-ul (conectorul rapid) este piesa metalică închisă cu filet care conectează componentele indicate de configurația aripii, de regulă suspantele/ridicătoarele ori ridicătoarele/hamul. Verifică modelul și capacitatea admisă, închiderea completă și uzura; nu înlocui un conector cu altul doar pentru că pare să aibă aceeași dimensiune. \n\nSursă: [BGD, manualul aripii Magic 2 — verificarea înainte de zbor](https://www.flybgd.com/files/file/en/1714726240-483-2.pdf).",
@@ -1732,6 +1780,7 @@
   },
   {
    "number": "#49",
+   "exams": ["deva"],
    "text": "427: Ce este o deformare frontală a aripii (frontstall)?",
    "short": "Deformarea frontală (frontstall) este o deformare în care bordul de atac se pliază în jos.",
    "long": "La un colaps frontal, o parte mare sau toată marginea de atac se pliază înapoi și celulele pierd temporar presiunea, reducând portanța. Poate apărea după o schimbare bruscă a unghiului de atac sau în aer turbulent; tehnica de recuperare este specifică aripii și trebuie exersată cu instructorul, nu dedusă numai din numele manevrei. \n\nSursă: [Niviuk, manualul Skin 3 și ghidul de alegere a aripii](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -1769,6 +1818,7 @@
   },
   {
    "number": "#50",
+   "exams": ["deva"],
    "text": "200: Rolul carburatorului, pentru un motor în 2 timpi, este:",
    "short": "Carburatorul unui motor în doi timpi asigură amestecul aer/combustibil din motor.",
    "long": "Carburatorul dozează combustibilul și îl amestecă cu aerul înainte ca încărcătura să intre în cilindru; clapeta de accelerație reglează debitul, iar motorul aspiră amestecul. La un motor în doi timpi cu carburator cu membrană, pomparea carburantului folosește pulsațiile motorului, dar construcția exactă variază între motoare. \n\nSursă: [FAA, Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak).",
@@ -1805,6 +1855,7 @@
   },
   {
    "number": "#51",
+   "exams": ["deva"],
    "text": "443: Ce este important de făcut la verificarea periodică a aripii?",
    "short": "La verificarea periodică a aripii se testează rezistența materialului, porozitatea și lungimea suspantelor.",
    "long": "La inspecția periodică se pot măsura porozitatea și rezistența țesăturii, lungimea și rezistența suspantelor, cusăturile, ridicătoarele și conectorii. Aceste probe cer instrumente și proceduri adecvate și pot identifica degradări invizibile la ochi; intervalul și pragurile se iau din manualul și raportul aripii. \n\nSursă: [BGD, recomandări de inspecție a aripii](https://www.flybgd.com/en/paragliders/inspection-recommendations-13-0-0.html).",
@@ -1841,6 +1892,7 @@
   },
   {
    "number": "#52",
+   "exams": ["deva"],
    "text": "419: Ce este un „B stall”?",
    "short": "B stall este o condiție în care aripa este blocată prin tragerea liniilor B spre pieptul pilotului.",
    "long": "Într-un B-stall, pilotul trage simetric de ridicătoarele/suspantele B, deformând profilul și reducând portanța pentru o coborâre rapidă. Manevra încarcă suspantele și poate genera o ieșire cu avans sau instabilitate; nu este o tehnică de control obișnuită și se execută numai dacă manualul o permite și pilotul a fost instruit pentru modelul respectiv. \n\nSursă: [Niviuk, manualul Skin 3 și ghidul de alegere a aripii](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -1877,6 +1929,7 @@
   },
   {
    "number": "#53",
+   "exams": ["deva"],
    "text": "436: Cum se efectuează corect uscarea unei aripi ude?",
    "short": "Aripa udă se întinde și se lasă să se usuce într-o zonă deschisă, de preferat la umbră.",
    "long": "După ce s-a udat, întinde aripa într-un loc ventilat și las-o să se usuce complet la umbră, departe de soare direct și surse de căldură. Nu o împacheta umedă și nu folosi uscătorul sau substanțe chimice: umezeala prelungită și căldura pot afecta stratul materialului și suspantele. \n\nSursă: [Niviuk, ghid de întreținere a parapantei](https://niviuk.com/en/guide-maintaining-caring-paraglider).",
@@ -1913,6 +1966,7 @@
   },
   {
    "number": "#54",
+   "exams": ["deva"],
    "text": "238: Ce indica variometrul?",
    "short": "Variometrul indică viteza pe verticală.",
    "long": "Variometrul indică viteza verticală, adică rata de urcare sau de coborâre, de obicei în m/s. El detectează schimbarea presiunii statice și o transformă într-o indicație sonoră sau vizuală; nu arată altitudinea absolută și nici viteza înainte. \n\nSursă: [FAA, Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak).",
@@ -1949,6 +2003,7 @@
   },
   {
    "number": "#55",
+   "exams": ["deva"],
    "text": "208: Extradosul aripii este:",
    "short": "Extradosul aripii este partea superioară a aripii.",
    "long": "Extradosul este suprafața superioară a aripii, iar intradosul este suprafața inferioară. Diferența de presiune dintre aceste suprafețe, împreună cu devierea curentului de aer, contribuie la portanță; bordul de atac este marginea frontală, nu extradosul. \n\nSursă: [FAA, Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf).",
@@ -1985,6 +2040,7 @@
   },
   {
    "number": "#56",
+   "exams": ["deva"],
    "text": "428: Ce rol are o elice echilibrată dinamic?",
    "short": "Elicea echilibrată dinamic reduce vibrațiile cauzate de dezechilibrul aerodinamic în zbor.",
    "long": "Echilibrarea dinamică verifică vibrațiile ansamblului în rotație și poate identifica dezechilibre care nu apar la o verificare statică într-un singur plan. Elicea, butucul și montajul trebuie evaluate ca ansamblu, conform procedurii fabricantului; nu adăuga greutăți sau material la pală fără aprobare. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); procedurile exacte depind de model.",
@@ -2021,6 +2077,7 @@
   },
   {
    "number": "#57",
+   "exams": ["deva"],
    "text": "409: Cum se verifică presiunea corectă a combustibilului?",
    "short": "Presiunea corectă a combustibilului se verifică cu un manometru de presiune.",
    "long": "Un manometru măsoară presiunea în punctul prevăzut de sistemul motorului, iar valoarea se compară cu domeniul specificat de fabricant. Unele paramotoare nu au presiune măsurată de pilot în exploatarea normală, deci nu instala un instrument sau nu modifica furtunurile fără procedura modelului; verificarea vizuală a nivelului nu măsoară presiunea. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); procedurile exacte depind de model.",
@@ -2057,6 +2114,7 @@
   },
   {
    "number": "#58",
+   "exams": ["deva"],
    "text": "438: Ce trebuie verificat la chingile aripii înainte de zbor?",
    "short": "La chingile aripii se verifică starea materialului și a cusăturilor, precum și închiderea și strângerea carabinierelor.",
    "long": "Inspectează chingile/ridicătoarele pentru tăieturi, abraziune, decolorare, cusături desfăcute și deformări; verifică cataramele și conectorii să se închidă complet. Aceste piese transferă sarcina de la aripă la ham, deci orice deteriorare sau închidere incertă impune oprirea zborului și evaluarea conform manualului. \n\nSursă: [BGD, manualul aripii Magic 2 — verificarea înainte de zbor](https://www.flybgd.com/files/file/en/1714726240-483-2.pdf).",
@@ -2093,6 +2151,7 @@
   },
   {
    "number": "#59",
+   "exams": ["deva"],
    "text": "426: De ce este importantă inspecția vizuală a aripii înainte de decolare?",
    "short": "Inspecția vizuală a aripii înainte de decolare detectează eventualele daune sau uzură.",
    "long": "Inspecția vizuală înainte de decolare caută rupturi, frecări, cusături desfăcute, deformări, suspante încurcate sau noduri și conectori care nu sunt închiși. Verificarea se face pe toată aripa, ridicătoare și ham, nu doar pe porțiunea vizibilă de la marginea de atac; dacă ai dubii, nu decola. \n\nSursă: [BGD, manualul aripii Magic 2 — verificarea înainte de zbor](https://www.flybgd.com/files/file/en/1714726240-483-2.pdf).",
@@ -2129,6 +2188,7 @@
   },
   {
    "number": "#60",
+   "exams": ["deva"],
    "text": "206: Care este zona de uzură maximă a voalurii de parapantă?",
    "short": "Zona de uzură maximă a voalurii este extradosul pe treimea anterioară, măsurată de la bordul de atac.",
    "long": "Nu există o singură zonă care se uzează cel mai mult pe toate aripile: uzura depinde de material, expunere UV, împachetare, frecare și aterizări. Bordul de atac/extradosul anterior este o zonă importantă pentru controlul porozității și al rezistenței, dar inspecția profesională verifică mai multe puncte și urmează procedura fabricantului. \n\nSursă: [BGD, recomandări de inspecție a aripii](https://www.flybgd.com/en/paragliders/inspection-recommendations-13-0-0.html).",
@@ -2165,6 +2225,7 @@
   },
   {
    "number": "#61",
+   "exams": ["deva"],
    "text": "212: Depășirea masei maxime admise la decolare:",
    "short": "Depășirea masei maxime admise la decolare este interzisă, pentru că depășește rezistența structurală.",
    "long": "Limita de masă este stabilită pentru dimensiunea și configurația aripii, incluzând pilotul și echipamentul din zbor. Depășirea ei crește încărcarea alară și solicitarea liniilor și materialului și poate duce aeronava în afara condițiilor încercate; respectă intervalul certificat, nu îl trata ca pe o recomandare flexibilă. \n\nSursă: [Niviuk, manualul Skin 3 și ghidul de alegere a aripii](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -2201,6 +2262,7 @@
   },
   {
    "number": "#62",
+   "exams": ["deva"],
    "text": "423: Ce este un „colaps asimetric” al aripii?",
    "short": "Un colaps asimetric este o deformare în care o parte a aripii se dezumflă, iar cealaltă nu.",
    "long": "Un colaps asimetric apare când o parte a baldachinului pierde presiunea și se pliază, în timp ce cealaltă parte rămâne umflată. Aripa poate vira și rula către partea pliată; amplitudinea depinde de cât s-a închis și de condiții, iar pilotul trebuie să folosească procedura de recuperare învățată și să nu facă intrări bruște. \n\nSursă: [Niviuk, manualul Skin 3 și ghidul de alegere a aripii](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -2238,6 +2300,7 @@
   },
   {
    "number": "#63",
+   "exams": ["deva"],
    "text": "248: Un motor cu puterea de 40 kW are:",
    "short": "Un motor de 40 kW are aproximativ 54,4 CP, cea mai apropiată variantă din listă fiind 54,8 CP.",
    "long": "Conversia este 1 kW ≈ 1,3596 CP (cal-putere metric). Prin urmare, 40 kW ≈ 54,38 CP, adică aproximativ 54,4 CP; dintre variante, 54,8 CP este cea mai apropiată, dar nu este rezultatul exact al conversiei. \n\nSursă: [FAA, Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak).",
@@ -2274,6 +2337,7 @@
   },
   {
    "number": "#64",
+   "exams": ["deva"],
    "text": "211: Cuplul reactiv al elicei se manifestă prin:",
    "short": "Cuplul reactiv al elicei determină tendința aeronavei de a se înclina în partea opusă rotației elicei.",
    "long": "Cuplul motorului care rotește elicea produce o reacție asupra cadrului în sens opus rotației elicei; la un paramotor acest efect se transmite pilotului și poate influența ruliul. Nu îl confunda cu vibrația produsă de o elice dezechilibrată sau cu efectele de curent elicoidal, care au alte cauze. \n\nSursă: [FAA, Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak).",
@@ -2310,6 +2374,7 @@
   },
   {
    "number": "#65",
+   "exams": ["deva"],
    "text": "437: Ce trebuie să conțină un kit de reparații de urgență pentru aripă?",
    "short": "Kitul de reparații de urgență pentru aripă conține bandă din nylon ripstop și foarfecă.",
    "long": "Un kit de reparații de teren poate include material de reparație compatibil cu țesătura aripii (de exemplu, bandă ripstop), foarfecă și elementele recomandate de fabricant. Scopul este o intervenție temporară, mică și permisă de manual; nu orice ruptură poate fi reparată în teren, iar o avarie la cusături, nervuri sau elemente portante necesită atelier. \n\nSursă: [Niviuk, ghid de întreținere a parapantei](https://niviuk.com/en/guide-maintaining-caring-paraglider).",
@@ -2346,6 +2411,7 @@
   },
   {
    "number": "#66",
+   "exams": ["deva"],
    "text": "400: Cum se repară o aripă deteriorată în teren?",
    "short": "O aripă deteriorată în teren se repară prin acoperirea rupturii cu bandă din nylon ripstop.",
    "long": "Pentru o gaură mică și neportantă, unele manuale permit aplicarea temporară a benzii ripstop compatibile pe material curat și uscat, cu margini bine lipite. Nu coase, lipi cu adeziv generic sau acoperi o ruptură structurală fără instrucțiunea fabricantului; după o reparație temporară, cere inspecția aripii înainte de următorul zbor. \n\nSursă: [Niviuk, ghid de întreținere a parapantei](https://niviuk.com/en/guide-maintaining-caring-paraglider).",
@@ -2382,6 +2448,7 @@
   },
   {
    "number": "#67",
+   "exams": ["deva"],
    "text": "401: Ce trebuie verificat la propulsor înainte de fiecare zbor?",
    "short": "Înainte de fiecare zbor se verifică starea elicei, jocul axial și monturile motorului.",
    "long": "Cu motorul oprit și elicea imobilă, verifică paletele pentru crăpături, ciobituri și lovituri, prinderea și șuruburile, jocul sau deteriorarea butucului, monturile motorului și integritatea protecției. O elice avariată ori o prindere slăbită poate ceda la turație; nu porni motorul pentru a inspecta piesele și nu zbura până la remediere. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); procedurile exacte depind de model.",
@@ -2418,6 +2485,7 @@
   },
   {
    "number": "#68",
+   "exams": ["deva"],
    "text": "397: Ce trebuie verificat la aripa înainte de decolare?",
    "short": "Înainte de decolare se verifică suspantele: să fie conectate, fără îndoituri, rupturi sau stres evident.",
    "long": "Înainte de decolare, desfă și urmărește toate suspantele până la ridicătoare, eliminând noduri, răsuciri și încrucișări; inspectează aripa și ridicătoarele pentru deteriorări. Verifică frânele să fie libere și conectorii închiși, apoi confirmă setările de trimmer cerute pentru decolare de manualul acelei aripi. \n\nSursă: [BGD, manualul aripii Magic 2 — verificarea înainte de zbor](https://www.flybgd.com/files/file/en/1714726240-483-2.pdf).",
@@ -2454,6 +2522,7 @@
   },
   {
    "number": "#69",
+   "exams": ["deva"],
    "text": "233: Când este o problemă oprirea motorului în zbor:",
    "short": "Oprirea motorului în zbor este o problemă doar atunci când nu mai poți ajunge la un loc de aterizare în siguranță.",
    "long": "Oprirea motorului în zbor este întotdeauna o situație anormală care cere pilotului să treacă imediat la planul de aterizare fără motor, să aleagă o zonă sigură și să mențină controlul aripii. Devine primejdie dacă nu mai există o opțiune sigură, însă nu aștepta să ajungi în această situație ca să reacționezi; prioritatea este aterizarea controlată, nu repornirea cu orice preț. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); procedurile exacte depind de model.",
@@ -2490,6 +2559,7 @@
   },
   {
    "number": "#70",
+   "exams": ["deva"],
    "text": "406: Cum ar trebui să fie setate trimmerele aripii pentru decolare?",
    "short": "Trimmerele aripii se setează, pentru decolare, în poziția neutră recomandată de producător.",
    "long": "Pentru decolare, trimmerele se pun simetric în poziția recomandată pentru model și condițiile din manual. Poziția „neutră” nu este universală: o setare greșită poate schimba viteza, unghiul de atac și comportamentul la gonflaj; verifică ambele părți să fie egale înainte de atașare/decolare. \n\nSursă: [Niviuk, manualul Skin 3 și ghidul de alegere a aripii](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -2526,6 +2596,7 @@
   },
   {
    "number": "#71",
+   "exams": ["deva"],
    "text": "231: Una dintre cele mai importante verificări înainte de pornirea paramotorului în siguranță este:",
    "short": "Înainte de pornire trebuie verificat ca legătura manetei de accelerație cu carburatorul să permită revenirea la relanti.",
    "long": "Cu motorul oprit, verifică dacă maneta de accelerație se mișcă liber, cablul nu este prins și maneta revine singură la ralanti când o eliberezi. O comandă blocată poate ține motorul turat la pornire sau în zbor; testează și întrerupătorul de oprire conform manualului, fără a apropia mâinile de elice. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); procedurile exacte depind de model.",
@@ -2562,6 +2633,7 @@
   },
   {
    "number": "#72",
+   "exams": ["deva"],
    "text": "413: Care este scopul unui conector rapid (maillon)?",
    "short": "Un conector rapid (maillon) conectează aripa prin buclele de suspensie la seletă.",
    "long": "Maillon-ul este un conector metalic cu închidere filetată folosit în configurația prescrisă pentru a lega componentele aripii, ridicătoarele și hamul/împrăștietoarele. Trebuie să fie de tipul și orientarea potrivite, complet închis și fără uzură; nu îl strânge cu improvizații și nu îl înlocui cu o piesă neomologată pentru sarcină. \n\nSursă: [BGD, manualul aripii Magic 2 — verificarea înainte de zbor](https://www.flybgd.com/files/file/en/1714726240-483-2.pdf).",
@@ -2598,6 +2670,7 @@
   },
   {
    "number": "#73",
+   "exams": ["deva"],
    "text": "250: Se numește bord de atac:",
    "short": "Bordul de atac este partea din față a aripii.",
    "long": "Bordul de atac este marginea frontală a aripii, cu deschiderile celulelor prin care intră aerul și care ajută la menținerea profilului umflat. Bordul de fugă este marginea din spate; frânele se atașează de regulă în zona lui și modifică profilul când sunt acționate. \n\nSursă: [Niviuk, manualul Skin 3 și ghidul de alegere a aripii](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -2634,6 +2707,7 @@
   },
   {
    "number": "#74",
+   "exams": ["deva"],
    "text": "246: După perioada de șolarizare putem zbura:",
    "short": "După perioada de școlarizare putem zbura cu o parapantă adecvată începătorilor.",
    "long": "După școlarizare, zborul independent se face cu o aripă potrivită experienței și greutății totale, în limitele certificatului, și cu progresie recomandată de instructor. EN A este adesea alegerea de început, dar terminarea școlii nu înseamnă automat că orice aripă sau condiție devine potrivită. \n\nSursă: [Niviuk, manualul Skin 3 și ghidul de alegere a aripii](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -2670,6 +2744,7 @@
   },
   {
    "number": "#75",
+   "exams": ["deva"],
    "text": "444: Ce trebuie să verifici la elice înainte de fiecare zbor?",
    "short": "Înainte de fiecare zbor se verifică elicea: toate verificările sunt corecte.",
    "long": "Inspectează fiecare pală pentru fisuri, ciobituri, deformare sau delaminare și verifică vizual butucul, șuruburile de prindere și jocul neobișnuit. Elicea avariată ori slăbită poate produce vibrații și cedare la turație; nu porni motorul în timpul inspecției și urmează procedura de service a fabricantului. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); procedurile exacte depind de model.",
@@ -2706,6 +2781,7 @@
   },
   {
    "number": "#76",
+   "exams": ["deva"],
    "text": "455: Care este principalul avântaj al unei aripi EN B față de o aripă EN A?",
    "short": "Principalul avântaj al unei aripi EN B față de una EN A este performanța mai mare și vitezele mai mari.",
    "long": "EN B este o categorie de certificare cu un spectru larg de comportamente; nu garantează că orice aripă B este mai rapidă sau mai performantă decât orice aripă A. Compară fișa de certificare, vitezele și finețea modelului concret, greutatea totală și nivelul pilotului; diferența de clasă reflectă în principal reacțiile observate în testele standardizate. \n\nSursă: [Niviuk, manualul Skin 3 și ghidul de alegere a aripii](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -2742,6 +2818,7 @@
   },
   {
    "number": "#77",
+   "exams": ["deva"],
    "text": "448: Ce trebuie să verifici la casca de zbor înainte de decolare?",
    "short": "Înainte de decolare se verifică casca: toate variantele sunt corecte.",
    "long": "Casca trebuie să fie potrivită și fixată, iar carcasa, chinga, catarama și viziera (dacă există) să nu fie deteriorate sau blocate. Casca protejează doar dacă este purtată și închisă corect; respectă standardul și recomandările fabricantului pentru sportul practicat și înlocuiește casca după un impact semnificativ. \n\nSursă: [BGD, manualul aripii Magic 2 — verificarea înainte de zbor](https://www.flybgd.com/files/file/en/1714726240-483-2.pdf).",
@@ -2778,6 +2855,7 @@
   },
   {
    "number": "#78",
+   "exams": ["deva"],
    "text": "251: Ce indică variometrul?",
    "short": "Variometrul indică viteza pe verticală.",
    "long": "Variometrul arată rata de urcare sau coborâre, de obicei cu o săgeată, scară sau semnal sonor. Este o măsură a vitezei verticale, nu a înălțimii și nici a vitezei orizontale; altimetrul indică altitudinea barometrică. \n\nSursă: [FAA, Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak).",
@@ -2814,6 +2892,7 @@
   },
   {
    "number": "#79",
+   "exams": ["deva"],
    "text": "463: De ce aripile de începător au un aspect ratio mai mic?",
    "short": "Aripile de începător au un aspect ratio mai mic pentru o manevrabilitate mai mare și o lansare mai ușoară.",
    "long": "Raportul de aspect (aspect ratio) este anvergura împărțită la coarda medie; pentru o aripă plană echivalent, se exprimă și ca anvergura la pătrat împărțită la suprafață. Un raport mai mic dă o formă mai compactă, care poate fi mai ușor de manevrat și lansat, dar nu determină singur stabilitatea: profilul, planul suspantelor, încărcarea și proiectarea contează. \n\nSursă: [FAA, Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf).",
@@ -2850,6 +2929,7 @@
   },
   {
    "number": "#80",
+   "exams": ["deva"],
    "text": "452: Ce tip de aripă este recomandată pentru piloții începători?",
    "short": "Aripa recomandată pentru piloții începători este EN A.",
    "long": "Pentru un pilot la început, o aripă EN A este în general proiectată cu reacții mai blânde și este folosită frecvent în instruire. Verifică totuși greutatea totală certificată, recomandarea instructorului și manualul modelului; o clasă de certificare nu transformă condițiile turbulente în condiții sigure. \n\nSursă: [Niviuk, manualul Skin 3 și ghidul de alegere a aripii](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -2886,6 +2966,7 @@
   },
   {
    "number": "#81",
+   "exams": ["deva"],
    "text": "432: Cum se procedează corect pentru întinderea suspantelor aripii?",
    "short": "Suspantele aripii se întind cu un sistem de scripeți, o bandă de măsurare și o greutate de 18 kg.",
    "long": "Întinderea sau măsurarea suspantelor este o procedură tehnică specifică modelului; lungimile se compară cu planul fabricantului, sub sarcina și cu echipamentul de măsurare prescrise. O recomandare generală de 18 kg nu poate fi confirmată pentru toate aripile, iar aplicarea unei sarcini arbitrare poate deteriora ori modifica liniile. Folosește manualul de service sau un atelier autorizat; nu încerca să „aduci toate liniile la aceeași lungime”, deoarece liniile sunt proiectate cu lungimi diferite. \n\nSursă: [BGD, recomandări de inspecție a aripii](https://www.flybgd.com/en/paragliders/inspection-recommendations-13-0-0.html).",
@@ -2922,6 +3003,7 @@
   },
   {
    "number": "#82",
+   "exams": ["deva"],
    "text": "441: Cum se repară corect o gaură mică în materialul aripii?",
    "short": "O gaură mică în materialul aripii se repară cu bandă din nylon ripstop pe ambele părți.",
    "long": "Banda ripstop compatibilă poate servi drept reparație temporară pentru o gaură mică în țesătura simplă, dacă manualul aripii o permite: materialul trebuie curat și uscat, iar plasturele să acopere zona cu margine suficientă. Nu este o reparație structurală și nu se aplică peste suspante, cusături portante sau nervuri; după avarie, solicită controlul fabricantului/atelierului înainte de zbor. \n\nSursă: [Niviuk, ghid de întreținere a parapantei](https://niviuk.com/en/guide-maintaining-caring-paraglider).",
@@ -2958,6 +3040,7 @@
   },
   {
    "number": "#83",
+   "exams": ["deva"],
    "text": "407: Ce tip de carburator folosește motorul în doi timpi de obicei?",
    "short": "Motorul în doi timpi folosește de obicei un carburator cu membrană.",
    "long": "Multe motoare mici în doi timpi folosesc carburatoare cu membrană, în care pulsațiile de presiune acționează pompa și permit alimentarea în diverse poziții, spre deosebire de un carburator cu cameră plutitoare. Totuși, există motoare cu injecție sau alte configurații; verifică modelul înainte de a presupune ce carburator are. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); procedurile exacte depind de model.",
@@ -2994,6 +3077,7 @@
   },
   {
    "number": "#84",
+   "exams": ["deva"],
    "text": "235: Startul B, adică gonflajul făcut cu fața la aripă, se recomandă:",
    "short": "Startul B (gonflajul cu fața la aripă) se recomandă atunci când viteza vântului nu permite gonflajul cu startul A.",
    "long": "Startul cu fața spre aripă este de obicei lansarea inversă (reverse launch): pilotul poate controla și verifica aripa în timp ce o ridică, fiind utilă mai ales când vântul este mai puternic. Lansarea înainte, cu spatele la aripă, este folosită frecvent în vânt slab; limitele sigure depind de aripă, motor și pregătirea pilotului. \n\nSursă: [Niviuk, manualul Skin 3 și ghidul de alegere a aripii](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -3030,6 +3114,7 @@
   },
   {
    "number": "#85",
+   "exams": ["deva"],
    "text": "240: Ce rol are reductorul?",
    "short": "Reductorul micșorează turația axului elicei față de turația motorului.",
    "long": "Reductorul transmite puterea motorului către elice cu turație mai mică și cuplu mai mare. Dacă raportul este 3:1, axul elicei se rotește la o treime din turația motorului; astfel motorul poate lucra în plaja lui eficientă, iar elicea într-o plajă de turație potrivită diametrului și vitezei vârfului palelor. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); procedurile exacte depind de model.",
@@ -3066,6 +3151,7 @@
   },
   {
    "number": "#86",
+   "exams": ["deva"],
    "text": "249: Dacă amestecul ulei/benzină este insuficient:",
    "short": "Dacă amestecul ulei/benzină este insuficient, există riscul supraîncălzirii și al defectării motorului.",
    "long": "La un motor în doi timpi cu ungere prin amestec, prea puțin ulei reduce pelicula care protejează pistonul, cilindrul și rulmenții. Frecarea și temperatura cresc, ceea ce poate duce la gripare sau avarie; tipul de ulei și raportul benzină-ulei trebuie luate din manualul modelului, nu estimate.\n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf).",
@@ -3102,6 +3188,7 @@
   },
   {
    "number": "#87",
+   "exams": ["deva"],
    "text": "454: Ce caracteristică este specifică paramotoarelor cu brațe pivotante (S-arm)?",
    "short": "Paramotoarele cu brațe pivotante (S-arm) permit o schimbare a centrului de greutate în zbor.",
    "long": "La un sistem cu brațe pivotante (S-arm), punctele de prindere și brațele se pot mișca față de cadrul motorului, permițând pilotului să deplaseze centrul de greutate și să contribuie la controlul ruliului prin transfer de greutate. Comportamentul diferă între modele și trebuie reglat pentru aripa și masa pilotului conform manualului. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); procedurile exacte depind de model.",
@@ -3138,6 +3225,7 @@
   },
   {
    "number": "#88",
+   "exams": ["deva"],
    "text": "447: Ce trebuie să conțină verificarea seletei înainte de zbor?",
    "short": "Verificarea seletei înainte de zbor cuprinde cataramele, cusăturile și ajustarea hamului: toate variantele sunt corecte.",
    "long": "Verifică hamul pentru catarame închise, chingi fără tăieturi sau abraziune, cusături intacte, puncte de prindere și poziția corectă a protecției și parașutei de rezervă. Reglează-l înainte de pornire, astfel încât să nu existe curele răsucite sau care pot ajunge lângă elice; o cusătură ori cataramă incertă necesită remediere. \n\nSursă: [BGD, manualul aripii Magic 2 — verificarea înainte de zbor](https://www.flybgd.com/files/file/en/1714726240-483-2.pdf).",
@@ -3174,6 +3262,7 @@
   },
   {
    "number": "#89",
+   "exams": ["deva"],
    "text": "440: De ce este importantă verificarea curelei de transmisie a motorului?",
    "short": "Verificarea curelei de transmisie a motorului previne alunecarea sau ruperea ei în timpul zborului.",
    "long": "Cureaua transmite rotația motorului către reductor sau către ansamblul elicei. Verifică fisuri, destrămare, luciu de alunecare, aliniere și tensiunea prescrisă; o curea prea slabă poate patina, iar una prea strânsă poate suprasolicita rulmenții. Intervalul de schimb și metoda de măsurare sunt specifice modelului. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); procedurile exacte depind de model.",
@@ -3210,6 +3299,7 @@
   },
   {
    "number": "#90",
+   "exams": ["deva"],
    "text": "446: Cum se verifică sistemul de alimentare cu combustibil înainte de zbor?",
    "short": "Sistemul de alimentare cu combustibil se verifică prin toate verificările: nivel, ventil, furtunuri.",
    "long": "Înainte de zbor, verifică nivelul și calitatea combustibilului, capacul și aerisirea rezervorului, robinetul/filtrul, furtunurile și conexiunile pentru scurgeri, crăpături, îndoiri și bule persistente. Confirmă alimentarea conform manualului, fără improvizații și fără a porni motorul lângă combustibil vărsat; o scurgere sau întrerupere de alimentare înseamnă no-go până la remediere. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); procedurile exacte depind de model.",
@@ -3246,6 +3336,7 @@
   },
   {
    "number": "#91",
+   "exams": ["deva"],
    "text": "456: Care este dezavântajul principal al paramotoarelor cu elice de lemn?",
    "short": "Dezavântajul principal al elicelor din lemn este că sunt mai susceptibile la deteriorare.",
    "long": "Elicea din lemn poate fi sensibilă la impact, umezeală și deteriorarea stratului protector, ceea ce poate duce la fisuri sau delaminare. Elicea compozită are și ea limite și poate suferi avarii interne invizibile; inspectează și depozitează fiecare elice conform manualului materialului și înlocuiește piesa lovită dacă fabricantul cere. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); procedurile exacte depind de model.",
@@ -3282,6 +3373,7 @@
   },
   {
    "number": "#92",
+   "exams": ["deva"],
    "text": "416: Ce însemnă Big Ears „urechi mari”?",
    "short": "Big Ears („urechi mari”) este o manevră în care pilotul trage liniile A exterioare pentru a plia vârfurile aripii în jos.",
    "long": "„Big ears” se obțin, la aripile care permit manevra, prin tragerea simetrică a liniilor/ridicătoarelor A exterioare pentru a plia vârfurile. Scade suprafața portantă și finețea, iar viteza de coborâre poate crește; viteza înainte și revenirea diferă după aripă și configurație, deci urmează manualul și nu combina manevrele la întâmplare. \n\nSursă: [Niviuk, manualul Skin 3 și ghidul de alegere a aripii](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",
@@ -3318,6 +3410,7 @@
   },
   {
    "number": "#93",
+   "exams": ["deva"],
    "text": "439: Cum se ajustează corect frânele aripii?",
    "short": "Frânele aripii se ajustează gonflând aripa, măsurând liniile de frână și corectând diferențele de lungime.",
    "long": "Frânele trebuie să fie libere, simetrice și să lase bordul de fugă fără tensiune neintenționată când nu sunt trase; lungimea corectă se verifică și se reglează numai după metoda fabricantului. Unele manuale verifică slack-ul cu aripa umflată; nu scurta sau prelungi suspantele după ochi, fiindcă asta poate schimba frânarea și provoca angajare. \n\nSursă: [BGD, manualul aripii Magic 2 — verificarea înainte de zbor](https://www.flybgd.com/files/file/en/1714726240-483-2.pdf).",
@@ -3354,6 +3447,7 @@
   },
   {
    "number": "#94",
+   "exams": ["deva"],
    "text": "449: Cum se verifică corect funcționarea frânelor?",
    "short": "Funcționarea frânelor se verifică prin toate verificările: suspante nerâncite, răspunsul aripii, uzura frânelor.",
    "long": "Verifică înainte de zbor ca liniile frânelor să nu fie încurcate, nodurile și mânerele să fie sigure, iar comenzile să se deplaseze și să revină liber. Într-o umflare controlată la sol, urmărește ca aripa să răspundă simetric; orice întârziere sau diferență poate indica încurcare, lungimi diferite ori deteriorare care trebuie clarificată înainte de decolare. \n\nSursă: [BGD, manualul aripii Magic 2 — verificarea înainte de zbor](https://www.flybgd.com/files/file/en/1714726240-483-2.pdf).",
@@ -3390,6 +3484,7 @@
   },
   {
    "number": "#95",
+   "exams": ["deva"],
    "text": "435: De ce este necesară schimbarea periodică furtunelor de combustibil?",
    "short": "Furtunurile de combustibil se schimbă periodic pentru a preveni formarea de reziduuri care pot înfunda carburatorul.",
    "long": "Furtunurile îmbătrânesc din cauza căldurii, vibrațiilor, combustibilului și expunerii la mediu; pot deveni tari, crăpate sau poroase și pot pierde combustibil ori trage aer. Intervalul de înlocuire nu este universal: respectă manualul motorului și schimbă furtunul dacă are semne de degradare, înainte ca alimentarea să fie compromisă. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); procedurile exacte depind de model.",
@@ -3426,6 +3521,7 @@
   },
   {
    "number": "#96",
+   "exams": ["deva"],
    "text": "205: Profilul aripii de motoparapantă este dat de:",
    "short": "Profilul aripii de motoparapantă este dat de membranele intercheson.",
    "long": "Forma profilului este dată de conturul țesăturii și de structura internă: nervurile și diagonalele mențin coarda și grosimea proiectate, iar celulele umflate cu aer păstrează profilul în zbor. Suspantele susțin forma și sarcina, dar nu sunt ele însele profilul aerodinamic. \n\nSursă: [FAA, Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf).",
@@ -3462,6 +3558,7 @@
   },
   {
    "number": "#97",
+   "exams": ["deva"],
    "text": "431: Care este scopul unui conector rapid (quick link)?",
    "short": "Un conector rapid (quick link) conectează aripa prin buclele de suspensie la seletă.",
    "long": "Un quick link/maillon este un conector filetat care unește buclele suspantelor cu ridicătorul sau alte elemente prevăzute de schema aripii. Verifică să fie tipul corect, orientat fără sarcină transversală și complet închis; conectorul este parte a lanțului de sarcină, nu doar o piesă de comoditate. \n\nSursă: [BGD, manualul aripii Magic 2 — verificarea înainte de zbor](https://www.flybgd.com/files/file/en/1714726240-483-2.pdf).",
@@ -3498,6 +3595,7 @@
   },
   {
    "number": "#98",
+   "exams": ["deva"],
    "text": "201: Care sunt factorii care duc la uzura accentuată a aripii de paramotor:",
    "short": "Uzura aripii de paramotor este accentuată de vârstă și de expunerea la lumina solară.",
    "long": "Țesătura și suspantele se degradează prin radiație UV, căldură, umezeală prelungită, frecare, murdărie, încărcare mecanică și îmbătrânire. Uscarea și depozitarea corectă reduc degradarea, dar nu o opresc; verifică regulat aripa și ține cont de orele și condițiile de utilizare. \n\nSursă: [Niviuk, ghid de întreținere a parapantei](https://niviuk.com/en/guide-maintaining-caring-paraglider).",
@@ -3534,6 +3632,7 @@
   },
   {
    "number": "#99",
+   "exams": ["deva"],
    "text": "410: Ce este „aerodinamica fluxului de aer redirecționat”?",
    "short": "Aerodinamica fluxului de aer redirecționat înseamnă folosirea lamelor pentru a redirecționa fluxul de aer.",
    "long": "Expresia descrie în general ghidarea sau devierea fluxului de aer cu o suprafață/deflector, astfel încât să se modifice forțele aerodinamice ori răcirea. Efectul concret depinde de dispozitiv și de poziția lui; aripile flexibile nu au „lamele” universale, deci trebuie identificat mecanismul la care se referă întrebarea înainte de a deduce o procedură de pilotaj. \n\nSursă: [FAA, Aerodynamics of Flight](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak/07_phak_ch5.pdf).",
@@ -3570,6 +3669,7 @@
   },
   {
    "number": "#100",
+   "exams": ["deva"],
    "text": "198: Prezența ambreajului:",
    "short": "Ambreiajul permite pornirea motorului fără ca elicea să se învârtă.",
    "long": "La un ambreiaj centrifugal, saboții se deplasează spre exterior când turația crește și cuplează transmisia peste un prag; la ralanti ambreiajul decuplează, astfel încât motorul poate funcționa fără să antreneze elicea. Pragul și comportamentul sunt specifice motorului, iar elicea trebuie tratată ca pericol cât timp motorul poate accelera. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); procedurile exacte depind de model.",
@@ -3606,6 +3706,7 @@
   },
   {
    "number": "#101",
+   "exams": ["deva"],
    "text": "424: Ce este un altimetru?",
    "short": "Altimetrul este un dispozitiv care măsoară altitudinea la care te afli.",
    "long": "Altimetrul barometric estimează altitudinea din presiunea statică și din presiunea de referință setată de pilot. Dacă setarea QNH/QFE/QNE este greșită, indicația nu corespunde altitudinii așteptate; instrumentul nu măsoară direct înălțimea deasupra solului și nu este un GPS. \n\nSursă: [FAA, Pilot’s Handbook of Aeronautical Knowledge](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak).",
@@ -3642,6 +3743,7 @@
   },
   {
    "number": "#102",
+   "exams": ["deva"],
    "text": "422: Cum ar trebui să fie depozitată aripa după utilizare?",
    "short": "După utilizare, aripa se depozitează într-un mediu uscat, pentru a preveni umezirea materialului.",
    "long": "După zbor, usucă complet aripa și depoziteaz-o într-un loc uscat, răcoros și ferit de soare, substanțe chimice și rozătoare. Împacheteaz-o conform instrucțiunilor fabricantului, mai ales dacă are tije sau ranforsări la bordul de atac; evită comprimarea prelungită și depozitarea umedă. \n\nSursă: [Niviuk, ghid de întreținere a parapantei](https://niviuk.com/en/guide-maintaining-caring-paraglider).",
@@ -3678,6 +3780,7 @@
   },
   {
    "number": "#103",
+   "exams": ["deva"],
    "text": "418: Ce tip de combustibil este recomandat pentru motoarele în doi timpi?",
    "short": "Pentru motoarele în doi timpi se folosește benzină fără plumb amestecată cu ulei pentru motoare în doi timpi.",
    "long": "Multe motoare în doi timpi cu ungere prin amestec folosesc benzină și ulei 2T, dar tipul de benzină, standardul uleiului și procentul diferă între modele. Folosește exact combustibilul și raportul prescris de manual; combustibil greșit sau amestec prea sărac în ulei poate deteriora motorul. \n\nSursă: [Vittorazi, manualul de utilizare Moster 185](https://vittorazi.com/site/manuali/USER_MANUAL_MOSTER185_ENG_025.pdf); procedurile exacte depind de model.",
@@ -3714,6 +3817,7 @@
   },
   {
    "number": "#104",
+   "exams": ["deva"],
    "text": "204: Alegeți afirmația adevărată:",
    "short": "Comenzile paramotorului sau ale aripii acționează asupra bordului de fugă.",
    "long": "Frânele comandă în mod obișnuit deformarea bordului de fugă pentru a modifica portanța și a vira; trimmerele schimbă lungimea ridicătoarelor și geometria/unghiul de incidență. Așadar, răspunsul din chestionar este o simplificare: nu toate comenzile acționează fizic bordul de fugă, iar efectul exact al trimmerelor depinde de aripă. \n\nSursă: [Niviuk, manualul Skin 3 și ghidul de alegere a aripii](https://niviuk.com/biblioteca/items/332_A/user_manual_skin_3_niviuk_paragliders.pdf).",

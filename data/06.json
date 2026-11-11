@@ -4,6 +4,7 @@
  "questions": [
   {
    "number": "#1",
+   "exams": ["deva"],
    "text": "884: Cum afectează un centru de greutate setat necorespunzător manevrabilitatea în zbor?",
    "short": "Un centru de greutate setat greșit poate face manevrele mai dificile și mai puțin precise.",
    "long": "Centrul de greutate al pilotului și al echipamentului influențează comportamentul aripii și al paramotorului. Dacă este setat greșit, comenzile devin greu de folosit și manevrele sunt mai puțin precise.",
@@ -40,6 +41,7 @@
   },
   {
    "number": "#2",
+   "exams": ["deva"],
    "text": "832: Cum influențează greutatea pilotului performanța zborului?",
    "short": "Greutatea pilotului trebuie să fie compatibilă cu greutatea maximă admisă a aripii, pentru stabilitate și manevrabilitate.",
    "long": "Greutatea totală (pilot, echipament, paramotor) trebuie să rămână în limitele pentru care aripa este omologată. Dacă este prea mare, aripa lucrează peste limită și zborul devine nesigur.",
@@ -76,6 +78,7 @@
   },
   {
    "number": "#3",
+   "exams": ["deva"],
    "text": "857: Cum afectează utilizarea sistemului speed bar viteza de zbor și stabilitatea?",
    "short": "Folosirea sistemului speed bar crește viteza de zbor, dar poate reduce stabilitatea.",
    "long": "Speed bar-ul (sistemul de accelerare) scade unghiul de atac: aripa zboară mai repede, dar mai puțin stabil.",
@@ -112,6 +115,7 @@
   },
   {
    "number": "#4",
+   "exams": ["deva"],
    "text": "851: Cum poate influența greutatea totală a echipamentului performanțele de decolare?",
    "short": "O greutate mai mare necesită o distanță de decolare mai lungă.",
    "long": "Cu greutate mai mare, aripa are nevoie de mai multă viteză pentru a genera portanța necesară decolării, deci distanța de decolare crește.",
@@ -148,6 +152,7 @@
   },
   {
    "number": "#5",
+   "exams": ["deva"],
    "text": "867: Cum influențează greutatea totală a echipamentului stabilitatea în zbor?",
    "short": "O greutate totală mai mare poate face zborul mai stabil.",
    "long": "Greutatea mai mare dă o încărcare mai mare a aripii, ceea ce face zborul mai stabil și mai puțin sensibil la rafale.",
@@ -184,6 +189,7 @@
   },
   {
    "number": "#6",
+   "exams": ["deva"],
    "text": "804: Întreținerea ULM ului se face:",
    "short": "Varianta A este un text incomplet; răspunsul logic este că întreținerea se face înainte de fiecare zbor.",
    "long": "Întrebarea are o eroare: varianta A repetă enunțul, fără să indice o opțiune. Răspunsul rezonabil, conform practicii de întreținere, este că verificarea se face înainte de fiecare zbor. Reține principiul, nu formularea.",
@@ -220,6 +226,7 @@
   },
   {
    "number": "#7",
+   "exams": ["deva"],
    "text": "852: Ce rol are sistemul de suspensie (chingi + suspante) al aripii în performanțele de zbor?",
    "short": "Sistemul de suspensie (chingi și suspante) distribuie uniform greutatea pilotului și a echipamentului.",
    "long": "Sistemul de suspensie (chingile și suspantele) distribuie greutatea pilotului și a echipamentului pe voal, astfel încât aripa să fie solicitată uniform.",
@@ -256,6 +263,7 @@
   },
   {
    "number": "#8",
+   "exams": ["deva"],
    "text": "813: Ocolirea aerodromurilor în zbor VFR se execută obligatoriu la distanțe de cel puțin:",
    "short": "Ocolirea aerodromurilor în zbor VFR se face la cel puțin 10 km în sectoarele de decolare și aterizare.",
    "long": "Zborul VFR trebuie să evite zonele de trafic aerodromului, în special sectoarele de decolare și aterizare, pentru a nu intra în conflict cu aeronavele care aterizează sau decolează. Varianta corectă indică 10 km în aceste sectoare.",
@@ -292,6 +300,7 @@
   },
   {
    "number": "#9",
+   "exams": ["deva"],
    "text": "872: Cum afectează umiditatea ridicată eficiența amestecului aer-combustibil?",
    "short": "Umiditatea ridicată poate reduce eficiența combustibilului, prin modificarea amestecului aer-combustibil.",
    "long": "Umiditatea ridicată face aerul mai puțin dens și reduce oxigenul pe volum. Amestecul aer–combustibil se modifică, iar eficiența motorului scade.",
@@ -328,6 +337,7 @@
   },
   {
    "number": "#10",
+   "exams": ["deva"],
    "text": "846: Cum poate influența o presiune atmosferică scăzută performanța zborului?",
    "short": "O presiune atmosferică scăzută reduce puterea motorului și portanța aripii.",
    "long": "La presiune atmosferică scăzută, aerul este mai rarefiat. Motorul primește mai puțin aer, deci pierde putere, iar portanța aripii scade, pentru aceeași viteză.",
@@ -364,6 +374,7 @@
   },
   {
    "number": "#11",
+   "exams": ["deva"],
    "text": "792: În timpul alimentării cu combustibil vărsați o cantitate însemnată de benzină pe seleta motoparapantei. Cum procedați în acest caz?",
    "short": "Dacă vărsați benzină pe seletă, anulați zborul și curățați seleta cu detergenți care nu afectează materialul.",
    "long": "Benzina vărsată pe seletă poate pătrunde în materialul țesăturii și poate avea efecte pe material și pe siguranța zborului. Zborul se anulează, iar seleta se curăță cu detergenți care nu atacă materialul.",
@@ -400,6 +411,7 @@
   },
   {
    "number": "#12",
+   "exams": ["deva"],
    "text": "807: Care este motivul principal pentru care se caută a se decola cu vânt de față?",
    "short": "Decolăm cu vânt de față ca să reducem viteza la sol și distanța de decolare.",
    "long": "Decolarea cu vânt de față înseamnă că aerul ajunge la aripă înainte de a ajunge motoparapanta la sol. Viteza la sol este mai mică, iar distanța de decolare scade.",
@@ -436,6 +448,7 @@
   },
   {
    "number": "#13",
+   "exams": ["deva"],
    "text": "817: Aeronavele care zboară în spațiul aerian necontrolat sunt obligate să respecte înălțimile minime de siguranța publicate în:",
    "short": "Înălțimile minime de siguranță în spațiul aerian necontrolat sunt publicate în RACR-RA.",
    "long": "În spațiul necontrolat, înălțimile minime de siguranță sunt cele publicate în RACR-RA, în regulile de zbor VFR (RACR-RA 4.060).",
@@ -472,6 +485,7 @@
   },
   {
    "number": "#14",
+   "exams": ["deva"],
    "text": "853: Cum influențează poziția centrului de greutate stabilitatea în zbor?",
    "short": "Un centru de greutate prea în față poate face zborul instabil.",
    "long": "Centrul de greutate prea în față face paramotorul să se încline în față, deci aripa devine mai puțin stabilă și mai greu de controlat.",
@@ -508,6 +522,7 @@
   },
   {
    "number": "#15",
+   "exams": ["deva"],
    "text": "814: Când este necesară depunerea unui plan de zbor:",
    "short": "Planul de zbor trebuie depus cel puțin atunci când zbori în spațiu controlat ATC.",
    "long": "Planul de zbor este necesar cel puțin pentru zborul în spațiul controlat ATC, unde serviciul de trafic trebuie informat (RACR-RA 3.030, pct. 1.2.1).",
@@ -544,6 +559,7 @@
   },
   {
    "number": "#16",
+   "exams": ["deva"],
    "text": "878: Ce măsuri trebuie luate pentru a asigura o aterizare sigură în condiții de vânt lateral?",
    "short": "Pentru o aterizare sigură cu vânt lateral ajustezi direcția de aterizare, pentru a compensa vântul lateral.",
    "long": "La vânt lateral, pilotul alege direcția de aterizare astfel încât vântul să fie cât mai mult din față, pentru a compensa componenta laterală.",
@@ -580,6 +596,7 @@
   },
   {
    "number": "#17",
+   "exams": ["deva"],
    "text": "810: Care este ordinea de prioritate la aterizare:",
    "short": "Ordinea de prioritate la aterizare este parașuta, apoi planorul, apoi motoparapanta.",
    "long": "La aterizare, parașutistul are prioritate, apoi planorul, iar motoparapanta cedează. Ordinea depinde de manevrabilitatea și viteza fiecărei categorii.",
@@ -616,6 +633,7 @@
   },
   {
    "number": "#18",
+   "exams": ["deva"],
    "text": "831: Ce măsuri de precauție trebuie luate atunci când zburați în apropierea zonei de munte?",
    "short": "În zona de munte, trebuie să ai o altitudine suficient de mare pentru a evita rotoarele, în caz de vânt puternic.",
    "long": "În zona de munte, vântul și rotoarele pot fi foarte puternice. Altitudinea suficientă dă timp de reacție și evită zona de rotoare de sub relief.",
@@ -652,6 +670,7 @@
   },
   {
    "number": "#19",
+   "exams": ["deva"],
    "text": "875: Ce trebuie să faceți dacă observați o pierdere bruscă de putere a motorului în timpul zborului?",
    "short": "Dacă observi o pierdere bruscă de putere a motorului, aterizezi imediat pentru a verifica și a repara motorul.",
    "long": "La pierderea bruscă de putere, pilotul aterizează imediat și verifică motorul, deoarece motorul nu mai oferă siguranță pentru zbor.",
@@ -688,6 +707,7 @@
   },
   {
    "number": "#20",
+   "exams": ["deva"],
    "text": "835: Cum se manifestă un stall aerodinamic și care sunt consecințele acestuia?",
    "short": "La stall aerodinamic, aripa își pierde portanța și începe să coboare brusc.",
    "long": "Stall-ul apare când unghiul de atac devine prea mare. Aripa își pierde portanța și începe să coboare brusc.",
@@ -724,6 +744,7 @@
   },
   {
    "number": "#21",
+   "exams": ["deva"],
    "text": "791: La verificarea voalurii înainte de decolare observați o ruptură de 2-3 cm la unul din capetele parapantei:",
    "short": "Dacă observi o ruptură de 2–3 cm la voal înainte de decolare, renunți la decolare, repari ruptura și verifici întreaga voală.",
    "long": "O ruptură la voal, chiar mică, poate crește la zbor. Se renunță la decolare, se repară și se inspectează întregul voal.",
@@ -760,6 +781,7 @@
   },
   {
    "number": "#22",
+   "exams": ["deva"],
    "text": "865: Cum afectează viteza vântului decolarea unei motoparapante?",
    "short": "Vântul de față reduce distanța de decolare necesară.",
    "long": "Vântul de față dă aripii viteză față de sol mai mică la decolare, deci distanța necesară scade.",
@@ -796,6 +818,7 @@
   },
   {
    "number": "#23",
+   "exams": ["deva"],
    "text": "840: Cum poate influența zborul o presiune scăzută în rezervorul de combustibil?",
    "short": "O presiune scăzută în rezervorul de combustibil poate duce la pierderea puterii și chiar la oprirea motorului.",
    "long": "Dacă presiunea combustibilului scade, motorul nu primește suficient combustibil, pierde putere și se poate opri.",
@@ -832,6 +855,7 @@
   },
   {
    "number": "#24",
+   "exams": ["deva"],
    "text": "873: Ce măsuri trebuie luate pentru a preveni deteriorarea aripii în timpul transportului?",
    "short": "Pentru a preveni deteriorarea aripii în transport, o împachetezi cu grijă și folosești huse de protecție.",
    "long": "Aripa se împachetează cu grijă și se transportă în huse de protecție, pentru a evita îndoirea, umezeala și murdăria.",
@@ -868,6 +892,7 @@
   },
   {
    "number": "#25",
+   "exams": ["deva"],
    "text": "809: În România zborul VFR în zona de aerodrom se admite de la:",
    "short": "În România, zborul VFR în zona aerodromului se admite de la răsăritul până la apusul soarelui, cu orele din AIP, după ora aerodromului.",
    "long": "Zborul VFR în zona aerodromului este admis între răsăritul și apusul soarelui, cu orele din AIP, raportate la ora locală a aerodromului unde se desfășoară activitatea.",
@@ -904,6 +929,7 @@
   },
   {
    "number": "#26",
+   "exams": ["deva"],
    "text": "829: În ce condiții este recomandat să nu folosiți „speed bar-ul”?",
    "short": "Speed bar-ul nu se folosește în condiții de turbulență puternică.",
    "long": "În turbulență puternică, speed bar-ul crește viteza și reduce stabilitatea, deci se evită.",
@@ -940,6 +966,7 @@
   },
   {
    "number": "#27",
+   "exams": ["deva"],
    "text": "870: Ce trebuie să verificați înainte de a începe procedura de decolare?",
    "short": "Înainte de decolare verifici direcția și intensitatea vântului, funcționarea motorului și aripa.",
    "long": "Înainte de decolare se verifică direcția și intensitatea vântului, funcționarea motorului și starea aripii.",
@@ -976,6 +1003,7 @@
   },
   {
    "number": "#28",
+   "exams": ["deva"],
    "text": "787: În timpul încălzirii motorului la sol auziți un zgomot deosebit, nou, metalic, ce apare la turație mare:",
    "short": "Dacă auzi un zgomot metalic nou la turație mare, anulezi decolarea și faci o inspecție completă a defectului.",
    "long": "Un zgomot metalic nou, la turație mare, indică o defecțiune. Decolarea se anulează și se face o inspecție pentru a găsi și repara defectul.",
@@ -1012,6 +1040,7 @@
   },
   {
    "number": "#29",
+   "exams": ["deva"],
    "text": "790: În timpul zborului observați că uneia din comenzi i-a dispărut magnetul/ capsa și nu mai poate fi prinsă pe chingă:",
    "short": "Dacă ai pierdut un magnet sau o capsă de la o comandă, îți continui zborul prudent, ținând mânerul în mână până la aterizare.",
    "long": "Dacă o comandă și-a pierdut capsa, pilotul continuă zborul cu prudență și nu lasă mânerul din mână, ca să nu fie pierdut controlul comenzii.",
@@ -1048,6 +1077,7 @@
   },
   {
    "number": "#30",
+   "exams": ["deva"],
    "text": "885: Cum poate influența un motor supraîncălzit performanțele de zbor?",
    "short": "Un motor supraîncălzit pierde putere și eficiență.",
    "long": "Motorul supraîncălzit își pierde puterea și eficiența, din cauza dilatării și a pierderii de compresie.",
@@ -1084,6 +1114,7 @@
   },
   {
    "number": "#31",
+   "exams": ["deva"],
    "text": "868: Ce măsuri trebuie luate dacă observați un comportament anormal al motorului în timpul zborului?",
    "short": "Dacă observi un comportament anormal al motorului în zbor, aterizezi imediat și verifici motorul.",
    "long": "La comportament anormal al motorului în zbor se aterizează imediat și se verifică motorul.",
@@ -1120,6 +1151,7 @@
   },
   {
    "number": "#32",
+   "exams": ["deva"],
    "text": "797: Înainte de începerea unui zbor VFR / VMC în spațiul clasa G aveți obligația de a:",
    "short": "Înainte de un zbor VFR în clasa G, ai obligația să te informezi asupra cerințelor, limitărilor și restricțiilor aplicabile publicate.",
    "long": "În clasa G, pilotul trebuie să se informeze asupra cerințelor, limitărilor și restricțiilor aplicabile, publicate în AIP și în reglementări.",
@@ -1156,6 +1188,7 @@
   },
   {
    "number": "#33",
+   "exams": ["deva"],
    "text": "871: Cum poate influența altitudinea densitatea aerului și, implicit, performanțele de zbor?",
    "short": "La altitudini mai mari, densitatea aerului scade, ceea ce poate reduce portanța.",
    "long": "La altitudine mare, densitatea aerului scade, deci aripa are mai puțină portanță pentru aceeași viteză, iar motorul are mai puțină putere.",
@@ -1192,6 +1225,7 @@
   },
   {
    "number": "#34",
+   "exams": ["deva"],
    "text": "864: Ce influență are altitudinea asupra capacității de portanță a aripii?",
    "short": "Capacitatea de portanță a aripii scade la altitudini mai mari.",
    "long": "Portanța depinde de densitatea aerului. La altitudini mari densitatea scade, deci, pentru aceeași viteză, portanța scade.",
@@ -1228,6 +1262,7 @@
   },
   {
    "number": "#35",
+   "exams": ["deva"],
    "text": "812: Regulile VFR reprezintă?",
    "short": "Regulile VFR sunt regulile de zbor la vedere.",
    "long": "VFR înseamnă regulile de zbor la vedere: pilotul navighează cu referință vizuală la sol și la orizont, iar zborul se execută în condiții VMC (RACR-RA).",
@@ -1264,6 +1299,7 @@
   },
   {
    "number": "#36",
+   "exams": ["deva"],
    "text": "847: Ce trebuie să faceți dacă observați o creștere a vibrațiilor motorului în timpul zborului?",
    "short": "Dacă observi o creștere a vibrațiilor motorului în zbor, aterizezi imediat și verifici motorul pentru a identifica cauza.",
    "long": "Vibrațiile în creștere indică o problemă în motor sau în elice. Aterizarea imediată și verificarea motorului previn un defect mai grav.",
@@ -1300,6 +1336,7 @@
   },
   {
    "number": "#37",
+   "exams": ["deva"],
    "text": "854: Cum afectează utilizarea sistemului de frânare viteza de zbor?",
    "short": "Utilizarea frânelor reduce viteza de zbor, prin creșterea rezistenței aerodinamice.",
    "long": "Frânele lărgesc marginea de fugă și cresc rezistența aerodinamică, deci reduc viteza de zbor.",
@@ -1336,6 +1373,7 @@
   },
   {
    "number": "#38",
+   "exams": ["deva"],
    "text": "856: Cum poate influența turbulența performanțele de zbor?",
    "short": "Turbulența poate reduce stabilitatea și manevrabilitatea aripii.",
    "long": "Turbulența perturbă fluxul de aer pe aripă. Aripa devine mai puțin stabilă și mai greu de manevrat.",
@@ -1372,6 +1410,7 @@
   },
   {
    "number": "#39",
+   "exams": ["deva"],
    "text": "815: Ce reguli de zbor se aplică categoriei de aeronave din care face parte motoparapantă?",
    "short": "Regulile de zbor care se aplică motoparapantei sunt regulile VFR.",
    "long": "Motoparapanta zboară după regulile VFR, adică zborul la vedere.",
@@ -1408,6 +1447,7 @@
   },
   {
    "number": "#40",
+   "exams": ["deva"],
    "text": "789: În timpul zborului observați că unul din cârligele sistemului speed bar s-a deconectat/ nu a fost conectat de la început:",
    "short": "Dacă unul dintre cârligele speed bar-ului s-a deconectat, trebuie să îl conectezi cât mai curând, pentru a nu ajunge la elice și a provoca daune.",
    "long": "Dacă cârligul speed bar-ului s-a deconectat, sistemul nu mai funcționează și aripa nu se comportă uniform. Se pun comenzile în poziție neutră, se caută un loc de aterizare și se aterizează.",
@@ -1444,6 +1484,7 @@
   },
   {
    "number": "#41",
+   "exams": ["deva"],
    "text": "795: Odată cu creșterea altitudinii viteza de stall va:",
    "short": "Odată cu creșterea altitudinii, viteza de stall crește.",
    "long": "Viteza de stall indicată (IAS) rămâne aproximativ constantă, dar viteza reală crește la altitudine. Pentru pilot, viteza de stall pe care o citește pe instrument este aceeași, deci viteza reală de stall crește.",
@@ -1480,6 +1521,7 @@
   },
   {
    "number": "#42",
+   "exams": ["deva"],
    "text": "861: Cum influențează utilizarea trimului stabilitatea zborului?",
    "short": "Ajustarea trimului poate modifica unghiul de atac al aripii.",
    "long": "Trimmerele modifică profilul aripii prin marginea de fugă, deci modifică unghiul de atac și stabilitatea.",
@@ -1516,6 +1558,7 @@
   },
   {
    "number": "#43",
+   "exams": ["deva"],
    "text": "798: Variometrul este un instrument care indică:",
    "short": "Variometrul indică viteza verticală de urcare sau de coborâre.",
    "long": "Variometrul măsoară viteza de urcare sau de coborâre, pe verticală.",
@@ -1552,6 +1595,7 @@
   },
   {
    "number": "#44",
+   "exams": ["deva"],
    "text": "794: Odată cu creșterea altitudinii performanța motorului va:",
    "short": "Odată cu creșterea altitudinii, performanța motorului scade.",
    "long": "Odată cu altitudinea, aerul devine mai rarefiat. Motorul primește mai puțin aer, deci puterea scade.",
@@ -1588,6 +1632,7 @@
   },
   {
    "number": "#45",
+   "exams": ["deva"],
    "text": "860: Cum se manifestă un flux de aer turbulent în timpul zborului?",
    "short": "Un flux de aer turbulent face aripa să oscileze și să devină instabilă.",
    "long": "Aerul turbulent face aripa să oscileze, cu schimbări rapide de unghi de atac, deci aripa devine instabilă.",
@@ -1624,6 +1669,7 @@
   },
   {
    "number": "#46",
+   "exams": ["deva"],
    "text": "863: Cum poate afecta temperatura scăzută performanțele motorului?",
    "short": "Temperatura scăzută face motorul să funcționeze mai eficient, datorită aerului mai dens.",
    "long": "Aerul rece este mai dens, deci conține mai mult oxigen pe volum, iar motorul poate funcționa mai eficient.",
@@ -1660,6 +1706,7 @@
   },
   {
    "number": "#47",
+   "exams": ["deva"],
    "text": "800: Dacă densitatea aerului scade:",
    "short": "Dacă densitatea aerului scade, trebuie să alergăm mai tare pentru a decola.",
    "long": "Dacă densitatea aerului scade, portanța scade, deci pilotul trebuie să alerge mai tare pentru a atinge viteza de decolare.",
@@ -1696,6 +1743,7 @@
   },
   {
    "number": "#48",
+   "exams": ["deva"],
    "text": "806: Când intrați într-un viraj mult înclinat ca să mențineți înălțimea și viteza trebuie să:",
    "short": "Când intri într-un viraj mult înclinat, ca să menții altitudinea și viteza, trebuie să crești puterea motorului.",
    "long": "Într-un viraj înclinat, o parte din portanță se îndreaptă lateral, deci portanța verticală scade. Pentru a menține altitudinea trebuie mai multă putere.",
@@ -1732,6 +1780,7 @@
   },
   {
    "number": "#49",
+   "exams": ["deva"],
    "text": "842: Cum poate afecta densitatea aerului performanța zborului?",
    "short": "O densitate scăzută a aerului poate reduce puterea motorului și portanța aripii.",
    "long": "Densitatea scăzută reduce oxigenul din aer, deci puterea motorului scade. Portanța depinde și ea de densitate, deci scade.",
@@ -1768,6 +1817,7 @@
   },
   {
    "number": "#50",
+   "exams": ["deva"],
    "text": "830: Cum afectează umiditatea ridicată a aerului performanța zborului?",
    "short": "Umiditatea ridicată scade performanța motorului.",
    "long": "Umiditatea ridicată face aerul mai puțin dens și reduce oxigenul disponibil motorului, deci scade performanța motorului.",
@@ -1804,6 +1854,7 @@
   },
   {
    "number": "#51",
+   "exams": ["deva"],
    "text": "833: Care este impactul principal al unei elice dezechilibrate asupra zborului?",
    "short": "O elice dezechilibrată poate provoca vibrații excesive și deteriorarea motorului.",
    "long": "O elice dezechilibrată produce vibrații puternice, care solicită motorul și suporturile, cu risc de deteriorare.",
@@ -1840,6 +1891,7 @@
   },
   {
    "number": "#52",
+   "exams": ["deva"],
    "text": "880: Cum influențează greutatea totală a echipamentului viteza de urcare?",
    "short": "Greutatea mai mare poate reduce viteza de urcare.",
    "long": "Cu greutate mai mare, aripa și motorul trebuie să producă mai multă portanță și putere, deci viteza de urcare scade.",
@@ -1876,6 +1928,7 @@
   },
   {
    "number": "#53",
+   "exams": ["deva"],
    "text": "786: Punctul de acroșare al parapantei cu brațul/ chinga motoparapantei poate influența siguranța zborului?",
    "short": "Punctul de acroșare trebuie reglat pentru greutatea pilotului, deoarece influențează unghiul de atac al aripii.",
    "long": "Punctul de acroșare al chingilor (brațul) modifică comportamentul paramotorului și al aripii. De aceea trebuie reglat pentru greutatea pilotului, pentru siguranță.",
@@ -1912,6 +1965,7 @@
   },
   {
    "number": "#54",
+   "exams": ["deva"],
    "text": "799: Vă pregătiți să decolați în condiții de temperatură exterioară foarte ridicată. Puterea dată de motor va fi:",
    "short": "Când temperatura exterioară este foarte ridicată, puterea motorului este mai slabă decât de obicei.",
    "long": "La temperatură ridicată aerul este mai puțin dens, deci motorul pierde putere, mai ales la regim mare.",
@@ -1948,6 +2002,7 @@
   },
   {
    "number": "#55",
+   "exams": ["deva"],
    "text": "826: De ce este importantă verificarea elicei înainte de fiecare zbor?",
    "short": "Verificarea elicei înainte de fiecare zbor asigură că este bine fixată și fără fisuri sau alte daune.",
    "long": "Elicea trebuie verificată înainte de fiecare zbor, pentru fixare și pentru fisuri sau ciobituri, care pot duce la ruperea ei în zbor.",
@@ -1984,6 +2039,7 @@
   },
   {
    "number": "#56",
+   "exams": ["deva"],
    "text": "841: Ce trebuie să faceți dacă observați o diferență semnificativă de performanță între cele două părți ale aripii?",
    "short": "Dacă observi o diferență semnificativă de performanță între cele două părți ale aripii, aterizezi imediat și inspectezi aripa.",
    "long": "O diferență de performanță între cele două părți ale aripii poate indica o deteriorare. Se aterizează, pentru a identifica și repara cauza.",
@@ -2020,6 +2076,7 @@
   },
   {
    "number": "#57",
+   "exams": ["deva"],
    "text": "869: Cum afectează poziția corectă a trimerului aripii decolarea?",
    "short": "Poziția corectă a trimerului asigură o decolare lină și eficientă.",
    "long": "Poziția corectă a trimmerelor, adică cea recomandată de constructor, asigură decolare lină și eficientă.",
@@ -2056,6 +2113,7 @@
   },
   {
    "number": "#58",
+   "exams": ["deva"],
    "text": "788: Ați ratat o decolare în cadrul cărei ați prins două suspante la elice și s-a distrus stratul de protecție a acestora:",
    "short": "Dacă ai prins două suspante de elice și s-a distrus stratul de protecție, încheii activitatea de zbor și înlocuiești suspantele.",
    "long": "Două suspante prinse în elice și cu protecția distrusă fac zborul nesigur. Activitatea de zbor se încheie și suspantele se înlocuiesc.",
@@ -2092,6 +2150,7 @@
   },
   {
    "number": "#59",
+   "exams": ["deva"],
    "text": "850: Cum influențează direcția vântului performanțele de zbor în timpul aterizării?",
    "short": "Vântul de față reduce distanța de aterizare.",
    "long": "Vântul de față reduce viteza la sol la aterizare, deci și distanța necesară pentru oprire scade.",
@@ -2128,6 +2187,7 @@
   },
   {
    "number": "#60",
+   "exams": ["deva"],
    "text": "837: Cum poate influența temperatura ambientală ridicată performanța zborului?",
    "short": "Temperatura ambientală ridicată face motorul să piardă din putere și eficiență.",
    "long": "Temperatura ridicată face aerul mai puțin dens, deci motorul pierde putere și eficiență.",
@@ -2164,6 +2224,7 @@
   },
   {
    "number": "#61",
+   "exams": ["deva"],
    "text": "808: Ce efect are un vânt de coadă asupra timpului de urcare la o înălțime dată:",
    "short": "Un vânt de coadă nu modifică timpul de urcare la o înălțime dată, față de aer.",
    "long": "Vântul de coadă modifică viteza la sol, nu viteza față de aer. Timpul de urcare la o altitudine depinde de viteza de urcare față de aer, deci nu se modifică.",
@@ -2200,6 +2261,7 @@
   },
   {
    "number": "#62",
+   "exams": ["deva"],
    "text": "821: Zborul cu motoparapanta în nor:",
    "short": "Zborul cu motoparapanta în nor nu este permis.",
    "long": "Zborul în nor este interzis pentru motoparapantă, deoarece pilotul pierde referința vizuală cu solul și cu obstacolele.",
@@ -2236,6 +2298,7 @@
   },
   {
    "number": "#63",
+   "exams": ["deva"],
    "text": "886: Ce trebuie să faceți dacă observați o creștere a rezistenței aerodinamice în timpul zborului?",
    "short": "Dacă observi o creștere a rezistenței aerodinamice în zbor, verifici aripa și echipamentul pentru a identifica cauza.",
    "long": "O creștere a rezistenței aerodinamice poate însemna deteriorare a aripii sau a echipamentului. Trebuie verificată cauza înainte de a continua zborul.",
@@ -2272,6 +2335,7 @@
   },
   {
    "number": "#64",
+   "exams": ["deva"],
    "text": "855: Ce impact are unghiul de atac al aripii asupra performanțelor de zbor?",
    "short": "Un unghi de atac mai mare poate crește portanța, dar și rezistența aerodinamică.",
    "long": "Unghiul de atac mai mare crește portanța, dar și rezistența aerodinamică, deci influențează performanța.",
@@ -2308,6 +2372,7 @@
   },
   {
    "number": "#65",
+   "exams": ["deva"],
    "text": "881: Ce măsuri trebuie să luați dacă observați că aripa nu se umflă simetric în timpul decolării?",
    "short": "Dacă aripa nu se umflă simetric în timpul decolării, anulezi decolarea și verifici suspantele și aripa.",
    "long": "Dacă aripa nu se umflă simetric, decolarea se anulează și se verifică suspantele și aripa, pentru a găsi cauza.",
@@ -2344,6 +2409,7 @@
   },
   {
    "number": "#66",
+   "exams": ["deva"],
    "text": "803: Pentru cât timp putem păstra un amestec ulei-benzină:",
    "short": "Un amestec ulei-benzină se poate păstra cel mult 15 zile.",
    "long": "Uleiul se separă din benzină, iar benzina se degradează în timp, deci amestecul își pierde calitățile. Varianta corectă indică 15 zile. În practica paramotoristă se recomandă prepararea în cantități mici și folosirea într-un interval de ordinul a două săptămâni.",
@@ -2380,6 +2446,7 @@
   },
   {
    "number": "#67",
+   "exams": ["deva"],
    "text": "823: Cum este afectată distanța de decolare atunci când motoparapantă se apropie de masa maximă autorizată iar rezervorul este plin?",
    "short": "Când motoparapanta se apropie de masa maximă autorizată și rezervorul este plin, distanța de decolare crește.",
    "long": "Cu greutate apropiată de maxim și rezervor plin, aeronava are nevoie de mai multă viteză pentru portanță, deci distanța de decolare crește.",
@@ -2416,6 +2483,7 @@
   },
   {
    "number": "#68",
+   "exams": ["deva"],
    "text": "793: În timpul inspecției de zbor a motoparapantei observați o fisură la vârful elicei",
    "short": "Dacă observi o fisură la vârful elicei, anulezi zborul și repari sau înlocuiești elicea.",
    "long": "O fisură la vârful elicei poate duce la ruperea ei în zbor, deci zborul se anulează și elicea se repară sau se înlocuiește.",
@@ -2452,6 +2520,7 @@
   },
   {
    "number": "#69",
+   "exams": ["deva"],
    "text": "796: Prin plasarea centrajului în afara limitelor admise aeronava este:",
    "short": "Dacă centrajul este în afara limitelor admise, aeronava este interzisă zborului.",
    "long": "Centrajul (poziția centrului de greutate) trebuie să rămână în limitele stabilite de constructor. În afara lor aeronava nu este admisă la zbor, deoarece stabilitatea și comenzile nu mai sunt garantate.",
@@ -2488,6 +2557,7 @@
   },
   {
    "number": "#70",
+   "exams": ["deva"],
    "text": "858: Ce efect are umiditatea asupra capacității de ridicare a aripii?",
    "short": "Umiditatea reduce capacitatea de ridicare a aripii, din cauza aerului mai dens.",
    "long": "Umiditatea ridicată face aerul mai puțin dens, deci portanța scade. Aerul uscat și mai dens ar da portanță mai mare.",
@@ -2524,6 +2594,7 @@
   },
   {
    "number": "#71",
+   "exams": ["deva"],
    "text": "827: Cum poate influența performanța zborului un motor murdar sau neîntreținut?",
    "short": "Un motor murdar sau neîntreținut pierde din putere și eficiență.",
    "long": "Un motor murdar sau neîntreținut se încălzește mai greu, are frecări mai mari și amestecul se dozează greșit, deci pierde putere și eficiență.",
@@ -2560,6 +2631,7 @@
   },
   {
    "number": "#72",
+   "exams": ["deva"],
    "text": "859: Ce trebuie să faceți înainte de a începe orice zbor pentru a asigura siguranța echipamentului?",
    "short": "Înainte de orice zbor efectuezi o inspecție completă a aripii, motorului și suspantelor.",
    "long": "Înainte de orice zbor se face inspecția completă: aripa, motorul și suspantele, pentru a detecta defecte care pot pune în pericol zborul.",
@@ -2596,6 +2668,7 @@
   },
   {
    "number": "#73",
+   "exams": ["deva"],
    "text": "848: Cum poate influența o aripă murdară performanța zborului?",
    "short": "O aripă murdară poate reduce portanța și eficiența aripii.",
    "long": "Murdăria de pe aripă modifică profilul și suprafața, deci reduce portanța și crește rezistența. Eficiența aripii scade.",
@@ -2632,6 +2705,7 @@
   },
   {
    "number": "#74",
+   "exams": ["deva"],
    "text": "879: Cum influențează umiditatea scăzută consumul de combustibil?",
    "short": "Umiditatea scăzută poate crește consumul de combustibil, prin modificarea amestecului aer-combustibil.",
    "long": "Umiditatea scăzută modifică amestecul aer–combustibil. Efectul asupra consumului depinde de motor și de reglaje, deci poate crește consumul.",
@@ -2668,6 +2742,7 @@
   },
   {
    "number": "#75",
+   "exams": ["deva"],
    "text": "862: Ce trebuie să faceți dacă observați o problemă la sistemul de suspensie în timpul zborului?",
    "short": "Dacă observi o problemă la sistemul de suspensie în zbor, aterizezi cât mai curând pentru a inspecta și repara.",
    "long": "Problema la suspensie poate duce la ruperea unei suspante sau la pierderea controlului. Se aterizează cât mai curând și se inspectează sistemul.",
@@ -2704,6 +2779,7 @@
   },
   {
    "number": "#76",
+   "exams": ["deva"],
    "text": "824: În cazul motoparapantelor, viteza indicată de angajare se măsoară în raport cu:",
    "short": "Viteza indicată de angajare se măsoară în raport cu vântul relativ.",
    "long": "Viteza indicată de angajare (la care aripa începe să se umfle și să zboare) se măsoară față de vântul relativ, adică față de masa de aer care trece prin aripă.",
@@ -2740,6 +2816,7 @@
   },
   {
    "number": "#77",
+   "exams": ["deva"],
    "text": "825: Dacă densitatea atmosferică este scăzută atunci distanța pe care va trebui să o parcurgeți pentru a decola va fi:",
    "short": "Dacă densitatea atmosferică este scăzută, distanța de decolare este mai mare.",
    "long": "La densitate scăzută portanța scade, deci aripa are nevoie de mai multă viteză la sol pentru a decola, iar distanța de decolare crește.",
@@ -2776,6 +2853,7 @@
   },
   {
    "number": "#78",
+   "exams": ["deva"],
    "text": "849: Ce efect are altitudinea asupra consumului de combustibil în timpul zborului?",
    "short": "Altitudinea crește consumul de combustibil, din cauza aerului mai rarefiat.",
    "long": "La altitudine aerul este mai rarefiat. Motorul cu carburator dozează combustibilul după aer; cu regim setat, consumul pe oră scade, dar puterea scade și ea. Efectul asupra consumului depinde de regim.",
@@ -2812,6 +2890,7 @@
   },
   {
    "number": "#79",
+   "exams": ["deva"],
    "text": "882: Cum influențează densitatea aerului stabilitatea aripii în timpul zborului?",
    "short": "O densitate mai mare a aerului poate crește stabilitatea aripii.",
    "long": "La densitate mai mare aerul oferă mai multă portanță și forțe mai mari pe aripă, deci aripa este mai stabilă la rafale.",
@@ -2848,6 +2927,7 @@
   },
   {
    "number": "#80",
+   "exams": ["deva"],
    "text": "818: În România zborul VFR în zona de aerodrom se admite de la:",
    "short": "În România, zborul VFR în zona aerodromului se admite de la răsărit până la apus, cu orele din AIP după ora aerodromului.",
    "long": "Zborul VFR în zona aerodromului este admis între răsărit și apus, cu orele din AIP raportate la ora locală a aerodromului unde se desfășoară zborul.",
@@ -2884,6 +2964,7 @@
   },
   {
    "number": "#81",
+   "exams": ["deva"],
    "text": "839: Care este rolul parașutei de rezervă?",
    "short": "Parașuta de rezervă oferă o soluție de siguranță în cazul unei defecțiuni.",
    "long": "Parașuta de rezervă este soluția de siguranță dacă zborul nu mai poate fi continuat sau controlat după o defecțiune.",
@@ -2920,6 +3001,7 @@
   },
   {
    "number": "#82",
+   "exams": ["deva"],
    "text": "836: Ce măsuri trebuie să luați dacă observați o fisură mică în rezervorul de combustibil?",
    "short": "Dacă observi o fisură mică în rezervorul de combustibil, oprești imediat zborul și repari fisura înainte de a continua.",
    "long": "O fisură în rezervor poate permite scurgerea combustibilului, cu risc de incendiu. Zborul se oprește și fisura se repară înainte de a continua.",
@@ -2956,6 +3038,7 @@
   },
   {
    "number": "#83",
+   "exams": ["deva"],
    "text": "820: Care este motivul principal pentru care se caută a se decola cu vânt de față?",
    "short": "Vântul de față se folosește la decolare pentru a reduce viteza la sol și distanța de decolare.",
    "long": "Vântul de față face aripa să zboare cu viteză mai mare față de sol la același IAS. Viteza la sol este mai mică, deci decolarea se face pe o distanță mai scurtă.",
@@ -2992,6 +3075,7 @@
   },
   {
    "number": "#84",
+   "exams": ["deva"],
    "text": "819: Care este efectul vântului de fața asupra unghiului de planare și asupra distanței de planare?",
    "short": "Cu vânt de față, unghiul de planare crește și distanța de planare scade.",
    "long": "Cu vânt de față, viteza față de sol scade, dar viteza față de aer rămâne. Unghiul de planare crește (aterizarea pare mai abruptă), iar distanța de planare scade.",
@@ -3028,6 +3112,7 @@
   },
   {
    "number": "#85",
+   "exams": ["deva"],
    "text": "876: Cum poate influența o elice murdară eficiența motorului?",
    "short": "O elice murdară poate reduce eficiența motorului, prin creșterea rezistenței aerodinamice.",
    "long": "Elicea murdară sau cu depuneri are o formă aerodinamică alterată, deci rezistența crește și eficiența scade.",
@@ -3064,6 +3149,7 @@
   },
   {
    "number": "#86",
+   "exams": ["deva"],
    "text": "816: Vântul influențează distanța de aterizare astfel:",
    "short": "Vântul de față reduce distanța de aterizare.",
    "long": "Vântul de față reduce viteza la sol la aterizare, deci și distanța de rulare și de oprire.",
@@ -3100,6 +3186,7 @@
   },
   {
    "number": "#87",
+   "exams": ["deva"],
    "text": "883: Ce trebuie să verificați înainte de a începe procedura de aterizare?",
    "short": "Înainte de aterizare verifici direcția și intensitatea vântului, starea terenului și echipamentul.",
    "long": "Înainte de aterizare se verifică direcția și intensitatea vântului, starea terenului (obstacole, denivelări) și echipamentul.",
@@ -3136,6 +3223,7 @@
   },
   {
    "number": "#88",
+   "exams": ["deva"],
    "text": "802: Sistemul accelerator al aripii acționează în felul următor:",
    "short": "Sistemul accelerator al aripii modifică unghiul de incidență.",
    "long": "Accelerația (speed system) modifică unghiul de incidență al aripii, prin scurtarea suspantelor din față, deci aripa zboară mai repede.",
@@ -3172,6 +3260,7 @@
   },
   {
    "number": "#89",
+   "exams": ["deva"],
    "text": "828: Care este efectul principal al utilizării trimului în timpul zborului?",
    "short": "Efectul principal al utilizării trimului în zbor este modificarea vitezei de zbor.",
    "long": "Trimmerele modifică profilul aripii pe marginea de fugă, deci modifică viteza de zbor, fără a crește stabilitatea.",
@@ -3208,6 +3297,7 @@
   },
   {
    "number": "#90",
+   "exams": ["deva"],
    "text": "801: Portanța este o forță:",
    "short": "Portanța este o forță perpendiculară pe direcția de zbor.",
    "long": "Portanța este perpendiculară pe direcția de zbor, în sus. Rezistența este paralelă cu zborul, în sens opus.",
@@ -3244,6 +3334,7 @@
   },
   {
    "number": "#91",
+   "exams": ["deva"],
    "text": "866: Care este rolul unei inspecții complete înainte de zbor?",
    "short": "Rolul unei inspecții complete înainte de zbor este identificarea și remedierea oricăror probleme ale echipamentului.",
    "long": "Inspecția completă înainte de zbor identifică și remediază problemele echipamentului, înainte ca ele să devină accidente.",
@@ -3280,6 +3371,7 @@
   },
   {
    "number": "#92",
+   "exams": ["deva"],
    "text": "805: În ce document găsiți informații despre limitările de viteză?",
    "short": "Informații despre limitările de viteză se găsesc în manualul de exploatare și întreținere (documentația tehnică a aeronavei).",
    "long": "Limitările de viteză ale aeronavei sunt în manualul de exploatare și întreținere, parte a documentației tehnice a aeronavei.",
@@ -3316,6 +3408,7 @@
   },
   {
    "number": "#93",
+   "exams": ["deva"],
    "text": "843: Ce trebuie să faceți dacă observați că un cablu de control este deteriorat?",
    "short": "Dacă observi că un cablu de control este deteriorat, oprești imediat zborul și înlocuiești cablul.",
    "long": "Un cablu de control deteriorat compromite controlul aripii. Zborul se oprește imediat și cablul se înlocuiește.",
@@ -3352,6 +3445,7 @@
   },
   {
    "number": "#94",
+   "exams": ["deva"],
    "text": "877: Cum afectează unghiul de atac al aripii viteza de ascensiune?",
    "short": "Un unghi de atac mai mare poate crește viteza de ascensiune, dar și rezistența aerodinamică.",
    "long": "Un unghi de atac mai mare crește portanța și deci viteza de urcare, dar crește și rezistența, ceea ce limitează urcarea.",
@@ -3388,6 +3482,7 @@
   },
   {
    "number": "#95",
+   "exams": ["deva"],
    "text": "811: La pierderea legăturii radio într-un spațiu controlat pilotul va:",
    "short": "La pierderea legăturii radio într-un spațiu controlat, continui zborul până la cel mai apropiat aerodrom și, după aterizare, informezi telefonic organul de trafic.",
    "long": "La pierderea legăturii radio într-un spațiu controlat, pilotul continuă zborul conform procedurii, merge la cel mai apropiat aerodrom și informează după aterizare.",
@@ -3424,6 +3519,7 @@
   },
   {
    "number": "#96",
+   "exams": ["deva"],
    "text": "844: Cum afectează un centru de greutate setat necorespunzător performanța zborului?",
    "short": "Un centru de greutate setat greșit poate face zborul instabil și dificil de controlat.",
    "long": "Un centru de greutate prea în față sau prea în spate face zborul instabil și greu de controlat.",
@@ -3460,6 +3556,7 @@
   },
   {
    "number": "#97",
+   "exams": ["deva"],
    "text": "874: Cum influențează curenții ascendenți performanțele de zbor în timpul unui zbor de durată?",
    "short": "Curenții ascendenți pot prelungi durata zborului, prin furnizarea de portanță suplimentară.",
    "long": "Curenții ascendenți dau portanță suplimentară, deci pilotul poate zbura mai mult fără pierdere de altitudine.",
@@ -3496,6 +3593,7 @@
   },
   {
    "number": "#98",
+   "exams": ["deva"],
    "text": "822: Modificarea unghiului de incidență la o motoparapantă se poate face prin:",
    "short": "Unghiul de incidență se modifică prin sistemul de speed și prin trimere.",
    "long": "Unghiul de incidență se modifică cu sistemul speed (bara de accelerație) și cu trimmerele, care schimbă forma marginii de fugă.",
@@ -3532,6 +3630,7 @@
   },
   {
    "number": "#99",
+   "exams": ["deva"],
    "text": "838: Ce ar trebui să faceți dacă observați că aripa nu se umflă corect în timpul decolării?",
    "short": "Dacă aripa nu se umflă corect în timpul decolării, anulezi decolarea și verifici aripa și echipamentul.",
    "long": "Aripa care nu se umflă corect la decolare nu zboară stabil. Decolarea se anulează și se verifică aripa și echipamentul.",
@@ -3568,6 +3667,7 @@
   },
   {
    "number": "#100",
+   "exams": ["deva"],
    "text": "845: Ce trebuie să faceți dacă observați un consum anormal de combustibil în timpul zborului?",
    "short": "Dacă observi un consum anormal de combustibil în zbor, aterizezi cât mai curând și verifici motorul și sistemul de alimentare.",
    "long": "Consumul anormal indică o scurgere, un amestec greșit sau un defect al motorului. Se aterizează, iar motorul și sistemul de alimentare se verifică.",
@@ -3604,6 +3704,7 @@
   },
   {
    "number": "#101",
+   "exams": ["deva"],
    "text": "834: Ce trebuie să verificați înainte de a începe o decolare în condiții de vânt lateral?",
    "short": "Înainte de decolare în condiții de vânt lateral verifici direcția și intensitatea vântului.",
    "long": "La decolare cu vânt lateral, pilotul verifică direcția și intensitatea vântului, pentru a alege corect direcția și a compensa deriva.",

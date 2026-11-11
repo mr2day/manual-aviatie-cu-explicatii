@@ -6,6 +6,7 @@
   var catalogReady = false;
   var routeVersion = 0;
   var activeChapterId = null;
+  var activeExam = 'toate';
   var searchQuery = '';
   var searchExpanded = false;
   var searchIndexPromise = null;
@@ -279,6 +280,21 @@
     input.type = 'search';
     input.placeholder = 'Caută în întrebări…';
     input.setAttribute('aria-label', 'Caută în titlurile întrebărilor');
+    var examFilter = el('label', 'exam-filter');
+    examFilter.appendChild(el('span', null, 'Examen'));
+    var examSelect = el('select', 'exam-filter-select');
+    examSelect.setAttribute('aria-label', 'Filtrează întrebările după examen');
+    var allExamsOption = el('option', null, 'Toate');
+    allExamsOption.value = 'toate';
+    var devaOption = el('option', null, 'Deva');
+    devaOption.value = 'deva';
+    var bucharestOption = el('option', null, 'București');
+    bucharestOption.value = 'bucuresti';
+    examSelect.appendChild(allExamsOption);
+    examSelect.appendChild(devaOption);
+    examSelect.appendChild(bucharestOption);
+    examSelect.value = activeExam;
+    examFilter.appendChild(examSelect);
     var meta = el('div', 'q-search-meta');
     var count = el('span', 'q-search-count');
     count.setAttribute('aria-live', 'polite');
@@ -288,13 +304,14 @@
     toggle.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>';
     meta.appendChild(count);
     meta.appendChild(toggle);
+    bar.appendChild(examFilter);
     bar.appendChild(input);
     var results = el('div', 'q-search-results');
     results.id = 'question-search-results';
     results.hidden = true;
     bar.appendChild(meta);
     bar.appendChild(results);
-    bar.refs = { input: input, count: count, toggle: toggle, results: results };
+    bar.refs = { input: input, count: count, toggle: toggle, results: results, examSelect: examSelect };
     return bar;
   }
 
@@ -318,6 +335,7 @@
               chapterTitle: chapter.title,
               index: index,
               number: index + 1,
+              exams: question.exams || ['deva'],
               text: question.text.replace(/^\d+:\s*/, ''),
               folded: foldText(question.text.replace(/^\d+:\s*/, ''))
             };
@@ -337,15 +355,19 @@
     return (foldText(value).match(/[a-z]/g) || []).length;
   }
 
+  function questionBelongsToExam(question, exam) {
+    if (exam === 'toate') return true;
+    return (question.exams || ['deva']).indexOf(exam) !== -1;
+  }
+
   function navigateToSearchResult(result) {
     searchExpanded = false;
     var bar = document.querySelector('.q-search');
     if (bar) document.documentElement.style.setProperty('--q-search-h', bar.offsetHeight + 'px');
     if (result.chapterId === activeChapterId) {
-      var currentSections = document.querySelectorAll('#content .question');
-      var target = currentSections[result.index];
+      var target = document.querySelector('#content .question[data-question-index="' + result.index + '"]');
       if (target) {
-        currentSections.forEach(function (section) { section.classList.remove('search-hit'); });
+        document.querySelectorAll('#content .question').forEach(function (section) { section.classList.remove('search-hit'); });
         target.classList.add('search-hit');
         target.scrollIntoView({ block: 'start', behavior: 'smooth' });
       }
@@ -367,8 +389,10 @@
       var foldedQuery = foldText(query.trim());
       var re = foldedQuery ? queryRegex(foldedQuery) : null;
       var sections = document.querySelectorAll('#content .question');
-      rawTitles.forEach(function (raw, index) {
-        var title = sections[index] && sections[index].querySelector('.question-title');
+      sections.forEach(function (section) {
+        var index = Number(section.getAttribute('data-question-index'));
+        var raw = rawTitles[index];
+        var title = section.querySelector('.question-title');
         if (title) renderTitle(title, raw, foldedQuery && foldText(raw).indexOf(foldedQuery) !== -1 ? re : null);
       });
     }
@@ -389,6 +413,18 @@
       searchExpanded = !searchExpanded;
       updateExpanded();
     });
+    refs.examSelect.addEventListener('change', function () {
+      activeExam = refs.examSelect.value;
+      if (activeChapterId && byId[activeChapterId]) {
+        var chapterId = activeChapterId;
+        var scrollY = window.scrollY;
+        loadChapter(byId[chapterId]).then(function (chapter) {
+          if (activeChapterId === chapterId) renderChapter(chapter, scrollY);
+        });
+      } else {
+        search();
+      }
+    });
     function search() {
       var query = foldText(refs.input.value.trim());
       searchQuery = refs.input.value;
@@ -407,7 +443,7 @@
       refs.count.textContent = 'Se caută…';
       getSearchIndex().then(function (index) {
         if (currentRequest !== request) return;
-        var matches = index.filter(function (item) { return item.folded.indexOf(query) !== -1; });
+        var matches = index.filter(function (item) { return questionBelongsToExam(item, activeExam) && item.folded.indexOf(query) !== -1; });
         refs.count.textContent = matches.length + (matches.length === 1 ? ' rezultat' : ' rezultate');
         refs.results.textContent = '';
         if (!matches.length) {
@@ -499,7 +535,7 @@
   window.addEventListener('resize', setStickyTop);
 
 
-  function renderChapter(c) {
+  function renderChapter(c, restoreScrollY) {
     activeChapterId = c.id;
     var main = document.getElementById('content');
     main.textContent = '';
@@ -507,9 +543,12 @@
     var searchBar = buildSearchBar();
     main.appendChild(searchBar);
     var sections = [];
+    var sectionsByIndex = {};
 
     c.questions.forEach(function (q, index) {
+      if (!questionBelongsToExam(q, activeExam)) return;
       var section = el('section', 'question');
+      section.setAttribute('data-question-index', String(index));
       var h2 = el('h2', 'question-title');
       h2.appendChild(el('span', 'question-number', String(index + 1)));
       // Codul (ex. "698: ") nu se mai afișează
@@ -570,6 +609,7 @@
       explain.appendChild(more('Explicație detaliată', q.long, 'question-more'));
       section.appendChild(explain);
       sections.push(section);
+      sectionsByIndex[index] = section;
       main.appendChild(section);
     });
     initSearch(searchBar, c.questions);
@@ -577,10 +617,10 @@
     if (pendingSearchResult && pendingSearchResult.chapterId === c.id) {
       var pending = pendingSearchResult;
       pendingSearchResult = null;
-      targetAfterRender = sections[pending.index];
+      targetAfterRender = sectionsByIndex[pending.index];
       if (targetAfterRender) targetAfterRender.classList.add('search-hit');
     }
-    window.scrollTo(0, 0);
+    window.scrollTo(0, typeof restoreScrollY === 'number' ? restoreScrollY : 0);
     if (targetAfterRender) {
       requestAnimationFrame(function () {
         setStickyTop();

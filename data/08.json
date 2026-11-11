@@ -4,6 +4,7 @@
  "questions": [
   {
    "number": "#1",
+   "exams": ["deva"],
    "text": "502: Una dintre cele mai importante verificări înainte de pornirea paramotului în siguranță este:",
    "short": "Înainte de pornire verifici ca legătura manetei de accelerație cu comanda carburatorului să permită revenirea la relanti.",
    "long": "Înainte de pornire, verifică și eliberează comanda accelerației: maneta trebuie să se miște fără agățare și să readucă motorul la ralanti. Dacă legătura rămâne tensionată, motorul poate continua să tragă când vrei să reduci puterea. Manualul motorului precizează verificarea exactă.",
@@ -40,6 +41,7 @@
   },
   {
    "number": "#2",
+   "exams": ["deva"],
    "text": "575: Ce măsuri de siguranță trebuie să iei înainte de un zbor cross country?",
    "short": "Înainte de un zbor cross-country informezi pe cineva despre zbor și iei cu tine un telefon sau un dispozitiv de localizare prin satelit.",
    "long": "Briefingul cross-country include vremea, NOTAM-urile, ruta, alternativele și planul pentru o aterizare neplanificată. Anunță o persoană de încredere despre traseu și ora de sosire și ia un telefon ori un dispozitiv de localizare funcțional. Manualul de Navigație, p. 122, include aspectele SAR în pregătirea zborului.",
@@ -76,6 +78,7 @@
   },
   {
    "number": "#3",
+   "exams": ["deva"],
    "text": "513: Ce trebuie să faci dacă aripa începe să oscileze stanga-dreapta față de direcția înainte în timpul decolării?",
    "short": "Dacă aripa începe să oscileze stânga-dreapta în timpul decolării, reduci viteza și corectezi direcția.",
    "long": "Dacă aripa oscilează lateral în alergarea de decolare, nu continua cu aripa instabilă. Redu accelerația, ține direcția și stabilizează aripa; dacă nu revine sub control, întrerupe tentativa și reia pregătirea după ce ai identificat cauza. Corecțiile bruște pot amplifica oscilația.",
@@ -112,6 +115,7 @@
   },
   {
    "number": "#4",
+   "exams": ["deva"],
    "text": "473: Suntem începători și suntem invitați la un eveniment de zbor unde sunt mai multi piloți și invitați, cum vom proceda pentru și după decolare:",
    "short": "La un eveniment cu mai mulți piloți, alegi un loc de decolare sigur, departe de mulțime, și după decolare te îndepărtezi de locul de decolare.",
    "long": "Separă culoarul de decolare de public și de ceilalți piloți. După desprindere, îndepărtează-te de zona de start ca să rămână liberă pentru următoarea aeronavă. Manualul de Proceduri Operaționale, p. 18, cere operarea astfel încât să fie protejate persoanele și bunurile.",
@@ -148,6 +152,7 @@
   },
   {
    "number": "#5",
+   "exams": ["deva"],
    "text": "531: Ce se întâmplă în cazul unei închideri asimetrice mari?",
    "short": "O închidere asimetrică mare poate provoca o înclinare violentă și o întoarcere în afundare spre partea închisă.",
    "long": "O închidere asimetrică mare reduce portanța pe o parte, în timp ce cealaltă parte continuă să zboare. Diferența produce ruliu și girație spre partea închisă și poate evolua într-o spirală cu pierdere rapidă de înălțime. Menține controlul și folosește numai corecțiile exersate pentru aripa respectivă.",
@@ -184,6 +189,7 @@
   },
   {
    "number": "#6",
+   "exams": ["deva"],
    "text": "493: Este necesară calcularea masei totale înainte de decolare?",
    "short": "Da, masa totală trebuie calculată înainte de decolare și comparată cu masa maximă din manualul de utilizare.",
    "long": "Calculează masa totală înainte de decolare și compar-o cu limitele din manual: pilot, echipament, motor, combustibil și bagaje. Verifică și centrajul. Manualul de Proceduri Operaționale, p. 16, atribuie pilotului comandant responsabilitatea pentru masă și centraj, conform manualului aeronavei.",
@@ -220,6 +226,7 @@
   },
   {
    "number": "#7",
+   "exams": ["deva"],
    "text": "510: Care este procedura corectă pentru a verifica motorul înainte de decolare?",
    "short": "Înainte de a verifica motorul, te asiguri că zona de pe sol este liberă de obiecte care ar putea fi aspirate în elice.",
    "long": "Înainte de pornire, verifică zona din jurul elicei și îndepărtează persoane, pietre și crengi. Elicea poate lovi pe cineva sau poate proiecta obiecte imediat ce motorul pornește. Pregătirea înainte de zbor trebuie făcută metodic, nu printr-o privire rapidă.",
@@ -256,6 +263,7 @@
   },
   {
    "number": "#8",
+   "exams": ["deva"],
    "text": "517: De ce este important să te antrenezi să simți unde este aripa fără să te uiți în sus?",
    "short": "Te antrenezi să simți unde este aripa fără să te uiți în sus, pentru a putea decola din locuri înguste fără a rata decolarea.",
    "long": "Exercițiul dezvoltă simțul poziției aripii prin tensiunea suspantelor și reacția comenzilor. Privitul în sus încontinuu îți ia atenția de la direcția alergării și obstacole; ține aripa sub control și privește înainte. Deprinderea se formează la sol, cu instructorul.",
@@ -292,6 +300,7 @@
   },
   {
    "number": "#9",
+   "exams": ["deva"],
    "text": "478: Sunteți la aerodrom și aveți aprobare pentru decolare cu motoparapanta dumneavoastră. Cum veți executa virajul după decolare și cele pentru aterizare dacă nu este prevăzut sau nu se solicită altfel?",
    "short": "După decolare, dacă nu se solicită altfel, virezi spre stânga.",
    "long": "Circuitul standard are viraje la stânga dacă nu există o procedură publicată ori o instrucțiune diferită. Aprobarea de decolare nu înlocuiește regulile circuitului și instrucțiunile aerodromului. Reglementările Aeronautice, p. 182, redau regula virajelor la stânga după decolare și la apropiere.",
@@ -328,6 +337,7 @@
   },
   {
    "number": "#10",
+   "exams": ["deva"],
    "text": "572: Ce efect are oboseala asupra capacității unui pilot de a controla paramotorul?",
    "short": "Oboseala scade timpul de reacție și precizia, crescând riscul de accidente.",
    "long": "Oboseala afectează atenția, judecata și viteza reacției: poți observa târziu o schimbare de vânt, interpreta greșit situația sau întârzia o comandă. Manualul de Performanțe și Limite Umane, p. 71, descrie scăderea capacității de lucru și efectele asupra comportamentului.",
@@ -364,6 +374,7 @@
   },
   {
    "number": "#11",
+   "exams": ["deva"],
    "text": "468: Zburam la 3m deasupra unui lac într-o seară liniștită la apus; vom evita:",
    "short": "Zburând la 3 m deasupra unui lac seara, evităm să zburăm sub 150 m față de sol sau apă, deoarece este interzis.",
    "long": "Scenariul folosește limita minimă de înălțime de 150 m deasupra solului sau apei, în afara zborului necesar pentru decolare și aterizare. La numai 3 m peste lac nu există marjă pentru a evita o persoană, o ambarcațiune sau o avarie; apa nu face zborul la joasă înălțime mai sigur.",
@@ -400,6 +411,7 @@
   },
   {
    "number": "#12",
+   "exams": ["deva"],
    "text": "505: Care este primul pas recomandat înainte de o aterizare inevitabilă în apă?",
    "short": "Înainte de o aterizare inevitabilă în apă, primul pas este dezlegarea chingilor de la picioare, piept și rezervă.",
    "long": "Pentru motoparapantă, eliberarea chingilor indicate în procedura de amerizare urmărește ieșirea rapidă din ham după contact, nu săritul înainte de impact. Manualul de Proceduri Operaționale, pp. 77–78, cere contact blând și părăsirea rapidă a aeronavei, care poate pluti doar câteva minute. Exersează ordinea exactă pentru hamul tău cu instructorul.",
@@ -436,6 +448,7 @@
   },
   {
    "number": "#13",
+   "exams": ["deva"],
    "text": "530: Ce este un full stall și cum poate fi recuperat?",
    "short": "Un full stall este o manevră extremă în care pilotul trage destul de mult de frâne pentru a deforma aripa, iar recuperarea se face prin eliberarea graduală și uniformă a frânelor.",
    "long": "În full stall, frânarea profundă duce aripa dincolo de zborul normal și îi reduce puternic portanța. Recuperarea se face prin eliberarea uniformă și graduală a frânelor, potrivit tehnicii pentru aripa folosită; eliberarea bruscă poate produce un avans violent. Nu exersa fără instructor și înălțime suficientă.",
@@ -472,6 +485,7 @@
   },
   {
    "number": "#14",
+   "exams": ["deva"],
    "text": "581: Care este regula de prioritate în cazul în care o aeronavă motorizată și una nemotorizată se apropie una de alta?",
    "short": "Dacă o aeronavă motorizată se apropie de una nemotorizată, aeronava motorizată cedează trecerea.",
    "long": "Când o aeronavă motorizată și una nemotorizată se apropie cu risc de coliziune, aeronava motorizată cedează. Reglementările Aeronautice, pp. 179–180, stabilesc ierarhia priorităților; aeronava obligată să cedeze trebuie să se îndepărteze clar. Prioritatea nu elimină obligația de evitare a coliziunii.",
@@ -508,6 +522,7 @@
   },
   {
    "number": "#15",
+   "exams": ["deva"],
    "text": "471: La 10 metri înălțime după decolare ni se oprește motorul, ce este recomandat să facem în acest caz?",
    "short": "Dacă motorul se oprește la 10 m după decolare, asiguri viteza de planare și aterizezi înainte.",
    "long": "La numai 10 m, nu există spațiu pentru o întoarcere sigură. Menține viteza de planare și aterizează înainte, în sectorul disponibil. Procedura AM1 din Manualul de Proceduri Operaționale, p. 75, distinge oprirea motorului la decolare după distanța rămasă pentru aterizare.",
@@ -544,6 +559,7 @@
   },
   {
    "number": "#16",
+   "exams": ["deva"],
    "text": "487: În ce perioada a zilei este recomandat zborul cu paramotorul, pentru ca atmosfera să fie cât mai calmă:",
    "short": "Zborul cu paramotorul este recomandat dimineața și seara, când atmosfera este mai calmă.",
    "long": "Dimineața devreme și seara, încălzirea solului este de obicei mai slabă decât la mijlocul zilei, astfel că se formează mai puține termice puternice. Asta nu garantează calm: verifică vântul local, rafalele, gradientul și obstacolele înainte de zbor.",
@@ -580,6 +596,7 @@
   },
   {
    "number": "#17",
+   "exams": ["deva"],
    "text": "550: Care este primul criteriu de verificat înainte de a alege un loc de decolare?",
    "short": "Primul criteriu înainte de a alege un loc de decolare este asigurarea că te afli într-un spațiu aerian legal.",
    "long": "Înainte să alegi terenul, verifică dacă spațiul aerian permite zborul la locul, ora și înălțimea planificate. Consultă harta și informațiile aeronautice pentru zone interzise, restricționate sau periculoase; apoi evaluează vântul, obstacolele și aterizările posibile.",
@@ -616,6 +633,7 @@
   },
   {
    "number": "#18",
+   "exams": ["deva"],
    "text": "504: Mentiunea CAVOK în METAR presupune în mod obligatoriu:",
    "short": "Mențiunea CAVOK în METAR nu presupune restricții speciale în acest caz.",
    "long": "CAVOK este un grup meteo: vizibilitate de cel puțin 10 km, lipsa norilor semnificativi sub altitudinea stabilită și absența fenomenelor importante. Nu este o aprobare de zbor și nu înlătură restricțiile aeriene. Manualul de Meteorologie, p. 129, explică decodificarea METAR.",
@@ -652,6 +670,7 @@
   },
   {
    "number": "#19",
+   "exams": ["deva"],
    "text": "535: Care este principala metodă de recuperare dintr-o închidere frontală?",
    "short": "Pentru a recupera dintr-o închidere frontală eliberezi accelerația și tragi puțin frânele, ca să nu te depășească aripa când își revine.",
    "long": "La închiderea frontală, eliberează accelerația și frânează scurt și simetric numai cât trebuie pentru a limita avansul aripii la redeschidere. Menținerea accelerației sau frânarea excesivă poate prelungi închiderea ori provoca pierderea din nou a portanței. Aplică procedura aripii tale.",
@@ -688,6 +707,7 @@
   },
   {
    "number": "#20",
+   "exams": ["deva"],
    "text": "506: De ce nu este recomandat să sari înainte de atingerea apei în cazul unei aterizări forțate?",
    "short": "Nu sări înainte de atingerea apei, pentru că este greu de estimat înălțimea deasupra apei.",
    "long": "Deasupra apei, ochiul apreciază greșit înălțimea fiindcă lipsește textura terenului. Manualul de Proceduri Operaționale, p. 78, avertizează explicit asupra acestei iluzii și cere contact lin, apoi părăsirea rapidă a aeronavei. Săritul înainte poate transforma o înălțime aparent mică într-un impact periculos.",
@@ -724,6 +744,7 @@
   },
   {
    "number": "#21",
+   "exams": ["deva"],
    "text": "520: Care este scopul principal al „flare-ului” în timpul aterizării?",
    "short": "Scopul flare-ului în aterizare este să facă corpul să se balanseze înainte, reducând viteza de coborâre și de înaintare.",
    "long": "Flare-ul este frânarea simetrică aplicată aproape de sol: crește temporar rezistența și reduce viteza înainte și rata de coborâre pentru contact. Mișcarea corpului înainte este o consecință a decelerării, nu scopul unic. Momentul și amplitudinea depind de vânt și de aripă.",
@@ -760,6 +781,7 @@
   },
   {
    "number": "#22",
+   "exams": ["deva"],
    "text": "466: Cum se decoleaza cu vânt de spate cu viteza mai mare de 20 km/h?",
    "short": "Nu este recomandată decolarea cu vânt de spate peste 20 km/h, iar la această viteză este puțin probabil să poți decola.",
    "long": "Cu vânt din spate, trebuie să atingi o viteză mai mare față de sol pentru aceeași viteză față de aer, iar distanța de accelerare crește. Peste pragul menționat, marja de siguranță scade puternic; așteaptă vânt potrivit sau schimbă direcția de decolare.",
@@ -797,6 +819,7 @@
   },
   {
    "number": "#23",
+   "exams": ["deva"],
    "text": "514: Cum trebuie să abordezi decolarea în condiții de vânt slab sau inexistent?",
    "short": "În vânt slab sau inexistent, menții suspantele tensionate și alergi pentru a câștiga viteză.",
    "long": "Fără vânt, aripa nu primește viteză relativă din atmosferă. Ține suspantele întinse și aleargă progresiv pentru gonflaj și portanță; verifică simetria aripii înainte să crești puterea. Întrerupe tentativa dacă aripa nu se ridică stabil.",
@@ -833,6 +856,7 @@
   },
   {
    "number": "#24",
+   "exams": ["deva"],
    "text": "573: Care este un semn comun al oboselii pe care un pilot trebuie să-l recunoască?",
    "short": "Un semn comun al oboselii este senzația de somnolență sau lipsa de concentrare.",
    "long": "Somnolența și lipsa concentrării arată că oboseala afectează deja pilotul. Scad atenția și capacitatea de decizie, iar reacția la vânt sau la o defecțiune poate întârzia. Manualul de Performanțe și Limite Umane, p. 71, descrie aceste efecte asupra capacității de lucru.",
@@ -869,6 +893,7 @@
   },
   {
    "number": "#25",
+   "exams": ["deva"],
    "text": "560: Ce metodă este considerată cea mai puțin dezirabilă pentru a porni un motor nesecurizat?",
    "short": "Cea mai puțin dezirabilă metodă de pornire a unui motor nesecurizat este să îl pornești stând în fața lui.",
    "long": "Pornirea unui motor nesecurizat stând în fața elicei este periculoasă: elicea se poate mișca neașteptat, iar pilotul se află în planul ei. Folosește poziția și metoda din manual, asigură motorul și păstrează raza elicei liberă.",
@@ -905,6 +930,7 @@
   },
   {
    "number": "#26",
+   "exams": ["deva"],
    "text": "497: Sunteți în luna iunie și doriți să efectuați un zbor cu motoparapanta. Dacă doriți să decolați la ora 18:00 local la ce oră cel mai târziu UTC trebuie să depuneți planul de zbor?",
    "short": "Dacă vrei să decolezi la 18:00 ora locală, în iunie, planul de zbor se depune cel mai târziu la 14:00 UTC.",
    "long": "În iunie, ora României este UTC+3: 18:00 local înseamnă 15:00 UTC. Dacă pentru acest zbor se cere depunerea cu cel puțin 60 de minute înainte, termenul este 14:00 UTC. Verifică cerința aplicabilă tipului de zbor, deoarece termenele depind de rută și de serviciul solicitat.",
@@ -941,6 +967,7 @@
   },
   {
    "number": "#27",
+   "exams": ["deva"],
    "text": "481: Când este o problemă oprirea motorului în zbor:",
    "short": "Oprirea motorului în zbor este o problemă doar atunci când nu mai poți ajunge la un loc unde poți ateriza în siguranță.",
    "long": "Oprirea motorului este o urgență, dar aeronava rămâne controlabilă dacă pilotul menține viteza de planare și ajunge la un teren utilizabil. Procedura AM3 din Manualul de Proceduri Operaționale, p. 76, cere planare și alegerea primului teren posibil. Răspunsul se referă la momentul în care nu mai există o aterizare sigură la îndemână.",
@@ -977,6 +1004,7 @@
   },
   {
    "number": "#28",
+   "exams": ["deva"],
    "text": "566: De ce este important să respecți intervalul de greutate recomandat pentru o aripă de parapantă?",
    "short": "Respectarea intervalului de greutate recomandat pentru aripă asigură performanța optimă și siguranța în zbor.",
    "long": "Intervalul de masă este limita pentru care aripa a fost proiectată și testată. În afara lui se schimbă viteza, rata de coborâre și reacția la turbulență; depășirea poate reduce marja structurală. Respectă masa totală și intervalul înscris pentru mărimea aripii.",
@@ -1013,6 +1041,7 @@
   },
   {
    "number": "#29",
+   "exams": ["deva"],
    "text": "557: Care sunt semnele care indică prezența turbulențelor mecanice?",
    "short": "Turbulențele mecanice sunt indicate de norii de praf, de devierea fumului și de modificările bruște ale vântului.",
    "long": "Praful, fumul și vegetația deviată fac vizibilă direcția și variația vântului. Când curentul întâlnește copaci, clădiri sau relief, se formează vârtejuri și rafale în aval; schimbările bruște sunt avertisment de turbulență mecanică. Manualul de Meteorologie, p. 98, tratează efectul obstacolelor asupra vântului.",
@@ -1049,6 +1078,7 @@
   },
   {
    "number": "#30",
+   "exams": ["deva"],
    "text": "492: Pornirea motorului se poate efectua:",
    "short": "Pornirea motorului se poate face în spatele pilotului, în aer liber, cu elicea liberă.",
    "long": "Pornește motorul numai în aer liber, cu cadrul controlat și elicea într-o zonă liberă. Configurația din răspuns este pentru paramotorul tip rucsac; nimeni nu trebuie să stea în planul elicei. Urmează secvența de pornire a motorului și nu accelera până când aparatul este asigurat.",
@@ -1085,6 +1115,7 @@
   },
   {
    "number": "#31",
+   "exams": ["deva"],
    "text": "486: Care este înălțimea maximă până la care puteți zbura la verticala unui aerodrom situat la cota de 1300 m și în spațiu aerian de clasa G?",
    "short": "Dacă zbori la verticala unui aerodrom situat la 1300 m, în spațiu de clasa G, varianta corectă indică înălțimea maximă de 1900 m.",
    "long": "Valoarea din răspuns este calculul 1.300 m + 600 m = 1.900 m, folosind limita de înălțime presupusă de întrebare. Nu considera 1.900 m plafon universal al clasei G: obstacolele, altitudinile minime și spațiul suprapus pot impune alte limite.",
@@ -1121,6 +1152,7 @@
   },
   {
    "number": "#32",
+   "exams": ["deva"],
    "text": "536: Ce este un stall și cum poate fi provocat?",
    "short": "Un stall apare când unghiul de atac crește atât de mult încât fluxul de aer de pe aripă se separă, provocat de frânare excesivă sau de rafale de vânt.",
    "long": "Stall-ul apare când unghiul de atac trece de valoarea critică și curgerea se desprinde de pe aripă; portanța scade și aeronava pierde înălțime. Frânarea excesivă poate mări unghiul de atac, iar o rafală îl poate schimba brusc. Manualul de Meteorologie, p. 92, descrie relația dintre unghiul de atac și desprinderea curgerii.",
@@ -1157,6 +1189,7 @@
   },
   {
    "number": "#33",
+   "exams": ["deva"],
    "text": "525: Cum trebuie să abordezi aterizarea în condiții de vânt ușor?",
    "short": "În vânt ușor, folosești trimmerele în setarea lentă și aplici o presiune ușoară pe frâne la aterizare.",
    "long": "În vânt ușor, trimmerele în setarea lentă și presiunea ușoară pe frâne ajută la controlul vitezei și la apropierea stabilă. Frânarea trebuie să fie dozată și simetrică: tragerea profundă poate apropia aripa de stall. Setările exacte sunt cele din manualul aripii.",
@@ -1193,6 +1226,7 @@
   },
   {
    "number": "#34",
+   "exams": ["deva"],
    "text": "489: Pilotarea cu ajutorul chingilor spate:",
    "short": "Pilotarea cu ajutorul chingilor spate permite redresarea în cazul ruperii unei comenzi.",
    "long": "Dacă se rupe o comandă, chingile spate pot oferi control alternativ; întrebarea indică rândul D. Folosește corecții mici, evită manevrele abrupte și aterizează cât mai curând. Tehnica exactă depinde de construcția aripii și trebuie exersată cu instructorul.",
@@ -1229,6 +1263,7 @@
   },
   {
    "number": "#35",
+   "exams": ["deva"],
    "text": "500: În zbor, o aeronavă ajunge în dreapta dv. pe o rută convergentă:",
    "short": "Dacă o aeronavă vine în dreapta ta pe o rută convergentă, tu trebuie să cedezi prioritatea.",
    "long": "Dacă cealaltă aeronavă se află în dreapta ta pe o traiectorie convergentă, tu cedezi trecerea și eviți să-i tai drumul. Reglementările Aeronautice, p. 179, cer aeronavei cu prioritate să-și mențină capul și viteza când situația permite.",
@@ -1265,6 +1300,7 @@
   },
   {
    "number": "#36",
+   "exams": ["deva"],
    "text": "561: Ce este recomandat să faci cu motorul după ce a rulat la relanti pentru câteva minute?",
    "short": "După ce motorul a rulat la relanti câteva minute, îl accelerezi la 50% putere pentru aproximativ 10 secunde, pentru a curăța motorul.",
    "long": "Turarea scurtă după ralanti poate curăța depunerile de pe bujii, însă procentul și durata nu sunt universale. Aplică valorile din manualul motorului, cu elicea orientată într-o zonă liberă. Dacă motorul funcționează neregulat, verifică și remediază cauza în loc să repeți turarea.",
@@ -1301,6 +1337,7 @@
   },
   {
    "number": "#37",
+   "exams": ["deva"],
    "text": "479: Decolarea cu motoparapanta tip rucsac se execută:",
    "short": "Decolarea cu motoparapanta tip rucsac se execută cu alergare accelerată progresiv.",
    "long": "La decolarea tip rucsac, accelerează progresiv în timp ce menții suspantele tensionate și verifici aripa. Puterea adăugată brusc înainte de stabilizarea cupolei poate trage pilotul sau produce desprindere necontrolată. Oprește tentativa dacă aripa nu se ridică simetric.",
@@ -1337,6 +1374,7 @@
   },
   {
    "number": "#38",
+   "exams": ["deva"],
    "text": "569: Care este procedura corectă de pregătire pentru aruncarea parașutei de salvare?",
    "short": "Procedura de aruncare a parașutei de salvare este: oprește motorul, privește, trage, asigură și aruncă.",
    "long": "Mnemonic-ul are cinci pași: Kill (oprește motorul), Look (localizează mânerul), Pull (trage), Clear (degajează parașuta de aripa principală și suspante), Throw (aruncă ferm în curentul de aer). Ordinea limitează riscul ca rezerva să rămână prinsă de aripa principală. Exersează cu instructorul și echipamentul tău.",
@@ -1373,6 +1411,7 @@
   },
   {
    "number": "#39",
+   "exams": ["deva"],
    "text": "526: Ce trebuie să faci dacă aterizezi într-un loc îngust și obstrucționat?",
    "short": "Dacă aterizezi într-un loc îngust și obstrucționat, eviți frânarea extremă și planifici coborârea urmărind conturul obstacolelor.",
    "long": "Într-un loc îngust și obstrucționat, planifică o traiectorie de apropiere cu ieșire și păstrează distanța față de obstacole. Evită frânarea extremă, care poate reduce portanța și mări rata de coborâre. «Urmărirea conturului» nu înseamnă să zbori lipit de obstacole; abandonează aterizarea dacă nu există marjă sigură.",
@@ -1409,6 +1448,7 @@
   },
   {
    "number": "#40",
+   "exams": ["deva"],
    "text": "491: Cum se compensează ruperea comenzii direcției?",
    "short": "Ruperea comenzii direcției se compensează cu ajutorul ultimului rând de suspante, D.",
    "long": "Rândul D poate fi folosit ca mijloc de control de rezervă după ruperea comenzii, pentru a păstra direcția până la aterizare. Aplică mișcări blânde și aterizează prompt. Manualul de Proceduri Operaționale, p. 88, descrie separat un planor cu cablu de direcție rupt; acea procedură nu trebuie confundată cu tehnica parapantei.",
@@ -1445,6 +1485,7 @@
   },
   {
    "number": "#41",
+   "exams": ["deva"],
    "text": "472: Urmează sa efectuăm un viraj în zbor și avem în jur mai multe aeronave, cum vom proceda:",
    "short": "Înainte de un viraj te uiți în direcția în care vrei să virezi, te asiguri că nu sunt alte aeronave și abia apoi execuți manevra.",
    "long": "Înainte de viraj, privește în direcția în care vei vira și verifică spațiul de sub aripă și din jurul aeronavei. Ceilalți piloți pot schimba direcția sau viteza fără să te observe; faptul că îi cunoști nu înlocuiește supravegherea traficului. Execută virajul numai când ai confirmat că traiectoria este liberă.",
@@ -1481,6 +1522,7 @@
   },
   {
    "number": "#42",
+   "exams": ["deva"],
    "text": "565: Ce se întâmplă dacă zbori cu o aripă supraîncărcată?",
    "short": "Dacă zbori cu o aripă supraîncărcată, aceasta devine mai dinamică și mai reactivă, are o rată de urcare mai scăzută și reacționează mai violent la colaps.",
    "long": "Supraîncărcarea înseamnă că greutatea totală în zbor depășește intervalul admis pentru aripă. Încărcarea mai mare poate crește viteza și energia mișcărilor, iar o închidere poate deveni mai bruscă și mai greu de gestionat; performanțele de urcare se pot înrăutăți. Limitele și comportamentul exact se verifică în manualul aripii.",
@@ -1517,6 +1559,7 @@
   },
   {
    "number": "#43",
+   "exams": ["deva"],
    "text": "476: În cazul înrăutățirii condițiilor meteorologice pe traiect (ceață, ploaie, vânt, etc.):",
    "short": "Dacă meteo se înrăutățește pe traiect, ocolești zona periculoasă, te îndrepți spre zone mai sigure și aterizezi pe aerodromul cel mai apropiat.",
    "long": "Ceața, precipitațiile și vântul puternic pot reduce vizibilitatea, controlul și posibilitatea de a ajunge la un loc sigur. Nu urca automat ca să treci peste vreme: sus pot fi nori, vânt mai tare sau turbulență. Ocolește zona dacă există o rută sigură; altfel alege din timp un loc potrivit și aterizează înainte ca situația să-ți depășească posibilitățile.",
@@ -1553,6 +1596,7 @@
   },
   {
    "number": "#44",
+   "exams": ["deva"],
    "text": "533: Ce ar trebui să faci în cazul unui spin?",
    "short": "Într-un spin reduci imediat puterea și frânele și te pregătești să atenuezi balansul.",
    "long": "Un spin este o rotație descendentă asociată cu o aripă aflată într-o stare de angajare asimetrică. Termenul și procedura diferă între parapante și avioane; răspunsul din bancă descrie o reacție generală, nu o rețetă universală. La o parapantă, urmează procedura de recuperare a aripii, fără comenzi bruște, și instruirea primită pentru modelul respectiv.",
@@ -1589,6 +1633,7 @@
   },
   {
    "number": "#45",
+   "exams": ["deva"],
    "text": "485: În zbor, va trebui să evitați o aeronavă, dvs. efectuați:",
    "short": "Dacă trebuie să eviți o aeronavă, efectuezi un viraj la dreapta.",
    "long": "Regulile de evitare cer aeronavei care cedează prioritatea să facă o manevră clară și, când este practic, să evite trecerea prin fața celeilalte. Pentru situația de apropiere frontală, regula generală este schimbarea direcției spre dreapta. Păstrează în același timp supravegherea vizuală și evită manevrele contradictorii.",
@@ -1625,6 +1670,7 @@
   },
   {
    "number": "#46",
+   "exams": ["deva"],
    "text": "465: Cum se execută atingerea apei în situația unei amerizări?",
    "short": "La amerizare, aterizezi cu chingile desfăcute și cu viteza cât mai mică.",
    "long": "Nu desface chingile înainte de contactul cu apa: hamul te ține atașat de echipament și te ajută să-ți păstrezi poziția până la atingere. Pregătește-te pentru impact conform procedurii de amerizare și eliberează-te imediat după contact, cât timp poți acționa conștient. Documentul Aeroclubului despre amerizare descrie proceduri pentru avion; acestea nu trebuie transferate automat la hamul unei motoparapante.",
@@ -1661,6 +1707,7 @@
   },
   {
    "number": "#47",
+   "exams": ["deva"],
    "text": "469: În cazul în care producătorul parapantei cu motor recomandă o anumită procedură de pornire a aparatului, dar noi avem de efectuat mai multe porniri consecutive în cadrul unor reglaje și nu putem respecta procedura, putem să:",
    "short": "Dacă producătorul recomandă o procedură de pornire, nu poți efectua proceduri care nu sunt în manualul de operare al aeronavei.",
    "long": "Procedura producătorului ține cont de configurația concretă a motorului, elicei, cadrului și protecției din jurul elicei. Pornirile repetate pentru reglaj nu justifică improvizarea unei metode diferite; solicită personal calificat și urmează instrucțiunile aprobate. Manualul operațional cere respectarea limitelor și procedurilor aplicabile aeronavei.",
@@ -1697,6 +1744,7 @@
   },
   {
    "number": "#48",
+   "exams": ["deva"],
    "text": "528: Care este primul pas în pregătirea pentru o aterizare de urgență?",
    "short": "Primul pas în pregătirea unei aterizări de urgență este verificarea direcției vântului și alegerea unui loc sigur.",
    "long": "Într-o urgență, primul lucru este să păstrezi controlul și să alegi terenul, ținând cont de vânt, pantă, suprafață, obstacole și lungimea disponibilă. Manualul de Proceduri Operaționale recomandă recunoașterea terenului și o apropiere controlată; pentru motoparapantă, aplică și procedura specifică a echipamentului. Nu trage complet de frâne fără să știi că aripa poate susține zborul în acea configurație.",
@@ -1733,6 +1781,7 @@
   },
   {
    "number": "#49",
+   "exams": ["deva"],
    "text": "543: Care sunt complicațiile posibile ale unui full stall?",
    "short": "Complicațiile posibile ale unui full stall sunt că poți fi învăluit în aripă, iar căderea poate fi violentă.",
    "long": "La full stall, aripa pierde portanța pe o suprafață mare și poate cădea în spatele pilotului, se poate roti sau se poate înfășura în suspante. Revenirea poate produce o accelerare și un pendul puternic, deci există risc de impact violent sau de coliziune cu aripa. Nu provoca manevra aproape de sol și folosește numai procedura învățată pentru aripa ta.",
@@ -1769,6 +1818,7 @@
   },
   {
    "number": "#50",
+   "exams": ["deva"],
    "text": "507: Ce trebuie să faci imediat după ce atingi apa într-o aterizare de urgență?",
    "short": "După ce atingi apa într-o aterizare de urgență, iei o gură mare de aer și ieși imediat din echipament.",
    "long": "După ce atingi apa, ieși imediat din ham și îndepărtează-te de motor, elice și suspante, fără să pierzi timp încercând să repornești. Chingile și hainele ude pot îngreuna înotul, iar aeronava se poate scufunda sau te poate trage sub apă. Procedura de amerizare din manual cere evacuare rapidă după contact.",
@@ -1805,6 +1855,7 @@
   },
   {
    "number": "#51",
+   "exams": ["deva"],
    "text": "474: Doriți sa zburați VFR în spațiul aerian de clasă G, din punctul A în punctul B la șes. Vizibilitatea este peste 8 km, plafon la 400 m. Cum procedați?",
    "short": "Dacă vizibilitatea este peste 8 km, dar plafonul este la 400 m, în spațiul G nu zbori.",
    "long": "În clasa G, vizibilitatea și distanța față de nori trebuie să respecte minimele VFR aplicabile categoriei de spațiu, altitudinii și tipului de operațiune. Valorile din enunț nu înseamnă automat că zborul este permis: un plafon de 400 m poate să nu lase suficient spațiu pentru menținerea distanței cerute față de nori și pentru zborul legal. Verifică regulile actuale și limitele aeronavei înainte de plecare.",
@@ -1841,6 +1892,7 @@
   },
   {
    "number": "#52",
+   "exams": ["deva"],
    "text": "551: De ce este recomandat să se evite zonele împădurite și mlăștinoase pentru decolare?",
    "short": "Zonele împădurite și mlăștinoase se evită la decolare, pentru că trebuie să menții o opțiune de aterizare de urgență.",
    "long": "Un teren împădurit sau mlăștinos oferă puține locuri unde poți ateriza fără să lovești copaci, apă ori vegetație. În cazul unei opriri de motor sau al unei schimbări de vreme, ai nevoie de o alternativă accesibilă și suficient de liberă. Alege ruta astfel încât să păstrezi opțiuni reale de aterizare, nu doar să speri că motorul va funcționa.",
@@ -1877,6 +1929,7 @@
   },
   {
    "number": "#53",
+   "exams": ["deva"],
    "text": "508: În cazul în care vântul este mai slab de 10 km/h, cum este recomandat să aterizezi în apă?",
    "short": "Dacă vântul este mai slab de 10 km/h și vrei să aterizezi în apă, aterizezi cu vânt din spate, astfel încât aripa să intre în apă cu marginea de atac.",
    "long": "Acesta este un răspuns specific tehnicii de amerizare predate pentru această motoparapantă: când vântul este slab, se urmărește ca aripa să ajungă în apă cu marginea de atac înainte, departe de pilot. Direcția și configurația trebuie stabilite din procedura echipamentului și din condițiile de la fața locului; manualul de amerizare pentru avioane recomandă alte repere și nu validează automat această tehnică pentru parapantă.",
@@ -1913,6 +1966,7 @@
   },
   {
    "number": "#54",
+   "exams": ["deva"],
    "text": "477: Prevenirea apariției unei pene de motor:",
    "short": "Prevenirea penei de motor se face prin întreținerea regulată a aeronavei și prin pregătirea și verificarea sistematică a acesteia.",
    "long": "O pană de motor nu poate fi exclusă complet, dar verificările înainte de zbor și întreținerea la intervale prevăzute reduc probabilitatea ei. Se controlează motorul, alimentarea, comenzile, prinderile și elicea conform listei și manualelor; se folosesc combustibilul și lubrifianții ceruți de producător. O verificare făcută doar înainte de decolare nu înlocuiește întreținerea periodică.",
@@ -1949,6 +2003,7 @@
   },
   {
    "number": "#55",
+   "exams": ["deva"],
    "text": "490: Pentru ca pornirea paramotorului să se facă în siguranță, se recomandă a se face:",
    "short": "Pentru ca pornirea paramotorului să fie sigură, se pornește pe spate, echipat cel puțin cu cască.",
    "long": "Pornirea pe spate cu cască este configurația indicată de item pentru această motoparapantă: pilotul este echipat, iar cadrul și elicea sunt sprijinite și orientate conform procedurii. Totuși, pornirea se face numai într-o zonă liberă, cu protecția elicei montată și cu ajutorul unei persoane dacă manualul o cere. Nu porni motorul dacă există oameni, obiecte sau suspante în planul elicei.",
@@ -1985,6 +2040,7 @@
   },
   {
    "number": "#56",
+   "exams": ["deva"],
    "text": "498: . Nu ați reușit să decolați în maxim 30 de minute față de ora decolării din planul de zbor depus. În acest caz, aveți obligația să:",
    "short": "Dacă nu reușești să decolezi în maximum 30 de minute față de ora din planul de zbor, ceri un DELAY la briefing.",
    "long": "Dacă ora efectivă a decolării se abate peste pragul din regulile aplicabile de la ora din planul de zbor, întârzierea trebuie transmisă serviciului/structurii care gestionează planul, folosind procedura locală de briefing. „DELAY” este mesajul de întârziere din item. Verifică instrucțiunile curente ale aerodromului, deoarece persoana de contact și forma raportării pot depinde de loc și de serviciile active.",
@@ -2021,6 +2077,7 @@
   },
   {
    "number": "#57",
+   "exams": ["deva"],
    "text": "549: Cum trebuie să te pregătești pentru o aterizare de urgență după un eveniment periculos în zbor?",
    "short": "Pentru o aterizare de urgență, verifici direcția vântului și alegi un loc sigur de aterizare.",
    "long": "După un eveniment periculos, menține controlul, identifică dacă aeronava poate continua în siguranță și pregătește o aterizare dacă există orice îndoială. Evaluează vântul și terenul disponibil înainte de a configura apropierea; oprește motorul numai când procedura și situația o cer. Procedura Aeroclubului pentru aterizare forțată cere alegerea și recunoașterea terenului, nu o manevră reflexă care poate reduce controlul.",
@@ -2057,6 +2114,7 @@
   },
   {
    "number": "#58",
+   "exams": ["deva"],
    "text": "564: Ce riscuri sunt asociate cu depășirea greutății maxime a aripii?",
    "short": "Depășirea greutății maxime a aripii crește probabilitatea de eșec structural.",
    "long": "Greutatea maximă admisă este o limită structurală și operațională, nu o recomandare. Depășirea ei poate solicita excesiv aripa și suspantele, iar o deteriorare poate apărea fără avertisment evident. Calculează masa totală reală, inclusiv pilotul, combustibilul, motorul și echipamentul, și rămâi în intervalul din manual.",
@@ -2093,6 +2151,7 @@
   },
   {
    "number": "#59",
+   "exams": ["deva"],
    "text": "555: Ce ar trebui să faci dacă te afli în zbor și observi că vântul a crescut brusc?",
    "short": "Dacă vântul a crescut brusc, observi steaguri, fum, copaci și alte vegetații pentru a detecta schimbările vântului.",
    "long": "Steagurile, fumul și vegetația pot arăta direcția vântului și rafalele la sol, dar trebuie urmărite continuu și comparate cu ce simți în zbor. O creștere bruscă poate aduce turbulență și poate face aterizarea dificilă; întoarce-te sau aterizează într-un loc potrivit cât timp încă ai marjă. Itemul identifică mijloace de observare, nu spune că trebuie doar să le privești și să continui indiferent de intensitate.",
@@ -2129,6 +2188,7 @@
   },
   {
    "number": "#60",
+   "exams": ["deva"],
    "text": "541: Ce este o spirală asimetrică?",
    "short": "O spirală asimetrică este o spirală care se îndreaptă ușor în fiecare revoluție și este mai sigură decât o spirală obișnuită.",
    "long": "Spirala asimetrică este o rotație descendentă în care traiectoria și înclinarea nu sunt simetrice față de axa verticală, de obicei cu o aripă mai încărcată sau deformată. Ea nu este „mai sigură” și nu se îndreaptă garantat singură: poate accelera și deveni greu de oprit. Folosește definiția și procedura din manualul aripii; evită să provoci intenționat manevra fără instruire și înălțime suficientă.",
@@ -2165,6 +2225,7 @@
   },
   {
    "number": "#61",
+   "exams": ["deva"],
    "text": "470: Suntem surprinși în zbor de condiții meteo cu care nu suntem obisnuiți și avem probleme în a ne continua traseul, cum abordăm situația:",
    "short": "Când ești surprins de condiții meteo cu care nu ești obișnuit, încerci să te întorci pe același traseu, probabil cel mai sigur.",
    "long": "Întoarcerea pe ruta cunoscută poate fi o opțiune numai dacă vremea de pe acea rută este încă sigură și ai suficientă autonomie. Compară direcția și evoluția vremii, terenurile de aterizare și rezerva de combustibil; dacă întoarcerea te-ar duce în condiții mai rele, aterizează într-un loc potrivit. Nu presupune că traseul parcurs mai devreme a rămas sigur.",
@@ -2201,6 +2262,7 @@
   },
   {
    "number": "#62",
+   "exams": ["deva"],
    "text": "568: Cum trebuie să fie orientată direcția de aruncare a parașutei de salvare?",
    "short": "Parașuta de salvare se aruncă spre aer curat, departe de virajele aripii sau de alte obstacole.",
    "long": "Aruncă rezerva spre un sector cu aer liber, departe de aripa care se rotește, de suspante și de elice. Înainte de lansare, identifică mânerul și direcția de aruncare în timpul antrenamentului; în urgență nu ai timp să cauți sau să desfaci parașuta manual. După deschidere, urmează procedura pentru oprirea motorului și controlul aripii principale.",
@@ -2237,6 +2299,7 @@
   },
   {
    "number": "#63",
+   "exams": ["deva"],
    "text": "554: Care este metoda recomandată pentru a penetra turbulențele?",
    "short": "Pentru a penetra turbulențele, nu folosești speed bar, ții trimmerele neutre și aplici o presiune ușoară pe frâne.",
    "long": "Turbulența nu are o setare universală pentru toate aripile. În general, evită manevrele și comenzile bruște și folosește configurația de penetrare recomandată de producător pentru modelul tău; frânarea excesivă poate reduce rezerva față de stall, iar accelerarea poate schimba stabilitatea. Itemul indică o setare concretă, care trebuie confirmată în manualul aripii și în instruirea primită.",
@@ -2273,6 +2336,7 @@
   },
   {
    "number": "#64",
+   "exams": ["deva"],
    "text": "499: În zbor, va trebui să evitați o aeronavă, dvs. efectuați:",
    "short": "Dacă trebuie să eviți o aeronavă, efectuezi un viraj la dreapta.",
    "long": "Regula generală pentru întâlnirea frontală este ca ambele aeronave să vireze spre dreapta, astfel încât să se depărteze una de cealaltă. Manevra trebuie făcută din timp și suficient de clar, păstrând cealaltă aeronavă în vedere. Dacă întâlnirea nu este frontală, se aplică regulile de prioritate corespunzătoare acelei situații.",
@@ -2309,6 +2373,7 @@
   },
   {
    "number": "#65",
+   "exams": ["deva"],
    "text": "574: Care este principalul avântaj al planificării zborului în direcția vântului la începutul unui zbor cross country?",
    "short": "Planificarea zborului în direcția vântului la început permite o întoarcere rapidă dacă decizi să te întorci devreme, iar combustibilul se planifică mai ușor.",
    "long": "Planificarea cu vântul la dus poate face întoarcerea împotriva vântului mai lentă și mai solicitantă pentru combustibil; de aceea trebuie calculate autonomia și rezerva pentru întregul traseu, nu doar pentru dus. Avantajul invocat de răspuns este că poți decide devreme să revii pe ruta cunoscută, dar vântul nu garantează o întoarcere rapidă. Ia în calcul vântul real, alternativele și combustibilul de rezervă.",
@@ -2345,6 +2410,7 @@
   },
   {
    "number": "#66",
+   "exams": ["deva"],
    "text": "559: De ce este important să verifici întotdeauna accelerația înainte de a porni motorul?",
    "short": "Înainte de a porni motorul verifici accelerația, să te asiguri că revine la relanti.",
    "long": "Verifică, înainte de pornire, că accelerația se mișcă liber și revine la ralanti când o eliberezi. Dacă rămâne acționată, motorul poate produce tracțiune când vrei să îl reduci sau să îl oprești, lucru periculos la sol și în zbor. Procedura exactă de inspecție este cea din manualul motorului.",
@@ -2381,6 +2447,7 @@
   },
   {
    "number": "#67",
+   "exams": ["deva"],
    "text": "552: Care sunt riscurile asociate decolarilor dintr-un loc aglomerat cu copaci sau fire?",
    "short": "Decolările dintr-un loc aglomerat cu copaci sau fire pot fi fatale pentru un pilot începător.",
    "long": "Copacii și firele lasă puțin spațiu pentru ridicarea și stabilizarea aripii, iar firele pot fi greu de văzut. O închidere, abatere laterală sau întârziere la pornire poate duce direct la coliziune, cu urmări grave. Alege un culoar liber și suficient de lung; nu încerca să compensezi un teren nepotrivit prin accelerație mai mare.",
@@ -2417,6 +2484,7 @@
   },
   {
    "number": "#68",
+   "exams": ["deva"],
    "text": "547: Care este metoda corectă de recuperare dintr-un stall?",
    "short": "Recuperarea dintr-un stall se face reducând presiunea pe frâne și puterea, pentru a lăsa aripa să zboare din nou.",
    "long": "La angajare/stall, aripa nu mai zboară normal din cauza vitezei prea mici sau a unei comenzi excesive. Pentru răspunsul descris, redu presiunea pe frâne și evită să adaugi o comandă care ține aripa frânată; las-o să recapete zborul conform procedurii specifice. Nu aplica accelerație maximă sau frânare bruscă fără să cunoști reacția aripii: pot agrava situația.",
@@ -2453,6 +2521,7 @@
   },
   {
    "number": "#69",
+   "exams": ["deva"],
    "text": "576: Ce trebuie să faci dacă te pierzi în timpul unui zbor cross country?",
    "short": "Dacă te pierzi în zbor cross-country, te urci mai sus pentru o perspectivă mai bună și folosești drumuri și repere importante pentru orientare.",
    "long": "Dacă te-ai dezorientat, evită virajele în cerc fără un reper și nu urca automat: înălțimea poate însemna intrarea în spațiu controlat sau în vreme mai rea. Identifică repere vizibile, verifică poziția pe hartă/GPS și compară direcția cu ruta planificată. Dacă nu poți confirma poziția ori condițiile se deteriorează, alege un loc sigur de aterizare.",
@@ -2489,6 +2558,7 @@
   },
   {
    "number": "#70",
+   "exams": ["deva"],
    "text": "519: Ce trebuie să faci pentru a minimiza riscul de a cădea în poziția „țestoasa” în cazul vântului puternic la decolare?",
    "short": "Pentru a minimiza riscul de a cădea în poziția „țestoasă” la vânt puternic, eviți startul A în condiții de vânt puternic.",
    "long": "În vânt puternic, pornirea cu aripa ridicată prin metoda A poate produce o ridicare rapidă și o tragere violentă înainte ca pilotul să o poată controla, cu risc de a fi răsturnat. Tehnica de lansare trebuie aleasă după intensitatea vântului, experiență și instrucțiunile aripii. Dacă vântul depășește limitele tale ori ale echipamentului, amână decolarea.",
@@ -2525,6 +2595,7 @@
   },
   {
    "number": "#71",
+   "exams": ["deva"],
    "text": "495: Dacă motoparapanta este echipată cu parașută de rezervă este indicată oprirea motorului după deschiderea acesteia?",
    "short": "Dacă motoparapanta este echipată cu parașută de rezervă și ai deschis-o, oprirea motorului este obligatorie.",
    "long": "După deschiderea rezervei, oprește motorul dacă procedura aparatului o cere; elicea aflată în rotație poate agăța parașuta ori suspantele și poate agrava pierderea controlului. Nu presupune că motorul poate fi repornit pentru a dirija aterizarea: sub rezervă, prioritățile sunt evitarea încurcării și pregătirea impactului. Aplică procedura de urgență învățată pentru combinația ta de aripă, motor și rezervă.",
@@ -2561,6 +2632,7 @@
   },
   {
    "number": "#72",
+   "exams": ["deva"],
    "text": "524: De ce este important să eviți corectările de direcție sub 10 metri?",
    "short": "Evitarea corecțiilor de direcție sub 10 m te ajută să te concentrezi pe flare și să eviți aterizarea în derivă.",
    "long": "Aproape de sol, o schimbare bruscă de direcție poate înclina aripa sau crea derivă fără să mai existe înălțime pentru corectare. De aceea, finalizează alinierea înainte de această fază și păstrează atenția pentru flare și contact. Dacă apare un pericol imediat, siguranța primează; pragul de 10 m din item nu înseamnă că trebuie ignorat un obstacol.",
@@ -2597,6 +2669,7 @@
   },
   {
    "number": "#73",
+   "exams": ["deva"],
    "text": "553: De ce este importantă respectarea semnelor de „Interzis accesul” și evitarea traversării gardurilor?",
    "short": "Respectarea semnelor „Interzis accesul” și evitarea traversării gardurilor previne problemele legale și păstrează relațiile bune cu proprietarii terenurilor.",
    "long": "Un gard sau un semn de acces interzis arată că terenul nu este disponibil pentru lansare ori traversare fără permisiune. Intrarea neautorizată poate crea probleme legale și poate pune în pericol relația cu proprietarii, de care depinde accesul viitor la locuri de zbor. Cere acordul și respectă regulile locale.",
@@ -2633,6 +2706,7 @@
   },
   {
    "number": "#74",
+   "exams": ["deva"],
    "text": "548: Ce trebuie să faci dacă observi o încetinire neobișnuită sau o întoarcere în timpul zborului?",
    "short": "Dacă observi o încetinire neobișnuită sau o întoarcere în zbor, reduci imediat puterea și frânele și te pregătești să atenuezi balansul.",
    "long": "O încetinire neobișnuită sau o întoarcere poate indica o abatere de la zborul normal, dar nu identifică singură cauza. Redu comenzile care pot agrava abaterea, păstrează controlul și observă starea aripii; aplică apoi procedura de recuperare specifică. Nu trage brusc de frâne, deoarece o comandă mare poate agrava stall-ul sau rotația.",
@@ -2669,6 +2743,7 @@
   },
   {
    "number": "#75",
+   "exams": ["deva"],
    "text": "527: De ce este important să planifici o abordare finală de la aproximativ 30 de metri?",
    "short": "Planifici abordarea finală de la aproximativ 30 m pentru a evalua înălțimea, vântul, condițiile terenului și obstacolele.",
    "long": "De la aproximativ 30 m ai timp să verifici direcția vântului, panta și suprafața terenului, obstacolele și locul de contact. Păstrează o apropiere stabilă și o alternativă dacă locul nu mai pare sigur; nu încerca viraje strânse sau schimbări târzii de plan. Înălțimea exactă depinde de teren și de procedura învățată.",
@@ -2705,6 +2780,7 @@
   },
   {
    "number": "#76",
+   "exams": ["deva"],
    "text": "523: Care este metoda corectă pentru a evita oscilațiile în timpul apropierii finale?",
    "short": "Pentru a evita oscilațiile în apropierea finală, practici amortizarea oscilațiilor la altitudine mare și eviți corectarea lor sub aproximativ 20 m.",
    "long": "Pendularea pilotului sub aripă se exersează și se amortizează la înălțime, cu spațiu pentru recuperare. Pe finală, comenzile mari sau întârziate pot amplifica oscilația și pot devia traiectoria; pragul din item este un reper de instruire, nu o regulă universală. Păstrează apropierea stabilă și evită corecțiile care nu sunt necesare pentru siguranță.",
@@ -2741,6 +2817,7 @@
   },
   {
    "number": "#77",
+   "exams": ["deva"],
    "text": "515: Ce este recomandat să faci dacă nu reușești să intri în scaun imediat după decolare?",
    "short": "Dacă nu reușești să intri în scaun imediat după decolare, continui să urci și aterizezi în 5 minute.",
    "long": "Dacă nu reușești să te așezi după desprindere, nu te lupta cu hamul în timp ce zbori aproape de sol. Menține aripa stabilă și o traiectorie sigură, apoi aterizează cât mai curând într-un loc potrivit; timpul de cinci minute din item nu trebuie tratat ca permisiune de a continua într-o poziție care îți limitează controlul. Păstrează mâinile disponibile pentru comenzi.",
@@ -2777,6 +2854,7 @@
   },
   {
    "number": "#78",
+   "exams": ["deva"],
    "text": "512: De ce este esențial să decolezi împotriva vântului?",
    "short": "Decolezi împotriva vântului pentru a reduce viteza la sol, ceea ce scurtează distanța de decolare.",
    "long": "Decolarea în vânt reduce viteza față de sol necesară pentru a obține viteza aerodinamică de desprindere. Astfel, alergarea poate fi mai scurtă și există mai multă distanță disponibilă pentru urcare. Verifică rafalele și componentele laterale: un vânt prea puternic sau nepotrivit poate face decolarea nesigură.",
@@ -2813,6 +2891,7 @@
   },
   {
    "number": "#79",
+   "exams": ["deva"],
    "text": "475: Deasupra unui teren obstacolat:",
    "short": "Dacă nu poți evita zona obstacolată, crești înălțimea de zbor pentru a te asigura în caz de pană de motor.",
    "long": "Peste un teren cu obstacole, păstrează înălțime suficientă pentru planare dacă motorul se oprește și identifică din timp unde ai putea ateriza. Nu coborî ca să inspectezi terenul dacă asta te lasă fără distanță de planare și nu considera combustibilul sau parașuta drept substitut pentru o rută sigură. Procedura de aterizare forțată recomandă recunoașterea terenului și păstrarea opțiunilor.",
@@ -2849,6 +2928,7 @@
   },
   {
    "number": "#80",
+   "exams": ["deva"],
    "text": "556: Cum pot influența condițiile termice zborul?",
    "short": "Termicele puternice pot cauza turbulențe severe, crescând riscul de colapsuri.",
    "long": "Încălzirea diferențiată a solului produce coloane de aer ascendent, înconjurate de zone cu aer descendent; curenții și forfecarea pot crea turbulență. Pentru o parapantă, acestea pot provoca deformarea aripii sau închideri, mai ales lângă relief și în condiții convective. Evită condițiile care depășesc nivelul tău și nu zbura aproape de nori cu dezvoltare verticală.",
@@ -2886,6 +2966,7 @@
   },
   {
    "number": "#81",
+   "exams": ["deva"],
    "text": "467: În situația în care motorul are un zgomot diferit celui normal și vibrații mari, cum vom proceda în zbor?",
    "short": "Dacă motorul are un zgomot diferit și vibrații mari, alegi un loc sigur de aterizare și oprești motorul doar dacă poți ateriza în siguranță.",
    "long": "Zgomotul nou și vibrațiile puternice pot indica o problemă mecanică ce se poate agrava sau opri motorul. Alege din timp un teren și pregătește aterizarea; oprește motorul când poți face asta fără să pierzi controlul ori tracțiunea necesară pentru a ajunge la locul ales. Nu continua traseul doar pentru că motorul încă funcționează.",
@@ -2922,6 +3003,7 @@
   },
   {
    "number": "#82",
+   "exams": ["deva"],
    "text": "579: Ce trebuie să faci dacă observi trafic aerian în apropierea ta?",
    "short": "Dacă observi trafic aerian în apropiere, menții traiectoria și altitudinea actuală, pregătindu-te să iei măsuri de evitare dacă este necesar.",
    "long": "Observarea traficului cere să păstrezi aeronava în vedere și să evaluezi dacă traiectoriile se apropie. Nu schimba automat direcția sau altitudinea: o manevră neașteptată poate crea conflict cu alt trafic. Dacă există risc de apropiere, aplică regula de evitare potrivită și fă o manevră clară, din timp.",
@@ -2958,6 +3040,7 @@
   },
   {
    "number": "#83",
+   "exams": ["deva"],
    "text": "545: Ce trebuie să faci în cazul unei cravate?",
    "short": "În cazul unei cravate (linii încurcate) încerci să găsești linia stabilo și tragi de ea cu forță.",
    "long": "O cravată apare când o parte a aripii se încurcă în propriile suspante. Linia stabilo poate fi o cale de a elibera anumite cravate, dar tragerea cu forță nu este sigură pentru orice configurație: mai întâi stabilizează zborul și folosește tehnica învățată pentru modelul tău. Dacă rotația se accelerează sau controlul se pierde, poate fi necesară rezerva.",
@@ -2994,6 +3077,7 @@
   },
   {
    "number": "#84",
+   "exams": ["deva"],
    "text": "540: Cum trebuie să te pregătești pentru o recuperare dintr-un stall?",
    "short": "Pentru recuperarea dintr-un stall reduci presiunea pe frâne și puterea, pentru a lăsa aripa să zboare din nou.",
    "long": "În stall, aripa este frânată peste limita la care poate menține zborul normal. Reducerea presiunii pe comenzi și a puterii, conform procedurii aripii, îi permite să recapete viteza; comenzile bruște sau accelerația maximă pot produce o reacție violentă. Tehnica trebuie exersată numai cu instructor și la înălțime suficientă.",
@@ -3030,6 +3114,7 @@
   },
   {
    "number": "#85",
+   "exams": ["deva"],
    "text": "562: Care este greutatea care trebuie luată în considerare pentru a respecta limita maximă admisă în zbor?",
    "short": "Greutatea care trebuie luată în calcul este cea totală: pilotul, motorul cu combustibil și aripa, gata de decolare.",
    "long": "Limita aripii se referă la masa totală în zbor, nu doar la pilot sau la aripă. Adună pilotul cu hainele și echipamentul, motorul, combustibilul și parapanta, apoi compară rezultatul cu intervalul admis de producător. Manualul de Proceduri Operaționale amintește că masa și centrajul trebuie respectate potrivit manualului aeronavei.",
@@ -3066,6 +3151,7 @@
   },
   {
    "number": "#86",
+   "exams": ["deva"],
    "text": "537: Ce trebuie să faci în timpul unei închideri asimetrice?",
    "short": "În timpul unei închideri asimetrice nu tragi imediat de frâne, ci corectezi cu grijă, pentru a preveni o spirală.",
    "long": "La o închidere asimetrică, o parte a aripii se dezumflă, iar parapanta poate vira spre partea închisă. Prioritatea este să oprești rotația și să nu o transformi într-o spirală; aplică o corecție lină pe partea deschisă, apoi procedeul de redeschidere învățat. Nu trage automat puternic de frâne și nu accelera fără să cunoști efectul asupra aripii.",
@@ -3102,6 +3188,7 @@
   },
   {
    "number": "#87",
+   "exams": ["deva"],
    "text": "539: Ce se întâmplă în timpul unui full stall?",
    "short": "În timpul unui full stall, aripa se deformează și începe să cadă vertical în jos, cu o rată de coborâre de peste 2000 FPM (aproximativ 10 m/s).",
    "long": "În full stall, aripa se oprește din zbor normal și poate coborî aproape vertical. Valoarea de peste 2000 ft/min (aprox. 10 m/s) din item descrie un ordin de mărime posibil, nu o valoare garantată pentru orice aripă. Manevra poate evolua violent și nu trebuie provocată aproape de sol; consultă manualul și instruirea pentru modelul concret.",
@@ -3138,6 +3225,7 @@
   },
   {
    "number": "#88",
+   "exams": ["deva"],
    "text": "546: Cum poate fi provocată o închidere asimetrică?",
    "short": "O închidere asimetrică poate fi provocată de turbulențe sau de manevre greșite.",
    "long": "Turbulența poate modifica brusc presiunea și unghiul de atac pe o parte a aripii, iar o comandă greșită poate frâna excesiv acea parte. Ambele pot provoca o închidere asimetrică. Zboară în limitele condițiilor și ale aripii, păstrează comenzile potrivite și evită manevrele agresive.",
@@ -3174,6 +3262,7 @@
   },
   {
    "number": "#89",
+   "exams": ["deva"],
    "text": "501: Zburați pe o ruta în același timp cu o aeronavă mai lentă; efectuați separarea prin:",
    "short": "Când zbori pe o rută în același timp cu o aeronavă mai lentă, faci separarea trecând pe dreapta.",
    "long": "Regulile de circulație aeriană cer depășirea unei aeronave din dreapta, păstrând distanță suficientă și evitând să treci prin turbulența de siaj. Înainte de manevră, asigură-te că spațiul este liber și că nu intri într-o zonă cu trafic sau obstacole. Dacă nu poți depăși în siguranță, rămâi în urma ei.",
@@ -3210,6 +3299,7 @@
   },
   {
    "number": "#90",
+   "exams": ["deva"],
    "text": "494: Înainte de a porni motorul pilotul atenționează prin folosirea expresiei:",
    "short": "Înainte de a porni motorul, pilotul atenționează prin expresia „liber la elice?”.",
    "long": "Înainte de pornire, avertizează persoanele din jur și verifică vizual că zona elicei este liberă. «Liber la elice?» este apelul prin care ceri confirmarea că nimeni nu se află în raza ei; nu este suficient să rostești formula fără să verifici. Pornește numai când ai confirmarea și motorul este asigurat conform manualului.",
@@ -3246,6 +3336,7 @@
   },
   {
    "number": "#91",
+   "exams": ["deva"],
    "text": "571: Când ar trebui să folosești parașuta de salvare în timpul zborului?",
    "short": "Parașuta de salvare se folosește în caz de spirală dezvoltată, pierdere iminentă a controlului sau coliziune în aer.",
    "long": "Rezerva se folosește când aripa nu mai poate fi controlată sau recuperată în timp util, de exemplu într-o rotație rapidă/dezvoltată ori când o coliziune este iminentă. Decizia trebuie luată înainte ca altitudinea să devină insuficientă pentru deschidere și impact. Nu o folosi pentru a corecta o manevră normală sau ca substitut pentru instruire.",
@@ -3282,6 +3373,7 @@
   },
   {
    "number": "#92",
+   "exams": ["deva"],
    "text": "511: Care este cea mai importantă acțiune pe care trebuie să o faci după pre-flight check și înainte de decolare?",
    "short": "Cea mai importantă acțiune după pre-flight și înainte de decolare este încălzirea motorului.",
    "long": "Încălzirea motorului înainte de decolare îi permite să ajungă la regimul de funcționare prevăzut și poate scoate la iveală funcționarea neregulată înainte de a pleca. Respectă timpul, turația și verificările din manualul motorului; nu îl tura puternic rece și nu încălzi motorul într-o zonă cu persoane ori obiecte lângă elice.",
@@ -3318,6 +3410,7 @@
   },
   {
    "number": "#93",
+   "exams": ["deva"],
    "text": "484: Intradosul aripei este partea:",
    "short": "Intradosul aripii este partea de sub aripă.",
    "long": "Intradosul este suprafața inferioară a aripii, cea orientată în jos în zbor normal. Extradosul este suprafața superioară. Distincția ajută la descrierea presiunilor și a formei profilului aerodinamic.",
@@ -3354,6 +3447,7 @@
   },
   {
    "number": "#94",
+   "exams": ["deva"],
    "text": "534: Cum se intră corect într-un full stall?",
    "short": "Pentru a intra într-un full stall tragi frânele în jos până când mâinile sunt blocate sub coapse.",
    "long": "Full stall-ul intenționat se obține prin creșterea progresivă a frânării până când aripa intră în angajare, conform exercițiului prevăzut pentru model. Descrierea din item — mâinile coborâte până sub coapse — este o poziție specifică tehnicii respective, nu o instrucțiune generală pentru zbor. Manevra poate avea consecințe violente și se exersează doar cu instructor, la înălțime și cu echipamentul potrivit.",
@@ -3390,6 +3484,7 @@
   },
   {
    "number": "#95",
+   "exams": ["deva"],
    "text": "496: Cum procedați când va întâlniți, în zbor, cu o aeronava care vine din față sau aproximativ din față ?",
    "short": "Dacă vine o aeronavă din față sau aproximativ din față, virezi la dreapta, la orizontală.",
    "long": "La întâlnirea frontală sau aproape frontală, fiecare pilot virează spre dreapta, menținând cealaltă aeronavă în vedere. Regula evită traiectoriile care s-ar intersecta și trebuie aplicată din timp, fără schimbări bruște. Regulile de evitare din documentul de reglementări stabilesc această conduită standard.",
@@ -3426,6 +3521,7 @@
   },
   {
    "number": "#96",
+   "exams": ["deva"],
    "text": "558: Cum trebuie să fie asigurat motorul în timpul pornirii?",
    "short": "Motorul se asigură în timpul pornirii pe un suport fix, pe spatele pilotului sau în fața unui obiect care îl ține în loc la turație maximă.",
    "long": "Motorul trebuie împiedicat să se deplaseze sau să se răstoarne când pornește, iar elicea trebuie să aibă un culoar complet liber. Folosește punctele de sprijin și metoda prevăzute de producător; nu te baza pe un obiect improvizat care s-ar putea mișca sau ajunge în elice. Persoanele din apropiere trebuie avertizate și ținute în afara zonei de risc.",
@@ -3462,6 +3558,7 @@
   },
   {
    "number": "#97",
+   "exams": ["deva"],
    "text": "516: Cum se face corect gonflajul aripii în condiții de vânt ușor?",
    "short": "Gonflajul aripii în vânt ușor se face tensionând ușor suspantele, fără să strici profilul aripii.",
    "long": "În vânt ușor, ridică aripa treptat și simetric, menținând suspantele tensionate fără a deforma profilul prin smucituri. Când aripa ajunge deasupra, privește-o și verifică dacă este deschisă, centrată și fără suspante încurcate înainte să accelerezi. Dacă nu o poți controla, întrerupe lansarea și rearanjeaz-o.",
@@ -3498,6 +3595,7 @@
   },
   {
    "number": "#98",
+   "exams": ["deva"],
    "text": "529: Ce trebuie să faci dacă observi derivă în timpul aterizării?",
    "short": "Dacă observi derivă în timpul aterizării, te aliniezi cu vântul pe final și faci corecții ușoare, evitând comenzile sub 10 metri.",
    "long": "Deriva apare când vântul deplasează aeronava lateral față de direcția dorită. Corectează alinierea înainte de apropierea joasă și folosește doar comenzi fine; sub 10 m, o schimbare bruscă poate destabiliza aripa sau crea o înclinare periculoasă. Dacă vântul lateral depășește limitele tale, renunță la apropierea respectivă și alege o variantă sigură.",
@@ -3534,6 +3632,7 @@
   },
   {
    "number": "#99",
+   "exams": ["deva"],
    "text": "503: Inspecția înainte de zbor este:",
    "short": "Inspecția înainte de zbor este temeinică, consistentă și neîntreruptă, deci toate variantele sunt corecte.",
    "long": "O inspecție repetabilă reduce șansa de a sări peste un element, iar verificarea temeinică acoperă toate componentele prevăzute. Dacă ești întrerupt, reia inspecția de la un punct cunoscut sau de la început, ca să nu presupui că ai verificat ceva ce ai omis. Manualele de pregătire înainte de zbor pun accentul pe o verificare sistematică.",
@@ -3570,6 +3669,7 @@
   },
   {
    "number": "#100",
+   "exams": ["deva"],
    "text": "522: Cum trebuie să te pregătești pentru o aterizare în condiții de vânt puternic?",
    "short": "Pentru o aterizare în vânt puternic încerci să aterizezi într-un loc fără rotor și cu panta redusă.",
    "long": "Vântul puternic poate crea rotor în spatele obstacolelor și turbulență mecanică, iar o pantă abruptă poate complica apropierea și plecarea de la sol. Alege o zonă mai netedă și fără obstacole care generează rotor, în limitele vântului admise pentru aripa ta. Nu folosi automat trimmerele rapide sau frânele puțin: configurația de aterizare trebuie să urmeze manualul aripii.",
@@ -3606,6 +3706,7 @@
   },
   {
    "number": "#101",
+   "exams": ["deva"],
    "text": "509: Ce este recomandat să faci dacă te încurci în suspante după o aterizare în apă?",
    "short": "Dacă te încurci în suspante după o aterizare în apă, începi imediat să tai suspantele cu cuțitul.",
    "long": "În apă, suspantele pot înconjura pilotul sau îl pot ține legat de aripă, iar fiecare secundă contează. Dacă ești prins, folosește cuțitul de suspante și taie imediat legăturile care te rețin, fără să încerci să înoți prin ele sau să revii la echipament. Cuțitul trebuie purtat într-un loc accesibil cu ambele mâini și exersat înainte.",
@@ -3642,6 +3743,7 @@
   },
   {
    "number": "#102",
+   "exams": ["deva"],
    "text": "521: Ce trebuie să faci pentru a aterizare cât mai corectă?",
    "short": "Pentru o aterizare cât mai corectă ții mâinile aproape de poziția complet ridicată, fără frâne, înainte de a începe flare-ul.",
    "long": "Înainte de flare, aripa trebuie să zboare și să aibă viteză suficientă; ținerea frânelor jos prea devreme poate încetini excesiv și provoca stall. Păstrează mâinile sus sau în poziția neutră în apropiere, apoi începe flare-ul la momentul potrivit pentru înălțimea și viteza ta. Momentul și amplitudinea se învață pentru aripa concretă, nu se stabilesc doar după o valoare fixă.",
@@ -3678,6 +3780,7 @@
   },
   {
    "number": "#103",
+   "exams": ["deva"],
    "text": "580: Care este regula de prioritate atunci când două aeronave se apropie frontal una de alta?",
    "short": "Când două aeronave se apropie frontal, ambele virează la dreapta.",
    "long": "Când două aeronave se apropie frontal, ambele își schimbă direcția spre dreapta pentru a se separa. Execută manevra clar și din timp și păstrează contactul vizual cu cealaltă aeronavă. Regula se aplică indiferent de tipul aeronavei.",
@@ -3714,6 +3817,7 @@
   },
   {
    "number": "#104",
+   "exams": ["deva"],
    "text": "482: În ce perioada a zilei este recomandat zborul cu paramotorul, pentru ca atmosfera să fie cât mai calma:",
    "short": "Zborul cu paramotorul este recomandat dimineața și seara, când atmosfera este mai calmă.",
    "long": "Dimineața devreme și seara, solul este de regulă încălzit mai puțin, deci activitatea termică și turbulența convectivă tind să fie mai reduse decât în jurul prânzului. Asta nu garantează vreme calmă: vântul, fronturile, inversiunile și condițiile locale pot face zborul periculos în orice moment. Verifică prognoza și observațiile, nu te baza doar pe oră.",
@@ -3750,6 +3854,7 @@
   },
   {
    "number": "#105",
+   "exams": ["deva"],
    "text": "532: Care este cauza principală a unei închideri frontale (front stall)?",
    "short": "Cauza principală a unei închideri frontale este o rafală de vânt descendentă.",
    "long": "O rafală descendentă poate reduce brusc viteza relativă a aerului sau poate schimba unghiul de atac, astfel încât marginea de atac să piardă presiune și să se închidă. Închiderea frontală afectează toată lățimea sau o mare parte a acesteia. Evită zborul în condiții convective puternice și folosește tehnica de prevenire/recuperare învățată pentru aripă.",
@@ -3786,6 +3891,7 @@
   },
   {
    "number": "#106",
+   "exams": ["deva"],
    "text": "483: Startul B, adică gonflajul făcut cu fața la aripă, se recomandă:",
    "short": "Startul B, adică gonflajul cu fața la aripă, se recomandă când viteza vântului este de aproximativ 10 km/h.",
    "long": "Startul B se face cu fața spre aripă, ceea ce permite verificarea vizuală în timp ce o ridici. Itemul indică un vânt de aproximativ 10 km/h ca reper pentru tehnica respectivă; valoarea nu este universală și depinde de aripă, rafale, teren și experiență. Folosește metoda numai după instruire și în limitele producătorului.",
@@ -3822,6 +3928,7 @@
   },
   {
    "number": "#107",
+   "exams": ["deva"],
    "text": "570: Ce tipuri de parașute de salvare sunt disponibile și care sunt avântajele lor?",
    "short": "Parașutele de salvare sunt dirijabile (Rogallo) și rotunde; cele dirijabile oferă o rată de coborâre îmbunătățită și posibilitatea de a evita obstacolele.",
    "long": "Parașutele rotunde coboară în principal vertical și au construcție simplă; modelele dirijabile de tip Rogallo pot permite o deplasare orizontală limitată și alegerea mai bună a punctului de contact. Dirijabilitatea nu înseamnă control complet și nici garanția evitării obstacolelor. Compară rata de coborâre, viteza de deschidere, compatibilitatea și procedura în manualul rezervei.",
@@ -3858,6 +3965,7 @@
   },
   {
    "number": "#108",
+   "exams": ["deva"],
    "text": "578: Ce echipament suplimentar ar trebui să iei cu tine într-un zbor cross country pentru a face față eventualelor situații de urgență?",
    "short": "Pentru un zbor cross-country este bine să iei cu tine un sac de aripă simplu, în cazul în care motorul se oprește, și uneltele de bază.",
    "long": "Un zbor cross-country poate duce departe de locul de plecare, deci echipamentul trebuie să permită orientarea, comunicarea și gestionarea unei aterizări neplanificate. Itemul indică un sac pentru aripă și unelte de bază; ia doar uneltele potrivite și nu încerca reparații în aer sau reparații structurale pe teren fără competență. Manualul de Navigație include pregătirea echipamentului și planul pentru situații neprevăzute.",
@@ -3894,6 +4002,7 @@
   },
   {
    "number": "#109",
+   "exams": ["deva"],
    "text": "488: Cum executați virajele pentru aterizare și după decolare când zburați într-o zonă de trafic de aerodrom dacă nu este prevăzut sau nu se solicită altfel?",
    "short": "Virajele pentru aterizare și după decolare, dacă nu se solicită altfel, se execută spre stânga.",
    "long": "În circuitul de aerodrom, virajele se execută în direcția stabilită pentru circuit; când nu există altă instrucțiune, circuitul standard este cu viraje la stânga. Respectă semnele, instrucțiunile ATC/AFIS și procedurile locale, care pot stabili un circuit diferit. Manualul de reglementări descrie circuitul standard și excepțiile prin instrucțiune.",
@@ -3930,6 +4039,7 @@
   },
   {
    "number": "#110",
+   "exams": ["deva"],
    "text": "563: Ce efecte are încărcarea prea mare a aripii asupra zborului?",
    "short": "Încărcarea prea mare a aripii face aripa mai dinamică, mai reactivă la comenzi și cu o viteză mai mare de înfundare.",
    "long": "Încărcarea aripii este masa totală împărțită la suprafața aripii. O încărcare mai mare tinde să mărească viteza, rata de coborâre și dinamica reacțiilor; aripa poate deveni mai solicitantă la comenzi și la turbulență. Folosește numai masa admisă și verifică datele pentru modelul tău, deoarece efectele exacte diferă între aripi.",
@@ -3966,6 +4076,7 @@
   },
   {
    "number": "#111",
+   "exams": ["deva"],
    "text": "542: Ce trebuie să faci în cazul unui parachutal stall?",
    "short": "În cazul unui parachutal stall reduci complet puterea și frânele și te pregătești să atenuezi balansul.",
    "long": "Un parachutal stall este o coborâre cu aripa încă deschisă, dar cu fluxul de aer insuficient pentru zbor normal; rata de coborâre poate rămâne mare. Răspunsul din item combină reducerea puterii și eliberarea frânelor, însă procedura depinde de aripă și de cauza stării. Nu trage brusc de frâne; aplică metoda de recuperare predată și instrucțiunile producătorului.",
@@ -4002,6 +4113,7 @@
   },
   {
    "number": "#112",
+   "exams": ["deva"],
    "text": "577: De ce este important să eviți zborul la altitudini joase în timpul unui zbor cross country?",
    "short": "Este important să eviți zborul la altitudini joase în cross-country, pentru a evita majoritatea obstacolelor create de oameni și a scana pentru turnuri înalte.",
    "long": "La joasă înălțime ai puțin timp să observi și să eviți fire, turnuri, copaci și alte obstacole. În cross-country, planifică o altitudine și o rută care respectă regulile și păstrează locuri de aterizare, fără să presupui că toate obstacolele sunt marcate. Scanarea continuă și cunoașterea terenului reduc riscul de coliziune.",
@@ -4038,6 +4150,7 @@
   },
   {
    "number": "#113",
+   "exams": ["deva"],
    "text": "544: Cum poate fi evitată o închidere frontală?",
    "short": "O închidere frontală se evită prin utilizarea corectă a accelerației și prin evitarea frânării excesive în zborul accelerat.",
    "long": "În zbor accelerat, aripa poate fi mai sensibilă la o schimbare bruscă de unghi de atac. Frânarea excesivă în această configurație poate destabiliza marginea de atac; folosește accelerația conform tehnicii aripii și evită să ții frânele mult trase. Viteza de penetrare și acțiunea la o închidere trebuie învățate pentru modelul concret.",
@@ -4074,6 +4187,7 @@
   },
   {
    "number": "#114",
+   "exams": ["deva"],
    "text": "518: Care este semnificația unui pre-flight check complet?",
    "short": "Un pre-flight check complet asigură că toate echipamentele sunt în stare optimă și reduce riscul de accidente.",
    "long": "O inspecție completă verifică dacă aripa, suspantele, hamul, motorul, elicea și comenzile sunt în stare de zbor, conform listei producătorului. Ea nu garantează că vremea este bună și nu elimină toate defecțiunile, dar poate descoperi deteriorări, montaj incorect sau obiecte în zona elicei înainte de plecare. Dacă găsești o problemă, nu decola până nu este rezolvată.",
@@ -4110,6 +4224,7 @@
   },
   {
    "number": "#115",
+   "exams": ["deva"],
    "text": "480: Fazele decolării cu motoparapanta sunt:",
    "short": "Fazele decolării cu motoparapanta sunt: gonflaj, control vizual al aripii, accelerare și desprindere.",
    "long": "Decolarea are pași distincti: ridici și gonflezi aripa, verifici vizual că s-a deschis corect și este centrată, apoi accelerezi și te desprinzi. Nu accelera înainte să confirmi că aripa este în configurație bună; o suspantă încurcată sau o jumătate neinflată poate duce la pierderea controlului. Urmează lista de verificare și tehnica pentru startul ales.",
@@ -4146,6 +4261,7 @@
   },
   {
    "number": "#116",
+   "exams": ["deva"],
    "text": "538: Care este riscul principal al unei închideri frontale?",
    "short": "Riscul principal al unei închideri frontale este o rată de coborâre care poate atinge până la 1000 FPM (5 m/s).",
    "long": "O închidere frontală poate produce o pierdere rapidă de înălțime, iar valoarea de 1000 ft/min (aprox. 5 m/s) din item este o estimare pentru scenariul descris, nu o limită maximă garantată. Riscul important este pierderea de altitudine înainte ca aripa să se redeschidă, mai ales aproape de sol. Prevenirea și recuperarea trebuie învățate pentru aripa concretă.",
@@ -4182,6 +4298,7 @@
   },
   {
    "number": "#117",
+   "exams": ["deva"],
    "text": "567: Ce trebuie să faci imediat după ce ai decis să arunci parașuta de salvare?",
    "short": "Când ai decis să arunci parașuta de salvare, oprești motorul, privești mânerul și tragi de el cu o mișcare puternică.",
    "long": "După ce decizi să folosești rezerva, acționează fără întârziere: oprește motorul dacă procedura o cere, localizează mânerul și trage-l energic, apoi aruncă pachetul spre aer liber, departe de aripă, suspante și elice. Nu există o mișcare universală în formă de Z; direcția și gestul se exersează cu sistemul concret. Manualul de Proceduri Operaționale al Aeroclubului tratează rezervele pentru parașute de avion, deci nu îl folosim ca dovadă pentru tehnica de aruncare a rezervei de parapantă.",
@@ -4218,6 +4335,7 @@
   },
   {
    "number": "#118",
+   "exams": ["bucuresti"],
    "text": "582: Un motor care a suferit un incendiu poate fi repornit?",
    "short": "Nu. Procedura AM2 - Foc sau fum - interzice repornirea motorului după stingerea incendiului și cere identificarea cauzei.",
    "long": "Manualul de Proceduri Operaționale, la procedura pentru foc sau fum, spune să nu repornești motorul după ce incendiul a fost stins și să identifici cauza. În zbor, procedura indică închiderea alimentării cu combustibil, reducerea accelerației, oprirea aprinderii după oprirea motorului și aterizarea pe primul teren utilizabil. Un motor expus la foc poate avea conducte, cabluri sau componente deteriorate chiar dacă flăcările nu se mai văd.",

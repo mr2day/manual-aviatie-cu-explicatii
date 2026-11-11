@@ -4,6 +4,7 @@
  "questions": [
   {
    "number": "#1",
+   "exams": ["deva"],
    "text": "627: Care este efectul principal al unui unghi de atac prea mare asupra unei aripi?",
    "short": "Un unghi de atac prea mare poate duce la stall.",
    "long": "Un unghi de atac prea mare depășește unghiul critic: fluxul de aer se desprinde de pe aripă, portanța scade brusc și aripa intră în stall.",
@@ -40,6 +41,7 @@
   },
   {
    "number": "#2",
+   "exams": ["deva"],
    "text": "595: Conul de siguranță este spațiul în care putem evolua ajungând la un teren de aterizare în caz de până motor:",
    "short": "Conul de siguranță este spațiul în care poți ajunge la un teren de aterizare dacă motorul se oprește. Afirmația este adevărată.",
    "long": "Conul de siguranță este zona în care pilotul poate planta până la un teren de aterizare, dacă motorul se oprește.",
@@ -76,6 +78,7 @@
   },
   {
    "number": "#3",
+   "exams": ["deva"],
    "text": "657: Ce se întâmplă dacă zbori la altitudine mare?",
    "short": "La altitudine mare scade portanța, deci trebuie ajustată puterea.",
    "long": "La altitudine mare aerul este mai rarefiat, deci portanța scade și motorul pierde putere, iar pilotul trebuie să ajusteze puterea.",
@@ -112,6 +115,7 @@
   },
   {
    "number": "#4",
+   "exams": ["deva"],
    "text": "639: Ce se întâmplă dacă viteza paramotorului scade sub viteza de angajare?",
    "short": "Dacă viteza scade sub viteza de angajare, aripa intră în stall și pierde rapid altitudine.",
    "long": "Sub viteza de angajare, aripa nu mai produce portanța necesară. Ajunge în stall și pierde altitudine rapid.",
@@ -148,6 +152,7 @@
   },
   {
    "number": "#5",
+   "exams": ["deva"],
    "text": "603: Am parcurs distanța de 30 km într-o oră cu vânt de față; viteza noastră față de aer este de 60 km/h. Ce viteza medie a avut vântul în aceasta perioadă?",
    "short": "Dacă ai parcurs 30 km într-o oră cu vânt de față și viteza față de aer de 60 km/h, vântul a avut viteza medie de 30 km/h.",
    "long": "Distanța de 30 km în 1 oră înseamnă viteză medie la sol de 30 km/h. Cu viteza față de aer 60 km/h, vântul de față are 30 km/h.",
@@ -184,6 +189,7 @@
   },
   {
    "number": "#6",
+   "exams": ["deva"],
    "text": "653: Ce ar trebui să faci dacă observi o creștere bruscă a vitezei în timpul coborârii?",
    "short": "Dacă observi o creștere bruscă a vitezei în coborâre, ajustezi trimmerele și folosești frânele pentru a stabiliza aripa.",
    "long": "Când viteza crește în coborâre, pilotul ajustează trimmerele și folosește frânele moderat, ca să stabilizeze aripa fără să o deformeze.",
@@ -220,6 +226,7 @@
   },
   {
    "number": "#7",
+   "exams": ["deva"],
    "text": "618: Cum se piloteaza dacă am pierdut o comandă în timpul zborului?",
    "short": "Dacă ai pierdut o comandă în zbor, pilotezi cu chinga.",
    "long": "Dacă pilotul a pierdut o comandă, pilotează cu chinga (suspanta) din spate, care controlează aripa.",
@@ -256,6 +263,7 @@
   },
   {
    "number": "#8",
+   "exams": ["deva"],
    "text": "671: Cum influențează forța portanței comportamentul unei parapante în zbor?",
    "short": "Forța portanței contracarează greutatea și menține altitudinea constantă, permițând un zbor stabil.",
    "long": "Portanța este forța care se opune greutății și menține aeronava în aer, deci ține altitudinea când este egală cu greutatea.",
@@ -292,6 +300,7 @@
   },
   {
    "number": "#9",
+   "exams": ["deva"],
    "text": "594: Cu cât raza virajului scade:",
    "short": "Când raza virajului scade, crește înclinația.",
    "long": "La o rază de viraj mai mică, aeronava trebuie înclinată mai mult pentru a produce forța centripetă necesară.",
@@ -328,6 +337,7 @@
   },
   {
    "number": "#10",
+   "exams": ["deva"],
    "text": "661: Cum influențează condițiile de zbor pe vreme caldă performanța aripii?",
    "short": "Pe vreme caldă, aerul este mai rarefiat, deci scade portanța și trebuie ajustată puterea.",
    "long": "Aerul cald este mai puțin dens, deci portanța scade pentru aceeași viteză, iar motorul pierde putere, deci trebuie ajustată puterea.",
@@ -364,6 +374,7 @@
   },
   {
    "number": "#11",
+   "exams": ["deva"],
    "text": "615: Viteza de curgere a fileurilor de aer pe un profil aerodinamic este:",
    "short": "Viteza de curgere a aerului pe extrados este mai mare decât pe intrados.",
    "long": "Extradosul este curbat mai mult, iar aerul curge mai repede pe el decât pe intrados. Diferența de viteză creează depresiunea care generează portanța.",
@@ -400,6 +411,7 @@
   },
   {
    "number": "#12",
+   "exams": ["deva"],
    "text": "633: Cum este afectată performanța aripii la viteze mici?",
    "short": "La viteze mici, aripa scade portanța și stabilitatea în viraje strânse.",
    "long": "La viteze mici, aripa își pierde portanța și stabilitatea, mai ales în viraje strânse, unde cererea de portanță crește.",
@@ -436,6 +448,7 @@
   },
   {
    "number": "#13",
+   "exams": ["deva"],
    "text": "650: Ce trebuie să faci dacă simți o scădere bruscă de altitudine în timpul zborului?",
    "short": "Dacă simți o scădere bruscă de altitudine, crești puterea motorului și stabilizezi aripa folosind frânele.",
    "long": "La scădere bruscă de altitudine, pilotul crește puterea și stabilizează aripa, deoarece cu putere suplimentară recapătă portanța.",
@@ -472,6 +485,7 @@
   },
   {
    "number": "#14",
+   "exams": ["deva"],
    "text": "608: La viteza constantă, când înclinarea crește:",
    "short": "La viteză constantă, când înclinarea crește, raza de viraj scade.",
    "long": "La viteză constantă, creșterea înclinației reduce raza virajului, deoarece forța centripetă crește.",
@@ -508,6 +522,7 @@
   },
   {
    "number": "#15",
+   "exams": ["deva"],
    "text": "614: În cazul motoparapantelor forța portantă este influențată de:",
    "short": "În cazul motoparapantelor, forța portantă este influențată de viteza de zbor și de unghiul de incidență.",
    "long": "Portanța depinde de viteza de zbor și de unghiul de incidență, care determină curgerea aerului pe aripă.",
@@ -544,6 +559,7 @@
   },
   {
    "number": "#16",
+   "exams": ["deva"],
    "text": "677: Cum acționează forța de rezistență aerodinamică și cum afectează performanța zborului?",
    "short": "Rezistența aerodinamică acționează în direcția opusă tracțiunii și reduce viteza de zbor.",
    "long": "Rezistența aerodinamică acționează în direcția opusă mișcării, deci se opune tracțiunii și reduce viteza.",
@@ -580,6 +596,7 @@
   },
   {
    "number": "#17",
+   "exams": ["deva"],
    "text": "672: Care este efectul principal al unghiului de atac asupra zborului unei parapante?",
    "short": "Un unghi de atac mai mare crește portanța, dar poate duce la un stall dacă este prea mare.",
    "long": "Creșterea unghiului de atac crește portanța până la unghiul critic, dar dincolo de el apare stall-ul.",
@@ -616,6 +633,7 @@
   },
   {
    "number": "#18",
+   "exams": ["deva"],
    "text": "612: Stratul limită este:",
    "short": "Stratul limită este stratul de aer din imediata vecinătate a aeronavei, în care viteza crește de la zero la viteza de zbor.",
    "long": "Stratul limită este stratul de aer din imediata apropiere a suprafeței aripii, unde viteza aerului crește de la zero la viteza liberă.",
@@ -652,6 +670,7 @@
   },
   {
    "number": "#19",
+   "exams": ["deva"],
    "text": "590: Ce forțe acționează asupra unei parapante cu motor în zbor?",
    "short": "Forțele care acționează asupra unei parapante cu motor în zbor sunt greutatea, portanța, tracțiunea și frecarea.",
    "long": "În zbor asupra motoparapantei acționează greutatea (în jos), portanța (în sus), tracțiunea elicei (înainte) și rezistența (înapoi, opus mișcării).",
@@ -688,6 +707,7 @@
   },
   {
    "number": "#20",
+   "exams": ["deva"],
    "text": "616: Turbioanele terminale responsabile pentru rezistentă indusă apar:",
    "short": "Turbioanele terminale responsabile pentru rezistența indusă apar pe capetele aripii.",
    "long": "Turbioanele de la capetele aripii apar din diferența de presiune dintre intrados și extrados și creează rezistența indusă.",
@@ -724,6 +744,7 @@
   },
   {
    "number": "#21",
+   "exams": ["deva"],
    "text": "655: Cum influențează utilizarea trimmerelor la viteza maximă stabilitatea zborului?",
    "short": "Folosirea trimmerelor la viteza maximă crește riscul de instabilitate și necesită atenție sporită.",
    "long": "Trimmerele deschise la viteză mare reduc stabilitatea și cresc riscul de instabilitate, deci pilotul trebuie să fie atent.",
@@ -760,6 +781,7 @@
   },
   {
    "number": "#22",
+   "exams": ["deva"],
    "text": "624: Cum influențează turbulențele performanța unei aripi în zbor?",
    "short": "Turbulențele pot provoca pierderea portanței și instabilitate temporară.",
    "long": "Turbulențele pot produce pierderea temporară a portanței și instabilitate, deoarece schimbă brusc unghiul de atac.",
@@ -797,6 +819,7 @@
   },
   {
    "number": "#23",
+   "exams": ["deva"],
    "text": "669: Ce factori trebuie luați în considerare când alegem dimensiunea aripii pentru un pilot cu puțină experiență?",
    "short": "La alegerea dimensiunii aripii pentru un pilot cu puțină experiență se ține cont de greutatea pilotului, condițiile medii de zbor și nivelul de confort dorit.",
    "long": "Pentru un pilot cu puțină experiență se ține cont de greutatea pilotului, de condițiile medii de zbor și de confortul dorit, pentru a alege o aripă potrivită.",
@@ -833,6 +856,7 @@
   },
   {
    "number": "#24",
+   "exams": ["deva"],
    "text": "652: Cum afectează altitudinea mare performanța aripii?",
    "short": "La altitudine mare, performanța aripii scade: portanța scade și trebuie ajustată puterea.",
    "long": "La altitudine mare, aerul este mai rar, deci portanța scade, iar pilotul trebuie să ajusteze puterea.",
@@ -869,6 +893,7 @@
   },
   {
    "number": "#25",
+   "exams": ["deva"],
    "text": "666: Cum poate un elev începător să îmbunătățească coordonarea și controlul în timpul primei decolări?",
    "short": "Un elev începător își îmbunătățește coordonarea prin repetarea exercițiilor de sol, învățarea tehnicii corecte de alergare și practica sub supravegherea instructorului.",
    "long": "Un elev începător își îmbunătățește coordonarea prin exerciții la sol și prin învățarea tehnicii corecte de alergare, înainte de zbor.",
@@ -905,6 +930,7 @@
   },
   {
    "number": "#26",
+   "exams": ["deva"],
    "text": "625: Care este avântajul unui profil de aripă „high aspect ratio” (aspect ratio – raportul dintre lungimea aripii și coarda acesteia)",
    "short": "Un profil de aripă cu aspect ratio mare permite zborul la viteze mai mari cu consum redus de combustibil.",
    "long": "Aripa cu aspect mare (alungită) are finețe bună, deci permite viteze mai mari cu consum de energie mic, pentru zboruri de distanță.",
@@ -941,6 +967,7 @@
   },
   {
    "number": "#27",
+   "exams": ["deva"],
    "text": "600: Pentru a păstra altitudinea în timpul unui viraj accentuat ce trebuie să facem?",
    "short": "Pentru a păstra altitudinea în timpul unui viraj accentuat, pui accelerația pe tempomat (motorul la putere mai mare).",
    "long": "Într-un viraj accentuat, pentru a păstra altitudinea trebuie mărită viteza, deci accelerația trebuie menținută (portanța crește).",
@@ -977,6 +1004,7 @@
   },
   {
    "number": "#28",
+   "exams": ["deva"],
    "text": "660: Cum influențează vântul puternic de față viteza de zbor?",
    "short": "Un vânt puternic de față scade viteza de zbor față de sol.",
    "long": "Vântul de față scade viteza față de sol, deoarece viteza față de aer rămâne aceeași, dar aeronava se deplasează mai încet peste sol.",
@@ -1013,6 +1041,7 @@
   },
   {
    "number": "#29",
+   "exams": ["deva"],
    "text": "649: Cum afectează turbulențele puternice zborul unui paramotor?",
    "short": "Turbulențele puternice reduc stabilitatea și cresc riscul de pierdere a controlului.",
    "long": "Turbulențele puternice reduc stabilitatea aripii, deci cresc riscul de pierdere a controlului.",
@@ -1050,6 +1079,7 @@
   },
   {
    "number": "#30",
+   "exams": ["deva"],
    "text": "601: Ce se întâmplă dacă în aer frânăm aripa și accelerăm maxim, iar aripa rămâne excesiv în spatele nostru:",
    "short": "Dacă frânezi aripa și accelerezi maxim, iar aripa rămâne excesiv în spatele tău, aripa se angajează.",
    "long": "Dacă aripa rămâne prea în spate, aripa se angajează (intră în zona de forță redusă), iar pilotul trebuie să corecteze cu accelerare controlată.",
@@ -1086,6 +1116,7 @@
   },
   {
    "number": "#31",
+   "exams": ["deva"],
    "text": "589: Cum procedăm în cazul în care avem o închidere, iar parapanta a rămas între suspante și am intrat în autorotație?",
    "short": "Dacă ai o închidere și parașuta a rămas între suspante și ai intrat în autorotație, arunci imediat parașuta de rezervă.",
    "long": "Dacă parașuta de rezervă este prinsă de suspante și aripa este în autorotație, cea mai sigură acțiune este aruncarea imediată a parașutei de rezervă.",
@@ -1122,6 +1153,7 @@
   },
   {
    "number": "#32",
+   "exams": ["deva"],
    "text": "620: Polara aripii de parapantă descrie:",
    "short": "Polara aripii de parapantă descrie caracteristicile de zbor ale parapantei.",
    "long": "Polara descrie caracteristicile de zbor ale aripii: viteza de coborâre și viteza de înaintare la diferite viteze.",
@@ -1158,6 +1190,7 @@
   },
   {
    "number": "#33",
+   "exams": ["deva"],
    "text": "632: Cum este influență performanța elicei de vitezele mari?",
    "short": "La viteze mari, elicea devine mai puțin eficientă.",
    "long": "La viteze mari elicea se încarcă mai mult, iar eficiența ei scade, deoarece unghiul de atac al palelor devine nefavorabil.",
@@ -1194,6 +1227,7 @@
   },
   {
    "number": "#34",
+   "exams": ["deva"],
    "text": "610: În timpul zborului, pe partea de deasupra aripii (extrados) se formează:",
    "short": "Pe partea de deasupra aripii (extrados) se formează depresiune.",
    "long": "Pe extrados curgerea este mai rapidă și presiunea scade, formând depresiune, care contribuie la portanță.",
@@ -1230,6 +1264,7 @@
   },
   {
    "number": "#35",
+   "exams": ["deva"],
    "text": "676: În ce direcție acționează forța de tracțiune asupra unei parapante motorizate?",
    "short": "Forța de tracțiune acționează paralel cu direcția de zbor și înainte, în direcția mișcării.",
    "long": "Tracțiunea este forța motorului care împinge aeronava înainte, paralel cu direcția de zbor.",
@@ -1266,6 +1301,7 @@
   },
   {
    "number": "#36",
+   "exams": ["deva"],
    "text": "606: Dacă propulsia disponibilă depășește propulsia necesară menținerii motoparapantei în zbor orizontal:",
    "short": "Dacă propulsia disponibilă depășește propulsia necesară menținerii zborului orizontal, motoparapanta va urca.",
    "long": "Dacă propulsia disponibilă depășește cea necesară pentru zborul orizontal, surplusul de forță duce la urcare.",
@@ -1302,6 +1338,7 @@
   },
   {
    "number": "#37",
+   "exams": ["deva"],
    "text": "598: La majoritatea aripilor de generație nouă, în cazul zborului cu trimmer deschis și speed apăsat este recomandată folosirea intensă a frânelor:",
    "short": "La aripile noi, cu trimmer deschis și speed apăsat, nu se recomandă folosirea intensă a frânelor.",
    "long": "Cu trimmerele deschise și speed-ul apăsat, aripa lucrează la unghi de atac mic și este sensibilă. Frânele nu se folosesc în această configurație, pentru că pot duce la pierderea controlului.",
@@ -1338,6 +1375,7 @@
   },
   {
    "number": "#38",
+   "exams": ["deva"],
    "text": "586: Cum procedăm dacă după decolare avem nevoie de mâini să ne așezăm corect în seleta?",
    "short": "Dacă ai nevoie de mâini ca să te așezi corect în seletă după decolare, ții comenzile cu o mână și cu cealaltă te ajuți să intri, sau pui comenzile în magnet ori capse.",
    "long": "După decolare, pentru a intra în seletă, pilotul ține comenzile cu o mână, iar cu cealaltă se ajută la intrare, astfel aripa rămâne controlată.",
@@ -1374,6 +1412,7 @@
   },
   {
    "number": "#39",
+   "exams": ["deva"],
    "text": "684: În ce direcție acționează forța de inerție asupra unei parapante în timpul accelerării?",
    "short": "Forța de inerție acționează în direcția opusă accelerației și afectează stabilitatea și controlul.",
    "long": "Forța de inerție este orientată opus accelerației, deci la accelerare pilotul simte o forță care trage spre spate și afectează stabilitatea.",
@@ -1410,6 +1449,7 @@
   },
   {
    "number": "#40",
+   "exams": ["deva"],
    "text": "641: Ce se întâmplă dacă accelerăm paramotorul în timpul unui viraj strâns?",
    "short": "Dacă accelerezi paramotorul în timpul unui viraj strâns, crește forța G și poate duce la pierderea controlului.",
    "long": "La viraj strâns, accelerarea crește forța G, iar aripa poate pierde controlul, deoarece încărcarea depășește ce poate suporta.",
@@ -1446,6 +1486,7 @@
   },
   {
    "number": "#41",
+   "exams": ["deva"],
    "text": "611: La viteză constantă creșterea unghiului de incidență al unui profil va avea drept rezultat:",
    "short": "La viteză constantă, creșterea unghiului de incidență, conform băncii, duce la diminuarea rezistenței la înaintare.",
    "long": "Varianta A este greșită din punct de vedere fizic: creșterea unghiului de incidență crește portanța și, de regulă, rezistența indusă. Rezistența scade când unghiul scade.",
@@ -1482,6 +1523,7 @@
   },
   {
    "number": "#42",
+   "exams": ["deva"],
    "text": "682: Cum afectează direcția forței gravitaționale zborul unei parapante?",
    "short": "Forța gravitațională acționează vertical în jos, contracarând portanța și afectând altitudinea de zbor.",
    "long": "Greutatea acționează vertical în jos și trebuie contrabalansată de portanță. Dacă portanța scade, altitudinea scade.",
@@ -1518,6 +1560,7 @@
   },
   {
    "number": "#43",
+   "exams": ["deva"],
    "text": "585: Dacă în timpul zborului apar brusc vibrații puternice și zgomote cum procedăm?",
    "short": "Dacă apar brusc vibrații puternice și zgomote, oprești imediat motorul și aterizezi.",
    "long": "Vibrațiile puternice și zgomotele anormale indică o defecțiune, deci zborul se oprește și pilotul aterizează, dacă motorul este oprit în siguranță.",
@@ -1554,6 +1597,7 @@
   },
   {
    "number": "#44",
+   "exams": ["deva"],
    "text": "654: Cum se comportă aripile pentru avansați în condiții de turbulență?",
    "short": "Aripile pentru avansați sunt mai instabile în turbulență și necesită o manevrare mai precisă.",
    "long": "Aripile pentru avansați au performanță mai mare și sunt mai puțin stabile, deci cer manevrare precisă în turbulență.",
@@ -1590,6 +1634,7 @@
   },
   {
    "number": "#45",
+   "exams": ["deva"],
    "text": "674: Cum afectează unghiul de incidență stabilitatea și controlul unei parapante în diverse condiții de zbor?",
    "short": "Un unghi de incidență mai mare poate îmbunătăți stabilitatea la altitudini mari, dar crește rezistența aerodinamică și consumul de energie.",
    "long": "Un unghi de incidență mai mare crește portanța, deci poate ajuta stabilitatea la altitudini mari, dar crește și rezistența.",
@@ -1626,6 +1671,7 @@
   },
   {
    "number": "#46",
+   "exams": ["deva"],
    "text": "681: Cum influențează direcția forței centrifuge comportamentul unei parapante în viraj?",
    "short": "Forța centrifugă acționează radial în afară de centrul virajului, crescând presiunea pe aripa exterioară.",
    "long": "Forța centrifugă acționează radial, spre exteriorul virajului, și crește presiunea pe aripă în viraj.",
@@ -1662,6 +1708,7 @@
   },
   {
    "number": "#47",
+   "exams": ["deva"],
    "text": "667: Ce caracteristici ar trebui să aibă o aripă recomandată pentru elevii fără experiență?",
    "short": "Elevilor fără experiență li se recomandă o aripă cu stabilitate ridicată și manevrabilitate redusă, pentru a preveni erorile de control.",
    "long": "Pentru elevii fără experiență se recomandă o aripă cu stabilitate ridicată și manevrabilitate moderată, care iartă greșelile.",
@@ -1698,6 +1745,7 @@
   },
   {
    "number": "#48",
+   "exams": ["deva"],
    "text": "656: Cum reacționezi în cazul unei scăderi bruște a altitudinii în timpul unui viraj?",
    "short": "Dacă ai o scădere bruscă de altitudine în timpul unui viraj, crești puterea motorului și stabilizezi aripa.",
    "long": "Dacă altitudinea scade brusc în viraj, pilotul crește puterea motorului și stabilizează aripa, pentru a recăpăta portanța.",
@@ -1734,6 +1782,7 @@
   },
   {
    "number": "#49",
+   "exams": ["deva"],
    "text": "617: Încărcarea alară se referă la:",
    "short": "Încărcarea alară este raportul dintre greutatea totală în zbor și suprafața portantă a aripii.",
    "long": "Încărcarea alară este raportul dintre greutatea totală în zbor și suprafața portantă a aripii.",
@@ -1770,6 +1819,7 @@
   },
   {
    "number": "#50",
+   "exams": ["deva"],
    "text": "593: Sunt cu fața în vânt iar intensitatea vântului corespunde cu viteza mea față de aer:",
    "short": "Dacă ești cu fața în vânt și intensitatea vântului corespunde cu viteza ta față de aer, stai pe loc.",
    "long": "Dacă pilotul stă cu fața în vânt și viteza vântului este egală cu viteza față de aer, viteza față de sol este zero: stă pe loc.",
@@ -1806,6 +1856,7 @@
   },
   {
    "number": "#51",
+   "exams": ["deva"],
    "text": "613: Când unghiul de incidență crește:",
    "short": "Când unghiul de incidență crește, crește portanța și scade viteza.",
    "long": "Creșterea unghiului de incidență crește portanța, dar și rezistența, deci viteza de înaintare scade.",
@@ -1842,6 +1893,7 @@
   },
   {
    "number": "#52",
+   "exams": ["deva"],
    "text": "636: Cum influențează viteza mică performanța paramotorului în timpul zborului de croazieră?",
    "short": "Viteza mică în zborul de croazieră permite economisirea combustibilului și crește autonomia totală.",
    "long": "Zborul la viteză mică consumă mai puțin combustibil și dă autonomie mai mare, deci permite zboruri mai lungi.",
@@ -1878,6 +1930,7 @@
   },
   {
    "number": "#53",
+   "exams": ["deva"],
    "text": "643: Ce se întâmplă dacă forța de frânare este aplicată excesiv în timpul unui viraj?",
    "short": "Dacă forța de frânare este aplicată excesiv în timpul unui viraj, aripa poate intra în stall și pierde altitudine rapid.",
    "long": "Frânarea excesivă în viraj crește unghiul de atac peste limită, aripa intră în stall și pierde altitudine rapid.",
@@ -1914,6 +1967,7 @@
   },
   {
    "number": "#54",
+   "exams": ["deva"],
    "text": "623: De ce aripile cu un profil reflex sunt preferate pentru paramotoare?",
    "short": "Aripile cu profil reflex sunt preferate pentru paramotoare pentru că oferă o stabilitate mai bună la viteze mari și reduc riscul de colaps.",
    "long": "Profilul reflex are o curbură care dă stabilitate mai bună la viteze mari și reduce riscul de colaps.",
@@ -1950,6 +2004,7 @@
   },
   {
    "number": "#55",
+   "exams": ["deva"],
    "text": "675: Cum acționează forța portanței asupra unei parapante în zbor?",
    "short": "Portanța acționează perpendicular pe direcția de zbor și contrar greutății.",
    "long": "Portanța este perpendiculară pe direcția de zbor și se opune greutății, deci acționează în sus.",
@@ -1986,6 +2041,7 @@
   },
   {
    "number": "#56",
+   "exams": ["deva"],
    "text": "621: De ce o aripă produce portanță?",
    "short": "Aripa produce portanță datorită diferenței de presiune dintre partea superioară și cea inferioară, cauzată de profilul curbat.",
    "long": "Aripa produce portanță datorită diferenței de presiune: presiune mai mică deasupra (extrados) și mai mare dedesubt (intrados).",
@@ -2022,6 +2078,7 @@
   },
   {
    "number": "#57",
+   "exams": ["deva"],
    "text": "658: Cum influențează condițiile termice puternice zborul unui paramotor?",
    "short": "Condițiile termice puternice cresc riscul de turbulențe și necesită atenție sporită.",
    "long": "Termicele puternice produc turbulență și curenți ascendenți și descendenți, care cer atenție sporită la pilotaj.",
@@ -2058,6 +2115,7 @@
   },
   {
    "number": "#58",
+   "exams": ["deva"],
    "text": "673: Cum influențează forța de tracțiune zborului unei parapante?",
    "short": "Forța de tracțiune acționează paralel cu direcția de zbor și contribuie la înaintarea parapantei, influențând viteza și stabilitatea.",
    "long": "Tracțiunea acționează paralel cu direcția de zbor, înainte, și contribuie la menținerea și creșterea vitezei.",
@@ -2094,6 +2152,7 @@
   },
   {
    "number": "#59",
+   "exams": ["deva"],
    "text": "647: Cum vei proceda în situația în care simți că aripa ta începe să piardă altitudine rapid în timpul unui viraj strâns?",
    "short": "Dacă aripa începe să piardă altitudine rapid într-un viraj strâns, mărești puterea motorului și eliberezi ușor frânele.",
    "long": "Dacă aripa pierde altitudine rapid în viraj strâns, pilotul mărește puterea și eliberează ușor frânele, ca să recapete portanța.",
@@ -2130,6 +2189,7 @@
   },
   {
    "number": "#60",
+   "exams": ["deva"],
    "text": "587: Care sunt elementele disponibile pentru a obține o viteză superioară?",
    "short": "Elementele disponibile pentru a obține o viteză superioară sunt trimmerul și acceleratorul.",
    "long": "Viteza superioară se obține cu trimmerele (scurtând marginea de fugă) și cu accelerația (speed-ul), care modifică unghiul de atac.",
@@ -2166,6 +2226,7 @@
   },
   {
    "number": "#61",
+   "exams": ["deva"],
    "text": "665: Cum influențează greșelile de poziționare a aripii în timpul decolării?",
    "short": "O aripă poziționată incorect poate provoca umflarea asimetrică, ducând la o decolare instabilă și potențial periculoasă.",
    "long": "Dacă aripa este poziționată greșit la decolare, se umflă asimetric, ceea ce duce la încurcare sau la dezechilibru.",
@@ -2202,6 +2263,7 @@
   },
   {
    "number": "#62",
+   "exams": ["deva"],
    "text": "584: Ce este conul de siguranță?",
    "short": "Conul de siguranță este un con imaginar, cu vârful la motoparapantă, în interiorul căruia, dacă motorul se oprește, poți ajunge la un teren suficient de mare pentru aterizare.",
    "long": "Conul de siguranță este un con imaginar cu vârful în motoparapantă, în interiorul căruia se poate ajunge la un teren de aterizare.",
@@ -2238,6 +2300,7 @@
   },
   {
    "number": "#63",
+   "exams": ["deva"],
    "text": "634: Cum influențează consumul ridicat de combustibil performanța paramotorului în urcare?",
    "short": "Consumul ridicat de combustibil permite o urcare rapidă, dar reduce autonomia totală de zbor.",
    "long": "Urcarea rapidă cere putere mare și consum mare, deci reduce autonomia totală a zborului.",
@@ -2274,6 +2337,7 @@
   },
   {
    "number": "#64",
+   "exams": ["deva"],
    "text": "630: Cum afectează viteza mică urcarea unui paramotor?",
    "short": "Viteza mică permite o urcare eficientă a paramotorului.",
    "long": "La viteză mică, aripa și motorul pot face o urcare eficientă, dacă puterea și unghiul de atac sunt bine reglate.",
@@ -2310,6 +2374,7 @@
   },
   {
    "number": "#65",
+   "exams": ["deva"],
    "text": "607: Unghiul de atac (incidență) reprezintă:",
    "short": "Unghiul de atac (incidență) este unghiul format între coarda profilului aripii și vântul relativ.",
    "long": "Unghiul de atac este unghiul dintre coarda profilului și direcția vântului relativ (curentul de aer care vine spre aripă).",
@@ -2346,6 +2411,7 @@
   },
   {
    "number": "#66",
+   "exams": ["deva"],
    "text": "645: Cum este indicat să zbori ca începător?",
    "short": "Ca începător este indicat să eviți manevrele avansate și să te concentrezi pe controlul de bază.",
    "long": "Un începător trebuie să evite manevrele avansate și să se concentreze pe controlul de bază, până acumulează experiență.",
@@ -2382,6 +2448,7 @@
   },
   {
    "number": "#67",
+   "exams": ["deva"],
    "text": "680: În ce direcție acționează forțele de presiune aerodinamică asupra unei parapante?",
    "short": "Forțele de presiune aerodinamică acționează perpendicular pe suprafața aripii și în toate direcțiile, în funcție de curgerea aerului.",
    "long": "Presiunile aerodinamice acționează perpendicular pe suprafața aripii, în toate direcțiile, în funcție de curgerea aerului.",
@@ -2418,6 +2485,7 @@
   },
   {
    "number": "#68",
+   "exams": ["deva"],
    "text": "662: Care sunt pașii esențiali pe care un elev începător trebuie să-i urmeze pentru a realiza o decolare sigură?",
    "short": "Pașii pentru o decolare sigură ca începător sunt: verificarea echipamentului, poziționarea corectă a aripii, evaluarea vântului și aplicarea tehnicii corecte de alergare.",
    "long": "O decolare sigură cere verificarea echipamentului, poziționarea corectă a aripii, evaluarea vântului și tehnica corectă de alergare.",
@@ -2454,6 +2522,7 @@
   },
   {
    "number": "#69",
+   "exams": ["deva"],
    "text": "635: Cum afectează altitudinea mare performanța aripii și a elicei?",
    "short": "La altitudine mare, scade portanța și tracțiunea, deci trebuie ajustat amestecul de combustibil.",
    "long": "La altitudine mare aerul este mai rar, deci portanța și tracțiunea scad, iar amestecul de combustibil trebuie reglat.",
@@ -2490,6 +2559,7 @@
   },
   {
    "number": "#70",
+   "exams": ["deva"],
    "text": "599: La eliberarea trimerelor în zbor, avem în vedere:",
    "short": "La eliberarea trimmerelor în zbor, le eliberezi ușor și simultan, pentru a păstra direcția și a evita o descendență bruscă.",
    "long": "Trimmerele se eliberează ușor și simultan, pentru a păstra direcția și a evita o deformare asimetrică a aripii.",
@@ -2526,6 +2596,7 @@
   },
   {
    "number": "#71",
+   "exams": ["deva"],
    "text": "678: În ce direcție acționează forța de greutate asupra unei parapante în zbor?",
    "short": "Greutatea acționează vertical în jos, contrar portanței.",
    "long": "Greutatea acționează vertical în jos, opusă portanței, și este contrabalansată de portanță pentru ca zborul să se mențină.",
@@ -2562,6 +2633,7 @@
   },
   {
    "number": "#72",
+   "exams": ["deva"],
    "text": "637: Inspecția aripilor utilizate intens trebuie făcută:",
    "short": "Inspecția aripilor utilizate intens trebuie făcută după o încărcare bruscă, cum ar fi snap-ul în timpul gonflajului sau lovirea brutală a bordului de atac de sol.",
    "long": "Aripile folosite intens se inspectează după încărcări bruște (de exemplu snap-ul din gonflaj sau din zbor), care pot afecta structura și materialul.",
@@ -2598,6 +2670,7 @@
   },
   {
    "number": "#73",
+   "exams": ["deva"],
    "text": "619: Centrul de presiune este:",
    "short": "Centrul de presiune este mobil sau fix, în funcție de tipul profilului aerodinamic.",
    "long": "Centrul de presiune se deplasează pe profil în funcție de forma profilului și de unghiul de atac; la unele profile este aproape fix, la altele se mișcă.",
@@ -2634,6 +2707,7 @@
   },
   {
    "number": "#74",
+   "exams": ["deva"],
    "text": "640: Cum vei proceda în situația în care simți că aripa începe să penduleze puternic?",
    "short": "Dacă simți că aripa începe să penduleze puternic, reduci puterea motorului și stabilizezi aripa folosind frânele.",
    "long": "Pendularea puternică se oprește reducând puterea și stabilizând aripa cu frânele, deoarece accelerația mare întreține oscilația.",
@@ -2670,6 +2744,7 @@
   },
   {
    "number": "#75",
+   "exams": ["deva"],
    "text": "646: Ce se întâmplă dacă accelerăm excesiv paramotorul fără a deschide trimmerele?",
    "short": "Dacă accelerezi excesiv paramotorul fără a deschide trimmerele, crește riscul de stall din cauza unghiului de atac prea mare.",
    "long": "Accelerarea excesivă fără trimmere mărește unghiul de atac, iar aripa se apropie de stall.",
@@ -2706,6 +2781,7 @@
   },
   {
    "number": "#76",
+   "exams": ["deva"],
    "text": "670: Cum influențează tipul de aripă progresul în învățarea piloților cu puțină experiență?",
    "short": "Pentru piloții cu puțină experiență, aripile stabile și ușor de controlat permit învățarea treptată și reduc riscul de accidente.",
    "long": "Aripile stabile și ușor de controlat permit învățarea treptată și reduc riscul de incidente pentru un pilot cu puțină experiență.",
@@ -2742,6 +2818,7 @@
   },
   {
    "number": "#77",
+   "exams": ["deva"],
    "text": "597: În cazul unui unghi de incidență mic (trimer deschis, speed călcat), se recomandă:",
    "short": "La un unghi de incidență mic, cu trimmer deschis și speed apăsat, zbori cu atenție deosebită și în condiții calme, deoarece există posibilitate mare de colaps.",
    "long": "Cu unghi de incidență mic (trimmer deschis, speed apăsat) aripa este mai sensibilă, deci se zboară atent și în condiții calme.",
@@ -2778,6 +2855,7 @@
   },
   {
    "number": "#78",
+   "exams": ["deva"],
    "text": "651: În ce mod ar trebui să reacționezi dacă aripa începe să penduleze în condiții termice instabile?",
    "short": "Dacă aripa începe să penduleze în condiții termice instabile, reduci puterea motorului și folosești frânele pentru a stabiliza.",
    "long": "Pendularea în condiții termice instabile se oprește reducând puterea și stabilizând cu frânele.",
@@ -2814,6 +2892,7 @@
   },
   {
    "number": "#79",
+   "exams": ["deva"],
    "text": "605: Cele 4 forțe care acționează asupra motoparapantei în timpul zborului sunt:",
    "short": "Cele patru forțe care acționează asupra motoparapantei în zbor sunt greutatea, propulsia, rezistența la înaintare și portanța.",
    "long": "Cele patru forțe ale zborului sunt greutatea, propulsia (tracțiunea), rezistența la înaintare și portanța.",
@@ -2850,6 +2929,7 @@
   },
   {
    "number": "#80",
+   "exams": ["deva"],
    "text": "668: Cum ar trebui să fie construcția aripii pentru piloții cu puțină experiență după ieșirea din școală?",
    "short": "Pentru piloții cu puțină experiență, după școală, aripa trebuie să aibă un material durabil, cu rezistență ridicată la uzură și o structură ușoară pentru manevrabilitate.",
    "long": "După școală, aripa trebuie să fie durabilă, cu rezistență ridicată la uzură și structură ușoară, pentru că pilotul o folosește frecvent.",
@@ -2886,6 +2966,7 @@
   },
   {
    "number": "#81",
+   "exams": ["deva"],
    "text": "683: Cum influențează direcția forței aerodinamice rezultante dinamica zborului unei parapante?",
    "short": "Forța aerodinamică rezultantă acționează oblic față de direcția de zbor, combinând portanța și rezistența aerodinamică.",
    "long": "Forța aerodinamică rezultantă are două componente: portanța, perpendiculară pe zbor, și rezistența, opusă zborului. Rezultanta este oblică față de direcția de zbor.",
@@ -2922,6 +3003,7 @@
   },
   {
    "number": "#82",
+   "exams": ["deva"],
    "text": "609: Unghiul de pantă în urcarea cu motor crește odată cu:",
    "short": "Unghiul de pantă în urcarea cu motor crește odată cu creșterea puterii și scăderea greutății.",
    "long": "Unghiul de pantă la urcare crește cu excedentul de putere și scade cu greutatea: mai multă putere și mai puțină greutate permit o urcare mai abruptă.",
@@ -2958,6 +3040,7 @@
   },
   {
    "number": "#83",
+   "exams": ["deva"],
    "text": "626: De ce aripile simetrice sunt mai puțin eficiente pentru zborul la viteze mici?",
    "short": "Aripile simetrice sunt mai puțin eficiente la viteze mici, pentru că nu generează suficientă portanță la unghiuri de atac mici.",
    "long": "La unghiuri de atac mici, aripa simetrică generează puțină portanță, deci eficiența la viteze mici este redusă.",
@@ -2994,6 +3077,7 @@
   },
   {
    "number": "#84",
+   "exams": ["deva"],
    "text": "596: Verificarea pentru zbor trebuie efectuată:",
    "short": "Verificarea pentru zbor trebuie efectuată înaintea fiecărui zbor.",
    "long": "Verificarea se face înaintea fiecărui zbor, pentru că starea echipamentului se poate schimba între zboruri.",
@@ -3030,6 +3114,7 @@
   },
   {
    "number": "#85",
+   "exams": ["deva"],
    "text": "628: Cum contribuie forma aripii la eficiența generală a zborului?",
    "short": "O formă cu curbură moderată optimizează portanța și minimizează rezistența aerodinamică.",
    "long": "O curbură moderată a profilului dă portanță bună și rezistență mică, deci eficiență bună.",
@@ -3066,6 +3151,7 @@
   },
   {
    "number": "#86",
+   "exams": ["deva"],
    "text": "604: La aterizare este indicat să venim cu viteza ridicata sau în limita de viteza înainte de filarea finală?",
    "short": "La aterizare venim cu mâinile sus, pentru a avea energia necesară filării, nu frânând înainte de final.",
    "long": "La apropierea finală, aripa nu este frânată prea mult, pentru a păstra energia necesară filării; mâinile sunt ținute sus, fără frâne, până aproape de atingere.",
@@ -3102,6 +3188,7 @@
   },
   {
    "number": "#87",
+   "exams": ["deva"],
    "text": "629: Cum influențează viteza mare performanța aripii în timpul zborului?",
    "short": "La viteză mare, aripa are rezistență aerodinamică mai mare și stabilitate mai mică în turbulență.",
    "long": "Viteza mare crește rezistența aerodinamică și face aripa mai puțin stabilă în turbulență, deci crește solicitarea.",
@@ -3138,6 +3225,7 @@
   },
   {
    "number": "#88",
+   "exams": ["deva"],
    "text": "602: Care din următoarele afirmații este adevarată în zborul într-o masă de aer (vânt) cu viteza de 60 km/h față de sol când viteza noastra față de masă de aer este de 60 km/h:",
    "short": "Cu vânt de față de 60 km/h și viteza față de aer de 60 km/h, viteza față de sol este zero.",
    "long": "Cu vânt de față, viteza față de sol scade. Dacă vântul este egal cu viteza aeronavei față de aer, viteza față de sol devine zero.",
@@ -3174,6 +3262,7 @@
   },
   {
    "number": "#89",
+   "exams": ["deva"],
    "text": "659: Ce faci dacă simți că aripa începe să oscileze puternic în timpul unui viraj strâns?",
    "short": "Dacă aripa începe să oscileze puternic într-un viraj strâns, reduci puterea motorului și stabilizezi aripa folosind frânele.",
    "long": "Oscilația puternică la viraj strâns se oprește reducând puterea și stabilizând aripa cu frânele, cu corecții moderate.",
@@ -3210,6 +3299,7 @@
   },
   {
    "number": "#90",
+   "exams": ["deva"],
    "text": "648: Ce se întâmplă dacă folosești speedbar-ul și trimmerele deschise complet în timpul zborului?",
    "short": "Dacă folosești speedbar-ul și trimmerele deschise complet, aripa atinge viteza maximă, dar devine mai sensibilă la manevre bruște.",
    "long": "Cu speed-ul apăsat complet și trimmerele deschise, aripa atinge viteza maximă, dar devine mai sensibilă la manevre bruște.",
@@ -3246,6 +3336,7 @@
   },
   {
    "number": "#91",
+   "exams": ["deva"],
    "text": "638: Trimmerele trebuie verificate înainte de decolare pentru a asigura că:",
    "short": "Trimmerele trebuie verificate înainte de decolare pentru a fi setate pentru decolare.",
    "long": "Trimmerele se verifică pentru a fi setate în poziția pentru decolare, recomandată de constructor.",
@@ -3282,6 +3373,7 @@
   },
   {
    "number": "#92",
+   "exams": ["deva"],
    "text": "588: Cum procedăm dacă ne intersectăm cu o aeronavă la înălțimea noastră de zbor?",
    "short": "Dacă te intersectezi cu o aeronavă la înălțimea ta de zbor, virezi la dreapta.",
    "long": "Dacă o aeronavă vine pe aceeași altitudine, pilotul virează la dreapta, conform regulii de trecere (RACR-RA).",
@@ -3318,6 +3410,7 @@
   },
   {
    "number": "#93",
+   "exams": ["deva"],
    "text": "592: Virajele sunt mai ușor de realizat:",
    "short": "Virajele sunt mai ușor de realizat în sensul cuplului motor.",
    "long": "Virajele sunt mai ușor de făcut în sensul cuplului motor, deoarece efectul cuplului reactiv se adaugă la înclinare.",
@@ -3354,6 +3447,7 @@
   },
   {
    "number": "#94",
+   "exams": ["deva"],
    "text": "622: Cum influențează profilul unei aripi eficiența zborului?",
    "short": "Profilul cu o curbură mai pronunțată produce mai multă portanță, dar și mai multă rezistență aerodinamică.",
    "long": "O curbură mai pronunțată a profilului dă mai multă portanță, dar și mai multă rezistență, deci eficiența depinde de compromis.",
@@ -3390,6 +3484,7 @@
   },
   {
    "number": "#95",
+   "exams": ["deva"],
    "text": "631: Ce se întâmplă dacă folosești viteza maximă în timpul urcării?",
    "short": "Dacă folosești viteza maximă în timpul urcării, crește consumul de combustibil și riscul de supraîncălzire a motorului.",
    "long": "Viteza maximă în urcare cere putere mare, crește consumul de combustibil și riscul de supraîncălzire a motorului.",
@@ -3426,6 +3521,7 @@
   },
   {
    "number": "#96",
+   "exams": ["deva"],
    "text": "644: Cum vei proceda în situația în care aripa intră într-un front stall la viteză maximă cu trimmerele complet deschise?",
    "short": "Dacă aripa intră într-un front stall la viteză maximă cu trimmerele deschise, închizi trimmerele și folosești frânele pentru stabilizare.",
    "long": "La front stall cu trimmerele deschise, pilotul închide trimmerele și folosește frânele pentru a stabiliza aripa.",
@@ -3462,6 +3558,7 @@
   },
   {
    "number": "#97",
+   "exams": ["deva"],
    "text": "583: Zburăm la 500m înalțime față de relief, care este procedura în cazul în care se oprește motorul?",
    "short": "Dacă zbori la 500 m față de relief și motorul se oprește, vizualizezi terenul de aterizare din conul de siguranță, încerci repornirea și stabilești direcția vântului.",
    "long": "La oprirea motorului la 500 m, pilotul localizează un câmp de aterizare aflat în conul de siguranță și încearcă repornirea motorului, fără să piardă câmpul de vedere asupra terenului.",
@@ -3498,6 +3595,7 @@
   },
   {
    "number": "#98",
+   "exams": ["deva"],
    "text": "591: Unghiul de incidență al aripii este mai mare:",
    "short": "Unghiul de incidență al aripii este mai mare cu speed-ul neapăsat și trimmerul în poziție standard, închis.",
    "long": "Cu speed-ul neapăsat și trimmerul închis, unghiul de incidență este mai mare, deoarece aripa are profilul cel mai curbat.",
@@ -3534,6 +3632,7 @@
   },
   {
    "number": "#99",
+   "exams": ["deva"],
    "text": "582: Dacă în timpul decolării în faza de gonflaj aripa este mult în dreapta aproape de sol într-o poziție asimetrică față de pilot, cum procedăm?",
    "short": "Dacă în timpul gonflajului aripa este mult în dreapta, aproape de sol și asimetrică față de pilot, oprești motorul și renunți la decolare.",
    "long": "Dacă aripa este asimetrică aproape de sol la gonflaj, nu se poate corecta în siguranță, iar decolarea se anulează și motorul se oprește.",
@@ -3570,6 +3669,7 @@
   },
   {
    "number": "#100",
+   "exams": ["deva"],
    "text": "664: Ce tehnici ar trebui să folosească un elev începător pentru a menține stabilitatea aripii în timpul decolării?",
    "short": "Pentru a menține stabilitatea aripii la decolare, ajustezi frânele pentru a menține aripa centrată, folosești un unghi de atac adecvat și menții o alergare constantă.",
    "long": "Pentru stabilitatea aripii la decolare, elevul folosește frânele pentru a menține aripa centrată și alergarea într-un unghi bun pentru umflare.",
@@ -3606,6 +3706,7 @@
   },
   {
    "number": "#101",
+   "exams": ["deva"],
    "text": "679: Cum este direcționată forța de frânare aplicată pe o parapantă în zbor?",
    "short": "Forța de frânare aplicată pe o parapantă în zbor este orientată în jos și înapoi, reducând viteza și crescând portanța.",
    "long": "Forța de frânare acționează în jos și înapoi, reduce viteza și crește portanța, deoarece unghiul de atac crește.",
@@ -3642,6 +3743,7 @@
   },
   {
    "number": "#102",
+   "exams": ["deva"],
    "text": "642: Cum este indicat să zbori când ai trimmerele setate la viteza maximă?",
    "short": "Când ai trimmerele setate la viteza maximă, eviți manevrele bruște și folosești tip steering pentru viraje.",
    "long": "Cu trimmerele la viteza maximă, aripa este sensibilă, deci pilotul evită manevrele bruște și controlează virajele cu comenzile moderate.",
@@ -3678,6 +3780,7 @@
   },
   {
    "number": "#103",
+   "exams": ["deva"],
    "text": "663: Cum ar trebui să reacționeze un elev începător dacă aripa nu se umflă corect în timpul decolării?",
    "short": "Dacă aripa nu se umflă corect în timpul decolării, reduci imediat puterea motorului, verifici poziția aripii și repeți procedura de umflare cu atenție sporită.",
    "long": "Dacă aripa nu se umflă corect la decolare, pilotul reduce imediat puterea, verifică poziția aripii și repetă procedura de gonflare cu atenție.",

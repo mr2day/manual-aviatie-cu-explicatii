@@ -4,6 +4,7 @@
  "questions": [
   {
    "number": "#1",
+   "exams": ["deva"],
    "text": "228: Ce este vântul foehn?",
    "short": "Vântul foehn este o mișcare de aer care urcă pe un versant, apoi coboară pe partea cealaltă a abruptului, încălzindu-se și uscându-se.",
    "long": "Vântul foehn este un vânt cald și uscat care apare pe versantul protejat (sub vânt) al unui munte. Aerul urcă pe versantul expus, se răcește, cade precipitații, apoi coboară pe versantul sub vânt și se încălzește prin compresie, devenind uscat.",
@@ -40,6 +41,7 @@
   },
   {
    "number": "#2",
+   "exams": ["deva"],
    "text": "225: Temperatura la sol este de 20 de grade, care este temperatura probabilă la înălțimea de 2000 m?",
    "short": "Dacă temperatura la sol este de 20°C, la 2000 m temperatura probabilă este de aproximativ 8°C.",
    "long": "Temperatura scade cu circa 6,5°C la fiecare 1000 m în atmosfera standard. Pe 2000 m scade cu 13°C: de la 20°C ajungem la aproximativ 7–8°C.",
@@ -76,6 +78,7 @@
   },
   {
    "number": "#3",
+   "exams": ["deva"],
    "text": "284: Ce este nebulozitatea?",
    "short": "Nebulozitatea este gradul de acoperire a cerului cu nori, măsurat în optanți.",
    "long": "Nebulozitatea este gradul de acoperire a cerului cu nori, estimat în octanți (sferturi de cer, opt părți). Cerul senin are 0 octanți, cerul complet acoperit are 8.",
@@ -112,6 +115,7 @@
   },
   {
    "number": "#4",
+   "exams": ["deva"],
    "text": "297: Care sunt valorile treptei barice?",
    "short": "Toate valorile pentru treapta barică sunt corecte.",
    "long": "Treapta barică este variația de altitudine necesară pentru o scădere de 1 hPa. La nivelul mării este de circa 8 m, iar la altitudine mare crește: la 5500 m este circa 16 m, iar la 11 000 m circa 32 m. Toate variantele descriu corect aceste valori.",
@@ -148,6 +152,7 @@
   },
   {
    "number": "#5",
+   "exams": ["deva"],
    "text": "282: Cum se formează ceața de radiație?",
    "short": "Ceața de radiație se formează prin condensarea vaporilor de apă când aerul se răcește noaptea, pe cer senin.",
    "long": "Ceața de radiație se formează noaptea, pe cer senin și fără vânt. Solul se răcește prin radiație, iar aerul din strat se răcește sub punctul de rouă și vaporii condensează.",
@@ -184,6 +189,7 @@
   },
   {
    "number": "#6",
+   "exams": ["deva"],
    "text": "222: Cu care tip de nori sunt asociate furtunile?",
    "short": "Furtunile sunt asociate cu norii de tip cumulonimbus.",
    "long": "Furtunile și grindină se asociază cu norii cumulonimbus, care au dezvoltare verticală mare și curenți ascendenți puternici.",
@@ -221,6 +227,7 @@
   },
   {
    "number": "#7",
+   "exams": ["deva"],
    "text": "286: Vântul anabatic poate fi întâlnit:",
    "short": "Vântul anabatic apare pe versanții munților în timpul zilei, când soarele încălzește pantele.",
    "long": "## Cum se formează vântul anabatic\nRadiația soarelui încălzește pantele munților. Aerul de lângă pantă se încălzește, devine mai ușor decât aerul din jur și urcă de-a lungul versantului. Efectul e cel mai puternic ziua, pe versanții expuși soarelui.\n\n## Unde apare\nPe versanții munților, mai ales vara, în cursul zilei. Nu apare în zonele polare, unde lipsește încălzirea zilnică puternică, și nu e tipic deșerturilor, unde nu există versanți cu același mecanism. Brizele de mare sunt alt fenomen, legat de diferența de încălzire dintre uscat și apă.",
@@ -257,6 +264,7 @@
   },
   {
    "number": "#8",
+   "exams": ["deva"],
    "text": "279: Când se utilizează CAVOK?",
    "short": "CAVOK se utilizează când vizibilitatea orizontală este de 10 km sau mai mare.",
    "long": "CAVOK (ceiling and visibility OK) se folosește când vizibilitatea este de cel puțin 10 km, nu există nori sub 1500 m și nu sunt fenomene meteo importante.",
@@ -293,6 +301,7 @@
   },
   {
    "number": "#9",
+   "exams": ["deva"],
    "text": "320: Care dintre următoarele fenomene pot duce la o activitate orajoasă?",
    "short": "Frontul rece poate produce activitate orajoasă.",
    "long": "Frontul rece împinge aer cald în sus, rapid și instabil, cu nori cumulonimbus, averse și activitate orajoasă.",
@@ -329,6 +338,7 @@
   },
   {
    "number": "#10",
+   "exams": ["deva"],
    "text": "281: Unde se produce ceața frontală?",
    "short": "Ceața frontală apare la trecerea fronturilor, într-o zonă îngustă de-a lungul frontului, în masa de aer rece.",
    "long": "Ceața frontală apare la trecerea fronturilor, într-o zonă îngustă de-a lungul frontului, unde aerul cald și umed întâlnește aerul rece.",
@@ -365,6 +375,7 @@
   },
   {
    "number": "#11",
+   "exams": ["deva"],
    "text": "294: Ce este amplitudinea termică?",
    "short": "Amplitudinea termică este diferența dintre temperatura maximă și cea minimă dintr-un loc, pe parcursul a 24 de ore.",
    "long": "Amplitudinea termică este diferența dintre temperatura maximă și cea minimă dintr-un anumit loc, de obicei într-o zi.",
@@ -401,6 +412,7 @@
   },
   {
    "number": "#12",
+   "exams": ["deva"],
    "text": "306: Ce caracteristici are o masă de aer instabilă?",
    "short": "Într-o masă de aer instabilă apar turbulențe, vizibilitate bună și nori cumuliformi.",
    "long": "Aerul instabil se ridică ușor, formează turbulență, nori cumuliformi și de regulă vizibilitate bună între averse.",
@@ -437,6 +449,7 @@
   },
   {
    "number": "#13",
+   "exams": ["deva"],
    "text": "256: Vântul laminar este:",
    "short": "Vântul laminar este vântul care își păstrează direcția și intensitatea.",
    "long": "## Ce este vântul laminar\nVântul laminar curge în straturi paralele, regulat, fără vârtejuri. Își păstrează direcția și intensitatea pentru că nu este perturbat de obstacole sau de convecție.\n\n## De ce contează pentru zbor\nVântul laminar e mai previzibil și mai ușor de folosit. Vântul turbulent, produs de obstacole sau de convecție, schimbă rapid direcția și viteza, deci e mai periculos.",
@@ -473,6 +486,7 @@
   },
   {
    "number": "#14",
+   "exams": ["deva"],
    "text": "288: Fohn-ul este:",
    "short": "Foehn-ul este vântul descendent, cald și uscat, care apare pe versantul adăpostit al unui munte.",
    "long": "Foehnul este vântul descendent și încălzit care apare pe versantul sub vânt al unui munte, după ce aerul și-a pierdut umezeala pe versantul expus.",
@@ -509,6 +523,7 @@
   },
   {
    "number": "#15",
+   "exams": ["deva"],
    "text": "255: Nivelul de condensare reprezintă:",
    "short": "Nivelul de condensare este înălțimea la care umiditatea relativă devine 100%.",
    "long": "Nivelul de condensare este înălțimea la care aerul ascendent ajunge la saturație (umiditate relativă 100%) și începe să se formeze nori.",
@@ -545,6 +560,7 @@
   },
   {
    "number": "#16",
+   "exams": ["deva"],
    "text": "217: În planificarea unui zbor de distanță la altitudini mari trebuie să ținem cont de:",
    "short": "La un zbor de distanță, la altitudini mari, trebuie să luăm în calcul vântul la sol și în altitudine, fenomenele locale, imaginile din satelit, prognoza și restricțiile zilei.",
    "long": "La zborul de distanță la altitudine trebuie luate în calcul vântul la sol și în altitudine, precum și fenomenele locale (vânt catabatic, vânt de vale, curenți ascendenți), care pot schimba drumul și siguranța.",
@@ -581,6 +597,7 @@
   },
   {
    "number": "#17",
+   "exams": ["deva"],
    "text": "292: Ce este umiditatea relativă?",
    "short": "Umiditatea relativă este raportul dintre umiditatea absolută și umiditatea absolută maximă la aceeași temperatură.",
    "long": "Umiditatea relativă este raportul dintre cantitatea efectivă de vapori de apă din aer și cantitatea maximă pe care aerul o poate conține la aceeași temperatură, exprimat în procente.",
@@ -617,6 +634,7 @@
   },
   {
    "number": "#18",
+   "exams": ["deva"],
    "text": "257: Efectul Venturi se manifestă prin:",
    "short": "Efectul Venturi se manifestă prin accelerarea vântului atunci când văile se îngustează.",
    "long": "Efectul Venturi: când valea se îngustează, același debit de aer trece printr-o secțiune mai mică și vântul se accelerează.",
@@ -653,6 +671,7 @@
   },
   {
    "number": "#19",
+   "exams": ["deva"],
    "text": "304: Care este procentul volumetric al gazelor în atmosferă?",
    "short": "Azotul constituie 78,09% din volumul gazelor din aerul uscat.",
    "long": "În aerul uscat, azotul reprezintă 78,09% din volum, oxigenul 20,95%, argonul 0,93%.",
@@ -689,6 +708,7 @@
   },
   {
    "number": "#20",
+   "exams": ["deva"],
    "text": "215: Ceața de advecție se formează?",
    "short": "Ceața de advecție apare când o masă de aer cald și umed se deplasează peste o suprafață rece.",
    "long": "Ceața de advecție apare când o masă de aer cald și umed se deplasează peste o suprafață rece, care îl răcește sub punctul de rouă.",
@@ -725,6 +745,7 @@
   },
   {
    "number": "#21",
+   "exams": ["deva"],
    "text": "226: O perdea de copaci în fața vântului provoacă:",
    "short": "O perdea de copaci în fața vântului produce turbulențe și umbre de vânt în spatele copacilor.",
    "long": "## Cum se formează turbulențele în spatele copacilor\nUn șir de copaci sau o pădure este un obstacol pentru vânt. Aerul care trece peste el este frânat, deviat și se desprinde de la vârfuri. În spatele obstacolului se formează rotoare (vârtejuri), iar pe o distanță de câteva ori înălțimea copacilor apare o zonă de vânt redus, numită umbră de vânt.\n\n## De ce este periculos\nTurbulențele apar aproape de sol, unde aeronava are puțină altitudine. La decolare și aterizare, schimbarea bruscă a vântului poate duce la pierderea portanței. Fața copacilor, spre vânt, nu are turbulențe majore, deci zona periculoasă e cea de sub vânt.",
@@ -762,6 +783,7 @@
   },
   {
    "number": "#22",
+   "exams": ["deva"],
    "image": "img/04-q22.png",
    "text": "272: Pe panta următoare, veți găsi cei mai buni curenți ascendenți de dinamică:",
    "short": "Cei mai buni curenți ascendenți dinamici se găsesc pe panta 1, conform figurii.",
@@ -799,6 +821,7 @@
   },
   {
    "number": "#23",
+   "exams": ["deva"],
    "text": "315: Cantitatea de vapori de apă pe care aerul o poate reține depinde de:",
    "short": "Cantitatea de vapori de apă pe care aerul o poate reține depinde de temperatura aerului.",
    "long": "Cantitatea maximă de vapori de apă pe care aerul o poate reține crește cu temperatura aerului. De aceea aerul cald poate conține mai multă umiditate.",
@@ -835,6 +858,7 @@
   },
   {
    "number": "#24",
+   "exams": ["deva"],
    "text": "314: Vântul care suflă spre vârful unui obstacol orografic, pe timp de zi, datorită încălzirii regiunilor joase ale acestuia, se numește:",
    "short": "Vântul care suflă spre vârful unui obstacol pe timp de zi, datorită încălzirii versantului, se numește vânt anabatic.",
    "long": "## Vânturile de pantă ziua și noaptea\nPe versanții munților există două tipuri de vânt de pantă. Ziua, versantul se încălzește, aerul urcă spre vârf: este vântul anabatic. Noaptea, versantul se răcește, aerul devine mai greu și coboară spre vale: este vântul catabatic.\n\n## Cum îl recunoști\nVântul care suflă spre vârful unui obstacol, pe timp de zi, datorită încălzirii pantei, este vântul anabatic.",
@@ -872,6 +896,7 @@
   },
   {
    "number": "#25",
+   "exams": ["deva"],
    "text": "268: O perdea de copaci în fața vântului provoacă:",
    "short": "O perdea de copaci în fața vântului produce turbulențe și umbre de vânt în spatele copacilor.",
    "long": "## Cum se formează turbulențele în spatele copacilor\nUn șir de copaci sau o pădure este un obstacol pentru vânt. Aerul care trece peste el este frânat, deviat și se desprinde de la vârfuri. În spatele obstacolului se formează rotoare (vârtejuri), iar pe o distanță de câteva ori înălțimea copacilor apare o zonă de vânt redus, numită umbră de vânt.\n\n## De ce este periculos\nTurbulențele apar aproape de sol, unde aeronava are puțină altitudine. La decolare și aterizare, schimbarea bruscă a vântului poate duce la pierderea portanței. Frunzele nu atenuează suficient vântul ca să elimine efectul.",
@@ -909,6 +934,7 @@
   },
   {
    "number": "#26",
+   "exams": ["deva"],
    "text": "270: Puteți întâlni turbulența de forfecare:",
    "short": "Turbulența de forfecare apare când două mase de aer au direcții și caracteristici diferite.",
    "long": "Forfecarea vântului (wind shear) apare la limita dintre două mase de aer cu direcții și viteze diferite. Pe acest strat aeronava poate fi împinsă brusc.",
@@ -945,6 +971,7 @@
   },
   {
    "number": "#27",
+   "exams": ["deva"],
    "text": "293: Ce este umiditatea absolută?",
    "short": "Umiditatea absolută este cantitatea de vapori de apă pe unitatea de volum de aer.",
    "long": "Umiditatea absolută este cantitatea de vapori de apă dintr-un volum dat de aer, exprimată de regulă în g/m³.",
@@ -981,6 +1008,7 @@
   },
   {
    "number": "#28",
+   "exams": ["deva"],
    "text": "253: Frontul atmosferic este:",
    "short": "Frontul atmosferic este zona de contact între două mase de aer cu caracter termic diferit.",
    "long": "Frontul este zona de separare între două mase de aer diferite din punct de vedere al temperaturii și umidității.",
@@ -1017,6 +1045,7 @@
   },
   {
    "number": "#29",
+   "exams": ["deva"],
    "image": "img/04-q29.png",
    "text": "273: Veți întâlni turbulențe ce pot fi periculoase în cazul în care zburați prea aproape de relief",
    "short": "Turbulențe periculoase apar când zbori prea aproape de relief, în zonele 3 și 4 din figură.",
@@ -1055,6 +1084,7 @@
   },
   {
    "number": "#30",
+   "exams": ["deva"],
    "text": "219: Avem în față un relief muntos cu spații puține de aterizare:",
    "short": "În fața unui relief muntos cu puține spații de aterizare zburăm cu un con de siguranță, care permite aterizarea într-o zonă înainte sau după munți.",
    "long": "În relief muntos, cu puține locuri de aterizare, pilotul zboară cu un con de siguranță, adică cu zone de aterizare posibile în față sau în spatele muntelui, la o distanță ce permite planarea.",
@@ -1091,6 +1121,7 @@
   },
   {
    "number": "#31",
+   "exams": ["deva"],
    "text": "260: Vântul de vale produs în zonele de munte se mai numește:",
    "short": "Vântul de vale produs în zonele de munte se mai numește vânt catabatic.",
    "long": "## Vântul catabatic, vântul de vale\nNoaptea, sau dimineața devreme, versanții se răcesc prin pierdere de căldură. Aerul de lângă pantă se răcește, devine mai greu și curge în jos, spre vale. Acest vânt de pantă, care coboară, se numește catabatic.\n\n## Ce nu este\nBriza este un vânt provocat de diferențe de încălzire între zone vecine. Unda orografică este o oscilație a aerului după un munte. Vântul anabatic urcă ziua, deci este opusul.",
@@ -1127,6 +1158,7 @@
   },
   {
    "number": "#32",
+   "exams": ["deva"],
    "text": "290: Conform legii lui Buys Ballot, dacă deriva este spre dreapta, ne îndreptăm înspre o zonă cu presiune:",
    "short": "Conform legii lui Buys Ballot, dacă deriva este spre dreapta, ne îndreptăm spre o zonă cu presiune scăzută.",
    "long": "Legea lui Buys Ballot: în emisfera nordică, cu vântul în spate, presiunea scăzută este în stânga. Dacă deriva este spre dreapta, ne îndreptăm spre presiune scăzută.",
@@ -1163,6 +1195,7 @@
   },
   {
    "number": "#33",
+   "exams": ["deva"],
    "text": "264: Ce reprezintă înălțimea bazei (plafonul) norului?",
    "short": "Înălțimea bazei norului (plafonul) este distanța de la suprafața solului până la baza norului.",
    "long": "Înălțimea bazei norului (plafonul) este distanța de la sol până la baza norului cea mai de jos.",
@@ -1199,6 +1232,7 @@
   },
   {
    "number": "#34",
+   "exams": ["deva"],
    "text": "309: Care este viteza aproximativă a unui vânt de 20 de noduri, exprimată în m/s?",
    "short": "Un vânt de 20 de noduri este aproximativ 10 m/s.",
    "long": "Un nod este 0,514 m/s. Pentru 20 de noduri: 20 × 0,514 = 10,3 m/s, adică aproximativ 10 m/s.",
@@ -1235,6 +1269,7 @@
   },
   {
    "number": "#35",
+   "exams": ["deva"],
    "text": "307: Atmosfera standard internațională definește o scădere a presiunii atmosferice pe măsură ce înălțimea crește. Pentru piloții de aviație generală, aceasta este de aproximativ:",
    "short": "La nivelul mării, presiunea standard este 1013 hPa, iar presiunea scade cu aproximativ 1 hPa pe fiecare 30 ft (aproximativ 8 m) în straturile joase.",
    "long": "În atmosfera standard, presiunea la nivelul mării este de 1013 hPa, iar în straturile joase presiunea scade cu circa 1 hPa la fiecare 30 ft (aproximativ 8–9 m).",
@@ -1271,6 +1306,7 @@
   },
   {
    "number": "#36",
+   "exams": ["deva"],
    "text": "302: Care sunt proprietățile atmosferei ISA?",
    "short": "În atmosfera standard internațională (ISA), presiunea la nivelul mării este 1013,25 mb, iar temperatura este +15°C.",
    "long": "Atmosfera standard internațională (ISA) are presiunea la nivelul mării de 1013,25 hPa (mb) și temperatura de 15°C la sol.",
@@ -1307,6 +1343,7 @@
   },
   {
    "number": "#37",
+   "exams": ["deva"],
    "text": "301: Care este densitatea atmosferei ISA?",
    "short": "Densitatea atmosferei ISA la nivelul mării este de 1,225 kg/m³, adică 1225 g/m³.",
    "long": "Densitatea aerului în ISA la nivelul mării este 1,225 kg/m³, adică 1225 g/m³ (1 kg = 1000 g, 1 m³ = 1000 dm³).",
@@ -1343,6 +1380,7 @@
   },
   {
    "number": "#38",
+   "exams": ["deva"],
    "text": "287: Vântul catabatic poate fi întâlnit:",
    "short": "Vântul catabatic apare în zonele de dealuri și de munte, coborând pe pantele munților noaptea și în cursul dimineții.",
    "long": "## Unde apare vântul catabatic\nVântul catabatic apare pe versanții dealurilor și munților, mai ales noaptea și dimineața, când pantele se răcesc prin radiație. Nu e limitat la zone polare sau deșertice și nu e legat de zona de coastă. Brizele costiere sunt alt fenomen, legat de diferența dintre apă și uscat.",
@@ -1379,6 +1417,7 @@
   },
   {
    "number": "#39",
+   "exams": ["deva"],
    "text": "311: Vântul de forfecare este:",
    "short": "Vântul de forfecare este schimbarea bruscă, pe verticală și orizontală, a vitezei și direcției vântului.",
    "long": "Vântul de forfecare (wind shear) este o schimbare bruscă a vitezei și/sau a direcției vântului pe distanțe scurte, pe verticală sau pe orizontală.",
@@ -1415,6 +1454,7 @@
   },
   {
    "number": "#40",
+   "exams": ["deva"],
    "text": "278: Frontul rece de ordinul 2 este?",
    "short": "Frontul rece de ordinul 2 este frontul în care, de-a lungul părții superioare a suprafeței sale, se observă descendența aerului cald.",
    "long": "Frontul rece de ordinul II este frontul în care aerul cald este împins în sus de-a lungul suprafeței frontale, iar aerul cald care urcă formează nori și precipitații pe partea superioară a frontului.",
@@ -1451,6 +1491,7 @@
   },
   {
    "number": "#41",
+   "exams": ["deva"],
    "text": "271: Îngustarea văilor poate duce la:",
    "short": "Îngustarea văilor poate duce la accelerarea vântului care bate în axa lor.",
    "long": "Când valea se îngustează, aerul care trece prin ea se accelerează, ca în efectul Venturi.",
@@ -1487,6 +1528,7 @@
   },
   {
    "number": "#42",
+   "exams": ["deva"],
    "text": "269: Se numește zonă de forfecare:",
    "short": "Zona de forfecare este o zonă de întâlnire a unor mase de aer care poate provoca turbulențe puternice.",
    "long": "Zona de forfecare este locul în care se întâlnesc mase de aer cu viteze și direcții diferite, unde pot apărea turbulențe puternice.",
@@ -1524,6 +1566,7 @@
   },
   {
    "number": "#43",
+   "exams": ["deva"],
    "text": "299: Ce înseamnă deviația ISA?",
    "short": "Deviația ISA este diferența dintre atmosfera reală și atmosfera standard ISA.",
    "long": "Deviația ISA este diferența dintre temperatura (sau alt parametru) reală a atmosferei și valoarea standard ISA la aceeași altitudine.",
@@ -1560,6 +1603,7 @@
   },
   {
    "number": "#44",
+   "exams": ["deva"],
    "image": "img/04-q44.png",
    "text": "275: Indicați zonele cu “umbre de vânt”:",
    "short": "Zonele cu umbre de vânt sunt marcate cu d în figura.",
@@ -1597,6 +1641,7 @@
   },
   {
    "number": "#45",
+   "exams": ["deva"],
    "text": "234: În ce perioadă a zilei este recomandat zborul cu paramotorul, pentru ca atmosfera să fie cât mai calmă:",
    "short": "Zborul cu paramotorul este recomandat dimineața și seara, când atmosfera este mai calmă.",
    "long": "Dimineața și seara atmosfera este mai calmă: nu sunt încă termicele puternice de după-amiază, iar vântul este mai slab.",
@@ -1633,6 +1678,7 @@
   },
   {
    "number": "#46",
+   "exams": ["deva"],
    "text": "224: Vântul laminar este:",
    "short": "Vântul laminar este vântul care își păstrează direcția și intensitatea.",
    "long": "## Ce este vântul laminar\nVântul laminar curge în straturi paralele, regulat, fără vârtejuri. Își păstrează direcția și intensitatea pentru că nu este perturbat de obstacole sau de convecție.\n\n## De ce contează pentru zbor\nVântul laminar e mai previzibil și mai ușor de folosit. Vântul turbulent, produs de obstacole sau de convecție, schimbă rapid direcția și viteza, deci e mai periculos.",
@@ -1669,6 +1715,7 @@
   },
   {
    "number": "#47",
+   "exams": ["deva"],
    "text": "319: În timpul aterizării, dacă o aeronavă are o viteză față de sol (GS) mai mare decât cea indicată (IAS) de vitezometrul acesteia, înseamnă că:",
    "short": "Dacă viteza față de sol (GS) este mai mare decât viteza indicată (IAS) la aterizare, vântul suflă din spatele aeronavei.",
    "long": "Viteza față de sol (GS) este mai mare decât viteza indicată (IAS) când vântul suflă din spatele aeronavei, deci se adaugă la viteza aerului.",
@@ -1705,6 +1752,7 @@
   },
   {
    "number": "#48",
+   "exams": ["deva"],
    "text": "318: Fenomenele meteorologice care reduc vizibilitatea se produc atunci când:",
    "short": "Fenomenele care reduc vizibilitatea apar când diferența dintre temperatura aerului și punctul de rouă este mică.",
    "long": "Când diferența dintre temperatura aerului și temperatura punctului de rouă este mică, aerul este aproape saturat, iar ceața și pâcla reduc vizibilitatea.",
@@ -1741,6 +1789,7 @@
   },
   {
    "number": "#49",
+   "exams": ["deva"],
    "text": "220: Este ora 13 într-o zi de vară caldă cu cer senin. Cum abordăm zborul cu parapanta cu motor în acestă situație:",
    "short": "La ora 13, într-o zi de vară cu cer senin, zborul cu paramotorul nu este interzis, dar nu este recomandat, din cauza termicelor care pot închide aripa.",
    "long": "La prânz, pe cer senin și vară, apar termice puternice și turbulență. Zborul nu este interzis, dar nu este recomandat, iar pilotul trebuie să fie foarte atent la controlul aripii.",
@@ -1777,6 +1826,7 @@
   },
   {
    "number": "#50",
+   "exams": ["deva"],
    "text": "213: Cu ce fronturi sunt asociate vijeliile?",
    "short": "Vijeliile sunt asociate cu fronturile reci de ordinul II.",
    "long": "Vijeliile sunt asociate cu fronturile reci de ordinul II, care au aer cald împins brusc în sus, cu nori cumulonimbus și rafale.",
@@ -1813,6 +1863,7 @@
   },
   {
    "number": "#51",
+   "exams": ["deva"],
    "text": "285: Cum sunt clasificați norii după formă?",
    "short": "Norii sunt împărțiți în stratus, cirrus și cumulus pe baza formei lor.",
    "long": "Norii se clasifică după formă și altitudine în stratus (stratiformi), cirrus (fibroși) și cumulus (cumuliformi).",
@@ -1849,6 +1900,7 @@
   },
   {
    "number": "#52",
+   "exams": ["deva"],
    "text": "300: Ce înseamnă ISA?",
    "short": "ISA înseamnă International Standard Atmosphere.",
    "long": "ISA înseamnă International Standard Atmosphere, atmosfera standard internațională.",
@@ -1885,6 +1937,7 @@
   },
   {
    "number": "#53",
+   "exams": ["deva"],
    "text": "214: Care sunt caracteristicile unei vijelii?",
    "short": "Vijeliile sunt însoțite de un salt brusc al presiunii și de intensificarea vântului.",
    "long": "Vijelia (squall) este o creștere bruscă a vântului, însoțită de un salt de presiune și de schimbări ale vremii pe scurt.",
@@ -1921,6 +1974,7 @@
   },
   {
    "number": "#54",
+   "exams": ["deva"],
    "text": "261: În cursul zborului, un fenomen orajos poate fi evitat prin:",
    "short": "Norii de tip CB se ocolesc la o distanță de minim 10 km, iar pentru furtunile puternice se mărește distanța la minim 37 km.",
    "long": "Norii cumulonimbus (CB) se ocolesc la distanță mare, fiindcă produc turbulență, grindină, fulgere și rafale. Trecerea pe sub sau printre ei este periculoasă.",
@@ -1958,6 +2012,7 @@
   },
   {
    "number": "#55",
+   "exams": ["deva"],
    "text": "265: Sunteți la finalul zborului, chiar înainte de a apune soarele și la apropierea de sol simțiți o scădere bruscă a temperaturii, iar mâneca de vânt indică o altă direcție față de cea de la decolare. Acest fenomen este posibil sa fie dat de:",
    "short": "Scăderea bruscă a temperaturii și schimbarea direcției mânecii de vânt la apus pot fi date de vântul catabatic.",
    "long": "## Vântul catabatic seara\nDupă apus, versantul pierde căldura prin radiație. Aerul de lângă pantă se răcește și coboară, deci temperatura scade brusc la sol și vântul poate schimba direcția. Acest fenomen descrie exact situația din întrebare: apusul, scăderea bruscă a temperaturii și schimbarea direcției vântului de la decolare.",
@@ -1994,6 +2049,7 @@
   },
   {
    "number": "#56",
+   "exams": ["deva"],
    "text": "295: Ce este căldura specifică?",
    "short": "Căldura specifică este cantitatea de căldură necesară pentru a încălzi cu 1°C un gram dintr-un corp.",
    "long": "Căldura specifică este cantitatea de căldură necesară pentru a încălzi cu 1°C un gram dintr-o substanță.",
@@ -2030,6 +2086,7 @@
   },
   {
    "number": "#57",
+   "exams": ["deva"],
    "text": "312: Care dintre următoarele mesaje meteorologice poate fi abreviat CAVOK, în conformitate cu reglementările specifice?",
    "short": "Mesajul 15003KT 9999 BKN110 17/11 Q1024 NOSIG poate fi abreviat CAVOK, pentru că vizibilitatea este de 10 km și norii sunt peste 5000 ft.",
    "long": "CAVOK se folosește când vizibilitatea este de cel puțin 10 km (9999 în mesajul METAR), nu sunt nori sub 1500 m și nu sunt fenomene meteo importante.",
@@ -2066,6 +2123,7 @@
   },
   {
    "number": "#58",
+   "exams": ["deva"],
    "text": "254: Presiunea atmosferică scade în altitudine datorită:",
    "short": "Presiunea atmosferică scade cu altitudinea din cauza scăderii densității aerului și a scurtării coloanei de aer deasupra.",
    "long": "Presiunea scade cu altitudinea pentru că aerul de deasupra e mai rarefiat și coloana de aer deasupra este mai scurtă.",
@@ -2102,6 +2160,7 @@
   },
   {
    "number": "#59",
+   "exams": ["deva"],
    "text": "298: Ce este treapta barică?",
    "short": "Treapta barică este distanța verticală necesară pentru ca presiunea să scadă cu 1 mb.",
    "long": "Treapta barică este distanța pe verticală, în metri, necesară pentru ca presiunea să scadă cu 1 hPa.",
@@ -2138,6 +2197,7 @@
   },
   {
    "number": "#60",
+   "exams": ["deva"],
    "text": "291: Ce este vântul geostrofic?",
    "short": "Vântul geostrofic bate paralel cu izobarele, ca rezultat al echilibrului dintre gradientul de presiune și forța Coriolis.",
    "long": "## Vântul geostrofic\nLa altitudine, deasupra stratului de frecare cu solul, vântul este determinat de două forțe: gradientul de presiune, care împinge aerul de la presiune mare spre presiune mică, și forța Coriolis, produsă de rotația Pământului. Când cele două se echilibrează, vântul bate paralel cu izobarele.\n\n## Ce nu este\nVântul geostrofic nu este local și nu apare doar în munți. Încălzirea solară produce alte tipuri de vânt, locale.",
@@ -2174,6 +2234,7 @@
   },
   {
    "number": "#61",
+   "exams": ["deva"],
    "text": "308: Valoarea densității în atmosfera standard internațională (ISA) este de:",
    "short": "Densitatea în atmosfera standard ISA este de 1225 g/m³, adică 1,225 kg/m³.",
    "long": "Densitatea aerului în ISA la nivelul mării este 1225 g/m³, adică 1,225 kg/m³.",
@@ -2210,6 +2271,7 @@
   },
   {
    "number": "#62",
+   "exams": ["deva"],
    "text": "221: Atmosfera devine instabilă odată cu apropierea unui:",
    "short": "Atmosfera devine instabilă odată cu apropierea unui front rece.",
    "long": "Atmosfera devine instabilă la apropierea unui front rece, deoarece aerul cald este împins brusc în sus, formând nori convectivi.",
@@ -2246,6 +2308,7 @@
   },
   {
    "number": "#63",
+   "exams": ["deva"],
    "text": "317: Direcția vântului este indicată de unghiul format între nordul geografic și:",
    "short": "Direcția vântului este unghiul măsurat în sensul acelor de ceasornic de la nordul geografic până la direcția din care bate vântul.",
    "long": "## Cum se indică direcția vântului\nDirecția vântului se dă ca direcția din care bate vântul, nu spre care se duce. Se măsoară de la nordul geografic, în sensul acelor de ceasornic. De exemplu, vânt de 270° bate din vest.",
@@ -2282,6 +2345,7 @@
   },
   {
    "number": "#64",
+   "exams": ["deva"],
    "text": "316: Faptul că o masă de aer încălzită de soare urmează o traiectorie ascendentă este urmarea:",
    "short": "Masa de aer încălzită de soare urmează o traiectorie ascendentă din cauza convecției.",
    "long": "Aerul încălzit de la sol urcă datorită convecției: aerul cald este mai ușor și se ridică, iar aerul rece coboară.",
@@ -2318,6 +2382,7 @@
   },
   {
    "number": "#65",
+   "exams": ["deva"],
    "text": "296: La întrebarea: Transmiterea căldurii se face prin? Care este fals?",
    "short": "Căldura se transmite prin convecție, radiație și conducție, nu prin presiune.",
    "long": "Căldura se transmite prin trei moduri: conducție, convecție și radiație. Presiunea nu este un mod de transmitere a căldurii.",
@@ -2354,6 +2419,7 @@
   },
   {
    "number": "#66",
+   "exams": ["deva"],
    "text": "227: Ce este vântul catabatic?",
    "short": "Vântul catabatic este un vânt descendent, care coboară pe versanții dealurilor în văi, seara.",
    "long": "## Ce este vântul catabatic\nVântul catabatic este un vânt descendent, care coboară pe versanții dealurilor și munților, mai ales seara și noaptea, când aerul de lângă pantă se răcește și devine mai greu decât aerul din jur. Opusul lui este vântul anabatic, care urcă ziua.",
@@ -2390,6 +2456,7 @@
   },
   {
    "number": "#67",
+   "exams": ["deva"],
    "text": "252: Zburați pe vânt laminar de aproximativ 15km/h, efectuați un viraj de 360º cu înclinare și viteză constante. Care este traiectoria dvs. față de sol?",
    "short": "Pe vânt laminar de 15 km/h, un viraj de 360° la viteză și înclinare constante lasă o traiectorie față de sol în formă de buclă, descrisă de figura c.",
    "long": "Vântul deplasează aeronava în timpul virajului, deci traiectoria față de sol nu este un cerc perfect, ci o buclă sau o curbă deplasată în direcția vântului. Figura c ilustrează această traiectorie. Verifică desenul pentru a vedea diferența față de a și b.",
@@ -2426,6 +2493,7 @@
   },
   {
    "number": "#68",
+   "exams": ["deva"],
    "text": "283: Ce este pâcla?",
    "short": "Pâcla este suspensia în atmosferă a unor particule uscate, litosferice, foarte mici, care dau aerului un aspect opalescent.",
    "long": "Pâcla este suspensia în atmosferă a particulelor uscate de praf sau nisip, foarte fine, care dau aerului un aspect opac și reduc vizibilitatea.",
@@ -2462,6 +2530,7 @@
   },
   {
    "number": "#69",
+   "exams": ["deva"],
    "text": "305: Cum recunoașteți vântul de forfecare în zbor?",
    "short": "Vântul de forfecare se recunoaște în zbor prin schimbări bruște ale capului compas, ratei de viraj, turației motorului și temperaturii ambientale.",
    "long": "În zborul prin vânt de forfecare se simt schimbări bruște ale capului compas, ale ratei de viraj, ale turației și ale temperaturii ambiante, deoarece aeronava este împinsă brusc.",
@@ -2498,6 +2567,7 @@
   },
   {
    "number": "#70",
+   "exams": ["deva"],
    "text": "277: Frontul rece de ordinul 1 este?",
    "short": "Frontul rece de ordinul I este frontul în care, de-a lungul întregii suprafețe frontale, se observă ascensiunea aerului cald.",
    "long": "Frontul rece de ordinul I este frontul în care aerul rece împinge aerul cald pe toată suprafața frontală, ceea ce produce nori și precipitații de-a lungul întregii suprafețe.",
@@ -2534,6 +2604,7 @@
   },
   {
    "number": "#71",
+   "exams": ["deva"],
    "text": "289: Ce este vântul de gradient?",
    "short": "Vântul de gradient bate paralel cu izobarele curbate, influențat de forța Coriolis și de gradientul de presiune.",
    "long": "## Vântul de gradient\nVântul de gradient bate paralel cu izobarele curbate. Este echilibrat de gradientul de presiune, de forța Coriolis și de forța centrifugă, care apare când izobarele sunt curbate. Nu este specific zonelor montane și apare la orice nivel unde izobarele sunt curbate.",
@@ -2570,6 +2641,7 @@
   },
   {
    "number": "#72",
+   "exams": ["deva"],
    "text": "218: Probabilitatea să întâlnim turbulențe când zburăm de-a lungul unei văi, cu vânt lateral din stânga este mai mare:",
    "short": "Probabilitatea de turbulență este mai mare în umbra vântului, sub nivelul crestei versantului stâng, când vântul lateral vine din stânga.",
    "long": "Vântul lateral care lovește un versant creează turbulență în partea adăpostită. Dacă vântul vine din stânga, zona cu turbulență cea mai probabilă este sub creasta versantului stâng, în umbra vântului. Mijlocul văii are turbulență mai mică.",
@@ -2606,6 +2678,7 @@
   },
   {
    "number": "#73",
+   "exams": ["deva"],
    "text": "267: Un vânt calm și laminar, de 10 km/h suflă la altitudine deasupra zonei de aterizare:",
    "short": "Viteza vântului la sol depinde de topografia terenului, chiar dacă vântul de la altitudine este calm și laminar.",
    "long": "Vântul la sol este mai slab decât cel de altitudine și depinde de rugozitatea și relieful terenului, de obstacole și de pante. Deci nu poate fi egal cu cel de la altitudine.",
@@ -2642,6 +2715,7 @@
   },
   {
    "number": "#74",
+   "exams": ["deva"],
    "text": "259: Care este influența vântului asupra asupra motoparapantei în zbor:",
    "short": "Vântul modifică viteza motoparapantei față de sol.",
    "long": "Vântul modifică viteza motoparapantei față de sol: cu vânt din față viteza față de sol scade, cu vânt din spate crește. Aerul din jur se mișcă, iar aeronava se deplasează odată cu el.",
@@ -2678,6 +2752,7 @@
   },
   {
    "number": "#75",
+   "exams": ["deva"],
    "text": "216: De ce este importantă consultarea hărților satelitare ce includ imagini radar meteo?",
    "short": "Hărțile satelitare și imaginile radar meteo ajută să observi mișcarea fronturilor și să îți planifici zborul în siguranță.",
    "long": "Hărțile satelitare și radar arată mișcarea norilor, a precipitațiilor și a fronturilor. Pe baza lor pilotul își planifică zborul și evită zonele periculoase.",
@@ -2714,6 +2789,7 @@
   },
   {
    "number": "#76",
+   "exams": ["deva"],
    "text": "263: Inversiunea termică este:",
    "short": "Inversiunea termică este o creștere a temperaturii cu înălțimea.",
    "long": "Inversiunea termică este stratul în care temperatura crește cu altitudinea, în loc să scadă. Aerul cald stă peste cel rece, iar convecția se oprește.",
@@ -2750,6 +2826,7 @@
   },
   {
    "number": "#77",
+   "exams": ["deva"],
    "text": "280: Care sunt mărimile care caracterizează o masă de aer?",
    "short": "Masa de aer este caracterizată de temperatură (°C) și umiditatea specifică (g/kg).",
    "long": "O masă de aer se caracterizează prin temperatură și umiditate (de exemplu umiditatea specifică, în g/kg). Acestea arată originea și proprietățile maselor de aer.",
@@ -2786,6 +2863,7 @@
   },
   {
    "number": "#78",
+   "exams": ["deva"],
    "text": "321: Care sunt condițiile meteorologice necesare pentru formarea unei furtuni?",
    "short": "Pentru formarea unei furtuni sunt necesare umiditate mare, factori declanșatori ai ascendențelor și instabilitate atmosferică.",
    "long": "Pentru o furtună trebuie: umiditate mare, un factor care declanșează ascendențe (încălzire, front, relief) și instabilitate atmosferică, care lasă aerul să urce mult.",
@@ -2822,6 +2900,7 @@
   },
   {
    "number": "#79",
+   "exams": ["deva"],
    "text": "313: Treapta barică, de la nivelul mării până la 5000 ft., scade cu?",
    "short": "Între nivelul mării și 5000 ft, treapta barică este de aproximativ 1 hPa la fiecare 30 ft.",
    "long": "Între nivelul mării și 5000 ft, presiunea scade cu circa 1 hPa (mb) la fiecare 30 ft în straturile joase, adică aproximativ 8–9 m.",
@@ -2858,6 +2937,7 @@
   },
   {
    "number": "#80",
+   "exams": ["deva"],
    "text": "276: Veți întâlni turbulențe ce pot fi periculoase în caz de zbor aproape de relief:",
    "short": "Turbulențe periculoase apar zburând aproape de relief în zonele 1, 2 și 3 din figura.",
    "long": "Turbulența apare în zonele de sub vânt și lângă relieful accidentat, unde curentul de aer este perturbat de obstacole. Zonele exacte sunt cele indicate pe desenul întrebării.",
@@ -2895,6 +2975,7 @@
   },
   {
    "number": "#81",
+   "exams": ["deva"],
    "text": "223: Vântul este:",
    "short": "Vântul este mișcarea orizontală a aerului.",
    "long": "## Ce este vântul\nVântul este mișcarea orizontală a aerului, de la zonele cu presiune mai mare spre cele cu presiune mai mică. Mișcarea verticală a aerului se numește curent ascendent sau descendent, nu vânt. Turbulența este o mișcare haotică a aerului și nu definește vântul.",
@@ -2931,6 +3012,7 @@
   },
   {
    "number": "#82",
+   "exams": ["deva"],
    "text": "303: Care sunt subdiviziunile atmosferei?",
    "short": "Atmosfera este împărțită în troposferă, stratosferă, mezosferă, termosferă și exosferă.",
    "long": "Atmosfera se împarte în troposferă, stratosferă, mezosferă, termosferă și exosferă, după variația temperaturii cu altitudinea.",
@@ -2967,6 +3049,7 @@
   },
   {
    "number": "#83",
+   "exams": ["deva"],
    "text": "258: O perdea de copaci în fața vântului anterior aterizării provoacă:",
    "short": "O perdea de copaci în fața vântului, înainte de aterizare, produce turbulențe și umbre de vânt în spatele copacilor.",
    "long": "## Cum se formează turbulențele în spatele copacilor\nUn șir de copaci sau o pădure este un obstacol pentru vânt. Aerul care trece peste el este frânat, deviat și se desprinde de la vârfuri. În spatele obstacolului se formează rotoare (vârtejuri), iar pe o distanță de câteva ori înălțimea copacilor apare o zonă de vânt redus, numită umbră de vânt.\n\n## De ce este important înainte de aterizare\nDacă ai copaci în fața pistei, pe direcția vântului, aterizarea se face în zona de turbulență. Trebuie să ții cont de rotoare și de schimbările bruște de vânt, pentru că ai puțină altitudine și puțin timp de reacție.",
@@ -3004,6 +3087,7 @@
   },
   {
    "number": "#84",
+   "exams": ["deva"],
    "text": "266: Prin temperatura aerului înțelegem:",
    "short": "Temperatura aerului este starea de încălzire a aerului.",
    "long": "Temperatura aerului reprezintă starea lui de încălzire, adică energia termică medie a moleculelor de aer.",
@@ -3040,6 +3124,7 @@
   },
   {
    "number": "#85",
+   "exams": ["deva"],
    "text": "262: În informarea meteo furnizată de unitatea ATC veți auzi cuvântul „CAVOK”. Acesta semnifică:",
    "short": "CAVOK înseamnă vizibilitate de cel puțin 10 km, baza norilor de cel puțin 1,5 km și fără fenomene meteo semnificative.",
    "long": "CAVOK înseamnă vizibilitate de cel puțin 10 km, baza norilor peste 1500 m (5000 ft) și fără fenomene meteorologice semnificative.",
@@ -3076,6 +3161,7 @@
   },
   {
    "number": "#86",
+   "exams": ["deva"],
    "text": "274: Veți întâlni turbulențe ce pot fi periculoase în caz de zbor la mică altitudine sau aterizare:",
    "short": "Turbulențe periculoase apar la zbor la altitudine mică sau la aterizare în zonele 3 și 4 din figura.",
    "long": "La altitudine mică și la aterizare, turbulența de sub vânt și de la relief este cea mai periculoasă, pentru că pilotul are puțin timp de reacție. Zonele exacte sunt cele indicate pe desenul întrebării.",
@@ -3113,6 +3199,7 @@
   },
   {
    "number": "#87",
+   "exams": ["deva"],
    "text": "310: La ce temperatură va ajunge o masă de aer uscat cu temperatura inițială de 10˚C care se răcește adiabatic până la 1000m?",
    "short": "O masă de aer uscat cu temperatura de 10°C, care se răcește adiabatic până la 1000 m, ajunge la aproximativ 0,2°C, nu la 3,5°C.",
    "long": "Aerul uscat care urcă se răcește cu circa 9,8°C la fiecare kilometru (gradient adiabatic uscat). De la 10°C, pe 1000 m, ajunge la aproximativ 0,2°C, nu la 3,5°C.",
