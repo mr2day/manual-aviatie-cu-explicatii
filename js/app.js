@@ -333,6 +333,10 @@
     return searchIndexPromise;
   }
 
+  function searchLetterCount(value) {
+    return (foldText(value).match(/[a-z]/g) || []).length;
+  }
+
   function navigateToSearchResult(result) {
     searchExpanded = false;
     var bar = document.querySelector('.q-search');
@@ -369,11 +373,17 @@
       });
     }
     function updateExpanded() {
-      refs.results.hidden = !searchExpanded;
-      bar.classList.toggle('results-expanded', searchExpanded);
-      refs.toggle.hidden = !searchQuery.trim();
+      var hasQuery = !!searchQuery.trim();
+      var tooShort = hasQuery && searchLetterCount(searchQuery) < 3;
+      refs.results.hidden = !searchExpanded || tooShort;
+      bar.classList.toggle('results-expanded', searchExpanded && !tooShort);
+      refs.toggle.hidden = !hasQuery;
+      refs.toggle.disabled = tooShort;
       refs.toggle.setAttribute('aria-expanded', searchExpanded ? 'true' : 'false');
       refs.toggle.setAttribute('aria-label', searchExpanded ? 'Închide rezultatele căutării' : 'Deschide rezultatele căutării');
+      refs.input.title = tooShort ? 'Introdu minimum 3 litere pentru a căuta.' : '';
+      refs.count.title = tooShort ? 'Introdu minimum 3 litere pentru a căuta.' : '';
+      refs.count.classList.toggle('q-search-count-inactive', tooShort);
     }
     refs.toggle.addEventListener('click', function () {
       searchExpanded = !searchExpanded;
@@ -384,8 +394,15 @@
       searchQuery = refs.input.value;
       refs.results.textContent = '';
       refs.results.hidden = true;
-      paintTitles(refs.input.value);
+      paintTitles(searchLetterCount(refs.input.value) >= 3 ? refs.input.value : '');
       if (!query) { refs.count.textContent = ''; updateExpanded(); return; }
+      if (searchLetterCount(refs.input.value) < 3) {
+        enterAfterSearch = false;
+        searchExpanded = false;
+        refs.count.textContent = 'min. 3 litere';
+        updateExpanded();
+        return;
+      }
       var currentRequest = ++request;
       refs.count.textContent = 'Se caută…';
       getSearchIndex().then(function (index) {
@@ -440,7 +457,7 @@
       if (timer) clearTimeout(timer);
       searchQuery = refs.input.value;
       paintTitles(searchQuery);
-      searchExpanded = true;
+      searchExpanded = searchLetterCount(searchQuery) >= 3;
       request++;
       refs.count.textContent = '';
       refs.results.textContent = '';
