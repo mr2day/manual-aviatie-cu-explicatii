@@ -19,6 +19,7 @@
     var results = bar.querySelector('.q-search-results');
     var toggle = bar.querySelector('.q-search-toggle');
     if (results) results.hidden = true;
+    bar.classList.remove('results-expanded');
     if (toggle) {
       toggle.setAttribute('aria-expanded', 'false');
       toggle.setAttribute('aria-label', 'Deschide rezultatele căutării');
@@ -369,6 +370,7 @@
     }
     function updateExpanded() {
       refs.results.hidden = !searchExpanded;
+      bar.classList.toggle('results-expanded', searchExpanded);
       refs.toggle.hidden = !searchQuery.trim();
       refs.toggle.setAttribute('aria-expanded', searchExpanded ? 'true' : 'false');
       refs.toggle.setAttribute('aria-label', searchExpanded ? 'Închide rezultatele căutării' : 'Deschide rezultatele căutării');
