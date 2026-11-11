@@ -517,6 +517,9 @@
       section.appendChild(h2);
       if (q.image) {
         var fig = el('img', 'question-image');
+        // Reserve the 16:9 diagram space before lazy loading to prevent scroll shifts.
+        fig.width = 1672;
+        fig.height = 941;
         fig.src = q.image;
         fig.alt = 'Figura întrebării ' + (index + 1);
         fig.loading = 'lazy';
