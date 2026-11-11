@@ -7,6 +7,7 @@
   var routeVersion = 0;
   var activeChapterId = null;
   var activeExam = 'toate';
+  var activeSearchRefresh = null;
   var searchQuery = '';
   var searchExpanded = false;
   var searchIndexPromise = null;
@@ -280,21 +281,6 @@
     input.type = 'search';
     input.placeholder = 'Caută în întrebări…';
     input.setAttribute('aria-label', 'Caută în titlurile întrebărilor');
-    var examFilter = el('label', 'exam-filter');
-    examFilter.appendChild(el('span', null, 'Examen'));
-    var examSelect = el('select', 'exam-filter-select');
-    examSelect.setAttribute('aria-label', 'Filtrează întrebările după examen');
-    var allExamsOption = el('option', null, 'Toate');
-    allExamsOption.value = 'toate';
-    var devaOption = el('option', null, 'Deva');
-    devaOption.value = 'deva';
-    var bucharestOption = el('option', null, 'București');
-    bucharestOption.value = 'bucuresti';
-    examSelect.appendChild(allExamsOption);
-    examSelect.appendChild(devaOption);
-    examSelect.appendChild(bucharestOption);
-    examSelect.value = activeExam;
-    examFilter.appendChild(examSelect);
     var meta = el('div', 'q-search-meta');
     var count = el('span', 'q-search-count');
     count.setAttribute('aria-live', 'polite');
@@ -304,15 +290,58 @@
     toggle.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>';
     meta.appendChild(count);
     meta.appendChild(toggle);
-    bar.appendChild(examFilter);
     bar.appendChild(input);
     var results = el('div', 'q-search-results');
     results.id = 'question-search-results';
     results.hidden = true;
     bar.appendChild(meta);
     bar.appendChild(results);
-    bar.refs = { input: input, count: count, toggle: toggle, results: results, examSelect: examSelect };
+    bar.refs = { input: input, count: count, toggle: toggle, results: results };
     return bar;
+  }
+
+  function updateExamFilter(root) {
+    (root || document).querySelectorAll('.exam-switcher-button').forEach(function (button) {
+      var selected = button.getAttribute('data-exam') === activeExam;
+      button.classList.toggle('selected', selected);
+      button.setAttribute('aria-pressed', selected ? 'true' : 'false');
+    });
+  }
+
+  function buildExamFilter() {
+    var filter = el('div', 'exam-switcher');
+    filter.setAttribute('role', 'group');
+    filter.setAttribute('aria-label', 'Filtrează după examen');
+    filter.appendChild(el('span', 'exam-switcher-label', 'Examen'));
+    var choices = [
+      { id: 'toate', label: 'Toate' },
+      { id: 'deva', label: 'Deva' },
+      { id: 'bucuresti', label: 'București' }
+    ];
+    var group = el('div', 'exam-switcher-options');
+    choices.forEach(function (choice) {
+      var button = el('button', 'exam-switcher-button', choice.label);
+      button.type = 'button';
+      button.setAttribute('data-exam', choice.id);
+      button.addEventListener('click', function () {
+        if (activeExam === choice.id) return;
+        activeExam = choice.id;
+        updateExamFilter();
+        if (activeChapterId && byId[activeChapterId]) {
+          var chapterId = activeChapterId;
+          var scrollY = window.scrollY;
+          loadChapter(byId[chapterId]).then(function (chapter) {
+            if (activeChapterId === chapterId) renderChapter(chapter, scrollY);
+          });
+        } else if (activeSearchRefresh) {
+          activeSearchRefresh();
+        }
+      });
+      group.appendChild(button);
+    });
+    filter.appendChild(group);
+    updateExamFilter(filter);
+    return filter;
   }
 
   function stickyTop() {
@@ -413,18 +442,6 @@
       searchExpanded = !searchExpanded;
       updateExpanded();
     });
-    refs.examSelect.addEventListener('change', function () {
-      activeExam = refs.examSelect.value;
-      if (activeChapterId && byId[activeChapterId]) {
-        var chapterId = activeChapterId;
-        var scrollY = window.scrollY;
-        loadChapter(byId[chapterId]).then(function (chapter) {
-          if (activeChapterId === chapterId) renderChapter(chapter, scrollY);
-        });
-      } else {
-        search();
-      }
-    });
     function search() {
       var query = foldText(refs.input.value.trim());
       searchQuery = refs.input.value;
@@ -489,6 +506,7 @@
         updateExpanded();
       });
     }
+    activeSearchRefresh = search;
     refs.input.addEventListener('input', function () {
       if (timer) clearTimeout(timer);
       searchQuery = refs.input.value;
@@ -540,6 +558,7 @@
     var main = document.getElementById('content');
     main.textContent = '';
     main.appendChild(el('h1', 'sr-only', c.title));
+    main.appendChild(buildExamFilter());
     var searchBar = buildSearchBar();
     main.appendChild(searchBar);
     var sections = [];
@@ -636,6 +655,7 @@
     var main = document.getElementById('content');
     main.textContent = '';
     activeChapterId = null;
+    main.appendChild(buildExamFilter());
     var searchBar = buildSearchBar();
     main.appendChild(searchBar);
     initSearch(searchBar);
