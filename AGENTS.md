@@ -9,7 +9,7 @@ Acest document se aplică tuturor agenților AI care lucrează în acest reposit
 - Păstrează marcajul verde pe răspunsul indicat de sursă. Dacă răspunsul pare greșit, semnalează problema prin câmpul `warn`; nu schimba răspunsul corect fără verificare și justificare.
 - Nu adăuga logo-uri, fotografii sau texte externe care nu au fost furnizate ori aprobate de utilizator.
 - Pentru modificări de design, verifică rezultatul vizual și fă o captură de ecran, conform cerinței existente a proiectului.
-- Respectă modificările locale ale utilizatorului. Înainte de a face commit, inspectează `git status` și adaugă numai fișierele care aparțin taskului curent.
+- Respectă modificările locale ale utilizatorului. La încheierea taskului, include în commit toate modificările din working tree, inclusiv modificările preexistente și fișierele noi, dacă utilizatorul nu cere explicit excluderea unora.
 
 ## Încheierea fiecărui task
 
@@ -17,7 +17,7 @@ Este obligatoriu ca agentul să creeze un commit și să îl împingă (`push`) 
 
 1. Verifică diferențele și starea repository-ului.
 2. Rulează verificările potrivite schimbării și repară problemele găsite.
-3. Adaugă explicit doar fișierele schimbate pentru taskul curent; nu include fișiere necomise preexistente sau schimbări fără legătură.
+3. Adaugă toate modificările raportate de `git status`, inclusiv fișierele necomise preexistente și fișierele noi; nu limita commitul la fișierele editate pentru taskul curent. Exclude ceva numai dacă utilizatorul cere explicit.
 4. Creează un commit cu un mesaj clar, apoi împinge branch-ul curent către remote.
 5. Confirmă utilizatorului hash-ul commitului și rezultatul push-ului. Dacă commitul sau push-ul nu reușește, explică motivul și lasă schimbările intacte pentru continuare.
 

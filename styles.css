@@ -884,6 +884,10 @@ details.question-more .more-body {
 
 /* Căutare în întrebări */
 .q-search {
+  position: sticky;
+  top: var(--q-top, 0px);
+  z-index: 20;
+  flex-wrap: wrap;
   display: flex;
   align-items: center;
   gap: 8px;
@@ -912,7 +916,6 @@ details.question-more .more-body {
   -webkit-tap-highlight-color: transparent;
 }
 .q-search-input::selection { background: #7a8a92; color: #ffffff; }
-.q-search-btn { -webkit-tap-highlight-color: transparent; }
 .q-search-count {
   flex: none;
   min-width: 3.5rem;
@@ -921,26 +924,58 @@ details.question-more .more-body {
   color: var(--text);
   white-space: nowrap;
 }
-.q-search-btn {
-  flex: none;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 40px;
-  height: 40px;
-  padding: 0;
-  border: none;
+.q-search-results {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  right: 0;
+  max-height: min(65vh, 560px);
+  overflow: auto;
+  padding: 8px;
+  background: var(--card);
+  border: 1px solid var(--border);
   border-radius: 6px;
-  background: var(--red);
-  color: #fff;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.55);
+}
+.q-search-results[hidden] { display: none; }
+.q-search-group + .q-search-group { margin-top: 8px; }
+.q-search-chapter {
+  position: sticky;
+  top: -8px;
+  z-index: 1;
+  margin: 0;
+  padding: 8px 10px;
+  background: var(--card);
+  color: var(--accent);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.q-search-result {
+  display: flex;
+  width: 100%;
+  gap: 10px;
+  align-items: flex-start;
+  padding: 9px 10px;
+  border: 0;
+  border-radius: 4px;
+  background: transparent;
+  color: var(--text);
+  text-align: left;
+  font: inherit;
   cursor: pointer;
 }
-.q-search-btn svg { width: 20px; height: 20px; }
-.q-search-btn:disabled { opacity: 0.4; cursor: default; }
-.q-search-btn:not(:disabled):hover { opacity: 0.85; }
+.q-search-result:hover, .q-search-result:focus-visible { background: var(--page); outline: none; }
+.q-search-result-number {
+  flex: none;
+  min-width: 1.5rem;
+  color: var(--muted, #9aa5a8);
+  text-align: right;
+  font-size: 0.85rem;
+}
+.q-search-empty { margin: 8px 10px; color: var(--text); }
 .question { scroll-margin-top: calc(var(--q-top, 0px) + var(--q-search-h, 0px) + 12px); }
 .question.search-hit { outline: 2px solid var(--accent); outline-offset: -2px; }
-.q-search { position: sticky; top: var(--q-top, 0px); z-index: 20; }
 .q-hit {
   background: #ffd54a;
   color: #1a1e1e;
@@ -949,18 +984,6 @@ details.question-more .more-body {
 }
 
 
-
-.q-search::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 100%;
-  margin-top: 2px;
-  height: 26px;
-  background: linear-gradient(to bottom, #0b0e0f 0%, rgba(11, 14, 15, 0) 100%);
-  pointer-events: none;
-}
 
 /* Termeni din glosar în titluri: linkuri care deschid un modal */
 .term-link {

@@ -5,6 +5,10 @@
   var chapterCache = {};
   var catalogReady = false;
   var routeVersion = 0;
+  var activeChapterId = null;
+  var searchQuery = '';
+  var searchIndexPromise = null;
+  var pendingSearchResult = null;
   var assetVersion = document.currentScript && document.currentScript.getAttribute('data-version') || '';
 
   function showStatus(message, retry) {
@@ -262,19 +266,12 @@
     input.setAttribute('aria-label', 'Caută în titlurile întrebărilor');
     var count = el('span', 'q-search-count');
     count.setAttribute('aria-live', 'polite');
-    var prev = el('button', 'q-search-btn');
-    prev.type = 'button';
-    prev.setAttribute('aria-label', 'Întrebarea anterioară');
-    prev.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 15l6-6 6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>';
-    var next = el('button', 'q-search-btn');
-    next.type = 'button';
-    next.setAttribute('aria-label', 'Întrebarea următoare');
-    next.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>';
     bar.appendChild(input);
     bar.appendChild(count);
-    bar.appendChild(prev);
-    bar.appendChild(next);
-    bar.refs = { input: input, count: count, prev: prev, next: next };
+    var results = el('div', 'q-search-results');
+    results.hidden = true;
+    bar.appendChild(results);
+    bar.refs = { input: input, count: count, results: results };
     return bar;
   }
 
@@ -288,82 +285,140 @@
     document.documentElement.style.setProperty('--q-top', h + 'px');
   }
 
-  function initSearch(bar, sections, questions) {
-    var refs = bar.refs;
-    var raw = questions.map(function (q) { return q.text.replace(/^\d+:\s*/, ''); });
-    var folded = raw.map(foldText);
-    var matches = [];
-    var pos = -1;
-    var current = null;
-    var re = null;
-
-    function show() {
-      if (!matches.length) {
-        refs.count.textContent = refs.input.value.trim() ? '0 rezultate' : '';
-      } else {
-        refs.count.textContent = (pos + 1) + ' / ' + matches.length;
-      }
-      refs.prev.disabled = refs.next.disabled = matches.length === 0;
-    }
-
-    // Derulează astfel încât întrebarea să fie sub bara de căutare, nu ascunsă în spatele ei.
-    function scrollToCurrent() {
-      setStickyTop();
-      document.documentElement.style.setProperty('--q-search-h', bar.offsetHeight + 'px');
-      current.scrollIntoView({ block: 'start', behavior: 'smooth' });
-    }
-
-    function go(p) {
-      if (current) current.classList.remove('search-hit');
-      pos = p;
-      current = sections[matches[pos]];
-      current.classList.add('search-hit');
-      scrollToCurrent();
-      show();
-    }
-
-    function paint() {
-      sections.forEach(function (sec, i) {
-        var h2 = sec.querySelector('.question-title');
-        renderTitle(h2, raw[i], matches.indexOf(i) !== -1 ? re : null);
+  function getSearchIndex() {
+    if (!searchIndexPromise) {
+      searchIndexPromise = Promise.all(chapters.map(function (chapter) {
+        return loadChapter(chapter).then(function (data) {
+          return data.questions.map(function (question, index) {
+            return {
+              chapterId: chapter.id,
+              chapterTitle: chapter.title,
+              index: index,
+              number: index + 1,
+              text: question.text.replace(/^\d+:\s*/, ''),
+              folded: foldText(question.text.replace(/^\d+:\s*/, ''))
+            };
+          });
+        });
+      })).then(function (groups) {
+        return [].concat.apply([], groups);
+      }).catch(function (error) {
+        searchIndexPromise = null;
+        throw error;
       });
     }
+    return searchIndexPromise;
+  }
 
-    function recalc() {
-      var q = foldText(refs.input.value.trim());
-      matches = [];
-      if (current) { current.classList.remove('search-hit'); current = null; }
-      pos = -1;
-      re = q ? queryRegex(q) : null;
-      if (q) {
-        folded.forEach(function (t, i) { if (t.indexOf(q) !== -1) matches.push(i); });
+  function navigateToSearchResult(result) {
+    var bar = document.querySelector('.q-search');
+    if (bar) document.documentElement.style.setProperty('--q-search-h', bar.offsetHeight + 'px');
+    if (result.chapterId === activeChapterId) {
+      var currentSections = document.querySelectorAll('#content .question');
+      var target = currentSections[result.index];
+      if (target) {
+        currentSections.forEach(function (section) { section.classList.remove('search-hit'); });
+        target.classList.add('search-hit');
+        target.scrollIntoView({ block: 'start', behavior: 'smooth' });
       }
-      paint();
-      if (matches.length) go(0); else show();
+      return;
     }
+    pendingSearchResult = result;
+    location.hash = '#' + result.chapterId;
+  }
 
-    function step(d) {
-      flush();
-      if (!matches.length) return;
-      go((pos + d + matches.length) % matches.length);
-    }
-
-    // Căutarea pornește la o secundă după ultimul caracter introdus.
+  function initSearch(bar) {
+    var refs = bar.refs;
+    refs.input.value = searchQuery;
     var timer = null;
-    function flush() {
-      if (timer) { clearTimeout(timer); timer = null; recalc(); }
+    var request = 0;
+    var enterAfterSearch = false;
+    function search() {
+      var query = foldText(refs.input.value.trim());
+      searchQuery = refs.input.value;
+      refs.results.textContent = '';
+      refs.results.hidden = true;
+      if (!query) { refs.count.textContent = ''; return; }
+      var currentRequest = ++request;
+      refs.count.textContent = 'Se caută…';
+      getSearchIndex().then(function (index) {
+        if (currentRequest !== request) return;
+        var matches = index.filter(function (item) { return item.folded.indexOf(query) !== -1; });
+        refs.count.textContent = matches.length + (matches.length === 1 ? ' rezultat' : ' rezultate');
+        refs.results.textContent = '';
+        if (!matches.length) {
+          refs.results.appendChild(el('p', 'q-search-empty', 'Nu am găsit întrebări potrivite.'));
+          refs.results.hidden = false;
+          return;
+        }
+        var grouped = {};
+        matches.forEach(function (item) {
+          if (!grouped[item.chapterId]) grouped[item.chapterId] = [];
+          grouped[item.chapterId].push(item);
+        });
+        chapters.forEach(function (chapter) {
+          var items = grouped[chapter.id];
+          if (!items) return;
+          var group = el('section', 'q-search-group');
+          group.appendChild(el('h3', 'q-search-chapter', chapter.title + ' · ' + items.length));
+          items.forEach(function (item) {
+            var button = el('button', 'q-search-result');
+            button.type = 'button';
+            button.appendChild(el('span', 'q-search-result-number', String(item.number)));
+            button.appendChild(el('span', null, item.text));
+            button.addEventListener('click', function () { navigateToSearchResult(item); });
+            group.appendChild(button);
+          });
+          refs.results.appendChild(group);
+        });
+        refs.results.hidden = false;
+        if (enterAfterSearch) {
+          enterAfterSearch = false;
+          var first = refs.results.querySelector('.q-search-result');
+          if (matches.length === 1 && first) first.click();
+          else if (first) first.focus();
+        }
+      }).catch(function () {
+        if (currentRequest !== request) return;
+        refs.count.textContent = 'Căutarea nu a reușit';
+        refs.results.appendChild(el('p', 'q-search-empty', 'Verifică conexiunea și încearcă din nou.'));
+        refs.results.hidden = false;
+      });
     }
     refs.input.addEventListener('input', function () {
       if (timer) clearTimeout(timer);
-      timer = setTimeout(function () { timer = null; recalc(); }, 1000);
+      searchQuery = refs.input.value;
+      request++;
+      refs.count.textContent = '';
+      refs.results.textContent = '';
+      refs.results.hidden = true;
+      timer = setTimeout(function () { timer = null; search(); }, 350);
     });
     refs.input.addEventListener('keydown', function (e) {
-      if (e.key === 'Enter') { e.preventDefault(); step(e.shiftKey ? -1 : 1); }
-      if (e.key === 'Escape') { if (timer) { clearTimeout(timer); timer = null; } refs.input.value = ''; recalc(); }
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        var first = refs.results.querySelector('.q-search-result');
+        if (timer) {
+          clearTimeout(timer);
+          timer = null;
+          enterAfterSearch = true;
+          search();
+        } else if (first) {
+          if (refs.count.textContent.indexOf('1 rezultat') === 0) first.click();
+          else first.focus();
+        }
+      }
+      if (e.key === 'Escape') {
+        if (timer) { clearTimeout(timer); timer = null; }
+        refs.input.value = '';
+        searchQuery = '';
+        request++;
+        refs.results.textContent = '';
+        refs.results.hidden = true;
+        refs.count.textContent = '';
+      }
     });
-    refs.prev.addEventListener('click', function () { step(-1); });
-    refs.next.addEventListener('click', function () { step(1); });
-    show();
+    if (searchQuery) search();
     setStickyTop();
   }
 
@@ -371,6 +426,7 @@
 
 
   function renderChapter(c) {
+    activeChapterId = c.id;
     var main = document.getElementById('content');
     main.textContent = '';
     main.appendChild(el('h1', 'sr-only', c.title));
@@ -439,7 +495,16 @@
       sections.push(section);
       main.appendChild(section);
     });
-    initSearch(searchBar, sections, c.questions);
+    initSearch(searchBar);
+    if (pendingSearchResult && pendingSearchResult.chapterId === c.id) {
+      var pending = pendingSearchResult;
+      pendingSearchResult = null;
+      var target = sections[pending.index];
+      if (target) {
+        target.classList.add('search-hit');
+        setTimeout(function () { target.scrollIntoView({ block: 'start', behavior: 'smooth' }); }, 0);
+      }
+    }
     window.scrollTo(0, 0);
   }
 
@@ -448,6 +513,10 @@
   function renderDoc(d) {
     var main = document.getElementById('content');
     main.textContent = '';
+    activeChapterId = null;
+    var searchBar = buildSearchBar();
+    main.appendChild(searchBar);
+    initSearch(searchBar);
     if (d.title) main.appendChild(el('h1', 'doc-title', d.title));
     var meta = el('p', 'doc-meta');
     meta.innerHTML = d.meta;
@@ -461,6 +530,7 @@
   function showDocMissing() {
     var main = document.getElementById('content');
     main.textContent = '';
+    activeChapterId = null;
     main.appendChild(el('h1', 'doc-title', 'Documentul nu a putut fi încărcat.'));
   }
 
