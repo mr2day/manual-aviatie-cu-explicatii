@@ -962,7 +962,6 @@ details.question-more .more-body {
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.55);
 }
 .q-search-results[hidden] { display: none; }
-.q-search.results-expanded { position: static; }
 .q-search-group + .q-search-group { margin-top: 8px; }
 .q-search-chapter {
   position: sticky;
