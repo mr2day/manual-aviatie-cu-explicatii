@@ -951,10 +951,10 @@ details.question-more .more-body {
 .q-search-toggle svg { width: 22px; height: 22px; transition: transform 150ms ease; }
 .q-search-toggle[aria-expanded="true"] svg { transform: rotate(180deg); }
 .q-search-results {
-  position: static;
-  flex: 1 0 100%;
-  max-height: none;
-  overflow: visible;
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  right: 0;
   padding: 8px;
   background: #192327;
   border: 1px solid var(--border);
