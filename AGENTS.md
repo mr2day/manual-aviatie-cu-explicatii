@@ -8,15 +8,16 @@ Acest document se aplică tuturor agenților AI care lucrează în acest reposit
 - Fișierele `data/01.json`–`data/09.json` sunt sursa de adevăr pentru întrebări, răspunsuri și explicații. Nu modifica `index.html` sau `data/chapters.json` manual când schimbarea trebuie făcută în surse; regenerează-le cu `node tools/build.js`.
 - Păstrează marcajul verde pe răspunsul indicat de sursă. Dacă răspunsul pare greșit, semnalează problema prin câmpul `warn`; nu schimba răspunsul corect fără verificare și justificare.
 - Nu adăuga logo-uri, fotografii sau texte externe care nu au fost furnizate ori aprobate de utilizator.
-- Pentru modificări de design, verifică rezultatul vizual și fă o captură de ecran, conform cerinței existente a proiectului.
+- Pentru modificări de design, predă schimbarea prompt; verificarea vizuală în browser îi revine utilizatorului.
 - Respectă modificările locale ale utilizatorului. La încheierea taskului, include în commit toate modificările din working tree, inclusiv modificările preexistente și fișierele noi, dacă utilizatorul nu cere explicit excluderea unora.
+- Nu rula verificări care durează mult și nu ține utilizatorul în așteptare pentru verificări vizuale. Acestea sunt responsabilitatea utilizatorului: el va verifica în browser și va comunica problemele. Limitează-te la verificări rapide, precum sintaxa sau whitespace-ul, și predă schimbarea prompt.
 
 ## Încheierea fiecărui task
 
 Este obligatoriu ca agentul să creeze un commit și să îl împingă (`push`) către branch-ul de lucru de fiecare dată când termină un task.
 
 1. Verifică diferențele și starea repository-ului.
-2. Rulează verificările potrivite schimbării și repară problemele găsite.
+2. Rulează doar verificări rapide potrivite schimbării și repară problemele evidente. Nu porni verificări lente, capturi de ecran sau sesiuni de browser; verificarea vizuală îi revine utilizatorului.
 3. Adaugă toate modificările raportate de `git status`, inclusiv fișierele necomise preexistente și fișierele noi; nu limita commitul la fișierele editate pentru taskul curent. Exclude ceva numai dacă utilizatorul cere explicit.
 4. Creează un commit cu un mesaj clar, apoi împinge branch-ul curent către remote.
 5. Confirmă utilizatorului hash-ul commitului și rezultatul push-ului. Dacă commitul sau push-ul nu reușește, explică motivul și lasă schimbările intacte pentru continuare.
