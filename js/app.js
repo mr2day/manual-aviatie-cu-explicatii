@@ -350,12 +350,23 @@
     location.hash = '#' + result.chapterId;
   }
 
-  function initSearch(bar) {
+  function initSearch(bar, questions) {
     var refs = bar.refs;
     refs.input.value = searchQuery;
+    var rawTitles = questions ? questions.map(function (question) { return question.text.replace(/^\d+:\s*/, ''); }) : [];
     var timer = null;
     var request = 0;
     var enterAfterSearch = false;
+    function paintTitles(query) {
+      if (!questions) return;
+      var foldedQuery = foldText(query.trim());
+      var re = foldedQuery ? queryRegex(foldedQuery) : null;
+      var sections = document.querySelectorAll('#content .question');
+      rawTitles.forEach(function (raw, index) {
+        var title = sections[index] && sections[index].querySelector('.question-title');
+        if (title) renderTitle(title, raw, foldedQuery && foldText(raw).indexOf(foldedQuery) !== -1 ? re : null);
+      });
+    }
     function updateExpanded() {
       refs.results.hidden = !searchExpanded;
       refs.toggle.hidden = !searchQuery.trim();
@@ -371,6 +382,7 @@
       searchQuery = refs.input.value;
       refs.results.textContent = '';
       refs.results.hidden = true;
+      paintTitles(refs.input.value);
       if (!query) { refs.count.textContent = ''; updateExpanded(); return; }
       var currentRequest = ++request;
       refs.count.textContent = 'Se caută…';
@@ -425,6 +437,7 @@
     refs.input.addEventListener('input', function () {
       if (timer) clearTimeout(timer);
       searchQuery = refs.input.value;
+      paintTitles(searchQuery);
       searchExpanded = true;
       request++;
       refs.count.textContent = '';
@@ -537,7 +550,7 @@
       sections.push(section);
       main.appendChild(section);
     });
-    initSearch(searchBar);
+    initSearch(searchBar, c.questions);
     if (pendingSearchResult && pendingSearchResult.chapterId === c.id) {
       var pending = pendingSearchResult;
       pendingSearchResult = null;
