@@ -615,11 +615,11 @@ details.answer-more[open] > summary::before {
 .question { position: relative; border-radius: 4px; border-bottom: none; box-shadow: 0 1px 3px rgba(26, 30, 30, 0.08); }
 .question::before {
   position: absolute;
-  top: 8px;
-  bottom: 8px;
+  top: 0;
+  bottom: 0;
   left: 0;
   width: 4px;
-  border-radius: 999px;
+  border-radius: 4px 0 0 4px;
   background: #858d92;
   content: "";
   pointer-events: none;
