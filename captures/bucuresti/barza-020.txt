@@ -1,0 +1,28 @@
+official-id: 20
+
+Care dintre următoarele evenimente, legate de funcționarea aeronavei care pot reprezenta un risc semnificativ pentru siguranța aviației trebuie raportate în mod obligatoriu autorităților competente?
+
+1. Evenimente legate de coliziuni.
+2. Evenimente legate de decolare și aterizare.
+3. Evenimente legate de combustibil.
+
+Variante de răspuns:
+- 2 și 3
+- 1 și 3
+- 1, 2 și 3
+- 1 și 2
+
+Răspunsul așteptat este varianta 3: „1, 2 și 3.”
+
+Este aceeași întrebare defectă pe care am întâlnit-o anterior. Lipsesc cele trei afirmații numerotate, deci nu ai cum să deduci răspunsul din ce afișează simulatorul.
+
+Întrebarea originală nr. 20 din PDF-ul Aerodrom Barza conține următoarele afirmații:
+1. Evenimente legate de coliziuni.
+2. Evenimente legate de decolare și aterizare.
+3. Evenimente legate de combustibil.
+
+Toate trei sunt categorii prevăzute la articolul 4 din Regulamentul (UE) nr. 376/2014.
+
+Deci bifează „1, 2 și 3” – varianta 3.
+
+Simulatorul a omis o parte esențială a întrebării.
