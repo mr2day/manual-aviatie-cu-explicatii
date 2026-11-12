@@ -1,0 +1,29 @@
+official-id:
+
+Ce impresie se creează când faceți o apropiere pentru o pistă cu pantă în urcare (upslope/pragul la care se aterizează este la o cotă mai joasă ca pragul opus al pistei)?
+
+- Că aterizarea se va face în apropierea mijlocului pistei
+- Că va fi o aterizare dură
+- Că sunteți sub panta optimă de aterizare „undershoot”
+- Că sunteți deasupra pantei optime de aterizare „overshoot”
+
+Răspunsul corect este varianta 4: „Că sunteți deasupra pantei optime de aterizare (overshoot).”
+
+Explicație
+
+O pistă în pantă ascendentă (upslope) creează iluzia optică potrivit căreia aeronava se află mai sus decât este în realitate.
+
+Pilotul are impresia că apropierea este prea înaltă.
+
+Tinde să mărească rata de coborâre pentru a corecta.
+
+Riscul real este să ajungă sub panta optimă și să aterizeze înaintea pistei (undershoot).
+
+Sursă menționată: faa.gov
+
+De memorat pentru examen:
+
+- Pistă în urcare → iluzia că ești prea sus → risc de aterizare prea scurtă.
+- Pistă în coborâre → iluzia că ești prea jos → risc de aterizare prea lungă.
+
+TRICKY
