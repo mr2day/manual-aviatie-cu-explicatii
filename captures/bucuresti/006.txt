@@ -2,8 +2,17 @@ official-id:
 
 Care este actul normativ specific care reglementează domeniul aeronauticii civile cu aeronave ultraușoare din România?
 
-Răspuns greșit:
-Hotărârea Guvernului nr. 912/2010 pentru aprobarea procedurii de autorizare a zborurilor în spațiul aerian național, precum și a condițiilor în care decolarea și aterizarea aeronavelor civile se pot efectua și de pe/pe alte terenuri sau suprafețe de apă decât aerodromurile certificate.
+- Ordonanța Guvernului nr. 27/1997 privind Codul Aerian
+- Ordinul ministrului transporturilor, construcțiilor și turismului OMTCT nr. 630 din 27.03.2007
+- Ordinul ministrului transporturilor, construcțiilor și turismului OMTCT nr. 1044 din 10.12.2025
+- Hotărârea Guvernului nr. 912/2010 pentru aprobarea procedurii de autorizare a zborurilor în spațiul aerian național, precum și a condițiilor în care decolarea și aterizarea aeronavelor civile se pot efectua și de pe/pe alte terenuri sau suprafețe de apă decât aerodromurile certificate
 
-Răspuns corect:
-Ordinul ministrului transporturilor, construcțiilor și turismului OMTCT nr. 630 din 27.03.2007.
+Răspunsul corect este varianta 2: „Ordinul ministrului transporturilor, construcțiilor și turismului nr. 630 din 27.03.2007.”
+
+Explicație
+
+OMTCT nr. 630/2007 este actul normativ specific care a aprobat reglementările aeronautice civile române privind aeronavele ultraușoare.
+
+De memorat: ULM → Ordinul 630/2007.
+
+Ordinul este încă în vigoare, în formă modificată și completată, inclusiv prin actualizările din 2026.
