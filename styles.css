@@ -864,117 +864,119 @@ details.question-more .more-body {
 }
 
 .official-back-link {
- display: inline-block;
- margin: 0 0 1.25rem;
- color: var(--muted, #9aa5a8);
+ display: inline-flex;
+ margin: 0 0 1rem;
+ padding: 0.45rem 0.7rem;
+ border: 1px solid var(--border);
+ border-radius: 4px;
+ color: var(--accent);
  font-size: 0.82rem;
- font-weight: 600;
+ font-weight: 700;
  text-decoration: none;
 }
-.official-back-link:hover { color: var(--heading); }
+.official-back-link:hover { background: var(--card); color: var(--heading); }
 .official-doc-title {
- margin: 0 0 0.7rem;
+ margin: 0 0 0.55rem;
  color: var(--official-accent, #38c98a);
- font: 700 clamp(2rem, 4vw, 3rem)/1.05 var(--font-head);
- letter-spacing: 0.015em;
- text-wrap: balance;
+ font-family: var(--font-head);
+ font-size: clamp(1.6rem, 3vw, 2.2rem);
+ font-weight: 700;
+ line-height: 1.2;
 }
 .official-doc-meta {
  display: flex;
  flex-wrap: wrap;
  gap: 0.5rem;
- margin: 0 0 0.9rem;
+ margin: 0 0 0.65rem;
  color: var(--text);
- font-size: 0.9rem;
+ font-size: 0.82rem;
 }
 .official-pdf-link {
- display: inline-flex;
- align-items: center;
- gap: 0.4rem;
- margin: 0 0 1.6rem;
- padding: 0.55rem 0.85rem;
+ display: inline-block;
+ margin: 0 0 1rem;
+ padding: 0.4rem 0.65rem;
  border: 1px solid var(--border);
- border-radius: 10px;
- background: rgba(255, 255, 255, 0.035);
- color: var(--text);
- font-size: 0.8rem;
+ border-radius: 4px;
+ background: var(--card);
+ color: var(--accent);
+ font-size: 0.78rem;
  font-weight: 700;
  text-decoration: none;
- transition: border-color 140ms ease, color 140ms ease, background 140ms ease;
+ transition: border-color 140ms ease, color 140ms ease;
 }
 .official-pdf-link:hover {
  border-color: var(--official-accent, #38c98a);
- background: color-mix(in srgb, var(--official-accent, #38c98a) 9%, transparent);
  color: var(--official-accent, #38c98a);
 }
 .official-document {
  --official-accent: #38c98a;
  color: var(--text);
- max-width: 84ch;
- padding: 1.2rem 0 4rem;
- border-top: 1px solid var(--border);
- font-size: 1rem;
+ max-width: none;
+ padding: 0.25rem 0 3rem;
 }
-.official-document h2,
-.official-document h3 {
+.official-section {
+ position: relative;
+ margin: 1rem 0;
+ padding: 1.25rem 1.5rem;
+ border-radius: 4px;
+ border-bottom: 2px solid var(--border);
+ background: var(--card);
+ box-shadow: 0 1px 3px rgba(26, 30, 30, 0.08);
+}
+.official-section::before {
+ position: absolute;
+ inset: 0 auto 0 0;
+ width: 4px;
+ border-radius: 4px 0 0 4px;
+ background: var(--official-accent);
+ content: "";
+ pointer-events: none;
+}
+.official-section h2 {
+ margin: 0 0 0.8rem;
  color: var(--heading);
  font-family: var(--font-head);
- line-height: 1.2;
- text-wrap: pretty;
-}
-.official-document h2 {
- margin: 2.6rem 0 0.85rem;
- padding: 0 0 0.55rem 0.8rem;
- border-bottom: 1px solid var(--border);
- border-left: 3px solid var(--official-accent);
- font-size: clamp(1.45rem, 2.5vw, 1.9rem);
+ font-size: 1.25rem;
  font-weight: 700;
+ line-height: 1.3;
 }
-.official-document h3 {
- margin: 1.8rem 0 0.6rem;
+.official-section h3 {
+ margin: 1.1rem 0 0.45rem;
  color: var(--official-accent);
- font-family: var(--font-body);
- font-size: 1.08rem;
+ font-family: var(--font-head);
+ font-size: 1.05rem;
  font-weight: 700;
 }
-.official-document p {
- margin: 0.55rem 0;
+.official-section p {
+ margin: 0.45rem 0;
  color: var(--text);
- font-size: 0.97rem;
- line-height: 1.78;
+ font-size: 0.94rem;
+ line-height: 1.65;
  overflow-wrap: anywhere;
 }
-.official-document .official-list {
- padding-left: 1rem;
-}
-.official-document .official-toc {
+.official-section strong { color: var(--heading); font-weight: 700; }
+.official-section em { font-style: italic; }
+.official-section .official-list { padding-left: 1rem; }
+.official-section .official-toc {
  display: block;
- width: 100%;
- max-width: 100%;
  margin: 0;
- padding: 0.6rem 0.75rem;
- border-bottom: 1px solid rgba(255, 255, 255, 0.055);
- border-left: 2px solid transparent;
- border-radius: 0 7px 7px 0;
- color: var(--muted, #b7c0c2);
- font-size: 0.9rem;
+ padding: 0.55rem 0.65rem;
+ border-top: 1px solid rgba(255, 255, 255, 0.055);
+ border-radius: 2px;
+ color: var(--text);
+ font-size: 0.92rem;
  line-height: 1.45;
  text-decoration: none;
- transition: color 130ms ease, background 130ms ease, border-color 130ms ease;
+ transition: background 130ms ease, color 130ms ease;
 }
-.official-document .official-toc:hover {
- border-left-color: var(--official-accent);
- background: color-mix(in srgb, var(--official-accent) 7%, transparent);
+.official-section .official-toc:hover {
+ background: var(--page);
  color: var(--official-accent);
 }
-.official-document strong { color: var(--heading); font-weight: 700; }
-.official-document em { font-style: italic; }
 
 @media (max-width: 700px) {
- .official-doc-title { font-size: 2rem; }
- .official-document { padding-top: 0.8rem; }
- .official-document h2 { margin-top: 2rem; }
- .official-document p { font-size: 0.94rem; line-height: 1.7; }
+ .official-section { padding: 1rem 1rem 1rem 1.15rem; }
+ .official-section p { font-size: 0.9rem; }
 }
 
 .doc-body h2 {

@@ -878,9 +878,15 @@
 
     var article = el('article', 'official-document');
     article.style.setProperty('--official-accent', doc.accent || '#38c98a');
+    var section = null;
     (doc.blocks || []).forEach(function (block) {
       var tag = block.type === 'title' || block.type === 'heading' ? 'h2' : block.type === 'subheading' ? 'h3' : 'p';
       var className = 'official-' + (block.type || 'paragraph');
+      if (tag === 'h2' || !section) {
+        section = el('section', 'official-section');
+        article.appendChild(section);
+        if (block.text && /^(cuprins|contents)$/i.test(block.text.trim())) section.classList.add('official-contents');
+      }
       var element;
       if (block.type === 'toc' && block.href) {
         element = el('a', className, block.text);
@@ -890,7 +896,7 @@
         appendOfficialRuns(element, block.runs, block.text);
       }
       if (block.anchor) element.id = block.anchor;
-      article.appendChild(element);
+      section.appendChild(element);
     });
     main.appendChild(article);
     window.scrollTo(0, 0);

@@ -216,6 +216,25 @@ def extract(slug, title, filename, accent):
                     record["runs"] = [{"text": record["text"], "bold": False, "italic": False}]
             blocks.append(record)
 
+    compacted = []
+    index = 0
+    while index < len(blocks):
+        current = blocks[index]
+        if re.fullmatch(r"\d+(?:\.\d+)*\.?", current["text"]) and index + 1 < len(blocks) and blocks[index + 1]["type"] == "toc":
+            following = blocks[index + 1]
+            following["text"] = current["text"] + "  " + following["text"]
+            following["runs"] = [{"text": following["text"], "bold": False, "italic": False}]
+            if index + 2 < len(blocks) and blocks[index + 2]["text"].startswith("(") and len(blocks[index + 2]["text"]) < 120:
+                following["text"] += " " + blocks[index + 2]["text"]
+                following["runs"] = [{"text": following["text"], "bold": False, "italic": False}]
+                index += 1
+            compacted.append(following)
+            index += 2
+            continue
+        compacted.append(current)
+        index += 1
+    blocks = compacted
+
     add_document_anchors(blocks)
 
     record = {
