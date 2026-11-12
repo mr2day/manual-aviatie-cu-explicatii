@@ -7,6 +7,7 @@
   var catalogReady = false;
   var routeVersion = 0;
   var activeChapterId = null;
+  var lastChapterId = '01';
   var activeExam = 'toate';
   var activeSearchRefresh = null;
   var searchQuery = '';
@@ -371,7 +372,9 @@
         if (activeExam === choice.id) return;
         activeExam = choice.id;
         updateExamFilter();
-        if (activeChapterId && byId[activeChapterId]) {
+        if (activeChapterId === 'all') {
+          loadAllQuestionsView().then(function (all) { renderChapter(all, window.scrollY); });
+        } else if (activeChapterId && byId[activeChapterId]) {
           var chapterId = activeChapterId;
           var scrollY = window.scrollY;
           loadChapter(byId[chapterId]).then(function (chapter) {
@@ -386,6 +389,42 @@
     filter.appendChild(group);
     updateExamFilter(filter);
     return filter;
+  }
+
+  function buildViewSwitcher(allMode) {
+    var switcher = el('div', 'question-view-switcher');
+    switcher.setAttribute('role', 'group');
+    switcher.setAttribute('aria-label', 'Mod de afișare');
+    [
+      { id: 'chapters', label: 'Pe capitole', hash: '#' + (lastChapterId || '01') },
+      { id: 'all', label: 'Toate întrebările', hash: '#all' }
+    ].forEach(function (choice) {
+      var button = el('button', 'question-view-button', choice.label);
+      button.type = 'button';
+      button.classList.toggle('selected', choice.id === (allMode ? 'all' : 'chapters'));
+      button.setAttribute('aria-pressed', String(choice.id === (allMode ? 'all' : 'chapters')));
+      button.addEventListener('click', function () {
+        if (choice.id === 'all' && activeChapterId === 'all') return;
+        if (choice.id === 'chapters' && activeChapterId !== 'all') return;
+        location.hash = choice.hash;
+      });
+      switcher.appendChild(button);
+    });
+    return switcher;
+  }
+
+  function loadAllQuestionsView() {
+    return Promise.all(chapters.map(function (chapter) { return loadChapter(chapter); })).then(function (groups) {
+      var all = [];
+      groups.forEach(function (group) {
+        group.questions.forEach(function (question, index) {
+          question._chapterIndex = index;
+          question._chapterTitle = group.title;
+          all.push(question);
+        });
+      });
+      return { id: 'all', title: 'Toate întrebările', questions: all, allMode: true };
+    });
   }
 
   function stickyTop() {
@@ -406,6 +445,7 @@
             return {
               chapterId: chapter.id,
               chapterTitle: chapter.title,
+              id: question.id,
               index: index,
               number: index + 1,
               exams: question.exams || ['deva'],
@@ -442,6 +482,15 @@
     searchExpanded = false;
     var bar = document.querySelector('.q-search');
     if (bar) document.documentElement.style.setProperty('--q-search-h', bar.offsetHeight + 'px');
+    if (activeChapterId === 'all') {
+      var globalTarget = result.id && document.querySelector('#content .question[data-question-id="' + result.id + '"]');
+      if (globalTarget) {
+        document.querySelectorAll('#content .question').forEach(function (section) { section.classList.remove('search-hit'); });
+        globalTarget.classList.add('search-hit');
+        globalTarget.scrollIntoView({ block: 'start', behavior: 'smooth' });
+      }
+      return;
+    }
     if (result.chapterId === activeChapterId) {
       var target = document.querySelector('#content .question[data-question-index="' + result.index + '"]');
       if (target) {
@@ -607,6 +656,7 @@
     var main = document.getElementById('content');
     main.textContent = '';
     main.appendChild(el('h1', 'sr-only', c.title));
+    main.appendChild(buildViewSwitcher(!!c.allMode));
     main.appendChild(buildExamFilter());
     var searchBar = buildSearchBar();
     main.appendChild(searchBar);
@@ -619,6 +669,8 @@
       if (q.trickiness === 'super_tricky') section.classList.add('question-super-tricky');
       else if (q.trickiness === 'tricky') section.classList.add('question-tricky');
       section.setAttribute('data-question-index', String(index));
+      if (q.id) section.setAttribute('data-question-id', q.id);
+      if (c.allMode) section.appendChild(el('p', 'question-chapter-label', q._chapterTitle));
       var h2 = el('h2', 'question-title');
       h2.appendChild(el('span', 'question-number', String(index + 1)));
       var trickinessControl = el('div', 'question-trickiness-control');
@@ -635,7 +687,7 @@
         button.setAttribute('aria-label', option.value ? option.label : 'Fără etichetă');
         if ((q.trickiness || '') === option.value) button.classList.add('selected');
         button.addEventListener('click', function () {
-          setQuestionTrickiness(c.id, index, q, option.value);
+          setQuestionTrickiness(c.allMode ? q.chapter : c.id, c.allMode ? q._chapterIndex : index, q, option.value);
           trickinessControl.querySelectorAll('.trickiness-segment').forEach(function (segment) {
             var selected = segment === button;
             segment.classList.toggle('selected', selected);
@@ -779,6 +831,20 @@
     var requestVersion = ++routeVersion;
     if (!catalogReady) return;
     var hash = location.hash || '#01';
+    if (hash === '#all') {
+      document.body.classList.add('all-questions-mode');
+      renderNav(null);
+      setCurrent('Toate întrebările');
+      showStatus('Se încarcă toate întrebările…');
+      loadAllQuestionsView().then(function (all) {
+        if (requestVersion === routeVersion) renderChapter(all);
+      }).catch(function (error) {
+        console.error('Nu s-au putut încărca toate întrebările.', error);
+        if (requestVersion === routeVersion) showStatus('Întrebările nu s-au putut încărca. Verifică conexiunea și încearcă din nou.', function () { route(); });
+      });
+      return;
+    }
+    document.body.classList.remove('all-questions-mode');
     if (hash.indexOf('#doc/') === 0) {
       renderNav(null);
       setCurrent((document.querySelector('.sidebar a[href="' + hash + '"]') || {}).textContent || '');
@@ -786,6 +852,7 @@
       return;
     }
     var c = byId[hash.slice(1)] || chapters[0];
+    lastChapterId = c.id;
     renderNav(c.id);
     setCurrent(c.title);
     showStatus('Se încarcă ' + c.title + '…');
