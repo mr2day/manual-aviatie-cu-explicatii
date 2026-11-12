@@ -863,6 +863,89 @@ details.question-more .more-body {
  color: var(--accent);
 }
 
+.official-back-link {
+ display: inline-flex;
+ align-items: center;
+ margin: 0 0 1rem;
+ color: var(--accent);
+ font-size: 0.95rem;
+ font-weight: 700;
+ text-decoration: none;
+}
+.official-back-link:hover,
+.official-pdf-link:hover { text-decoration: underline; }
+.official-doc-title {
+ margin: 0 0 0.5rem;
+ color: var(--official-accent, #38c98a);
+ font-size: clamp(1.8rem, 4vw, 2.6rem);
+ line-height: 1.1;
+}
+.official-doc-meta {
+ display: flex;
+ flex-wrap: wrap;
+ gap: 0.55rem 1rem;
+ margin: 0 0 0.65rem;
+ color: var(--text);
+ font-size: 0.9rem;
+}
+.official-pdf-link {
+ display: inline-block;
+ margin: 0 0 1.5rem;
+ color: var(--accent);
+ font-size: 0.9rem;
+ font-weight: 700;
+ text-decoration: none;
+}
+.official-document {
+ --official-accent: #38c98a;
+ color: var(--text);
+}
+.official-page {
+ position: relative;
+ margin: 0 0 1rem;
+ padding: 1.35rem clamp(1rem, 3vw, 2rem) 1.5rem;
+ overflow-wrap: anywhere;
+ border: 1px solid var(--border);
+ border-radius: 16px;
+ background: linear-gradient(135deg, color-mix(in srgb, var(--official-accent) 7%, var(--card)), var(--card) 45%);
+}
+.official-page-number {
+ display: inline-block;
+ margin: 0 0 0.9rem;
+ padding: 0.2rem 0.55rem;
+ border-radius: 999px;
+ background: color-mix(in srgb, var(--official-accent) 15%, transparent);
+ color: var(--official-accent);
+ font-size: 0.78rem;
+ font-weight: 700;
+ letter-spacing: 0.04em;
+}
+.official-page h2,
+.official-page h3 {
+ color: var(--official-accent);
+ line-height: 1.25;
+}
+.official-page h2 {
+ margin: 1.1rem 0 0.65rem;
+ padding-bottom: 0.35rem;
+ border-bottom: 1px solid color-mix(in srgb, var(--official-accent) 35%, var(--border));
+ font-size: clamp(1.25rem, 2.5vw, 1.65rem);
+}
+.official-page h3 {
+ margin: 1rem 0 0.45rem;
+ font-size: 1.08rem;
+}
+.official-page p {
+ margin: 0.5rem 0;
+ line-height: 1.7;
+ white-space: pre-wrap;
+}
+.official-page .official-list {
+ padding-left: 1.3rem;
+}
+.official-page strong { color: var(--heading); font-weight: 800; }
+.official-page em { font-style: italic; }
+
 .doc-body h2 {
  font-size: 1.2rem;
  margin: 2rem 0 0.6rem;

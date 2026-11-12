@@ -4,6 +4,7 @@
   var byId = {};
   var chapterCache = {};
   var allQuestionsPromise = null;
+  var officialDocCache = {};
   var catalogReady = false;
   var routeVersion = 0;
   var activeChapterId = null;
@@ -828,6 +829,99 @@
     window.scrollTo(0, 0);
   }
 
+  function appendOfficialRuns(parent, runs, fallbackText) {
+    if (!Array.isArray(runs) || !runs.length) {
+      parent.appendChild(document.createTextNode(fallbackText || ''));
+      return;
+    }
+    runs.forEach(function (run) {
+      var node = document.createTextNode(run.text || '');
+      if (run.bold && run.italic) {
+        var strong = el('strong');
+        var emphasis = el('em');
+        emphasis.appendChild(node);
+        strong.appendChild(emphasis);
+        parent.appendChild(strong);
+      } else if (run.bold) {
+        var bold = el('strong');
+        bold.appendChild(node);
+        parent.appendChild(bold);
+      } else if (run.italic) {
+        var italic = el('em');
+        italic.appendChild(node);
+        parent.appendChild(italic);
+      } else {
+        parent.appendChild(node);
+      }
+    });
+  }
+
+  function renderOfficialDoc(doc) {
+    var main = document.getElementById('content');
+    main.textContent = '';
+    activeChapterId = null;
+    activeSearchRefresh = null;
+    var back = el('a', 'official-back-link', '← Înapoi la întrebări');
+    back.href = '#all';
+    main.appendChild(back);
+    var title = el('h1', 'official-doc-title', doc.title);
+    title.style.setProperty('--official-accent', doc.accent || '#38c98a');
+    main.appendChild(title);
+    var meta = el('div', 'official-doc-meta');
+    meta.appendChild(el('span', null, 'Material oficial · Aeroclubul României'));
+    meta.appendChild(el('span', null, doc.pages_total + ' pagini'));
+    main.appendChild(meta);
+    var source = el('a', 'official-pdf-link', 'Deschide PDF-ul original ↗');
+    source.href = doc.source;
+    source.target = '_blank';
+    source.rel = 'noopener noreferrer';
+    main.appendChild(source);
+
+    var article = el('article', 'official-document');
+    article.style.setProperty('--official-accent', doc.accent || '#38c98a');
+    (doc.pages || []).forEach(function (page) {
+      var pageSection = el('section', 'official-page');
+      pageSection.appendChild(el('span', 'official-page-number', 'Pagina ' + page.number));
+      (page.blocks || []).forEach(function (block) {
+        var tag = block.type === 'title' || block.type === 'heading' ? 'h2' : block.type === 'subheading' ? 'h3' : block.type === 'list' ? 'ul' : 'p';
+        var className = block.type === 'list' ? 'official-list' : 'official-' + (block.type || 'paragraph');
+        var element = el(tag, className);
+        if (block.type === 'list') {
+          var item = el('li');
+          appendOfficialRuns(item, block.runs, block.text);
+          element.appendChild(item);
+        } else {
+          appendOfficialRuns(element, block.runs, block.text);
+        }
+        pageSection.appendChild(element);
+      });
+      article.appendChild(pageSection);
+    });
+    main.appendChild(article);
+    window.scrollTo(0, 0);
+  }
+
+  function loadOfficialDoc(slug, requestVersion) {
+    if (!/^[a-z0-9-]+$/.test(slug)) { showDocMissing(); return; }
+    if (officialDocCache[slug]) {
+      if (requestVersion === routeVersion) renderOfficialDoc(officialDocCache[slug]);
+      return;
+    }
+    showStatus('Se încarcă documentul oficial…');
+    var url = 'docs/extracted/' + slug + '.json' + (assetVersion ? '?v=' + encodeURIComponent(assetVersion) : '');
+    fetch(url).then(function (response) {
+      if (!response.ok) throw new Error('Document HTTP ' + response.status);
+      return response.json();
+    }).then(function (doc) {
+      if (doc.id !== slug || !Array.isArray(doc.pages)) throw new Error('Document oficial invalid.');
+      officialDocCache[slug] = doc;
+      if (requestVersion === routeVersion) renderOfficialDoc(doc);
+    }).catch(function (error) {
+      console.error('Nu s-a putut încărca documentul oficial ' + slug + '.', error);
+      if (requestVersion === routeVersion) showDocMissing();
+    });
+  }
+
   function showDocMissing() {
     var main = document.getElementById('content');
     main.textContent = '';
@@ -873,6 +967,14 @@
       return;
     }
     document.body.classList.remove('all-questions-mode');
+    if (hash.indexOf('#official/') === 0) {
+      var officialSlug = hash.slice('#official/'.length);
+      var officialLink = document.querySelector('.sidebar a[href="' + hash + '"]');
+      renderNav(null);
+      setCurrent(officialLink ? officialLink.textContent : 'Documente oficiale');
+      loadOfficialDoc(officialSlug, requestVersion);
+      return;
+    }
     if (hash.indexOf('#doc/') === 0) {
       renderNav(null);
       setCurrent((document.querySelector('.sidebar a[href="' + hash + '"]') || {}).textContent || '');
