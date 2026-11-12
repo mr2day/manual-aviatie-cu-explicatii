@@ -1,0 +1,26 @@
+official-id:
+
+Autoritatea responsabilă de investigațiile privind siguranța aeronautică poate:
+
+- Emite recomandări privind siguranța aeronautică pe baza directivelor date de Autoritatea Aeronautică Civilă Română
+- Emite directive privind siguranța aeronautică pe baza unor presupuneri
+- Emite recomandări privind siguranța aeronautică pe baza directivelor date de Aeroclubul României
+- Emite recomandări privind siguranța aeronautică pe baza unor studii sau a analizei unei serii de investigații ori a oricăror alte activități efectuate
+
+Răspunsul corect este varianta 4: „Emite recomandări privind siguranța aeronautică pe baza unor studii sau a analizei unei serii de investigații ori a oricăror alte activități efectuate.”
+
+Explicație
+
+AIAS (Autoritatea de Investigații și Analiză pentru Siguranța Aviației Civile) poate emite recomandări de siguranță nu doar în urma investigării unui accident, ci și pe baza:
+
+- Studiilor privind siguranța aeronautică.
+- Analizei mai multor accidente sau incidente.
+- Altor activități de investigare și prevenire.
+
+AIAS este independentă în desfășurarea investigațiilor și nu emite recomandări pe baza directivelor AACR sau ale Aeroclubului României.
+
+De memorat pentru examen: AIAS → investigații și studii → recomandări de siguranță, nu directive.
+
+Baza legală: Regulamentul (UE) nr. 996/2010, articolul 17.
+
+TRICKY
