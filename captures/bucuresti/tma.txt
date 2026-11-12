@@ -1,0 +1,24 @@
+official-id:
+
+Ce înseamnă abrevierea aeronautică TMA?
+
+- Temperatura minimă pe aeroport (la emiterea METARului)
+- Înălțimea minimă de traversare a aeroportului
+- Traiectul mediu al aeronavei
+- Regiune terminală de control
+
+Răspunsul corect este varianta 4: „Regiune terminală de control.”
+
+Explicație
+
+TMA = Terminal Control Area – regiune terminală de control.
+
+Este un spațiu aerian controlat, stabilit de regulă în apropierea unuia sau mai multor aeroporturi, pentru gestionarea traficului aerian la sosire și plecare.
+
+De memorat
+
+- TMA – Terminal Control Area: regiune terminală de control.
+- CTR – Control Zone: zonă de control, care începe de la sol.
+- ATZ – Aerodrome Traffic Zone: zonă de trafic de aerodrom.
+
+Diferența esențială: CTR începe de la sol, iar TMA are, de regulă, o limită inferioară situată la o anumită altitudine.
