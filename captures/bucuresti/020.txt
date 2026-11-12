@@ -1,0 +1,25 @@
+official-id:
+
+Termenul de „plafon” este definit ca:
+
+- Altitudinea bazei celui mai de jos strat de nori care acoperă mai mult de jumătate de cer sub 20.000 ft
+- Înălțimea bazei celui mai de jos strat de nori care acoperă mai mult de jumătate de cer sub 1.000 ft
+- Înălțimea bazei celui mai de jos strat de nori care acoperă mai mult de jumătate de cer sub 20.000 ft
+- Înălțimea bazei celui mai de sus strat de nori care acoperă mai mult de jumătate de cer sub 20.000 ft
+
+Răspunsul corect este varianta 3: „Înălțimea bazei celui mai de jos strat de nori care acoperă mai mult de jumătate de cer sub 20.000 ft.”
+
+Explicație
+
+Plafonul norilor (ceiling) reprezintă înălțimea față de sol a bazei celui mai jos strat de nori care acoperă mai mult de jumătate din cer.
+
+În codurile METAR:
+
+- FEW: 1–2 optimi — nu constituie plafon.
+- SCT: 3–4 optimi — nu constituie plafon.
+- BKN: 5–7 optimi — constituie plafon.
+- OVC: 8 optimi — constituie plafon.
+
+De memorat: plafon = înălțime față de sol + cel mai jos BKN sau OVC, sub 20.000 ft.
+
+TRICKY
