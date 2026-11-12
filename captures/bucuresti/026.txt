@@ -1,0 +1,23 @@
+official-id:
+
+Certificatul de identificare al unei aeronave ULM are o valabilitate de:
+
+- 24 luni
+- 36 luni
+- Nelimitat
+- 12 luni
+
+Răspunsul corect este varianta 3: „Nelimitat.”
+
+Explicație
+
+Conform RACR-CCO ULM 1100, certificatul de identificare al unei aeronave ULM obișnuite are valabilitate nelimitată.
+
+Există excepții:
+
+- Prototipuri: 36 de luni.
+- Aeronave de serie nou-construite, pentru zboruri de casă: 12 luni.
+
+Din 2022, documentul se numește certificat de înmatriculare, dar principiul valabilității rămâne același.
+
+De memorat: certificat ULM = nelimitat; prototip = 36 luni; zboruri de casă = 12 luni.
