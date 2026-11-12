@@ -858,7 +858,7 @@
   function route() {
     var requestVersion = ++routeVersion;
     if (!catalogReady) return;
-    var hash = location.hash || '#01';
+    var hash = location.hash || '#all';
     if (hash === '#all') {
       document.body.classList.add('all-questions-mode');
       renderNav(null);
