@@ -192,15 +192,20 @@ body.all-questions-mode .sidebar,
 body.all-questions-mode .menu-bar,
 body.all-questions-mode #menu-backdrop { display: none !important; }
 body.all-questions-mode .layout { justify-content: center; }
-body.all-questions-mode .content { width: 100%; }
-.scroll-top-button {
-  position: fixed;
+body.all-questions-mode .content { width: auto; }
+.scroll-navigation {
+  position: absolute;
   z-index: 20;
   top: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  transform: translateY(-50%);
+}
+.scroll-navigation-button {
   width: 44px;
   height: 44px;
   padding: 0;
-  transform: translateY(-50%);
   border: 1px solid rgba(101, 164, 230, 0.55);
   border-radius: 50%;
   background: rgba(22, 39, 55, 0.94);
@@ -211,10 +216,10 @@ body.all-questions-mode .content { width: 100%; }
   pointer-events: none;
   transition: opacity 160ms ease, background-color 160ms ease;
 }
-.scroll-top-button.is-visible { opacity: 1; pointer-events: auto; }
-.scroll-top-button:hover { background: #243f58; }
-.scroll-top-button:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
-.scroll-top-button:disabled { cursor: default; }
+.scroll-navigation-button.is-visible { opacity: 1; pointer-events: auto; }
+.scroll-navigation-button:hover { background: #243f58; }
+.scroll-navigation-button:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.scroll-navigation-button:disabled { cursor: default; }
 
 .load-status {
   max-width: 42rem;

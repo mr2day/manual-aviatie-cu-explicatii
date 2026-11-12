@@ -914,42 +914,59 @@
   setMenu(false);
 
   var desktopViewport = window.matchMedia('(min-width: 901px)');
+  var scrollNavigation = null;
   var scrollTopButton = null;
-  function updateScrollTopButton() {
-    if (!scrollTopButton) return;
+  var scrollBottomButton = null;
+  function updateScrollNavigation() {
+    if (!scrollNavigation) return;
     var content = document.getElementById('content');
     var rect = content && content.getBoundingClientRect();
-    var left = rect ? Math.round(rect.right + 14) : window.innerWidth;
-    var fitsBesideContent = left + 48 <= window.innerWidth;
-    scrollTopButton.style.left = left + 'px';
-    var visible = window.scrollY > 350 && fitsBesideContent;
-    scrollTopButton.classList.toggle('is-visible', visible);
-    scrollTopButton.setAttribute('aria-hidden', String(!visible));
-    scrollTopButton.disabled = !visible;
+    var left = rect ? Math.round(rect.right + window.scrollX + 14) : window.scrollX + window.innerWidth - 60;
+    scrollNavigation.style.left = Math.min(left, window.scrollX + window.innerWidth - 60) + 'px';
+    scrollNavigation.style.top = Math.round(window.scrollY + window.innerHeight / 2) + 'px';
+    var showTop = window.scrollY > 350;
+    var showBottom = document.documentElement.scrollHeight - (window.scrollY + window.innerHeight) > 350;
+    [[scrollTopButton, showTop], [scrollBottomButton, showBottom]].forEach(function (entry) {
+      entry[0].classList.toggle('is-visible', entry[1]);
+      entry[0].setAttribute('aria-hidden', String(!entry[1]));
+      entry[0].disabled = !entry[1];
+    });
   }
-  function syncScrollTopButton() {
-    if (desktopViewport.matches && !scrollTopButton) {
-      scrollTopButton = el('button', 'scroll-top-button', '↑');
+  function syncScrollNavigation() {
+    if (desktopViewport.matches && !scrollNavigation) {
+      scrollNavigation = el('div', 'scroll-navigation');
+      scrollTopButton = el('button', 'scroll-navigation-button', '↑');
       scrollTopButton.type = 'button';
       scrollTopButton.setAttribute('aria-label', 'Derulează la începutul paginii');
       scrollTopButton.title = 'Înapoi sus';
       scrollTopButton.addEventListener('click', function () {
         window.scrollTo({ top: 0, behavior: 'smooth' });
       });
-      document.body.appendChild(scrollTopButton);
-      updateScrollTopButton();
-    } else if (!desktopViewport.matches && scrollTopButton) {
-      scrollTopButton.remove();
+      scrollBottomButton = el('button', 'scroll-navigation-button', '↓');
+      scrollBottomButton.type = 'button';
+      scrollBottomButton.setAttribute('aria-label', 'Derulează la finalul paginii');
+      scrollBottomButton.title = 'La final';
+      scrollBottomButton.addEventListener('click', function () {
+        window.scrollTo({ top: document.documentElement.scrollHeight, behavior: 'smooth' });
+      });
+      scrollNavigation.appendChild(scrollTopButton);
+      scrollNavigation.appendChild(scrollBottomButton);
+      document.body.appendChild(scrollNavigation);
+      updateScrollNavigation();
+    } else if (!desktopViewport.matches && scrollNavigation) {
+      scrollNavigation.remove();
+      scrollNavigation = null;
       scrollTopButton = null;
+      scrollBottomButton = null;
     }
   }
-  syncScrollTopButton();
-  if (desktopViewport.addEventListener) desktopViewport.addEventListener('change', syncScrollTopButton);
-  else desktopViewport.addListener(syncScrollTopButton);
-  window.addEventListener('scroll', updateScrollTopButton, { passive: true });
+  syncScrollNavigation();
+  if (desktopViewport.addEventListener) desktopViewport.addEventListener('change', syncScrollNavigation);
+  else desktopViewport.addListener(syncScrollNavigation);
+  window.addEventListener('scroll', updateScrollNavigation, { passive: true });
   window.addEventListener('resize', function () {
-    syncScrollTopButton();
-    updateScrollTopButton();
+    syncScrollNavigation();
+    updateScrollNavigation();
   });
 
   window.addEventListener('hashchange', route);
