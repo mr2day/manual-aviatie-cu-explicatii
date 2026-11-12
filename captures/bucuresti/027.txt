@@ -1,0 +1,23 @@
+official-id:
+
+Ce distanțe față de nori trebuie menținute în timpul unui zbor VFR într-un spațiu aerian de clasă C?
+
+- 1000 m orizontal, 500 m vertical
+- 1500 m orizontal, 1000 m vertical
+- 1000 m orizontal, 300 m vertical
+- 1500 m orizontal, 1000 ft vertical
+
+Răspunsul corect este varianta 4: „1500 m orizontal, 1000 ft vertical.”
+
+Explicație
+
+În spațiul aerian de clasă C, zborurile VFR trebuie să păstreze față de nori:
+
+- Distanță orizontală: minimum 1500 m.
+- Distanță verticală: minimum 1000 ft (aproximativ 300 m).
+
+Conform regulamentului SERA.5001, acestea sunt minimele standard de separare față de nori pentru clasa C.
+
+De memorat: VFR clasa C → 1500 m orizontal + 1000 ft vertical.
+
+TRICKY
