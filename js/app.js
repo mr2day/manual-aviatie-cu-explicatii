@@ -829,76 +829,43 @@
     window.scrollTo(0, 0);
   }
 
-  function appendOfficialRuns(parent, runs, fallbackText) {
-    if (!Array.isArray(runs) || !runs.length) {
-      parent.appendChild(document.createTextNode(fallbackText || ''));
-      return;
-    }
-    runs.forEach(function (run) {
-      var node = document.createTextNode(run.text || '');
-      if (run.bold && run.italic) {
-        var strong = el('strong');
-        var emphasis = el('em');
-        emphasis.appendChild(node);
-        strong.appendChild(emphasis);
-        parent.appendChild(strong);
-      } else if (run.bold) {
-        var bold = el('strong');
-        bold.appendChild(node);
-        parent.appendChild(bold);
-      } else if (run.italic) {
-        var italic = el('em');
-        italic.appendChild(node);
-        parent.appendChild(italic);
-      } else {
-        parent.appendChild(node);
-      }
-    });
-  }
-
   function renderOfficialDoc(doc) {
     var main = document.getElementById('content');
     main.textContent = '';
     activeChapterId = null;
     activeSearchRefresh = null;
-    var back = el('a', 'official-back-link', '← Înapoi la întrebări');
+    var backRow = el('p', 'doc-meta');
+    var back = el('a', null, '← Înapoi la întrebări');
     back.href = '#all';
-    main.appendChild(back);
-    var title = el('h1', 'official-doc-title', doc.title);
-    title.style.setProperty('--official-accent', doc.accent || '#38c98a');
-    main.appendChild(title);
-    var meta = el('div', 'official-doc-meta');
-    meta.appendChild(el('span', null, 'Material oficial · Aeroclubul României'));
-    main.appendChild(meta);
-    var source = el('a', 'official-pdf-link', 'Deschide PDF-ul original ↗');
-    source.href = doc.source;
-    source.target = '_blank';
-    source.rel = 'noopener noreferrer';
-    main.appendChild(source);
+    backRow.appendChild(back);
+    main.appendChild(backRow);
 
-    var article = el('article', 'official-document');
-    article.style.setProperty('--official-accent', doc.accent || '#38c98a');
-    var section = null;
-    (doc.blocks || []).forEach(function (block) {
-      var tag = block.type === 'title' || block.type === 'heading' ? 'h2' : block.type === 'subheading' ? 'h3' : 'p';
-      var className = 'official-' + (block.type || 'paragraph');
-      if (tag === 'h2' || !section) {
-        section = el('section', 'official-section');
-        article.appendChild(section);
-        if (block.text && /^(cuprins|contents)$/i.test(block.text.trim())) section.classList.add('official-contents');
-      }
+    var card = el('article', 'question document-card');
+    doc.forEach(function (record) {
+      var destination = String(record.destination || 'paragraph');
+      var parts = destination.split(':');
+      var kind = parts[0];
+      var target = parts[1] || '';
       var element;
-      if (block.type === 'toc' && block.href) {
-        element = el('a', className, block.text);
-        element.href = block.href;
+      if (kind === 'document-title') {
+        element = el('h1', 'question-title');
+        var titleText = el('strong', 'hl-green', record.text);
+        element.appendChild(titleText);
+      } else if (kind === 'heading' || kind === 'subheading') {
+        element = el(kind === 'heading' ? 'h2' : 'h3', 'question-title');
+        element.appendChild(el('strong', 'hl-green', record.text));
+      } else if (kind === 'link') {
+        element = el('p', 'question-short document-paragraph');
+        var link = el('a', 'document-link', record.text);
+        link.href = '#' + target;
+        element.appendChild(link);
       } else {
-        element = el(tag, className);
-        appendOfficialRuns(element, block.runs, block.text);
+        element = el('p', 'question-short document-paragraph', record.text);
       }
-      if (block.anchor) element.id = block.anchor;
-      section.appendChild(element);
+      if (target && kind !== 'link') element.id = target;
+      card.appendChild(element);
     });
-    main.appendChild(article);
+    main.appendChild(card);
     window.scrollTo(0, 0);
   }
 
@@ -914,7 +881,9 @@
       if (!response.ok) throw new Error('Document HTTP ' + response.status);
       return response.json();
     }).then(function (doc) {
-      if (doc.id !== slug || !Array.isArray(doc.blocks)) throw new Error('Document oficial invalid.');
+      if (!Array.isArray(doc) || !doc.every(function (record) { return typeof record.text === 'string' && typeof record.destination === 'string'; })) {
+        throw new Error('Document oficial invalid.');
+      }
       officialDocCache[slug] = doc;
       if (requestVersion === routeVersion) renderOfficialDoc(doc);
     }).catch(function (error) {
