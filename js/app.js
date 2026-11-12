@@ -915,34 +915,17 @@
 
   var desktopViewport = window.matchMedia('(min-width: 901px)');
   var scrollNavigation = null;
-  var scrollTopButton = null;
-  var scrollBottomButton = null;
-  function updateScrollNavigation() {
-    if (!scrollNavigation) return;
-    var content = document.getElementById('content');
-    var rect = content && content.getBoundingClientRect();
-    var left = rect ? Math.round(rect.right + window.scrollX + 14) : window.scrollX + window.innerWidth - 60;
-    scrollNavigation.style.left = Math.min(left, window.scrollX + window.innerWidth - 60) + 'px';
-    scrollNavigation.style.top = Math.round(window.scrollY + window.innerHeight / 2) + 'px';
-    var showTop = window.scrollY > 350;
-    var showBottom = document.documentElement.scrollHeight - (window.scrollY + window.innerHeight) > 350;
-    [[scrollTopButton, showTop], [scrollBottomButton, showBottom]].forEach(function (entry) {
-      entry[0].classList.toggle('is-visible', entry[1]);
-      entry[0].setAttribute('aria-hidden', String(!entry[1]));
-      entry[0].disabled = !entry[1];
-    });
-  }
   function syncScrollNavigation() {
     if (desktopViewport.matches && !scrollNavigation) {
       scrollNavigation = el('div', 'scroll-navigation');
-      scrollTopButton = el('button', 'scroll-navigation-button', '↑');
+      var scrollTopButton = el('button', 'scroll-navigation-button', '↑');
       scrollTopButton.type = 'button';
       scrollTopButton.setAttribute('aria-label', 'Derulează la începutul paginii');
       scrollTopButton.title = 'Înapoi sus';
       scrollTopButton.addEventListener('click', function () {
         window.scrollTo({ top: 0, behavior: 'smooth' });
       });
-      scrollBottomButton = el('button', 'scroll-navigation-button', '↓');
+      var scrollBottomButton = el('button', 'scroll-navigation-button', '↓');
       scrollBottomButton.type = 'button';
       scrollBottomButton.setAttribute('aria-label', 'Derulează la finalul paginii');
       scrollBottomButton.title = 'La final';
@@ -952,22 +935,15 @@
       scrollNavigation.appendChild(scrollTopButton);
       scrollNavigation.appendChild(scrollBottomButton);
       document.body.appendChild(scrollNavigation);
-      updateScrollNavigation();
     } else if (!desktopViewport.matches && scrollNavigation) {
       scrollNavigation.remove();
       scrollNavigation = null;
-      scrollTopButton = null;
-      scrollBottomButton = null;
     }
   }
   syncScrollNavigation();
   if (desktopViewport.addEventListener) desktopViewport.addEventListener('change', syncScrollNavigation);
   else desktopViewport.addListener(syncScrollNavigation);
-  window.addEventListener('scroll', updateScrollNavigation, { passive: true });
-  window.addEventListener('resize', function () {
-    syncScrollNavigation();
-    updateScrollNavigation();
-  });
+  window.addEventListener('resize', syncScrollNavigation);
 
   window.addEventListener('hashchange', route);
   loadCatalog();

@@ -194,13 +194,13 @@ body.all-questions-mode #menu-backdrop { display: none !important; }
 body.all-questions-mode .layout { justify-content: center; }
 body.all-questions-mode .content { width: auto; }
 .scroll-navigation {
-  position: absolute;
-  z-index: 20;
-  top: 50%;
+  position: fixed;
+  z-index: 100;
+  right: 16px;
+  bottom: 16px;
   display: flex;
   flex-direction: column;
   gap: 8px;
-  transform: translateY(-50%);
 }
 .scroll-navigation-button {
   width: 44px;
@@ -212,14 +212,10 @@ body.all-questions-mode .content { width: auto; }
   color: var(--accent);
   font: 700 1.65rem/1 var(--font-body);
   cursor: pointer;
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 160ms ease, background-color 160ms ease;
+  transition: background-color 160ms ease;
 }
-.scroll-navigation-button.is-visible { opacity: 1; pointer-events: auto; }
 .scroll-navigation-button:hover { background: #243f58; }
 .scroll-navigation-button:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
-.scroll-navigation-button:disabled { cursor: default; }
 
 .load-status {
   max-width: 42rem;
