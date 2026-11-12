@@ -1,0 +1,9 @@
+official-id: 23
+
+În livretul aeronavei ULM se vor consemna:
+
+Răspunsul tău greșit:
+Numărul de zboruri efectuate cu aeronava, inclusiv cantitatea de combustibil utilizată.
+
+Răspunsul corect:
+La sfârșitul fiecărei zile de zbor se va înregistra activitatea de zbor a aeronavei.
