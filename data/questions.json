@@ -10864,7 +10864,8 @@
   {
     "number": "#17",
     "exams": [
-      "deva"
+      "deva",
+      "bucuresti"
     ],
     "text": "194: În livretul aeronavei ULM se vor consemna:",
     "short": "În livretul aeronavei ULM se înscrie, la sfârșitul fiecărei zile de zbor, activitatea de zbor a aeronavei.",
@@ -10901,7 +10902,7 @@
     ],
     "chapter": "03",
     "id": "03-017",
-    "official-id": ""
+    "official-id": "23"
   },
   {
     "number": "#18",
@@ -12716,7 +12717,8 @@
   {
     "number": "#61",
     "exams": [
-      "deva"
+      "deva",
+      "bucuresti"
     ],
     "text": "195: Certificatul de înmatriculare al unei aeronave ULM are o valabilitate de:",
     "short": "Certificatul de înmatriculare al unei aeronave ULM are valabilitate nelimitată.",
@@ -12884,7 +12886,8 @@
   {
     "number": "#65",
     "exams": [
-      "deva"
+      "deva",
+      "bucuresti"
     ],
     "text": "173: Distanța minimă față de nori în zbor VFR este:",
     "short": "Distanța minimă față de nori în zbor VFR este 1500 m orizontal și 300 m vertical.",
@@ -12921,7 +12924,8 @@
     ],
     "chapter": "03",
     "id": "03-065",
-    "official-id": ""
+    "official-id": "",
+    "trickiness": "tricky"
   },
   {
     "number": "#66",
@@ -15028,7 +15032,7 @@
     "trickiness": "tricky",
     "chapter": "03",
     "id": "03-115",
-    "official-id": ""
+    "official-id": "2"
   },
   {
     "number": "#116",
@@ -15627,7 +15631,8 @@
   {
     "number": "#9",
     "exams": [
-      "deva"
+      "deva",
+      "bucuresti"
     ],
     "text": "320: Care dintre următoarele fenomene pot duce la o activitate orajoasă?",
     "short": "Frontul rece poate produce activitate orajoasă.",
@@ -15664,12 +15669,14 @@
     ],
     "chapter": "04",
     "id": "04-009",
-    "official-id": ""
+    "official-id": "",
+    "trickiness": "tricky"
   },
   {
     "number": "#10",
     "exams": [
-      "deva"
+      "deva",
+      "bucuresti"
     ],
     "text": "281: Unde se produce ceața frontală?",
     "short": "Ceața frontală apare la trecerea fronturilor, într-o zonă îngustă de-a lungul frontului, în masa de aer rece.",
@@ -15706,7 +15713,8 @@
     ],
     "chapter": "04",
     "id": "04-010",
-    "official-id": ""
+    "official-id": "",
+    "trickiness": "tricky"
   },
   {
     "number": "#11",
@@ -29501,7 +29509,8 @@
   {
     "number": "#34",
     "exams": [
-      "deva"
+      "deva",
+      "bucuresti"
     ],
     "text": "981: Firele rețelelor de transport al curentului electric (sau de orice altă natură) se observă în general mult mai greu dacă zburăm:",
     "short": "Firele liniilor electrice se observă mai greu când zbori deasupra lor, având ca fundal solul.",
@@ -29538,7 +29547,8 @@
     ],
     "chapter": "07",
     "id": "07-034",
-    "official-id": ""
+    "official-id": "",
+    "trickiness": "tricky"
   },
   {
     "number": "#35",
@@ -29796,7 +29806,8 @@
   {
     "number": "#41",
     "exams": [
-      "deva"
+      "deva",
+      "bucuresti"
     ],
     "text": "984: Activitatea de zbor se poate face dacă de la consumul de alcool au trecut minim:",
     "short": "Conform PAC-MED 2025, intervalul de bază între consumul de alcool și îndatoririle de zbor este de 8 ore, iar după cantitatea consumată se recomandă o abținere mai lungă.",
@@ -43219,5 +43230,600 @@
     "chapter": "09",
     "id": "09-105",
     "official-id": ""
+  },
+  {
+    "number": "#20",
+    "exams": [
+      "bucuresti"
+    ],
+    "text": "Care dintre următoarele evenimente, legate de funcționarea aeronavei care pot reprezenta un risc semnificativ pentru siguranța aviației trebuie raportate în mod obligatoriu autorităților competente?",
+    "short": "1, 2 și 3",
+    "long": "Este aceeași întrebare defectă pe care am întâlnit-o anterior. Lipsesc cele trei afirmații numerotate, deci nu ai cum să deduci răspunsul din ce afișează simulatorul.\n\nÎntrebarea originală nr. 20 din PDF-ul Aerodrom Barza conține următoarele afirmații:\n1. Evenimente legate de coliziuni.\n2. Evenimente legate de decolare și aterizare.\n3. Evenimente legate de combustibil.\n\nToate trei sunt categorii prevăzute la articolul 4 din Regulamentul (UE) nr. 376/2014.\n\nDeci bifează „1, 2 și 3” – varianta 3.\n\nSimulatorul a omis o parte esențială a întrebării.",
+    "answers": [
+      {
+        "text": "2 și 3",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: 1, 2 și 3.\n\nEste aceeași întrebare defectă pe care am întâlnit-o anterior. Lipsesc cele trei afirmații numerotate, deci nu ai cum să deduci răspunsul din ce afișează simulatorul.\n\nÎntrebarea originală nr. 20 din PDF-ul Aerodrom Barza conține următoarele afirmații:\n1. Evenimente legate de coliziuni.\n2. Evenimente legate de decolare și aterizare.\n3. Evenimente legate de combustibil.\n\nToate trei sunt categorii prevăzute la articolul 4 din Regulamentul (UE) nr. 376/2014.\n\nDeci bifează „1, 2 și 3” – varianta 3.\n\nSimulatorul a omis o parte esențială a întrebării.",
+        "warn": ""
+      },
+      {
+        "text": "1 și 3",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: 1, 2 și 3.\n\nEste aceeași întrebare defectă pe care am întâlnit-o anterior. Lipsesc cele trei afirmații numerotate, deci nu ai cum să deduci răspunsul din ce afișează simulatorul.\n\nÎntrebarea originală nr. 20 din PDF-ul Aerodrom Barza conține următoarele afirmații:\n1. Evenimente legate de coliziuni.\n2. Evenimente legate de decolare și aterizare.\n3. Evenimente legate de combustibil.\n\nToate trei sunt categorii prevăzute la articolul 4 din Regulamentul (UE) nr. 376/2014.\n\nDeci bifează „1, 2 și 3” – varianta 3.\n\nSimulatorul a omis o parte esențială a întrebării.",
+        "warn": ""
+      },
+      {
+        "text": "1, 2 și 3",
+        "correct": true,
+        "short": "",
+        "long": "Este aceeași întrebare defectă pe care am întâlnit-o anterior. Lipsesc cele trei afirmații numerotate, deci nu ai cum să deduci răspunsul din ce afișează simulatorul.\n\nÎntrebarea originală nr. 20 din PDF-ul Aerodrom Barza conține următoarele afirmații:\n1. Evenimente legate de coliziuni.\n2. Evenimente legate de decolare și aterizare.\n3. Evenimente legate de combustibil.\n\nToate trei sunt categorii prevăzute la articolul 4 din Regulamentul (UE) nr. 376/2014.\n\nDeci bifează „1, 2 și 3” – varianta 3.\n\nSimulatorul a omis o parte esențială a întrebării.",
+        "warn": ""
+      },
+      {
+        "text": "1 și 2",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: 1, 2 și 3.\n\nEste aceeași întrebare defectă pe care am întâlnit-o anterior. Lipsesc cele trei afirmații numerotate, deci nu ai cum să deduci răspunsul din ce afișează simulatorul.\n\nÎntrebarea originală nr. 20 din PDF-ul Aerodrom Barza conține următoarele afirmații:\n1. Evenimente legate de coliziuni.\n2. Evenimente legate de decolare și aterizare.\n3. Evenimente legate de combustibil.\n\nToate trei sunt categorii prevăzute la articolul 4 din Regulamentul (UE) nr. 376/2014.\n\nDeci bifează „1, 2 și 3” – varianta 3.\n\nSimulatorul a omis o parte esențială a întrebării.",
+        "warn": ""
+      }
+    ],
+    "chapter": "03",
+    "id": "03-122",
+    "official-id": "20"
+  },
+  {
+    "number": "#123",
+    "exams": [
+      "bucuresti"
+    ],
+    "text": "Ce înseamnă abrevierea aeronautică TMA?",
+    "short": "Regiune terminală de control",
+    "long": "TMA = Terminal Control Area – regiune terminală de control.\n\nEste un spațiu aerian controlat, stabilit de regulă în apropierea unuia sau mai multor aeroporturi, pentru gestionarea traficului aerian la sosire și plecare.\n\nDe memorat\n\n- TMA – Terminal Control Area: regiune terminală de control.\n- CTR – Control Zone: zonă de control, care începe de la sol.\n- ATZ – Aerodrome Traffic Zone: zonă de trafic de aerodrom.\n\nDiferența esențială: CTR începe de la sol, iar TMA are, de regulă, o limită inferioară situată la o anumită altitudine.",
+    "answers": [
+      {
+        "text": "Temperatura minimă pe aeroport (la emiterea METARului)",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Regiune terminală de control.\n\nTMA = Terminal Control Area – regiune terminală de control.\n\nEste un spațiu aerian controlat, stabilit de regulă în apropierea unuia sau mai multor aeroporturi, pentru gestionarea traficului aerian la sosire și plecare.\n\nDe memorat\n\n- TMA – Terminal Control Area: regiune terminală de control.\n- CTR – Control Zone: zonă de control, care începe de la sol.\n- ATZ – Aerodrome Traffic Zone: zonă de trafic de aerodrom.\n\nDiferența esențială: CTR începe de la sol, iar TMA are, de regulă, o limită inferioară situată la o anumită altitudine.",
+        "warn": ""
+      },
+      {
+        "text": "Înălțimea minimă de traversare a aeroportului",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Regiune terminală de control.\n\nTMA = Terminal Control Area – regiune terminală de control.\n\nEste un spațiu aerian controlat, stabilit de regulă în apropierea unuia sau mai multor aeroporturi, pentru gestionarea traficului aerian la sosire și plecare.\n\nDe memorat\n\n- TMA – Terminal Control Area: regiune terminală de control.\n- CTR – Control Zone: zonă de control, care începe de la sol.\n- ATZ – Aerodrome Traffic Zone: zonă de trafic de aerodrom.\n\nDiferența esențială: CTR începe de la sol, iar TMA are, de regulă, o limită inferioară situată la o anumită altitudine.",
+        "warn": ""
+      },
+      {
+        "text": "Traiectul mediu al aeronavei",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Regiune terminală de control.\n\nTMA = Terminal Control Area – regiune terminală de control.\n\nEste un spațiu aerian controlat, stabilit de regulă în apropierea unuia sau mai multor aeroporturi, pentru gestionarea traficului aerian la sosire și plecare.\n\nDe memorat\n\n- TMA – Terminal Control Area: regiune terminală de control.\n- CTR – Control Zone: zonă de control, care începe de la sol.\n- ATZ – Aerodrome Traffic Zone: zonă de trafic de aerodrom.\n\nDiferența esențială: CTR începe de la sol, iar TMA are, de regulă, o limită inferioară situată la o anumită altitudine.",
+        "warn": ""
+      },
+      {
+        "text": "Regiune terminală de control",
+        "correct": true,
+        "short": "",
+        "long": "TMA = Terminal Control Area – regiune terminală de control.\n\nEste un spațiu aerian controlat, stabilit de regulă în apropierea unuia sau mai multor aeroporturi, pentru gestionarea traficului aerian la sosire și plecare.\n\nDe memorat\n\n- TMA – Terminal Control Area: regiune terminală de control.\n- CTR – Control Zone: zonă de control, care începe de la sol.\n- ATZ – Aerodrome Traffic Zone: zonă de trafic de aerodrom.\n\nDiferența esențială: CTR începe de la sol, iar TMA are, de regulă, o limită inferioară situată la o anumită altitudine.",
+        "warn": ""
+      }
+    ],
+    "chapter": "03",
+    "id": "03-123",
+    "official-id": ""
+  },
+  {
+    "number": "#7",
+    "exams": [
+      "bucuresti"
+    ],
+    "text": "Documentele pe care operatorul unei aeronave ultraușoare motorizate omologate trebuie să le dețină pentru a putea zbura cu aceasta sunt:",
+    "short": "Certificatul de identificare și o autorizație de zbor în termen de valabilitate",
+    "long": "Conform RACR-CCO ULM 1205, în formularea folosită de chestionar, o aeronavă ultraușoară motorizată omologată trebuie să dețină:\n\n- Certificat de identificare (CI) – documentul de identificare al aeronavei.\n- Autorizație de zbor (AZ) – documentul care permite utilizarea aeronavei în condițiile autorizate.\n\nSursă menționată: aviatia-ultrausoara.ro\n\nAtenție: legislația a fost modificată!\n\nPrin Ordinul nr. 1139/2025, terminologia s-a schimbat. Reglementarea actualizată cere pentru aeronavele ULM omologate:\n\nCertificat de înmatriculare + autorizație de zbor.\n\nSursă menționată: Portal Legislativ\n\nDe memorat pentru examen: ULM omologat → document de identificare/înmatriculare + autorizație de zbor valabilă.\n\nVarianta 1 corespunde formulării vechi a legislației, pe care simulatorul încă o utilizează.",
+    "answers": [
+      {
+        "text": "Certificatul de identificare și o autorizație de zbor în termen de valabilitate",
+        "correct": true,
+        "short": "",
+        "long": "Conform RACR-CCO ULM 1205, în formularea folosită de chestionar, o aeronavă ultraușoară motorizată omologată trebuie să dețină:\n\n- Certificat de identificare (CI) – documentul de identificare al aeronavei.\n- Autorizație de zbor (AZ) – documentul care permite utilizarea aeronavei în condițiile autorizate.\n\nSursă menționată: aviatia-ultrausoara.ro\n\nAtenție: legislația a fost modificată!\n\nPrin Ordinul nr. 1139/2025, terminologia s-a schimbat. Reglementarea actualizată cere pentru aeronavele ULM omologate:\n\nCertificat de înmatriculare + autorizație de zbor.\n\nSursă menționată: Portal Legislativ\n\nDe memorat pentru examen: ULM omologat → document de identificare/înmatriculare + autorizație de zbor valabilă.\n\nVarianta 1 corespunde formulării vechi a legislației, pe care simulatorul încă o utilizează.",
+        "warn": ""
+      },
+      {
+        "text": "Certificatul de identificare și o anexă la certificatul de identificare în termen de valabilitate",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Certificatul de identificare și o autorizație de zbor în termen de valabilitate.\n\nConform RACR-CCO ULM 1205, în formularea folosită de chestionar, o aeronavă ultraușoară motorizată omologată trebuie să dețină:\n\n- Certificat de identificare (CI) – documentul de identificare al aeronavei.\n- Autorizație de zbor (AZ) – documentul care permite utilizarea aeronavei în condițiile autorizate.\n\nSursă menționată: aviatia-ultrausoara.ro\n\nAtenție: legislația a fost modificată!\n\nPrin Ordinul nr. 1139/2025, terminologia s-a schimbat. Reglementarea actualizată cere pentru aeronavele ULM omologate:\n\nCertificat de înmatriculare + autorizație de zbor.\n\nSursă menționată: Portal Legislativ\n\nDe memorat pentru examen: ULM omologat → document de identificare/înmatriculare + autorizație de zbor valabilă.\n\nVarianta 1 corespunde formulării vechi a legislației, pe care simulatorul încă o utilizează.",
+        "warn": ""
+      },
+      {
+        "text": "Autorizația de zbor în termen de valabilitate",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Certificatul de identificare și o autorizație de zbor în termen de valabilitate.\n\nConform RACR-CCO ULM 1205, în formularea folosită de chestionar, o aeronavă ultraușoară motorizată omologată trebuie să dețină:\n\n- Certificat de identificare (CI) – documentul de identificare al aeronavei.\n- Autorizație de zbor (AZ) – documentul care permite utilizarea aeronavei în condițiile autorizate.\n\nSursă menționată: aviatia-ultrausoara.ro\n\nAtenție: legislația a fost modificată!\n\nPrin Ordinul nr. 1139/2025, terminologia s-a schimbat. Reglementarea actualizată cere pentru aeronavele ULM omologate:\n\nCertificat de înmatriculare + autorizație de zbor.\n\nSursă menționată: Portal Legislativ\n\nDe memorat pentru examen: ULM omologat → document de identificare/înmatriculare + autorizație de zbor valabilă.\n\nVarianta 1 corespunde formulării vechi a legislației, pe care simulatorul încă o utilizează.",
+        "warn": ""
+      },
+      {
+        "text": "Autorizația de zbor sau o anexă la certificatul de identificare în termen de valabilitate",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Certificatul de identificare și o autorizație de zbor în termen de valabilitate.\n\nConform RACR-CCO ULM 1205, în formularea folosită de chestionar, o aeronavă ultraușoară motorizată omologată trebuie să dețină:\n\n- Certificat de identificare (CI) – documentul de identificare al aeronavei.\n- Autorizație de zbor (AZ) – documentul care permite utilizarea aeronavei în condițiile autorizate.\n\nSursă menționată: aviatia-ultrausoara.ro\n\nAtenție: legislația a fost modificată!\n\nPrin Ordinul nr. 1139/2025, terminologia s-a schimbat. Reglementarea actualizată cere pentru aeronavele ULM omologate:\n\nCertificat de înmatriculare + autorizație de zbor.\n\nSursă menționată: Portal Legislativ\n\nDe memorat pentru examen: ULM omologat → document de identificare/înmatriculare + autorizație de zbor valabilă.\n\nVarianta 1 corespunde formulării vechi a legislației, pe care simulatorul încă o utilizează.",
+        "warn": ""
+      }
+    ],
+    "chapter": "03",
+    "id": "03-124",
+    "official-id": "7"
+  },
+  {
+    "number": "#125",
+    "exams": [
+      "bucuresti"
+    ],
+    "text": "Autoritatea responsabilă de investigațiile privind siguranța aeronautică poate:",
+    "short": "Emite recomandări privind siguranța aeronautică pe baza unor studii sau a analizei unei serii de investigații ori a oricăror alte activități efectuate",
+    "long": "AIAS (Autoritatea de Investigații și Analiză pentru Siguranța Aviației Civile) poate emite recomandări de siguranță nu doar în urma investigării unui accident, ci și pe baza:\n\n- Studiilor privind siguranța aeronautică.\n- Analizei mai multor accidente sau incidente.\n- Altor activități de investigare și prevenire.\n\nAIAS este independentă în desfășurarea investigațiilor și nu emite recomandări pe baza directivelor AACR sau ale Aeroclubului României.\n\nDe memorat pentru examen: AIAS → investigații și studii → recomandări de siguranță, nu directive.\n\nBaza legală: Regulamentul (UE) nr. 996/2010, articolul 17.",
+    "answers": [
+      {
+        "text": "Emite recomandări privind siguranța aeronautică pe baza directivelor date de Autoritatea Aeronautică Civilă Română",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Emite recomandări privind siguranța aeronautică pe baza unor studii sau a analizei unei serii de investigații ori a oricăror alte activități efectuate.\n\nAIAS (Autoritatea de Investigații și Analiză pentru Siguranța Aviației Civile) poate emite recomandări de siguranță nu doar în urma investigării unui accident, ci și pe baza:\n\n- Studiilor privind siguranța aeronautică.\n- Analizei mai multor accidente sau incidente.\n- Altor activități de investigare și prevenire.\n\nAIAS este independentă în desfășurarea investigațiilor și nu emite recomandări pe baza directivelor AACR sau ale Aeroclubului României.\n\nDe memorat pentru examen: AIAS → investigații și studii → recomandări de siguranță, nu directive.\n\nBaza legală: Regulamentul (UE) nr. 996/2010, articolul 17.",
+        "warn": ""
+      },
+      {
+        "text": "Emite directive privind siguranța aeronautică pe baza unor presupuneri",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Emite recomandări privind siguranța aeronautică pe baza unor studii sau a analizei unei serii de investigații ori a oricăror alte activități efectuate.\n\nAIAS (Autoritatea de Investigații și Analiză pentru Siguranța Aviației Civile) poate emite recomandări de siguranță nu doar în urma investigării unui accident, ci și pe baza:\n\n- Studiilor privind siguranța aeronautică.\n- Analizei mai multor accidente sau incidente.\n- Altor activități de investigare și prevenire.\n\nAIAS este independentă în desfășurarea investigațiilor și nu emite recomandări pe baza directivelor AACR sau ale Aeroclubului României.\n\nDe memorat pentru examen: AIAS → investigații și studii → recomandări de siguranță, nu directive.\n\nBaza legală: Regulamentul (UE) nr. 996/2010, articolul 17.",
+        "warn": ""
+      },
+      {
+        "text": "Emite recomandări privind siguranța aeronautică pe baza directivelor date de Aeroclubul României",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Emite recomandări privind siguranța aeronautică pe baza unor studii sau a analizei unei serii de investigații ori a oricăror alte activități efectuate.\n\nAIAS (Autoritatea de Investigații și Analiză pentru Siguranța Aviației Civile) poate emite recomandări de siguranță nu doar în urma investigării unui accident, ci și pe baza:\n\n- Studiilor privind siguranța aeronautică.\n- Analizei mai multor accidente sau incidente.\n- Altor activități de investigare și prevenire.\n\nAIAS este independentă în desfășurarea investigațiilor și nu emite recomandări pe baza directivelor AACR sau ale Aeroclubului României.\n\nDe memorat pentru examen: AIAS → investigații și studii → recomandări de siguranță, nu directive.\n\nBaza legală: Regulamentul (UE) nr. 996/2010, articolul 17.",
+        "warn": ""
+      },
+      {
+        "text": "Emite recomandări privind siguranța aeronautică pe baza unor studii sau a analizei unei serii de investigații ori a oricăror alte activități efectuate",
+        "correct": true,
+        "short": "",
+        "long": "AIAS (Autoritatea de Investigații și Analiză pentru Siguranța Aviației Civile) poate emite recomandări de siguranță nu doar în urma investigării unui accident, ci și pe baza:\n\n- Studiilor privind siguranța aeronautică.\n- Analizei mai multor accidente sau incidente.\n- Altor activități de investigare și prevenire.\n\nAIAS este independentă în desfășurarea investigațiilor și nu emite recomandări pe baza directivelor AACR sau ale Aeroclubului României.\n\nDe memorat pentru examen: AIAS → investigații și studii → recomandări de siguranță, nu directive.\n\nBaza legală: Regulamentul (UE) nr. 996/2010, articolul 17.",
+        "warn": ""
+      }
+    ],
+    "chapter": "03",
+    "id": "03-125",
+    "official-id": "",
+    "trickiness": "tricky"
+  },
+  {
+    "number": "#126",
+    "exams": [
+      "bucuresti"
+    ],
+    "text": "Aeronavele care execută zboruri VFR nu vor decola sau ateriza pe un aerodrom situat într-o zonă de control de aerodrom, dacă plafonul norilor este mai mic de:",
+    "short": "450 metri",
+    "long": "Conform regulamentului european SERA.5005(b), pentru zborurile VFR pe un aerodrom situat într-o zonă de control (CTR), condițiile meteorologice minime sunt:\n\n- Plafonul norilor: minimum 450 m (1.500 ft).\n- Vizibilitatea la sol: minimum 5 km.\n\nSub aceste limite, decolarea sau aterizarea VFR obișnuită nu este permisă, cu excepția situațiilor în care se obține o autorizare VFR specială (SVFR), în condițiile legale aplicabile.\n\nDe memorat pentru examen: VFR în CTR → plafon 450 m + vizibilitate 5 km.",
+    "answers": [
+      {
+        "text": "350 metri",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: 450 metri.\n\nConform regulamentului european SERA.5005(b), pentru zborurile VFR pe un aerodrom situat într-o zonă de control (CTR), condițiile meteorologice minime sunt:\n\n- Plafonul norilor: minimum 450 m (1.500 ft).\n- Vizibilitatea la sol: minimum 5 km.\n\nSub aceste limite, decolarea sau aterizarea VFR obișnuită nu este permisă, cu excepția situațiilor în care se obține o autorizare VFR specială (SVFR), în condițiile legale aplicabile.\n\nDe memorat pentru examen: VFR în CTR → plafon 450 m + vizibilitate 5 km.",
+        "warn": ""
+      },
+      {
+        "text": "450 metri",
+        "correct": true,
+        "short": "",
+        "long": "Conform regulamentului european SERA.5005(b), pentru zborurile VFR pe un aerodrom situat într-o zonă de control (CTR), condițiile meteorologice minime sunt:\n\n- Plafonul norilor: minimum 450 m (1.500 ft).\n- Vizibilitatea la sol: minimum 5 km.\n\nSub aceste limite, decolarea sau aterizarea VFR obișnuită nu este permisă, cu excepția situațiilor în care se obține o autorizare VFR specială (SVFR), în condițiile legale aplicabile.\n\nDe memorat pentru examen: VFR în CTR → plafon 450 m + vizibilitate 5 km.",
+        "warn": ""
+      },
+      {
+        "text": "150 metri",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: 450 metri.\n\nConform regulamentului european SERA.5005(b), pentru zborurile VFR pe un aerodrom situat într-o zonă de control (CTR), condițiile meteorologice minime sunt:\n\n- Plafonul norilor: minimum 450 m (1.500 ft).\n- Vizibilitatea la sol: minimum 5 km.\n\nSub aceste limite, decolarea sau aterizarea VFR obișnuită nu este permisă, cu excepția situațiilor în care se obține o autorizare VFR specială (SVFR), în condițiile legale aplicabile.\n\nDe memorat pentru examen: VFR în CTR → plafon 450 m + vizibilitate 5 km.",
+        "warn": ""
+      },
+      {
+        "text": "250 metri",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: 450 metri.\n\nConform regulamentului european SERA.5005(b), pentru zborurile VFR pe un aerodrom situat într-o zonă de control (CTR), condițiile meteorologice minime sunt:\n\n- Plafonul norilor: minimum 450 m (1.500 ft).\n- Vizibilitatea la sol: minimum 5 km.\n\nSub aceste limite, decolarea sau aterizarea VFR obișnuită nu este permisă, cu excepția situațiilor în care se obține o autorizare VFR specială (SVFR), în condițiile legale aplicabile.\n\nDe memorat pentru examen: VFR în CTR → plafon 450 m + vizibilitate 5 km.",
+        "warn": ""
+      }
+    ],
+    "chapter": "03",
+    "id": "03-126",
+    "official-id": ""
+  },
+  {
+    "number": "#127",
+    "exams": [
+      "bucuresti"
+    ],
+    "text": "Care este actul normativ specific care reglementează domeniul aeronauticii civile cu aeronave ultraușoare din România?",
+    "short": "Ordinul ministrului transporturilor, construcțiilor și turismului OMTCT nr. 630 din 27.03.2007",
+    "long": "OMTCT nr. 630/2007 este actul normativ specific care a aprobat reglementările aeronautice civile române privind aeronavele ultraușoare.\n\nDe memorat: ULM → Ordinul 630/2007.\n\nOrdinul este încă în vigoare, în formă modificată și completată, inclusiv prin actualizările din 2026.",
+    "answers": [
+      {
+        "text": "Ordonanța Guvernului nr. 27/1997 privind Codul Aerian",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Ordinul ministrului transporturilor, construcțiilor și turismului OMTCT nr. 630 din 27.03.2007.\n\nOMTCT nr. 630/2007 este actul normativ specific care a aprobat reglementările aeronautice civile române privind aeronavele ultraușoare.\n\nDe memorat: ULM → Ordinul 630/2007.\n\nOrdinul este încă în vigoare, în formă modificată și completată, inclusiv prin actualizările din 2026.",
+        "warn": ""
+      },
+      {
+        "text": "Ordinul ministrului transporturilor, construcțiilor și turismului OMTCT nr. 630 din 27.03.2007",
+        "correct": true,
+        "short": "",
+        "long": "OMTCT nr. 630/2007 este actul normativ specific care a aprobat reglementările aeronautice civile române privind aeronavele ultraușoare.\n\nDe memorat: ULM → Ordinul 630/2007.\n\nOrdinul este încă în vigoare, în formă modificată și completată, inclusiv prin actualizările din 2026.",
+        "warn": ""
+      },
+      {
+        "text": "Ordinul ministrului transporturilor, construcțiilor și turismului OMTCT nr. 1044 din 10.12.2025",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Ordinul ministrului transporturilor, construcțiilor și turismului OMTCT nr. 630 din 27.03.2007.\n\nOMTCT nr. 630/2007 este actul normativ specific care a aprobat reglementările aeronautice civile române privind aeronavele ultraușoare.\n\nDe memorat: ULM → Ordinul 630/2007.\n\nOrdinul este încă în vigoare, în formă modificată și completată, inclusiv prin actualizările din 2026.",
+        "warn": ""
+      },
+      {
+        "text": "Hotărârea Guvernului nr. 912/2010 pentru aprobarea procedurii de autorizare a zborurilor în spațiul aerian național, precum și a condițiilor în care decolarea și aterizarea aeronavelor civile se pot efectua și de pe/pe alte terenuri sau suprafețe de apă decât aerodromurile certificate",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Ordinul ministrului transporturilor, construcțiilor și turismului OMTCT nr. 630 din 27.03.2007.\n\nOMTCT nr. 630/2007 este actul normativ specific care a aprobat reglementările aeronautice civile române privind aeronavele ultraușoare.\n\nDe memorat: ULM → Ordinul 630/2007.\n\nOrdinul este încă în vigoare, în formă modificată și completată, inclusiv prin actualizările din 2026.",
+        "warn": ""
+      }
+    ],
+    "chapter": "03",
+    "id": "03-127",
+    "official-id": ""
+  },
+  {
+    "number": "#124",
+    "exams": [
+      "bucuresti"
+    ],
+    "text": "Ce impresie se creează când faceți o apropiere pentru o pistă cu pantă în urcare (upslope/pragul la care se aterizează este la o cotă mai joasă ca pragul opus al pistei)?",
+    "short": "Că sunteți deasupra pantei optime de aterizare „overshoot”",
+    "long": "O pistă în pantă ascendentă (upslope) creează iluzia optică potrivit căreia aeronava se află mai sus decât este în realitate.\n\nPilotul are impresia că apropierea este prea înaltă.\n\nTinde să mărească rata de coborâre pentru a corecta.\n\nRiscul real este să ajungă sub panta optimă și să aterizeze înaintea pistei (undershoot).\n\nSursă menționată: faa.gov\n\nDe memorat pentru examen:\n\n- Pistă în urcare → iluzia că ești prea sus → risc de aterizare prea scurtă.\n- Pistă în coborâre → iluzia că ești prea jos → risc de aterizare prea lungă.",
+    "answers": [
+      {
+        "text": "Că aterizarea se va face în apropierea mijlocului pistei",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Că sunteți deasupra pantei optime de aterizare „overshoot”.\n\nO pistă în pantă ascendentă (upslope) creează iluzia optică potrivit căreia aeronava se află mai sus decât este în realitate.\n\nPilotul are impresia că apropierea este prea înaltă.\n\nTinde să mărească rata de coborâre pentru a corecta.\n\nRiscul real este să ajungă sub panta optimă și să aterizeze înaintea pistei (undershoot).\n\nSursă menționată: faa.gov\n\nDe memorat pentru examen:\n\n- Pistă în urcare → iluzia că ești prea sus → risc de aterizare prea scurtă.\n- Pistă în coborâre → iluzia că ești prea jos → risc de aterizare prea lungă.",
+        "warn": ""
+      },
+      {
+        "text": "Că va fi o aterizare dură",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Că sunteți deasupra pantei optime de aterizare „overshoot”.\n\nO pistă în pantă ascendentă (upslope) creează iluzia optică potrivit căreia aeronava se află mai sus decât este în realitate.\n\nPilotul are impresia că apropierea este prea înaltă.\n\nTinde să mărească rata de coborâre pentru a corecta.\n\nRiscul real este să ajungă sub panta optimă și să aterizeze înaintea pistei (undershoot).\n\nSursă menționată: faa.gov\n\nDe memorat pentru examen:\n\n- Pistă în urcare → iluzia că ești prea sus → risc de aterizare prea scurtă.\n- Pistă în coborâre → iluzia că ești prea jos → risc de aterizare prea lungă.",
+        "warn": ""
+      },
+      {
+        "text": "Că sunteți sub panta optimă de aterizare „undershoot”",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Că sunteți deasupra pantei optime de aterizare „overshoot”.\n\nO pistă în pantă ascendentă (upslope) creează iluzia optică potrivit căreia aeronava se află mai sus decât este în realitate.\n\nPilotul are impresia că apropierea este prea înaltă.\n\nTinde să mărească rata de coborâre pentru a corecta.\n\nRiscul real este să ajungă sub panta optimă și să aterizeze înaintea pistei (undershoot).\n\nSursă menționată: faa.gov\n\nDe memorat pentru examen:\n\n- Pistă în urcare → iluzia că ești prea sus → risc de aterizare prea scurtă.\n- Pistă în coborâre → iluzia că ești prea jos → risc de aterizare prea lungă.",
+        "warn": ""
+      },
+      {
+        "text": "Că sunteți deasupra pantei optime de aterizare „overshoot”",
+        "correct": true,
+        "short": "",
+        "long": "O pistă în pantă ascendentă (upslope) creează iluzia optică potrivit căreia aeronava se află mai sus decât este în realitate.\n\nPilotul are impresia că apropierea este prea înaltă.\n\nTinde să mărească rata de coborâre pentru a corecta.\n\nRiscul real este să ajungă sub panta optimă și să aterizeze înaintea pistei (undershoot).\n\nSursă menționată: faa.gov\n\nDe memorat pentru examen:\n\n- Pistă în urcare → iluzia că ești prea sus → risc de aterizare prea scurtă.\n- Pistă în coborâre → iluzia că ești prea jos → risc de aterizare prea lungă.",
+        "warn": "Explicatia primita descrie riscul de undershoot, desi optiunea marcata corecta spune overshoot; afirmatia pare contradictorie."
+      }
+    ],
+    "chapter": "07",
+    "id": "07-124",
+    "official-id": "",
+    "trickiness": "tricky"
+  },
+  {
+    "number": "#91",
+    "exams": [
+      "bucuresti"
+    ],
+    "text": "Aerul umed care curge pe versantul din vânt al unui munte produce precipitații. Același curent de aer, acum uscat, curge pe partea de sub vânt a versantului. Care este gradientul de temperatură pentru cele două situații în care se găsește aceeași masă de aer?",
+    "short": "Pe partea din vânt 1,5°C/1000 ft, iar pe partea de sub vânt 3°C/1000 ft",
+    "long": "- Versantul din vânt: aerul umed urcă, se răcește și condensează. Căldura latentă eliberată încetinește răcirea → aproximativ 1,5°C/1000 ft (gradient adiabatic umed).\n- Versantul de sub vânt: aerul devenit mai uscat coboară, se comprimă și se încălzește → aproximativ 3°C/1000 ft (gradient adiabatic uscat).\n\nAcesta este efectul Föhn: aerul care coboară pe versantul adăpostit de vânt devine mai cald și mai uscat.\n\nDe memorat: umed = 1,5°C/1000 ft; uscat = 3°C/1000 ft.",
+    "answers": [
+      {
+        "text": "Pe partea din vânt 1,5°C/1000 ft, iar pe partea de sub vânt 3°C/1000 ft",
+        "correct": true,
+        "short": "",
+        "long": "- Versantul din vânt: aerul umed urcă, se răcește și condensează. Căldura latentă eliberată încetinește răcirea → aproximativ 1,5°C/1000 ft (gradient adiabatic umed).\n- Versantul de sub vânt: aerul devenit mai uscat coboară, se comprimă și se încălzește → aproximativ 3°C/1000 ft (gradient adiabatic uscat).\n\nAcesta este efectul Föhn: aerul care coboară pe versantul adăpostit de vânt devine mai cald și mai uscat.\n\nDe memorat: umed = 1,5°C/1000 ft; uscat = 3°C/1000 ft.",
+        "warn": ""
+      },
+      {
+        "text": "Gradientul de temperatură este de 3°C/1000 ft pentru ambele situații",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Pe partea din vânt 1,5°C/1000 ft, iar pe partea de sub vânt 3°C/1000 ft.\n\n- Versantul din vânt: aerul umed urcă, se răcește și condensează. Căldura latentă eliberată încetinește răcirea → aproximativ 1,5°C/1000 ft (gradient adiabatic umed).\n- Versantul de sub vânt: aerul devenit mai uscat coboară, se comprimă și se încălzește → aproximativ 3°C/1000 ft (gradient adiabatic uscat).\n\nAcesta este efectul Föhn: aerul care coboară pe versantul adăpostit de vânt devine mai cald și mai uscat.\n\nDe memorat: umed = 1,5°C/1000 ft; uscat = 3°C/1000 ft.",
+        "warn": ""
+      },
+      {
+        "text": "Gradientul de temperatură este de 1,5°C/1000 ft pentru ambele situații",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Pe partea din vânt 1,5°C/1000 ft, iar pe partea de sub vânt 3°C/1000 ft.\n\n- Versantul din vânt: aerul umed urcă, se răcește și condensează. Căldura latentă eliberată încetinește răcirea → aproximativ 1,5°C/1000 ft (gradient adiabatic umed).\n- Versantul de sub vânt: aerul devenit mai uscat coboară, se comprimă și se încălzește → aproximativ 3°C/1000 ft (gradient adiabatic uscat).\n\nAcesta este efectul Föhn: aerul care coboară pe versantul adăpostit de vânt devine mai cald și mai uscat.\n\nDe memorat: umed = 1,5°C/1000 ft; uscat = 3°C/1000 ft.",
+        "warn": ""
+      },
+      {
+        "text": "Pe partea din vânt 3°C/1000 ft, iar pe partea de sub vânt 1,5°C/1000 ft",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Pe partea din vânt 1,5°C/1000 ft, iar pe partea de sub vânt 3°C/1000 ft.\n\n- Versantul din vânt: aerul umed urcă, se răcește și condensează. Căldura latentă eliberată încetinește răcirea → aproximativ 1,5°C/1000 ft (gradient adiabatic umed).\n- Versantul de sub vânt: aerul devenit mai uscat coboară, se comprimă și se încălzește → aproximativ 3°C/1000 ft (gradient adiabatic uscat).\n\nAcesta este efectul Föhn: aerul care coboară pe versantul adăpostit de vânt devine mai cald și mai uscat.\n\nDe memorat: umed = 1,5°C/1000 ft; uscat = 3°C/1000 ft.",
+        "warn": ""
+      }
+    ],
+    "chapter": "04",
+    "id": "04-091",
+    "official-id": "",
+    "trickiness": "tricky"
+  },
+  {
+    "number": "#92",
+    "exams": [
+      "bucuresti"
+    ],
+    "text": "Ce valoare are gradientul adiabatic uscat și gradientul termic vertical mediu?",
+    "short": "1°C/100 m și 0,65°C/100 m",
+    "long": "- Gradientul adiabatic uscat: aproximativ 1°C/100 m — aerul nesaturat se răcește cu circa 1°C la fiecare 100 m de urcare.\n- Gradientul termic vertical mediu: 0,65°C/100 m — scăderea medie a temperaturii în atmosfera standard (ISA).\n\nDe memorat pentru examen:\n\n- Aer uscat: 1°C/100 m.\n- Aer umed saturat: aproximativ 0,5°C/100 m.\n- Atmosfera standard: 0,65°C/100 m.",
+    "answers": [
+      {
+        "text": "0,5°C/100 m și 0,65°C/100 m",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: 1°C/100 m și 0,65°C/100 m.\n\n- Gradientul adiabatic uscat: aproximativ 1°C/100 m — aerul nesaturat se răcește cu circa 1°C la fiecare 100 m de urcare.\n- Gradientul termic vertical mediu: 0,65°C/100 m — scăderea medie a temperaturii în atmosfera standard (ISA).\n\nDe memorat pentru examen:\n\n- Aer uscat: 1°C/100 m.\n- Aer umed saturat: aproximativ 0,5°C/100 m.\n- Atmosfera standard: 0,65°C/100 m.",
+        "warn": ""
+      },
+      {
+        "text": "1°C/100 m și 0,65°C/100 m",
+        "correct": true,
+        "short": "",
+        "long": "- Gradientul adiabatic uscat: aproximativ 1°C/100 m — aerul nesaturat se răcește cu circa 1°C la fiecare 100 m de urcare.\n- Gradientul termic vertical mediu: 0,65°C/100 m — scăderea medie a temperaturii în atmosfera standard (ISA).\n\nDe memorat pentru examen:\n\n- Aer uscat: 1°C/100 m.\n- Aer umed saturat: aproximativ 0,5°C/100 m.\n- Atmosfera standard: 0,65°C/100 m.",
+        "warn": ""
+      },
+      {
+        "text": "0,65°C/100 m și 0,65°C/100 m",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: 1°C/100 m și 0,65°C/100 m.\n\n- Gradientul adiabatic uscat: aproximativ 1°C/100 m — aerul nesaturat se răcește cu circa 1°C la fiecare 100 m de urcare.\n- Gradientul termic vertical mediu: 0,65°C/100 m — scăderea medie a temperaturii în atmosfera standard (ISA).\n\nDe memorat pentru examen:\n\n- Aer uscat: 1°C/100 m.\n- Aer umed saturat: aproximativ 0,5°C/100 m.\n- Atmosfera standard: 0,65°C/100 m.",
+        "warn": ""
+      },
+      {
+        "text": "Au același gradient de temperatură de 1°C/100 m",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: 1°C/100 m și 0,65°C/100 m.\n\n- Gradientul adiabatic uscat: aproximativ 1°C/100 m — aerul nesaturat se răcește cu circa 1°C la fiecare 100 m de urcare.\n- Gradientul termic vertical mediu: 0,65°C/100 m — scăderea medie a temperaturii în atmosfera standard (ISA).\n\nDe memorat pentru examen:\n\n- Aer uscat: 1°C/100 m.\n- Aer umed saturat: aproximativ 0,5°C/100 m.\n- Atmosfera standard: 0,65°C/100 m.",
+        "warn": ""
+      }
+    ],
+    "chapter": "04",
+    "id": "04-092",
+    "official-id": "",
+    "trickiness": "tricky"
+  },
+  {
+    "number": "#93",
+    "exams": [
+      "bucuresti"
+    ],
+    "text": "Dacă temperatura unei mase de aer rămâne constantă, mărind presiunea:",
+    "short": "Densitatea crește",
+    "long": "Conform legii gazelor ideale, dacă temperatura rămâne constantă și presiunea crește, gazul este comprimat:\n\n- Volumul scade.\n- Densitatea crește.\n- Temperatura rămâne constantă.\n\nDe memorat: la temperatură constantă, presiunea și densitatea sunt direct proporționale.\n\nPresiune mai mare → densitate mai mare.",
+    "answers": [
+      {
+        "text": "Temperatura scade",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Densitatea crește.\n\nConform legii gazelor ideale, dacă temperatura rămâne constantă și presiunea crește, gazul este comprimat:\n\n- Volumul scade.\n- Densitatea crește.\n- Temperatura rămâne constantă.\n\nDe memorat: la temperatură constantă, presiunea și densitatea sunt direct proporționale.\n\nPresiune mai mare → densitate mai mare.",
+        "warn": ""
+      },
+      {
+        "text": "Densitatea crește",
+        "correct": true,
+        "short": "",
+        "long": "Conform legii gazelor ideale, dacă temperatura rămâne constantă și presiunea crește, gazul este comprimat:\n\n- Volumul scade.\n- Densitatea crește.\n- Temperatura rămâne constantă.\n\nDe memorat: la temperatură constantă, presiunea și densitatea sunt direct proporționale.\n\nPresiune mai mare → densitate mai mare.",
+        "warn": ""
+      },
+      {
+        "text": "Volumul crește",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Densitatea crește.\n\nConform legii gazelor ideale, dacă temperatura rămâne constantă și presiunea crește, gazul este comprimat:\n\n- Volumul scade.\n- Densitatea crește.\n- Temperatura rămâne constantă.\n\nDe memorat: la temperatură constantă, presiunea și densitatea sunt direct proporționale.\n\nPresiune mai mare → densitate mai mare.",
+        "warn": ""
+      },
+      {
+        "text": "Densitatea scade",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Densitatea crește.\n\nConform legii gazelor ideale, dacă temperatura rămâne constantă și presiunea crește, gazul este comprimat:\n\n- Volumul scade.\n- Densitatea crește.\n- Temperatura rămâne constantă.\n\nDe memorat: la temperatură constantă, presiunea și densitatea sunt direct proporționale.\n\nPresiune mai mare → densitate mai mare.",
+        "warn": ""
+      }
+    ],
+    "chapter": "04",
+    "id": "04-093",
+    "official-id": ""
+  },
+  {
+    "number": "#94",
+    "exams": [
+      "bucuresti"
+    ],
+    "text": "Cum se modifică punctul de rouă și umiditatea relativă la scăderea temperaturii?",
+    "short": "Punctul de rouă rămâne constant, umiditatea relativă crește",
+    "long": "Dacă temperatura aerului scade, iar cantitatea de vapori de apă rămâne constantă:\n\n- Punctul de rouă rămâne constant.\n- Umiditatea relativă crește, deoarece aerul rece poate menține mai puțini vapori de apă înainte de saturație.\n\nCând temperatura aerului ajunge la punctul de rouă, umiditatea relativă atinge 100%, iar condensarea poate începe.\n\nDe memorat: temperatură ↓ → umiditate relativă ↑ → punct de rouă constant (dacă nu se modifică presiunea și cantitatea vaporilor de apă).",
+    "answers": [
+      {
+        "text": "Punctul de rouă scade, umiditatea relativă crește",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Punctul de rouă rămâne constant, umiditatea relativă crește.\n\nDacă temperatura aerului scade, iar cantitatea de vapori de apă rămâne constantă:\n\n- Punctul de rouă rămâne constant.\n- Umiditatea relativă crește, deoarece aerul rece poate menține mai puțini vapori de apă înainte de saturație.\n\nCând temperatura aerului ajunge la punctul de rouă, umiditatea relativă atinge 100%, iar condensarea poate începe.\n\nDe memorat: temperatură ↓ → umiditate relativă ↑ → punct de rouă constant (dacă nu se modifică presiunea și cantitatea vaporilor de apă).",
+        "warn": ""
+      },
+      {
+        "text": "Punctul de rouă rămâne constant, umiditatea relativă crește",
+        "correct": true,
+        "short": "",
+        "long": "Dacă temperatura aerului scade, iar cantitatea de vapori de apă rămâne constantă:\n\n- Punctul de rouă rămâne constant.\n- Umiditatea relativă crește, deoarece aerul rece poate menține mai puțini vapori de apă înainte de saturație.\n\nCând temperatura aerului ajunge la punctul de rouă, umiditatea relativă atinge 100%, iar condensarea poate începe.\n\nDe memorat: temperatură ↓ → umiditate relativă ↑ → punct de rouă constant (dacă nu se modifică presiunea și cantitatea vaporilor de apă).",
+        "warn": ""
+      },
+      {
+        "text": "Punctul de rouă crește, umiditatea relativă scade",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Punctul de rouă rămâne constant, umiditatea relativă crește.\n\nDacă temperatura aerului scade, iar cantitatea de vapori de apă rămâne constantă:\n\n- Punctul de rouă rămâne constant.\n- Umiditatea relativă crește, deoarece aerul rece poate menține mai puțini vapori de apă înainte de saturație.\n\nCând temperatura aerului ajunge la punctul de rouă, umiditatea relativă atinge 100%, iar condensarea poate începe.\n\nDe memorat: temperatură ↓ → umiditate relativă ↑ → punct de rouă constant (dacă nu se modifică presiunea și cantitatea vaporilor de apă).",
+        "warn": ""
+      },
+      {
+        "text": "Punctul de rouă rămâne constant, umiditatea relativă scade",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Punctul de rouă rămâne constant, umiditatea relativă crește.\n\nDacă temperatura aerului scade, iar cantitatea de vapori de apă rămâne constantă:\n\n- Punctul de rouă rămâne constant.\n- Umiditatea relativă crește, deoarece aerul rece poate menține mai puțini vapori de apă înainte de saturație.\n\nCând temperatura aerului ajunge la punctul de rouă, umiditatea relativă atinge 100%, iar condensarea poate începe.\n\nDe memorat: temperatură ↓ → umiditate relativă ↑ → punct de rouă constant (dacă nu se modifică presiunea și cantitatea vaporilor de apă).",
+        "warn": ""
+      }
+    ],
+    "chapter": "04",
+    "id": "04-094",
+    "official-id": "",
+    "trickiness": "tricky"
+  },
+  {
+    "number": "#95",
+    "exams": [
+      "bucuresti"
+    ],
+    "text": "Un altimetru calat pe QNH va arăta:",
+    "short": "Înălțimea deasupra nivelului mediu al mării",
+    "long": "Un altimetru calat pe QNH indică altitudinea aeronavei față de nivelul mediu al mării (MSL).\n\nStrict tehnic, indică altitudinea barometrică, care poate diferi de altitudinea adevărată din cauza variațiilor de temperatură și presiune.\n\nDe memorat pentru examen:\n\n- QNH → altitudine față de nivelul mării (MSL).\n- QFE → înălțime față de aerodrom (aproximativ 0 la sol).\n- QNE (1013,25 hPa) → altitudine de presiune, utilizată pentru nivelurile de zbor (FL).",
+    "answers": [
+      {
+        "text": "Altitudinea adevărată deasupra nivelului mediu al mării",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Înălțimea deasupra nivelului mediu al mării.\n\nUn altimetru calat pe QNH indică altitudinea aeronavei față de nivelul mediu al mării (MSL).\n\nStrict tehnic, indică altitudinea barometrică, care poate diferi de altitudinea adevărată din cauza variațiilor de temperatură și presiune.\n\nDe memorat pentru examen:\n\n- QNH → altitudine față de nivelul mării (MSL).\n- QFE → înălțime față de aerodrom (aproximativ 0 la sol).\n- QNE (1013,25 hPa) → altitudine de presiune, utilizată pentru nivelurile de zbor (FL).",
+        "warn": ""
+      },
+      {
+        "text": "Înălțimea deasupra nivelului mediu al mării",
+        "correct": true,
+        "short": "",
+        "long": "Un altimetru calat pe QNH indică altitudinea aeronavei față de nivelul mediu al mării (MSL).\n\nStrict tehnic, indică altitudinea barometrică, care poate diferi de altitudinea adevărată din cauza variațiilor de temperatură și presiune.\n\nDe memorat pentru examen:\n\n- QNH → altitudine față de nivelul mării (MSL).\n- QFE → înălțime față de aerodrom (aproximativ 0 la sol).\n- QNE (1013,25 hPa) → altitudine de presiune, utilizată pentru nivelurile de zbor (FL).",
+        "warn": "Varianta indicata de grila este inaltimea deasupra MSL; tehnic, cu QNH altimetrul indica altitudinea barometrica fata de MSL."
+      },
+      {
+        "text": "Înălțimea deasupra presiunii standard 1013,25 hPa",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Înălțimea deasupra nivelului mediu al mării.\n\nUn altimetru calat pe QNH indică altitudinea aeronavei față de nivelul mediu al mării (MSL).\n\nStrict tehnic, indică altitudinea barometrică, care poate diferi de altitudinea adevărată din cauza variațiilor de temperatură și presiune.\n\nDe memorat pentru examen:\n\n- QNH → altitudine față de nivelul mării (MSL).\n- QFE → înălțime față de aerodrom (aproximativ 0 la sol).\n- QNE (1013,25 hPa) → altitudine de presiune, utilizată pentru nivelurile de zbor (FL).",
+        "warn": ""
+      },
+      {
+        "text": "Înălțimea deasupra nivelului mării",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Înălțimea deasupra nivelului mediu al mării.\n\nUn altimetru calat pe QNH indică altitudinea aeronavei față de nivelul mediu al mării (MSL).\n\nStrict tehnic, indică altitudinea barometrică, care poate diferi de altitudinea adevărată din cauza variațiilor de temperatură și presiune.\n\nDe memorat pentru examen:\n\n- QNH → altitudine față de nivelul mării (MSL).\n- QFE → înălțime față de aerodrom (aproximativ 0 la sol).\n- QNE (1013,25 hPa) → altitudine de presiune, utilizată pentru nivelurile de zbor (FL).",
+        "warn": ""
+      }
+    ],
+    "chapter": "04",
+    "id": "04-095",
+    "official-id": "",
+    "trickiness": "tricky"
+  },
+  {
+    "number": "#128",
+    "exams": [
+      "bucuresti"
+    ],
+    "text": "Aeronavele ultraușoare motorizate primare sunt planoarele motorizate, avioanele și elicopterele, care au viteza de sustentație măsurabilă sau viteza minimă de zbor stabilizat în configurație de aterizare ce nu depășește viteza de ____ km/h (CAS):",
+    "short": "83 km/h",
+    "long": "Conform Anexei nr. 1, punctul 1.4.1, la Ordinul nr. 630/2007, aeronavele ultraușoare motorizate primare (planoare motorizate, avioane și elicoptere) trebuie să aibă o viteză minimă de sustentație sau de zbor stabilizat în configurație de aterizare de maximum 83 km/h CAS.\n\nCAS = Calibrated Airspeed — viteza indicată corectată pentru erorile instrumentului și ale prizei de presiune.\n\nDe memorat: ULM primar → maximum 83 km/h CAS.",
+    "answers": [
+      {
+        "text": "83 km/h",
+        "correct": true,
+        "short": "",
+        "long": "Conform Anexei nr. 1, punctul 1.4.1, la Ordinul nr. 630/2007, aeronavele ultraușoare motorizate primare (planoare motorizate, avioane și elicoptere) trebuie să aibă o viteză minimă de sustentație sau de zbor stabilizat în configurație de aterizare de maximum 83 km/h CAS.\n\nCAS = Calibrated Airspeed — viteza indicată corectată pentru erorile instrumentului și ale prizei de presiune.\n\nDe memorat: ULM primar → maximum 83 km/h CAS.",
+        "warn": ""
+      },
+      {
+        "text": "65 km/h",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: 83 km/h.\n\nConform Anexei nr. 1, punctul 1.4.1, la Ordinul nr. 630/2007, aeronavele ultraușoare motorizate primare (planoare motorizate, avioane și elicoptere) trebuie să aibă o viteză minimă de sustentație sau de zbor stabilizat în configurație de aterizare de maximum 83 km/h CAS.\n\nCAS = Calibrated Airspeed — viteza indicată corectată pentru erorile instrumentului și ale prizei de presiune.\n\nDe memorat: ULM primar → maximum 83 km/h CAS.",
+        "warn": ""
+      },
+      {
+        "text": "62 km/h",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: 83 km/h.\n\nConform Anexei nr. 1, punctul 1.4.1, la Ordinul nr. 630/2007, aeronavele ultraușoare motorizate primare (planoare motorizate, avioane și elicoptere) trebuie să aibă o viteză minimă de sustentație sau de zbor stabilizat în configurație de aterizare de maximum 83 km/h CAS.\n\nCAS = Calibrated Airspeed — viteza indicată corectată pentru erorile instrumentului și ale prizei de presiune.\n\nDe memorat: ULM primar → maximum 83 km/h CAS.",
+        "warn": ""
+      },
+      {
+        "text": "72 km/h",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: 83 km/h.\n\nConform Anexei nr. 1, punctul 1.4.1, la Ordinul nr. 630/2007, aeronavele ultraușoare motorizate primare (planoare motorizate, avioane și elicoptere) trebuie să aibă o viteză minimă de sustentație sau de zbor stabilizat în configurație de aterizare de maximum 83 km/h CAS.\n\nCAS = Calibrated Airspeed — viteza indicată corectată pentru erorile instrumentului și ale prizei de presiune.\n\nDe memorat: ULM primar → maximum 83 km/h CAS.",
+        "warn": ""
+      }
+    ],
+    "chapter": "03",
+    "id": "03-128",
+    "official-id": ""
+  },
+  {
+    "number": "#96",
+    "exams": [
+      "bucuresti"
+    ],
+    "text": "Termenul de „plafon” este definit ca:",
+    "short": "Înălțimea bazei celui mai de jos strat de nori care acoperă mai mult de jumătate de cer sub 20.000 ft",
+    "long": "Plafonul norilor (ceiling) reprezintă înălțimea față de sol a bazei celui mai jos strat de nori care acoperă mai mult de jumătate din cer.\n\nÎn codurile METAR:\n\n- FEW: 1–2 optimi — nu constituie plafon.\n- SCT: 3–4 optimi — nu constituie plafon.\n- BKN: 5–7 optimi — constituie plafon.\n- OVC: 8 optimi — constituie plafon.\n\nDe memorat: plafon = înălțime față de sol + cel mai jos BKN sau OVC, sub 20.000 ft.",
+    "answers": [
+      {
+        "text": "Altitudinea bazei celui mai de jos strat de nori care acoperă mai mult de jumătate de cer sub 20.000 ft",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Înălțimea bazei celui mai de jos strat de nori care acoperă mai mult de jumătate de cer sub 20.000 ft.\n\nPlafonul norilor (ceiling) reprezintă înălțimea față de sol a bazei celui mai jos strat de nori care acoperă mai mult de jumătate din cer.\n\nÎn codurile METAR:\n\n- FEW: 1–2 optimi — nu constituie plafon.\n- SCT: 3–4 optimi — nu constituie plafon.\n- BKN: 5–7 optimi — constituie plafon.\n- OVC: 8 optimi — constituie plafon.\n\nDe memorat: plafon = înălțime față de sol + cel mai jos BKN sau OVC, sub 20.000 ft.",
+        "warn": ""
+      },
+      {
+        "text": "Înălțimea bazei celui mai de jos strat de nori care acoperă mai mult de jumătate de cer sub 1.000 ft",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Înălțimea bazei celui mai de jos strat de nori care acoperă mai mult de jumătate de cer sub 20.000 ft.\n\nPlafonul norilor (ceiling) reprezintă înălțimea față de sol a bazei celui mai jos strat de nori care acoperă mai mult de jumătate din cer.\n\nÎn codurile METAR:\n\n- FEW: 1–2 optimi — nu constituie plafon.\n- SCT: 3–4 optimi — nu constituie plafon.\n- BKN: 5–7 optimi — constituie plafon.\n- OVC: 8 optimi — constituie plafon.\n\nDe memorat: plafon = înălțime față de sol + cel mai jos BKN sau OVC, sub 20.000 ft.",
+        "warn": ""
+      },
+      {
+        "text": "Înălțimea bazei celui mai de jos strat de nori care acoperă mai mult de jumătate de cer sub 20.000 ft",
+        "correct": true,
+        "short": "",
+        "long": "Plafonul norilor (ceiling) reprezintă înălțimea față de sol a bazei celui mai jos strat de nori care acoperă mai mult de jumătate din cer.\n\nÎn codurile METAR:\n\n- FEW: 1–2 optimi — nu constituie plafon.\n- SCT: 3–4 optimi — nu constituie plafon.\n- BKN: 5–7 optimi — constituie plafon.\n- OVC: 8 optimi — constituie plafon.\n\nDe memorat: plafon = înălțime față de sol + cel mai jos BKN sau OVC, sub 20.000 ft.",
+        "warn": ""
+      },
+      {
+        "text": "Înălțimea bazei celui mai de sus strat de nori care acoperă mai mult de jumătate de cer sub 20.000 ft",
+        "correct": false,
+        "short": "",
+        "long": "Varianta nu este corecta pentru aceasta intrebare. Raspunsul corect este: Înălțimea bazei celui mai de jos strat de nori care acoperă mai mult de jumătate de cer sub 20.000 ft.\n\nPlafonul norilor (ceiling) reprezintă înălțimea față de sol a bazei celui mai jos strat de nori care acoperă mai mult de jumătate din cer.\n\nÎn codurile METAR:\n\n- FEW: 1–2 optimi — nu constituie plafon.\n- SCT: 3–4 optimi — nu constituie plafon.\n- BKN: 5–7 optimi — constituie plafon.\n- OVC: 8 optimi — constituie plafon.\n\nDe memorat: plafon = înălțime față de sol + cel mai jos BKN sau OVC, sub 20.000 ft.",
+        "warn": ""
+      }
+    ],
+    "chapter": "04",
+    "id": "04-096",
+    "official-id": "",
+    "trickiness": "tricky"
   }
 ]
