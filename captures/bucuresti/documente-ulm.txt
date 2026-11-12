@@ -1,0 +1,31 @@
+official-id:
+
+Documentele pe care operatorul unei aeronave ultraușoare motorizate omologate trebuie să le dețină pentru a putea zbura cu aceasta sunt:
+
+- Certificatul de identificare și o autorizație de zbor în termen de valabilitate
+- Certificatul de identificare și o anexă la certificatul de identificare în termen de valabilitate
+- Autorizația de zbor în termen de valabilitate
+- Autorizația de zbor sau o anexă la certificatul de identificare în termen de valabilitate
+
+Răspunsul corect pentru grilă este varianta 1: „Certificatul de identificare și o autorizație de zbor în termen de valabilitate.”
+
+Explicație
+
+Conform RACR-CCO ULM 1205, în formularea folosită de chestionar, o aeronavă ultraușoară motorizată omologată trebuie să dețină:
+
+- Certificat de identificare (CI) – documentul de identificare al aeronavei.
+- Autorizație de zbor (AZ) – documentul care permite utilizarea aeronavei în condițiile autorizate.
+
+Sursă menționată: aviatia-ultrausoara.ro
+
+Atenție: legislația a fost modificată!
+
+Prin Ordinul nr. 1139/2025, terminologia s-a schimbat. Reglementarea actualizată cere pentru aeronavele ULM omologate:
+
+Certificat de înmatriculare + autorizație de zbor.
+
+Sursă menționată: Portal Legislativ
+
+De memorat pentru examen: ULM omologat → document de identificare/înmatriculare + autorizație de zbor valabilă.
+
+Varianta 1 corespunde formulării vechi a legislației, pe care simulatorul încă o utilizează.
