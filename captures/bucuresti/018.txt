@@ -1,0 +1,18 @@
+official-id:
+
+Aeronavele ultraușoare motorizate primare sunt planoarele motorizate, avioanele și elicopterele, care au viteza de sustentație măsurabilă sau viteza minimă de zbor stabilizat în configurație de aterizare ce nu depășește viteza de ____ km/h (CAS):
+
+- 83 km/h
+- 65 km/h
+- 62 km/h
+- 72 km/h
+
+Răspunsul corect este varianta 1: 83 km/h (CAS).
+
+Explicație
+
+Conform Anexei nr. 1, punctul 1.4.1, la Ordinul nr. 630/2007, aeronavele ultraușoare motorizate primare (planoare motorizate, avioane și elicoptere) trebuie să aibă o viteză minimă de sustentație sau de zbor stabilizat în configurație de aterizare de maximum 83 km/h CAS.
+
+CAS = Calibrated Airspeed — viteza indicată corectată pentru erorile instrumentului și ale prizei de presiune.
+
+De memorat: ULM primar → maximum 83 km/h CAS.
