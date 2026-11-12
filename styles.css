@@ -612,7 +612,20 @@ details.answer-more[open] > summary::before {
 
 /* Stil inspirat din paramotorartisan.com: Rajdhani pentru titluri, DM Sans pentru text,
    albastru #004F7A ca accent, colțuri de 4 px. */
-.question { border-radius: 4px; border-bottom: none; box-shadow: 0 1px 3px rgba(26, 30, 30, 0.08); }
+.question { position: relative; border-radius: 4px; border-bottom: none; box-shadow: 0 1px 3px rgba(26, 30, 30, 0.08); }
+.question::before {
+  position: absolute;
+  top: 8px;
+  bottom: 8px;
+  left: 8px;
+  width: 4px;
+  border-radius: 999px;
+  background: #858d92;
+  content: "";
+  pointer-events: none;
+}
+.question.question-tricky::before { background: #ff8c00; }
+.question.question-super-tricky::before { background: #ff00ff; }
 .question-title { font-weight: 700; letter-spacing: 0.5px; }
 .doc-card, .doc-hero, .doc-item, .tile { border-radius: 4px; }
 
