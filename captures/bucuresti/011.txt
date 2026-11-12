@@ -1,0 +1,23 @@
+official-id:
+
+Ce valoare are gradientul adiabatic uscat și gradientul termic vertical mediu?
+
+- 0,5°C/100 m și 0,65°C/100 m
+- 1°C/100 m și 0,65°C/100 m
+- 0,65°C/100 m și 0,65°C/100 m
+- Au același gradient de temperatură de 1°C/100 m
+
+Răspunsul corect este varianta 2: „1°C/100 m și 0,65°C/100 m”.
+
+Explicație
+
+- Gradientul adiabatic uscat: aproximativ 1°C/100 m — aerul nesaturat se răcește cu circa 1°C la fiecare 100 m de urcare.
+- Gradientul termic vertical mediu: 0,65°C/100 m — scăderea medie a temperaturii în atmosfera standard (ISA).
+
+De memorat pentru examen:
+
+- Aer uscat: 1°C/100 m.
+- Aer umed saturat: aproximativ 0,5°C/100 m.
+- Atmosfera standard: 0,65°C/100 m.
+
+TRICKY
