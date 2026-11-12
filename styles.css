@@ -196,10 +196,11 @@ body.all-questions-mode .content { width: auto; }
 .scroll-navigation {
   position: fixed;
   z-index: 100;
-  right: max(4px, calc((100vw - 1280px) / 2 + 4px));
+  right: max(8px, calc((100vw - 1280px) / 2 + 8px));
   bottom: 16px;
   display: flex;
   flex-direction: column;
+<<<<<<< HEAD
   gap: 5px;
   padding: 5px;
   border: 1px solid rgba(255, 255, 255, 0.24);
@@ -208,13 +209,15 @@ body.all-questions-mode .content { width: auto; }
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.32), inset 0 1px 1px rgba(255, 255, 255, 0.25);
   -webkit-backdrop-filter: blur(22px) saturate(180%);
   backdrop-filter: blur(22px) saturate(180%);
+=======
+  gap: 8px;
+>>>>>>> parent of 12be374 (Polish floating scroll controls)
 }
 .scroll-navigation-button {
-  display: grid;
-  place-items: center;
-  width: 38px;
-  height: 38px;
+  width: 44px;
+  height: 44px;
   padding: 0;
+<<<<<<< HEAD
   border: 1px solid rgba(255, 255, 255, 0.13);
   border-radius: 13px;
   background: rgba(255, 255, 255, 0.075);
@@ -230,6 +233,18 @@ body.all-questions-mode .content { width: auto; }
 }
 .scroll-navigation-button:active { transform: scale(0.94); }
 .scroll-navigation-button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+=======
+  border: 1px solid rgba(101, 164, 230, 0.55);
+  border-radius: 50%;
+  background: rgba(22, 39, 55, 0.94);
+  color: var(--accent);
+  font: 700 1.65rem/1 var(--font-body);
+  cursor: pointer;
+  transition: background-color 160ms ease;
+}
+.scroll-navigation-button:hover { background: #243f58; }
+.scroll-navigation-button:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+>>>>>>> parent of 12be374 (Polish floating scroll controls)
 
 .load-status {
   max-width: 42rem;
