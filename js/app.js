@@ -913,6 +913,45 @@
   sidebar.addEventListener('click', function (e) { if (e.target.closest('a')) setMenu(false); });
   setMenu(false);
 
+  var desktopViewport = window.matchMedia('(min-width: 901px)');
+  var scrollTopButton = null;
+  function updateScrollTopButton() {
+    if (!scrollTopButton) return;
+    var content = document.getElementById('content');
+    var rect = content && content.getBoundingClientRect();
+    var left = rect ? Math.round(rect.right + 14) : window.innerWidth;
+    var fitsBesideContent = left + 48 <= window.innerWidth;
+    scrollTopButton.style.left = left + 'px';
+    var visible = window.scrollY > 350 && fitsBesideContent;
+    scrollTopButton.classList.toggle('is-visible', visible);
+    scrollTopButton.setAttribute('aria-hidden', String(!visible));
+    scrollTopButton.disabled = !visible;
+  }
+  function syncScrollTopButton() {
+    if (desktopViewport.matches && !scrollTopButton) {
+      scrollTopButton = el('button', 'scroll-top-button', '↑');
+      scrollTopButton.type = 'button';
+      scrollTopButton.setAttribute('aria-label', 'Derulează la începutul paginii');
+      scrollTopButton.title = 'Înapoi sus';
+      scrollTopButton.addEventListener('click', function () {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+      document.body.appendChild(scrollTopButton);
+      updateScrollTopButton();
+    } else if (!desktopViewport.matches && scrollTopButton) {
+      scrollTopButton.remove();
+      scrollTopButton = null;
+    }
+  }
+  syncScrollTopButton();
+  if (desktopViewport.addEventListener) desktopViewport.addEventListener('change', syncScrollTopButton);
+  else desktopViewport.addListener(syncScrollTopButton);
+  window.addEventListener('scroll', updateScrollTopButton, { passive: true });
+  window.addEventListener('resize', function () {
+    syncScrollTopButton();
+    updateScrollTopButton();
+  });
+
   window.addEventListener('hashchange', route);
   loadCatalog();
 })();
