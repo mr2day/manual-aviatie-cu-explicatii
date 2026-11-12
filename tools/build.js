@@ -53,6 +53,7 @@ const html = `<!DOCTYPE html>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Manual de pregătire – paramotor</title>
+  <link rel="icon" type="image/svg+xml" href="img/favicon.svg?v=${version}">
   <link rel="stylesheet" href="styles.css?v=${version}">
 </head>
 <body>
