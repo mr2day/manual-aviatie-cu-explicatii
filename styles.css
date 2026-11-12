@@ -864,85 +864,118 @@ details.question-more .more-body {
 }
 
 .official-back-link {
- display: inline-flex;
- align-items: center;
- margin: 0 0 1rem;
- color: var(--accent);
- font-size: 0.95rem;
- font-weight: 700;
+ display: inline-block;
+ margin: 0 0 1.25rem;
+ color: var(--muted, #9aa5a8);
+ font-size: 0.82rem;
+ font-weight: 600;
  text-decoration: none;
 }
-.official-back-link:hover,
-.official-pdf-link:hover { text-decoration: underline; }
+.official-back-link:hover { color: var(--heading); }
 .official-doc-title {
- margin: 0 0 0.5rem;
+ margin: 0 0 0.7rem;
  color: var(--official-accent, #38c98a);
- font-size: clamp(1.8rem, 4vw, 2.6rem);
- line-height: 1.1;
+ font: 700 clamp(2rem, 4vw, 3rem)/1.05 var(--font-head);
+ letter-spacing: 0.015em;
+ text-wrap: balance;
 }
 .official-doc-meta {
  display: flex;
  flex-wrap: wrap;
- gap: 0.55rem 1rem;
- margin: 0 0 0.65rem;
+ gap: 0.5rem;
+ margin: 0 0 0.9rem;
  color: var(--text);
  font-size: 0.9rem;
 }
 .official-pdf-link {
- display: inline-block;
- margin: 0 0 1.5rem;
- color: var(--accent);
- font-size: 0.9rem;
+ display: inline-flex;
+ align-items: center;
+ gap: 0.4rem;
+ margin: 0 0 1.6rem;
+ padding: 0.55rem 0.85rem;
+ border: 1px solid var(--border);
+ border-radius: 10px;
+ background: rgba(255, 255, 255, 0.035);
+ color: var(--text);
+ font-size: 0.8rem;
  font-weight: 700;
  text-decoration: none;
+ transition: border-color 140ms ease, color 140ms ease, background 140ms ease;
+}
+.official-pdf-link:hover {
+ border-color: var(--official-accent, #38c98a);
+ background: color-mix(in srgb, var(--official-accent, #38c98a) 9%, transparent);
+ color: var(--official-accent, #38c98a);
 }
 .official-document {
  --official-accent: #38c98a;
  color: var(--text);
- max-width: 78ch;
- padding: 0.25rem 0 3rem;
+ max-width: 84ch;
+ padding: 1.2rem 0 4rem;
+ border-top: 1px solid var(--border);
+ font-size: 1rem;
 }
 .official-document h2,
 .official-document h3 {
- color: var(--official-accent);
- line-height: 1.25;
+ color: var(--heading);
+ font-family: var(--font-head);
+ line-height: 1.2;
+ text-wrap: pretty;
 }
 .official-document h2 {
- margin: 2.2rem 0 0.7rem;
- padding-bottom: 0.35rem;
- border-bottom: 1px solid color-mix(in srgb, var(--official-accent) 35%, var(--border));
- font-size: clamp(1.25rem, 2.5vw, 1.65rem);
+ margin: 2.6rem 0 0.85rem;
+ padding: 0 0 0.55rem 0.8rem;
+ border-bottom: 1px solid var(--border);
+ border-left: 3px solid var(--official-accent);
+ font-size: clamp(1.45rem, 2.5vw, 1.9rem);
+ font-weight: 700;
 }
 .official-document h3 {
- margin: 1rem 0 0.45rem;
+ margin: 1.8rem 0 0.6rem;
+ color: var(--official-accent);
+ font-family: var(--font-body);
  font-size: 1.08rem;
+ font-weight: 700;
 }
 .official-document p {
- margin: 0.35rem 0;
- line-height: 1.7;
+ margin: 0.55rem 0;
+ color: var(--text);
+ font-size: 0.97rem;
+ line-height: 1.78;
  overflow-wrap: anywhere;
 }
 .official-document .official-list {
- padding-left: 1.3rem;
+ padding-left: 1rem;
 }
 .official-document .official-toc {
  display: block;
- width: fit-content;
+ width: 100%;
  max-width: 100%;
- margin: 0.25rem 0;
- padding: 0.1rem 0.35rem;
- border-left: 2px solid color-mix(in srgb, var(--official-accent) 45%, transparent);
- color: var(--text);
- line-height: 1.5;
+ margin: 0;
+ padding: 0.6rem 0.75rem;
+ border-bottom: 1px solid rgba(255, 255, 255, 0.055);
+ border-left: 2px solid transparent;
+ border-radius: 0 7px 7px 0;
+ color: var(--muted, #b7c0c2);
+ font-size: 0.9rem;
+ line-height: 1.45;
  text-decoration: none;
+ transition: color 130ms ease, background 130ms ease, border-color 130ms ease;
 }
 .official-document .official-toc:hover {
  border-left-color: var(--official-accent);
+ background: color-mix(in srgb, var(--official-accent) 7%, transparent);
  color: var(--official-accent);
- text-decoration: underline;
 }
-.official-document strong { color: var(--heading); font-weight: 800; }
+.official-document strong { color: var(--heading); font-weight: 700; }
 .official-document em { font-style: italic; }
+
+@media (max-width: 700px) {
+ .official-doc-title { font-size: 2rem; }
+ .official-document { padding-top: 0.8rem; }
+ .official-document h2 { margin-top: 2rem; }
+ .official-document p { font-size: 0.94rem; line-height: 1.7; }
+}
 
 .doc-body h2 {
  font-size: 1.2rem;
