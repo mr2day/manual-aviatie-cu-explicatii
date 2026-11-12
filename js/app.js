@@ -858,6 +858,11 @@
         element = el('p', 'question-short document-paragraph');
         var link = el('a', 'document-link', record.text);
         link.href = '#' + target;
+        link.addEventListener('click', function (event) {
+          event.preventDefault();
+          var destinationElement = document.getElementById(target);
+          if (destinationElement) destinationElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
         element.appendChild(link);
       } else {
         element = el('p', 'question-short document-paragraph', record.text);
