@@ -10,6 +10,7 @@
   var lastChapterId = '01';
   var activeExam = 'toate';
   var activeSearchRefresh = null;
+  var questionRenderVersion = 0;
   var searchQuery = '';
   var searchExpanded = false;
   var searchIndexPromise = null;
@@ -488,7 +489,7 @@
         document.querySelectorAll('#content .question').forEach(function (section) { section.classList.remove('search-hit'); });
         globalTarget.classList.add('search-hit');
         globalTarget.scrollIntoView({ block: 'start', behavior: 'smooth' });
-      }
+      } else pendingSearchResult = result;
       return;
     }
     if (result.chapterId === activeChapterId) {
@@ -652,6 +653,7 @@
 
 
   function renderChapter(c, restoreScrollY) {
+    var renderVersion = ++questionRenderVersion;
     activeChapterId = c.id;
     var main = document.getElementById('content');
     main.textContent = '';
@@ -660,10 +662,11 @@
     main.appendChild(buildExamFilter());
     var searchBar = buildSearchBar();
     main.appendChild(searchBar);
+    initSearch(searchBar, c.questions);
     var sections = [];
     var sectionsByIndex = {};
 
-    c.questions.forEach(function (q, index) {
+    function renderQuestion(q, index) {
       if (!questionBelongsToExam(q, activeExam)) return;
       var section = el('section', 'question');
       if (q.trickiness === 'super_tricky') section.classList.add('question-super-tricky');
@@ -761,23 +764,49 @@
       sections.push(section);
       sectionsByIndex[index] = section;
       main.appendChild(section);
-    });
-    initSearch(searchBar, c.questions);
-    var targetAfterRender = null;
-    if (pendingSearchResult && pendingSearchResult.chapterId === c.id) {
-      var pending = pendingSearchResult;
-      pendingSearchResult = null;
-      targetAfterRender = sectionsByIndex[pending.index];
-      if (targetAfterRender) targetAfterRender.classList.add('search-hit');
     }
-    window.scrollTo(0, typeof restoreScrollY === 'number' ? restoreScrollY : 0);
-    if (targetAfterRender) {
-      requestAnimationFrame(function () {
-        setStickyTop();
-        document.documentElement.style.setProperty('--q-search-h', searchBar.offsetHeight + 'px');
-        targetAfterRender.scrollIntoView({ block: 'start', behavior: 'smooth' });
-      });
+
+    function finishRender() {
+      if (renderVersion !== questionRenderVersion) return;
+      var targetAfterRender = null;
+      if (c.allMode && pendingSearchResult) {
+        targetAfterRender = document.querySelector('#content .question[data-question-id="' + pendingSearchResult.id + '"]');
+        if (targetAfterRender) pendingSearchResult = null;
+      }
+      if (pendingSearchResult && pendingSearchResult.chapterId === c.id) {
+        var pending = pendingSearchResult;
+        pendingSearchResult = null;
+        targetAfterRender = sectionsByIndex[pending.index];
+        if (targetAfterRender) targetAfterRender.classList.add('search-hit');
+      }
+      window.scrollTo(0, typeof restoreScrollY === 'number' ? restoreScrollY : 0);
+      if (targetAfterRender) {
+        requestAnimationFrame(function () {
+          setStickyTop();
+          document.documentElement.style.setProperty('--q-search-h', searchBar.offsetHeight + 'px');
+          targetAfterRender.scrollIntoView({ block: 'start', behavior: 'smooth' });
+        });
+      }
     }
+
+    if (!c.allMode) {
+      c.questions.forEach(renderQuestion);
+      finishRender();
+      return;
+    }
+
+    var cursor = 0;
+    function renderBatch() {
+      if (renderVersion !== questionRenderVersion) return;
+      var limit = Math.min(cursor + 30, c.questions.length);
+      while (cursor < limit) {
+        renderQuestion(c.questions[cursor], cursor);
+        cursor++;
+      }
+      if (cursor < c.questions.length) requestAnimationFrame(renderBatch);
+      else finishRender();
+    }
+    renderBatch();
   }
 
   // Documentele se afișează în zona principală, ca orice conținut. Fiecare document este
