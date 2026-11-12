@@ -1,0 +1,23 @@
+official-id:
+
+Cum se modifică punctul de rouă și umiditatea relativă la scăderea temperaturii?
+
+- Punctul de rouă scade, umiditatea relativă crește
+- Punctul de rouă rămâne constant, umiditatea relativă crește
+- Punctul de rouă crește, umiditatea relativă scade
+- Punctul de rouă rămâne constant, umiditatea relativă scade
+
+Răspunsul corect este varianta 2: „Punctul de rouă rămâne constant, umiditatea relativă crește.”
+
+Explicație
+
+Dacă temperatura aerului scade, iar cantitatea de vapori de apă rămâne constantă:
+
+- Punctul de rouă rămâne constant.
+- Umiditatea relativă crește, deoarece aerul rece poate menține mai puțini vapori de apă înainte de saturație.
+
+Când temperatura aerului ajunge la punctul de rouă, umiditatea relativă atinge 100%, iar condensarea poate începe.
+
+De memorat: temperatură ↓ → umiditate relativă ↑ → punct de rouă constant (dacă nu se modifică presiunea și cantitatea vaporilor de apă).
+
+TRICKY
