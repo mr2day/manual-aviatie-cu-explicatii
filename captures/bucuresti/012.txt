@@ -1,0 +1,22 @@
+official-id:
+
+Dacă temperatura unei mase de aer rămâne constantă, mărind presiunea:
+
+- Temperatura scade
+- Densitatea crește
+- Volumul crește
+- Densitatea scade
+
+Răspunsul corect este varianta 2: „Densitatea crește.”
+
+Explicație
+
+Conform legii gazelor ideale, dacă temperatura rămâne constantă și presiunea crește, gazul este comprimat:
+
+- Volumul scade.
+- Densitatea crește.
+- Temperatura rămâne constantă.
+
+De memorat: la temperatură constantă, presiunea și densitatea sunt direct proporționale.
+
+Presiune mai mare → densitate mai mare.
