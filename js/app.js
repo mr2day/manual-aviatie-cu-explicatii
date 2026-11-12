@@ -396,8 +396,8 @@
     switcher.setAttribute('role', 'group');
     switcher.setAttribute('aria-label', 'Mod de afișare');
     [
-      { id: 'chapters', label: 'Pe capitole', hash: '#' + (lastChapterId || '01') },
-      { id: 'all', label: 'Toate întrebările', hash: '#all' }
+      { id: 'all', label: 'Toate întrebările', hash: '#all' },
+      { id: 'chapters', label: 'Pe capitole', hash: '#' + (lastChapterId || '01') }
     ].forEach(function (choice) {
       var button = el('button', 'question-view-button', choice.label);
       button.type = 'button';
