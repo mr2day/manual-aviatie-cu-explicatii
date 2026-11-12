@@ -869,7 +869,6 @@
     main.appendChild(title);
     var meta = el('div', 'official-doc-meta');
     meta.appendChild(el('span', null, 'Material oficial · Aeroclubul României'));
-    meta.appendChild(el('span', null, doc.pages_total + ' pagini'));
     main.appendChild(meta);
     var source = el('a', 'official-pdf-link', 'Deschide PDF-ul original ↗');
     source.href = doc.source;
@@ -879,23 +878,19 @@
 
     var article = el('article', 'official-document');
     article.style.setProperty('--official-accent', doc.accent || '#38c98a');
-    (doc.pages || []).forEach(function (page) {
-      var pageSection = el('section', 'official-page');
-      pageSection.appendChild(el('span', 'official-page-number', 'Pagina ' + page.number));
-      (page.blocks || []).forEach(function (block) {
-        var tag = block.type === 'title' || block.type === 'heading' ? 'h2' : block.type === 'subheading' ? 'h3' : block.type === 'list' ? 'ul' : 'p';
-        var className = block.type === 'list' ? 'official-list' : 'official-' + (block.type || 'paragraph');
-        var element = el(tag, className);
-        if (block.type === 'list') {
-          var item = el('li');
-          appendOfficialRuns(item, block.runs, block.text);
-          element.appendChild(item);
-        } else {
-          appendOfficialRuns(element, block.runs, block.text);
-        }
-        pageSection.appendChild(element);
-      });
-      article.appendChild(pageSection);
+    (doc.blocks || []).forEach(function (block) {
+      var tag = block.type === 'title' || block.type === 'heading' ? 'h2' : block.type === 'subheading' ? 'h3' : 'p';
+      var className = 'official-' + (block.type || 'paragraph');
+      var element;
+      if (block.type === 'toc' && block.href) {
+        element = el('a', className, block.text);
+        element.href = block.href;
+      } else {
+        element = el(tag, className);
+        appendOfficialRuns(element, block.runs, block.text);
+      }
+      if (block.anchor) element.id = block.anchor;
+      article.appendChild(element);
     });
     main.appendChild(article);
     window.scrollTo(0, 0);
@@ -913,7 +908,7 @@
       if (!response.ok) throw new Error('Document HTTP ' + response.status);
       return response.json();
     }).then(function (doc) {
-      if (doc.id !== slug || !Array.isArray(doc.pages)) throw new Error('Document oficial invalid.');
+      if (doc.id !== slug || !Array.isArray(doc.blocks)) throw new Error('Document oficial invalid.');
       officialDocCache[slug] = doc;
       if (requestVersion === routeVersion) renderOfficialDoc(doc);
     }).catch(function (error) {
