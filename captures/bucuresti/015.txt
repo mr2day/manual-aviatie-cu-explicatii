@@ -1,0 +1,24 @@
+official-id:
+
+Un altimetru calat pe QNH va arăta:
+
+- Altitudinea adevărată deasupra nivelului mediu al mării
+- Înălțimea deasupra nivelului mediu al mării
+- Înălțimea deasupra presiunii standard 1013,25 hPa
+- Înălțimea deasupra nivelului mării
+
+Răspunsul corect este varianta 1: „Altitudinea adevărată deasupra nivelului mediu al mării.”
+
+Explicație
+
+Un altimetru calat pe QNH indică altitudinea aeronavei față de nivelul mediu al mării (MSL).
+
+Strict tehnic, indică altitudinea barometrică, care poate diferi de altitudinea adevărată din cauza variațiilor de temperatură și presiune.
+
+De memorat pentru examen:
+
+- QNH → altitudine față de nivelul mării (MSL).
+- QFE → înălțime față de aerodrom (aproximativ 0 la sol).
+- QNE (1013,25 hPa) → altitudine de presiune, utilizată pentru nivelurile de zbor (FL).
+
+TRICKY
