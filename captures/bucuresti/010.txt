@@ -1,0 +1,21 @@
+official-id:
+
+Aerul umed care curge pe versantul din vânt al unui munte produce precipitații. Același curent de aer, acum uscat, curge pe partea de sub vânt a versantului. Care este gradientul de temperatură pentru cele două situații în care se găsește aceeași masă de aer?
+
+- Pe partea din vânt 1,5°C/1000 ft, iar pe partea de sub vânt 3°C/1000 ft
+- Gradientul de temperatură este de 3°C/1000 ft pentru ambele situații
+- Gradientul de temperatură este de 1,5°C/1000 ft pentru ambele situații
+- Pe partea din vânt 3°C/1000 ft, iar pe partea de sub vânt 1,5°C/1000 ft
+
+Răspunsul corect este varianta 1: „Pe partea din vânt 1,5°C/1000 ft, iar pe partea de sub vânt 3°C/1000 ft.”
+
+Explicație
+
+- Versantul din vânt: aerul umed urcă, se răcește și condensează. Căldura latentă eliberată încetinește răcirea → aproximativ 1,5°C/1000 ft (gradient adiabatic umed).
+- Versantul de sub vânt: aerul devenit mai uscat coboară, se comprimă și se încălzește → aproximativ 3°C/1000 ft (gradient adiabatic uscat).
+
+Acesta este efectul Föhn: aerul care coboară pe versantul adăpostit de vânt devine mai cald și mai uscat.
+
+De memorat: umed = 1,5°C/1000 ft; uscat = 3°C/1000 ft.
+
+TRICKY
