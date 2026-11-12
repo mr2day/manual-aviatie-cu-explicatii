@@ -1,0 +1,19 @@
+official-id:
+
+Aeronavele care execută zboruri VFR nu vor decola sau ateriza pe un aerodrom situat într-o zonă de control de aerodrom, dacă plafonul norilor este mai mic de:
+
+- 250 metri
+- 350 metri
+- 150 metri
+- 450 metri
+
+Răspunsul corect este varianta 4: 450 metri (1.500 ft).
+
+Explicație
+
+Conform SERA.5005(b), aeronavele care execută zboruri VFR nu pot decola sau ateriza pe un aerodrom situat într-o zonă de control (CTR), fără o autorizare VFR specială, dacă:
+
+- Plafonul norilor este sub 450 m (1.500 ft).
+- Vizibilitatea la sol este sub 5 km.
+
+De memorat: VFR în CTR → plafon 450 m + vizibilitate 5 km.
