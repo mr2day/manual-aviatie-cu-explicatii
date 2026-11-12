@@ -7,7 +7,7 @@ Un altimetru calat pe QNH va arăta:
 - Înălțimea deasupra presiunii standard 1013,25 hPa
 - Înălțimea deasupra nivelului mării
 
-Răspunsul corect este varianta 1: „Altitudinea adevărată deasupra nivelului mediu al mării.”
+Răspunsul corect este varianta 2: „Înălțimea deasupra nivelului mediu al mării.”
 
 Explicație
 
