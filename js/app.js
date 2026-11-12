@@ -354,7 +354,6 @@
     var filter = el('div', 'exam-switcher');
     filter.setAttribute('role', 'group');
     filter.setAttribute('aria-label', 'Filtreaz\u0103 \u00eentreb\u0103rile');
-    filter.appendChild(el('span', 'exam-switcher-label', 'Afi\u0219eaz\u0103'));
     var choices = [
       { id: 'toate', label: 'Toate' },
       { id: 'deva', label: 'Deva' },
