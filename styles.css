@@ -196,7 +196,7 @@ body.all-questions-mode .content { width: auto; }
 .scroll-navigation {
   position: fixed;
   z-index: 100;
-  right: 16px;
+  right: 64px;
   bottom: 16px;
   display: flex;
   flex-direction: column;
