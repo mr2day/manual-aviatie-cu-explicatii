@@ -196,26 +196,40 @@ body.all-questions-mode .content { width: auto; }
 .scroll-navigation {
   position: fixed;
   z-index: 100;
-  right: max(8px, calc((100vw - 1280px) / 2 + 8px));
+  right: max(4px, calc((100vw - 1280px) / 2 + 4px));
   bottom: 16px;
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 3px;
+  padding: 4px;
+  border: 1px solid rgba(142, 169, 188, 0.24);
+  border-radius: 16px;
+  background: rgba(19, 31, 40, 0.88);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.28);
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
 }
 .scroll-navigation-button {
-  width: 44px;
-  height: 44px;
+  display: grid;
+  place-items: center;
+  width: 38px;
+  height: 38px;
   padding: 0;
-  border: 1px solid rgba(101, 164, 230, 0.55);
-  border-radius: 50%;
-  background: rgba(22, 39, 55, 0.94);
-  color: var(--accent);
-  font: 700 1.65rem/1 var(--font-body);
+  border: 1px solid transparent;
+  border-radius: 11px;
+  background: transparent;
+  color: #c5d8e8;
+  font: 600 1.4rem/1 var(--font-body);
   cursor: pointer;
-  transition: background-color 160ms ease;
+  transition: background-color 150ms ease, color 150ms ease, transform 150ms ease;
 }
-.scroll-navigation-button:hover { background: #243f58; }
-.scroll-navigation-button:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.scroll-navigation-button:hover {
+  border-color: rgba(101, 164, 230, 0.3);
+  background: rgba(101, 164, 230, 0.16);
+  color: #ffffff;
+}
+.scroll-navigation-button:active { transform: scale(0.94); }
+.scroll-navigation-button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
 .load-status {
   max-width: 42rem;
