@@ -617,7 +617,7 @@ details.answer-more[open] > summary::before {
   position: absolute;
   top: 8px;
   bottom: 8px;
-  left: 8px;
+  left: 0;
   width: 4px;
   border-radius: 999px;
   background: #858d92;
